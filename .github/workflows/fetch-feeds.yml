@@ -1,0 +1,27 @@
+name: Fetch Bird Feeds
+
+on:
+  schedule:
+    - cron: '0 */1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch feeds and save feeds.json
+        run: python3 fetch_feeds.py
+
+      - name: Commit and push feeds.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feeds.json
+          git diff --staged --quiet || git commit -m "chore: update feeds $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
