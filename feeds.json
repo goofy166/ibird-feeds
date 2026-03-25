@@ -1,8 +1,41 @@
 {
-  "updated": "2026-03-25T20:50:34Z",
-  "updated_utc": "2026-03-25T20:50:34Z",
-  "count": 186,
+  "updated": "2026-03-25T21:49:58Z",
+  "updated_utc": "2026-03-25T21:49:58Z",
+  "count": 189,
   "stories": [
+    {
+      "title": "A Fatal Crash in the Backcountry Forces Closure of a Huge Northern California Wilderness Area",
+      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/northern-california-plane-crash-wilderness-closure/",
+      "summary": "Rescuers used an Apple Crash Detection alert to find a fatal plane crash site in Northern California, leading to a several-week closure of a large wilderness area. The post A Fatal",
+      "date": "2026-03-25T21:43:49Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/response.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-03-25T21:49:49Z"
+    },
+    {
+      "title": "RNA-guided CRISPR system activates gene expression",
+      "link": "https://phys.org/news/2026-03-rna-crispr-gene.html",
+      "summary": "In back-to-back studies published in Nature, researchers from Purdue University and Columbia University report a naturally evolved gene-editing system that can activate genes, offe",
+      "date": "2026-03-25T21:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rna-guided-crispr-syst-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-25T21:49:54Z"
+    },
+    {
+      "title": "Is nectar naturally spiked? What widespread low-level ethanol could mean for pollinators",
+      "link": "https://phys.org/news/2026-03-nectar-naturally-spiked-widespread-ethanol.html",
+      "summary": "As bees and hummingbirds flit from flower to flower, greedily sipping nectar in exchange for pollination, the animals often get another treat: alcohol. In the first broad analysis ",
+      "date": "2026-03-25T21:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/birds-do-it-bees-do-it.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-03-25T21:49:54Z"
+    },
     {
       "title": "Spending Time Outdoors is Great. Experiencing Awe is Even Better.",
       "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/spending-time-outdoors-is-great-experiencing-awe-is-even-better/",
