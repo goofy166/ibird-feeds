@@ -1,17 +1,16 @@
-#!/usr/bin/env python3
+python#!/usr/bin/env python3
 """
-Fetches birding RSS feeds via rss2json and saves them as feeds.json.
+Fetches birding RSS feeds directly (no rss2json) and saves them as feeds.json.
 Runs as a GitHub Action every hour — the HTML page reads feeds.json
-from raw.githubusercontent.com instead of hitting rss2json directly.
+from raw.githubusercontent.com.
 """
 
 import json
 import re
 import time
-import urllib.parse
+import random
 import urllib.request
-
-RSS2JSON = "https://api.rss2json.com/v1/api.json?rss_url="
+import xml.etree.ElementTree as ET
 
 FEEDS = [
     {"url": "https://www.birdwatchingdaily.com/feed/", "name": "BirdWatching Daily", "color": 0},
@@ -28,45 +27,67 @@ def strip_html(html):
     return re.sub(r"\s+", " ", html).strip()
 
 
-def extract_image(html):
-    """Pull first jpg/png/webp src from any <img> tag."""
-    m = re.search(r'<img[^>]+src=["\']([^"\']+\.(?:jpg|jpeg|png|webp|gif))[^"\']*["\']', html, re.I)
-    return m.group(1) if m else None
+def extract_image(text):
+    m = re.search(r'<img[^>]+src=["\']([^"\']+\.(?:jpg|jpeg|png|webp|gif))[^"\']*["\']', text, re.I)
+    if m:
+        return m.group(1)
+    m = re.search(r'https?://[^\s"\'<>]+\.(?:jpg|jpeg|png|webp|gif)', text, re.I)
+    return m.group(0) if m else None
 
 
 def fetch_feed(feed):
-    url = RSS2JSON + urllib.parse.quote(feed["url"])
-    req = urllib.request.Request(url, headers={"User-Agent": "ibird-feeds/1.0"})
-    with urllib.request.urlopen(req, timeout=15) as r:
-        data = json.loads(r.read())
+    req = urllib.request.Request(
+        feed["url"],
+        headers={"User-Agent": "Mozilla/5.0 (compatible; ibird-feeds/2.0)"}
+    )
+    with urllib.request.urlopen(req, timeout=20) as r:
+        raw = r.read().decode("utf-8", errors="replace")
 
-    if data.get("status") != "ok" or not data.get("items"):
-        raise ValueError(f"Bad status: {data.get('status')} / {data.get('message')}")
+    root = ET.fromstring(raw)
+    items = root.findall(".//item") or root.findall(".//{http://www.w3.org/2005/Atom}entry")
 
-    # Pick a random story from the top 5
-    import random
-    pool = data["items"][:5]
+    if not items:
+        raise ValueError("No items found in feed")
+
+    pool = items[:5]
     item = random.choice(pool)
 
-    raw_content = item.get("content") or ""
-    raw_desc    = item.get("description") or ""
-    body_html   = raw_content if len(raw_content) > len(raw_desc) else raw_desc
+    def get_text(*tags):
+        for tag in tags:
+            child = item.find(tag)
+            if child is not None and child.text:
+                return child.text.strip()
+            for prefix in ["{http://purl.org/dc/elements/1.1/}", "{http://www.w3.org/2005/Atom}"]:
+                child = item.find(prefix + tag)
+                if child is not None and child.text:
+                    return child.text.strip()
+        return ""
 
-    enclosure_url = (item.get("enclosure") or {}).get("link", "")
-    image = (
-        item.get("thumbnail")
-        or (enclosure_url if re.search(r"\.(jpg|jpeg|png|webp|gif)", enclosure_url, re.I) else None)
-        or extract_image(raw_content)
-        or extract_image(raw_desc)
-    )
+    title    = get_text("title")
+    link_el  = item.find("link")
+    link     = get_text("link") or (link_el.get("href","") if link_el is not None else "")
+    pub_date = get_text("pubDate", "published", "updated")
+    content  = get_text("{http://purl.org/rss/1.0/modules/content/}encoded", "description", "summary", "content")
+
+    image = extract_image(content)
+    if not image:
+        media = item.find("{http://search.yahoo.com/mrss/}thumbnail")
+        if media is not None:
+            image = media.get("url", "")
+    if not image:
+        enclosure = item.find("enclosure")
+        if enclosure is not None:
+            enc_url = enclosure.get("url", "")
+            if re.search(r"\.(jpg|jpeg|png|webp|gif)", enc_url, re.I):
+                image = enc_url
 
     return {
         "name":    feed["name"],
         "color":   feed["color"],
-        "title":   (item.get("title") or "").strip() or "Untitled",
-        "summary": strip_html(body_html)[:180],
-        "link":    item.get("link") or "#",
-        "date":    item.get("pubDate") or "",
+        "title":   title or "Untitled",
+        "summary": strip_html(content)[:180],
+        "link":    link or "#",
+        "date":    pub_date,
         "image":   image or "",
     }
 
@@ -80,7 +101,7 @@ def main():
             print(f"  ✓ {feed['name']}: {story['title'][:60]}")
         except Exception as e:
             print(f"  ✗ {feed['name']}: {e}")
-        time.sleep(1)   # be polite between requests
+        time.sleep(1)
 
     output = {
         "updated_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
