@@ -1,6 +1,1247 @@
 {
-  "updated_utc": "2026-03-24T23:25:02Z",
+  "updated": "2026-03-25T16:15:28Z",
+  "count": 158,
   "stories": [
+    {
+      "title": "The Best Bird Song Apps in the U.S. (2026): A Complete Guide",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/best-bird-song-apps/",
+      "summary": "Birdwatching in the United States has never been more engaging, not just for spotting stunning feathered wildlife, but for hearing and identifying the incredible variety … Read Mor",
+      "pubDate": "Thu, 05 Mar 2026 07:43:32 +0000",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/03/Singing-2.jpg",
+      "source": "BirdWatching Daily"
+    },
+    {
+      "title": "Best Bird Feeders with Camera for Bird Lovers and Backyard Birding",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/best-bird-feeders-with-camera/",
+      "summary": "Here’s a comprehensive US-focused guide to the best bird feeder with a built-in camera — perfect for bird lovers who want to watch, record, and … Read More \"Best Bird Feeders with ",
+      "pubDate": "Thu, 05 Mar 2026 07:35:01 +0000",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/03/SOLIOM-BF09-Bird-Feeder-with-Camera.webp",
+      "source": "BirdWatching Daily"
+    },
+    {
+      "title": "You’re Probably Calling This Bird the Wrong Name",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/youre-probably-calling-this-bird-the-wrong-name/",
+      "summary": "One of the most surprising things new birdwatchers discover is how often common birds are misnamed. Even people who have watched birds casually for years … Read More \"You’re Probab",
+      "pubDate": "Sun, 08 Feb 2026 12:19:08 +0000",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/02/two-starlings-scaled.jpg",
+      "source": "BirdWatching Daily"
+    },
+    {
+      "title": "It’s Not Magic: How Birds Really Know When the Feeder Is Full",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/how-do-birds-find-bird-feeders/",
+      "summary": "You top up the bird feeder, step back inside… and within minutes birds seem to appear out of nowhere. It can feel almost magical as … Read More \"It’s Not Magic: How Birds Really Kn",
+      "pubDate": "Mon, 02 Feb 2026 07:07:45 +0000",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/02/how-do-birds-find-bird-feeders-photo-5-scaled.jpg",
+      "source": "BirdWatching Daily"
+    },
+    {
+      "title": "10 Birds That Look Fake But Are Actually Real",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/10-birds-that-look-fake-but-are-actually-real/",
+      "summary": "At first glance, these birds do not look real. Their colors feel too bright. Their patterns look artificial. Some seem more like toys, cartoons, or … Read More \"10 Birds That Look ",
+      "pubDate": "Sat, 03 Jan 2026 18:44:44 +0000",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/01/pexels-james-frid-81279-2569232-scaled.jpg",
+      "source": "BirdWatching Daily"
+    },
+    {
+      "title": "Why Birds Suddenly Go Silent at Certain Times of Day",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/why-birds-suddenly-go-silent-at-certain-times-of-day/",
+      "summary": "You step outside expecting birdsong and instead, there’s nothing. No chirping. No calls. No background chorus. It can feel eerie, even worrying. But when birds … Read More \"Why Bir",
+      "pubDate": "Fri, 02 Jan 2026 16:52:05 +0000",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/01/pexels-jimmykphotos-28491655-scaled.jpg",
+      "source": "BirdWatching Daily"
+    },
+    {
+      "title": "12 Winter Moments Every Birdwatcher Should Look For",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/12-winter-moments-every-birdwatcher-should-look-for/",
+      "summary": "The countryside feels hushed, colors soften, and days are short, but winter strips nature back to its essentials. Leaves fall, cover thins, and suddenly birds … Read More \"12 Winte",
+      "pubDate": "Wed, 17 Dec 2025 08:48:59 +0000",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/12/12-Winter-Moments-Every-Birdwatcher-Should-Look-For.jpg",
+      "source": "BirdWatching Daily"
+    },
+    {
+      "title": "Why Some Birds Choose to Stay North in Winter",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/why-some-birds-choose-to-stay-north-in-winter/",
+      "summary": "Migration is often portrayed as the heroic default, a grand seasonal pilgrimage that sweeps birds thousands of miles south to warmth and abundance. But for … Read More \"Why Some Bi",
+      "pubDate": "Wed, 10 Dec 2025 08:22:42 +0000",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/12/Why-Some-Birds-Choose-to-Stay-North-in-Winter.jpg",
+      "source": "BirdWatching Daily"
+    },
+    {
+      "title": "How Birds Keep Their Feet From Freezing",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/how-birds-keep-their-feet-from-freezing/",
+      "summary": "Watching a gull stand calmly on ice or a duck paddle through water that would numb a human in minutes is one of winter’s most … Read More \"How Birds Keep Their Feet From Freezing\"",
+      "pubDate": "Tue, 09 Dec 2025 10:58:34 +0000",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/12/How-Birds-Keep-Their-Feet-From-Freezing.jpg",
+      "source": "BirdWatching Daily"
+    },
+    {
+      "title": "Ask a Birder: What is the attraction of raptors?",
+      "link": "https://www.10000birds.com/ask-a-birder-what-is-the-attraction-of-raptors.htm?utm_source=rss&utm_medium=rss&utm_campaign=ask-a-birder-what-is-the-attraction-of-raptors",
+      "summary": "Now, we would obviously never admit it in public, but some of the questions answered in this series were made up by the writers. Shocking, I know. Then again, we sometimes have que",
+      "pubDate": "Wed, 25 Mar 2026 11:00:00 +0000",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/02/Pied-Harrier_DSC3308_Nanhui-Sep-2019.jpg",
+      "source": "10,000 Birds"
+    },
+    {
+      "title": "Rudong, Jiangsu, China – Profile for Birders",
+      "link": "https://www.10000birds.com/rudong-jiangsu-china-profile-for-birders.htm?utm_source=rss&utm_medium=rss&utm_campaign=rudong-jiangsu-china-profile-for-birders",
+      "summary": "Highlights Rudong is a coastal county in Nantong, Jiangsu, China. It has vast intertidal mudflats which support a large portion of the migratory waterbirds in the East Asian-Austra",
+      "pubDate": "Wed, 25 Mar 2026 03:34:04 +0000",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/03/image-11.jpg",
+      "source": "10,000 Birds"
+    },
+    {
+      "title": "Bird Guides of the World: Hugo Santa Cruz, Bolivia",
+      "link": "https://www.10000birds.com/bird-guides-of-the-world-hugo-santa-cruz-bolivia.htm?utm_source=rss&utm_medium=rss&utm_campaign=bird-guides-of-the-world-hugo-santa-cruz-bolivia",
+      "summary": "What is your favorite bird species? I love falcons, Forest Falcons in general, and love the migration of the Peregrine. Bat Falcon What is your name, and where do you live? Hugo Sa",
+      "pubDate": "Tue, 24 Mar 2026 11:00:00 +0000",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/02/17097910_10154948736121063_3274859833970594989_o.jpg",
+      "source": "10,000 Birds"
+    },
+    {
+      "title": "Birding Lodges of the World: Sarinbuana Eco Lodge, Bali, Indonesia",
+      "link": "https://www.10000birds.com/birding-lodges-of-the-world-sarinbuana-eco-lodge-bali-indonesia.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-lodges-of-the-world-sarinbuana-eco-lodge-bali-indonesia",
+      "summary": "Which bird species do you think is the biggest attraction to visitors of your lodge (please only name one species)? White Crowned Forktail Orange-headed Thrush What is the name of ",
+      "pubDate": "Mon, 23 Mar 2026 11:00:00 +0000",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/01/Jungle-Bungalow.jpg",
+      "source": "10,000 Birds"
+    },
+    {
+      "title": "Birding Laojunshan, Yunnan",
+      "link": "https://www.10000birds.com/birding-laojunshan-yunnan.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-laojunshan-yunnan",
+      "summary": "Laojunshan is a mountainous region in the northwest part of Yunnan with an elevation from 2,100 to 4,500 meters. It is a biodiversity hotspot and one of the few regions where the v",
+      "pubDate": "Mon, 23 Mar 2026 11:00:00 +0000",
+      "image": "https://www.10000birds.com/wp-content/uploads/2025/11/White-speckled-Laughingthrush_DSC7853-Enhanced-NR_Laojunshan-Oct-24-2025.jpg",
+      "source": "10,000 Birds"
+    },
+    {
+      "title": "Tierra Del Fuego, Argentina – Profile for Birders",
+      "link": "https://www.10000birds.com/tierra-del-fuego-argentina-profile-for-birders.htm?utm_source=rss&utm_medium=rss&utm_campaign=tierra-del-fuego-argentina-profile-for-birders",
+      "summary": "HIGHLIGHTS After visiting several countries beyond my place of residence, Tierra del Fuego —where I have lived since 1991— remains my favorite destination. From RIO GRANDE, an icon",
+      "pubDate": "Sun, 22 Mar 2026 21:16:04 +0000",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/03/823185626_d307ccf015_o.jpg",
+      "source": "10,000 Birds"
+    },
+    {
+      "title": "Three Photos: Broad Appeal",
+      "link": "https://www.10000birds.com/three-photos-broad-appeal.htm?utm_source=rss&utm_medium=rss&utm_campaign=three-photos-broad-appeal",
+      "summary": "Banded Broadbill, Java, Oct 2024 Black-and-red Broadbill, Sepilok, Jul 2023 Black-and-yellow Broadbill, Sepilok, Jul 2023 Long-tailed Broadbill, Dilinh, Vietnam, Mar 2024 Silver-br",
+      "pubDate": "Sun, 22 Mar 2026 11:00:00 +0000",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/02/Banded-Broadbill_DSC9313_Pronojiwo-area-Java-Oct-31-2024-1.jpg",
+      "source": "10,000 Birds"
+    },
+    {
+      "title": "Potting Mix vs Garden Soil: What’s the Difference?",
+      "link": "https://www.birdsandblooms.com/gardening/gardening-basics/potting-mix-vs-garden-soil/",
+      "summary": "Wondering if you can use garden soil in containers? Here's why potting mixes are a better choice, and what to look for in a good blend. The post Potting Mix vs Garden Soil: What’s ",
+      "pubDate": "Tue, 24 Mar 2026 19:00:28 +0000",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/GettyImages-1470319528-e1774378556305.jpg?fit=700,700",
+      "source": "Birds & Blooms"
+    },
+    {
+      "title": "Campfire Marshmallow Bidens Won’t Melt in Summer Gardens",
+      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/campfire-marshmallow-bidens-flower/",
+      "summary": "Campfire Marshmallow, a sweet, long-blooming bidens flower, keeps blooming for months, no matter how fiery the (summertime) heat climbs. The post Campfire Marshmallow Bidens Won’t ",
+      "pubDate": "Tue, 24 Mar 2026 15:27:00 +0000",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/PW_bidens_campfire_marshmallow_tag-1-e1774285186264.jpg?fit=700,700",
+      "source": "Birds & Blooms"
+    },
+    {
+      "title": "Attract Fruit-Eating Birds With Fresh-Picked Treats",
+      "link": "https://www.birdsandblooms.com/birding/attracting-birds/feeding-birds/fruit-eating-birds/",
+      "summary": "Attract a flock of fruit-eating fruit-eating birds to your backyard with a tasty medley of berries, oranges and more. The post Attract Fruit-Eating Birds With Fresh-Picked Treats a",
+      "pubDate": "Tue, 24 Mar 2026 14:42:32 +0000",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/10_Pam-Garcia_02_BBXspring26-e1774361671281.jpg?fit=700,700",
+      "source": "Birds & Blooms"
+    },
+    {
+      "title": "Etiquette Tips to Garden Like a Good Neighbor",
+      "link": "https://www.birdsandblooms.com/gardening/gardening-basics/garden-etiquette-tips/",
+      "summary": "Keep your yards in harmony with these garden etiquette tips. Plus, here's what you should do if your neighbor's plants cross the line. The post Etiquette Tips to Garden Like a Good",
+      "pubDate": "Mon, 23 Mar 2026 20:46:00 +0000",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/BNBbyc17_beverly-laratonda-1-e1774298591563.jpg?fit=700,700",
+      "source": "Birds & Blooms"
+    },
+    {
+      "title": "This Is Why Your Birdhouse Needs a Predator Guard",
+      "link": "https://www.birdsandblooms.com/birding/attracting-birds/bird-nesting/birdhouse-predator-guard/",
+      "summary": "Keep birds and their eggs safe! Here's why a predator guard is a great option for deterring unwanted visitors to backyard birdhouses. The post This Is Why Your Birdhouse Needs a Pr",
+      "pubDate": "Fri, 20 Mar 2026 18:41:28 +0000",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2025/08/308868674_1_Nancy_Knewstep_BNB_PC_2022-scaled.jpg?fit=700,1024",
+      "source": "Birds & Blooms"
+    },
+    {
+      "title": "How to Identify a White-Eyed Vireo",
+      "link": "https://www.birdsandblooms.com/birding/bird-species/songbirds/white-eyed-vireo-identification/",
+      "summary": "What's that bird singing constantly in the understory? It could be a white-eyed vireo! Learn where to find these talkative, colorful birds. The post How to Identify a White-Eyed Vi",
+      "pubDate": "Wed, 18 Mar 2026 18:38:03 +0000",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/BNBbyc19_shannon-hobson-1-e1773858470514.jpg?fit=700,700",
+      "source": "Birds & Blooms"
+    },
+    {
+      "title": "Top 10 Orange Flowering Shrubs for Bright Garden Color",
+      "link": "https://www.birdsandblooms.com/gardening/top-10-lists-for-gardeners/orange-flowering-shrubs/",
+      "summary": "Add sparks — and bring in pollinators — to your garden beds this spring and summer with orange flowering shrubs! The post Top 10 Orange Flowering Shrubs for Bright Garden Color app",
+      "pubDate": "Wed, 18 Mar 2026 17:21:16 +0000",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/rest_3_2_3205-e1773844325628.jpeg?fit=700,700",
+      "source": "Birds & Blooms"
+    },
+    {
+      "title": "11 Tried-and-True Hummingbird Plants to Grow",
+      "link": "https://www.birdsandblooms.com/gardening/plants-and-flowers-to-attract-hummingbirds/hummingbird-plants/",
+      "summary": "Want more hummingbirds? Grow these plants! Birds & Blooms readers share the blooming plants hummingbirds love most in their yards. The post 11 Tried-and-True Hummingbird Plants to ",
+      "pubDate": "Tue, 17 Mar 2026 19:41:21 +0000",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/301575717_1_Andrew_Lincoln_BNB_HPC_2022.jpg?fit=700,1024",
+      "source": "Birds & Blooms"
+    },
+    {
+      "title": "Don’t Overlook the Very Pretty Veery Bird",
+      "link": "https://www.birdsandblooms.com/birding/bird-species/songbirds/veery-bird/",
+      "summary": "Learn what a veery bird looks like and where you can find one. Also find out what this thrush's song sounds like and what the bird eats. The post Don’t Overlook the Very Pretty Vee",
+      "pubDate": "Tue, 17 Mar 2026 15:03:42 +0000",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/GettyImages-178418547-e1773757618641.jpg?fit=700,702",
+      "source": "Birds & Blooms"
+    },
+    {
+      "title": "A Cattle Farm in Alabama Draws Birders for a Spectacle of Kites",
+      "link": "https://www.allaboutbirds.org/news/joe-cattle-farm-alabama-birders-kites/",
+      "summary": "The Joe family farm practices a land ethic that has brought in the birds, and now a burgeoning side business that is bringing in birders to the Black Belt of Alabama.",
+      "pubDate": "Mon, 23 Mar 2026 21:03:30 +0000",
+      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/03/spring2026_fe.jpg",
+      "source": "All About Birds"
+    },
+    {
+      "title": "Warblers in New Hampshire’s Forests Have Found an Ideal Way to Divvy Up Territories",
+      "link": "https://www.allaboutbirds.org/news/warblers-hubbard-brook-ideal-free-territory/",
+      "summary": "New research out of the Hubbard Brook Experimental Forest shows that migratory songbirds use their songs to equally allocate breeding territories amongst themselves.",
+      "pubDate": "Mon, 23 Mar 2026 20:58:11 +0000",
+      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/03/spring2026_fe.jpg",
+      "source": "All About Birds"
+    },
+    {
+      "title": "Why Do Nuthatches Coat Their Nest Entrances With Sap?",
+      "link": "https://www.allaboutbirds.org/news/why-nuthatches-coat-nest-entrances-sap/",
+      "summary": "A simple series of experiments looked into why Red-breasted Nuthatches use sticky conifer resin to defend against nest predators and competitors.",
+      "pubDate": "Mon, 23 Mar 2026 20:51:33 +0000",
+      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/03/Red-breasted-Nuthatches-1280x720.jpg",
+      "source": "All About Birds"
+    },
+    {
+      "title": "Antibodies Suggest Some Raptors May Be Developing Resistance to Avian Influenza",
+      "link": "https://www.allaboutbirds.org/news/antibodies-avian-influenza-raptors-resistance/",
+      "summary": "Evidence from blood tests taken at The Raptor Center at the University of Minnesota shows that some birds of prey are beating the aggressive avian influenza virus.",
+      "pubDate": "Mon, 23 Mar 2026 20:49:27 +0000",
+      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/03/The-Raptor-Center-1280x720.jpg",
+      "source": "All About Birds"
+    },
+    {
+      "title": "View From Sapsucker Woods: Our Shared Birds",
+      "link": "https://www.allaboutbirds.org/news/view-sapsucker-shared-birds/",
+      "summary": "From the Spring 2026 issue of Living Bird magazine. Subscribe now. Spring is here! And with it, the return of old friends: a familiar song at dawn, or a flash ... Read more »",
+      "pubDate": "Mon, 23 Mar 2026 20:47:37 +0000",
+      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/03/Wood-Thrush_Heredia-Costa-Rica_Pascal-De-Munck_250552411-e1773427681699.jpg",
+      "source": "All About Birds"
+    },
+    {
+      "title": "Cornell Protects Big Red, Star of Red-tailed Hawk Cam, During Construction",
+      "link": "https://www.allaboutbirds.org/news/cornell-big-red-tailed-hawk-construction/",
+      "summary": "From the Spring 2026 issue of Living Bird magazine. Subscribe now. While Doug Sheerer was overseeing construction on Cornell University’s Meinig Fieldhouse during the spring of 202",
+      "pubDate": "Mon, 23 Mar 2026 20:45:04 +0000",
+      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/03/Red-tailed-Hawk.jpg",
+      "source": "All About Birds"
+    },
+    {
+      "title": "Dark-eyed Junco Beaks Changed During COVID Shutdown in Los Angeles",
+      "link": "https://www.allaboutbirds.org/news/dark-eyed-junco-beaks-changed-covid-shutdown-los-angeles/",
+      "summary": "From the Spring 2026 issue of Living Bird magazine. Subscribe now. Dark-eyed Juncos are known to scavenge across the University of California, Los Angeles, campus year-round, thriv",
+      "pubDate": "Mon, 23 Mar 2026 20:40:57 +0000",
+      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/03/Dark-eyed-Junco-1.jpg",
+      "source": "All About Birds"
+    },
+    {
+      "title": "eBird Taxonomy Update Splits Warbling Vireos, Yellow Warblers, and More",
+      "link": "https://www.allaboutbirds.org/news/ebird-taxonomy-update-splits-warbling-vireo-yellow-warbler/",
+      "summary": "From the Spring 2026 issue of Living Bird magazine. Subscribe now. Warbling Vireos are easy to overlook—small, olive-gray songbirds that stay high in treetops. But when they return",
+      "pubDate": "Mon, 23 Mar 2026 20:38:32 +0000",
+      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/03/558575121-1280x720.jpg",
+      "source": "All About Birds"
+    },
+    {
+      "title": "Gallery: Birds With Borders",
+      "link": "https://www.allaboutbirds.org/news/gallery-birds-borders-art-state-outlines/",
+      "summary": "From the Spring 2026 issue of Living Bird magazine. Subscribe now. When illustrator C.F. Payne looks at the California Gull that he painted in the shape of Utah, he says that ... R",
+      "pubDate": "Mon, 23 Mar 2026 20:36:05 +0000",
+      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/03/American-Goldfinch.jpg",
+      "source": "All About Birds"
+    },
+    {
+      "title": "Hermit Thrush",
+      "link": "https://www.allaboutbirds.org/news/hermit-thrush/",
+      "summary": "",
+      "pubDate": "Thu, 19 Mar 2026 19:55:17 +0000",
+      "image": "",
+      "source": "All About Birds"
+    },
+    {
+      "title": "Bird Friendly Certification: 8 Requirements Coffee Farms Need to Satisify",
+      "link": "https://birdwatchinghq.com/bird-friendly-certification-requirements-for-coffee-farms/",
+      "summary": "In the world of coffee certifications, there’s one that soars above the rest—literally. The Smithsonian Bird Friendly certification is the gold standard when it comes to protecting",
+      "pubDate": "Mon, 20 Oct 2025 17:51:25 +0000",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/bird_friendly_logo_2-1024x1024.webp",
+      "source": "BirdWatching HQ"
+    },
+    {
+      "title": "Harpy Eagles: 17 Fascinating Facts About the Canopy’s King",
+      "link": "https://birdwatchinghq.com/harpy-eagle-facts/",
+      "summary": "Honestly, Harpy Eagles are one of the coolest birds around. They are the rulers of the rainforest skies and are as intriguing as they are awe-inspiring. Keep reading, and you will ",
+      "pubDate": "Sun, 19 Oct 2025 17:49:35 +0000",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/harpy_eagle_double_crest_of_feathers-1.jpg",
+      "source": "BirdWatching HQ"
+    },
+    {
+      "title": "10 Things You Can Do to Help Birds",
+      "link": "https://birdwatchinghq.com/how-to-help-birds/",
+      "summary": "Let me give you a staggering and sobering number: Since 1970, 2.9 billion birds have disappeared from North America. Yes, you read that correctly. Almost 25% of the total number of",
+      "pubDate": "Sat, 18 Oct 2025 17:47:14 +0000",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/red_winged_blackbirds_declining.jpg",
+      "source": "BirdWatching HQ"
+    },
+    {
+      "title": "Scarlet Tanager Species Spotlight: 10 Interesting Facts!",
+      "link": "https://birdwatchinghq.com/scarlet-tanager-interesting-facts/",
+      "summary": "Today, I want to introduce you to the Scarlet Tanager. Many people find it surprising that these BEAUTIFUL birds spend their summers breeding in North America. Once the weather sta",
+      "pubDate": "Fri, 17 Oct 2025 17:43:57 +0000",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/male_scarlet_tanager_2.jpg",
+      "source": "BirdWatching HQ"
+    },
+    {
+      "title": "Gray Catbird Species Spotlight: 10 Interesting Facts!",
+      "link": "https://birdwatchinghq.com/gray-catbird-interesting-facts/",
+      "summary": "If you’ve ever heard a bird meow or seen a flash of sleek gray darting through a thicket, you might have seen the Gray Catbird. Equal parts mysterious and entertaining, these feath",
+      "pubDate": "Thu, 16 Oct 2025 17:41:36 +0000",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/gray_catbird_1-1.jpg",
+      "source": "BirdWatching HQ"
+    },
+    {
+      "title": "15 Birds You’re Helping Protect by Drinking Shade-Grown Coffee",
+      "link": "https://birdwatchinghq.com/birds-that-benefit-from-shade-grown-coffee-farms/",
+      "summary": "Shade-grown coffee farms are a lifeline for birds that depend on forest-like environments to survive. These farms preserve canopy cover, native trees, and layered vegetation, which",
+      "pubDate": "Wed, 15 Oct 2025 17:37:00 +0000",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/male_scarlet_tanager_2.jpg",
+      "source": "BirdWatching HQ"
+    },
+    {
+      "title": "17 FUN Facts About Hummingbirds! (that will make you hum)",
+      "link": "https://birdwatchinghq.com/facts-about-hummingbirds/",
+      "summary": "Are you ready to learn some amazing facts about hummingbirds? Seriously, these tiny birds are some of the most interesting creatures in the world. And today, I’m listing some of th",
+      "pubDate": "Sun, 20 Jul 2025 13:35:58 +0000",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2022/05/hummingbird-facts-intro.png",
+      "source": "BirdWatching HQ"
+    },
+    {
+      "title": "28 Common ANTS in North America! (2026)",
+      "link": "https://birdwatchinghq.com/ants-in-north-america/",
+      "summary": "There are hundreds of ant species that live in North America! Trying to list them all would be impossible. 🙂 Below are the most common and abundant types of ants, which are part of",
+      "pubDate": "Thu, 13 Jun 2024 14:22:36 +0000",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2024/05/Dark-Rover-Ant-Brachymyrmex-patagonicus.png",
+      "source": "BirdWatching HQ"
+    },
+    {
+      "title": "27 Grasshopper Species in North America! (2026)",
+      "link": "https://birdwatchinghq.com/grasshoppers-in-north-america/",
+      "summary": "An incredible amount of grasshopper species live in North America! Trying to list them all would be impossible. 🙂 So below, you will find the most common and abundant insects found",
+      "pubDate": "Fri, 10 May 2024 15:51:41 +0000",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2024/05/grasshoppers-intro.jpg",
+      "source": "BirdWatching HQ"
+    },
+    {
+      "title": "40 Types of Rabbit-Resistant Plants You Can Grow (2026)",
+      "link": "https://birdwatchinghq.com/rabbit-resistant-plants/",
+      "summary": "“Where did all my flowers go?!” I’ve asked myself this question more than once, and usually, the answer can be summed up with one word -> rabbits! These creatures are adorable but ",
+      "pubDate": "Wed, 24 Apr 2024 19:32:31 +0000",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2020/06/rabbits-eating-clover.jpg",
+      "source": "BirdWatching HQ"
+    },
+    {
+      "title": "‘It’s like flowers on steroids’: what happened when scientists heated a Rocky Mountain wildlife meadow by 2C?",
+      "link": "https://www.theguardian.com/environment/2026/mar/25/flowers-heated-2c-meadow-climate-crisis-experiment-rocky-mountains-aoe",
+      "summary": "A long-running experiment in Colorado provides an ‘alarming’ view of how rapidly unchecked global heating could transform fragile ecosystems Every summer, people descend on the wil",
+      "pubDate": "Wed, 25 Mar 2026 15:00:11 GMT",
+      "image": "https://i.guim.co.uk/img/media/55719afbad23a02a2a01158402054727b27861f6/0_482_1440_1152/master/1440.jpg?width=140&quality=85&auto=format&fit=max&s=97aafd11eb53ff62dac57ec1ebcc7355",
+      "source": "The Guardian Wildlife"
+    },
+    {
+      "title": "Country diary: My garden log pile is teeming with life | Kate Bradbury",
+      "link": "https://www.theguardian.com/environment/2026/mar/25/country-diary-my-garden-log-pile-is-teeming-with-life",
+      "summary": "Hove, East Sussex: Loading it up with many different species – oak, elder, hazel, willow and birch – has turned it into a thriving ecosystem In the garden, the log pile is a whole ",
+      "pubDate": "Wed, 25 Mar 2026 05:30:01 GMT",
+      "image": "https://i.guim.co.uk/img/media/96dcc06e0498ee85eb627e1c28c71a428b0d7089/58_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=2dac8287cc36662d7f6bef89ce71c9c8",
+      "source": "The Guardian Wildlife"
+    },
+    {
+      "title": "‘Extraordinary event’ for mountain gorillas as new twins born in DRC",
+      "link": "https://www.theguardian.com/environment/2026/mar/24/mountain-gorillas-twins-born-drc-aoe",
+      "summary": "Conservationists celebrate second twin birth just two months after another set discovered in Virunga national park A second set of mountain gorilla twins has been born in Virunga n",
+      "pubDate": "Tue, 24 Mar 2026 12:42:56 GMT",
+      "image": "https://i.guim.co.uk/img/media/c8a19f65ea0f091b472976a9e5613de830f4ea30/735_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=cdea626a79a51b897a0577c8f1f5a2d4",
+      "source": "The Guardian Wildlife"
+    },
+    {
+      "title": "Epic river migrations of fish rapidly collapsing, UN report finds",
+      "link": "https://www.theguardian.com/environment/2026/mar/24/epic-river-migrations-of-fish-rapidly-collapsing-un-report-finds",
+      "summary": "Vast journeys, among world’s great wonders, found to be under threat as freshwater fish populations crash by 81% “It’s very hard to imagine what’s going on beneath the water when y",
+      "pubDate": "Tue, 24 Mar 2026 12:00:37 GMT",
+      "image": "https://i.guim.co.uk/img/media/3904b2c6aa774aae019f6f170875b9f2e9468e12/60_0_1280_1024/master/1280.jpg?width=140&quality=85&auto=format&fit=max&s=710eafbea5088d93d5bce64978e230ca",
+      "source": "The Guardian Wildlife"
+    },
+    {
+      "title": "‘It smells like a rancid fish and chip shop’: at sea with the Antarctic’s krill supertrawlers",
+      "link": "https://www.theguardian.com/environment/2026/mar/24/krill-foundation-food-antarctic-ecosystem-survive-factory-fishing",
+      "summary": "The fishery is regulated but experts say it is wrecking the food chain. Gordon Peake joined a Sea Shepherd mission to observe the giant ships compete for catch It is bitterly cold ",
+      "pubDate": "Tue, 24 Mar 2026 09:00:14 GMT",
+      "image": "https://i.guim.co.uk/img/media/1db6ca94468e694941cb6b65702dacc2876b5eee/973_0_5328_4262/master/5328.jpg?width=140&quality=85&auto=format&fit=max&s=6c3c9ff1de36cccb8597f8cb4f087a15",
+      "source": "The Guardian Wildlife"
+    },
+    {
+      "title": "Shooting restricted for six British wild birds to halt population decline",
+      "link": "https://www.theguardian.com/environment/2026/mar/23/shooting-restricted-six-british-wild-birds-halt-population-decline",
+      "summary": "Woodcocks and pochard, pintail and goldeneye ducks among threatened species protected by proposals Hunters will be banned from shooting a rare and beautiful duck under new proposal",
+      "pubDate": "Mon, 23 Mar 2026 15:00:53 GMT",
+      "image": "https://i.guim.co.uk/img/media/2d0491dec8da7227902870149f2ee6aa3625368d/164_0_6002_4803/master/6002.jpg?width=140&quality=85&auto=format&fit=max&s=ff1cf108c5fc4bb1c5c6ae9a377c9b40",
+      "source": "The Guardian Wildlife"
+    },
+    {
+      "title": "‘There’s biological treasure here’: Chile’s endemic seals gain protection with new marine park",
+      "link": "https://www.theguardian.com/environment/2026/mar/23/chile-seals-colony-gain-protection-new-marine-park-juan-fernandez-archipelago-wildlife",
+      "summary": "Sixty years after the discovery of a colony of Juan Fernández fur seals, previously thought to be extinct, a landmark agreement extends ‘no take’ zone around the wildlife-rich arch",
+      "pubDate": "Mon, 23 Mar 2026 12:00:49 GMT",
+      "image": "https://i.guim.co.uk/img/media/ff0ec890189281a4319fdffdd2a3abaa4cf4ed49/1419_0_7096_5677/master/7096.jpg?width=140&quality=85&auto=format&fit=max&s=5431b316a39c54ca15f788ab4d24cac1",
+      "source": "The Guardian Wildlife"
+    },
+    {
+      "title": "Secrets of the karst: new species found in Cambodia’s limestone caves – in pictures",
+      "link": "https://www.theguardian.com/environment/gallery/2026/mar/23/cambodia-karst-new-species-limestone-caves-aoe",
+      "summary": "A survey has revealed the vast array of wildlife – some never seen before – living within the south-east Asian country’s karst ecosystems. The work was led by international wildlif",
+      "pubDate": "Mon, 23 Mar 2026 11:01:47 GMT",
+      "image": "https://i.guim.co.uk/img/media/f4467772b5cdea78866ffafa4303eb596208306c/803_0_4280_3425/master/4280.jpg?width=140&quality=85&auto=format&fit=max&s=8f44e556993740a2acd826d98953a537",
+      "source": "The Guardian Wildlife"
+    },
+    {
+      "title": "Predatory feral ferrets removed from an island for the first time ever",
+      "link": "https://www.theguardian.com/environment/2026/mar/23/predatory-feral-ferrets-removed-from-island-first-time-rathlin-island-northern-ireland",
+      "summary": "Rathlin Island in Northern Ireland is ferret-free after £4.5m five-year partnership led by RSPB NI Predatory feral ferrets have been removed from an island for the first time ever,",
+      "pubDate": "Mon, 23 Mar 2026 08:00:45 GMT",
+      "image": "https://i.guim.co.uk/img/media/21a450e695692e081ae45282516ec32008c15b38/779_0_3700_2961/master/3700.jpg?width=140&quality=85&auto=format&fit=max&s=2acc15a3572db961abb1dd0c4c72fb3c",
+      "source": "The Guardian Wildlife"
+    },
+    {
+      "title": "I discovered three new geckos in Cambodia’s limestone caves – and that’s not all we found",
+      "link": "https://www.theguardian.com/environment/2026/mar/22/i-discovered-three-new-geckos-in-cambodia-limestone-caves-and-thats-not-all-we-found-aoe",
+      "summary": "The whole ecosystem inside a cave feeds off guano, dead bats, or any dead animals on the ground. It’s not for the faint-hearted It can be daunting entering a cave. It is an undergr",
+      "pubDate": "Mon, 23 Mar 2026 00:01:35 GMT",
+      "image": "https://i.guim.co.uk/img/media/f9fb037049fb03805e343b8399cd6e7178e6a7c1/584_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=137a6cdf2e8f62a4366b561e58ae54fe",
+      "source": "The Guardian Wildlife"
+    },
+    {
+      "title": "Moon base and Mars! NASA makes exciting announcements",
+      "link": "https://earthsky.org/spaceflight/moon-base-and-mars-nasa-makes-exciting-announcements/",
+      "summary": "Moon base and Mars mission! NASA administrator Jared Isaacman announced them as part of a series of new NASA initiatives on March 24, 2026. The post Moon base and Mars! NASA makes ",
+      "pubDate": "Wed, 25 Mar 2026 11:06:55 +0000",
+      "image": "https://earthsky.org/upl/2026/03/Artist-concept-of-moon-base-1-NASA-March-24-2026.jpg",
+      "source": "EarthSky"
+    },
+    {
+      "title": "Life’s genetic code just discovered in asteroid samples",
+      "link": "https://earthsky.org/space/lifes-genetic-code-just-discovered-in-an-asteroid-sample/",
+      "summary": "Scientists found all 5 fundamental units of life’s genetic code in asteroid Ryugu. Could these building blocks have formed in space and been delivered to Earth? The post Life’s gen",
+      "pubDate": "Wed, 25 Mar 2026 10:59:37 +0000",
+      "image": "https://earthsky.org/upl/2026/03/Sample-from-Ryguu-JAXA-e1774288479447.jpg",
+      "source": "EarthSky"
+    },
+    {
+      "title": "Sun news: A huge blast from the northeast",
+      "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+      "summary": "Sun news for March 25, 2026: A huge blast erupted from over the northeast horizon. The region that produced it might soon rotate into view. The post Sun news: A huge blast from the",
+      "pubDate": "Wed, 25 Mar 2026 09:15:53 +0000",
+      "image": "https://earthsky.org/upl/2026/03/Mar-25-26-LASCO-C2.-ezgif.com-video-to-webp-converter.webp",
+      "source": "EarthSky"
+    },
+    {
+      "title": "Visible planets and night sky guide for March and April",
+      "link": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
+      "summary": "Visible planets and night sky guide. Tonight, the moon lies near Jupiter and the twin stars of Gemini. Plus, see a video about the new comet! The post Visible planets and night sky",
+      "pubDate": "Wed, 25 Mar 2026 08:30:08 +0000",
+      "image": "https://earthsky.org/upl/2025/01/Lorraine-Boyd-1st-quarter-moon-November-9-2024-e1736173682743.jpg",
+      "source": "EarthSky"
+    },
+    {
+      "title": "Meet Vela the Sails in southern skies",
+      "link": "https://earthsky.org/constellations/vela-the-sails/",
+      "summary": "Vela the Sails is a constellation that was once part of the large Argo Navis the Ship. You can see it best from the Southern Hemisphere on March evenings. The post Meet Vela the Sa",
+      "pubDate": "Wed, 25 Mar 2026 08:00:53 +0000",
+      "image": "https://earthsky.org/upl/2022/02/Puppis-Vela-Carina.jpg",
+      "source": "EarthSky"
+    },
+    {
+      "title": "NASA’s new exoplanet mission shows 1st images to the public",
+      "link": "https://earthsky.org/space/nasas-new-exoplanet-mission-sparcs-exoplanets-low-mass-stars/",
+      "summary": "NASA's new exoplanet mission - called SPARCS - has taken its 1st light images. It will monitor low-mass stars to see if their planets could be habitable. The post NASA’s new exopla",
+      "pubDate": "Tue, 24 Mar 2026 10:53:32 +0000",
+      "image": "https://earthsky.org/upl/2026/03/SPARCS-HD71262-stars-NASA-February-6-2026-1.png",
+      "source": "EarthSky"
+    },
+    {
+      "title": "New dinosaur named for iconic Korean cartoon character Dooly",
+      "link": "https://earthsky.org/earth/new-dinosaur-south-korean-cartoon-doolysaurus/",
+      "summary": "Scientists discovered a new dinosaur, thought to be 2 years old, and named it after Dooly, a popular South Korean baby dinosaur cartoon character. The post New dinosaur named for i",
+      "pubDate": "Tue, 24 Mar 2026 10:32:55 +0000",
+      "image": "https://earthsky.org/upl/2026/03/Doolysaurus-huhmini-Jun-Seong-Yi-UT-Austin.jpeg",
+      "source": "EarthSky"
+    },
+    {
+      "title": "Notice the westward shift of Orion and all the stars",
+      "link": "https://earthsky.org/tonight/the-westward-shift-of-orion-and-all-the-stars/",
+      "summary": "As Earth makes its grand tour around the sun each year, the stars and constellations all do a westward shift in our sky. Orion is a good one to notice. The post Notice the westward",
+      "pubDate": "Tue, 24 Mar 2026 09:01:00 +0000",
+      "image": "https://earthsky.org/upl/2022/02/Orion-Southwest-Evening.jpg",
+      "source": "EarthSky"
+    },
+    {
+      "title": "Snow monkeys bathing in hot springs get health benefits",
+      "link": "https://earthsky.org/earth/hot-spring-bathing-snow-monkeys-health/",
+      "summary": "Snow monkeys stay warm in hot spring baths. These baths also affect their parasites and gut microbes. It's a cozy way to get a health benefit! The post Snow monkeys bathing in hot ",
+      "pubDate": "Mon, 23 Mar 2026 12:00:22 +0000",
+      "image": "https://earthsky.org/upl/2026/03/alpha-male-snow-monkey_Eliot-Herman-e1774035598590.png",
+      "source": "EarthSky"
+    },
+    {
+      "title": "10,000 Starlink satellites orbiting Earth … and counting",
+      "link": "https://earthsky.org/spaceflight/10000-starlink-satellites-orbiting-earth-counting/",
+      "summary": "There are now more than 10,000 Starlink satellites in Earth orbit. Plus, 1 to 2 Starlinks are falling back to Earth a day, adding metals to our atmosphere. The post 10,000 Starlink",
+      "pubDate": "Sun, 22 Mar 2026 11:08:37 +0000",
+      "image": "https://earthsky.org/upl/2026/03/Starlink-satellites-as-of-Mar-19-2026-Heavens-above.png",
+      "source": "EarthSky"
+    },
+    {
+      "title": "So Long, and Thanks for All the Fish",
+      "link": "https://hakaimagazine.com/article-short/so-long-and-thanks-for-all-the-fish/",
+      "summary": "We started Hakai Magazine over 10 years ago because the ocean and its coastlines needed a voice. No other outlet was exclusively covering issues at the interface of sea and land—or",
+      "pubDate": "Fri, 27 Dec 2024 08:05:43 +0000",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-so-long-and-thanks-for-all-the-fish.jpg",
+      "source": "Hakai Magazine"
+    },
+    {
+      "title": "The First First Responders",
+      "link": "https://hakaimagazine.com/features/the-first-first-responders/",
+      "summary": "When a ship wrecks on an unfamiliar coastline, an already desperate situation is all the more dire. Blinded by the night, and lost, the captain and crew of the Puritan, a four-mast",
+      "pubDate": "Tue, 24 Dec 2024 08:05:57 +0000",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-first-first-responder.jpg",
+      "source": "Hakai Magazine"
+    },
+    {
+      "title": "How, Exactly, Could Deep-Sea Mining Benefit All of Humanity?",
+      "link": "https://hakaimagazine.com/news/how-exactly-could-deep-sea-mining-benefit-all-of-humanity/",
+      "summary": "When Arvid Pardo, a Maltese diplomat, took the floor at the United Nations General Assembly in New York in 1967 and began speaking at length on international law, the room was spar",
+      "pubDate": "Fri, 20 Dec 2024 08:01:54 +0000",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-benefit-of-humanity.jpg",
+      "source": "Hakai Magazine"
+    },
+    {
+      "title": "The Canoe in the Forest",
+      "link": "https://hakaimagazine.com/features/the-canoe-in-the-forest/",
+      "summary": "When I first see the canoe, in May, it takes a moment to distinguish the long, shapely slab of cedar from the patch of earth that has spent more than a century trying to reclaim it",
+      "pubDate": "Thu, 19 Dec 2024 08:05:40 +0000",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-haida-canoe.jpg",
+      "source": "Hakai Magazine"
+    },
+    {
+      "title": "What’s Next for Deep-Sea Mining?",
+      "link": "https://hakaimagazine.com/news/whats-next-for-deep-sea-mining/",
+      "summary": "Earlier this year, Leticia Carvalho, a Brazilian oceanographer and environmental policy expert, took the helm of the International Seabed Authority (ISA) as secretary general. The ",
+      "pubDate": "Wed, 18 Dec 2024 08:01:59 +0000",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-deep-sea-mining-1.jpg",
+      "source": "Hakai Magazine"
+    },
+    {
+      "title": "The Personal Toll of Canada’s Broken Fishing Promises",
+      "link": "https://hakaimagazine.com/features/the-personal-toll-of-canadas-broken-fishing-promises/",
+      "summary": "August 29, 2020, dawned clear over southwest Nova Scotia. In the cabin of his lobster boat, the Mystique Lady, Matthew Cope was chatting with the other members of his crew as they ",
+      "pubDate": "Tue, 17 Dec 2024 08:05:10 +0000",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-matt-cope-moderate-livelihood.jpg",
+      "source": "Hakai Magazine"
+    },
+    {
+      "title": "To Speak the Language of the Land",
+      "link": "https://hakaimagazine.com/features/to-speak-the-language-of-the-land/",
+      "summary": "Nearly 200 of us cram into Tarāwhai, a traditional wooden Māori meeting house, under the gaze of the ancestors and deities carved into the posts and walls. We’re here in the home o",
+      "pubDate": "Thu, 12 Dec 2024 08:05:23 +0000",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-maori-language-and-place.jpg",
+      "source": "Hakai Magazine"
+    },
+    {
+      "title": "Caviar Pizzas, New Money, and the Death of an Ancient Fish",
+      "link": "https://hakaimagazine.com/features/caviar-pizzas-new-money-and-the-death-of-an-ancient-fish/",
+      "summary": "I am sitting at a slick Manhattan waterfront restaurant on the banks of the East River, New York City, trying to decide why I find the caviar pizza on the menu so disturbing. Jonat",
+      "pubDate": "Tue, 10 Dec 2024 08:05:52 +0000",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-21st-century-sturgeon.jpg",
+      "source": "Hakai Magazine"
+    },
+    {
+      "title": "The Destructive Legacy of Failed Aquaculture",
+      "link": "https://hakaimagazine.com/news/the-destructive-legacy-of-failed-aquaculture/",
+      "summary": "Aquaculture is big business in Canada. In 2023, open-net-pen salmon farming in British Columbia alone produced 50,000 tonnes of fish worth just over US $350-million. But on June 30",
+      "pubDate": "Fri, 06 Dec 2024 08:01:14 +0000",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-aquaculture-cleanup.jpg",
+      "source": "Hakai Magazine"
+    },
+    {
+      "title": "Conjuring the Lost Land Beneath the North Sea",
+      "link": "https://hakaimagazine.com/features/conjuring-the-lost-land-beneath-the-north-sea/",
+      "summary": "The North Sea is a hard place to love. It’s not the cold, or the silty gray-brown waters that seem to suck the brightness out of the sky that make it unappealing, it’s what people ",
+      "pubDate": "Thu, 05 Dec 2024 08:05:19 +0000",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-doggerland.jpg",
+      "source": "Hakai Magazine"
+    },
+    {
+      "title": "‘Healing well’: Mendocino shark attack victim shares recovery update",
+      "link": "https://www.mercurynews.com/2026/03/25/healing-well-mendocino-shark-attack-victim-shares-recovery-update/",
+      "summary": "A surfer who was bitten by a shark off the Mendocino County coast last week is recovering and says he is “healing well,” according to an update shared Tuesday.",
+      "pubDate": "Wed, 25 Mar 2026 12:57:21 +0000",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/03/75C8E64E-5829-455D-9483-D8923ACEDBEE.jpg?w=1400px&strip=all",
+      "source": "Mercury News Wildlife"
+    },
+    {
+      "title": "PG&E reverses decision environmentalists say threatened wildlife in San Jose’s Coyote Valley",
+      "link": "https://www.mercurynews.com/2026/03/23/pge-reverses-decision-environmentalists-say-threatened-wildlife-in-coyote-valley/",
+      "summary": "Project will run high-voltage power lines 13 miles from downtown San Jose to scenic area along Highway 101",
+      "pubDate": "Mon, 23 Mar 2026 22:44:52 +0000",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/03/Coyote-Valley-Aerial-Derek-Neumann.jpg?w=1400px&strip=all",
+      "source": "Mercury News Wildlife"
+    },
+    {
+      "title": "Channel Islands: See California’s version of the Galapagos",
+      "link": "https://www.mercurynews.com/2026/03/23/channel-islands-see-californias-version-of-the-galapagos/",
+      "summary": "Just an hourlong ferry's ride from the coast of southern California is the only place in the world you can see what might also be the one of the world's cutest apex predators: the ",
+      "pubDate": "Mon, 23 Mar 2026 16:30:15 +0000",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/03/SJM-L-CHANNELISLANDS-0329-02_5947e8.jpg?w=1400px&strip=all",
+      "source": "Mercury News Wildlife"
+    },
+    {
+      "title": "Elephant seal pup spotted in Santa Cruz amidst bird flu outbreak concerns",
+      "link": "https://www.mercurynews.com/2026/03/23/elephant-seal-pup-spotted-in-santa-cruz/",
+      "summary": "The sightings were the first reports of the animals in Santa Cruz since an outbreak of highly pathogenic avian influenza began in a colony of elephant seals at Año Nuevo State Beac",
+      "pubDate": "Mon, 23 Mar 2026 12:13:27 +0000",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/03/STC-L-CHSEALBIRDFLU-0306-02-1.jpg?w=1400px&strip=all",
+      "source": "Mercury News Wildlife"
+    },
+    {
+      "title": "Surfer attacked by shark off Big River Beach in Mendocino",
+      "link": "https://www.mercurynews.com/2026/03/20/surfer-attacked-by-shark-off-big-river-beach-in-mendocino/",
+      "summary": "A shark bit a Northern California surfer off the coast of Mendocino County, hospitalizing him earlier this week.",
+      "pubDate": "Fri, 20 Mar 2026 17:22:58 +0000",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/03/75C8E64E-5829-455D-9483-D8923ACEDBEE.jpg?w=1400px&strip=all",
+      "source": "Mercury News Wildlife"
+    },
+    {
+      "title": "Blondie, the bear who injured a California woman, is euthanized",
+      "link": "https://www.mercurynews.com/2026/03/19/blondie-the-bear-who-injured-monrovia-woman-over-the-weekend-is-euthanized/",
+      "summary": "Mourning Blondie the black bear's loss, Monrovia residents renew calls for \"bear awareness.\" And what happens to Blondie's bear cubs now?",
+      "pubDate": "Thu, 19 Mar 2026 14:31:41 +0000",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/03/SGT-L-COL-MOM-0122-01.jpg?w=1400px&strip=all",
+      "source": "Mercury News Wildlife"
+    },
+    {
+      "title": "Popular Bay Area oceanfront park to triple in size under proposed deal",
+      "link": "https://www.mercurynews.com/2026/03/16/popular-bay-area-oceanfront-state-park-to-triple-in-size-under-proposed-deal/",
+      "summary": "State parks officials also announce plans to expand Mount Diablo State Park in East Bay.",
+      "pubDate": "Mon, 16 Mar 2026 23:08:56 +0000",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/03/SJM-L-PARKS-0316-2_7f519c.jpg?w=1400px&strip=all",
+      "source": "Mercury News Wildlife"
+    },
+    {
+      "title": "Oldest known whale recording could unlock mysteries of the ocean",
+      "link": "https://www.mercurynews.com/2026/03/16/whale-recording/",
+      "summary": "Researchers say it was recorded in March 1949 in Bermuda.",
+      "pubDate": "Mon, 16 Mar 2026 17:28:42 +0000",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/03/First_Whale_Recording__37835-1-1.jpg?w=1400px&strip=all",
+      "source": "Mercury News Wildlife"
+    },
+    {
+      "title": "Wary eyes on Point Reyes National Seashore as avian flu hits Año Nuevo elephant seals",
+      "link": "https://www.mercurynews.com/2026/03/16/wary-eyes-on-point-reyes-as-avian-flu-hits-ano-nuevo-elephant-seals/",
+      "summary": "Experts are closely monitoring the marine animals, flagging mortalities and advising beach visitors to take extra precautions. Meanwhile, a Sonoma County poultry facility was struc",
+      "pubDate": "Mon, 16 Mar 2026 14:10:34 +0000",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/03/seal-swab.jpeg?w=1400px&strip=all",
+      "source": "Mercury News Wildlife"
+    },
+    {
+      "title": "Mountain lion spotted in Palo Alto",
+      "link": "https://www.mercurynews.com/2026/03/14/mountain-lion-spotted-in-palo-alto/",
+      "summary": "Police say mountain lion did not display aggressive behavior, but encourage residents to avoid the area and keep pets indoors.",
+      "pubDate": "Sat, 14 Mar 2026 17:38:13 +0000",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/01/SJM-Z-COL-TUCCI-0127-MOUNTAIN-LION-JPEG.jpg?w=1400px&strip=all",
+      "source": "Mercury News Wildlife"
+    },
+    {
+      "title": "The Best Yeti Deals to Shop During the Amazon Big Spring Sale",
+      "link": "https://www.outsideonline.com/outdoor-gear/gear-news/amazon-big-spring-sale-yeti/",
+      "summary": "Deals on YETI gear are usually as rare as a Bigfoot spotting, but the Big Spring Sale has several of our favorite pieces marked down by up to 30 percent. The post The Best Yeti Dea",
+      "pubDate": "Wed, 25 Mar 2026 14:27:38 +0000",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/yeti-amazon-big-spring-sale.png?width=1200",
+      "source": "Outside Online"
+    },
+    {
+      "title": "Friedi Kühne Walked a Highline Between Two Hot Air Balloons a Mile in the Air. Here’s What It Was Like.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/climbing/friedi-kuhne-world-record-highline-hot-air-balloon/",
+      "summary": "German highliner Friedi Kühne set a world record by walking a highline between two hot air balloons. How he managed fear and flow. The post Friedi Kühne Walked a Highline Between T",
+      "pubDate": "Wed, 25 Mar 2026 14:19:34 +0000",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/2024_11_09_JochenSchweizer_Slackline_WR-5796-Kopie.jpg?width=1200",
+      "source": "Outside Online"
+    },
+    {
+      "title": "These Permit-Free Adventures Are Just as Epic as Half Dome, Angels Landing, or Teton Crest",
+      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/adventure-permit-alternatives/",
+      "summary": "Did you miss the permit window for Angel’s Landing, Half Dome, or the Teton Crest Trail? We have 10 alternatives to keep your next outing epic, even if you didn’t nab a reservation",
+      "pubDate": "Wed, 25 Mar 2026 09:34:48 +0000",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/Zion2.jpg?width=1200",
+      "source": "Outside Online"
+    },
+    {
+      "title": "The Best Road Running Shoes (Spring 2026)",
+      "link": "https://www.outsideonline.com/outdoor-gear/run/best-running-shoes/",
+      "summary": "Our test team of 25 runners put more than 100 road running shoes through their paces to find the best for every type of run. The post The Best Road Running Shoes (Spring 2026) appe",
+      "pubDate": "Tue, 24 Mar 2026 22:35:41 +0000",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/S26-road-shoes_h.jpg?width=1200",
+      "source": "Outside Online"
+    },
+    {
+      "title": "What Travelers Should Know About the Floods in Hawai’i",
+      "link": "https://www.outsideonline.com/adventure-travel/news-analysis/hawaii-floods/",
+      "summary": "With historic flooding hitting the Hawaiian islands, travelers are rethinking spring break plans. Here’s what locals want you to consider before canceling your trip. The post What ",
+      "pubDate": "Tue, 24 Mar 2026 18:10:29 +0000",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/GettyImages-1941290624.jpg?width=1200",
+      "source": "Outside Online"
+    },
+    {
+      "title": "Comedian Matt Lyons Hiked the Pacific Crest Trail. Not Every Moment Was Hilarious.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/matt-lyons-documentary/",
+      "summary": "Instagram comedian Matt Lyons has a new documentary film out about his attempt to thru-hike the Pacific Crest Trail. The post Comedian Matt Lyons Hiked the Pacific Crest Trail. Not",
+      "pubDate": "Tue, 24 Mar 2026 18:08:46 +0000",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/SOBODOC_HORIZONTAL_THUMBNAIL-scaled.jpg?width=1200",
+      "source": "Outside Online"
+    },
+    {
+      "title": "I Saw the Devastation After Hawaiʻi’s Massive Floods Firsthand. Here’s What It’s Like on the Ground—and How You Can Help.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/hawaii-floods-what-it-is-really-like-on-the-ground/",
+      "summary": "I expected a quiet family visit, but ended up in an assembly line of volunteers shoveling heavy mud away from flooded homes. This is the visceral reality of a record-breaking storm",
+      "pubDate": "Tue, 24 Mar 2026 17:43:38 +0000",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/hawaii-floods.jpg?width=1200",
+      "source": "Outside Online"
+    },
+    {
+      "title": "These Kids Are Thru-Hiking the Longest Trails in the U.S. Before They’re Old Enough to Drive",
+      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/hiking-with-kids-thru-hike-family/",
+      "summary": "A group of families is trading traditional life for months thru-hiking in the wilderness—with kids in tow. Their unconventional choice is sparking a fierce debate over child safety",
+      "pubDate": "Tue, 24 Mar 2026 09:49:30 +0000",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/thru-hiking-kids.jpg?width=1200",
+      "source": "Outside Online"
+    },
+    {
+      "title": "Sports Dietitians on the New Dietary Guidelines and What Athletes Need to Know",
+      "link": "https://www.outsideonline.com/health/nutrition/new-maha-dietary-guidelines-food-pyramid/",
+      "summary": "That said, if you're an athlete or pretty active, you might be wondering what the new inverted food pyramid means for your grocery cart. Should pasta really lose ground to steak? A",
+      "pubDate": "Tue, 24 Mar 2026 09:16:24 +0000",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/new-food-pyramid.jpg?width=1200",
+      "source": "Outside Online"
+    },
+    {
+      "title": "Join Outside’s Live Q&A with PCT Correspondent and Thru-Hiker, David Gleisner",
+      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/thru-hiking-david-gleisner/",
+      "summary": "Planning a backpacking trip? Join Pacific Crest Trail correspondent and thru-hiker David Gleisner live on March 25 for a Q&A. The post Join Outside’s Live Q&A with PCT Corresponden",
+      "pubDate": "Mon, 23 Mar 2026 20:46:54 +0000",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/Ama-david-gleisner-2.png?width=1200",
+      "source": "Outside Online"
+    },
+    {
+      "title": "In One of the Wettest Places on the Planet, Indigenous People Build Bridges and Ladders Out of Living Tree Roots",
+      "link": "https://www.smithsonianmag.com/travel/in-one-of-the-wettest-places-on-the-planet-indigenous-people-build-bridges-and-ladders-out-of-living-tree-roots-180988405/",
+      "summary": "For hundreds of years, Khasi and Jaintia people in Meghalaya, India, have woven the roots of Indian rubber trees into structures that help them navigate flooded areas",
+      "pubDate": "Wed, 25 Mar 2026 15:52:30 +0000",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/YCdUYUO1suf2uiXcuwzV3gR9t98=/420x240/filters:focal(1000x652:1001x653)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/24/25/2425b9af-0b19-436d-95eb-b93043c97565/2_1.jpg",
+      "source": "Smithsonian Magazine"
+    },
+    {
+      "title": "How a Small Winter Flower Has Attracted Droves of Admirers—and Offers a Symbol of Resilience",
+      "link": "https://www.smithsonianmag.com/science-nature/how-a-small-winter-flower-has-attracted-droves-of-admirersand-offers-a-symbol-of-resilience-180988423/",
+      "summary": "The snowdrop, or Galanthus, blooms when the world is still frozen. Gardeners enamored with the plant gather each year in Pennsylvania to celebrate its subtleties and endurance",
+      "pubDate": "Wed, 25 Mar 2026 14:05:38 +0000",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/OMBkmLbt60fVuHqWP8NviJYsoq8=/420x240/filters:focal(2016x1517:2017x1518)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f1/e7/f1e74dce-f258-494f-8951-8099c6f1f1d7/img_7803.jpg",
+      "source": "Smithsonian Magazine"
+    },
+    {
+      "title": "A New Nail Polish Might Someday Solve Touch Screen Struggles for Users With Long Fingernails",
+      "link": "https://www.smithsonianmag.com/smart-news/a-new-nail-polish-might-someday-solve-touch-screen-struggles-for-users-with-long-fingernails-180988418/",
+      "summary": "The experimental coating could effectively transform fingernails into touch screen-compatible styluses",
+      "pubDate": "Wed, 25 Mar 2026 14:00:00 +0000",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/1Oibc_1Me1sSlE7ZUKH9ntavrS0=/420x240/filters:focal(4128x2752:4129x2753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/37/5f/375f6455-57e4-4bec-a6f5-774330d60e9e/nail-polish.jpg",
+      "source": "Smithsonian Magazine"
+    },
+    {
+      "title": "Archaeologists Are Mystified by These 2,000-Year-Old Bodies Found Seated Upright and Facing West in France",
+      "link": "https://www.smithsonianmag.com/smart-news/archaeologists-are-mystified-by-these-2000-year-old-bodies-found-seated-upright-and-facing-west-in-france-180988425/",
+      "summary": "Researchers previously discovered 13 sets of human remains buried in a similar manner at the same grave site in Dijon",
+      "pubDate": "Wed, 25 Mar 2026 11:15:00 +0000",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/q3y528ArsiDVYLS-OGw3h0h9caw=/420x240/filters:focal(960x649:961x650)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3a/46/3a465cf0-7151-456b-8769-febfad3f06a7/2026_c_christophe_fouquin_inrap_2026_8.jpg",
+      "source": "Smithsonian Magazine"
+    },
+    {
+      "title": "A Bronze Age Loom Sheds New Light on Mediterranean Textile Practices",
+      "link": "https://www.smithsonianmag.com/smart-news/a-bronze-age-loom-sheds-new-light-on-mediterranean-textile-practices-180988426/",
+      "summary": "This 3,500-year-old warp-weighted loom was surprisingly preserved by a fire that destroyed multiple buildings in an ancient Iberian settlement",
+      "pubDate": "Tue, 24 Mar 2026 20:30:38 +0000",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/qhnwbgxJfp57ef12pDU-3sqZLqc=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/79/f2/79f2d981-7a8f-4183-8bcb-f53b36d9a9f8/loom.jpg",
+      "source": "Smithsonian Magazine"
+    },
+    {
+      "title": "Archaeologists Unearth More Than 40,000 Pieces of Pottery That Ancient Egyptians Used Like Scrap Paper",
+      "link": "https://www.smithsonianmag.com/smart-news/archaeologists-unerath-more-than-40000-pieces-pottery-that-ancient-egyptians-used-scrap-paper-180988414/",
+      "summary": "The ostraca, some dating back to the time just before Cleopatra, were discovered within the ancient ruins of Athribis",
+      "pubDate": "Tue, 24 Mar 2026 20:01:52 +0000",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/f-Wzi4IQcbXsnSVwdgDty3Nd_9U=/420x240/filters:focal(1440x1323:1441x1324)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ea/28/ea28edd7-fd19-434f-a737-1ac5c74599c7/pottery.jpg",
+      "source": "Smithsonian Magazine"
+    },
+    {
+      "title": "This Critically Endangered Bird's Song Was About to Disappear. Scientists Saved It by Recruiting Some Wild Vocal Tutors",
+      "link": "https://www.smithsonianmag.com/smart-news/this-critically-endangered-birds-song-was-about-to-disappear-then-scientists-recruited-some-wild-vocal-tutors-180988415/",
+      "summary": "Wild-born male regent honeyeaters passed their cultural knowledge to young captive-born birds",
+      "pubDate": "Tue, 24 Mar 2026 18:51:59 +0000",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/kCssyqdD9FwBJlgpp3ZC5AkX1WI=/420x240/filters:focal(960x640:961x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3e/a0/3ea051ef-cb48-48ac-a477-5e4a4f0eb276/regent_honeyeater.jpg",
+      "source": "Smithsonian Magazine"
+    },
+    {
+      "title": "Scientists May Have Discovered a New Type of Planet Beyond the Solar System. The Catch? It Smells Like Rotten Eggs",
+      "link": "https://www.smithsonianmag.com/smart-news/scientists-may-have-discovered-a-new-type-of-planet-beyond-the-solar-system-the-catch-it-smells-like-rotten-eggs-180988390/",
+      "summary": "L98-59d seems to be a molten planet with an atmosphere full of hydrogen sulfide",
+      "pubDate": "Tue, 24 Mar 2026 16:41:52 +0000",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/ZNmH8jfvCtKFPJaN7jvgC1apaNQ=/420x240/filters:focal(430x301:431x302)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b7/bb/b7bb279a-4b28-4309-b631-9ccfd7bb578a/mark_garlick_illustration_v2.webp",
+      "source": "Smithsonian Magazine"
+    },
+    {
+      "title": "This Suspected Meteorite Tore Through the Roof of a Suburban Houston Home",
+      "link": "https://www.smithsonianmag.com/smart-news/this-suspected-meteorite-tore-through-the-roof-of-a-suburban-houston-home-180988396/",
+      "summary": "A bright meteor streaked across the afternoon sky and exploded over southeast Texas this weekend",
+      "pubDate": "Tue, 24 Mar 2026 15:07:59 +0000",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/jXoopLt2uOri1YOJAAkr7qPcRr0=/420x240/filters:focal(540x720:541x721)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/41/5f/415f9aeb-0c22-4199-881b-849be91339b5/1000006325.jpg",
+      "source": "Smithsonian Magazine"
+    },
+    {
+      "title": "A History of Momo, the Dumpling That Defines Nepali Cuisine",
+      "link": "https://www.smithsonianmag.com/travel/a-history-of-momo-the-dumpling-that-defines-nepali-cuisine-180988395/",
+      "summary": "Though its exact origins are unknown, the staple is widely traced back to trade with Tibet",
+      "pubDate": "Tue, 24 Mar 2026 12:00:00 +0000",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/ZKxugSyYwKPi2xADMV5RiEjC8qg=/420x240/filters:focal(512x344:513x345)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a9/14/a9147fcd-4710-4606-bd52-77bac5a6a3fb/gettyimages-1095350190.jpg",
+      "source": "Smithsonian Magazine"
+    },
+    {
+      "title": "When were dogs domesticated? The oldest known dog DNA offers clues",
+      "link": "https://www.sciencenews.org/article/oldest-dog-dna-domestication",
+      "summary": "Two new studies suggest that genetically stable dogs were living among humans in Europe by about 14,000 years ago.",
+      "pubDate": "Wed, 25 Mar 2026 16:00:00 +0000",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/032526_TM_dog_main.jpg?w=800",
+      "source": "Science News"
+    },
+    {
+      "title": "A private moon lander challenges ideas about lunar volcanism",
+      "link": "https://www.sciencenews.org/article/moon-blue-ghost-lander-lunar-volcanism",
+      "summary": "New measurements from the Blue Ghost lander suggest that thin crust, not just radioactive heating, shaped the moon’s dark lava plains.",
+      "pubDate": "Wed, 25 Mar 2026 14:00:00 +0000",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/032426_LG_BlueGhost_main.jpg?w=800",
+      "source": "Science News"
+    },
+    {
+      "title": "Clumps of mouse brain cells can learn to play a virtual game",
+      "link": "https://www.sciencenews.org/article/brain-cells-organoids-video-game-doom",
+      "summary": "Sure, playing video game is fun. But the ability of tiny brain organoids to pick up a skill could provide insight into how healthy brains work.",
+      "pubDate": "Wed, 25 Mar 2026 13:00:00 +0000",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/031926_brainblob_main.jpg?w=800",
+      "source": "Science News"
+    },
+    {
+      "title": "Antimatter traveled by truck for the first time",
+      "link": "https://www.sciencenews.org/article/antimatter-traveled-truck-delivery-cern",
+      "summary": "Scientists are envisioning an antimatter delivery program that could ferry antiprotons from CERN to other labs around Europe.",
+      "pubDate": "Tue, 24 Mar 2026 20:43:26 +0000",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/032426_EC_antimatter_main.jpg?w=800",
+      "source": "Science News"
+    },
+    {
+      "title": "These insects fly with their legs. Physics explains how",
+      "link": "https://www.sciencenews.org/article/phantom-crane-fly-legs-physics",
+      "summary": "Phantom crane flies change the angle of their splayed legs to increase or reduce drag, helping them navigate varying winds.",
+      "pubDate": "Tue, 24 Mar 2026 15:00:00 +0000",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/032026_EC_crane-flies_main.jpg?w=800",
+      "source": "Science News"
+    },
+    {
+      "title": "Neandertals made antibacterial ointment, but may not have known it",
+      "link": "https://www.sciencenews.org/article/neandertals-antibacterial-birch-tar",
+      "summary": "A team of scientists re-created the way Neandertals made birch tar and found its antibacterial properties could fight off skin infections.",
+      "pubDate": "Tue, 24 Mar 2026 13:00:00 +0000",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/031726_MK_Neanderthal_main.jpg?w=800",
+      "source": "Science News"
+    },
+    {
+      "title": "In a rare event, the moon got a massive new crater",
+      "link": "https://www.sciencenews.org/article/moon-new-crater-nasa-orbiter",
+      "summary": "A crater as wide as two American football fields formed in spring 2024, a size expected roughly once a century. A NASA orbiter got to watch.",
+      "pubDate": "Mon, 23 Mar 2026 15:00:00 +0000",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/032026_LG_crater_main_rev.jpg?w=800",
+      "source": "Science News"
+    },
+    {
+      "title": "Female giant rainforest mantises grow up to strike harder than males",
+      "link": "https://www.sciencenews.org/article/female-mantises-strike-harder-strike",
+      "summary": "Scientists tracked mantis strike force from youth to adulthood, showing females eventually hit far harder than males. Why is a mystery.",
+      "pubDate": "Mon, 23 Mar 2026 13:00:00 +0000",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/030926_SM_mantis_social.jpg?w=800",
+      "source": "Science News"
+    },
+    {
+      "title": "Long nails don’t work on touchscreens. An experimental polish could help",
+      "link": "https://www.sciencenews.org/article/touchscreen-experimental-nail-polish",
+      "summary": "Proton movement in the nail polish probably activates the touchscreen, but the formula isn’t ready to hit shelves yet.",
+      "pubDate": "Mon, 23 Mar 2026 09:00:00 +0000",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/032026_SW_fingernails_main.jpg?w=800",
+      "source": "Science News"
+    },
+    {
+      "title": "Science and armed conflict",
+      "link": "https://www.sciencenews.org/article/ed-note-april-2026",
+      "summary": "Editor in chief Nancy Shute discusses how science and armed conflict have been intertwined throughout history, from the Greeks in 400 B.C. to the use of tear gas in the protests ac",
+      "pubDate": "Sat, 21 Mar 2026 11:00:00 +0000",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/01/cropped-favicon.jpg?w=32",
+      "source": "Science News"
+    },
+    {
+      "title": "Ancient elephant bones reveal vivid details of a Neanderthal hunt",
+      "link": "https://www.newscientist.com/article/2520535-ancient-elephant-bones-reveal-vivid-details-of-a-neanderthal-hunt/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Researchers have re-analysed a set of elephant bones and a wooden spear found in Germany in 1948, which provide compelling evidence of Neanderthals' big game hunting abilities",
+      "pubDate": "Wed, 25 Mar 2026 11:54:28 +0000",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/25112038/SEI_290839557.jpg",
+      "source": "New Scientist"
+    },
+    {
+      "title": "The Selfish Gene: Still one of the most thrilling evolution books ever",
+      "link": "https://www.newscientist.com/article/2519896-the-selfish-gene-still-one-of-the-most-thrilling-evolution-books-ever/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Fifty years ago, Richard Dawkins shared an irresistible scientific metaphor with the world that modernised and democratised evolutionary biology. Half a century on, The Selfish Gen",
+      "pubDate": "Wed, 25 Mar 2026 11:00:01 +0000",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/18144817/sei289837389.jpg",
+      "source": "New Scientist"
+    },
+    {
+      "title": "Cancer-causing chemical found to be leaking from gas cookers",
+      "link": "https://www.newscientist.com/article/2520639-cancer-causing-chemical-found-to-be-leaking-from-gas-cookers/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "One in 10 homes tested in the UK, Italy and the Netherlands have dangerous levels of benzene because of slow leaks from gas hobs and ovens",
+      "pubDate": "Wed, 25 Mar 2026 07:00:26 +0000",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/24144609/SEI_290757150.jpg",
+      "source": "New Scientist"
+    },
+    {
+      "title": "Earth may have formed from two separate rings around the sun",
+      "link": "https://www.newscientist.com/article/2520503-earth-may-have-formed-from-two-separate-rings-around-the-sun/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Our solar system’s rocky planets – Mercury, Venus, Earth and Mars – may have formed from two rings around the young sun, rather than a single disc",
+      "pubDate": "Tue, 24 Mar 2026 18:00:35 +0000",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/24133844/SEI_290742313.jpg",
+      "source": "New Scientist"
+    },
+    {
+      "title": "Cystitis or tooth decay could trigger dementia just a few years later",
+      "link": "https://www.newscientist.com/article/2520688-cystitis-or-tooth-decay-could-trigger-dementia-just-a-few-years-later/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Infections are increasingly being linked to a higher risk of dementia. In the latest research, scientists have found that being treated in hospital for a severe infection seems to ",
+      "pubDate": "Tue, 24 Mar 2026 18:00:24 +0000",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/24145215/SEI_290746786.jpg",
+      "source": "New Scientist"
+    },
+    {
+      "title": "The shocking fossils that show T. rex wasn't the king of the dinosaurs",
+      "link": "https://www.newscientist.com/article/2519003-the-shocking-fossils-that-show-t-rex-wasnt-the-king-of-the-dinosaurs/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "We've always thought that Tyrannosaurus rex was an unchallenged apex predator during the dying days of the dinosaurs. But a fresh look at controversial fossils has prompted palaeon",
+      "pubDate": "Tue, 24 Mar 2026 16:00:41 +0000",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/11132255/SEI_288902859.jpg",
+      "source": "New Scientist"
+    },
+    {
+      "title": "Antimatter has been transported by road for the first time",
+      "link": "https://www.newscientist.com/article/2520548-antimatter-has-been-transported-by-road-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "CERN is working on building an antimatter delivery service. The project passed a big test by successfully transporting 92 antiprotons around a 4-kilometre loop of road",
+      "pubDate": "Tue, 24 Mar 2026 13:30:12 +0000",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/24132323/SEI_290751666.jpg",
+      "source": "New Scientist"
+    },
+    {
+      "title": "How AI shook the world's largest meeting of physicists",
+      "link": "https://www.newscientist.com/article/2520506-how-ai-shook-the-worlds-largest-meeting-of-physicists/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Physicists are grappling with how the increasing presence of AI will change the nature of their profession",
+      "pubDate": "Tue, 24 Mar 2026 13:00:47 +0000",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/24105205/SEI_290270926.jpg",
+      "source": "New Scientist"
+    },
+    {
+      "title": "Adrian Tchaikovsky: 'I try and do interesting aliens'",
+      "link": "https://www.newscientist.com/article/2520049-adrian-tchaikovsky-i-try-and-do-interesting-aliens/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "As the science fiction author publishes the latest novel in his Children of Time series, Children of Strife, he talks to Alison Flood about mantis shrimp, the pleasures of sci-fi a",
+      "pubDate": "Tue, 24 Mar 2026 11:00:55 +0000",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/19155124/sei289975441.jpg",
+      "source": "New Scientist"
+    },
+    {
+      "title": "Are humans degenerating genetically and getting dumber as a result?",
+      "link": "https://www.newscientist.com/article/2520082-are-humans-degenerating-genetically-and-getting-dumber-as-a-result/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Are we evolving to be more stupid? Humans have a relatively high genetic mutation rate, which has been thought to be driving down our physical and mental fitness – but columnist Mi",
+      "pubDate": "Tue, 24 Mar 2026 09:00:33 +0000",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/19214115/SEI_290081553.jpg",
+      "source": "New Scientist"
+    },
+    {
+      "title": "Massive insect body size 300 million years ago may not have been due to high atmospheric oxygen",
+      "link": "https://phys.org/news/2026-03-massive-insect-body-size-million.html",
+      "summary": "Three-hundred-million years ago, Earth was very different. The continents had coalesced into Pangea, which was dominated in its equatorial regions by vast coal-swamp forests. With ",
+      "pubDate": "Wed, 25 Mar 2026 12:00:26 EDT",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/massive-insect-body-si.jpg",
+      "source": "Phys.org Zoology"
+    },
+    {
+      "title": "How the body senses cold has been a mystery—until now",
+      "link": "https://phys.org/news/2026-03-body-cold-mystery.html",
+      "summary": "When you reach into a bucket of ice, open your front door on a snowy day, or feel the tingle of menthol toothpaste, a protein in your nerve cells called TRPM8 springs into action, ",
+      "pubDate": "Wed, 25 Mar 2026 12:00:09 EDT",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-the-body-senses-co.jpg",
+      "source": "Phys.org Zoology"
+    },
+    {
+      "title": "The earliest dogs in Europe: 14,200-year-old DNA helps reveal their identity",
+      "link": "https://phys.org/news/2026-03-earliest-dogs-europe-year-dna.html",
+      "summary": "An international team of researchers led by the Francis Crick Institute, the University of East Anglia and the Max Planck Institute for Evolutionary Anthropology has found that dog",
+      "pubDate": "Wed, 25 Mar 2026 12:00:02 EDT",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2015/dog.jpg",
+      "source": "Phys.org Zoology"
+    },
+    {
+      "title": "Low-cost sensor system could warn farmers of salt stress in plants",
+      "link": "https://phys.org/news/2026-03-sensor-farmers-salt-stress.html",
+      "summary": "Soil salinity is a critical concern in agriculture when excessive soluble salts restrict a plant's water uptake, according to the U.S. Department of Agriculture, hindering crop gro",
+      "pubDate": "Wed, 25 Mar 2026 11:40:01 EDT",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/low-cost-sensor-system.jpg",
+      "source": "Phys.org Zoology"
+    },
+    {
+      "title": "Bioelectronic platform enables precise H₂S delivery to cells, turning a toxic gas into a therapeutic tool",
+      "link": "https://phys.org/news/2026-03-bioelectronic-platform-enables-precise-h8322s.html",
+      "summary": "A toxic gas known for its \"rotten egg smell\" has been transformed into a therapeutic tool. A research team at KAIST has developed a technology to precisely control hydrogen sulfide",
+      "pubDate": "Wed, 25 Mar 2026 11:20:01 EDT",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bioelectronic-platform.jpg",
+      "source": "Phys.org Zoology"
+    },
+    {
+      "title": "Tiny fossil eggs provide first physical evidence of Cretaceous bird-like dinosaurs in Korea",
+      "link": "https://phys.org/news/2026-03-tiny-fossil-eggs-physical-evidence.html",
+      "summary": "A major gap in South Korea's prehistoric record has been filled with the discovery of Onggwanoolithus aphaedoensis, the first known bird-type dinosaur eggs from the Cretaceous peri",
+      "pubDate": "Wed, 25 Mar 2026 10:40:08 EDT",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-fossil-eggs-provi.jpg",
+      "source": "Phys.org Zoology"
+    },
+    {
+      "title": "The polar bear 'umbrella': How protecting one species saves many",
+      "link": "https://phys.org/news/2026-03-polar-umbrella-species.html",
+      "summary": "To protect the vulnerable biodiversity of the Arctic, researchers from the University of Alberta and San Diego Zoo Wildlife Alliance (SDZWA) have identified a new conservation stra",
+      "pubDate": "Wed, 25 Mar 2026 07:00:31 EDT",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/polarbear.jpg",
+      "source": "Phys.org Zoology"
+    },
+    {
+      "title": "Genomes reveal five E. coli 'armor' types behind most multidrug-resistant bloodstream infections",
+      "link": "https://phys.org/news/2026-03-genomes-reveal-coli-armor-multidrug.html",
+      "summary": "The first large-scale genetic study of E. coli's protective armor has identified the five capsule types that are responsible for 70% of all multidrug-resistant bloodstream infectio",
+      "pubDate": "Wed, 25 Mar 2026 06:00:03 EDT",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/e-coli.jpg",
+      "source": "Phys.org Zoology"
+    },
+    {
+      "title": "Britain's hibernating hazel dormice are getting lighter in spring as temperatures rise, study suggests",
+      "link": "https://phys.org/news/2026-03-britain-hibernating-hazel-dormice-lighter.html",
+      "summary": "Britain's hazel dormice are getting lighter in spring but fatter in autumn as our climate changes, suggests new research in Scientific Reports. The study, titled \"The effects of cl",
+      "pubDate": "Wed, 25 Mar 2026 05:00:06 EDT",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dormice-weight-fluctua.jpg",
+      "source": "Phys.org Zoology"
+    },
+    {
+      "title": "Eight amino acids may explain salamanders' reduced cold sensitivity",
+      "link": "https://phys.org/news/2026-03-amino-acids-salamanders-cold-sensitivity.html",
+      "summary": "The ability to sense environmental temperature, which helps animals move away from suboptimal locations and find those with ideal temperatures, involves various channels on sensory",
+      "pubDate": "Wed, 25 Mar 2026 03:10:04 EDT",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/salamander.jpg",
+      "source": "Phys.org Zoology"
+    },
+    {
+      "title": " Is the metaverse finally dead and buried? What's really going on with the embattled idea of living in virtual worlds. ",
+      "link": "https://www.livescience.com/technology/mixed-reality/is-the-metaverse-finally-dead-and-buried-whats-really-going-on-with-the-embattled-idea-of-living-in-virtual-worlds",
+      "summary": "Touted as the next big thing just a few years back, the development of and hype fueling the metaverse have spluttered to a halt. Is it headed for the scrapheap of history?",
+      "pubDate": "Wed, 25 Mar 2026 16:00:00 +0000",
+      "image": "https://cdn.mos.cms.futurecdn.net/GZ4LtiFwTew6SvpVzke6bQ-1280-80.jpg",
+      "source": "Live Science"
+    },
+    {
+      "title": " Critically endangered hare spotted in surprising location for the first time in 40 years — but it was already dead ",
+      "link": "https://www.livescience.com/animals/land-mammals/critically-endangered-hare-spotted-in-surprising-location-for-the-first-time-in-40-years",
+      "summary": "Scientists in China have announced the first confirmed sighting of the critically endangered Hainan hare in part of its native range in four decades, after spotting its completely ",
+      "pubDate": "Wed, 25 Mar 2026 14:38:53 +0000",
+      "image": "https://cdn.mos.cms.futurecdn.net/M4yrRdKNLhbzahy3Bdy2Y8-1280-80.jpg",
+      "source": "Live Science"
+    },
+    {
+      "title": " Scientists are racing to save Australia's 'zombie tree' from a fast-spreading fungal disease ",
+      "link": "https://www.livescience.com/planet-earth/plants/scientists-are-racing-to-save-australias-zombie-tree-from-a-fast-spreading-fungal-disease",
+      "summary": "A fast-spreading fungal disease has left the newly named Australian \"zombie tree\" unable to produce flowers, fruit or seeds, and scientists warn that 16 other species may be headin",
+      "pubDate": "Wed, 25 Mar 2026 14:02:47 +0000",
+      "image": "https://cdn.mos.cms.futurecdn.net/2tVYqxxW62jAkqvsJ4Xh9L-1280-80.jpg",
+      "source": "Live Science"
+    },
+    {
+      "title": " Live Science Today: NASA announces $20 billion moonbase as unprecedented wildfires spread  ",
+      "link": "https://www.livescience.com/live-science-today-nasa-announces-usd20-billion-moonbase-as-unprecedented-wildfires-spread",
+      "summary": "Wednesday, March 25, 2026: Your daily roundup of the biggest science stories making headlines.",
+      "pubDate": "Wed, 25 Mar 2026 12:10:54 +0000",
+      "image": "https://cdn.mos.cms.futurecdn.net/CYqErW3PwAScay4zAbrUAS-1280-80.jpg",
+      "source": "Live Science"
+    },
+    {
+      "title": " Explore the natural world from the comfort of your own home with this Paramount+ streaming deal ",
+      "link": "https://www.livescience.com/products/explore-the-natural-world-from-the-comfort-of-your-own-home-with-this-paramount-streaming-deal",
+      "summary": "Attention nature documentary fans! You can save 79% on Paramount+ for two months and watch a ton of great series.",
+      "pubDate": "Wed, 25 Mar 2026 11:27:42 +0000",
+      "image": "https://cdn.mos.cms.futurecdn.net/c43iexcnGzi6erhthXDsWm-1280-80.jpg",
+      "source": "Live Science"
+    },
+    {
+      "title": " Diagnostic dilemma: A cross tattoo on a man's neck disappeared — killing his skin as it did so ",
+      "link": "https://www.livescience.com/health/viruses-infections-disease/diagnostic-dilemma-a-cross-tattoo-on-a-mans-neck-disappeared-killing-his-skin-as-it-did-so",
+      "summary": "A man's neck tattoo triggered a reaction so rare that it was only the second recorded case.",
+      "pubDate": "Wed, 25 Mar 2026 11:00:00 +0000",
+      "image": "https://cdn.mos.cms.futurecdn.net/DvhfAUhiX6gfwEBsCyW2WY-1280-80.png",
+      "source": "Live Science"
+    },
+    {
+      "title": " Mars is hiding a secret clutch of gemstone-like crystals, including rubies and possibly sapphires ",
+      "link": "https://www.livescience.com/space/mars/mars-is-hiding-a-secret-clutch-of-gemstone-like-crystals-including-rubies-and-possibly-sapphires",
+      "summary": "Astronomers have detected small, ruby-like crystals embedded in Martian rocks, which may also hide sapphires created in the fury of meteorite impacts.",
+      "pubDate": "Wed, 25 Mar 2026 10:00:00 +0000",
+      "image": "https://cdn.mos.cms.futurecdn.net/vcuk6RUdQozJHSwJAN9QTV-1280-80.png",
+      "source": "Live Science"
+    },
+    {
+      "title": " Drought could fuel the rise of antibiotic-resistant superbugs as climate change worsens, new research suggests ",
+      "link": "https://www.livescience.com/planet-earth/drought-could-fuel-the-rise-of-antibiotic-superbugs-as-climate-change-worsens-new-research-suggests",
+      "summary": "A warming world may see more antibiotic-resistant bacteria, according to new research that shows a link between aridity and antibiotic resistance today.",
+      "pubDate": "Tue, 24 Mar 2026 21:02:54 +0000",
+      "image": "https://cdn.mos.cms.futurecdn.net/Yk6JPFqRJf4GXSKV5AiUxQ-1280-80.jpg",
+      "source": "Live Science"
+    },
+    {
+      "title": " Massive Iron Age hoards discovered in England may be from funeral of powerful Celtic queen ",
+      "link": "https://www.livescience.com/archaeology/massive-iron-age-hoards-discovered-in-england-may-be-from-funeral-of-powerful-celtic-queen",
+      "summary": "Two lavish Iron Age hoards unearthed in England may have been burned in honor of a queen's royal ancestor, a new study finds",
+      "pubDate": "Tue, 24 Mar 2026 20:03:34 +0000",
+      "image": "https://cdn.mos.cms.futurecdn.net/sJxehmXUw6572rS7KZGfCm-1280-80.jpg",
+      "source": "Live Science"
+    },
+    {
+      "title": " Cannonball-size meteorite crashes through roof of Texas home as multiple 'fireballs' rain down on the US ",
+      "link": "https://www.livescience.com/space/meteoroids/cannonball-size-meteorite-crashes-through-roof-of-texas-home-as-multiple-fireballs-rain-down-on-the-us",
+      "summary": "A suspected space rock, around the size of a cantaloupe, was found in the bedroom of a Houston home after crashing through the building's roof. It is likely a fragment of one of se",
+      "pubDate": "Tue, 24 Mar 2026 17:09:44 +0000",
+      "image": "https://cdn.mos.cms.futurecdn.net/Eqnb7DUqqETt3gtBRfJpuh-1280-80.jpg",
+      "source": "Live Science"
+    },
+    {
+      "title": "Warblers in New Hampshire’s Forests Have Found an Ideal Way to Divvy Up Territories",
+      "link": "https://www.birds.cornell.edu/home/warblers-in-new-hampshires-forests-have-found-an-ideal-way-to-divvy-up-territories/",
+      "summary": "",
+      "pubDate": "Tue, 24 Mar 2026 13:22:48 +0000",
+      "image": "",
+      "source": "Cornell Conservation"
+    },
+    {
+      "title": "A Cattle Farm in Alabama Draws Birders for a Spectacle of Kites",
+      "link": "https://www.birds.cornell.edu/home/a-cattle-farm-in-alabama-draws-birders-for-a-spectacle-of-kites/",
+      "summary": "",
+      "pubDate": "Tue, 24 Mar 2026 13:21:34 +0000",
+      "image": "",
+      "source": "Cornell Conservation"
+    },
+    {
+      "title": "Tracking the Very Large, Very Elusive Star of Papua’s Forests: the Northern Cassowary",
+      "link": "https://www.birds.cornell.edu/home/tracking-the-very-large-very-elusive-star-of-papuas-forests-the-northern-cassowary/",
+      "summary": "",
+      "pubDate": "Tue, 24 Mar 2026 13:18:09 +0000",
+      "image": "",
+      "source": "Cornell Conservation"
+    },
+    {
+      "title": "Study reveals new technique to identify individual night-flying birds for the first time",
+      "link": "https://www.birds.cornell.edu/home/new-tech-to-id-night-migrating-birds/",
+      "summary": "Using thermal imaging and digital photography, researchers can now spot and identify birds that migrate silently through the night sky—a method that could reveal new insights into ",
+      "pubDate": "Fri, 06 Mar 2026 15:33:00 +0000",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "source": "Cornell Conservation"
+    },
+    {
+      "title": "Academic Books, Book Chapters And Papers In Conference Proceedings",
+      "link": "https://www.birds.cornell.edu/home/academic-books-book-chapters-and-papers-in-conference-proceedings/",
+      "summary": "Books Dhondt AA. 2012. Interspecific competition in birds. Oxford University Press. Clobert J, E Danchin, AA Dhondt, and J Nichols (eds). 2001. Dispersal. Oxford University Press. ",
+      "pubDate": "Thu, 19 Feb 2026 16:35:03 +0000",
+      "image": "",
+      "source": "Cornell Conservation"
+    },
+    {
+      "title": "New Research Forecasts the Impacts of Fire on Birds",
+      "link": "https://www.birds.cornell.edu/home/forecasting-impacts-of-fire-on-birds/",
+      "summary": "Where will severe fires threaten the most birds in the future? New research identifies where future high-severity fires threaten biodiversity hotspots in the western United States",
+      "pubDate": "Wed, 18 Feb 2026 18:17:27 +0000",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "source": "Cornell Conservation"
+    },
+    {
+      "title": "Photometrics AI Integrates Data from Bird Migration Forecasts to Automatically Dim Streetlights to Protect Birds",
+      "link": "https://www.birds.cornell.edu/home/photometrics-ai-uses-bird-data-to-adjust-streetlights/",
+      "summary": "New lighting system uses BirdCast data to enable real-time lighting adjustments during peak migration periods to reduce bird collisions with buildings.",
+      "pubDate": "Tue, 10 Feb 2026 19:25:51 +0000",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "source": "Cornell Conservation"
+    },
+    {
+      "title": "Scientists Just Mapped the Family Tree of 11,000+ Bird Species—And You Can Explore It",
+      "link": "https://www.birds.cornell.edu/home/scientists-map-interactive-avian-tree-of-life/",
+      "summary": "The new illustrated Birds of the World Phylogeny Explorer by the Cornell Lab of Ornithology lets users trace any bird's lineage, compare species relationships, and explore major ev",
+      "pubDate": "Wed, 28 Jan 2026 14:39:09 +0000",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "source": "Cornell Conservation"
+    },
+    {
+      "title": "Extend the Season of Love to Birds",
+      "link": "https://www.birds.cornell.edu/home/join_great_backyard_bird_count_2026/",
+      "summary": "Love is in the air—listen closely and the sounds of chickadees, sparrows, and thrushes are beckoning you to step outside to experience the love from birds and nature. Take a moment",
+      "pubDate": "Tue, 20 Jan 2026 14:39:03 +0000",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "source": "Cornell Conservation"
+    },
+    {
+      "title": "Cornell Lab of Ornithology’s Land Trust Bird Conservation Initiative Announces Opening of Small Grant Program",
+      "link": "https://www.birds.cornell.edu/home/cornell-lab-land-trust-small-grant-program/",
+      "summary": "Apply now for funds to support conservation on private and public lands from the Cornell Lab of Ornithology's Land Trust Bird Conservation Initiative.",
+      "pubDate": "Wed, 07 Jan 2026 15:23:03 +0000",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "source": "Cornell Conservation"
+    },
     {
       "name": "BirdWatching Daily",
       "color": 0,
