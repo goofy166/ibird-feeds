@@ -1,8 +1,52 @@
 {
-  "updated": "2026-03-25T21:49:58Z",
-  "updated_utc": "2026-03-25T21:49:58Z",
-  "count": 189,
+  "updated": "2026-03-25T22:47:39Z",
+  "updated_utc": "2026-03-25T22:47:39Z",
+  "count": 193,
   "stories": [
+    {
+      "title": "Meta and YouTube fined $3 million for harming mental health",
+      "link": "https://www.newscientist.com/article/2521032-meta-and-youtube-fined-3-million-for-harming-mental-health/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "In a landmark trial, social media giants Meta and YouTube were found negligent and ordered to pay for harming a user's mental health. The decision could force major changes in how ",
+      "date": "2026-03-25T20:52:03Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/25192520/SEI_290877693.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-25T22:47:34Z"
+    },
+    {
+      "title": "Microtubules discovered to play an active role in correctly distributing chromosomes during cell division",
+      "link": "https://phys.org/news/2026-03-microtubules-play-role-chromosomes-cell.html",
+      "summary": "Microtubules, the dynamic filaments that form the cell's internal scaffolding, have long been viewed as mere passive structural supports. But a new study reveals they play a far mo",
+      "date": "2026-03-25T22:10:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/microtubules-discovere-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-25T22:47:36Z"
+    },
+    {
+      "title": "Hooking big fish in warming oceans comes with a catch",
+      "link": "https://phys.org/news/2026-03-big-fish-oceans.html",
+      "summary": "When it comes to fishing, reeling in the biggest one is often the goal. But as it turns out, leaving the largest and oldest fish in the water can help entire fish populations cope ",
+      "date": "2026-03-25T22:10:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fishing.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-25T22:47:36Z"
+    },
+    {
+      "title": "Why no individual is like another when epigenetics come into play",
+      "link": "https://phys.org/news/2026-03-individual-epigenetics-play.html",
+      "summary": "Why do animals behave differently, and what are the consequences of this? A research team from the Collaborative Research Center NC³ at Bielefeld University and the University of M",
+      "date": "2026-03-25T22:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/different-fish.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-25T22:47:36Z"
+    },
     {
       "title": "A Fatal Crash in the Backcountry Forces Closure of a Huge Northern California Wilderness Area",
       "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/northern-california-plane-crash-wilderness-closure/",
