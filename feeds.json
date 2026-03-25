@@ -1,8 +1,140 @@
 {
-  "updated": "2026-03-25T18:03:32Z",
-  "updated_utc": "2026-03-25T18:03:32Z",
-  "count": 169,
+  "updated": "2026-03-25T19:50:46Z",
+  "updated_utc": "2026-03-25T19:50:46Z",
+  "count": 181,
   "stories": [
+    {
+      "title": "Why Do Birds Abandon Their Nests?",
+      "link": "https://www.birdsandblooms.com/birding/attracting-birds/bird-nesting/do-birds-abandon-their-nests/",
+      "summary": "Nesting season brings joy to the backyard, but sometimes things don't work out as expected. Learn why birds may abandon their nests and eggs. The post Why Do Birds Abandon Their Ne",
+      "date": "2026-03-25T19:29:21Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/BNBbyc19_amy-gonzales-e1774465847255.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-03-25T19:50:27Z"
+    },
+    {
+      "title": "Why Aerobic Exercise, Not Just Strength Training, Matters on GLP-1 Drugs",
+      "link": "https://www.outsideonline.com/health/training-performance/ozempic-glp1-exercise-fitness-study-results/",
+      "summary": "Exercise makes you fitter; simply taking a GLP-1 drug doesn’t. The post Why Aerobic Exercise, Not Just Strength Training, Matters on GLP-1 Drugs appeared first on Outside Online .",
+      "date": "2026-03-25T18:36:05Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/woman-running.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-03-25T19:50:37Z"
+    },
+    {
+      "title": "Archaeologists Discover an Intact Cannonball From the Battle of the Alamo—One Day Before the Pivotal Conflict's 190th Anniversary",
+      "link": "https://www.smithsonianmag.com/smart-news/archaeologists-discover-an-intact-cannonball-from-the-battle-of-the-alamo-one-day-before-the-pivotal-conflicts-190th-anniversary-180988402/",
+      "summary": "The projectile is made of bronze, which suggests it was fired by the Mexican Army during the siege leading up to the 1836 battle",
+      "date": "2026-03-25T18:31:22Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/K9R9WveHnLAYp7ozQWnZcufUcyY=/420x240/filters:focal(530x358:531x359)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8a/78/8a78f65f-a155-402b-8d44-7a718fb8bbe6/csm_cannonball_intact_3fd21b0923.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-03-25T19:50:39Z"
+    },
+    {
+      "title": "The brain's cleaning system can be boosted to rid Alzheimer's proteins",
+      "link": "https://www.newscientist.com/article/2520849-the-brains-cleaning-system-can-be-boosted-to-rid-alzheimers-proteins/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A duo of drugs that boosts our glympathic system, which clears waste from our brain, also improves the removal of proteins associated with the onset of Alzheimer's disease",
+      "date": "2026-03-25T17:00:53Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/25141936/SEI_290658128.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-25T19:50:41Z"
+    },
+    {
+      "title": "Oldest known dog extends the genetic history of our canine companions",
+      "link": "https://www.newscientist.com/article/2520476-oldest-known-dog-extends-the-genetic-history-of-our-canine-companions/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The remains of dogs from more than 14,000 years ago have been found in Turkey and the UK, revealing that domesticated animals were spread across Europe by hunter-gatherers",
+      "date": "2026-03-25T16:00:53Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/24113218/SEI_290740150.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-25T19:50:41Z"
+    },
+    {
+      "title": "How working out like an astronaut can reduce back pain and slow ageing",
+      "link": "https://www.newscientist.com/article/2519666-how-working-out-like-an-astronaut-can-reduce-back-pain-and-slow-ageing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The same principles that help astronauts stay strong in microgravity can help us all resist the slow collapse of ageing – and it’s not all about hitting the gym more",
+      "date": "2026-03-25T16:00:33Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/17162041/SEI_289181668.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-25T19:50:41Z"
+    },
+    {
+      "title": "Landmark experiment reveals a big unexpected problem with cloning",
+      "link": "https://www.newscientist.com/article/2520756-landmark-experiment-reveals-a-big-unexpected-problem-with-cloning/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A 20-year study has shown that, like photocopying photocopies, cloning doesn't produce perfect copies – with big implications for farming, conservation and de-extinction",
+      "date": "2026-03-25T14:44:47Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/25143619/SEI_290856999.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-25T19:50:41Z"
+    },
+    {
+      "title": "Why some reefs recover faster than others—mathematical model spotlights coral recruitment patterns",
+      "link": "https://phys.org/news/2026-03-reefs-recover-faster-mathematical-spotlights.html",
+      "summary": "Climate-driven disturbances such as marine heat waves are rapidly reducing coral cover and degrading reef ecosystems worldwide. Using a mathematical model, a research team led by S",
+      "date": "2026-03-25T19:40:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-some-reefs-recover.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-25T19:50:43Z"
+    },
+    {
+      "title": "Shell-cracking turtles defied mass extinction at the end of the Cretaceous period",
+      "link": "https://phys.org/news/2026-03-shell-turtles-defied-mass-extinction.html",
+      "summary": "The mass extinction at the boundary between the Cretaceous and Paleogene periods was catastrophic, wiping out much of life on Earth. Vertebrate groups that dominated at the time, s",
+      "date": "2026-03-25T19:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shell-cracking-turtles.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-25T19:50:43Z"
+    },
+    {
+      "title": "Studies offer insight into how owners experience pet loss",
+      "link": "https://phys.org/news/2026-03-insight-owners-pet-loss.html",
+      "summary": "New research from the Dog Aging Project and Texas A&M University highlights that for many families, losing a dog means losing a family member—and that the grief is profound regardl",
+      "date": "2026-03-25T19:10:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/beagle-sleeping.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-25T19:50:43Z"
+    },
+    {
+      "title": "Brazil's fire corals may be facing silent extinction, experts say",
+      "link": "https://phys.org/news/2026-03-brazil-corals-silent-extinction-experts.html",
+      "summary": "According to the authors of a study published in the journal Coral Reefs, fire corals may be undergoing a \"silent extinction.\" Coral bleaching occurs when seawater temperatures ris",
+      "date": "2026-03-25T18:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/brazils-fire-corals-ma.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-25T19:50:43Z"
+    },
+    {
+      "title": "Chinese lander reveals giant 'cavity' of radiation between Earth and the moon — and it could change how lunar exploration is done",
+      "link": "https://www.livescience.com/space/space-exploration/chinese-lander-reveals-giant-cavity-of-radiation-between-earth-and-the-moon-and-it-could-change-how-lunar-exploration-is-done",
+      "summary": "A new study using data from China's Chang'e-4 moon lander found an area of reduced radiation from cosmic rays near the moon. The findings could be used to improve the safety of lun",
+      "date": "2026-03-25T18:08:51Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/mnBAkvZwC8wVfqr73yRXuX-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-03-25T19:50:44Z"
+    },
     {
       "title": "In Praise of the Woodcreeper",
       "link": "https://www.10000birds.com/in-praise-of-the-woodcreeper.htm?utm_source=rss&utm_medium=rss&utm_campaign=in-praise-of-the-woodcreeper",
