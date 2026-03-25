@@ -1,8 +1,7 @@
 python#!/usr/bin/env python3
 """
-Fetches birding RSS feeds directly (no rss2json) and saves them as feeds.json.
-Runs as a GitHub Action every hour — the HTML page reads feeds.json
-from raw.githubusercontent.com.
+Fetches birding RSS feeds directly and saves them as feeds.json.
+Runs as a GitHub Action every hour.
 """
 
 import json
@@ -18,6 +17,17 @@ FEEDS = [
     {"url": "https://www.birdsandblooms.com/feed/",    "name": "Birds & Blooms",      "color": 2},
 ]
 
+HTML_ENTITIES = [
+    ("&nbsp;","&#160;"),("&copy;","&#169;"),("&mdash;","&#8212;"),
+    ("&ndash;","&#8211;"),("&hellip;","&#8230;"),("&ldquo;","&#8220;"),
+    ("&rdquo;","&#8221;"),("&lsquo;","&#8216;"),("&rsquo;","&#8217;"),
+    ("&trade;","&#8482;"),("&reg;","&#174;"),("&deg;","&#176;"),
+]
+
+def fix_entities(raw):
+    for bad, good in HTML_ENTITIES:
+        raw = raw.replace(bad, good)
+    return raw
 
 def strip_html(html):
     html = re.sub(r"<[^>]+>", "", html)
@@ -26,14 +36,12 @@ def strip_html(html):
         html = html.replace(entity, char)
     return re.sub(r"\s+", " ", html).strip()
 
-
 def extract_image(text):
     m = re.search(r'<img[^>]+src=["\']([^"\']+\.(?:jpg|jpeg|png|webp|gif))[^"\']*["\']', text, re.I)
     if m:
         return m.group(1)
     m = re.search(r'https?://[^\s"\'<>]+\.(?:jpg|jpeg|png|webp|gif)', text, re.I)
     return m.group(0) if m else None
-
 
 def fetch_feed(feed):
     req = urllib.request.Request(
@@ -43,14 +51,20 @@ def fetch_feed(feed):
     with urllib.request.urlopen(req, timeout=20) as r:
         raw = r.read().decode("utf-8", errors="replace")
 
-    root = ET.fromstring(raw)
-    items = root.findall(".//item") or root.findall(".//{http://www.w3.org/2005/Atom}entry")
+    raw = fix_entities(raw)
 
+    try:
+        root = ET.fromstring(raw)
+    except ET.ParseError as e:
+        # Strip any remaining bad entities with regex as fallback
+        raw = re.sub(r'&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)\w+;', ' ', raw)
+        root = ET.fromstring(raw)
+
+    items = root.findall(".//item") or root.findall(".//{http://www.w3.org/2005/Atom}entry")
     if not items:
         raise ValueError("No items found in feed")
 
-    pool = items[:5]
-    item = random.choice(pool)
+    item = random.choice(items[:5])
 
     def get_text(*tags):
         for tag in tags:
@@ -91,7 +105,6 @@ def fetch_feed(feed):
         "image":   image or "",
     }
 
-
 def main():
     stories = []
     for feed in FEEDS:
@@ -112,7 +125,8 @@ def main():
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     print(f"\nSaved {len(stories)}/{len(FEEDS)} stories to feeds.json")
-
+    if not stories:
+        raise SystemExit("No stories fetched — failing the action so we notice")
 
 if __name__ == "__main__":
     main()
