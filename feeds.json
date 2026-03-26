@@ -1,8 +1,85 @@
 {
-  "updated": "2026-03-26T15:15:35Z",
-  "updated_utc": "2026-03-26T15:15:35Z",
-  "count": 232,
+  "updated": "2026-03-26T17:13:27Z",
+  "updated_utc": "2026-03-26T17:13:27Z",
+  "count": 239,
   "stories": [
+    {
+      "title": "Return to the moon: Artemis 2 readying for April launch",
+      "link": "https://earthsky.org/spaceflight/the-artemis-program-nasas-mission-return-to-the-moon/",
+      "summary": "Currently, Artemis 2 is on schedule to launch toward the moon on April 1, 2026. Get more info on the historic launch here. The post Return to the moon: Artemis 2 readying for April",
+      "date": "Thu, 26 Mar 2026 09Z",
+      "image": "https://earthsky.org/upl/2026/01/Artemis-2-trajectory-map-NASA-e1768734129895.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-03-26T17:13:14Z"
+    },
+    {
+      "title": "In a First, the World's Most Expensive and Volatile Substance—Antimatter—Traveled by Truck",
+      "link": "https://www.smithsonianmag.com/smart-news/in-a-first-the-worlds-most-expensive-and-volatile-substance-antimatter-traveled-by-truck-180988431/",
+      "summary": "The work paves the way for longer-distance transport of the rare material so scientists can study it at other facilities",
+      "date": "Thu, 26 Mar 2026 16Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/ZjoOTjpRA4dmlZRcZnFwaKT0VK8=/420x240/filters:focal(720x480:721x481)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3f/4d/3f4de6f7-5dd8-4680-b7d6-568389aba288/anitmatter.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-03-26T17:13:20Z"
+    },
+    {
+      "title": "Why cells respond 'incorrectly' in old age",
+      "link": "https://phys.org/news/2026-03-cells-incorrectly-age.html",
+      "summary": "Some of the signs of aging in human cells originate in the cell nucleus, because the packaged form of DNA changes with age. This has now been demonstrated by PSI researchers. It me",
+      "date": "2026-03-26T16:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-cells-respond-inco.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-26T17:13:24Z"
+    },
+    {
+      "title": "Tiny bubbles, sound waves clean produce safely and effectively",
+      "link": "https://phys.org/news/2026-03-tiny-safely-effectively.html",
+      "summary": "A Jacuzzi for washing your tomatoes might seem odd, but new research finds that a bubble bath with a constant acoustic sound in the water may be the best chemical-free, gentle meth",
+      "date": "2026-03-26T16:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-bubbles-sound-wav.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-26T17:13:24Z"
+    },
+    {
+      "title": "Giant virus DNA may help polar algae survive harsh environments",
+      "link": "https://phys.org/news/2026-03-giant-virus-dna-polar-algae.html",
+      "summary": "In the game of survival, you can't always go it alone. Tiny algae living in the harsh conditions of the world's polar oceans appear to be better able to withstand the cold, high sa",
+      "date": "2026-03-26T15:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-giant-virus-dna-ma.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-26T17:13:24Z"
+    },
+    {
+      "title": "One-pot process could convert sugarcane waste to jet fuel",
+      "link": "https://phys.org/news/2026-03-pot-sugarcane-jet-fuel.html",
+      "summary": "Converting sugarcane waste to biofuel could become more environmentally friendly and cost-effective, thanks to a joint project at The University of Queensland and the Indian Instit",
+      "date": "2026-03-26T15:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-pot-process-to-con.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-26T17:13:24Z"
+    },
+    {
+      "title": "Astronauts may struggle to reproduce in outer space, study suggests — what does that mean for the future of space colonization?",
+      "link": "https://www.livescience.com/space/astronauts-may-struggle-to-reproduce-in-outer-space-study-suggests-what-does-that-mean-for-the-future-of-space-colonization",
+      "summary": "A new study found that microgravity simulated on Earth hindered sperm cell movement, egg fertilization and embryo development ‪—‬ findings that have serious implications for the fu",
+      "date": "Thu, 26 Mar 2026 16Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/XxyRqdijTD2AKPnnkpRFCm-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-03-26T17:13:25Z"
+    },
     {
       "title": "A flurry of fireballs! Is there a reason for the uptick?",
       "link": "https://earthsky.org/space/flurry-of-fireballs-march-2026-reason-ams/",
