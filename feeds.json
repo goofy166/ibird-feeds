@@ -1,8 +1,63 @@
 {
-  "updated": "2026-03-25T23:43:06Z",
-  "updated_utc": "2026-03-25T23:43:06Z",
-  "count": 193,
+  "updated": "2026-03-26T03:16:46Z",
+  "updated_utc": "2026-03-26T03:16:46Z",
+  "count": 198,
   "stories": [
+    {
+      "title": "How plants stop growing to survive stress: Retired scientist's persistence reveals insight to boost farm yields",
+      "link": "https://phys.org/news/2026-03-survive-stress-scientist-persistence-reveals.html",
+      "summary": "UC Riverside researchers have identified a mechanism that allows plants to rapidly slow growth in response to extreme environmental stress. The finding could help farmers grow more",
+      "date": "2026-03-26T03:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-plants-stop-growin.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-26T03:16:42Z"
+    },
+    {
+      "title": "New research suggests deadly bat fungus is more widespread in western Canada than previously known",
+      "link": "https://phys.org/news/2026-03-deadly-fungus-widespread-western-canada.html",
+      "summary": "Scientists at McMaster University have uncovered new evidence that the fungus causing white-nose syndrome, a deadly disease affecting bats, may be more widespread in Western Canada",
+      "date": "2026-03-26T02:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-suggests-3.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-26T03:16:42Z"
+    },
+    {
+      "title": "Ice Age animals and slice of Earth history found in central Texas water cave",
+      "link": "https://phys.org/news/2026-03-ice-age-animals-slice-earth.html",
+      "summary": "A paleontologist from The University of Texas at Austin has discovered the fossilized remains of Ice Age animals that have never been found in Central Texas before—and he came acro",
+      "date": "2026-03-26T01:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-ice-age-animals-an.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-26T03:16:42Z"
+    },
+    {
+      "title": "Hearing research traces evolution of key inner ear protein",
+      "link": "https://phys.org/news/2026-03-evolution-key-ear-protein.html",
+      "summary": "In the intricate machinery of the inner ear, hearing begins with a protein that moves a few billionths of a meter up to 100,000 times per second. That protein, called TMC1, sits at",
+      "date": "2026-03-26T01:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hearing-research-trace.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-26T03:16:42Z"
+    },
+    {
+      "title": "Marsh soils: Biodiversity fostered by self-organization",
+      "link": "https://phys.org/news/2026-03-marsh-soils-biodiversity-fostered.html",
+      "summary": "In the heart of the Marais Poitevin regional nature park, the second-largest wetland in France, a scientific team led by a CNRS researcher has demonstrated the ability of clay soil",
+      "date": "2026-03-26T00:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/marsh-soils-biodiversi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-26T03:16:42Z"
+    },
     {
       "title": "Meta and YouTube fined $3 million for harming mental health",
       "link": "https://www.newscientist.com/article/2521032-meta-and-youtube-fined-3-million-for-harming-mental-health/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
