@@ -1,8 +1,30 @@
 {
-  "updated": "2026-03-26T03:16:46Z",
-  "updated_utc": "2026-03-26T03:16:46Z",
-  "count": 198,
+  "updated": "2026-03-26T05:44:46Z",
+  "updated_utc": "2026-03-26T05:44:46Z",
+  "count": 200,
   "stories": [
+    {
+      "title": "Country diary: Spring is here – a mad mix of joy and discipline | Paul Evans",
+      "link": "https://www.theguardian.com/environment/2026/mar/26/country-diary-spring-is-here-a-mad-mix-of-joy-and-discipline",
+      "summary": "The Marches, Shropshire: The call of the chiffchaff and the turning of the allotment soil – these are seasonal rituals honed over time A pair of ravens, barking mad, perform their ",
+      "date": "2026-03-26T05:30:27Z",
+      "image": "https://i.guim.co.uk/img/media/bb718e5b5783a59fa4061ae7b28c00f2860bede1/408_0_4080_3264/master/4080.jpg?width=140&quality=85&auto=format&fit=max&s=9e7684ae9bc8ac0fe4e4f0605804a050",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-03-26T05:44:29Z"
+    },
+    {
+      "title": "Decoding the complete genome of the fungus responsible for Cercospora leaf spot in olive trees",
+      "link": "https://phys.org/news/2026-03-decoding-genome-fungus-responsible-cercospora.html",
+      "summary": "Collaboration between the UCO's Agronomy and Genetics departments was key to sequencing the genome of this pathogen, which is responsible for losses of up to €50 million per year. ",
+      "date": "2026-03-26T04:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-decode-the.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-26T05:44:41Z"
+    },
     {
       "title": "How plants stop growing to survive stress: Retired scientist's persistence reveals insight to boost farm yields",
       "link": "https://phys.org/news/2026-03-survive-stress-scientist-persistence-reveals.html",
