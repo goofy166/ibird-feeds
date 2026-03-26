@@ -1,8 +1,63 @@
 {
-  "updated": "2026-03-26T21:39:01Z",
-  "updated_utc": "2026-03-26T21:39:01Z",
-  "count": 261,
+  "updated": "2026-03-26T22:39:58Z",
+  "updated_utc": "2026-03-26T22:39:58Z",
+  "count": 266,
   "stories": [
+    {
+      "title": "Dolphins, stingers and ‘salt tongue’: an epic ocean swim around New Zealand’s east coast",
+      "link": "https://www.theguardian.com/world/2026/mar/26/ultra-marathon-swimmer-jono-rider-ocean-new-zealand-coast",
+      "summary": "Jono Ridler has battled loneliness and fatigue as he aims to break the record for the longest unassisted staged swim – and raise awareness about fragile marine life First he hears ",
+      "date": "2026-03-26T22:00:48Z",
+      "image": "https://i.guim.co.uk/img/media/f044f085e11189ffb2762cb0d3e409c2157cfcf7/500_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=029ff8f1d82eb62c296d5136a2a5ec59",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-03-26T22:39:43Z"
+    },
+    {
+      "title": "These Never-Before-Seen Photos Show Astronaut Neil Armstrong Relaxed and Smiling After He Almost Died in the Gemini 8 Emergency",
+      "link": "https://www.smithsonianmag.com/smart-news/these-never-before-seen-photos-show-astronaut-neil-armstrong-relaxed-and-smiling-after-he-almost-died-in-the-gemini-8-emergency-180988442/",
+      "summary": "Few members of the media were at the unexpected arrival site. Military police officer Ron McQueeney was one of the few photographers who documented the occasion",
+      "date": "Thu, 26 Mar 2026 22Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/Y_bdgultdcthOzH6EpP45SAKQ70=/420x240/filters:focal(960x786:961x787)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c9/ed/c9edc70c-f0e4-4a9d-a1f0-31edf2e38bdd/armstrong_3.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-03-26T22:39:51Z"
+    },
+    {
+      "title": "Bioluminescent bacterial partner proves essential for squid development",
+      "link": "https://phys.org/news/2026-03-bioluminescent-bacterial-partner-essential-squid.html",
+      "summary": "The Hawaiian bobtail squid, a small, multi-colored native of coastal waters in Hawai'i, uses bioluminescence to camouflage itself and evade predators. However, the costume change i",
+      "date": "2026-03-26T22:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bioluminescent-bacteri-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-26T22:39:55Z"
+    },
+    {
+      "title": "New synthetic origin of replication lets multiple plasmids coexist in one bacterial cell",
+      "link": "https://phys.org/news/2026-03-synthetic-replication-multiple-plasmids-coexist.html",
+      "summary": "\"If it ain't broke, don't fix it,\" goes the old adage, which Rice University professor James Chappell completely ignored in a recent Nature Communications publication. In the study",
+      "date": "2026-03-26T22:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-synthetic-parts-fo.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-26T22:39:55Z"
+    },
+    {
+      "title": "DNA shape explains crucial gene-therapy challenges",
+      "link": "https://phys.org/news/2026-03-dna-crucial-gene-therapy.html",
+      "summary": "CRISPR is a powerful DNA-editing tool that has underpinned huge advancements in human health care in the last decade. It is a precision tool, but is not perfect, and misplaced DNA ",
+      "date": "2026-03-26T21:40:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dna-shape-explains-cru-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-26T22:39:55Z"
+    },
     {
       "title": "Beavers bring biodiversity to wetlands, study shows",
       "link": "https://phys.org/news/2026-03-beavers-biodiversity-wetlands.html",
