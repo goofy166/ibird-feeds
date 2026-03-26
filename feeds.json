@@ -1,8 +1,52 @@
 {
-  "updated": "2026-03-26T22:39:58Z",
-  "updated_utc": "2026-03-26T22:39:58Z",
-  "count": 266,
+  "updated": "2026-03-26T23:40:57Z",
+  "updated_utc": "2026-03-26T23:40:57Z",
+  "count": 270,
   "stories": [
+    {
+      "title": "Tale of the lava heron: Student describes new Galapagos species",
+      "link": "https://phys.org/news/2026-03-tale-lava-heron-student-galapagos.html",
+      "summary": "The Galapagos Islands are famous for the discoveries that shaped Charles Darwin's theory of evolution. Now an SFSU graduate has added one more: Ezra Mendales (M.S., '23) describes ",
+      "date": "2026-03-26T23:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tale-of-the-lava-heron.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-26T23:40:53Z"
+    },
+    {
+      "title": "Scientists identify new Fusarium species behind wheat disease outbreak in Ethiopia",
+      "link": "https://phys.org/news/2026-03-scientists-fusarium-species-wheat-disease.html",
+      "summary": "Fusarium head blight (FHB) is a destructive disease of wheat that can reduce grain yields and contaminate grain with toxins harmful to humans and livestock. The disease threatens w",
+      "date": "2026-03-26T23:10:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-identify-ne.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-26T23:40:53Z"
+    },
+    {
+      "title": "Wild squirrels consistently climb higher for better snacks, researchers find",
+      "link": "https://phys.org/news/2026-03-wild-squirrels-climb-higher-snacks.html",
+      "summary": "Squirrels are usually willing to climb higher to reach their favorite foods, shows new research appearing in Animal Behaviour. Extensive lab studies have found that animals \"devalu",
+      "date": "2026-03-26T23:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/squirrels-climb-higher.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-26T23:40:53Z"
+    },
+    {
+      "title": "Researchers use quantum biosensors to peer into cells' inner workings",
+      "link": "https://phys.org/news/2026-03-quantum-biosensors-peer-cells.html",
+      "summary": "In a major advance applying insights from quantum physics to the inner workings of biology, a team of WashU researchers has successfully implanted quantum sensors in living cells t",
+      "date": "2026-03-26T22:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/cell-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-26T23:40:53Z"
+    },
     {
       "title": "Dolphins, stingers and ‘salt tongue’: an epic ocean swim around New Zealand’s east coast",
       "link": "https://www.theguardian.com/world/2026/mar/26/ultra-marathon-swimmer-jono-rider-ocean-new-zealand-coast",
