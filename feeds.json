@@ -1,8 +1,85 @@
 {
-  "updated": "2026-03-26T19:19:36Z",
-  "updated_utc": "2026-03-26T19:19:36Z",
-  "count": 252,
+  "updated": "2026-03-26T20:43:13Z",
+  "updated_utc": "2026-03-26T20:43:13Z",
+  "count": 259,
   "stories": [
+    {
+      "title": "Top 10 Hosta Varieties to Grow in Your Shade Garden",
+      "link": "https://www.birdsandblooms.com/gardening/shade-gardening/hosta-varieties/",
+      "summary": "Add big-foliage energy to your shady corners with colorful, easy-growing hosta varieties for garden beds and container plantings. The post Top 10 Hosta Varieties to Grow in Your Sh",
+      "date": "Thu, 26 Mar 2026 20Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/GettyImages-1347671838-e1774554519125.jpg?fit=700,703",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-03-26T20:42:55Z"
+    },
+    {
+      "title": "Put a Spring in Your Step",
+      "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/put-a-spring-in-your-step/",
+      "summary": "It’s the season to get moving, and with free shipping and free returns, Zappos makes it easy to get the best shoes for every pursuit The post Put a Spring in Your Step appeared fir",
+      "date": "Thu, 26 Mar 2026 19Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/Zappos_featured_h.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-03-26T20:43:05Z"
+    },
+    {
+      "title": "First glimpse of sperm whale birth reveals teamwork to support newborn",
+      "link": "https://www.newscientist.com/article/2521103-first-glimpse-of-sperm-whale-birth-reveals-teamwork-to-support-newborn/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A female sperm whale has been filmed giving birth for the first time, supported by 10 adult females who lifted the calf out of the water and protected it from predators",
+      "date": "Thu, 26 Mar 2026 18Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/26113420/SEI_290855176.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-26T20:43:09Z"
+    },
+    {
+      "title": "Fossils discovered in Egypt may be the closest ancestor of all apes",
+      "link": "https://www.newscientist.com/article/2521073-fossils-discovered-in-egypt-may-be-the-closest-ancestor-of-all-apes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Pieces of jawbone and teeth found in Egypt have been identified as a new early ape species named Masripithecus moghraensis, which lived about 17 million years ago",
+      "date": "Thu, 26 Mar 2026 18Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/26111629/SEI_290855396.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-26T20:43:09Z"
+    },
+    {
+      "title": "Succulents as role models: How they balance photosynthesis and water loss so efficiently",
+      "link": "https://phys.org/news/2026-03-succulents-role-photosynthesis-loss-efficiently.html",
+      "summary": "A research team led by the University of Bern has decoded a mechanism by which an inconspicuous succulent regulates the uptake of carbon dioxide via the leaf surface so finely that",
+      "date": "2026-03-26T20:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/succulents-as-role-mod.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-26T20:43:10Z"
+    },
+    {
+      "title": "AI tool can screen unknown bacteria for disease-linked genes, moving closer to preventing pandemics",
+      "link": "https://phys.org/news/2026-03-ai-tool-screen-unknown-bacteria.html",
+      "summary": "PathogenFinder2 is a new AI tool developed by researchers at DTU in Denmark, in collaboration with international partners, to determine whether an unfamiliar bacterium possesses ge",
+      "date": "2026-03-26T19:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-move-close.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-26T20:43:10Z"
+    },
+    {
+      "title": "2 Neanderthals present at same Siberian cave 10,000 years apart were distant relatives, 110,000-year-old bone reveals",
+      "link": "https://www.livescience.com/archaeology/neanderthals/2-neanderthals-present-at-same-siberian-cave-10-000-years-apart-were-distant-relatives-110-000-year-old-bone-reveals",
+      "summary": "Researchers extracted DNA from a Neanderthal bone fragment found in Russia's Denisova Cave, and the genome is shedding light on how small and isolated their groups were.",
+      "date": "Thu, 26 Mar 2026 19Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/m67LJCThv4ZKv5VSBQEueh-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-03-26T20:43:11Z"
+    },
     {
       "title": "Top 10 Full Sun Annuals That Love the Light",
       "link": "https://www.birdsandblooms.com/gardening/top-10-lists-for-gardeners/full-sun-annual-plants/",
