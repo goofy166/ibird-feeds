@@ -1,8 +1,19 @@
 {
-  "updated": "2026-03-26T07:21:39Z",
-  "updated_utc": "2026-03-26T07:21:39Z",
-  "count": 201,
+  "updated": "2026-03-26T09:07:43Z",
+  "updated_utc": "2026-03-26T09:07:43Z",
+  "count": 202,
   "stories": [
+    {
+      "title": "'Ghost forests' could be key to understanding coastal resilience to climate change",
+      "link": "https://phys.org/news/2026-03-ghost-forests-key-coastal-resilience.html",
+      "summary": "Rising sea levels are contributing to a phenomenon called \"ghost forests,\" which are groups of dead and dying standing trees that have been drowned by intruding saltwater. And all ",
+      "date": "2026-03-26T09:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ghost-forests-could-be.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-26T09:07:40Z"
+    },
     {
       "title": "‘A toxic punch’: fears Russia’s war is pushing the Black Sea and its dolphins past tipping point",
       "link": "https://www.theguardian.com/world/2026/mar/26/a-toxic-punch-fears-russia-war-black-sea-dolphins",
