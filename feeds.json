@@ -1,8 +1,85 @@
 {
-  "updated": "2026-03-26T13:47:09Z",
-  "updated_utc": "2026-03-26T13:47:09Z",
-  "count": 225,
+  "updated": "2026-03-26T15:15:35Z",
+  "updated_utc": "2026-03-26T15:15:35Z",
+  "count": 232,
   "stories": [
+    {
+      "title": "A flurry of fireballs! Is there a reason for the uptick?",
+      "link": "https://earthsky.org/space/flurry-of-fireballs-march-2026-reason-ams/",
+      "summary": "We've seen a flurry of fireballs recently, with reports from Europe to Canada and the U.S. Is there a reason for the uptick? Results of the investigation here. The post A flurry of",
+      "date": "Thu, 26 Mar 2026 15Z",
+      "image": "https://earthsky.org/upl/2026/03/fireball-houston-AMS.gif",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-03-26T15:15:21Z"
+    },
+    {
+      "title": "Vivid Dreams Might Be Key to Feeling Well Rested When You Wake Up, According to a New Study",
+      "link": "https://www.smithsonianmag.com/smart-news/vivid-dreams-might-be-key-to-feeling-well-rested-when-you-wake-up-according-to-a-new-study-180988434/",
+      "summary": "The findings could help explain the purpose of dreams and help physicians better treat people with sleep disorders",
+      "date": "Thu, 26 Mar 2026 14Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/l1icvzuOcoamAcxZumljEeY6_Io=/420x240/filters:focal(2736x1824:2737x1825)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5c/58/5c58533c-6d1d-4280-8c62-cc12b13044cd/pexels-ekaterina-bolovtsova-7445175.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-03-26T15:15:28Z"
+    },
+    {
+      "title": "Social media can be addictive, a jury finds. Research hints at a link",
+      "link": "https://www.sciencenews.org/article/social-media-addictive-meta-youtube",
+      "summary": "Instagram and YouTube intentionally designed social media platforms to hook users, a landmark court case found. A pediatrician explains the ruling’s impact.",
+      "date": "Thu, 26 Mar 2026 15Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/032526_SG_Metatrial_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-03-26T15:15:29Z"
+    },
+    {
+      "title": "A variety of jungle animals all use one type of tree as a latrine",
+      "link": "https://www.newscientist.com/article/2520892-a-variety-of-jungle-animals-all-use-one-type-of-tree-as-a-latrine/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "In the cloud forest of Costa Rica, many canopy-dwelling animals do their business in strangler fig trees, perhaps as a way of leaving messages",
+      "date": "Thu, 26 Mar 2026 10Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/25142951/SEI_290763466.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-26T15:15:31Z"
+    },
+    {
+      "title": "Research challenges long-held ecological belief of how rare species survive",
+      "link": "https://phys.org/news/2026-03-held-ecological-belief-rare-species.html",
+      "summary": "A biological process long thought to protect biodiversity and help species coexist may actually threaten diversity when species are separated by natural landscapes, infrastructure,",
+      "date": "2026-03-26T15:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-challenges-lo.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-26T15:15:32Z"
+    },
+    {
+      "title": "Ancient fish used their lungs to hear underwater, scientists reveal",
+      "link": "https://phys.org/news/2026-03-ancient-fish-lungs-underwater-scientists.html",
+      "summary": "How did ancient fish perceive their environment in the deep sea? An international team led by scientists from the Natural History Museum of Geneva (MHNG) and the University of Gene",
+      "date": "2026-03-26T14:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/prehistoric-fish-coela-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-26T15:15:32Z"
+    },
+    {
+      "title": "Brain aging results from a loss of control over how genes are regulated, mouse study suggests",
+      "link": "https://www.livescience.com/health/aging/brain-aging-results-from-a-loss-of-control-over-how-genes-are-regulated-mouse-study-suggests",
+      "summary": "Aging may \"erase\" the epigenetic markers that control gene expression in the brain, and this may create a snowball effect.",
+      "date": "Thu, 26 Mar 2026 13Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/h9kX9VNSjtg3chEE8kGBCV-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-03-26T15:15:33Z"
+    },
     {
       "title": "Astronomers spot 2 planets forming around young star",
       "link": "https://earthsky.org/space/astronomers-spot-2-planets-forming-around-young-star/",
