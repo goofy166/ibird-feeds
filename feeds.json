@@ -1,8 +1,19 @@
 {
-  "updated": "2026-03-26T05:44:46Z",
-  "updated_utc": "2026-03-26T05:44:46Z",
-  "count": 200,
+  "updated": "2026-03-26T07:21:39Z",
+  "updated_utc": "2026-03-26T07:21:39Z",
+  "count": 201,
   "stories": [
+    {
+      "title": "‘A toxic punch’: fears Russia’s war is pushing the Black Sea and its dolphins past tipping point",
+      "link": "https://www.theguardian.com/world/2026/mar/26/a-toxic-punch-fears-russia-war-black-sea-dolphins",
+      "summary": "As species vanish and the unique ecosystem radically changes, Ukrainian scientists can only wait until it is safe to properly assess the damage In the embattled harbours of Odesa, ",
+      "date": "2026-03-26T07:00:30Z",
+      "image": "https://i.guim.co.uk/img/media/cd17df4be4df973b81efd18be9d236458ce0bdc6/360_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=a14a7d375a8bfdabd38866e144e6956a",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-03-26T07:21:23Z"
+    },
     {
       "title": "Country diary: Spring is here – a mad mix of joy and discipline | Paul Evans",
       "link": "https://www.theguardian.com/environment/2026/mar/26/country-diary-spring-is-here-a-mad-mix-of-joy-and-discipline",
