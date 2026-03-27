@@ -1,8 +1,30 @@
 {
-  "updated": "2026-03-27T05:46:06Z",
-  "updated_utc": "2026-03-27T05:46:06Z",
-  "count": 272,
+  "updated": "2026-03-27T07:20:37Z",
+  "updated_utc": "2026-03-27T07:20:37Z",
+  "count": 274,
   "stories": [
+    {
+      "title": "Beavers ‘breathe new life’ into Dorset as dams built and biodiversity returns",
+      "link": "https://www.theguardian.com/environment/2026/mar/27/beavers-dorset-dams-biodiversity-national-trust",
+      "summary": "National Trust says one year after reintroduction they are enriching habitats and may be having kits this summer They were released this time last year with fanfare, much hope and ",
+      "date": "2026-03-27T06:00:06Z",
+      "image": "https://i.guim.co.uk/img/media/f9206be2063d5371c211b42c63205123153fb11d/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a6c7a7525be9bdf181c246200fa91e7a",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-03-27T07:20:22Z"
+    },
+    {
+      "title": "Antarctic whales’ remarkable comeback is threatened by krill fishing",
+      "link": "https://www.theguardian.com/environment/2026/mar/26/antarctic-whales-comeback-threatened-industrial-krill-fishing-southern-ocean",
+      "summary": "Huge industrial trawlers are competing for krill – the main food source for whales – in the Southern Ocean, removing vital nutrients from the ecosystem • Don’t get Down to Earth de",
+      "date": "2026-03-27T07:00:08Z",
+      "image": "https://i.guim.co.uk/img/media/c13606c05e8af55f97bcd746a4cf8569aeb44747/860_0_4260_3408/master/4260.jpg?width=140&quality=85&auto=format&fit=max&s=4263ff18a2a18a24d99c1c9878b4411a",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-03-27T07:20:22Z"
+    },
     {
       "title": "Study in search of a tropical spring is first to show some birds flip their breeding season in response to climate",
       "link": "https://phys.org/news/2026-03-tropical-birds-flip-season-response.html",
