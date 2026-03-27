@@ -1,8 +1,74 @@
 {
-  "updated": "2026-03-27T07:20:37Z",
-  "updated_utc": "2026-03-27T07:20:37Z",
-  "count": 274,
+  "updated": "2026-03-27T09:02:58Z",
+  "updated_utc": "2026-03-27T09:02:58Z",
+  "count": 280,
   "stories": [
+    {
+      "title": "Cut the lights – and seven more ways to save Britain’s bats",
+      "link": "https://www.theguardian.com/environment/2026/mar/27/cut-the-lights-and-seven-more-ways-to-save-britains-bats",
+      "summary": "Lots of us aren’t very keen on bats. But the more we find out about them, the more amazing they turn out to be Bats have a bad rep: in a recent survey by the Bat Conservation Trust",
+      "date": "2026-03-27T09:00:03Z",
+      "image": "https://i.guim.co.uk/img/media/241492f5222588532c47390c56605572f4d9ed84/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d0c22bf708af25b57fe0671b50b31bb1",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-03-27T09:02:42Z"
+    },
+    {
+      "title": "Week in wildlife: a flying rodent, a duty-free possum and an emerald viper",
+      "link": "https://www.theguardian.com/environment/gallery/2026/mar/27/week-in-wildlife-a-flying-rodent-a-duty-free-possum-and-an-emerald-viper",
+      "summary": "This week’s best wildlife photographs from around the world Continue reading...",
+      "date": "2026-03-27T08:00:02Z",
+      "image": "https://i.guim.co.uk/img/media/8bd1213e4375d1c78dc16f895a5b2d08a8909a42/547_0_4500_3600/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=a0dc7fea00a0364acf82764883ab6a0c",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-03-27T09:02:42Z"
+    },
+    {
+      "title": "Four wives, two passports and a very elusive butterfly: one woman’s search for her lepidopterist father",
+      "link": "https://www.theguardian.com/film/2026/mar/27/rena-effendi-searching-for-satyrus-butterfly-armenia-azerbaijan",
+      "summary": "Rena Effendi’s film Searching for Satyrus began with a quest for the endangered insect that bears her family name. Before long, she was reckoning with secrets, lies and the mysteri",
+      "date": "2026-03-27T08:00:00Z",
+      "image": "https://i.guim.co.uk/img/media/3bfcd7d04835ee12bd4514c1bd29004202202de5/270_0_2254_1803/master/2254.jpg?width=140&quality=85&auto=format&fit=max&s=be034676cc49292537955e6d51c5a707",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-03-27T09:02:42Z"
+    },
+    {
+      "title": "What Would Really Happen to Your Body If You Only Ate Beans to Survive ‘Paradise’s’ Apocalypse?",
+      "link": "https://www.outsideonline.com/health/nutrition/paradise-hulu-annie-surving-on-beans/",
+      "summary": "I can usually suspend reality for the sake of being entertained, but it’s going on two years and, all things considered, she’s still in decent shape. That’s suspicious. The post Wh",
+      "date": "2026-03-27T09:00:38Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/shailene-woodley-paradise.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-03-27T09:02:49Z"
+    },
+    {
+      "title": "Rare Andean bear captured in stunning photograph",
+      "link": "https://www.newscientist.com/article/mg26935880-300-rare-andean-bear-captured-in-stunning-photograph/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Shortlisted for the Sony World Photography Awards, this image by photographer Sebastian Di Domenico was taken in Columbia",
+      "date": "2026-03-25T18:00:00Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/20113159/SEI_289836467.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-27T09:02:53Z"
+    },
+    {
+      "title": "Gabon battles for baby sea turtles' survival",
+      "link": "https://phys.org/news/2026-03-gabon-baby-sea-turtles-survival.html",
+      "summary": "Small enough to fit in the palm of your hand, newly hatched sea turtles emerged on a Gabonese beach to embark on the treacherous 10-meter (33-foot) scramble across the sand to the ",
+      "date": "2026-03-27T08:29:59Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gabons-900-kilometres.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-27T09:02:54Z"
+    },
     {
       "title": "Beavers ‘breathe new life’ into Dorset as dams built and biodiversity returns",
       "link": "https://www.theguardian.com/environment/2026/mar/27/beavers-dorset-dams-biodiversity-national-trust",
