@@ -1,8 +1,96 @@
 {
-  "updated": "2026-03-27T09:02:58Z",
-  "updated_utc": "2026-03-27T09:02:58Z",
-  "count": 280,
+  "updated": "2026-03-27T10:56:54Z",
+  "updated_utc": "2026-03-27T10:56:54Z",
+  "count": 288,
   "stories": [
+    {
+      "title": "Strange star mystery solved after 50 years",
+      "link": "https://earthsky.org/space/mystery-of-strange-star-solved-50-years-gamma-cas/",
+      "summary": "For 50 years, astronomers have puzzled over a strange star in Cassiopeia bright in X-rays. But new data from XRISM revealed the culprit: a hidden companion. The post Strange star m",
+      "date": "2026-03-27T10:38:10Z",
+      "image": "https://earthsky.org/upl/2026/03/Gamma-Cas_and_its_hungry_white_dwarf_companion_pillars-e1774551168111.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-03-27T10:56:39Z"
+    },
+    {
+      "title": "Biggest earthquake in North America 62 years ago today",
+      "link": "https://earthsky.org/human-world/this-date-in-science-biggest-earthquake-in-north-america/",
+      "summary": "On Good Friday, March 27, 1964, south-central Alaska heaved under the biggest earthquake recorded in North America, registering a 9.2 on the Richter scale. The post Biggest earthqu",
+      "date": "2026-03-27T10:00:55Z",
+      "image": "https://earthsky.org/upl/2013/03/earthquake_alaska_3-27-1964-e1490263266107.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-03-27T10:56:39Z"
+    },
+    {
+      "title": "Author of Red Mars calls 'bullshit' on emigrating to the planet",
+      "link": "https://www.newscientist.com/article/2520312-author-of-red-mars-calls-bullshit-on-emigrating-to-the-planet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Kim Stanley Robinson opens his classic science fiction novel Red Mars in 2026. As the New Scientist Book Club embarks on reading it in April, he looks back on its origins – and how",
+      "date": "2026-03-27T09:20:54Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/23145152/sei290668427.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-27T10:56:48Z"
+    },
+    {
+      "title": "Why Kim Stanley Robinson's Red Mars is still a classic, 34 years on",
+      "link": "https://www.newscientist.com/article/2521097-why-kim-stanley-robinsons-red-mars-is-still-a-classic-34-years-on/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "As the New Scientist Book Club reads Kim Stanley Robinson’s science-fiction novel in April, George Bass digs into why this 1992 book still feels so relevant today",
+      "date": "2026-03-27T09:15:38Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/26143528/sei290979556.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-27T10:56:48Z"
+    },
+    {
+      "title": "Read an extract from Kim Stanley Robinson's sci-fi classic Red Mars",
+      "link": "https://www.newscientist.com/article/2520296-read-an-extract-from-kim-stanley-robinsons-sci-fi-classic-red-mars/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "This is the opening of Kim Stanley Robinson's Red Mars, the New Scientist Book Club read for April, as humans come to the planet to settle it",
+      "date": "2026-03-27T09:15:20Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/23141527/sei290656917.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-27T10:56:48Z"
+    },
+    {
+      "title": "New Scientist recommends documentary Molly vs The Machines",
+      "link": "https://www.newscientist.com/article/mg26935880-500-new-scientist-recommends-documentary-molly-vs-the-machines/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The books, TV, games and more that New Scientist staff have enjoyed this week",
+      "date": "2026-03-25T18:00:00Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/20135652/SEI_289816531.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-27T10:56:48Z"
+    },
+    {
+      "title": "Surprising G-spot found in the most detailed study of the penis yet",
+      "link": "https://www.newscientist.com/article/2520982-surprising-g-spot-found-in-the-most-detailed-study-of-the-penis-yet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A long-overlooked area of the penis has been found to have the highest concentration of nerve endings and sensory structures in the organ, suggesting that it is the “male G-spot”",
+      "date": "2026-03-27T09:00:28Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/26111649/SEI_290876107.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-27T10:56:48Z"
+    },
+    {
+      "title": "Astronauts will 'absolutely be test subjects': NASA's moon plans pose big questions — and big risks",
+      "link": "https://www.livescience.com/space/space-exploration/astronauts-will-absolutely-be-test-subjects-nasas-moon-plans-pose-big-questions-and-big-risks",
+      "summary": "Experts say building a lunar colony within the next decade, as NASA and Elon Musk want to, will require finding solutions to problems we don't yet fully understand.",
+      "date": "2026-03-27T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/NULCPWtsmBEbRoMZKLmKQ5-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-03-27T10:56:51Z"
+    },
     {
       "title": "Cut the lights – and seven more ways to save Britain’s bats",
       "link": "https://www.theguardian.com/environment/2026/mar/27/cut-the-lights-and-seven-more-ways-to-save-britains-bats",
