@@ -1,8 +1,52 @@
 {
-  "updated": "2026-03-27T17:54:20Z",
-  "updated_utc": "2026-03-27T17:54:20Z",
-  "count": 329,
+  "updated": "2026-03-27T19:05:52Z",
+  "updated_utc": "2026-03-27T19:05:52Z",
+  "count": 333,
   "stories": [
+    {
+      "title": "I Ditched My Car For a Commuter E-Bike—And I’m Never Going Back",
+      "link": "https://www.outsideonline.com/outdoor-gear/bikes-and-biking/aventon-abound-sr-review/",
+      "summary": "The Aventon Abound SR made me realize how little I actually need four wheels in the city. The post I Ditched My Car For a Commuter E-Bike—And I’m Never Going Back appeared first on",
+      "date": "2026-03-27T17:55:51Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/Featured-Image-scaled.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-03-27T19:05:43Z"
+    },
+    {
+      "title": "Scientists Identify the World's First Known Dog, Which Pushes Back the Animals' Genetic Record by About 5,000 Years",
+      "link": "https://www.smithsonianmag.com/smart-news/scientists-identify-the-worlds-first-known-dog-which-pushes-back-the-animals-genetic-record-by-about-5000-years-180988444/",
+      "summary": "Two new ancient DNA studies suggest that domesticated dogs were widespread in western Eurasia more than 14,000 years ago",
+      "date": "2026-03-27T17:49:18Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/IaphHUXFZQmbfqT4gRP9mqsZdm8=/420x240/filters:focal(600x349:601x350)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/93/52/93525b4b-98c2-4082-99e2-af7683e4680f/palaeolithic-dog-illustration-two-columnjpgthumb19201920.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-03-27T19:05:45Z"
+    },
+    {
+      "title": "How lifetime stress drives abnormal behaviors in lab monkeys",
+      "link": "https://phys.org/news/2026-03-lifetime-stress-abnormal-behaviors-lab.html",
+      "summary": "It is not unusual for laboratory monkeys to engage in abnormal repetitive behaviors (ARBs), such as pacing and hair-plucking. Conventional thinking is that these actions are linked",
+      "date": "2026-03-27T19:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/rhesusmacaque.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-27T19:05:48Z"
+    },
+    {
+      "title": "Understanding protein motion could greatly aid new drug design",
+      "link": "https://phys.org/news/2026-03-protein-motion-greatly-aid-drug.html",
+      "summary": "For many people, \"protein\" is the key element of a food order. However, beyond the preferred choice of meats or plant-based alternatives, proteins encompass a large class of comple",
+      "date": "2026-03-27T18:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/understanding-protein.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-27T19:05:48Z"
+    },
     {
       "title": "Canadian Ginger Care and Growing Tips",
       "link": "https://www.birdsandblooms.com/gardening/shade-gardening/canadian-ginger/",
