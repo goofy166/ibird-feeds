@@ -1,8 +1,85 @@
 {
-  "updated": "2026-03-27T11:50:04Z",
-  "updated_utc": "2026-03-27T11:50:04Z",
-  "count": 295,
+  "updated": "2026-03-27T13:23:44Z",
+  "updated_utc": "2026-03-27T13:23:44Z",
+  "count": 302,
   "stories": [
+    {
+      "title": "A New HBO Series, ‘The Dark Wizard,’ Examines the Life and Death of Climbing Legend Dean Potter",
+      "link": "https://www.outsideonline.com/culture/books-media/the-dark-wizard-hbo-dean-potter-trailer-release-date/",
+      "summary": "From the creators of ‘The Alpinist’ and ‘The Dawn Wall,’ this docuseries explores the high-stakes life of the climbing legend who fell to his death at 43 years old. Watch the exclu",
+      "date": "2026-03-27T13:00:23Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/dean.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-03-27T13:23:36Z"
+    },
+    {
+      "title": "A rare star in a tiny galaxy preserves a record of the early universe",
+      "link": "https://www.sciencenews.org/article/primitive-star-galaxy-early-universe",
+      "summary": "Found in an ultrafaint dwarf galaxy, the ancient star’s unusual chemistry indicates it formed from gas enriched by a single early supernova.",
+      "date": "2026-03-27T12:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/031926_JB_star_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-03-27T13:23:39Z"
+    },
+    {
+      "title": "Exotic harvestmen once lived in Europe",
+      "link": "https://phys.org/news/2026-03-exotic-harvestmen-europe.html",
+      "summary": "A German-Bulgarian research team led by SNSB paleontologist Christian Bartel has discovered a new species of harvestman in 35-million-year-old Ukrainian and Baltic amber. The anima",
+      "date": "2026-03-27T13:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exotic-harvestmen-once-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-27T13:23:41Z"
+    },
+    {
+      "title": "Flowers have a 'biological clock' that times blooming and scent to match insects",
+      "link": "https://phys.org/news/2026-03-biological-clock-blooming-scent-insects.html",
+      "summary": "Morning-blooming morning glories and flowers that release fragrance at night seem as if they know the time. A KAIST research team has uncovered, at the molecular level, the working",
+      "date": "2026-03-27T13:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/flowers-have-a-biologi-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-27T13:23:41Z"
+    },
+    {
+      "title": "Synesthesia isn't just in your mind. The body reacts as if the colors were real.",
+      "link": "https://www.livescience.com/health/synesthesia-isnt-just-in-your-mind-the-body-reacts-as-if-the-colors-were-real",
+      "summary": "Pupil size in people with synesthesia changed depending on how bright or dark the perceived colors were.",
+      "date": "2026-03-27T13:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZbagFZniU6FhsAm9aWSnkP-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-03-27T13:23:42Z"
+    },
+    {
+      "title": "Save 20% on our all-time favorite air purifier ahead of the hay fever season",
+      "link": "https://www.livescience.com/products/health-fitness/save-20-percent-on-our-all-time-favorite-air-purifier-ahead-of-the-hay-fever-season",
+      "summary": "The Levoit Core 600S-P takes the top spot in our guide to the best air purifiers for allergies — and now, you can get it for just $239.99 at Walmart and Amazon.",
+      "date": "2026-03-27T12:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/m4KhpkmajWxU3nVgdp9R6k-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-03-27T13:23:42Z"
+    },
+    {
+      "title": "Live Science Today: Jaw-dropping first glimpse of sperm whale birth and how NASA is turning astronauts into test subjects",
+      "link": "https://www.livescience.com/live-science-today-jaw-dropping-first-glimpse-of-sperm-whale-birth-and-how-nasa-is-turning-astronauts-into-test-subjects",
+      "summary": "Friday, March 27, 2026: Your daily roundup of the biggest science stories making headlines.",
+      "date": "2026-03-27T11:58:13Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/R4VnJSV6rNrckhx3ZeR2ZR-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-03-27T13:23:42Z"
+    },
     {
       "title": "Birding Brochure English, Part 1: An Introduction",
       "link": "https://www.10000birds.com/birding-brochure-english-part-1-an-introduction.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-brochure-english-part-1-an-introduction",
