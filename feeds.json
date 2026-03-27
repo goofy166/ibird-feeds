@@ -1,8 +1,118 @@
 {
-  "updated": "2026-03-27T14:59:54Z",
-  "updated_utc": "2026-03-27T14:59:54Z",
-  "count": 312,
+  "updated": "2026-03-27T16:02:40Z",
+  "updated_utc": "2026-03-27T16:02:40Z",
+  "count": 322,
   "stories": [
+    {
+      "title": "Close encounters with the Quebrantahuesos",
+      "link": "https://www.10000birds.com/close-encounters-with-the-quebrantahuesos.htm?utm_source=rss&utm_medium=rss&utm_campaign=close-encounters-with-the-quebrantahuesos",
+      "summary": "It’s a big, handsome bird, with attractive colouring, feathers on its head and even an interesting little beard.",
+      "date": "2026-03-27T15:59:00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/03/P3111449.jpeg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-03-27T16:02:20Z"
+    },
+    {
+      "title": "Look and Listen for the Eastern Whip-poor-will",
+      "link": "https://www.birdsandblooms.com/birding/bird-species/eastern-whip-poor-will-identification/",
+      "summary": "Keep your ears open at night for the well-camouflaged eastern whip-poor-will: a rarely seen (but often heard!) summertime visitor. The post Look and Listen for the Eastern Whip-poo",
+      "date": "2026-03-27T14:54:16Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/GettyImages-1400305689-e1774622841541.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-03-27T16:02:21Z"
+    },
+    {
+      "title": "How to Identify a Prairie Warbler",
+      "link": "https://www.birdsandblooms.com/birding/bird-species/warblers/prairie-warbler/",
+      "summary": "Look for a prairie warbler in the eastern United States — but not in a prairie! Learn where to find them, what they eat, and more. The post How to Identify a Prairie Warbler appear",
+      "date": "2026-03-27T14:38:19Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/BNBPC23_Victor-Quintanilla-e1774621696476.jpg?fit=700,695",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-03-27T16:02:21Z"
+    },
+    {
+      "title": "See 15 Images of Wondrous West Africa From the Smithsonian Magazine Photo Contest",
+      "link": "https://www.smithsonianmag.com/travel/see-15-images-of-wondrous-west-africa-from-the-smithsonian-magazine-photo-contest-180988430/",
+      "summary": "Journey to Benin, Togo, Burkina Faso and many more nations through this gallery of the people, culture and wildlife of the region",
+      "date": "2026-03-27T15:04:20Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/Ine8DKTx4KlxmYNf32l63uhQEZs=/420x240/filters:focal(1000x667:1001x668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/26/3a/263a6022-597d-4c83-ae7f-3f5f53e84598/7ecfe8e5-3ea0-48f8-ae4a-d58e2b343719.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-03-27T16:02:33Z"
+    },
+    {
+      "title": "How snakes defy gravity to stand tall",
+      "link": "https://www.sciencenews.org/article/how-snakes-defy-gravity-to-stand-tall",
+      "summary": "Limbless tree snakes can lift most of their body into the air without toppling. They manage this by focusing all their bending forces at their base.",
+      "date": "2026-03-27T16:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/032426_RS_snakes_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-03-27T16:02:35Z"
+    },
+    {
+      "title": "Barcelona Metropolitan Area has lost more than 70% of agricultural land in recent decades, finds study",
+      "link": "https://phys.org/news/2026-03-barcelona-metropolitan-area-lost-agricultural.html",
+      "summary": "Peri-urban agriculture in the Barcelona Metropolitan Area (AMB) is in a critical situation after decades of decline. A new study conducted by the Institute of Environmental Science",
+      "date": "2026-03-27T15:50:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/barcelona-metropolitan.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-27T16:02:37Z"
+    },
+    {
+      "title": "Designing proteins by their motion, not just their shape",
+      "link": "https://phys.org/news/2026-03-proteins-motion.html",
+      "summary": "Proteins are far more than nutrients we track on a food label. Present in every cell of our bodies, they work like nature's molecular machines. They walk, stretch, bend, and flex t",
+      "date": "2026-03-27T15:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/designing-proteins-by.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-27T16:02:37Z"
+    },
+    {
+      "title": "Implantable 'living pharmacy' produces multiple drugs inside the body",
+      "link": "https://phys.org/news/2026-03-implantable-pharmacy-multiple-drugs-body.html",
+      "summary": "A multi-institutional team of scientists, co-led by Northwestern University, has taken a crucial step toward implantable \"living pharmacies\"—tiny devices containing engineered cell",
+      "date": "2026-03-27T15:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/implantable-living-pha.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-27T16:02:37Z"
+    },
+    {
+      "title": "Here's the stargazing gear you need for April 2026 — don't miss the Lyrids, two comets and the full moon",
+      "link": "https://www.livescience.com/products/optics/heres-the-stargazing-gear-you-need-for-april-2026-dont-miss-the-lyrids-two-comets-and-the-full-moon",
+      "summary": "These are our top camera, binocular and telescope recommendations for April's stargazing events, including the Lyrid meteor shower and two bright comets.",
+      "date": "2026-03-27T16:00:04Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ogwZYV5RgVMkMjKKPvcnY9-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-03-27T16:02:38Z"
+    },
+    {
+      "title": "DNA shed by every living thing is lurking in the environment — and it could tell us how Earth is changing in real time",
+      "link": "https://www.livescience.com/planet-earth/dna-shed-by-every-living-thing-is-lurking-in-the-environment-and-it-could-tell-us-how-earth-is-changing-in-real-time",
+      "summary": "Environments are littered with the DNA of the creatures that inhabit them. Analyzing it could provide a real-time view of how our planet is changing.",
+      "date": "2026-03-27T15:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/6DKG4Vyw7bCbDSQaYey3tD-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-03-27T16:02:38Z"
+    },
     {
       "title": "Rare tongue-shaped fungus discovered in nature reserve in West Sussex",
       "link": "https://www.theguardian.com/uk-news/2026/mar/27/rare-fungus-microglossum-cyanobasis-blue-based-earthtongue-nature-reserve-west-sussex",
