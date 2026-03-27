@@ -1,8 +1,19 @@
 {
-  "updated": "2026-03-26T23:40:57Z",
-  "updated_utc": "2026-03-26T23:40:57Z",
-  "count": 270,
+  "updated": "2026-03-27T03:19:58Z",
+  "updated_utc": "2026-03-27T03:19:58Z",
+  "count": 271,
   "stories": [
+    {
+      "title": "Study finds 60% of Australia's top-use pesticides are banned in the EU",
+      "link": "https://phys.org/news/2026-03-australia-pesticides-eu.html",
+      "summary": "Analysis of Australia's highest-volume pesticide use has revealed that the majority of products widely used in Australian agriculture are banned in other parts of the world, accord",
+      "date": "2026-03-27T02:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/majority-of-australias.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-27T03:19:54Z"
+    },
     {
       "title": "Tale of the lava heron: Student describes new Galapagos species",
       "link": "https://phys.org/news/2026-03-tale-lava-heron-student-galapagos.html",
