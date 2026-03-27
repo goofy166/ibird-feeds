@@ -1,8 +1,85 @@
 {
-  "updated": "2026-03-27T16:02:40Z",
-  "updated_utc": "2026-03-27T16:02:40Z",
-  "count": 322,
+  "updated": "2026-03-27T17:54:20Z",
+  "updated_utc": "2026-03-27T17:54:20Z",
+  "count": 329,
   "stories": [
+    {
+      "title": "Canadian Ginger Care and Growing Tips",
+      "link": "https://www.birdsandblooms.com/gardening/shade-gardening/canadian-ginger/",
+      "summary": "Need a ground cover for a shady, damp spot that is easy to grow? Try Canadian ginger! Here's what to know about this native plant. The post Canadian Ginger Care and Growing Tips ap",
+      "date": "2026-03-27T15:47:33Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/GettyImages-1232560408-e1774625401228.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-03-27T17:54:00Z"
+    },
+    {
+      "title": "If you don’t recognise Eryri, you could always look it up | Brief letters",
+      "link": "https://www.theguardian.com/uk-news/2026/mar/27/if-you-dont-recognise-eryri-you-could-always-look-it-up",
+      "summary": "Place names | Lessons from beavers | Recipes and measures | Crossword clues Don’t you think it’s time to stop putting Snowdonia in brackets every time you mention Eryri ( Scramblin",
+      "date": "2026-03-27T17:33:01Z",
+      "image": "https://i.guim.co.uk/img/media/69f623168191ad246ab9ad7da7f0f9fb06b2cc6b/0_700_3615_2892/master/3615.jpg?width=140&quality=85&auto=format&fit=max&s=f4ec28af783b973f760cbbd6ec4d7377",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-03-27T17:54:04Z"
+    },
+    {
+      "title": "Whale stranded off Germany swims to freedom after days of efforts to save it",
+      "link": "https://www.theguardian.com/world/2026/mar/27/whale-stranded-germany-free-rescue",
+      "summary": "Rescuers used boats and excavators to try to guide 10-metre long sea mammal to deeper waters A humpback whale stranded on Germany’s Baltic Sea coast since early this week has freed",
+      "date": "2026-03-27T16:35:13Z",
+      "image": "https://i.guim.co.uk/img/media/74d0979ee6c03a74387abf3a36b570e898ae556d/280_0_3921_3136/master/3921.jpg?width=140&quality=85&auto=format&fit=max&s=eeea81ba40e3fd64aad07552a733bbe4",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-03-27T17:54:04Z"
+    },
+    {
+      "title": "Scientists film whale giving birth while other whales work together to help her",
+      "link": "https://www.theguardian.com/environment/2026/mar/27/scientists-film-whale-giving-birth-other-whales-help-her",
+      "summary": "Female named Rounder surrounded by family members when about to give birth to her second calf Scientists have managed to film a sperm whale giving birth while other female whales w",
+      "date": "2026-03-27T16:13:07Z",
+      "image": "https://i.guim.co.uk/img/media/cc4ebed860e2222c0a18c1f8dc04ba66bc283892/213_0_1402_1121/master/1402.jpg?width=140&quality=85&auto=format&fit=max&s=4efaa8d4e6f0e02d1679641f73e7c05e",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-03-27T17:54:04Z"
+    },
+    {
+      "title": "I almost drowned in space when my helmet filled with water",
+      "link": "https://www.newscientist.com/article/2521138-i-almost-drowned-in-space-when-my-helmet-filled-with-water/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "During his second-ever spacewalk, European Space Agency astronaut Luca Parmitano felt water creeping across his face – and knew he could be moments from drowning inside his helmet",
+      "date": "2026-03-27T13:00:21Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/26162818/SEI_290991198.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-27T17:54:14Z"
+    },
+    {
+      "title": "Global maps show alien plant invasion hotspots shifting poleward",
+      "link": "https://phys.org/news/2026-03-global-alien-invasion-hotspots-shifting.html",
+      "summary": "An international research team led by the University of Vienna has produced, for the first time, high-resolution global maps of invasion risk for thousands of alien plant species u",
+      "date": "2026-03-27T16:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hotspots-of-plant-inva-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-27T17:54:16Z"
+    },
+    {
+      "title": "Our fossil fuel economy is a house of cards and Trump's war in Iran is about to topple it. The need for a clean energy transition has never been clearer.",
+      "link": "https://www.livescience.com/planet-earth/fossil-fuels/our-fossil-fuel-economy-is-a-house-of-cards-and-trumps-war-in-iran-is-about-to-topple-it-the-need-for-a-clean-energy-transition-has-never-been-clearer-opinion",
+      "summary": "Trump's war in Iran is the embodiment of everything that's wrong with our dependence on fossil fuels — and it's highlighting just how vital the transition to renewables is.",
+      "date": "2026-03-27T16:58:16Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/MkxQPhbCZi5aBtmoTaoA9Z-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-03-27T17:54:17Z"
+    },
     {
       "title": "Close encounters with the Quebrantahuesos",
       "link": "https://www.10000birds.com/close-encounters-with-the-quebrantahuesos.htm?utm_source=rss&utm_medium=rss&utm_campaign=close-encounters-with-the-quebrantahuesos",
