@@ -1,8 +1,107 @@
 {
-  "updated": "2026-03-27T19:05:52Z",
-  "updated_utc": "2026-03-27T19:05:52Z",
-  "count": 333,
+  "updated": "2026-03-27T20:50:01Z",
+  "updated_utc": "2026-03-27T20:50:01Z",
+  "count": 342,
   "stories": [
+    {
+      "title": "Rare footage shows whales working together to support mother and her newborn – video",
+      "link": "https://www.theguardian.com/global/video/2026/mar/27/rare-footage-shows-whales-working-together-to-support-mother-and-her-newborn-video",
+      "summary": "Scientists have filmed a sperm whale giving birth while other females worked together to support the mother and her newborn. A 19-year-old female named Rounder was surrounded by fa",
+      "date": "2026-03-27T20:45:55Z",
+      "image": "https://i.guim.co.uk/img/media/cc4ebed860e2222c0a18c1f8dc04ba66bc283892/213_0_1402_1121/master/1402.jpg?width=140&quality=85&auto=format&fit=max&s=4efaa8d4e6f0e02d1679641f73e7c05e",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-03-27T20:49:45Z"
+    },
+    {
+      "title": "The National Park Service Just Opened Job Applications at 6 National Park Sites",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/national-park-service-job-applications/",
+      "summary": "The National Park Service opened at least 200 applications for rangers at six iconic locations. What you need to know about applying for the 2026 season. The post The National Park",
+      "date": "2026-03-27T19:07:21Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/GettyImages-2201331607.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-03-27T20:49:52Z"
+    },
+    {
+      "title": "A Clump of Human Brain Cells on a Computer Chip Learned to Play the Nostalgic Video Game 'Doom'",
+      "link": "https://www.smithsonianmag.com/smart-news/a-clump-of-human-brain-cells-on-a-computer-chip-learned-to-play-the-nostalgic-video-game-doom-180988447/",
+      "summary": "The technology could one day help researchers develop drugs and tailor treatments to individual patients",
+      "date": "2026-03-27T19:54:55Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/VhXkhMj3pEnl5rrjZgS1pJ_us_s=/420x240/filters:focal(1934x809:1935x810)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f8/17/f817b98b-8998-4fcb-ba06-6aba5eab7dc0/screenshot_2026-03-27_at_122545pm.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-03-27T20:49:53Z"
+    },
+    {
+      "title": "Why Was This 2,000-Year-Old Sling Bullet Inscribed With the Word 'Learn'?",
+      "link": "https://www.smithsonianmag.com/smart-news/why-was-this-2000-year-old-sling-bullet-inscribed-with-the-word-learn-180988449/",
+      "summary": "The artifact is the first sling bullet of its kind unearthed at the ancient city of Hippos, though archaeologists have found dozens of other examples without inscriptions at the si",
+      "date": "2026-03-27T19:25:58Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/C48zac-3hRGBkgJ3OiOLkZjGXCY=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/77/78/7778897e-1861-44d2-ba15-41c4e7450e02/sling-bullet.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-03-27T20:49:53Z"
+    },
+    {
+      "title": "The simple questions cracking the hard problem of consciousness",
+      "link": "https://www.newscientist.com/article/2519288-the-simple-questions-cracking-the-hard-problem-of-consciousness/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Do we all see the same red? Or feel joy and sadness alike? Mapping how our inner experiences relate to one another could finally reveal how physical processes in the brain give ris",
+      "date": "2026-03-23T16:00:19Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/13124811/SEI_289179870.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-27T20:49:56Z"
+    },
+    {
+      "title": "AI data centres can warm surrounding areas by up to 9.1°C",
+      "link": "https://www.newscientist.com/article/2521256-ai-data-centres-can-warm-surrounding-areas-by-up-to-9-1c/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Hundreds of millions of people live close enough to data centres used to power AI to feel warmer average temperatures in their local area",
+      "date": "2026-03-27T15:00:21Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/27112747/SEI_291004141.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-27T20:49:56Z"
+    },
+    {
+      "title": "The Big Bee Project brings natural history collections into the 21st century",
+      "link": "https://phys.org/news/2026-03-big-bee-natural-history-21st.html",
+      "summary": "Museum collections have underpinned scientific research for centuries. But physical specimens in boxes and drawers don't easily lend themselves to the research techniques of the ne",
+      "date": "2026-03-27T20:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-big-bee-project-br.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-27T20:49:57Z"
+    },
+    {
+      "title": "New technique reveals body-wide cellular processes",
+      "link": "https://phys.org/news/2026-03-technique-reveals-body-wide-cellular.html",
+      "summary": "Understanding gene expression within the body has been a boon for 21st century biology and therapeutics, but most discoveries that use these technologies only focus on one organ or",
+      "date": "2026-03-27T20:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-technique-reveals-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-27T20:49:57Z"
+    },
+    {
+      "title": "Some ticks can survive from 1 to 3 weeks on home flooring",
+      "link": "https://phys.org/news/2026-03-survive-weeks-home-flooring.html",
+      "summary": "It's fairly common for members of the public to ask bug experts if ticks that hitchhike into a house on people or dogs can actually survive indoors for any length of time. A new st",
+      "date": "2026-03-27T19:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tick-on-floor.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-27T20:49:57Z"
+    },
     {
       "title": "I Ditched My Car For a Commuter E-Bike—And I’m Never Going Back",
       "link": "https://www.outsideonline.com/outdoor-gear/bikes-and-biking/aventon-abound-sr-review/",
