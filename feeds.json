@@ -1,8 +1,118 @@
 {
-  "updated": "2026-03-27T13:23:44Z",
-  "updated_utc": "2026-03-27T13:23:44Z",
-  "count": 302,
+  "updated": "2026-03-27T14:59:54Z",
+  "updated_utc": "2026-03-27T14:59:54Z",
+  "count": 312,
   "stories": [
+    {
+      "title": "Rare tongue-shaped fungus discovered in nature reserve in West Sussex",
+      "link": "https://www.theguardian.com/uk-news/2026/mar/27/rare-fungus-microglossum-cyanobasis-blue-based-earthtongue-nature-reserve-west-sussex",
+      "summary": "Microglossum cyanobasis – or blue-based earthtongue – is only the second such specimen ever to be found in Europe The discovery of a rare, tongue-shaped fungus is being hailed as a",
+      "date": "2026-03-27T14:41:16Z",
+      "image": "https://i.guim.co.uk/img/media/154cb20f50baa41729b1d7617a822c6ab7b9ee70/0_303_1179_943/master/1179.jpg?width=140&quality=85&auto=format&fit=max&s=22f894598ce35a06c0c92bef24ff1df2",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-03-27T14:59:38Z"
+    },
+    {
+      "title": "Wily coyote? urban canines take more risks compared with rural ones – study",
+      "link": "https://www.theguardian.com/us-news/2026/mar/27/urban-rural-coyote-study",
+      "summary": "Researchers believe behavioral gap, which may hold true across species, is probably product of less fear of harassment in cities Anyone who has lived long enough in a city can tell",
+      "date": "2026-03-27T14:00:03Z",
+      "image": "https://i.guim.co.uk/img/media/773886f83a6a9f6c32a96a247ddf54a1b9de63ca/557_0_5543_4437/master/5543.jpg?width=140&quality=85&auto=format&fit=max&s=28c0e20498ec8634f3123d1ead199ecd",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-03-27T14:59:38Z"
+    },
+    {
+      "title": "Two Green 'Fireballs' Streaked Across the West Coast Sky, Some of the Latest in a String of Dazzling Meteors Above the U.S.",
+      "link": "https://www.smithsonianmag.com/smart-news/two-green-fireballs-streaked-across-the-west-coast-sky-some-of-the-latest-in-a-string-of-dazzling-meteors-above-the-us-180988441/",
+      "summary": "Some of the space rocks exploded, causing loud booms, and a piece of one may have crashed into a house",
+      "date": "2026-03-27T13:43:13Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/vpo42AopHEuDnfA-BbCCl4C34yk=/420x240/filters:focal(960x544:961x545)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fc/6e/fc6e7341-9041-4b78-878b-2becb82e6f0b/ams143_2026_03_23_03_18_00_000_011431-trim-441-hd-meteor-wm-stacked.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-03-27T14:59:47Z"
+    },
+    {
+      "title": "Welcome to the weird world of AI agent teams",
+      "link": "https://www.sciencenews.org/article/ai-agent-teams-fail-succeed-bots-chaos",
+      "summary": "AI agents are starting to work in teams, but without careful organization, groups of bots can easily fall into chaos.",
+      "date": "2026-03-27T14:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/031826_KH_ai-agents_social.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-03-27T14:59:48Z"
+    },
+    {
+      "title": "How Anthony Leggett pushed the boundaries of quantum physics",
+      "link": "https://www.newscientist.com/article/2521212-how-anthony-leggett-pushed-the-boundaries-of-quantum-physics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "After the passing of physicist Anthony Leggett, columnist Karmela Padavic-Callaghan remembers their personal connection with this giant of quantum physics, and explores the legacy ",
+      "date": "2026-03-27T12:00:30Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/26235928/SEI_291005427.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-27T14:59:49Z"
+    },
+    {
+      "title": "We could protect Earth from dangerous asteroids using a huge magnet",
+      "link": "https://www.newscientist.com/article/2520960-we-could-protect-earth-from-dangerous-asteroids-using-a-huge-magnet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A new spacecraft concept called NOVA could keep asteroids from hitting our planet by using a huge magnet to gradually pull them apart while shifting their trajectories",
+      "date": "2026-03-27T11:00:55Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/26123713/SEI_290874825.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-27T14:59:49Z"
+    },
+    {
+      "title": "Surprising male G-spot found in most detailed study of the penis yet",
+      "link": "https://www.newscientist.com/article/2520982-surprising-male-g-spot-found-in-most-detailed-study-of-the-penis-yet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A long-overlooked area of the penis has been found to have the highest concentration of nerve endings and sensory structures in the organ, suggesting that it is the “male G-spot”",
+      "date": "2026-03-27T09:00:28Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/26111649/SEI_290876107.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-27T14:59:49Z"
+    },
+    {
+      "title": "Unlocking the cell's 'gatekeeper': Researchers discover critical RNA quality-control factor, LENG8",
+      "link": "https://phys.org/news/2026-03-cell-gatekeeper-critical-rna-quality.html",
+      "summary": "How do cells ensure that the \"blueprints\" of genetic information-RNA are accurate and intact before they are exported from the nucleus to the cytoplasm for protein production? A st",
+      "date": "2026-03-27T14:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unlocking-the-cells-ga-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-27T14:59:50Z"
+    },
+    {
+      "title": "Unraveling the secrets of telomerase, an enzyme linked to aging and cancer",
+      "link": "https://phys.org/news/2026-03-unraveling-secrets-telomerase-enzyme-linked.html",
+      "summary": "A central question in molecular biology is how cells protect their chromosomes from damage during repeated cell division. At the heart of this protective process is an enzyme calle",
+      "date": "2026-03-27T13:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unravelling-the-secret.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-27T14:59:50Z"
+    },
+    {
+      "title": "Lençóis Maranhenses: Brazil's dune-filled expanse that sits at the intersection of 3 biomes",
+      "link": "https://www.livescience.com/planet-earth/rivers-oceans/lencois-maranhenses-brazils-dune-filled-expanse-that-sits-at-the-intersection-of-3-biomes",
+      "summary": "Lençóis Maranhenses National Park hosts sand-dune fields that fill up with lagoons every wet season, but the reserve also has mangrove swamps where species such as the scarlet ibis",
+      "date": "2026-03-27T14:46:54Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/dTZBKtLemQZpC82bdsxxCb-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-03-27T14:59:51Z"
+    },
     {
       "title": "A New HBO Series, ‘The Dark Wizard,’ Examines the Life and Death of Climbing Legend Dean Potter",
       "link": "https://www.outsideonline.com/culture/books-media/the-dark-wizard-hbo-dean-potter-trailer-release-date/",
