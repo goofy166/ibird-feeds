@@ -1,8 +1,19 @@
 {
-  "updated": "2026-03-28T20:40:52Z",
-  "updated_utc": "2026-03-28T20:40:52Z",
-  "count": 360,
+  "updated": "2026-03-28T21:37:57Z",
+  "updated_utc": "2026-03-28T21:37:57Z",
+  "count": 361,
   "stories": [
+    {
+      "title": "Ancient DNA reveals earliest known dogs lived alongside Ice Age humans",
+      "link": "https://phys.org/news/2026-03-ancient-dna-reveals-earliest-dogs.html",
+      "summary": "The bond between humans and dogs is one of nature's most enduring partnerships, but exactly when it began has long been a mystery. Now, a new study has turned back the clock. The s",
+      "date": "2026-03-28T21:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-dna-reveals-ea.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-28T21:37:53Z"
+    },
     {
       "title": "New enzyme atlas rewrites decades of biology research",
       "link": "https://phys.org/news/2026-03-enzyme-atlas-rewrites-decades-biology.html",
