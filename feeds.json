@@ -1,8 +1,19 @@
 {
-  "updated": "2026-03-28T14:39:48Z",
-  "updated_utc": "2026-03-28T14:39:48Z",
-  "count": 357,
+  "updated": "2026-03-28T15:38:59Z",
+  "updated_utc": "2026-03-28T15:38:59Z",
+  "count": 358,
   "stories": [
+    {
+      "title": "How our ancestors used mushrooms to change the course of human history",
+      "link": "https://www.newscientist.com/article/2516720-how-our-ancestors-used-mushrooms-to-change-the-course-of-human-history/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Mushrooms have been used by ancient humans for millennia, but archaeologists have only just uncovered their pivotal role in shaping civilisation",
+      "date": "Tue, 10 Mar 2026 16Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/02/23123242/SEI_286020473.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-28T15:38:54Z"
+    },
     {
       "title": "Bacteria invent another way to turn on genes",
       "link": "https://phys.org/news/2026-03-bacteria-genes.html",
