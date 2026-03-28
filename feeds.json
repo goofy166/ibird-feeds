@@ -1,8 +1,30 @@
 {
-  "updated": "2026-03-28T09:47:47Z",
-  "updated_utc": "2026-03-28T09:47:47Z",
-  "count": 347,
+  "updated": "2026-03-28T10:40:44Z",
+  "updated_utc": "2026-03-28T10:40:44Z",
+  "count": 349,
   "stories": [
+    {
+      "title": "Moab Opened 200 Miles of Trail to E-Bikes. I Was One of the First to Ride Them (Legally).",
+      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/moab-ebike-trails/",
+      "summary": "The world’s most iconic mountain bike destination just opened 200 miles of singletrack to electric bikes. From saving a veteran racer’s career to turning brutal climbs into a \"turb",
+      "date": "2026-03-28T10:00:04Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/getaway-trail.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-03-28T10:40:35Z"
+    },
+    {
+      "title": "How to catch the full 'Pink Moon' in April followed by a 'Blue Moon' in May",
+      "link": "https://www.livescience.com/space/the-moon/how-to-catch-the-full-pink-moon-in-april-followed-by-a-blue-moon-in-may",
+      "summary": "April's full moon, known as the Pink Moon, determines the dates of Passover and Easter. This year, it rises on April 1.",
+      "date": "2026-03-28T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/hyXPsbRKQGArhYrCn3rZ6Y-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-03-28T10:40:42Z"
+    },
     {
       "title": "Why does cannabis give people 'the munchies'?",
       "link": "https://www.livescience.com/health/why-does-cannabis-give-people-the-munchies",
