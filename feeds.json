@@ -1,8 +1,30 @@
 {
-  "updated": "2026-03-27T23:40:37Z",
-  "updated_utc": "2026-03-27T23:40:37Z",
-  "count": 344,
+  "updated": "2026-03-28T02:50:28Z",
+  "updated_utc": "2026-03-28T02:50:28Z",
+  "count": 346,
   "stories": [
+    {
+      "title": "Why use living cells? Researchers are making chemicals with enzymes alone",
+      "link": "https://phys.org/news/2026-03-cells-chemicals-enzymes.html",
+      "summary": "Today's nearly $70 billion U.S. biofuels economy is powered by two technology toolboxes. Biochemical technologies—used to produce around 17 billion gallons of ethanol annually—leve",
+      "date": "2026-03-28T02:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-use-living-cells-n.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-28T02:50:24Z"
+    },
+    {
+      "title": "Land animals evolved from ocean ancestors—new study unravels the genetics behind the transition",
+      "link": "https://phys.org/news/2026-03-animals-evolved-ocean-ancestors-unravels.html",
+      "summary": "The transition from water to land is a question that still intrigues scientists. Those ancient organisms would have needed to adapt to several new challenges to life out of water. ",
+      "date": "2026-03-28T01:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fish-out-of-water.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-28T02:50:24Z"
+    },
     {
       "title": "Does This Skeleton Found Beneath a Dutch Church Belong to D'Artagnan, the Man Who Inspired 'The Three Musketeers'?",
       "link": "https://www.smithsonianmag.com/smart-news/this-skeleton-found-beneath-the-floor-of-a-dutch-church-may-belong-to-dartagnan-the-fourth-musketeer-180988448/",
