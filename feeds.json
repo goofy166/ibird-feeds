@@ -1,8 +1,19 @@
 {
-  "updated": "2026-03-28T13:11:59Z",
-  "updated_utc": "2026-03-28T13:11:59Z",
-  "count": 356,
+  "updated": "2026-03-28T14:39:48Z",
+  "updated_utc": "2026-03-28T14:39:48Z",
+  "count": 357,
   "stories": [
+    {
+      "title": "Bacteria invent another way to turn on genes",
+      "link": "https://phys.org/news/2026-03-bacteria-genes.html",
+      "summary": "In their landmark 1961 paper on the lac operon, Nobel laureates François Jacob and Jacques Monod speculated that RNA might control gene activity in bacteria through base-pairing in",
+      "date": "2026-03-28T14:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bacteria-invent-anothe.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-28T14:39:44Z"
+    },
     {
       "title": "Those with a Permanent Disability Can Get a Free Lifetime Parks Pass. Here’s How.",
       "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/national-parks-access-pass-eligibility/",
