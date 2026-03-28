@@ -1,8 +1,19 @@
 {
-  "updated": "2026-03-28T17:37:36Z",
-  "updated_utc": "2026-03-28T17:37:36Z",
-  "count": 359,
+  "updated": "2026-03-28T18:54:07Z",
+  "updated_utc": "2026-03-28T18:54:07Z",
+  "count": 360,
   "stories": [
+    {
+      "title": "New enzyme atlas rewrites decades of biology research",
+      "link": "https://phys.org/news/2026-03-enzyme-atlas-rewrites-decades-biology.html",
+      "summary": "WEHI researchers have led a major global effort to create the first authoritative atlas for a class of enzymes that regulate almost every cellular process in the human body. Publis",
+      "date": "2026-03-28T18:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-enzyme-atlas-rewri-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-28T18:54:04Z"
+    },
     {
       "title": "The raccoon raiding your garbage bin might just be solving a puzzle—for the fun of it",
       "link": "https://phys.org/news/2026-03-raccoon-raiding-garbage-bin-puzzle.html",
