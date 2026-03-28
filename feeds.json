@@ -1,8 +1,19 @@
 {
-  "updated": "2026-03-28T08:51:31Z",
-  "updated_utc": "2026-03-28T08:51:31Z",
-  "count": 346,
+  "updated": "2026-03-28T09:47:47Z",
+  "updated_utc": "2026-03-28T09:47:47Z",
+  "count": 347,
   "stories": [
+    {
+      "title": "Why does cannabis give people 'the munchies'?",
+      "link": "https://www.livescience.com/health/why-does-cannabis-give-people-the-munchies",
+      "summary": "A researcher explains how your body processes the THC from cannabis, resulting in \"the munchies.\"",
+      "date": "2026-03-28T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/vKPi53wvyqds8az9Mb9yw4-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-03-28T09:47:45Z"
+    },
     {
       "title": "Why use living cells? Researchers are making chemicals with enzymes alone",
       "link": "https://phys.org/news/2026-03-cells-chemicals-enzymes.html",
