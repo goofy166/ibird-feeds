@@ -1,8 +1,19 @@
 {
-  "updated": "2026-03-28T15:38:59Z",
-  "updated_utc": "2026-03-28T15:38:59Z",
-  "count": 358,
+  "updated": "2026-03-28T16:44:13Z",
+  "updated_utc": "2026-03-28T16:44:13Z",
+  "count": 359,
   "stories": [
+    {
+      "title": "The raccoon raiding your garbage bin might just be solving a puzzle—for the fun of it",
+      "link": "https://phys.org/news/2026-03-raccoon-raiding-garbage-bin-puzzle.html",
+      "summary": "Ever woken up to find that a crafty raccoon has overturned your garbage bin and spread the discarded contents of your life across the street? Raccoons—sometimes referred to as \"tra",
+      "date": "2026-03-28T16:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/raccoon.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-28T16:44:10Z"
+    },
     {
       "title": "How our ancestors used mushrooms to change the course of human history",
       "link": "https://www.newscientist.com/article/2516720-how-our-ancestors-used-mushrooms-to-change-the-course-of-human-history/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
