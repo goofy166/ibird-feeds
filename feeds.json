@@ -1,8 +1,19 @@
 {
-  "updated": "2026-03-29T18:56:11Z",
-  "updated_utc": "2026-03-29T18:56:11Z",
-  "count": 383,
+  "updated": "2026-03-29T19:39:05Z",
+  "updated_utc": "2026-03-29T19:39:05Z",
+  "count": 384,
   "stories": [
+    {
+      "title": "Who do you think you are? What DNA tests reveal—and what they don't",
+      "link": "https://phys.org/news/2026-03-dna-reveal-dont.html",
+      "summary": "For more than 40 years, the Golden State Killer haunted California. A serial rapist and murderer active in the 1970s and '80s, he eluded detectives for decades. By 2018, hope of id",
+      "date": "2026-03-29T19:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/dna-testing.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-29T19:39:01Z"
+    },
     {
       "title": "Ancient Neanderthal genome reveals isolated, distinct populations",
       "link": "https://phys.org/news/2026-03-ancient-neanderthal-genome-reveals-isolated.html",
