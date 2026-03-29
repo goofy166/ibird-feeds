@@ -1,8 +1,19 @@
 {
-  "updated": "2026-03-29T19:39:05Z",
-  "updated_utc": "2026-03-29T19:39:05Z",
-  "count": 384,
+  "updated": "2026-03-29T20:42:18Z",
+  "updated_utc": "2026-03-29T20:42:18Z",
+  "count": 385,
   "stories": [
+    {
+      "title": "A mass mating event in the lab reveals how yeast cells choose partners",
+      "link": "https://phys.org/news/2026-03-mass-event-lab-reveals-yeast.html",
+      "summary": "While humans often struggle to find a partner who is both physically attractive and a reliable co-parent, yeast may already have cracked the formula for the perfect match. When cho",
+      "date": "2026-03-29T20:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-yeast-find-the-per.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-29T20:42:14Z"
+    },
     {
       "title": "Who do you think you are? What DNA tests reveal—and what they don't",
       "link": "https://phys.org/news/2026-03-dna-reveal-dont.html",
