@@ -1,8 +1,41 @@
 {
-  "updated": "2026-03-29T08:52:24Z",
-  "updated_utc": "2026-03-29T08:52:24Z",
-  "count": 363,
+  "updated": "2026-03-29T09:48:10Z",
+  "updated_utc": "2026-03-29T09:48:10Z",
+  "count": 366,
   "stories": [
+    {
+      "title": "Lonely Alphard is the brightest star in Hydra",
+      "link": "https://earthsky.org/brightest-stars/alphard-the-solitary-one/",
+      "summary": "Alphard is the \"heart\" and brightest star in the constellation Hydra the Water Snake, and it represents a welcome sign of spring for the Northern Hemisphere. The post Lonely Alphar",
+      "date": "2026-03-29T08:10:08Z",
+      "image": "https://earthsky.org/upl/2024/03/Hydra-Alphard-labels_Till-Credner.png",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-03-29T09:47:56Z"
+    },
+    {
+      "title": "Why Exercising Feels Harder in Your 40s—and How to Make It Feel Good Again",
+      "link": "https://www.outsideonline.com/health/training-performance/running-exercises-aging/",
+      "summary": "Aging is real, but decline isn’t automatic. The solution? Training for the decade you’re in—not the one you left behind. The post Why Exercising Feels Harder in Your 40s—and How to",
+      "date": "2026-03-29T09:01:21Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/running-as-you-age.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-03-29T09:48:01Z"
+    },
+    {
+      "title": "What would happen to Earth if the sun suddenly vanished?",
+      "link": "https://www.livescience.com/planet-earth/what-would-happen-to-earth-if-the-sun-suddenly-vanished",
+      "summary": "Earth is habitable due to warmth from the sun. So what would happen if the sun disappeared?",
+      "date": "2026-03-29T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/a4s3oqJi8dtfiU26oe3f6h-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-03-29T09:48:08Z"
+    },
     {
       "title": "Forget birdwatching, I’m into moth-watching: they’re fascinating and misunderstood insects | Helen Pilcher",
       "link": "https://www.theguardian.com/commentisfree/2026/mar/29/birdwatching-mothwatching-uk-nature-cognitive-decline",
