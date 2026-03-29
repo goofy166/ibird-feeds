@@ -1,8 +1,19 @@
 {
-  "updated": "2026-03-29T16:45:07Z",
-  "updated_utc": "2026-03-29T16:45:07Z",
-  "count": 382,
+  "updated": "2026-03-29T17:39:40Z",
+  "updated_utc": "2026-03-29T17:39:40Z",
+  "count": 383,
   "stories": [
+    {
+      "title": "Ancient Neanderthal genome reveals isolated, distinct populations",
+      "link": "https://phys.org/news/2026-03-ancient-neanderthal-genome-reveals-isolated.html",
+      "summary": "Neanderthals split into distinct regional groups that developed genetic differences far sooner than modern human populations typically did, according to a study published in Procee",
+      "date": "2026-03-29T17:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-neandertal-gen.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-29T17:39:36Z"
+    },
     {
       "title": "Embryo-like fossils from Southern China offer new clues about ancient life",
       "link": "https://phys.org/news/2026-03-embryo-fossils-southern-china-clues.html",
