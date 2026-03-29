@@ -1,8 +1,19 @@
 {
-  "updated": "2026-03-29T20:42:18Z",
-  "updated_utc": "2026-03-29T20:42:18Z",
-  "count": 385,
+  "updated": "2026-03-29T21:40:42Z",
+  "updated_utc": "2026-03-29T21:40:42Z",
+  "count": 386,
   "stories": [
+    {
+      "title": "Binding to RNA is not enough—changing its shape is what makes a drug work, study reveals",
+      "link": "https://phys.org/news/2026-03-rna-drug-reveals.html",
+      "summary": "Ribonucleic acids (RNAs) serve as messengers between DNA and protein production, and perform a wide variety of regulatory functions across different cellular processes. This makes ",
+      "date": "2026-03-29T21:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-shows-how-to-ide.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-29T21:40:39Z"
+    },
     {
       "title": "A mass mating event in the lab reveals how yeast cells choose partners",
       "link": "https://phys.org/news/2026-03-mass-event-lab-reveals-yeast.html",
