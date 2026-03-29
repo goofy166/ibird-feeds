@@ -1,8 +1,30 @@
 {
-  "updated": "2026-03-29T13:13:06Z",
-  "updated_utc": "2026-03-29T13:13:06Z",
-  "count": 377,
+  "updated": "2026-03-29T14:41:16Z",
+  "updated_utc": "2026-03-29T14:41:16Z",
+  "count": 379,
   "stories": [
+    {
+      "title": "April full moon is the Pink Moon overnight on April 1",
+      "link": "https://earthsky.org/moon-phases/april-full-moon/",
+      "summary": "The April 2026 full moon – overnight on April 1-2 – is the Pink Moon and will lie near the star Spica in the constellation Virgo. The post April full moon is the Pink Moon overnigh",
+      "date": "2026-03-29T11:45:41Z",
+      "image": "https://earthsky.org/upl/2026/03/April-2026-full-moon-rising.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-03-29T14:41:02Z"
+    },
+    {
+      "title": "Seals use whisker movement to follow underwater trails—an approach that could improve robotic sensing",
+      "link": "https://phys.org/news/2026-03-whisker-movement-underwater-trails-approach.html",
+      "summary": "Seals are carnivorous marine mammals that are well adapted to hunting for fish underwater, where visibility is poor. In such conditions, seals rely on their highly sensitive whiske",
+      "date": "2026-03-29T14:00:15Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-do-seals-whisk-the-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-29T14:41:12Z"
+    },
     {
       "title": "New Book ‘To Catch a Fish’ Explores the Real Reason We Are Obsessed with Mystery in the Outdoors",
       "link": "https://www.outsideonline.com/outdoor-adventure/water-activities/to-catch-a-fish/",
