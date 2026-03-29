@@ -1,8 +1,30 @@
 {
-  "updated": "2026-03-29T05:47:00Z",
-  "updated_utc": "2026-03-29T05:47:00Z",
-  "count": 361,
+  "updated": "2026-03-29T07:15:28Z",
+  "updated_utc": "2026-03-29T07:15:28Z",
+  "count": 363,
   "stories": [
+    {
+      "title": "Forget birdwatching, I’m into moth-watching: they’re fascinating and misunderstood insects | Helen Pilcher",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/29/birdwatching-mothwatching-uk-nature-cognitive-decline",
+      "summary": "According to new research, distinguishing between the UK’s 2,500 species could halt cognitive decline – so my brain could not be happier, or healthier Do you ever worry that your b",
+      "date": "2026-03-29T07:00:50Z",
+      "image": "https://i.guim.co.uk/img/media/1037f829056b1151f79fa8cc24a08c2a38aa302b/333_0_4264_3413/master/4264.jpg?width=140&quality=85&auto=format&fit=max&s=101defe9e9ccb10d039087be29d0e709",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-03-29T07:15:12Z"
+    },
+    {
+      "title": "Look for Mercury farthest from the morning sun on April 3",
+      "link": "https://earthsky.org/astronomy-essentials/mercury-before-sunrise-greatest-elongation-west/",
+      "summary": "Mercury will reach its greatest elongation - greatest distance from the sun - on April 3, 2026. Look east at dawn. It'll disappear by late April. The post Look for Mercury farthest",
+      "date": "2026-03-29T07:00:11Z",
+      "image": "https://earthsky.org/upl/2023/07/Mercury-western-elongation-chart.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-03-29T07:15:13Z"
+    },
     {
       "title": "Ancient DNA reveals earliest known dogs lived alongside Ice Age humans",
       "link": "https://phys.org/news/2026-03-ancient-dna-reveals-earliest-dogs.html",
