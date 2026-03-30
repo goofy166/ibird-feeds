@@ -1,8 +1,30 @@
 {
-  "updated": "2026-03-30T22:46:44Z",
-  "updated_utc": "2026-03-30T22:46:44Z",
-  "count": 447,
+  "updated": "2026-03-30T23:44:18Z",
+  "updated_utc": "2026-03-30T23:44:18Z",
+  "count": 449,
   "stories": [
+    {
+      "title": "Light switch for life: Controlling molecular droplets with UV",
+      "link": "https://phys.org/news/2026-03-life-molecular-droplets-uv.html",
+      "summary": "Biomolecular condensates are tiny, droplet-like structures made up of molecules that help organize key processes in living organisms. Because they are so small and constantly chang",
+      "date": "2026-03-30T23:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/light-switch-for-life.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-30T23:44:15Z"
+    },
+    {
+      "title": "Improved carp boosts profits by 25% in Bangladesh's polyculture ponds",
+      "link": "https://phys.org/news/2026-03-carp-boosts-profits-bangladesh-polyculture.html",
+      "summary": "A selectively bred carp strain is boosting productivity and profits across polyculture ponds in Bangladesh, improving overall pond performance in smallholder systems. A completed s",
+      "date": "2026-03-30T22:50:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/improved-carp-boosts-p.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-30T23:44:15Z"
+    },
     {
       "title": "Gut bacteria may influence social behavior through smell",
       "link": "https://phys.org/news/2026-03-gut-bacteria-social-behavior.html",
