@@ -1,8 +1,63 @@
 {
-  "updated": "2026-03-30T17:05:47Z",
-  "updated_utc": "2026-03-30T17:05:47Z",
-  "count": 420,
+  "updated": "2026-03-30T19:11:32Z",
+  "updated_utc": "2026-03-30T19:11:32Z",
+  "count": 425,
   "stories": [
+    {
+      "title": "5 of the Best Canned Wines for Hikes, Travel, and Everyday Drinking",
+      "link": "https://www.outsideonline.com/food/drinks/best-canned-wines-for-adventure/",
+      "summary": "Portable, packable, and—finally—delicious, a new generation of canned wine brings better grapes to the great outdoors. The post 5 of the Best Canned Wines for Hikes, Travel, and Ev",
+      "date": "2026-03-30T18:30:47Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/cannedwineOOL.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-03-30T19:11:22Z"
+    },
+    {
+      "title": "Two organs, one brain area: How fish orient themselves in the water",
+      "link": "https://phys.org/news/2026-03-brain-area-fish.html",
+      "summary": "Using zebrafish, researchers from Osaka Metropolitan University (OMU) have identified the tegmentum region in the fish midbrain as the area where light input from both the fish's e",
+      "date": "2026-03-30T19:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-organs-one-brain-a.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-30T19:11:28Z"
+    },
+    {
+      "title": "Wildlife-friendly landscapes dramatically boost biodiversity in fragmented forests, research reveals",
+      "link": "https://phys.org/news/2026-03-wildlife-friendly-landscapes-boost-biodiversity.html",
+      "summary": "A new study has revealed that improving the landscapes surrounding forest remnants can dramatically increase their ability to retain bird species—even when the forest fragments the",
+      "date": "2026-03-30T19:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wildlife-friendly-land.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-30T19:11:28Z"
+    },
+    {
+      "title": "Limits of protein evolution could reshape ideas about early life",
+      "link": "https://phys.org/news/2026-03-limits-protein-evolution-reshape-ideas.html",
+      "summary": "The number of known proteins is infinitely small in comparison to the universe of possible proteins, which could in theory be realized. Yet these known proteins are the only major ",
+      "date": "2026-03-30T19:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/identifying-the-limits.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-30T19:11:28Z"
+    },
+    {
+      "title": "Soil bacteria break down toxic chemicals in the environment",
+      "link": "https://phys.org/news/2026-03-soil-bacteria-toxic-chemicals-environment.html",
+      "summary": "Many aromatic compounds, such as phenols, cresols and styrenes, are toxic to organisms and harmful to the environment. They can accumulate as a result of industrial processes and h",
+      "date": "2026-03-30T17:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/soil-bacteria-break-do.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-30T19:11:28Z"
+    },
     {
       "title": "How a Utah Trail Ride Became the Center of the Off-Road Universe",
       "link": "https://www.outsideonline.com/outdoor-gear/cars-trucks/how-a-utah-trail-ride-became-the-center-of-the-off-road-universe/",
