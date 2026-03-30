@@ -1,8 +1,107 @@
 {
-  "updated": "2026-03-30T08:24:59Z",
-  "updated_utc": "2026-03-30T08:24:59Z",
-  "count": 387,
+  "updated": "2026-03-30T10:24:31Z",
+  "updated_utc": "2026-03-30T10:24:31Z",
+  "count": 396,
   "stories": [
+    {
+      "title": "Willem de Kooning Didn't Get His Big Break Until His 40s. See the Stunning Abstract Paintings That First Captivated Audiences",
+      "link": "https://www.smithsonianmag.com/smart-news/willem-de-kooning-didnt-get-his-big-break-until-his-40s-see-the-stunning-abstract-paintings-that-first-captivated-audiences-180988397/",
+      "summary": "Artworks that showcase the painter's early foray into Abstract Expressionism are now on view at the Princeton University Art Museum",
+      "date": "2026-03-30T10:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/__dK7kroqQCwrIpWZrTLKSVfcCM=/420x240/filters:focal(1000x748:1001x749)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/67/97/6797f043-3775-4ef7-8439-3048e9763ced/wdk-03-ven.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-03-30T10:24:24Z"
+    },
+    {
+      "title": "The weird physics of plant-based milks is only just coming to light",
+      "link": "https://www.newscientist.com/article/2521037-the-weird-physics-of-plant-based-milks-is-only-just-coming-to-light/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Experiments on different kinds of milk have revealed that many plant-based milks are non-Newtonian fluids",
+      "date": "2026-03-30T07:00:39Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/26144239/SEI_290974098.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-30T10:24:26Z"
+    },
+    {
+      "title": "Why the lack of water on Mars is so mysterious",
+      "link": "https://www.newscientist.com/article/2521185-why-the-lack-of-water-on-mars-is-so-mysterious/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "An accounting of all the water that should have been and gone on Mars’s surface has come up with a discrepancy that shows just how little we understand the Red Planet’s hydrologica",
+      "date": "2026-03-30T07:00:04Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/27115559/SEI_291118158.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-30T10:24:26Z"
+    },
+    {
+      "title": "100 million years ago, an 'evolutionary fuse' was lit in the deep ocean, sparking squid diversification",
+      "link": "https://phys.org/news/2026-03-million-years-evolutionary-fuse-lit.html",
+      "summary": "From color-changing skin to jet-propelled motion, squid and cuttlefish have long fascinated scientists. To understand the origins of their unique characteristics, many attempts hav",
+      "date": "2026-03-30T09:00:10Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/100-million-years-ago.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-30T10:24:28Z"
+    },
+    {
+      "title": "Forty new migratory species win international protection: UN body",
+      "link": "https://phys.org/news/2026-03-forty-migratory-species-international-body.html",
+      "summary": "The UN Convention on the Conservation of Migratory Species of Wild Animals (CMS) on Sunday approved the listing of 40 new species for international protection, including the snowy ",
+      "date": "2026-03-30T09:00:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-hudsonian-godwit-i.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-30T10:24:28Z"
+    },
+    {
+      "title": "Scientists solve 40-year-old biological mystery behind sleeping sickness",
+      "link": "https://phys.org/news/2026-03-scientists-year-biological-mystery-sickness.html",
+      "summary": "To survive in the human bloodstream, the African trypanosome parasite wears a \"cloak\" made of proteins known as a variant surface glycoprotein (VSG). The study, published in Nature",
+      "date": "2026-03-30T09:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fever.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-30T10:24:28Z"
+    },
+    {
+      "title": "Freed whale gets stranded again off German coast",
+      "link": "https://phys.org/news/2026-03-freed-whale-stranded-german-coast.html",
+      "summary": "A humpback whale struggling in shallow waters off Germany's northern Baltic Sea coast has become stranded for a third time, experts said on Sunday, just hours after the animal had ",
+      "date": "2026-03-30T08:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-humpback-whale-stran.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-30T10:24:28Z"
+    },
+    {
+      "title": "One man, his dog, and ChatGPT: Australia's AI vaccine saga",
+      "link": "https://phys.org/news/2026-03-dog-chatgpt-australia-ai-vaccine.html",
+      "summary": "Desperate to help his sick dog, one Australian man went down the ultimate ChatGPT research hole, using artificial intelligence to design a personalized experimental treatment and f",
+      "date": "2026-03-30T08:30:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/paul-conynghams-months.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-30T10:24:28Z"
+    },
+    {
+      "title": "Tudor Heart: A Renaissance gold necklace featuring a French-English pun on the love between Henry VIII and his first wife, Katherine of Aragon",
+      "link": "https://www.livescience.com/archaeology/tudor-heart-a-renaissance-gold-necklace-featuring-a-french-english-pun-on-the-love-between-henry-viii-and-his-first-wife-katherine-of-aragon",
+      "summary": "A chance discovery of a 16th-century necklace reveals new information about Tudor-era jewelry styles.",
+      "date": "2026-03-30T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/hBrQyXsCWUatzjXXKL4X9o-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-03-30T10:24:29Z"
+    },
     {
       "title": "Managed wetlands a culinary hot spot for SF bay fish, but they need delivery options",
       "link": "https://phys.org/news/2026-03-wetlands-culinary-hot-sf-bay.html",
