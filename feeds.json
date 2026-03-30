@@ -1,8 +1,74 @@
 {
-  "updated": "2026-03-30T20:56:11Z",
-  "updated_utc": "2026-03-30T20:56:11Z",
-  "count": 437,
+  "updated": "2026-03-30T21:52:38Z",
+  "updated_utc": "2026-03-30T21:52:38Z",
+  "count": 443,
   "stories": [
+    {
+      "title": "Did Neanderthals Use Birch Bark Tar as an Antibiotic to Treat Wounds and Infections?",
+      "link": "https://www.smithsonianmag.com/smart-news/did-neanderthals-use-birch-bark-tar-as-an-antibiotic-to-treat-wounds-and-infections-180988393/",
+      "summary": "Scientists created samples of the black resin using three methods and tested their effectiveness against two common bacteria",
+      "date": "2026-03-30T20:55:01Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/HciY22-z95s3HQJpkqyHDBhos8s=/420x240/filters:focal(2400x1211:2401x1212)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b2/73/b273d962-2091-40bf-b74a-88bb8332ca21/siemssen_pressreleasephoto_2026-03-03.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-03-30T21:52:30Z"
+    },
+    {
+      "title": "Understanding cell structures: Novel tool enables analysis of the plant actin cytoskeleton",
+      "link": "https://phys.org/news/2026-03-cell-tool-enables-analysis-actin.html",
+      "summary": "A research team led by Potsdam-based bioinformatician Prof. Dr. Zoran Nikoloski has developed a computational approach and an accompanying tool that enables the detailed analysis a",
+      "date": "2026-03-30T21:50:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/understanding-cell-str.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-30T21:52:34Z"
+    },
+    {
+      "title": "Dozens of deep-sea species discovered as new crustaceans named",
+      "link": "https://phys.org/news/2026-03-dozens-deep-sea-species-crustaceans.html",
+      "summary": "Lurking in the depths of the ocean are countless species that have never been seen by humans before. As part of a project to name 1,000 of these unknown animals by 2030, 24 new spe",
+      "date": "2026-03-30T21:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dozens-of-deep-sea-spe.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-30T21:52:34Z"
+    },
+    {
+      "title": "Portable unit can quickly detect deadly whale and dolphin diseases",
+      "link": "https://phys.org/news/2026-03-portable-quickly-deadly-whale-dolphin.html",
+      "summary": "Novel marine mammal health surveillance can now detect deadly diseases in whales and dolphins in oceans, beaches and remote locations, thanks to new research from the University of",
+      "date": "2026-03-30T21:30:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/portable-unit-can-quic.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-30T21:52:34Z"
+    },
+    {
+      "title": "Protein complex protects central RNA quality control from disruption",
+      "link": "https://phys.org/news/2026-03-protein-complex-central-rna-quality.html",
+      "summary": "A research team led by Professor Dr. Niels Gehring from the Institute for Genetics has shown that the coordinated interaction of three proteins plays a central role in nonsense-med",
+      "date": "2026-03-30T21:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/protein-complex-protec.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-30T21:52:34Z"
+    },
+    {
+      "title": "'Something really big is going to happen': NASA's historic Artemis II mission approved for April 1 launch",
+      "link": "https://www.livescience.com/space/space-exploration/something-really-big-is-going-to-happen-nasas-historic-artemis-ii-mission-approved-for-april-1-launch",
+      "summary": "NASA has given the 10-day Artemis II mission the green light after its flight readiness review, and the weather outlook remains favorable.",
+      "date": "2026-03-30T21:38:21Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/4YqJsvAAtKejHVsjZN7qJn-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-03-30T21:52:35Z"
+    },
     {
       "title": "Meet the Eastern Wood-Pewee Bird",
       "link": "https://www.birdsandblooms.com/birding/bird-species/songbirds/eastern-wood-pewee/",
