@@ -1,8 +1,96 @@
 {
-  "updated": "2026-03-30T11:59:07Z",
-  "updated_utc": "2026-03-30T11:59:07Z",
-  "count": 401,
+  "updated": "2026-03-30T13:58:33Z",
+  "updated_utc": "2026-03-30T13:58:33Z",
+  "count": 409,
   "stories": [
+    {
+      "title": "I discovered the elusive chestnut mining bee in New York after a gap of 119 years",
+      "link": "https://www.theguardian.com/environment/2026/mar/30/i-discovered-chestnut-mining-bee-new-york-molly-jacobson-aoe",
+      "summary": "For decades, there was no record of Andrena rehni exisiting in the US. In 2018 it was found in Maryland and five years later I found it in New York State I’ve loved insects ever si",
+      "date": "2026-03-30T13:00:10Z",
+      "image": "https://i.guim.co.uk/img/media/7529040683c2c618694b55f8483b9620bdb3a46d/0_185_1821_1456/master/1821.jpg?width=140&quality=85&auto=format&fit=max&s=97fcbd202c2eefe938c64104c54758da",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-03-30T13:58:19Z"
+    },
+    {
+      "title": "What’s causing a dearth of snails in an Oakland garden?",
+      "link": "https://www.mercurynews.com/2026/03/30/whats-causing-a-dearth-of-snails-in-an-oakland-garden/",
+      "summary": "Pesticides, predators are likely the reasons for decline in certain land snail populations.",
+      "date": "2026-03-30T13:30:09Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/03/SJM-L-JOANCOL-0330-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-03-30T13:58:23Z"
+    },
+    {
+      "title": "When America Found Itself Ready to Roll, Route 66, Stretching From Chicago to Los Angeles, Was the Road of Endless Possibilities",
+      "link": "https://www.smithsonianmag.com/history/when-america-found-itself-ready-rock-roll-route66-stretching-chicago-los-angeles-road-endless-possibilities-180988406/",
+      "summary": "The country’s “mother road” started out as a way to get from Point A to Point B but quickly became the host of a culture and a symbol of freedom",
+      "date": "2026-03-30T13:24:49Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/0GmlraF_bjy3rw92cZQNRWRz3jU=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c6/75/c6754f99-a657-402b-b4a6-eefd5321031b/gettyimages-2209373065.jpg",
+      "name": "Smithsonian",
+      "category": "butterflies",
+      "color": 10,
+      "fetched_at": "2026-03-30T13:58:26Z"
+    },
+    {
+      "title": "The Turin Shroud bears DNA from many people, plants and animals",
+      "link": "https://www.newscientist.com/article/2521236-the-turin-shroud-bears-dna-from-many-people-plants-and-animals/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Researchers have identified genetic material from a vast range of organisms contaminating the shroud, said to have wrapped Jesus's body, further complicating the question of the cl",
+      "date": "2026-03-30T10:00:34Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/27105547/SEI_290843101.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-30T13:58:29Z"
+    },
+    {
+      "title": "Want to live forever? There are major questions to confront, first",
+      "link": "https://www.newscientist.com/article/2520472-want-to-live-forever-there-are-major-questions-to-confront-first/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A start-up has worked out how to preserve the brain after death – paving the way for immortality in a distant future. But beginning to reckon with this reality yields serious pract",
+      "date": "2026-03-25T10:53:42Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/23161735/SEI_290666267.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-30T13:58:29Z"
+    },
+    {
+      "title": "High-rise living: How weaver ants build leaf nests using living 'zippers' and 'weights'",
+      "link": "https://phys.org/news/2026-03-high-weaver-ants-leaf-zippers.html",
+      "summary": "The rainforests of northern Australia are home to extraordinary ant colonies. Instead of dwelling in underground burrows, these ants inhabit canopies of trees, dozens of meters abo",
+      "date": "2026-03-30T13:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/high-rise-living-the-t-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-30T13:58:30Z"
+    },
+    {
+      "title": "Tracing the evolutionary history of chemical warfare between plants and insects",
+      "link": "https://phys.org/news/2026-03-evolutionary-history-chemical-warfare-insects.html",
+      "summary": "A new study published in Nature Ecology & Evolution connects plant and insect physiology, chemical ecology, molecular function, and evolutionary analysis to offer a new perspective",
+      "date": "2026-03-30T13:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tracing-the-evolutiona.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-30T13:58:30Z"
+    },
+    {
+      "title": "'Toad-proofing' farms could help stop the march of invasive pest",
+      "link": "https://phys.org/news/2026-03-toad-proofing-farms-invasive-pest.html",
+      "summary": "Curtin University research has found farmers making small changes to how they give water to cattle in semi-arid regions could halt the spread of one of Australia's most damaging in",
+      "date": "2026-03-30T13:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/toad-proofing-farms-co.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-30T13:58:30Z"
+    },
     {
       "title": "Birding Lodges of the World: Pico Bonito, Honduras",
       "link": "https://www.10000birds.com/birding-lodges-of-the-world-pico-bonito-honduras.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-lodges-of-the-world-pico-bonito-honduras",
