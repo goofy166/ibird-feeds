@@ -1,8 +1,52 @@
 {
-  "updated": "2026-03-30T21:52:38Z",
-  "updated_utc": "2026-03-30T21:52:38Z",
-  "count": 443,
+  "updated": "2026-03-30T22:46:44Z",
+  "updated_utc": "2026-03-30T22:46:44Z",
+  "count": 447,
   "stories": [
+    {
+      "title": "Gut bacteria may influence social behavior through smell",
+      "link": "https://phys.org/news/2026-03-gut-bacteria-social-behavior.html",
+      "summary": "In a new study, Northwestern University neurobiologists discovered that gut bacteria and the nose work together to shape social behavior in mice, including who fights and who backs",
+      "date": "2026-03-30T22:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gut-bacteria-influence.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-30T22:46:41Z"
+    },
+    {
+      "title": "A flesh‑eating fly is advancing towards the US border—can it be stopped?",
+      "link": "https://phys.org/news/2026-03-flesheating-fly-advancing-border.html",
+      "summary": "A flesh-eating parasitic fly has spread north through Mexico to within a few hundred miles of the U.S. southern border. The New World screwworm (Cochliomyia hominivorax) lays its e",
+      "date": "2026-03-30T22:30:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-flesheating-fly-is-a.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-30T22:46:41Z"
+    },
+    {
+      "title": "Unexpected potential bacterial symbiosis found in fungus that causes angular leaf spot",
+      "link": "https://phys.org/news/2026-03-unexpected-potential-bacterial-symbiosis-fungus.html",
+      "summary": "Scientists have uncovered an unexpected microbial relationship that could help explain differences in the severity of a major disease affecting common beans. The discovery sheds li",
+      "date": "2026-03-30T22:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/beanplant.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-30T22:46:41Z"
+    },
+    {
+      "title": "Tasmanian tigers discovered in Indigenous rock art in Australia, suggesting these marsupials lived there much longer than thought",
+      "link": "https://www.livescience.com/archaeology/tasmanian-tigers-discovered-in-indigenous-rock-art-in-australia-suggesting-these-marsupials-lived-there-much-longer-than-thought",
+      "summary": "Around 14 new rock-art depictions of thylacines, also known as Tasmanian tigers, have been found in northern Australia.",
+      "date": "2026-03-30T22:35:38Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/5hBJcEpKFMamgUfTueHEL7-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-03-30T22:46:42Z"
+    },
     {
       "title": "Did Neanderthals Use Birch Bark Tar as an Antibiotic to Treat Wounds and Infections?",
       "link": "https://www.smithsonianmag.com/smart-news/did-neanderthals-use-birch-bark-tar-as-an-antibiotic-to-treat-wounds-and-infections-180988393/",
