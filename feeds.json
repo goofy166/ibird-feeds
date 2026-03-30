@@ -1,8 +1,19 @@
 {
-  "updated": "2026-03-29T23:41:27Z",
-  "updated_utc": "2026-03-29T23:41:27Z",
-  "count": 386,
+  "updated": "2026-03-30T03:27:47Z",
+  "updated_utc": "2026-03-30T03:27:47Z",
+  "count": 387,
   "stories": [
+    {
+      "title": "Managed wetlands a culinary hot spot for SF bay fish, but they need delivery options",
+      "link": "https://phys.org/news/2026-03-wetlands-culinary-hot-sf-bay.html",
+      "summary": "California's Bay Area may be a culinary hot spot for people, but food options for fish in the San Francisco Estuary have been limited and declining in recent decades. A new study f",
+      "date": "2026-03-30T00:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/managed-wetlands-a-cul-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-30T03:27:43Z"
+    },
     {
       "title": "Binding to RNA is not enough—changing its shape is what makes a drug work, study reveals",
       "link": "https://phys.org/news/2026-03-rna-drug-reveals.html",
