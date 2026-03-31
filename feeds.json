@@ -1,8 +1,140 @@
 {
-  "updated": "2026-03-31T17:08:22Z",
-  "updated_utc": "2026-03-31T17:08:22Z",
-  "count": 493,
+  "updated": "2026-03-31T19:13:39Z",
+  "updated_utc": "2026-03-31T19:13:39Z",
+  "count": 500,
   "stories": [
+    {
+      "title": "Federal ‘God squad’ poised to exempt oil and gas drilling in the Gulf from endangered species rules",
+      "link": "https://www.mercurynews.com/2026/03/31/federal-god-squad-poised-to-exempt-oil-and-gas-drilling-in-the-gulf-from-endangered-species-rules/",
+      "summary": "By MATTHEW BROWN A U.S. government panel convened Tuesday for the first time since 1992 to consider exempting oil and gas drilling in the Gulf of Mexico from the Endangered Species",
+      "date": "Tue, 31 Mar 2026 17Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/03/Trump_Oil_God_Squad_86765_812381-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-03-31T19:13:29Z"
+    },
+    {
+      "title": "Art Thieves Steal Paintings by Renoir, Cézanne and Matisse Worth More Than $10 Million, Fleeing the Scene in Just Three Minutes",
+      "link": "https://www.smithsonianmag.com/smart-news/art-thieves-steal-paintings-by-renoir-cezanne-and-matisse-worth-more-than-10-million-fleeing-the-scene-in-just-three-minutes-180988465/",
+      "summary": "The Magnani-Rocca Foundation in Italy was the target of a shocking art heist—just five months after a high-profile theft at the Louvre in Paris",
+      "date": "Tue, 31 Mar 2026 18Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/w2_5EesCh8AEP8GKr8UYymS15LA=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/af/05/af05fb49-a3be-4b3b-864b-8495d39141fa/renoir.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-03-31T19:13:32Z"
+    },
+    {
+      "title": "Pronatalists want more babies. Their solutions aren’t rooted in science",
+      "link": "https://www.sciencenews.org/article/pronatalists-babies-birth-rate-family",
+      "summary": "Conservative pronatalists want a return to the traditional nuclear family. But that family structure is at odds with how humans evolved.",
+      "date": "Tue, 31 Mar 2026 19Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/031026_SG_pronatalism_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-03-31T19:13:33Z"
+    },
+    {
+      "title": "A once-fantastical collider could answer physics’ biggest mysteries",
+      "link": "https://www.newscientist.com/article/2519026-a-once-fantastical-collider-could-answer-physics-biggest-mysteries/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The muon collider was once dismissed as impossible, but is now gaining steam as the successor to the Large Hadron Collider. If built, it could offer a new window to reality",
+      "date": "Tue, 31 Mar 2026 17Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/26110001/SEI_290230987.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-31T19:13:34Z"
+    },
+    {
+      "title": "Attacks from our immune system are a cause of long covid",
+      "link": "https://www.newscientist.com/article/2521476-attacks-from-our-immune-system-are-a-cause-of-long-covid/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The immune system going rogue and attacking healthy tissue seems to behind some cases of long covid, a discovery that could open doors towards treatments",
+      "date": "Tue, 31 Mar 2026 17Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/30171310/SEI_291151130.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-03-31T19:13:34Z"
+    },
+    {
+      "title": "Getting a glimpse of viral dances in the dark in the Sargasso Sea",
+      "link": "https://phys.org/news/2026-03-glimpse-viral-dark-sargasso-sea.html",
+      "summary": "In a new study of viral abundance over a short time frame in the Sargasso Sea, researchers found that almost all viruses with cyclical changes in abundance were most active at nigh",
+      "date": "2026-03-31T19:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/getting-a-glimpse-of-v.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-31T19:13:35Z"
+    },
+    {
+      "title": "Study reveals mechanisms underlying oxygen-tolerant energy conversion in a marine photosynthetic bacterium",
+      "link": "https://phys.org/news/2026-03-reveals-mechanisms-underlying-oxygen-tolerant.html",
+      "summary": "Photosynthetic bacteria do not release oxygen during photosynthesis but can convert solar energy into chemical energy with remarkably high efficiency. They also utilize near-infrar",
+      "date": "2026-03-31T19:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-reveals-mechanis-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-31T19:13:35Z"
+    },
+    {
+      "title": "Teaching robots to harvest asparagus",
+      "link": "https://phys.org/news/2026-03-robots-harvest-asparagus.html",
+      "summary": "Asparagus is one of the most labor-intensive crops on the market. Harvesting demands extreme precision—the terrain is uneven, and the stalks are thin and of varying length. These c",
+      "date": "2026-03-31T18:30:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/teaching-robots-to-har.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-31T19:13:35Z"
+    },
+    {
+      "title": "SimCells successfully target and kill drug-resistant bacteria",
+      "link": "https://phys.org/news/2026-03-simcells-successfully-drug-resistant-bacteria.html",
+      "summary": "We are continually in an evolutionary arms race with bacteria. As we develop new antibiotics, they develop resistance, and so it goes on until some of our treatments no longer work",
+      "date": "2026-03-31T18:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/custom-built-cells-suc.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-31T19:13:35Z"
+    },
+    {
+      "title": "Phylogenetically diverse Central China proposed as newest global biodiversity hotspot",
+      "link": "https://phys.org/news/2026-03-phylogenetically-diverse-central-china-global.html",
+      "summary": "Taxonomic endemism and phylogenetic endemism are both important measures of biodiversity. The former describes the number of distinct species found nowhere else, whereas the latter",
+      "date": "2026-03-31T17:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/phylogenetically-diver.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-31T19:13:35Z"
+    },
+    {
+      "title": "'It blew my mind': Long-lost ice-age ecosystem, including fossils of lion-size armadillo and giant ground sloth, discovered in Texas 'water cave'",
+      "link": "https://www.livescience.com/animals/extinct-species/it-blew-my-mind-long-lost-ice-age-ecosystem-including-fossils-of-lion-size-armadillo-and-giant-ground-sloth-discovered-in-texas-water-cave",
+      "summary": "Two researchers snorkeling in a subterranean stream in Texas discovered fossils from the Late Pleistocene epoch, revealing new details about what lived in this ancient ecosystem.",
+      "date": "Tue, 31 Mar 2026 18Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Sh6bnoJECZeFNg8TJwmA2G-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-03-31T19:13:37Z"
+    },
+    {
+      "title": "China's huge push to reduce air pollution had an unexpected consequence in the Arctic",
+      "link": "https://www.livescience.com/planet-earth/climate-change/chinas-huge-push-to-reduce-air-pollution-had-an-unexpected-consequence-in-the-arctic",
+      "summary": "China's cuts to aerosol emissions reduced sea ice loss, but it may have revealed a bigger story about climate change.",
+      "date": "Tue, 31 Mar 2026 17Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/r3rwnXFPQEryjBpqhBZNKd-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-03-31T19:13:37Z"
+    },
     {
       "title": "Lark Bunting Bird Species Identification",
       "link": "https://www.birdsandblooms.com/birding/bird-species/sparrows/lark-bunting/",
@@ -5369,61 +5501,6 @@
       "name": "Cornell",
       "category": "insects",
       "color": 15,
-      "fetched_at": ""
-    },
-    {
-      "title": "Extend the Season of Love to Birds",
-      "link": "https://www.birds.cornell.edu/home/join_great_backyard_bird_count_2026/",
-      "summary": "Love is in the air—listen closely and the sounds of chickadees, sparrows, and thrushes are beckoning you to step outside to experience the love from birds and nature. Take a moment",
-      "date": "Tue, 20 Jan 2026 14Z",
-      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": ""
-    },
-    {
-      "title": "Cornell Lab of Ornithology’s Land Trust Bird Conservation Initiative Announces Opening of Small Grant Program",
-      "link": "https://www.birds.cornell.edu/home/cornell-lab-land-trust-small-grant-program/",
-      "summary": "Apply now for funds to support conservation on private and public lands from the Cornell Lab of Ornithology's Land Trust Bird Conservation Initiative.",
-      "date": "2026-01-07T15:23:03Z",
-      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": ""
-    },
-    {
-      "title": "These Are the 20 Birds Most People in the US See Every Day",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/20-common-birds-in-the-usa/",
-      "summary": "Birds are one of the few wild animals most people encounter daily. They hop across lawns, perch on fences, gather in parking lots, and call … Read More \"These Are the 20 Birds Most",
-      "date": "",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/02/northern-cardinal-common-birds-in-the-usa-scaled.jpg",
-      "name": "",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": ""
-    },
-    {
-      "title": "Urban Green Corridors: How Cities Are Creating Bird-Friendly Pathways",
-      "link": "https://www.10000birds.com/urban-green-corridors-how-cities-are-creating-bird-friendly-pathways.htm?utm_source=rss&utm_medium=rss&utm_campaign=urban-green-corridors-how-cities-are-creating-bird-friendly-pathways",
-      "summary": "Cities are expanding to accommodate rapid population growth worldwide. While urban developments aim to address human needs, these changes are often at the expense of natural areas ",
-      "date": "",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/03/image-18.jpeg",
-      "name": "",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": ""
-    },
-    {
-      "title": "13 Once-in-a-Lifetime Photos of Rare Birds",
-      "link": "https://www.birdsandblooms.com/birding/bird-photography/rare-birds-photos/",
-      "summary": "White Ibises in New York “Two young white ibises flew into a small pond in Freeport, New York. It was exciting because these rare birds are uncommon in our area,” says Birds & Bloo",
-      "date": "",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/17_heather-farrell_BBXjan24.jpg?fit=700,1024",
-      "name": "",
-      "category": "wildlife",
-      "color": 5,
       "fetched_at": ""
     }
   ]
