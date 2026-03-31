@@ -1,8 +1,52 @@
 {
-  "updated": "2026-03-31T22:42:13Z",
-  "updated_utc": "2026-03-31T22:42:13Z",
+  "updated": "2026-03-31T23:41:09Z",
+  "updated_utc": "2026-03-31T23:41:09Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The language of termites: Liss Fenwick’s The Colony – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2026/mar/31/liss-fenwick-colony-old-books-termites-in-pictures",
+      "summary": "Liss Fenwick’s photobook The Colony , available through Perimeter Editions, is a book about books – and what happens when their authority is quietly and actively undone Continue re",
+      "date": "2026-03-31T23:36:12Z",
+      "image": "https://i.guim.co.uk/img/media/b292212a5511f3eb82f6a160bf381a85702af7ba/617_0_5160_4129/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=54dae1eefa2d845325ad21e4b0d4bce6",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-03-31T23:40:53Z"
+    },
+    {
+      "title": "Great hammerheads maintain peak hunting across wide temperature swings, biologging data suggest",
+      "link": "https://phys.org/news/2026-03-great-hammerheads-peak-wide-temperature.html",
+      "summary": "Most predators slow down when ocean temperatures shift. Great hammerhead sharks don't—not significantly anyway. These ocean predators are masters of the \"thermal hustle,\" maintaini",
+      "date": "2026-03-31T23:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/these-sharks-dont-swea.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-31T23:41:05Z"
+    },
+    {
+      "title": "Targeting the tiniest divide: Research reveals potential vulnerability in bacterial reproduction",
+      "link": "https://phys.org/news/2026-03-tiniest-reveals-potential-vulnerability-bacterial.html",
+      "summary": "A Université de Montréal study has found a previously unknown mechanism in bacterial reproduction that could be attacked by future antibiotics. Bacteria reproduce by dividing into ",
+      "date": "2026-03-31T23:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/targeting-the-tiniest.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-31T23:41:05Z"
+    },
+    {
+      "title": "Introducing a new citizen science nature app that's geared towards the scientific community",
+      "link": "https://phys.org/news/2026-03-citizen-science-nature-app-geared.html",
+      "summary": "Identifying weeds, checking out the pollen map, or discovering new plant life-forms are among the promising wealth of data available to users of PlantNet—a \"Shazam!\" for plants. Pi",
+      "date": "2026-03-31T23:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/introducing-a-new-citi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-31T23:41:05Z"
+    },
     {
       "title": "A Hiker Fell 180 Feet down a Waterfall. Her Dog Molly Was Found Two Weeks Later in the Exact Same Spot.",
       "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/molly-dog-rescued-waterfall-fall-new-zealand/",
@@ -5454,50 +5498,6 @@
       "summary": "A major gap in South Korea's prehistoric record has been filled with the discovery of Onggwanoolithus aphaedoensis, the first known bird-type dinosaur eggs from the Cretaceous peri",
       "date": "2026-03-25T14:40:08Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-fossil-eggs-provi.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": ""
-    },
-    {
-      "title": "The polar bear 'umbrella': How protecting one species saves many",
-      "link": "https://phys.org/news/2026-03-polar-umbrella-species.html",
-      "summary": "To protect the vulnerable biodiversity of the Arctic, researchers from the University of Alberta and San Diego Zoo Wildlife Alliance (SDZWA) have identified a new conservation stra",
-      "date": "2026-03-25T11:00:31Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/polarbear.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": ""
-    },
-    {
-      "title": "Genomes reveal five E. coli 'armor' types behind most multidrug-resistant bloodstream infections",
-      "link": "https://phys.org/news/2026-03-genomes-reveal-coli-armor-multidrug.html",
-      "summary": "The first large-scale genetic study of E. coli's protective armor has identified the five capsule types that are responsible for 70% of all multidrug-resistant bloodstream infectio",
-      "date": "2026-03-25T10:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/e-coli.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": ""
-    },
-    {
-      "title": "Britain's hibernating hazel dormice are getting lighter in spring as temperatures rise, study suggests",
-      "link": "https://phys.org/news/2026-03-britain-hibernating-hazel-dormice-lighter.html",
-      "summary": "Britain's hazel dormice are getting lighter in spring but fatter in autumn as our climate changes, suggests new research in Scientific Reports. The study, titled \"The effects of cl",
-      "date": "2026-03-25T09:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dormice-weight-fluctua.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": ""
-    },
-    {
-      "title": "Eight amino acids may explain salamanders' reduced cold sensitivity",
-      "link": "https://phys.org/news/2026-03-amino-acids-salamanders-cold-sensitivity.html",
-      "summary": "The ability to sense environmental temperature, which helps animals move away from suboptimal locations and find those with ideal temperatures, involves various channels on sensory",
-      "date": "2026-03-25T07:10:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/salamander.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
