@@ -1,8 +1,30 @@
 {
-  "updated": "2026-03-31T03:18:54Z",
-  "updated_utc": "2026-03-31T03:18:54Z",
-  "count": 452,
+  "updated": "2026-03-31T05:48:26Z",
+  "updated_utc": "2026-03-31T05:48:26Z",
+  "count": 454,
   "stories": [
+    {
+      "title": "‘A national scandal’: trawlers scour seabeds of supposedly protected UK waters",
+      "link": "https://www.theguardian.com/environment/2026/mar/31/a-national-scandal-trawlers-scour-seabeds-of-supposedly-protected-uk-waters",
+      "summary": "‘Precious ocean life is being pushed to the brink,’ say campaigners, arguing that overfished marine areas are ‘protected only on paper’ Almost 40% of England’s seas are designated ",
+      "date": "2026-03-31T05:00:31Z",
+      "image": "https://i.guim.co.uk/img/media/68f935a45fd07c7e433b539a214639aa6532d69a/388_0_3537_2832/master/3537.jpg?width=140&quality=85&auto=format&fit=max&s=2ef05da6554c80d4d68aef40ba2f416c",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-03-31T05:48:11Z"
+    },
+    {
+      "title": "Country diary: These ‘mystery’ geese and I have a fond history | Nick Acheson",
+      "link": "https://www.theguardian.com/environment/2026/mar/31/country-diary-these-mystery-geese-and-i-have-a-fond-history",
+      "summary": "Holkham, Norfolk: They’re noisy and boisterous and should by rights should be breeding in Siberia, not eastern England. But I’m delighted they’re here Barnacle geese in Norfolk sti",
+      "date": "2026-03-31T04:30:30Z",
+      "image": "https://i.guim.co.uk/img/media/6a6c029984223fea2b0de07dbb1d9ecb9b7f1363/30_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=836aa15859b96545f55b65b18337158b",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-03-31T05:48:11Z"
+    },
     {
       "title": "Tropical geckos in Australia are more adaptable than we thought",
       "link": "https://phys.org/news/2026-03-tropical-geckos-australia-thought.html",
