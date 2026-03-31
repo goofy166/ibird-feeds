@@ -1,8 +1,41 @@
 {
-  "updated": "2026-03-30T23:44:18Z",
-  "updated_utc": "2026-03-30T23:44:18Z",
-  "count": 449,
+  "updated": "2026-03-31T03:18:54Z",
+  "updated_utc": "2026-03-31T03:18:54Z",
+  "count": 452,
   "stories": [
+    {
+      "title": "Tropical geckos in Australia are more adaptable than we thought",
+      "link": "https://phys.org/news/2026-03-tropical-geckos-australia-thought.html",
+      "summary": "Earth is teeming with life: creatures big and small have spread and adapted to vastly different environments. Many animals can also change their physiology—how their bodies functio",
+      "date": "2026-03-31T02:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tropical-geckos-in-aus-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-31T03:18:51Z"
+    },
+    {
+      "title": "Your post-gym protein shake may get a taste upgrade: Manufacturing can improve whey protein drink palatability",
+      "link": "https://phys.org/news/2026-03-gym-protein-whey-palatability.html",
+      "summary": "The taste and texture profile of protein shakes could be improved by tweaking the way whey protein is made, new research has found. An ongoing collaboration among the University of",
+      "date": "2026-03-31T01:40:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/your-post-gym-protein.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-31T03:18:51Z"
+    },
+    {
+      "title": "Human touch leaves chicks feeling happy, study finds",
+      "link": "https://phys.org/news/2026-03-human-chicks-happy.html",
+      "summary": "Chicks, just like pets, also benefit from gentle human touch, new research has revealed. Scientists at the University of Bristol have discovered that gentle human interactions do n",
+      "date": "2026-03-31T00:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/human-touch-leaves-chi-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-03-31T03:18:51Z"
+    },
     {
       "title": "Light switch for life: Controlling molecular droplets with UV",
       "link": "https://phys.org/news/2026-03-life-molecular-droplets-uv.html",
