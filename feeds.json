@@ -1,8 +1,85 @@
 {
-  "updated": "2026-04-01T21:52:37Z",
-  "updated_utc": "2026-04-01T21:52:37Z",
+  "updated": "2026-04-01T22:49:36Z",
+  "updated_utc": "2026-04-01T22:49:36Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Visible planets and night sky guide for March and April",
+      "link": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
+      "summary": "Visible planets and night sky guide. The full Pink Moon will rise at about sunset tonight and shine all night near the star Spica. It will set around sunrise. The post Visible plan",
+      "date": "2026-04-01T10:00:08Z",
+      "image": "https://earthsky.org/upl/2026/03/2026-Apr-1-Full-Moon-A.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-04-01T22:49:22Z"
+    },
+    {
+      "title": "Sun news: What happened to last night’s auroras?",
+      "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+      "summary": "Sun news for April 1, 2026: The blast of sun-stuff (CME) from the X1.5 flare has still not arrived. Will we see a late arrival today? The post Sun news: What happened to last night",
+      "date": "2026-04-01T09:30:53Z",
+      "image": "https://earthsky.org/upl/2026/04/Apr-1-26-Sun-activity-filament-eruptions.-ezgif.com-video-to-webp-converter.webp",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-04-01T22:49:22Z"
+    },
+    {
+      "title": "How to Tell If You’re Overwhelmed or Overstimulated—and How Getting Outside Can Help",
+      "link": "https://www.outsideonline.com/health/wellness/overstimulation-vs-overwhelmed/",
+      "summary": "Here’s how to tell the difference and, more importantly, what to do to push past these uncomfortable feelings. The post How to Tell If You’re Overwhelmed or Overstimulated—and How ",
+      "date": "2026-04-01T21:56:20Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/overwhelm-overstimulated-nature.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-01T22:49:27Z"
+    },
+    {
+      "title": "Fins, fingers and toes: A new take on repeating body parts and how they come to be",
+      "link": "https://phys.org/news/2026-04-fins-fingers-toes-body.html",
+      "summary": "As biologists know, nature can take its sweet time explaining itself. Andrew Gillis, associate scientist at the Marine Biological Laboratory (MBL), has been investigating how the p",
+      "date": "2026-04-01T22:30:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fins-fingers-and-toes.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-01T22:49:32Z"
+    },
+    {
+      "title": "New model shows how behavioral flexibility affects animal evolution",
+      "link": "https://phys.org/news/2026-04-behavioral-flexibility-affects-animal-evolution.html",
+      "summary": "When the environment changes dramatically, animals from mollusks to crows can make big changes in their behavior that enable them to survive. For example, marmots and ground squirr",
+      "date": "2026-04-01T22:10:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/polar-bear.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-01T22:49:32Z"
+    },
+    {
+      "title": "Aquaculture is shifting toward less sustainable species, study says",
+      "link": "https://phys.org/news/2026-04-aquaculture-shifting-sustainable-species.html",
+      "summary": "While aquaculture has grown rapidly to meet global seafood demand, it is increasingly relying on species that are less beneficial for food security, climate mitigation, and biodive",
+      "date": "2026-04-01T22:10:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/aquaculture-is-shiftin.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-01T22:49:32Z"
+    },
+    {
+      "title": "Precision work prior to cell division: How enzymes optimize DNA structure",
+      "link": "https://phys.org/news/2026-04-precision-prior-cell-division-enzymes.html",
+      "summary": "Before a cell can divide, it has to precisely duplicate its entire genetic information. However, the DNA in the cell exists as part of a DNA-protein complex known as chromatin. For",
+      "date": "2026-04-01T22:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/3-dna.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-01T22:49:32Z"
+    },
     {
       "title": "The Personal Toll of Canada’s Broken Fishing Promises",
       "link": "https://hakaimagazine.com/features/the-personal-toll-of-canadas-broken-fishing-promises/",
@@ -5424,83 +5501,6 @@
       "name": "BWatching HQ",
       "category": "birds",
       "color": 4,
-      "fetched_at": ""
-    },
-    {
-      "title": "‘It’s like flowers on steroids’: what happened when scientists heated a Rocky Mountain wildlife meadow by 2C?",
-      "link": "https://www.theguardian.com/environment/2026/mar/25/flowers-heated-2c-meadow-climate-crisis-experiment-rocky-mountains-aoe",
-      "summary": "A long-running experiment in Colorado provides an ‘alarming’ view of how rapidly unchecked global heating could transform fragile ecosystems Every summer, people descend on the wil",
-      "date": "2026-03-25T15:00:11Z",
-      "image": "https://i.guim.co.uk/img/media/55719afbad23a02a2a01158402054727b27861f6/0_482_1440_1152/master/1440.jpg?width=140&quality=85&auto=format&fit=max&s=97aafd11eb53ff62dac57ec1ebcc7355",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": ""
-    },
-    {
-      "title": "Country diary: My garden log pile is teeming with life | Kate Bradbury",
-      "link": "https://www.theguardian.com/environment/2026/mar/25/country-diary-my-garden-log-pile-is-teeming-with-life",
-      "summary": "Hove, East Sussex: Loading it up with many different species – oak, elder, hazel, willow and birch – has turned it into a thriving ecosystem In the garden, the log pile is a whole ",
-      "date": "2026-03-25T05:30:01Z",
-      "image": "https://i.guim.co.uk/img/media/96dcc06e0498ee85eb627e1c28c71a428b0d7089/58_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=2dac8287cc36662d7f6bef89ce71c9c8",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": ""
-    },
-    {
-      "title": "‘Extraordinary event’ for mountain gorillas as new twins born in DRC",
-      "link": "https://www.theguardian.com/environment/2026/mar/24/mountain-gorillas-twins-born-drc-aoe",
-      "summary": "Conservationists celebrate second twin birth just two months after another set discovered in Virunga national park A second set of mountain gorilla twins has been born in Virunga n",
-      "date": "2026-03-24T12:42:56Z",
-      "image": "https://i.guim.co.uk/img/media/c8a19f65ea0f091b472976a9e5613de830f4ea30/735_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=cdea626a79a51b897a0577c8f1f5a2d4",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": ""
-    },
-    {
-      "title": "Epic river migrations of fish rapidly collapsing, UN report finds",
-      "link": "https://www.theguardian.com/environment/2026/mar/24/epic-river-migrations-of-fish-rapidly-collapsing-un-report-finds",
-      "summary": "Vast journeys, among world’s great wonders, found to be under threat as freshwater fish populations crash by 81% “It’s very hard to imagine what’s going on beneath the water when y",
-      "date": "2026-03-24T12:00:37Z",
-      "image": "https://i.guim.co.uk/img/media/3904b2c6aa774aae019f6f170875b9f2e9468e12/60_0_1280_1024/master/1280.jpg?width=140&quality=85&auto=format&fit=max&s=710eafbea5088d93d5bce64978e230ca",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": ""
-    },
-    {
-      "title": "‘It smells like a rancid fish and chip shop’: at sea with the Antarctic’s krill supertrawlers",
-      "link": "https://www.theguardian.com/environment/2026/mar/24/krill-foundation-food-antarctic-ecosystem-survive-factory-fishing",
-      "summary": "The fishery is regulated but experts say it is wrecking the food chain. Gordon Peake joined a Sea Shepherd mission to observe the giant ships compete for catch It is bitterly cold ",
-      "date": "2026-03-24T09:00:14Z",
-      "image": "https://i.guim.co.uk/img/media/1db6ca94468e694941cb6b65702dacc2876b5eee/973_0_5328_4262/master/5328.jpg?width=140&quality=85&auto=format&fit=max&s=6c3c9ff1de36cccb8597f8cb4f087a15",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": ""
-    },
-    {
-      "title": "Shooting restricted for six British wild birds to halt population decline",
-      "link": "https://www.theguardian.com/environment/2026/mar/23/shooting-restricted-six-british-wild-birds-halt-population-decline",
-      "summary": "Woodcocks and pochard, pintail and goldeneye ducks among threatened species protected by proposals Hunters will be banned from shooting a rare and beautiful duck under new proposal",
-      "date": "2026-03-23T15:00:53Z",
-      "image": "https://i.guim.co.uk/img/media/2d0491dec8da7227902870149f2ee6aa3625368d/164_0_6002_4803/master/6002.jpg?width=140&quality=85&auto=format&fit=max&s=ff1cf108c5fc4bb1c5c6ae9a377c9b40",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": ""
-    },
-    {
-      "title": "‘There’s biological treasure here’: Chile’s endemic seals gain protection with new marine park",
-      "link": "https://www.theguardian.com/environment/2026/mar/23/chile-seals-colony-gain-protection-new-marine-park-juan-fernandez-archipelago-wildlife",
-      "summary": "Sixty years after the discovery of a colony of Juan Fernández fur seals, previously thought to be extinct, a landmark agreement extends ‘no take’ zone around the wildlife-rich arch",
-      "date": "2026-03-23T12:00:49Z",
-      "image": "https://i.guim.co.uk/img/media/ff0ec890189281a4319fdffdd2a3abaa4cf4ed49/1419_0_7096_5677/master/7096.jpg?width=140&quality=85&auto=format&fit=max&s=5431b316a39c54ca15f788ab4d24cac1",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
       "fetched_at": ""
     }
   ]
