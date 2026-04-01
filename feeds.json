@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-01T03:31:33Z",
-  "updated_utc": "2026-04-01T03:31:33Z",
+  "updated": "2026-04-01T06:00:24Z",
+  "updated_utc": "2026-04-01T06:00:24Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Painting eyes on takeaway boxes can stop gulls stealing chips, study shows",
+      "link": "https://www.theguardian.com/environment/2026/apr/01/specieswatch-eyes-on-takeaway-boxes-stop-gulls-stealing-chips",
+      "summary": "Research from the University of Exeter find that the method could help reduce thefts by as much as 50% Gulls thrive on snatching chips from unwary beachgoers, but now research show",
+      "date": "2026-04-01T05:00:39Z",
+      "image": "https://i.guim.co.uk/img/media/3258788b948fe523ab134b92433d503fba1d4d3d/0_2100_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=bcc6f08670b857d9f4c9ef3056ed9e7a",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-01T06:00:10Z"
+    },
+    {
+      "title": "‘Harrowing’: Cyclone Narelle leaves graveyard of turtles, dolphins and seabirds in Western Australia",
+      "link": "https://www.theguardian.com/australia-news/2026/apr/01/western-australia-cyclone-narelle-damage-wildlife",
+      "summary": "Exmouth local says devastating impact on wildlife along the coastline is ‘hard to put into words’ Follow our Australia news live blog for latest updates Sign up for climate and env",
+      "date": "2026-04-01T04:50:06Z",
+      "image": "https://i.guim.co.uk/img/media/62827245497f1167208c45ab9398592cc2a42fb2/1541_303_5935_4750/master/5935.jpg?width=140&quality=85&auto=format&fit=max&s=8b6efb718681efb7e7e815d9ba077773",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-01T06:00:10Z"
+    },
     {
       "title": "'One Plant Health Concept' connects tradition and technology to address plant diseases in Africa",
       "link": "https://phys.org/news/2026-03-health-concept-tradition-technology-diseases.html",
@@ -5476,28 +5498,6 @@
       "summary": "An international team of researchers led by the Francis Crick Institute, the University of East Anglia and the Max Planck Institute for Evolutionary Anthropology has found that dog",
       "date": "2026-03-25T16:00:02Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2015/dog.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": ""
-    },
-    {
-      "title": "Low-cost sensor system could warn farmers of salt stress in plants",
-      "link": "https://phys.org/news/2026-03-sensor-farmers-salt-stress.html",
-      "summary": "Soil salinity is a critical concern in agriculture when excessive soluble salts restrict a plant's water uptake, according to the U.S. Department of Agriculture, hindering crop gro",
-      "date": "2026-03-25T15:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/low-cost-sensor-system.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": ""
-    },
-    {
-      "title": "Bioelectronic platform enables precise H₂S delivery to cells, turning a toxic gas into a therapeutic tool",
-      "link": "https://phys.org/news/2026-03-bioelectronic-platform-enables-precise-h8322s.html",
-      "summary": "A toxic gas known for its \"rotten egg smell\" has been transformed into a therapeutic tool. A research team at KAIST has developed a technology to precisely control hydrogen sulfide",
-      "date": "2026-03-25T15:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bioelectronic-platform.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
