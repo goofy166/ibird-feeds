@@ -1,8 +1,63 @@
 {
-  "updated": "2026-04-02T22:40:52Z",
-  "updated_utc": "2026-04-02T22:40:52Z",
+  "updated": "2026-04-02T23:41:58Z",
+  "updated_utc": "2026-04-02T23:41:58Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Fremont police warn of rabies after dead bat tests positive",
+      "link": "https://www.mercurynews.com/2026/04/02/fremont-police-warn-rabies-dead-bat/",
+      "summary": "Rabies attacks the brain and nervous system and is nearly always fatal without treatment.",
+      "date": "Thu, 02 Apr 2026 23Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2021/09/hypatia-h_4ed32d3506d204b1bf057ff739291f77-h_34cae2596129ae7ffcc1963eabc53c1a.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-02T23:41:48Z"
+    },
+    {
+      "title": "Surprise fossil discoveries push back the evolution of complex animals",
+      "link": "https://www.newscientist.com/article/2521980-surprise-fossil-discoveries-push-back-the-evolution-of-complex-animals/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A fossil bed in China containing animals up to 554 million years old suggests that we may have to reconsider the idea that life suddenly diversified during the Cambrian explosion",
+      "date": "Thu, 02 Apr 2026 20Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/02113233/SEI_291801892.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-02T23:41:53Z"
+    },
+    {
+      "title": "Bumblebees surprise scientists by showing a sense of rhythm",
+      "link": "https://www.newscientist.com/article/2522005-bumblebees-surprise-scientists-by-showing-a-sense-of-rhythm/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Recognising rhythmic patterns was thought to require a big brain, but a series of experiments has shown that buff-tailed bumblebees have this ability, too",
+      "date": "Thu, 02 Apr 2026 20Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/02121210/SEI_291715163.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-02T23:41:53Z"
+    },
+    {
+      "title": "Scientists study radiation limits for safer seafood shipping",
+      "link": "https://phys.org/news/2026-04-scientists-limits-safer-seafood-shipping.html",
+      "summary": "Scientists at Florida International University have identified a promising way to safely ship fish long distances without losing vital vitamin D, using a method already widely appl",
+      "date": "2026-04-02T23:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seafood.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-02T23:41:55Z"
+    },
+    {
+      "title": "Cell lineage tracing reveals early‑segregated germline in plants",
+      "link": "https://phys.org/news/2026-04-cell-lineage-reveals-earlysegregated-germline.html",
+      "summary": "August Weismann's germ plasm theory of the late 19th century posited that only germ cells, e.g., sperm and egg cells in animals or pollen and ovule cells in plants, transmit geneti",
+      "date": "2026-04-02T23:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cell-lineage-tracing-r.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-02T23:41:55Z"
+    },
     {
       "title": "Platform for precise cellular control uses non-genetic DNA decoupled from genetic information",
       "link": "https://phys.org/news/2026-04-platform-precise-cellular-genetic-dna.html",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-03-26T13:47:02Z"
-    },
-    {
-      "title": "The Real Story Behind Abigail Adams' 'Remember the Ladies' Letter",
-      "link": "https://www.smithsonianmag.com/history/real-story-behind-abigail-adams-remember-ladies-letter-180988421/",
-      "summary": "Americans who turned the letter written by the future first lady into a suffragist rallying cry may have misunderstood her intentions",
-      "date": "Thu, 26 Mar 2026 11Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/kksbyEtnycVZ2C7VwBXA0FG7nEE=/420x240/filters:focal(1000x671:1001x672)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/05/57/0557cab2-4349-403b-8e87-d882e4f6fd16/smithmag-podcast-s04-ep24-abigail_adams-article.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-03-26T13:47:02Z"
-    },
-    {
-      "title": "Start cholesterol tests in childhood, new guidelines say",
-      "link": "https://www.sciencenews.org/article/cholesterol-ldl-childhood-guidelines",
-      "summary": "The idea is to control bad cholesterol early in life. Additional tests are also recommended to provide a clearer picture of risk.",
-      "date": "Thu, 26 Mar 2026 13Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/032526_EG_cholesterol_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-03-26T13:47:04Z"
-    },
-    {
-      "title": "Deep learning counts river herring across three Massachusetts rivers, matching human estimates",
-      "link": "https://phys.org/news/2026-03-deep-river-herring-massachusetts-rivers.html",
-      "summary": "Each spring, river herring populations migrate from Massachusetts coastal waters to begin their annual journey up rivers and streams to freshwater spawning habitats. River herring ",
-      "date": "2026-03-26T13:30:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/augmenting-citizen-sci.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-26T13:47:06Z"
-    },
-    {
-      "title": "Damselfish pick-up lines could have regional accents",
-      "link": "https://phys.org/news/2026-03-damselfish-lines-regional-accents.html",
-      "summary": "Courtship calls among two species of fish commonly found on Australian coral reefs have been described, and researchers say their \"accents\" can vary significantly between regions. ",
-      "date": "2026-03-26T13:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/damselfish-pick-up-lin.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-26T13:47:06Z"
-    },
-    {
-      "title": "New antibiotic alternative fights foodborne Salmonella",
-      "link": "https://phys.org/news/2026-03-antibiotic-alternative-foodborne-salmonella.html",
-      "summary": "Antimicrobial-resistant Salmonella poses severe challenges to global food safety and public health. Researchers from China have now identified a novel bacteriophage that offers a h",
-      "date": "2026-03-26T13:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2016/salmonella.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-26T13:47:06Z"
     }
   ]
 }
