@@ -1,8 +1,52 @@
 {
-  "updated": "2026-04-02T05:10:27Z",
-  "updated_utc": "2026-04-02T05:10:27Z",
+  "updated": "2026-04-02T07:24:58Z",
+  "updated_utc": "2026-04-02T07:24:58Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Why Some Birds Choose to Stay North in Winter",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/why-some-birds-choose-to-stay-north-in-winter/",
+      "summary": "Migration is often portrayed as the heroic default, a grand seasonal pilgrimage that sweeps birds thousands of miles south to warmth and abundance. But for … Read More \"Why Some Bi",
+      "date": "2025-12-10T08:22:42Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/12/Why-Some-Birds-Choose-to-Stay-North-in-Winter.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-04-02T07:24:35Z"
+    },
+    {
+      "title": "How Birds Keep Their Feet From Freezing",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/how-birds-keep-their-feet-from-freezing/",
+      "summary": "Watching a gull stand calmly on ice or a duck paddle through water that would numb a human in minutes is one of winter’s most … Read More \"How Birds Keep Their Feet From Freezing\"",
+      "date": "Tue, 09 Dec 2025 10Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/12/How-Birds-Keep-Their-Feet-From-Freezing.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-04-02T07:24:35Z"
+    },
+    {
+      "title": "Potting Mix vs Garden Soil: What’s the Difference?",
+      "link": "https://www.birdsandblooms.com/gardening/gardening-basics/potting-mix-vs-garden-soil/",
+      "summary": "Wondering if you can use garden soil in containers? Here's why potting mixes are a better choice, and what to look for in a good blend. The post Potting Mix vs Garden Soil: What’s ",
+      "date": "Tue, 24 Mar 2026 19Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/GettyImages-1470319528-e1774378556305.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-04-02T07:24:39Z"
+    },
+    {
+      "title": "New miniature marsupial frog found in Peru carries eggs in a back pouch",
+      "link": "https://phys.org/news/2026-04-miniature-marsupial-frog-peru-eggs.html",
+      "summary": "Scientists have discovered a new species of miniature marsupial frog in the Peruvian Amazon that carries its young in a natural pouch on its back, a research institute reported Wed",
+      "date": "2026-04-02T05:12:30Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-new-amphibian-spec.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-02T07:24:55Z"
+    },
     {
       "title": "A Cattle Farm in Alabama Draws Birders for a Spectacle of Kites",
       "link": "https://www.allaboutbirds.org/news/joe-cattle-farm-alabama-birders-kites/",
@@ -5454,50 +5498,6 @@
       "summary": "One of the most surprising things new birdwatchers discover is how often common birds are misnamed. Even people who have watched birds casually for years … Read More \"You’re Probab",
       "date": "2026-02-08T12:19:08Z",
       "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/02/two-starlings-scaled.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": ""
-    },
-    {
-      "title": "It’s Not Magic: How Birds Really Know When the Feeder Is Full",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/how-do-birds-find-bird-feeders/",
-      "summary": "You top up the bird feeder, step back inside… and within minutes birds seem to appear out of nowhere. It can feel almost magical as … Read More \"It’s Not Magic: How Birds Really Kn",
-      "date": "2026-02-02T07:07:45Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/02/how-do-birds-find-bird-feeders-photo-5-scaled.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": ""
-    },
-    {
-      "title": "10 Birds That Look Fake But Are Actually Real",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/10-birds-that-look-fake-but-are-actually-real/",
-      "summary": "At first glance, these birds do not look real. Their colors feel too bright. Their patterns look artificial. Some seem more like toys, cartoons, or … Read More \"10 Birds That Look ",
-      "date": "2026-01-03T18:44:44Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/01/pexels-james-frid-81279-2569232-scaled.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": ""
-    },
-    {
-      "title": "Why Birds Suddenly Go Silent at Certain Times of Day",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/why-birds-suddenly-go-silent-at-certain-times-of-day/",
-      "summary": "You step outside expecting birdsong and instead, there’s nothing. No chirping. No calls. No background chorus. It can feel eerie, even worrying. But when birds … Read More \"Why Bir",
-      "date": "2026-01-02T16:52:05Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/01/pexels-jimmykphotos-28491655-scaled.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": ""
-    },
-    {
-      "title": "12 Winter Moments Every Birdwatcher Should Look For",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/12-winter-moments-every-birdwatcher-should-look-for/",
-      "summary": "The countryside feels hushed, colors soften, and days are short, but winter strips nature back to its essentials. Leaves fall, cover thins, and suddenly birds … Read More \"12 Winte",
-      "date": "2025-12-17T08:48:59Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/12/12-Winter-Moments-Every-Birdwatcher-Should-Look-For.jpg",
       "name": "BWatching Daily",
       "category": "birds",
       "color": 0,
