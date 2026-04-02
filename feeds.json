@@ -1,8 +1,74 @@
 {
-  "updated": "2026-04-02T13:45:29Z",
-  "updated_utc": "2026-04-02T13:45:29Z",
+  "updated": "2026-04-02T15:06:19Z",
+  "updated_utc": "2026-04-02T15:06:19Z",
   "count": 500,
   "stories": [
+    {
+      "title": "This Painting Was Thought to Be a Workshop Copy of a Rembrandt. Now, One Scholar Argues It's the Real Deal",
+      "link": "https://www.smithsonianmag.com/smart-news/this-painting-was-thought-to-be-a-workshop-copy-of-a-rembrandt-now-one-scholar-argues-its-the-real-deal-180988473/",
+      "summary": "\"Old Man With a Gold Chain\" is on display beside a smaller copy for the first time in centuries. According to scholar Gary Schwartz, the Dutch master painted both himself",
+      "date": "Thu, 02 Apr 2026 14Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/x4cDgAfpzHmyrPi-6c5UmiJBWj8=/420x240/filters:focal(1500x850:1501x851)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5a/ee/5aeee9bf-39f7-4b67-9526-0451f03cec5b/rembrandt.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-02T15:06:11Z"
+    },
+    {
+      "title": "How Do Snakes 'Stand' Upright Nearly Stick-Straight? New Research Points to How They Pull Off the Gravity-Defying Feat",
+      "link": "https://www.smithsonianmag.com/smart-news/how-do-snakes-stand-upright-nearly-stick-straight-new-research-points-to-how-they-pull-off-the-gravity-defying-feat-180988470/",
+      "summary": "These clever creatures seem to concentrate their muscle activity near their bases, which helps them cross gaps between tree branches in the wild",
+      "date": "Thu, 02 Apr 2026 14Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/46b9VikeLolQvLny4QYw760ix9E=/420x240/filters:focal(640x427:641x428)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2b/29/2b29c36d-0c19-4958-87f5-eab79ec3ed72/171206jfbrucejayne245.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-02T15:06:11Z"
+    },
+    {
+      "title": "To climb trees, cicadas look to the shadows",
+      "link": "https://www.sciencenews.org/article/cicadas-climb-trees-shadows",
+      "summary": "Tree-climbing cicadas find their perches by looking for patches of darkness, a strategy known as skototaxis.",
+      "date": "Thu, 02 Apr 2026 14Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/033026_ED_Skototaxis_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-04-02T15:06:12Z"
+    },
+    {
+      "title": "Software package makes gene regulation easier to study—and tweak",
+      "link": "https://phys.org/news/2026-04-software-package-gene-easier-tweak.html",
+      "summary": "Understanding how genes are switched on and off in specific cell types remains one of biology's central challenges. While AI has made major progress in decoding the regulatory logi",
+      "date": "2026-04-02T15:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-tool-makes-gene-re.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-02T15:06:14Z"
+    },
+    {
+      "title": "Watering smarter, not more: A modern-day robotic divining rod",
+      "link": "https://phys.org/news/2026-04-smarter-modern-day-robotic-divining.html",
+      "summary": "Advanced technology can help farmers get to the root of a growing problem—overwatering in an era of increasing drought and water scarcity. A new UC Riverside system can map soil mo",
+      "date": "2026-04-02T14:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/watering-smarter-not-m.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-02T15:06:14Z"
+    },
+    {
+      "title": "World's oldest tortoise very much alive despite death rumors",
+      "link": "https://phys.org/news/2026-04-world-oldest-tortoise-alive-death.html",
+      "summary": "Reports of the death of the world's oldest living land animal—a nearly 200-year-old tortoise—were greatly exaggerated.",
+      "date": "2026-04-02T14:00:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/gianttortoise.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-02T15:06:14Z"
+    },
     {
       "title": "Microscopic coils and coffee trees lead to new fungal discovery",
       "link": "https://phys.org/news/2026-04-microscopic-coffee-trees-fungal-discovery.html",
@@ -5436,72 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-03-25T20:50:25Z"
-    },
-    {
-      "title": "NASA Aims to Launch the World's First Planet-Hopping Spacecraft Powered by Nuclear Fission",
-      "link": "https://www.smithsonianmag.com/smart-news/nasa-aims-to-launch-the-worlds-first-planet-hopping-spacecraft-powered-by-nuclear-fission-180988433/",
-      "summary": "The agency wants the mission to head to Mars by the end of 2028",
-      "date": "2026-03-25T19:54:54Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/JqGWV4xdCrOPc48zrLpqWHwGp0s=/420x240/filters:focal(600x446:601x447)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1b/16/1b1675b8-d8d6-4a1e-aa02-92c302d37db9/27901_pia26242-web.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-03-25T20:50:26Z"
-    },
-    {
-      "title": "See the Stunning 171-Year-Old Sketch That Helped Put Yosemite on the Map",
-      "link": "https://www.smithsonianmag.com/smart-news/see-the-stunning-171-year-old-sketch-that-helped-put-yosemite-on-the-map-180988385/",
-      "summary": "The Library of Congress has acquired a drawing and accompanying lithograph of Yosemite Falls created by Gold Rush-era artist Thomas Almond Ayres in 1855",
-      "date": "2026-03-25T19:51:22Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/B7MSi1isSeZoCwc2HGsRvLxHzzE=/420x240/filters:focal(3000x2000:3001x2001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/59/a0/59a0f57c-687e-45f3-991b-a2d9f44f63ff/714129.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-03-25T20:50:26Z"
-    },
-    {
-      "title": "A forest cleanup crew at risk? What hotter Amazon lowlands could mean dung beetles",
-      "link": "https://phys.org/news/2026-03-forest-cleanup-crew-hotter-amazon.html",
-      "summary": "Dung beetles remove feces from wild animals in forests and thus inhibit the spread of parasites. They work the dung into the soil and thus supply nutrients to plants. They fulfill ",
-      "date": "2026-03-25T20:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-forest-cleanup-crew.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-25T20:50:30Z"
-    },
-    {
-      "title": "Why Do Birds Abandon Their Nests?",
-      "link": "https://www.birdsandblooms.com/birding/attracting-birds/bird-nesting/do-birds-abandon-their-nests/",
-      "summary": "Nesting season brings joy to the backyard, but sometimes things don't work out as expected. Learn why birds may abandon their nests and eggs. The post Why Do Birds Abandon Their Ne",
-      "date": "2026-03-25T19:29:21Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/BNBbyc19_amy-gonzales-e1774465847255.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-03-25T19:50:27Z"
-    },
-    {
-      "title": "Why Aerobic Exercise, Not Just Strength Training, Matters on GLP-1 Drugs",
-      "link": "https://www.outsideonline.com/health/training-performance/ozempic-glp1-exercise-fitness-study-results/",
-      "summary": "Exercise makes you fitter; simply taking a GLP-1 drug doesn’t. The post Why Aerobic Exercise, Not Just Strength Training, Matters on GLP-1 Drugs appeared first on Outside Online .",
-      "date": "2026-03-25T18:36:05Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/woman-running.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-03-25T19:50:37Z"
-    },
-    {
-      "title": "Archaeologists Discover an Intact Cannonball From the Battle of the Alamo—One Day Before the Pivotal Conflict's 190th Anniversary",
-      "link": "https://www.smithsonianmag.com/smart-news/archaeologists-discover-an-intact-cannonball-from-the-battle-of-the-alamo-one-day-before-the-pivotal-conflicts-190th-anniversary-180988402/",
-      "summary": "The projectile is made of bronze, which suggests it was fired by the Mexican Army during the siege leading up to the 1836 battle",
-      "date": "2026-03-25T18:31:22Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/K9R9WveHnLAYp7ozQWnZcufUcyY=/420x240/filters:focal(530x358:531x359)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8a/78/8a78f65f-a155-402b-8d44-7a718fb8bbe6/csm_cannonball_intact_3fd21b0923.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-03-25T19:50:39Z"
     }
   ]
 }
