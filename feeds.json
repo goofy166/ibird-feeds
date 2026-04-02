@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-02T11:54:53Z",
-  "updated_utc": "2026-04-02T11:54:53Z",
+  "updated": "2026-04-02T13:45:29Z",
+  "updated_utc": "2026-04-02T13:45:29Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Microscopic coils and coffee trees lead to new fungal discovery",
+      "link": "https://phys.org/news/2026-04-microscopic-coffee-trees-fungal-discovery.html",
+      "summary": "Yunnan Province in southwestern China is a global biodiversity hotspot, accommodating an incredible variety of plants and animals. It is also the heart of China's coffee industry, ",
+      "date": "2026-04-02T13:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/microscopic-coils-and.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-02T13:45:26Z"
+    },
+    {
+      "title": "Tiny frogs prefer concrete apartments over wooden shelters",
+      "link": "https://phys.org/news/2026-04-tiny-frogs-concrete-apartments-wooden.html",
+      "summary": "James Cook University researchers have tested frog housing and nursery preferences in the Wet Tropics rainforest of North Queensland, with frogs finding the thermal regulation of c",
+      "date": "2026-04-02T13:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-frogs-prefer-conc.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-02T13:45:26Z"
+    },
     {
       "title": "Six Bird Names That Sound Mildly Pornographic",
       "link": "https://www.10000birds.com/six-bird-names-that-sound-mildly-pornographic.htm?utm_source=rss&utm_medium=rss&utm_campaign=six-bird-names-that-sound-mildly-pornographic",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-03-25T19:50:39Z"
-    },
-    {
-      "title": "The brain's cleaning system can be boosted to rid Alzheimer's proteins",
-      "link": "https://www.newscientist.com/article/2520849-the-brains-cleaning-system-can-be-boosted-to-rid-alzheimers-proteins/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A duo of drugs that boosts our glympathic system, which clears waste from our brain, also improves the removal of proteins associated with the onset of Alzheimer's disease",
-      "date": "2026-03-25T17:00:53Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/25141936/SEI_290658128.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-03-25T19:50:41Z"
-    },
-    {
-      "title": "Oldest known dog extends the genetic history of our canine companions",
-      "link": "https://www.newscientist.com/article/2520476-oldest-known-dog-extends-the-genetic-history-of-our-canine-companions/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "The remains of dogs from more than 14,000 years ago have been found in Turkey and the UK, revealing that domesticated animals were spread across Europe by hunter-gatherers",
-      "date": "2026-03-25T16:00:53Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/24113218/SEI_290740150.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-03-25T19:50:41Z"
     }
   ]
 }
