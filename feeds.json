@@ -1,8 +1,74 @@
 {
-  "updated": "2026-04-03T16:52:53Z",
-  "updated_utc": "2026-04-03T16:52:53Z",
+  "updated": "2026-04-03T17:41:51Z",
+  "updated_utc": "2026-04-03T17:41:51Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘Human intervention’ believed responsible as dozen leopard sharks are found dead on California beach trail",
+      "link": "https://www.mercurynews.com/2026/04/03/human-intervention-believed-responsible-as-dozen-leopard-sharks-are-found-dead-on-la-jolla-beach-trail/",
+      "summary": "The young sharks were lined up along the trail far from the shoreline, some covered in sand and others laid out on rocks",
+      "date": "2026-04-03T17:20:45Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SUT-L-LJ_drone-005.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-03T17:41:41Z"
+    },
+    {
+      "title": "Here Are the 5 Biggest Stories We’re Following on Mount Everest in 2026",
+      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/2026-mount-everest-5-stories/",
+      "summary": "Climbing season is here on the world’s highest peak, and there’s already controversy, new technology, and historic adventures. Our Everest reporter presents 5 stories he’s followin",
+      "date": "2026-04-03T17:07:47Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/Everest1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-03T17:41:42Z"
+    },
+    {
+      "title": "The Titanic's Wealthiest Victim Was Carrying a Gold Pocket Watch When He Died. Now, It Could Sell for $500,000 at Auction",
+      "link": "https://www.smithsonianmag.com/smart-news/the-titanics-wealthiest-victim-was-carrying-a-gold-pocket-watch-when-he-died-now-it-could-sell-for-500000-at-auction-180988475/",
+      "summary": "John Jacob Astor IV was returning from his honeymoon with his wife, who survived the 1912 disaster. His pocket watch and gold pencil case are going up for sale this month",
+      "date": "2026-04-03T16:57:53Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/R7th3t-PklEGuHeNbXQV4hjk_JQ=/420x240/filters:focal(1274x849:1275x850)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9c/3e/9c3e0e12-6b9d-4020-8a7b-4f5153405cbb/freeman_auction.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-03T17:41:44Z"
+    },
+    {
+      "title": "When our minds wander to the body, it may affect mental health",
+      "link": "https://www.sciencenews.org/article/mind-wander-body-mental-health",
+      "summary": "People’s minds sometimes wander to their bodily sensations, which may reduce symptoms of depression and ADHD, a new study suggests.",
+      "date": "2026-04-03T17:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/032726_DK_bodywandering_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-04-03T17:41:45Z"
+    },
+    {
+      "title": "High-throughput platform helps engineer fast-acting covalent protein drugs",
+      "link": "https://phys.org/news/2026-04-high-throughput-platform-fast-covalent.html",
+      "summary": "A team led by principal investigators Bobo Dang and Ting Zhou at Westlake University/Westlake Laboratory have developed a high-throughput platform for engineering fast-acting coval",
+      "date": "2026-04-03T17:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fast-acting-covalent-p.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-03T17:41:47Z"
+    },
+    {
+      "title": "Assembling more than 1,000 human genomes affordably: New method could power genetic screening's future",
+      "link": "https://phys.org/news/2026-04-human-genomes-method-power-genetic.html",
+      "summary": "A research team led by Zhen-Xing Endowed Professor Jian Yang at the School of Life Sciences, Westlake University, has developed a pangenome-informed genome assembly (PIGA) method. ",
+      "date": "2026-04-03T17:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/assembling-over-1000-h.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-03T17:41:47Z"
+    },
     {
       "title": "Hiding in Catalonia",
       "link": "https://www.10000birds.com/hiding-in-catalonia.htm?utm_source=rss&utm_medium=rss&utm_campaign=hiding-in-catalonia",
@@ -5436,72 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-03-27T10:56:48Z"
-    },
-    {
-      "title": "Astronauts will 'absolutely be test subjects': NASA's moon plans pose big questions — and big risks",
-      "link": "https://www.livescience.com/space/space-exploration/astronauts-will-absolutely-be-test-subjects-nasas-moon-plans-pose-big-questions-and-big-risks",
-      "summary": "Experts say building a lunar colony within the next decade, as NASA and Elon Musk want to, will require finding solutions to problems we don't yet fully understand.",
-      "date": "2026-03-27T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/NULCPWtsmBEbRoMZKLmKQ5-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-03-27T10:56:51Z"
-    },
-    {
-      "title": "Cut the lights – and seven more ways to save Britain’s bats",
-      "link": "https://www.theguardian.com/environment/2026/mar/27/cut-the-lights-and-seven-more-ways-to-save-britains-bats",
-      "summary": "Lots of us aren’t very keen on bats. But the more we find out about them, the more amazing they turn out to be Bats have a bad rep: in a recent survey by the Bat Conservation Trust",
-      "date": "2026-03-27T09:00:03Z",
-      "image": "https://i.guim.co.uk/img/media/241492f5222588532c47390c56605572f4d9ed84/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d0c22bf708af25b57fe0671b50b31bb1",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-03-27T09:02:42Z"
-    },
-    {
-      "title": "Week in wildlife: a flying rodent, a duty-free possum and an emerald viper",
-      "link": "https://www.theguardian.com/environment/gallery/2026/mar/27/week-in-wildlife-a-flying-rodent-a-duty-free-possum-and-an-emerald-viper",
-      "summary": "This week’s best wildlife photographs from around the world Continue reading...",
-      "date": "2026-03-27T08:00:02Z",
-      "image": "https://i.guim.co.uk/img/media/8bd1213e4375d1c78dc16f895a5b2d08a8909a42/547_0_4500_3600/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=a0dc7fea00a0364acf82764883ab6a0c",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-03-27T09:02:42Z"
-    },
-    {
-      "title": "Four wives, two passports and a very elusive butterfly: one woman’s search for her lepidopterist father",
-      "link": "https://www.theguardian.com/film/2026/mar/27/rena-effendi-searching-for-satyrus-butterfly-armenia-azerbaijan",
-      "summary": "Rena Effendi’s film Searching for Satyrus began with a quest for the endangered insect that bears her family name. Before long, she was reckoning with secrets, lies and the mysteri",
-      "date": "2026-03-27T08:00:00Z",
-      "image": "https://i.guim.co.uk/img/media/3bfcd7d04835ee12bd4514c1bd29004202202de5/270_0_2254_1803/master/2254.jpg?width=140&quality=85&auto=format&fit=max&s=be034676cc49292537955e6d51c5a707",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-03-27T09:02:42Z"
-    },
-    {
-      "title": "What Would Really Happen to Your Body If You Only Ate Beans to Survive ‘Paradise’s’ Apocalypse?",
-      "link": "https://www.outsideonline.com/health/nutrition/paradise-hulu-annie-surving-on-beans/",
-      "summary": "I can usually suspend reality for the sake of being entertained, but it’s going on two years and, all things considered, she’s still in decent shape. That’s suspicious. The post Wh",
-      "date": "2026-03-27T09:00:38Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/shailene-woodley-paradise.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-03-27T09:02:49Z"
-    },
-    {
-      "title": "Rare Andean bear captured in stunning photograph",
-      "link": "https://www.newscientist.com/article/mg26935880-300-rare-andean-bear-captured-in-stunning-photograph/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Shortlisted for the Sony World Photography Awards, this image by photographer Sebastian Di Domenico was taken in Columbia",
-      "date": "2026-03-25T18:00:00Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/20113159/SEI_289836467.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-03-27T09:02:53Z"
     }
   ]
 }
