@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-03T21:41:58Z",
-  "updated_utc": "2026-04-03T21:41:58Z",
+  "updated": "2026-04-03T22:42:25Z",
+  "updated_utc": "2026-04-03T22:42:25Z",
   "count": 500,
   "stories": [
+    {
+      "title": "What Went Wrong with the Deadly Tahoe Avalanche? We Had an Expert Analyze the New Accident Report.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/snow-sports/sierra-nevada-tahoe-avalanche-report-analysis/",
+      "summary": "Why did 13 die in the Tahoe avalanche? An expert spoke with Outside to parse through the official accident report. The post What Went Wrong with the Deadly Tahoe Avalanche? We Had ",
+      "date": "2026-04-03T22:34:35Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/recover.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-03T22:42:17Z"
+    },
+    {
+      "title": "Rock Art Suggests the Tasmanian Tiger May Have Survived on Mainland Australia Longer Than Previously Thought",
+      "link": "https://www.smithsonianmag.com/smart-news/rock-art-suggests-the-tasmanian-tiger-may-have-survived-on-mainland-australia-longer-than-previously-thought-180988472/",
+      "summary": "Archaeologists think some of the paintings may be less than 1,000 years old, even though the animals were thought to have disappeared from the continent roughly 3,000 years ago",
+      "date": "2026-04-03T17:58:54Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/952oSrJqKbKX8tQ2RiBM_eS68Fg=/420x240/filters:focal(2267x1447:2268x1448)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/44/63/44639f11-096b-401d-af4c-6fa6db0f4572/gettyimages-1753400523.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-03T22:42:18Z"
+    },
     {
       "title": "Massive NPS Staffing Cuts Loom as DOI Orders ‘Visitor-Facing’ Realignment and Early Retirement",
       "link": "https://www.outsideonline.com/outdoor-adventure/environment/nps-layoffs-visitor-facing-realignment-2027-budget/",
@@ -5480,28 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-03-27T11:49:43Z"
-    },
-    {
-      "title": "Bird Nerd Book Club: The Feather Wars",
-      "link": "https://www.10000birds.com/bird-nerd-book-club-the-feather-wars.htm?utm_source=rss&utm_medium=rss&utm_campaign=bird-nerd-book-club-the-feather-wars",
-      "summary": "In this episode of the Bird Nerd Book Club, Hannah chats with James H. McCommons about his recently published book, The Feather Wars. This book is an entertaining and expansive wor",
-      "date": "2026-03-27T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/03/Forsters-Tern-scaled.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-03-27T11:49:43Z"
-    },
-    {
-      "title": "5 moon myths that still fool people today",
-      "link": "https://earthsky.org/space/five-myths-about-the-moon/",
-      "summary": "There are plenty of myths that surround the moon. Here are 5 of the most popular. How many of these myths have you been led to believe? The post 5 moon myths that still fool people",
-      "date": "2026-03-27T11:01:19Z",
-      "image": "https://earthsky.org/upl/2024/03/sunlit-earth-moon-far-side-DISCOVR-2015.webp",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-03-27T11:49:50Z"
     }
   ]
 }
