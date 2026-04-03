@@ -1,8 +1,85 @@
 {
-  "updated": "2026-04-03T14:53:51Z",
-  "updated_utc": "2026-04-03T14:53:51Z",
+  "updated": "2026-04-03T15:47:27Z",
+  "updated_utc": "2026-04-03T15:47:27Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Top 10 Hosta Varieties to Grow in Your Shade Garden",
+      "link": "https://www.birdsandblooms.com/gardening/shade-gardening/hosta-varieties/",
+      "summary": "Add big-foliage energy to your shady corners with colorful, easy-growing hosta varieties for garden beds and container plantings. The post Top 10 Hosta Varieties to Grow in Your Sh",
+      "date": "Thu, 26 Mar 2026 20Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/GettyImages-1347671838-e1774554519125.jpg?fit=700,703",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-04-03T15:47:08Z"
+    },
+    {
+      "title": "Marion Nixon obituary",
+      "link": "https://www.theguardian.com/environment/2026/apr/03/marion-nixon-obituary",
+      "summary": "My friend Marion Nixon, who has died aged 95, was well known to generations of research scientists for her ingenious work in clarifying much of what we know about octopuses, includ",
+      "date": "2026-04-03T15:29:36Z",
+      "image": "https://i.guim.co.uk/img/media/7484905ff757e269f5182ab7a4dd4c841f979cb7/633_250_4363_3491/master/4363.jpg?width=140&quality=85&auto=format&fit=max&s=073c43cd62d2949262e7b79d05a40a33",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-03T15:47:12Z"
+    },
+    {
+      "title": "Supreme Court ruling on ‘conversion therapy’ puts medical talk in the hot seat",
+      "link": "https://www.sciencenews.org/article/conversion-therapy-supreme-court-lgbtq",
+      "summary": "In Chiles v. Salazar , the court ruled that a therapist has First Amendment protections. That could impact how talk therapy is regulated.",
+      "date": "2026-04-03T15:03:56Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/040226_AC_conversion_main-1.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-04-03T15:47:21Z"
+    },
+    {
+      "title": "We may have seen a 'dirty fireball' star explosion for the first time",
+      "link": "https://www.newscientist.com/article/2522015-we-may-have-seen-a-dirty-fireball-star-explosion-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "An incredibly powerful flash of X-rays spotted by the Einstein Probe telescope appears to be a kind of explosion first theorised more than 30 years ago",
+      "date": "2026-04-03T14:00:47Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/02144417/SEI_291818531.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-03T15:47:22Z"
+    },
+    {
+      "title": "How worried should you be about an AI apocalypse?",
+      "link": "https://www.newscientist.com/article/2522019-how-worried-should-you-be-about-an-ai-apocalypse/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Fears that artificial intelligence could rise up to wipe out humanity are understandable given our steady diet of sci-fi stories depicting just that, but what is the real risk? Mat",
+      "date": "2026-04-03T12:00:55Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/02125325/SEI_291810409.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-03T15:47:22Z"
+    },
+    {
+      "title": "Seed banks may complicate gene drives aimed at controlling weeds",
+      "link": "https://phys.org/news/2026-04-seed-banks-complicate-gene-aimed.html",
+      "summary": "Gene drives—a genetic engineering approach that quickly spreads specific genetic changes throughout a population, whether to kill it off or add a new trait—may have potential for c",
+      "date": "2026-04-03T15:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seed-banks-may-complic.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-03T15:47:23Z"
+    },
+    {
+      "title": "Homo habilis is the earliest named human. But is it even human?",
+      "link": "https://www.livescience.com/archaeology/human-evolution/homo-habilis-is-the-earliest-named-human-but-is-it-even-human",
+      "summary": "Between 2 million and 3 million years ago, humans appeared in Africa — but identifying them in the fossil record is turning out to be surprisingly difficult.",
+      "date": "2026-04-03T15:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/435Yz3ieFSMGqN4wTcLQzH-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-03T15:47:24Z"
+    },
     {
       "title": "Top 10 Full Sun Annuals That Love the Light",
       "link": "https://www.birdsandblooms.com/gardening/top-10-lists-for-gardeners/full-sun-annual-plants/",
@@ -5425,83 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-03-26T23:40:53Z"
-    },
-    {
-      "title": "Scientists identify new Fusarium species behind wheat disease outbreak in Ethiopia",
-      "link": "https://phys.org/news/2026-03-scientists-fusarium-species-wheat-disease.html",
-      "summary": "Fusarium head blight (FHB) is a destructive disease of wheat that can reduce grain yields and contaminate grain with toxins harmful to humans and livestock. The disease threatens w",
-      "date": "2026-03-26T23:10:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-identify-ne.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-26T23:40:53Z"
-    },
-    {
-      "title": "Wild squirrels consistently climb higher for better snacks, researchers find",
-      "link": "https://phys.org/news/2026-03-wild-squirrels-climb-higher-snacks.html",
-      "summary": "Squirrels are usually willing to climb higher to reach their favorite foods, shows new research appearing in Animal Behaviour. Extensive lab studies have found that animals \"devalu",
-      "date": "2026-03-26T23:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/squirrels-climb-higher.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-26T23:40:53Z"
-    },
-    {
-      "title": "Researchers use quantum biosensors to peer into cells' inner workings",
-      "link": "https://phys.org/news/2026-03-quantum-biosensors-peer-cells.html",
-      "summary": "In a major advance applying insights from quantum physics to the inner workings of biology, a team of WashU researchers has successfully implanted quantum sensors in living cells t",
-      "date": "2026-03-26T22:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/cell-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-26T23:40:53Z"
-    },
-    {
-      "title": "Dolphins, stingers and ‘salt tongue’: an epic ocean swim around New Zealand’s east coast",
-      "link": "https://www.theguardian.com/world/2026/mar/26/ultra-marathon-swimmer-jono-rider-ocean-new-zealand-coast",
-      "summary": "Jono Ridler has battled loneliness and fatigue as he aims to break the record for the longest unassisted staged swim – and raise awareness about fragile marine life First he hears ",
-      "date": "2026-03-26T22:00:48Z",
-      "image": "https://i.guim.co.uk/img/media/f044f085e11189ffb2762cb0d3e409c2157cfcf7/500_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=029ff8f1d82eb62c296d5136a2a5ec59",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-03-26T22:39:43Z"
-    },
-    {
-      "title": "These Never-Before-Seen Photos Show Astronaut Neil Armstrong Relaxed and Smiling After He Almost Died in the Gemini 8 Emergency",
-      "link": "https://www.smithsonianmag.com/smart-news/these-never-before-seen-photos-show-astronaut-neil-armstrong-relaxed-and-smiling-after-he-almost-died-in-the-gemini-8-emergency-180988442/",
-      "summary": "Few members of the media were at the unexpected arrival site. Military police officer Ron McQueeney was one of the few photographers who documented the occasion",
-      "date": "Thu, 26 Mar 2026 22Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/Y_bdgultdcthOzH6EpP45SAKQ70=/420x240/filters:focal(960x786:961x787)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c9/ed/c9edc70c-f0e4-4a9d-a1f0-31edf2e38bdd/armstrong_3.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-03-26T22:39:51Z"
-    },
-    {
-      "title": "Bioluminescent bacterial partner proves essential for squid development",
-      "link": "https://phys.org/news/2026-03-bioluminescent-bacterial-partner-essential-squid.html",
-      "summary": "The Hawaiian bobtail squid, a small, multi-colored native of coastal waters in Hawai'i, uses bioluminescence to camouflage itself and evade predators. However, the costume change i",
-      "date": "2026-03-26T22:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bioluminescent-bacteri-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-26T22:39:55Z"
-    },
-    {
-      "title": "New synthetic origin of replication lets multiple plasmids coexist in one bacterial cell",
-      "link": "https://phys.org/news/2026-03-synthetic-replication-multiple-plasmids-coexist.html",
-      "summary": "\"If it ain't broke, don't fix it,\" goes the old adage, which Rice University professor James Chappell completely ignored in a recent Nature Communications publication. In the study",
-      "date": "2026-03-26T22:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-synthetic-parts-fo.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-26T22:39:55Z"
     }
   ]
 }
