@@ -1,8 +1,52 @@
 {
-  "updated": "2026-04-03T17:41:51Z",
-  "updated_utc": "2026-04-03T17:41:51Z",
+  "updated": "2026-04-03T18:58:58Z",
+  "updated_utc": "2026-04-03T18:58:58Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Coyote killed after string of attacks in California neighborhood",
+      "link": "https://www.mercurynews.com/2026/04/03/coyote-killed-los-angeles-county-attacks/",
+      "summary": "The three most recent attacks, in Carson and adjacent Gardena, injured an adult and two children.",
+      "date": "2026-04-03T18:20:18Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2025/12/sut-l-cowan-col-0119-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-03T18:58:48Z"
+    },
+    {
+      "title": "The World's Longest Outdoor Escalator Just Opened in China. Riding the 3,000-Foot-Long System to the Top Takes More Than 20 Minutes",
+      "link": "https://www.smithsonianmag.com/smart-news/the-worlds-longest-outdoor-escalator-just-opened-in-china-riding-the-3000-foot-long-system-to-the-top-takes-more-than-20-minutes-180988468/",
+      "summary": "The new \"Goddess\" escalator in Wushan County features 21 individual escalators and 8 elevators. The modular design carries riders up 800 feet in elevation",
+      "date": "2026-04-03T18:28:33Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/2bTjYa6Hcr5NywHxicil1WkMjUQ=/420x240/filters:focal(2432x1644:2433x1645)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/72/7b/727bef6f-59bd-44dc-a2e6-b1dcd8b15d16/gettyimages-2261701300.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-03T18:58:51Z"
+    },
+    {
+      "title": "Meet Domino, a Tiny, Bumpy Fish Making a Splash in Chicago",
+      "link": "https://www.smithsonianmag.com/smart-news/meet-domino-a-tiny-bumpy-fish-making-a-splash-in-chicago-180988482/",
+      "summary": "The warty frogfish, also known as a clown anglerfish, is believed to be the first of its kind born and raised in captivity",
+      "date": "2026-04-03T17:48:37Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/2YB10LAw99zN9cEqKN6e5aNPMsI=/420x240/filters:focal(1316x877:1317x878)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/39/f2/39f2e882-14d6-42ad-be11-39ea1cc2b84c/165a9147_hpr_1.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-03T18:58:51Z"
+    },
+    {
+      "title": "Exposing secret night operations between hawkmoths and Japan's black-nectar flowers",
+      "link": "https://phys.org/news/2026-04-exposing-secret-night-hawkmoths-japan.html",
+      "summary": "Researchers Soma Chiyoda, Ko Mochizuki, and Atsushi Kawakita from the University of Tokyo have discovered that nocturnal hawkmoths are the main pollinators of Jasminanthes mucronat",
+      "date": "2026-04-03T18:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/secret-night-operation.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-04-03T18:58:55Z"
+    },
     {
       "title": "‘Human intervention’ believed responsible as dozen leopard sharks are found dead on California beach trail",
       "link": "https://www.mercurynews.com/2026/04/03/human-intervention-believed-responsible-as-dozen-leopard-sharks-are-found-dead-on-la-jolla-beach-trail/",
@@ -5454,50 +5498,6 @@
       "summary": "Kim Stanley Robinson opens his classic science fiction novel Red Mars in 2026. As the New Scientist Book Club embarks on reading it in April, he looks back on its origins – and how",
       "date": "2026-03-27T09:20:54Z",
       "image": "https://images.newscientist.com/wp-content/uploads/2026/03/23145152/sei290668427.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-03-27T10:56:48Z"
-    },
-    {
-      "title": "Why Kim Stanley Robinson's Red Mars is still a classic, 34 years on",
-      "link": "https://www.newscientist.com/article/2521097-why-kim-stanley-robinsons-red-mars-is-still-a-classic-34-years-on/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "As the New Scientist Book Club reads Kim Stanley Robinson’s science-fiction novel in April, George Bass digs into why this 1992 book still feels so relevant today",
-      "date": "2026-03-27T09:15:38Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/26143528/sei290979556.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-03-27T10:56:48Z"
-    },
-    {
-      "title": "Read an extract from Kim Stanley Robinson's sci-fi classic Red Mars",
-      "link": "https://www.newscientist.com/article/2520296-read-an-extract-from-kim-stanley-robinsons-sci-fi-classic-red-mars/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "This is the opening of Kim Stanley Robinson's Red Mars, the New Scientist Book Club read for April, as humans come to the planet to settle it",
-      "date": "2026-03-27T09:15:20Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/23141527/sei290656917.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-03-27T10:56:48Z"
-    },
-    {
-      "title": "New Scientist recommends documentary Molly vs The Machines",
-      "link": "https://www.newscientist.com/article/mg26935880-500-new-scientist-recommends-documentary-molly-vs-the-machines/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "The books, TV, games and more that New Scientist staff have enjoyed this week",
-      "date": "2026-03-25T18:00:00Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/20135652/SEI_289816531.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-03-27T10:56:48Z"
-    },
-    {
-      "title": "Surprising G-spot found in the most detailed study of the penis yet",
-      "link": "https://www.newscientist.com/article/2520982-surprising-g-spot-found-in-the-most-detailed-study-of-the-penis-yet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A long-overlooked area of the penis has been found to have the highest concentration of nerve endings and sensory structures in the organ, suggesting that it is the “male G-spot”",
-      "date": "2026-03-27T09:00:28Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/26111649/SEI_290876107.jpg",
       "name": "New Scientist",
       "category": "insects",
       "color": 12,
