@@ -1,8 +1,52 @@
 {
-  "updated": "2026-04-02T23:41:58Z",
-  "updated_utc": "2026-04-02T23:41:58Z",
+  "updated": "2026-04-03T03:16:49Z",
+  "updated_utc": "2026-04-03T03:16:49Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The benefits of community Trap-Neuter-Return programs for unowned cats",
+      "link": "https://phys.org/news/2026-04-benefits-community-neuter-unowned-cats.html",
+      "summary": "Although neighborhood cats may seem like a fun, charming presence, unowned cat populations have been criticized for causing harm to a community and its environment. Without proper ",
+      "date": "2026-04-03T02:50:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/street-cat.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-03T03:16:45Z"
+    },
+    {
+      "title": "Map shows scale of ecosystem disturbance across Australia",
+      "link": "https://phys.org/news/2026-04-scale-ecosystem-disturbance-australia.html",
+      "summary": "University of Queensland researchers are urging governments to use newly created national data to protect the country's last remaining ecosystems free of human pressures. The two n",
+      "date": "2026-04-03T02:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/map-shows-scale-of-eco.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-03T03:16:45Z"
+    },
+    {
+      "title": "Frequent prescribed burns help young oaks thrive despite invasive grasses, study finds",
+      "link": "https://phys.org/news/2026-04-frequent-young-oaks-invasive-grasses.html",
+      "summary": "As winter comes to a close, many people look forward to warmer temperatures and spring blooms, but for land managers working to preserve or restore oak-dominated forests, it is pre",
+      "date": "2026-04-03T00:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/oak-forest-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-03T03:16:45Z"
+    },
+    {
+      "title": "Artemis II officially leaves Earth's orbit on the way to the moon",
+      "link": "https://www.livescience.com/space/space-exploration/artemis-ii-officially-leaves-earths-orbit-on-the-way-to-the-moon",
+      "summary": "With a successful translunar injection burn, NASA's Artemis II mission stopped circling Earth and began the first crewed journey toward the moon since the Apollo era.",
+      "date": "2026-04-03T00:06:11Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/FQagPmib6vB398YShoKFjF-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-03T03:16:46Z"
+    },
     {
       "title": "Fremont police warn of rabies after dead bat tests positive",
       "link": "https://www.mercurynews.com/2026/04/02/fremont-police-warn-rabies-dead-bat/",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-03-26T15:15:32Z"
-    },
-    {
-      "title": "Brain aging results from a loss of control over how genes are regulated, mouse study suggests",
-      "link": "https://www.livescience.com/health/aging/brain-aging-results-from-a-loss-of-control-over-how-genes-are-regulated-mouse-study-suggests",
-      "summary": "Aging may \"erase\" the epigenetic markers that control gene expression in the brain, and this may create a snowball effect.",
-      "date": "Thu, 26 Mar 2026 13Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/h9kX9VNSjtg3chEE8kGBCV-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-03-26T15:15:33Z"
-    },
-    {
-      "title": "Astronomers spot 2 planets forming around young star",
-      "link": "https://earthsky.org/space/astronomers-spot-2-planets-forming-around-young-star/",
-      "summary": "Astronomers have spotted 2 planets forming in the disk around a young star named WISPIT 2, which resembles a young version of our solar system. The post Astronomers spot 2 planets ",
-      "date": "Thu, 26 Mar 2026 11Z",
-      "image": "https://earthsky.org/upl/2026/03/2-planets-forming-around-wispit-2-eso-march-2026.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-03-26T13:46:56Z"
-    },
-    {
-      "title": "Still no answers in attacks on wild California donkeys",
-      "link": "https://www.mercurynews.com/2026/03/25/still-no-answers-in-attacks-on-reche-canyon-donkeys/",
-      "summary": "More than a dozen wild burros have been attacked in the last 10 weeks, according to non-profit DonkeyLand.",
-      "date": "2026-03-25T12:29:41Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/03/RPE-L-DONKEY-0325-02.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-03-26T13:46:59Z"
-    },
-    {
-      "title": "Nine Black College Students Were Arrested in 1961 for Reading at a Segregated Public Library. Their Contributions to the Civil Rights Movement Have Long Been Overlooked",
-      "link": "https://www.smithsonianmag.com/history/nine-black-college-students-were-arrested-in-1961-for-reading-at-a-segregated-public-library-their-contributions-to-the-civil-rights-movement-have-long-been-overlooked-180988422/",
-      "summary": "Known as the Tougaloo Nine, the demonstrators staged a sit-in that helped the NAACP push for the desegregation of public spaces in Mississippi's capital",
-      "date": "Thu, 26 Mar 2026 11Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/3t7SoMdV-k4RMzpKMMloYuuGYsM=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8c/04/8c0478a5-02e7-46e0-beb8-0fa04e7244e9/tougaloo-nine.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-03-26T13:47:02Z"
     }
   ]
 }
