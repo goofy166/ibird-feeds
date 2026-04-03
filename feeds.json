@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-03T03:16:49Z",
-  "updated_utc": "2026-04-03T03:16:49Z",
+  "updated": "2026-04-03T05:45:32Z",
+  "updated_utc": "2026-04-03T05:45:32Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Birding off the beaten track – the Hurghada Sewage Works",
+      "link": "https://www.10000birds.com/birding-off-the-beaten-track-the-hurghada-sewage-works.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-off-the-beaten-track-the-hurghada-sewage-works",
+      "summary": "By Peter Hinow Originally from Dresden, Germany, Peter Hinow is a mathematics professor at the University of Wisconsin in Milwaukee, Wisconsin, USA. One day, when left unsupervised",
+      "date": "2026-04-03T05:08:54Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/04/image-3.jpeg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-04-03T05:45:12Z"
+    },
+    {
+      "title": "Still no answers in attacks on wild California donkeys",
+      "link": "https://www.mercurynews.com/2026/03/25/still-no-answers-in-attacks-on-reche-canyon-donkeys/",
+      "summary": "More than a dozen wild burros have been attacked in the last 10 weeks, according to non-profit DonkeyLand.",
+      "date": "2026-03-25T23:51:41Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/03/RPE-L-DONKEY-0325-02.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-03T05:45:22Z"
+    },
     {
       "title": "The benefits of community Trap-Neuter-Return programs for unowned cats",
       "link": "https://phys.org/news/2026-04-benefits-community-neuter-unowned-cats.html",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-03-26T15:15:31Z"
-    },
-    {
-      "title": "Research challenges long-held ecological belief of how rare species survive",
-      "link": "https://phys.org/news/2026-03-held-ecological-belief-rare-species.html",
-      "summary": "A biological process long thought to protect biodiversity and help species coexist may actually threaten diversity when species are separated by natural landscapes, infrastructure,",
-      "date": "2026-03-26T15:00:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-challenges-lo.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-26T15:15:32Z"
-    },
-    {
-      "title": "Ancient fish used their lungs to hear underwater, scientists reveal",
-      "link": "https://phys.org/news/2026-03-ancient-fish-lungs-underwater-scientists.html",
-      "summary": "How did ancient fish perceive their environment in the deep sea? An international team led by scientists from the Natural History Museum of Geneva (MHNG) and the University of Gene",
-      "date": "2026-03-26T14:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/prehistoric-fish-coela-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-26T15:15:32Z"
     }
   ]
 }
