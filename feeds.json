@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-03T05:45:32Z",
-  "updated_utc": "2026-04-03T05:45:32Z",
+  "updated": "2026-04-03T07:21:47Z",
+  "updated_utc": "2026-04-03T07:21:47Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Week in wildlife: a meep-meep roadrunner, a new frog species and Orkney voles",
+      "link": "https://www.theguardian.com/environment/gallery/2026/apr/03/week-in-wildlife-roadrunner-new-frog-species-orkney-voles",
+      "summary": "This week’s best wildlife photographs from around the world Continue reading...",
+      "date": "2026-04-03T07:20:34Z",
+      "image": "https://i.guim.co.uk/img/media/ac8c8346594865937531f06b3e1e3f8c4316c75b/110_0_2965_2372/master/2965.jpg?width=140&quality=85&auto=format&fit=max&s=22028a9958255d0eec3bc4270979461f",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-03T07:21:32Z"
+    },
     {
       "title": "Birding off the beaten track – the Hurghada Sewage Works",
       "link": "https://www.10000birds.com/birding-off-the-beaten-track-the-hurghada-sewage-works.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-off-the-beaten-track-the-hurghada-sewage-works",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-03-26T15:15:29Z"
-    },
-    {
-      "title": "A variety of jungle animals all use one type of tree as a latrine",
-      "link": "https://www.newscientist.com/article/2520892-a-variety-of-jungle-animals-all-use-one-type-of-tree-as-a-latrine/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "In the cloud forest of Costa Rica, many canopy-dwelling animals do their business in strangler fig trees, perhaps as a way of leaving messages",
-      "date": "Thu, 26 Mar 2026 10Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/25142951/SEI_290763466.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-03-26T15:15:31Z"
     }
   ]
 }
