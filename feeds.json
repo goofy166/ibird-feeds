@@ -1,8 +1,41 @@
 {
-  "updated": "2026-04-03T07:21:47Z",
-  "updated_utc": "2026-04-03T07:21:47Z",
+  "updated": "2026-04-03T09:04:49Z",
+  "updated_utc": "2026-04-03T09:04:49Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Culture of care: surreal celebrations of Iranian tenderness – in pictures",
+      "link": "https://www.theguardian.com/culture/gallery/2026/apr/03/sheida-soleimani-ghostwriter-iran-art-photography-nyc-gallery",
+      "summary": "As the daughter of refugees, Iranian American artist Sheida Soleimani’s work reframes caring for bodies – both human and animal - as a political act. Her new exhibition, Forest of ",
+      "date": "2026-04-03T09:00:49Z",
+      "image": "https://i.guim.co.uk/img/media/963065f2d83c760e9d1e90872b4011329639b59e/95_0_2810_2248/master/2810.jpg?width=140&quality=85&auto=format&fit=max&s=dacd19882bbc92cf3af6e1316f8f3f17",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-03T09:04:33Z"
+    },
+    {
+      "title": "Star-hop from Orion to Sirius: See them before they go!",
+      "link": "https://earthsky.org/tonight/star-hop-orion-to-sirius-springtime/",
+      "summary": "Star-hopping is going from stars you know to stars you don't know. Star-hop from the constellation Orion to Sirius, sky's brightest star, before they're gone. The post Star-hop fro",
+      "date": "2026-04-03T09:00:00Z",
+      "image": "https://earthsky.org/upl/2021/04/starhop-orion-sirius-April-2022.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-04-03T09:04:35Z"
+    },
+    {
+      "title": "Easter is April 5 and Orthodox Easter is April 12",
+      "link": "https://earthsky.org/astronomy-essentials/easter-full-moon-vernal-equinox/",
+      "summary": "In 2026, Easter falls on April 5. It falls on the first Sunday after the first full moon after the March equinox. More about the date of Easter, here. The post Easter is April 5 an",
+      "date": "2026-04-03T08:00:39Z",
+      "image": "https://earthsky.org/upl/2024/03/Draper-UT-Mar-31-painted-Easter-eggs-Steve-Price-community-photos-800x519.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-04-03T09:04:35Z"
+    },
     {
       "title": "Week in wildlife: a meep-meep roadrunner, a new frog species and Orkney voles",
       "link": "https://www.theguardian.com/environment/gallery/2026/apr/03/week-in-wildlife-roadrunner-new-frog-species-orkney-voles",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-03-26T17:13:25Z"
-    },
-    {
-      "title": "A flurry of fireballs! Is there a reason for the uptick?",
-      "link": "https://earthsky.org/space/flurry-of-fireballs-march-2026-reason-ams/",
-      "summary": "We've seen a flurry of fireballs recently, with reports from Europe to Canada and the U.S. Is there a reason for the uptick? Results of the investigation here. The post A flurry of",
-      "date": "Thu, 26 Mar 2026 15Z",
-      "image": "https://earthsky.org/upl/2026/03/fireball-houston-AMS.gif",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-03-26T15:15:21Z"
-    },
-    {
-      "title": "Vivid Dreams Might Be Key to Feeling Well Rested When You Wake Up, According to a New Study",
-      "link": "https://www.smithsonianmag.com/smart-news/vivid-dreams-might-be-key-to-feeling-well-rested-when-you-wake-up-according-to-a-new-study-180988434/",
-      "summary": "The findings could help explain the purpose of dreams and help physicians better treat people with sleep disorders",
-      "date": "Thu, 26 Mar 2026 14Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/l1icvzuOcoamAcxZumljEeY6_Io=/420x240/filters:focal(2736x1824:2737x1825)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5c/58/5c58533c-6d1d-4280-8c62-cc12b13044cd/pexels-ekaterina-bolovtsova-7445175.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-03-26T15:15:28Z"
-    },
-    {
-      "title": "Social media can be addictive, a jury finds. Research hints at a link",
-      "link": "https://www.sciencenews.org/article/social-media-addictive-meta-youtube",
-      "summary": "Instagram and YouTube intentionally designed social media platforms to hook users, a landmark court case found. A pediatrician explains the ruling’s impact.",
-      "date": "Thu, 26 Mar 2026 15Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/032526_SG_Metatrial_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-03-26T15:15:29Z"
     }
   ]
 }
