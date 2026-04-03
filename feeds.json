@@ -1,8 +1,41 @@
 {
-  "updated": "2026-04-03T19:48:54Z",
-  "updated_utc": "2026-04-03T19:48:54Z",
+  "updated": "2026-04-03T20:47:14Z",
+  "updated_utc": "2026-04-03T20:47:14Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Massive NPS Staffing Cuts Loom as DOI Orders ‘Visitor-Facing’ Realignment and Early Retirement",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/nps-layoffs-visitor-facing-realignment-2027-budget/",
+      "summary": "A new April 2 memo reveals a sweeping plan to restructure the National Park Service, coinciding with massive 2026 budget cuts. The post Massive NPS Staffing Cuts Loom as DOI Orders",
+      "date": "2026-04-03T20:44:32Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/GettyImages-88375183.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-03T20:47:06Z"
+    },
+    {
+      "title": "Are You Ultralight Curious? These Are the 9 Essentials You Need.",
+      "link": "https://www.outsideonline.com/outdoor-gear/ultralight-beginner-kit/",
+      "summary": "I’m not committing to a whole new kit to try ultralight. I’m just swapping a few heavier essentials for lighter ones and seeing if it makes a difference. The post Are You Ultraligh",
+      "date": "2026-04-03T20:11:37Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/ultralight-curious-kit.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-03T20:47:06Z"
+    },
+    {
+      "title": "Artemis Astronauts Overcome Toilet  Trouble and Officially Head Toward the Moon",
+      "link": "https://www.smithsonianmag.com/smart-news/artemis-astronauts-overcome-toilet-trouble-and-officially-head-toward-the-moon-180988483/",
+      "summary": "Houston, we have a potty problem",
+      "date": "2026-04-03T20:35:27Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/hMee6_rtAXH6ruop_LCIRFN9elc=/420x240/filters:focal(1920x1179:1921x1180)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ed/6f/ed6f5a1d-b1c7-429d-b1d2-5b94a12426bf/3840px-artemis_ii_launch_nhq202604010307.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-03T20:47:07Z"
+    },
     {
       "title": "What the Heck Is Going On with the Mount Everest Poisoning Scandal?",
       "link": "https://www.outsideonline.com/outdoor-adventure/everest/mount-everest-poisoning-explainer/",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-03-27T11:49:50Z"
-    },
-    {
-      "title": "Fish Traps Have Been Banned on the Columbia River for Nearly a Century. Could Bringing Them Back Help Save Salmon?",
-      "link": "https://www.smithsonianmag.com/science-nature/fish-traps-have-been-banned-on-the-columbia-river-for-nearly-a-century-could-bringing-them-back-help-save-salmon-180988439/",
-      "summary": "A new experiment is testing the commercial success of fish traps in Washington and Oregon. Even as some conservationists embrace the technique, its return has reopened old wounds a",
-      "date": "2026-03-27T11:30:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/RMO28JuDdui5AiAjVom0sgVSsoc=/420x240/filters:focal(4228x2617:4229x2618)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e0/5e/e05e4af5-54ba-4a62-985a-337617530949/mhp_wildfish_0344.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-03-27T11:49:56Z"
-    },
-    {
-      "title": "'The King and I' Spotlights an English Governess Who Modernized Siamese Society. The Real Anna Leonowens Exaggerated Her Influence and Lied About Her Origins",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/the-king-and-i-spotlights-an-english-governess-who-modernized-siamese-society-the-real-anna-leonowens-exaggerated-her-influence-and-lied-about-her-origins-180988394/",
-      "summary": "The beloved musical is loosely based on a Eurasian schoolteacher's accounts of her time at King Mongkut's court. These memoirs masked her mixed-race status and unfairly portrayed t",
-      "date": "2026-03-27T11:30:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/rf9BMqHig7egfc-68zPkmikxPps=/420x240/filters:focal(1968x1556:1969x1557)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/11/68/1168a287-c095-4bd6-b995-b929a5159cf1/gettyimages-526899000.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-03-27T11:49:56Z"
-    },
-    {
-      "title": "'The Sopranos' Changed How Television Told Stories. These Scripts, Sketches and Set Designs Reveal What Made the Mob Drama So Thrilling",
-      "link": "https://www.smithsonianmag.com/smart-news/the-sopranos-changed-how-television-told-stories-these-scripts-sketches-and-set-designs-reveal-what-made-the-mob-drama-so-thrilling-180988432/",
-      "summary": "An exhibition at the Museum of the Moving Image in New York provides visitors with a behind-the-scenes look at the award-winning HBO show",
-      "date": "2026-03-27T11:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/pdmP1D7QTzPLWa1rwWQL2nUrci8=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/46/d0/46d08264-6cb9-45ab-9027-d7172f2548f9/momi_sopranos_exhibit-32_web.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-03-27T11:49:56Z"
     }
   ]
 }
