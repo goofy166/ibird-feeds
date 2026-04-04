@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-04T19:37:34Z",
-  "updated_utc": "2026-04-04T19:37:34Z",
+  "updated": "2026-04-04T20:42:18Z",
+  "updated_utc": "2026-04-04T20:42:18Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Bilby boom: breeding trial to reintroduce species to Mallee Cliffs national park shows signs of success",
+      "link": "https://www.theguardian.com/australia-news/2026/apr/05/bilby-breeding-trial-nsw-australia-easter-",
+      "summary": "Fifty ‘founder’ bilbies were released in fenced breeding area in 2019 with the aim of establishing first wild population there in a century Efforts to reintroduce bilbies in the fa",
+      "date": "2026-04-04T20:00:32Z",
+      "image": "https://i.guim.co.uk/img/media/6fd69153f57bd31f81975c3eaf2cce7d0678ac96/212_0_2065_1652/master/2065.jpg?width=140&quality=85&auto=format&fit=max&s=316dbc3fad1c983e215cc835f4b386d8",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-04T20:42:04Z"
+    },
     {
       "title": "Humans' closest invertebrate ancestors date back much further than thought",
       "link": "https://phys.org/news/2026-04-humans-closest-invertebrate-ancestors-date.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-03-27T16:02:35Z"
-    },
-    {
-      "title": "Barcelona Metropolitan Area has lost more than 70% of agricultural land in recent decades, finds study",
-      "link": "https://phys.org/news/2026-03-barcelona-metropolitan-area-lost-agricultural.html",
-      "summary": "Peri-urban agriculture in the Barcelona Metropolitan Area (AMB) is in a critical situation after decades of decline. A new study conducted by the Institute of Environmental Science",
-      "date": "2026-03-27T15:50:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/barcelona-metropolitan.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-27T16:02:37Z"
     }
   ]
 }
