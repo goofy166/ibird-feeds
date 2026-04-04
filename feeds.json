@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-04T08:53:06Z",
-  "updated_utc": "2026-04-04T08:53:06Z",
+  "updated": "2026-04-04T09:49:21Z",
+  "updated_utc": "2026-04-04T09:49:21Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Dark Sky Running Is a Growing Movement to See the Stars",
+      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/dark-sky-running-us/",
+      "summary": "Running in the pitch-black is a sensory-rich experience where the sound of the wind and the glow of the cosmos replace the distractions of the daytime, RUN's travel columnist expla",
+      "date": "2026-04-04T09:30:30Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/GettyImages-1039444396-2.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-04T09:49:12Z"
+    },
+    {
+      "title": "Are allergies genetic?",
+      "link": "https://www.livescience.com/health/genetics/are-allergies-genetic",
+      "summary": "Although babies born from parents with allergies are also more likely to have them, there are a number of outside factors that affect whether and how someone develops allergies.",
+      "date": "2026-04-04T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/vjwdUgMLKEHqU9kfjUqJtK-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-04T09:49:19Z"
+    },
     {
       "title": "From early birds to emerging butterflies: UK shows signs of earliest spring on record",
       "link": "https://www.theguardian.com/environment/2026/apr/04/birds-butterflies-britain-shows-signs-of-earliest-spring-on-record",
@@ -5476,28 +5498,6 @@
       "summary": "Pupil size in people with synesthesia changed depending on how bright or dark the perceived colors were.",
       "date": "2026-03-27T13:00:00Z",
       "image": "https://cdn.mos.cms.futurecdn.net/ZbagFZniU6FhsAm9aWSnkP-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-03-27T13:23:42Z"
-    },
-    {
-      "title": "Save 20% on our all-time favorite air purifier ahead of the hay fever season",
-      "link": "https://www.livescience.com/products/health-fitness/save-20-percent-on-our-all-time-favorite-air-purifier-ahead-of-the-hay-fever-season",
-      "summary": "The Levoit Core 600S-P takes the top spot in our guide to the best air purifiers for allergies — and now, you can get it for just $239.99 at Walmart and Amazon.",
-      "date": "2026-03-27T12:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/m4KhpkmajWxU3nVgdp9R6k-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-03-27T13:23:42Z"
-    },
-    {
-      "title": "Live Science Today: Jaw-dropping first glimpse of sperm whale birth and how NASA is turning astronauts into test subjects",
-      "link": "https://www.livescience.com/live-science-today-jaw-dropping-first-glimpse-of-sperm-whale-birth-and-how-nasa-is-turning-astronauts-into-test-subjects",
-      "summary": "Friday, March 27, 2026: Your daily roundup of the biggest science stories making headlines.",
-      "date": "2026-03-27T11:58:13Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/R4VnJSV6rNrckhx3ZeR2ZR-1280-80.jpg",
       "name": "Live Science",
       "category": "insects",
       "color": 14,
