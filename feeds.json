@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-04T16:46:44Z",
-  "updated_utc": "2026-04-04T16:46:44Z",
+  "updated": "2026-04-04T17:39:17Z",
+  "updated_utc": "2026-04-04T17:39:17Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How we came to be: Scientists get first look at the evolution of early complex animals",
+      "link": "https://phys.org/news/2026-04-scientists-evolution-early-complex-animals.html",
+      "summary": "Newly discovered fossils have given scientists their first real glimpse of when Earth made a crucial transition from plants and unrecognizably simple animals to the complex creatur",
+      "date": "2026-04-04T17:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-we-came-to-be-scie.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-04T17:39:14Z"
+    },
     {
       "title": "New study pinpoints climate conditions for restoring the endangered butternut tree",
       "link": "https://phys.org/news/2026-04-climate-conditions-endangered-butternut-tree.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-03-27T16:02:38Z"
-    },
-    {
-      "title": "Rare tongue-shaped fungus discovered in nature reserve in West Sussex",
-      "link": "https://www.theguardian.com/uk-news/2026/mar/27/rare-fungus-microglossum-cyanobasis-blue-based-earthtongue-nature-reserve-west-sussex",
-      "summary": "Microglossum cyanobasis – or blue-based earthtongue – is only the second such specimen ever to be found in Europe The discovery of a rare, tongue-shaped fungus is being hailed as a",
-      "date": "2026-03-27T14:41:16Z",
-      "image": "https://i.guim.co.uk/img/media/154cb20f50baa41729b1d7617a822c6ab7b9ee70/0_303_1179_943/master/1179.jpg?width=140&quality=85&auto=format&fit=max&s=22f894598ce35a06c0c92bef24ff1df2",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-03-27T14:59:38Z"
     }
   ]
 }
