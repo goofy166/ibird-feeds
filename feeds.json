@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-04T04:58:26Z",
-  "updated_utc": "2026-04-04T04:58:26Z",
+  "updated": "2026-04-04T06:06:49Z",
+  "updated_utc": "2026-04-04T06:06:49Z",
   "count": 500,
   "stories": [
+    {
+      "title": "From early birds to emerging butterflies: UK shows signs of earliest spring on record",
+      "link": "https://www.theguardian.com/environment/2026/apr/04/birds-butterflies-britain-shows-signs-of-earliest-spring-on-record",
+      "summary": "Citizen science data reveals early flowering, nesting and insect activity as global heating accelerate seasonal change Bluebells are flowering, swallows are returning and orange-ti",
+      "date": "2026-04-04T05:00:13Z",
+      "image": "https://i.guim.co.uk/img/media/24472583d8194540ee888aed3ffea3735400798d/0_1279_3410_2725/master/3410.jpg?width=140&quality=85&auto=format&fit=max&s=99a8065b939361a20b1a961c261cf28f",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-04T06:06:34Z"
+    },
     {
       "title": "What Went Wrong with the Deadly Tahoe Avalanche? We Had an Expert Analyze the New Accident Report.",
       "link": "https://www.outsideonline.com/outdoor-adventure/snow-sports/sierra-nevada-tahoe-avalanche-report-analysis/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-03-27T13:23:42Z"
-    },
-    {
-      "title": "Birding Brochure English, Part 1: An Introduction",
-      "link": "https://www.10000birds.com/birding-brochure-english-part-1-an-introduction.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-brochure-english-part-1-an-introduction",
-      "summary": "I have never encountered the word “denizen” anywhere other than in birding brochures. It seems to live there, alongside several other terms that have found a safe habitat in this p",
-      "date": "2026-03-27T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/03/Large-Niltava_DSC0311_Baihualing-Yunnan-Mar-08-2026.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-03-27T11:49:43Z"
     }
   ]
 }
