@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-04T21:39:54Z",
-  "updated_utc": "2026-04-04T21:39:54Z",
+  "updated": "2026-04-04T22:38:27Z",
+  "updated_utc": "2026-04-04T22:38:27Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Insects in the tropics are already near their heat limits. Climate change could push many beyond survival",
+      "link": "https://phys.org/news/2026-04-insects-tropics-limits-climate-survival.html",
+      "summary": "Insects make up to 90% of all animal species on the planet, and most of them can be found in the tropics, the regions around the equator. Yet we still know surprisingly little abou",
+      "date": "2026-04-04T22:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/insects-in-the-tropics.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-04T22:38:24Z"
+    },
     {
       "title": "Three-week-old mountain lion cub rescued by California biologists",
       "link": "https://www.theguardian.com/us-news/2026/apr/04/mountain-lion-cub-crimson-california",
@@ -5491,17 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-03-27T16:02:21Z"
-    },
-    {
-      "title": "See 15 Images of Wondrous West Africa From the Smithsonian Magazine Photo Contest",
-      "link": "https://www.smithsonianmag.com/travel/see-15-images-of-wondrous-west-africa-from-the-smithsonian-magazine-photo-contest-180988430/",
-      "summary": "Journey to Benin, Togo, Burkina Faso and many more nations through this gallery of the people, culture and wildlife of the region",
-      "date": "2026-03-27T15:04:20Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/Ine8DKTx4KlxmYNf32l63uhQEZs=/420x240/filters:focal(1000x667:1001x668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/26/3a/263a6022-597d-4c83-ae7f-3f5f53e84598/7ecfe8e5-3ea0-48f8-ae4a-d58e2b343719.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-03-27T16:02:33Z"
     }
   ]
 }
