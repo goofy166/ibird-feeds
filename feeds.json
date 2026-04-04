@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-04T20:42:18Z",
-  "updated_utc": "2026-04-04T20:42:18Z",
+  "updated": "2026-04-04T21:39:54Z",
+  "updated_utc": "2026-04-04T21:39:54Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Three-week-old mountain lion cub rescued by California biologists",
+      "link": "https://www.theguardian.com/us-news/2026/apr/04/mountain-lion-cub-crimson-california",
+      "summary": "Crimson, seen alone in Santa Monica mountains for days, gets care in Oakland zoo after mother nowhere to be found It was an unusual scene. A lion cub alone for days in southern Cal",
+      "date": "2026-04-04T21:10:05Z",
+      "image": "https://i.guim.co.uk/img/media/7ae371dd978877feb6af2dc363910616eb3a15f4/52_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=7c0cdb47bcd2aeae8813db1a2fb64232",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-04T21:39:38Z"
+    },
     {
       "title": "Bilby boom: breeding trial to reintroduce species to Mallee Cliffs national park shows signs of success",
       "link": "https://www.theguardian.com/australia-news/2026/apr/05/bilby-breeding-trial-nsw-australia-easter-",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-03-27T16:02:33Z"
-    },
-    {
-      "title": "How snakes defy gravity to stand tall",
-      "link": "https://www.sciencenews.org/article/how-snakes-defy-gravity-to-stand-tall",
-      "summary": "Limbless tree snakes can lift most of their body into the air without toppling. They manage this by focusing all their bending forces at their base.",
-      "date": "2026-03-27T16:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/032426_RS_snakes_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-03-27T16:02:35Z"
     }
   ]
 }
