@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-05T05:48:36Z",
-  "updated_utc": "2026-04-05T05:48:36Z",
+  "updated": "2026-04-05T07:18:44Z",
+  "updated_utc": "2026-04-05T07:18:44Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Meet the Chamaeleon, a southern constellation",
+      "link": "https://earthsky.org/constellations/chamaeleon-southern-constellation/",
+      "summary": "The constellation Chamaeleon the Chameleon is a dark patch of sky that lies deep in the Southern Hemisphere and is visible any night of the year. The post Meet the Chamaeleon, a so",
+      "date": "2026-04-05T07:09:49Z",
+      "image": "https://earthsky.org/upl/2022/03/Chamaeleon-April-Evenings-2-e1647818677278.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-04-05T07:18:30Z"
+    },
     {
       "title": "Look and Listen for the Eastern Whip-poor-will",
       "link": "https://www.birdsandblooms.com/birding/bird-species/eastern-whip-poor-will-identification/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-03-27T17:54:16Z"
-    },
-    {
-      "title": "Our fossil fuel economy is a house of cards and Trump's war in Iran is about to topple it. The need for a clean energy transition has never been clearer.",
-      "link": "https://www.livescience.com/planet-earth/fossil-fuels/our-fossil-fuel-economy-is-a-house-of-cards-and-trumps-war-in-iran-is-about-to-topple-it-the-need-for-a-clean-energy-transition-has-never-been-clearer-opinion",
-      "summary": "Trump's war in Iran is the embodiment of everything that's wrong with our dependence on fossil fuels — and it's highlighting just how vital the transition to renewables is.",
-      "date": "2026-03-27T16:58:16Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/MkxQPhbCZi5aBtmoTaoA9Z-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-03-27T17:54:17Z"
     }
   ]
 }
