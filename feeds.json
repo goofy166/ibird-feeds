@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-05T22:40:24Z",
-  "updated_utc": "2026-04-05T22:40:24Z",
+  "updated": "2026-04-05T23:42:07Z",
+  "updated_utc": "2026-04-05T23:42:07Z",
   "count": 500,
   "stories": [
+    {
+      "title": "'Lliving fossils' nautilus and allonautilus shaped by depths and diets over 500 million years",
+      "link": "https://phys.org/news/2026-04-lliving-fossils-nautilus-allonautilus-depths.html",
+      "summary": "Nautilus and Allonautilus cephalopods and their extinct ancestors have been drifting through the mesophotic zone of the ocean for more than 500 million years. Researchers have spen",
+      "date": "2026-04-05T23:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-habits-and-habitat.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-05T23:42:03Z"
+    },
     {
       "title": "Sundarban Tidal Mangrove Forest, Bangladesh – Profile for Birders",
       "link": "https://www.10000birds.com/sundarban-tidal-mangrove-forest-bangladesh-profile-for-birders.htm?utm_source=rss&utm_medium=rss&utm_campaign=sundarban-tidal-mangrove-forest-bangladesh-profile-for-birders",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-03-28T02:50:24Z"
-    },
-    {
-      "title": "Does This Skeleton Found Beneath a Dutch Church Belong to D'Artagnan, the Man Who Inspired 'The Three Musketeers'?",
-      "link": "https://www.smithsonianmag.com/smart-news/this-skeleton-found-beneath-the-floor-of-a-dutch-church-may-belong-to-dartagnan-the-fourth-musketeer-180988448/",
-      "summary": "Workers discovered the skeleton during recent repair work at the church in Maastricht. D'Artagnan died during the siege of the city in 1673",
-      "date": "2026-03-27T21:36:20Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/k8K6DYNu27QYMn_ORfKRV16fAQI=/420x240/filters:focal(3925x2635:3926x2636)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/13/b1/13b15b90-6e6f-49a6-9363-b81f1bd963cb/gettyimages-1768486834.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-03-27T22:42:08Z"
     }
   ]
 }
