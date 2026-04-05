@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-05T17:39:35Z",
-  "updated_utc": "2026-04-05T17:39:35Z",
+  "updated": "2026-04-05T18:57:05Z",
+  "updated_utc": "2026-04-05T18:57:05Z",
   "count": 500,
   "stories": [
+    {
+      "title": "It takes a village: How cooperative breeding has shaped Lake Tanganyika fish",
+      "link": "https://phys.org/news/2026-03-village-cooperative-lake-tanganyika-fish.html",
+      "summary": "\"It takes a village to raise a child\" doesn't apply merely to humans. Many species of mammals, birds, fish, and various invertebrates have evolved complex social care systems known",
+      "date": "2026-04-05T18:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/it-takes-a-village-for.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-05T18:57:01Z"
+    },
     {
       "title": "'This generation's moment': How the Artemis missions will reframe humanity's relationship with the moon",
       "link": "https://www.livescience.com/space/the-moon/this-generations-moment-how-the-artemis-missions-will-reframe-humanitys-relationship-with-the-moon",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-03-27T22:42:12Z"
-    },
-    {
-      "title": "Rare footage shows whales working together to support mother and her newborn – video",
-      "link": "https://www.theguardian.com/global/video/2026/mar/27/rare-footage-shows-whales-working-together-to-support-mother-and-her-newborn-video",
-      "summary": "Scientists have filmed a sperm whale giving birth while other females worked together to support the mother and her newborn. A 19-year-old female named Rounder was surrounded by fa",
-      "date": "2026-03-27T20:45:55Z",
-      "image": "https://i.guim.co.uk/img/media/cc4ebed860e2222c0a18c1f8dc04ba66bc283892/213_0_1402_1121/master/1402.jpg?width=140&quality=85&auto=format&fit=max&s=4efaa8d4e6f0e02d1679641f73e7c05e",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-03-27T20:49:45Z"
     }
   ]
 }
