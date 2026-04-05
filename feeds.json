@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-05T16:48:00Z",
-  "updated_utc": "2026-04-05T16:48:00Z",
+  "updated": "2026-04-05T17:39:35Z",
+  "updated_utc": "2026-04-05T17:39:35Z",
   "count": 500,
   "stories": [
+    {
+      "title": "'This generation's moment': How the Artemis missions will reframe humanity's relationship with the moon",
+      "link": "https://www.livescience.com/space/the-moon/this-generations-moment-how-the-artemis-missions-will-reframe-humanitys-relationship-with-the-moon",
+      "summary": "Live Science spoke with Rebecca Boyle, author of \"Our Moon\" about how the moon has been viewed both culturally and scientifically through history.",
+      "date": "2026-04-05T17:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/7fNtHW7B77Sx6KXC5jjdkn-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-05T17:39:32Z"
+    },
     {
       "title": "The revolution in dinosaur science started 50 years ago—here's what we have learned",
       "link": "https://phys.org/news/2026-03-revolution-dinosaur-science-years.html",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-03-27T20:49:45Z"
-    },
-    {
-      "title": "The National Park Service Just Opened Job Applications at 6 National Park Sites",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/national-park-service-job-applications/",
-      "summary": "The National Park Service opened at least 200 applications for rangers at six iconic locations. What you need to know about applying for the 2026 season. The post The National Park",
-      "date": "2026-03-27T19:07:21Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/GettyImages-2201331607.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-03-27T20:49:52Z"
     }
   ]
 }
