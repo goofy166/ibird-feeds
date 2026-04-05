@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-05T14:42:13Z",
-  "updated_utc": "2026-04-05T14:42:13Z",
+  "updated": "2026-04-05T15:40:53Z",
+  "updated_utc": "2026-04-05T15:40:53Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The swift parrot’s distinctive call was recorded dozens of times in a patch of Tasmanian forest. Then the forest was logged",
+      "link": "https://www.theguardian.com/environment/2026/apr/06/the-swift-parrots-distinctive-call-was-recorded-dozens-of-times-in-a-patch-of-tasmanian-forest-then-the-forest-was-logged",
+      "summary": "Scientists estimate the endangered bird’s population has slumped to about 750. But the logging agency responsible for clearing its habitat said it acted lawfully Sign up for climat",
+      "date": "2026-04-05T15:00:55Z",
+      "image": "https://i.guim.co.uk/img/media/d01fe889db83b484c26b7922c5616fe17c57d4e2/709_140_3041_2433/master/3041.jpg?width=140&quality=85&auto=format&fit=max&s=e093d6a555b0a68b519fc69bc207e2b7",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-05T15:40:38Z"
+    },
     {
       "title": "Beavers thriving after being reintroduced to English wild – video",
       "link": "https://www.theguardian.com/world/video/2026/apr/05/beavers-thriving-after-being-reintroduced-to-english-wild-video",
@@ -5487,17 +5498,6 @@
       "summary": "The technology could one day help researchers develop drugs and tailor treatments to individual patients",
       "date": "2026-03-27T19:54:55Z",
       "image": "https://th-thumbnailer.cdn-si-edu.com/VhXkhMj3pEnl5rrjZgS1pJ_us_s=/420x240/filters:focal(1934x809:1935x810)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f8/17/f817b98b-8998-4fcb-ba06-6aba5eab7dc0/screenshot_2026-03-27_at_122545pm.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-03-27T20:49:53Z"
-    },
-    {
-      "title": "Why Was This 2,000-Year-Old Sling Bullet Inscribed With the Word 'Learn'?",
-      "link": "https://www.smithsonianmag.com/smart-news/why-was-this-2000-year-old-sling-bullet-inscribed-with-the-word-learn-180988449/",
-      "summary": "The artifact is the first sling bullet of its kind unearthed at the ancient city of Hippos, though archaeologists have found dozens of other examples without inscriptions at the si",
-      "date": "2026-03-27T19:25:58Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/C48zac-3hRGBkgJ3OiOLkZjGXCY=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/77/78/7778897e-1861-44d2-ba15-41c4e7450e02/sling-bullet.jpg",
       "name": "Smithsonian",
       "category": "insects",
       "color": 10,
