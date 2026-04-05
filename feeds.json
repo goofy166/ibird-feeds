@@ -1,8 +1,41 @@
 {
-  "updated": "2026-04-05T13:14:41Z",
-  "updated_utc": "2026-04-05T13:14:41Z",
+  "updated": "2026-04-05T14:42:13Z",
+  "updated_utc": "2026-04-05T14:42:13Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Beavers thriving after being reintroduced to English wild – video",
+      "link": "https://www.theguardian.com/world/video/2026/apr/05/beavers-thriving-after-being-reintroduced-to-english-wild-video",
+      "summary": "The National Trust’s wetlands project officer has described the effect of four Eurasian beavers on the ecosystem as astonishing, a year after they were reintroduced into the wild i",
+      "date": "2026-04-05T13:20:50Z",
+      "image": "https://i.guim.co.uk/img/media/2a77cdfcc013dc656e6792b0edcf143ed33f75b2/18_0_2178_1742/master/2178.jpg?width=140&quality=85&auto=format&fit=max&s=0bab96fd9bb122977e0b73d6f48b91a5",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-05T14:41:57Z"
+    },
+    {
+      "title": "Stopping algae blooms with bacteria-busting buoys",
+      "link": "https://phys.org/news/2026-03-algae-blooms-bacteria-buoys.html",
+      "summary": "Algae blooms make a pond's surface shine in mesmerizing green hues. But if the microorganisms responsible are cyanobacteria, they can also release toxins that harm humans and wildl",
+      "date": "2026-04-05T14:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/stopping-algae-blooms.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-05T14:42:09Z"
+    },
+    {
+      "title": "Diabetes rates are lower in high-altitude environments ‪‪—‬ and scientists may have discovered why",
+      "link": "https://www.livescience.com/health/diabetes-rates-are-lower-in-high-altitude-environments-and-scientists-may-have-discovered-why",
+      "summary": "A new study finds that in low-oxygen environments, red blood cells absorb more glucose and convert it into a molecule that helps release oxygen into tissues, revealing an unexpecte",
+      "date": "2026-04-05T14:05:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/cqo8CSBoWkCTPz8HQ9CcbQ-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-05T14:42:10Z"
+    },
     {
       "title": "Half a day birding at the Sangganhe wetlands in Shanxi late March 2026",
       "link": "https://www.10000birds.com/half-a-day-birding-at-the-sangganhe-wetlands-in-shanxi-late-march-2026.htm?utm_source=rss&utm_medium=rss&utm_campaign=half-a-day-birding-at-the-sangganhe-wetlands-in-shanxi-late-march-2026",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-03-27T20:49:53Z"
-    },
-    {
-      "title": "The simple questions cracking the hard problem of consciousness",
-      "link": "https://www.newscientist.com/article/2519288-the-simple-questions-cracking-the-hard-problem-of-consciousness/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Do we all see the same red? Or feel joy and sadness alike? Mapping how our inner experiences relate to one another could finally reveal how physical processes in the brain give ris",
-      "date": "2026-03-23T16:00:19Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/13124811/SEI_289179870.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-03-27T20:49:56Z"
-    },
-    {
-      "title": "AI data centres can warm surrounding areas by up to 9.1°C",
-      "link": "https://www.newscientist.com/article/2521256-ai-data-centres-can-warm-surrounding-areas-by-up-to-9-1c/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Hundreds of millions of people live close enough to data centres used to power AI to feel warmer average temperatures in their local area",
-      "date": "2026-03-27T15:00:21Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/27112747/SEI_291004141.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-03-27T20:49:56Z"
-    },
-    {
-      "title": "The Big Bee Project brings natural history collections into the 21st century",
-      "link": "https://phys.org/news/2026-03-big-bee-natural-history-21st.html",
-      "summary": "Museum collections have underpinned scientific research for centuries. But physical specimens in boxes and drawers don't easily lend themselves to the research techniques of the ne",
-      "date": "2026-03-27T20:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-big-bee-project-br.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-27T20:49:57Z"
     }
   ]
 }
