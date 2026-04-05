@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-05T03:26:50Z",
-  "updated_utc": "2026-04-05T03:26:50Z",
+  "updated": "2026-04-05T05:48:36Z",
+  "updated_utc": "2026-04-05T05:48:36Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Look and Listen for the Eastern Whip-poor-will",
+      "link": "https://www.birdsandblooms.com/birding/bird-species/eastern-whip-poor-will-identification/",
+      "summary": "Keep your ears open at night for the well-camouflaged eastern whip-poor-will: a rarely seen (but often heard!) summertime visitor. The post Look and Listen for the Eastern Whip-poo",
+      "date": "2026-03-27T14:54:16Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/GettyImages-1400305689-e1774622841541.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-04-05T05:48:17Z"
+    },
     {
       "title": "How to Identify a Prairie Warbler",
       "link": "https://www.birdsandblooms.com/birding/bird-species/warblers/prairie-warbler/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-03-27T17:54:17Z"
-    },
-    {
-      "title": "Close encounters with the Quebrantahuesos",
-      "link": "https://www.10000birds.com/close-encounters-with-the-quebrantahuesos.htm?utm_source=rss&utm_medium=rss&utm_campaign=close-encounters-with-the-quebrantahuesos",
-      "summary": "It’s a big, handsome bird, with attractive colouring, feathers on its head and even an interesting little beard.",
-      "date": "2026-03-27T15:59:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/03/P3111449.jpeg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-03-27T16:02:20Z"
     }
   ]
 }
