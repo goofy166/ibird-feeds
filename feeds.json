@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-05T15:40:53Z",
-  "updated_utc": "2026-04-05T15:40:53Z",
+  "updated": "2026-04-05T16:48:00Z",
+  "updated_utc": "2026-04-05T16:48:00Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The revolution in dinosaur science started 50 years ago—here's what we have learned",
+      "link": "https://phys.org/news/2026-03-revolution-dinosaur-science-years.html",
+      "summary": "The study of dinosaurs has been through a revolution in recent decades. The story began half a century ago, when Robert McNeill Alexander, a professor of zoology at the University ",
+      "date": "2026-04-05T16:30:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dinosaurs.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-05T16:47:56Z"
+    },
     {
       "title": "The swift parrot’s distinctive call was recorded dozens of times in a patch of Tasmanian forest. Then the forest was logged",
       "link": "https://www.theguardian.com/environment/2026/apr/06/the-swift-parrots-distinctive-call-was-recorded-dozens-of-times-in-a-patch-of-tasmanian-forest-then-the-forest-was-logged",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-03-27T20:49:52Z"
-    },
-    {
-      "title": "A Clump of Human Brain Cells on a Computer Chip Learned to Play the Nostalgic Video Game 'Doom'",
-      "link": "https://www.smithsonianmag.com/smart-news/a-clump-of-human-brain-cells-on-a-computer-chip-learned-to-play-the-nostalgic-video-game-doom-180988447/",
-      "summary": "The technology could one day help researchers develop drugs and tailor treatments to individual patients",
-      "date": "2026-03-27T19:54:55Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/VhXkhMj3pEnl5rrjZgS1pJ_us_s=/420x240/filters:focal(1934x809:1935x810)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f8/17/f817b98b-8998-4fcb-ba06-6aba5eab7dc0/screenshot_2026-03-27_at_122545pm.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-03-27T20:49:53Z"
     }
   ]
 }
