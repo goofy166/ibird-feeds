@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-06T22:47:08Z",
-  "updated_utc": "2026-04-06T22:47:08Z",
+  "updated": "2026-04-06T23:44:06Z",
+  "updated_utc": "2026-04-06T23:44:06Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Global warming may be a boon for this aggressive prairie plant",
+      "link": "https://phys.org/news/2026-04-global-boon-aggressive-prairie.html",
+      "summary": "Climate change may reduce yields of crops like corn and soybeans, but it can also give some plants an edge. That's one of the takeaways of a recent study of tall goldenrod, a commo",
+      "date": "2026-04-06T23:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/global-warming-may-be-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-06T23:44:03Z"
+    },
     {
       "title": "Chaco Canyon, One of America’s Most Sacred Landscapes, Is Officially Back on the Auction Block",
       "link": "https://www.outsideonline.com/outdoor-adventure/environment/chaco-canyon-drilling-buffer-public-comment/",
@@ -5487,17 +5498,6 @@
       "summary": "Researchers have identified genetic material from a vast range of organisms contaminating the shroud, said to have wrapped Jesus's body, further complicating the question of the cl",
       "date": "2026-03-30T10:00:34Z",
       "image": "https://images.newscientist.com/wp-content/uploads/2026/03/27105547/SEI_290843101.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-03-30T13:58:29Z"
-    },
-    {
-      "title": "Want to live forever? There are major questions to confront, first",
-      "link": "https://www.newscientist.com/article/2520472-want-to-live-forever-there-are-major-questions-to-confront-first/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A start-up has worked out how to preserve the brain after death – paving the way for immortality in a distant future. But beginning to reckon with this reality yields serious pract",
-      "date": "2026-03-25T10:53:42Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/23161735/SEI_290666267.jpg",
       "name": "New Scientist",
       "category": "insects",
       "color": 12,
