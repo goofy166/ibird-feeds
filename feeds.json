@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-06T21:45:46Z",
-  "updated_utc": "2026-04-06T21:45:46Z",
+  "updated": "2026-04-06T22:47:08Z",
+  "updated_utc": "2026-04-06T22:47:08Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Chaco Canyon, One of America’s Most Sacred Landscapes, Is Officially Back on the Auction Block",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/chaco-canyon-drilling-buffer-public-comment/",
+      "summary": "The Trump administration is fast-tracking a plan to strip protections from Chaco Canyon, potentially opening more than 300,000 acres to oil and gas. The post Chaco Canyon, One of A",
+      "date": "2026-04-06T22:20:18Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/GettyImages-106690767.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-06T22:47:00Z"
+    },
     {
       "title": "How to Record Bird Sounds",
       "link": "https://www.allaboutbirds.org/news/how-to-record-bird-sounds-2/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-03-30T13:58:29Z"
-    },
-    {
-      "title": "High-rise living: How weaver ants build leaf nests using living 'zippers' and 'weights'",
-      "link": "https://phys.org/news/2026-03-high-weaver-ants-leaf-zippers.html",
-      "summary": "The rainforests of northern Australia are home to extraordinary ant colonies. Instead of dwelling in underground burrows, these ants inhabit canopies of trees, dozens of meters abo",
-      "date": "2026-03-30T13:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/high-rise-living-the-t-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-30T13:58:30Z"
     }
   ]
 }
