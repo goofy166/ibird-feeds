@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-06T13:27:19Z",
-  "updated_utc": "2026-04-06T13:27:19Z",
+  "updated": "2026-04-06T14:57:36Z",
+  "updated_utc": "2026-04-06T14:57:36Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Discover the Hidden World of Bird Nests and Eggs with the Cornell Lab of Ornithology",
+      "link": "https://www.birds.cornell.edu/home/discover-bird-nests-and-eggs/",
+      "summary": "A Brand new self-paced, online course explores nests and eggs just in time for spring.",
+      "date": "2026-04-06T13:32:14Z",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-04-06T14:57:34Z"
+    },
     {
       "title": "German mayors call for night-time ban on robot lawnmowers to protect hedgehogs",
       "link": "https://www.theguardian.com/environment/2026/apr/06/german-mayors-call-for-night-time-ban-on-robot-lawnmowers-to-protect-hedgehogs",
@@ -5487,17 +5498,6 @@
       "summary": "Are there rubies on Mars? NASA's Perseverance rover has found tiny fluorescent gems in pebbles that appear to be rubies or sapphires. The post Rubies on Mars? Rover finds fluoresce",
       "date": "2026-03-29T10:58:03Z",
       "image": "https://earthsky.org/upl/2026/03/Perseverance-rover-Jezero-Crater-rim-December-5-2024.png",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-03-29T11:36:38Z"
-    },
-    {
-      "title": "Can animals sense earthquakes? Science investigates",
-      "link": "https://earthsky.org/earth/can-animals-sense-earthquakes/",
-      "summary": "For years there have been reports that animals sense earthquakes as they change their behavior before the ground rocks. Science takes a look at this behavior. The post Can animals ",
-      "date": "2026-03-29T10:56:42Z",
-      "image": "https://earthsky.org/upl/2026/03/vizslafotozas-dog-tilted-head-Pixabay-e1774292856152.jpg",
       "name": "EarthSky",
       "category": "wildlife",
       "color": 6,
