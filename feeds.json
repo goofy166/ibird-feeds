@@ -1,8 +1,118 @@
 {
-  "updated": "2026-04-06T17:01:19Z",
-  "updated_utc": "2026-04-06T17:01:19Z",
+  "updated": "2026-04-06T19:12:36Z",
+  "updated_utc": "2026-04-06T19:12:36Z",
   "count": 500,
   "stories": [
+    {
+      "title": "This Soldier Died of Yellow Fever During a Hurricane 153 Years Ago. Archaeologists Just Found His Grave",
+      "link": "https://www.smithsonianmag.com/smart-news/this-soldier-died-of-yellow-fever-during-a-hurricane-153-years-ago-archaeologists-just-found-his-grave-180988484/",
+      "summary": "George Tupper, a 22-year-old from Massachusetts, was nearly a year into his military service when a yellow fever outbreak struck Fort Jefferson",
+      "date": "2026-04-06T18:05:38Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/23RkZZEvOctDIMgTP1UmazDJOQE=/420x240/filters:focal(2048x1365:2049x1366)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/55/9f/559fd69b-6ad2-46d3-88f5-1b8608e927c5/51391513174_9579b4c250_4k.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-06T19:12:22Z"
+    },
+    {
+      "title": "These Rotund and 'Charmingly Goofy' Birds Are Delighting New Yorkers and Dancing on Social Media. What Is the American Woodcock?",
+      "link": "https://www.smithsonianmag.com/smart-news/these-rotund-and-charmingly-goofy-birds-are-delighting-new-yorkers-and-dancing-on-social-media-what-is-the-american-woodcock-180988486/",
+      "summary": "The endearing animals make a pit stop in Bryant Park during their migrations to northern breeding grounds, gathering fans and starring in viral videos",
+      "date": "2026-04-06T17:16:18Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/4A3qfQGORs3bUpz3gbu6hNnLu0g=/420x240/filters:focal(2141x1550:2142x1551)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/15/fe/15fe1a3b-3f24-42f5-a878-0cd2177f4b36/american_woodcock_95252.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-06T19:12:22Z"
+    },
+    {
+      "title": "Iodised salt has become uncool but many of us need to eat more iodine",
+      "link": "https://www.newscientist.com/article/2520090-iodised-salt-has-become-uncool-but-many-of-us-need-to-eat-more-iodine/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Iodine deficiency is on the rise among people in the UK, the US and Australia. A century ago this led to drops in IQ, height and thyroid health – and the modern fancy salt fad may ",
+      "date": "2026-04-06T17:00:05Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/19222556/SEI_2900816381.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-06T19:12:31Z"
+    },
+    {
+      "title": "We're solving the fundamental mystery of how reality is glued together",
+      "link": "https://www.newscientist.com/article/2520573-were-solving-the-fundamental-mystery-of-how-reality-is-glued-together/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "For decades, scientists have tried and failed to explain how the force that binds the heart of atoms together really works. But new mathematical tools are finally prising the probl",
+      "date": "2026-04-06T16:00:03Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/25113313/SEI_290786437.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-06T19:12:31Z"
+    },
+    {
+      "title": "Scientists identify potential new target for disrupting mosquito reproduction",
+      "link": "https://phys.org/news/2026-04-scientists-potential-disrupting-mosquito-reproduction.html",
+      "summary": "A longstanding mystery in mosquito biology has been solved, opening a potential new path for controlling mosquitoes and the diseases they spread. For decades, scientists believed t",
+      "date": "2026-04-06T18:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-identify-po-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-06T19:12:32Z"
+    },
+    {
+      "title": "Why cats stop eating—it's not just fullness",
+      "link": "https://phys.org/news/2026-04-cats-fullness.html",
+      "summary": "Why do cats often leave food unfinished? Many cat owners have experienced this puzzling behavior. Domestic cats are well known for eating multiple small meals throughout the day, a",
+      "date": "2026-04-06T18:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-cats-stop-eatingit.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-06T19:12:32Z"
+    },
+    {
+      "title": "Expanded MAGIC toolkit makes genome-wide single-cell mosaic analysis possible in Drosophila",
+      "link": "https://phys.org/news/2026-04-magic-toolkit-genome-wide-cell.html",
+      "summary": "Researchers at Cornell University have developed a powerful new genetic toolkit that allows scientists to study how genes function at the level of individual cells, an advance that",
+      "date": "2026-04-06T18:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-genetic-toolkit-en.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-06T19:12:32Z"
+    },
+    {
+      "title": "Three Himalayan predators coexist by partitioning prey, reducing direct competition",
+      "link": "https://phys.org/news/2026-04-himalayan-predators-coexist-partitioning-prey.html",
+      "summary": "Snow leopards, leopards, and Himalayan wolves all share similar stomping grounds in Nepal's Lapchi Valley in the Himalayas. A recent study, published in PLOS One, has taken a close",
+      "date": "2026-04-06T18:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/three-himalayan-predat.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-06T19:12:32Z"
+    },
+    {
+      "title": "New York Bight is a key spring habitat for endangered sei whales, research reveals",
+      "link": "https://phys.org/news/2026-04-york-bight-key-habitat-endangered.html",
+      "summary": "A new study led by scientists from the Wildlife Conservation Society (WCS) and Woods Hole Oceanographic Institution (WHOI) reveals that endangered sei whales regularly use the New ",
+      "date": "2026-04-06T17:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-reveals-new.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-06T19:12:32Z"
+    },
+    {
+      "title": "Should wildlife parks be fenced? We studied 60 African examples for an answer",
+      "link": "https://phys.org/news/2026-04-wildlife-african-examples.html",
+      "summary": "Fences are among conservation's most controversial interventions. To some, they are essential for conserving wildlife, minimizing encroachment, and preventing the type of conflict ",
+      "date": "2026-04-06T17:10:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wildlife-park.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-06T19:12:32Z"
+    },
     {
       "title": "Arizona hiker stung more than 100 times by bees left in critical condition",
       "link": "https://www.theguardian.com/us-news/2026/apr/06/arizona-bees-sting-hiker-phoenix",
@@ -5392,116 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-03-30T10:24:28Z"
-    },
-    {
-      "title": "One man, his dog, and ChatGPT: Australia's AI vaccine saga",
-      "link": "https://phys.org/news/2026-03-dog-chatgpt-australia-ai-vaccine.html",
-      "summary": "Desperate to help his sick dog, one Australian man went down the ultimate ChatGPT research hole, using artificial intelligence to design a personalized experimental treatment and f",
-      "date": "2026-03-30T08:30:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/paul-conynghams-months.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-30T10:24:28Z"
-    },
-    {
-      "title": "Tudor Heart: A Renaissance gold necklace featuring a French-English pun on the love between Henry VIII and his first wife, Katherine of Aragon",
-      "link": "https://www.livescience.com/archaeology/tudor-heart-a-renaissance-gold-necklace-featuring-a-french-english-pun-on-the-love-between-henry-viii-and-his-first-wife-katherine-of-aragon",
-      "summary": "A chance discovery of a 16th-century necklace reveals new information about Tudor-era jewelry styles.",
-      "date": "2026-03-30T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/hBrQyXsCWUatzjXXKL4X9o-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-03-30T10:24:29Z"
-    },
-    {
-      "title": "Managed wetlands a culinary hot spot for SF bay fish, but they need delivery options",
-      "link": "https://phys.org/news/2026-03-wetlands-culinary-hot-sf-bay.html",
-      "summary": "California's Bay Area may be a culinary hot spot for people, but food options for fish in the San Francisco Estuary have been limited and declining in recent decades. A new study f",
-      "date": "2026-03-30T00:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/managed-wetlands-a-cul-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-30T03:27:43Z"
-    },
-    {
-      "title": "Binding to RNA is not enough—changing its shape is what makes a drug work, study reveals",
-      "link": "https://phys.org/news/2026-03-rna-drug-reveals.html",
-      "summary": "Ribonucleic acids (RNAs) serve as messengers between DNA and protein production, and perform a wide variety of regulatory functions across different cellular processes. This makes ",
-      "date": "2026-03-29T21:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-shows-how-to-ide.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-29T21:40:39Z"
-    },
-    {
-      "title": "A mass mating event in the lab reveals how yeast cells choose partners",
-      "link": "https://phys.org/news/2026-03-mass-event-lab-reveals-yeast.html",
-      "summary": "While humans often struggle to find a partner who is both physically attractive and a reliable co-parent, yeast may already have cracked the formula for the perfect match. When cho",
-      "date": "2026-03-29T20:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-yeast-find-the-per.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-29T20:42:14Z"
-    },
-    {
-      "title": "Who do you think you are? What DNA tests reveal—and what they don't",
-      "link": "https://phys.org/news/2026-03-dna-reveal-dont.html",
-      "summary": "For more than 40 years, the Golden State Killer haunted California. A serial rapist and murderer active in the 1970s and '80s, he eluded detectives for decades. By 2018, hope of id",
-      "date": "2026-03-29T19:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/dna-testing.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-29T19:39:01Z"
-    },
-    {
-      "title": "Ancient Neanderthal genome reveals isolated, distinct populations",
-      "link": "https://phys.org/news/2026-03-ancient-neanderthal-genome-reveals-isolated.html",
-      "summary": "Neanderthals split into distinct regional groups that developed genetic differences far sooner than modern human populations typically did, according to a study published in Procee",
-      "date": "2026-03-29T17:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-neandertal-gen.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-29T17:39:36Z"
-    },
-    {
-      "title": "Embryo-like fossils from Southern China offer new clues about ancient life",
-      "link": "https://phys.org/news/2026-03-embryo-fossils-southern-china-clues.html",
-      "summary": "Some of the most ancient fossils collected to date were traced back to the Ediacaran period. This is the time interval ranging from around 635 to 541 million years ago, shortly bef",
-      "date": "2026-03-29T16:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/embryo-like-fossils-fr.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-29T16:45:03Z"
-    },
-    {
-      "title": "Saturn's chaotic atmosphere revealed in most comprehensive view yet by James Webb and Hubble telescopes",
-      "link": "https://www.livescience.com/space/saturn/saturns-chaotic-atmosphere-revealed-in-most-comprehensive-view-yet-by-james-webb-and-hubble-telescopes",
-      "summary": "Viewing Saturn in complementary wavelengths, the James Webb and Hubble space telescopes reveal more about what makes up the layers of ringed planet's atmosphere.",
-      "date": "2026-03-29T16:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Tr5R9SGmXBSEKfBfqtmxrP-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-03-29T16:45:04Z"
-    },
-    {
-      "title": "AI systems are enabling mass surveillance in the US, and there is no national law that 'meaningfully limits' the use of this data",
-      "link": "https://www.livescience.com/technology/artificial-intelligence/cameras-have-quietly-appeared-in-thousands-of-us-cities-now-their-integration-with-ai-is-sounding-alarms-opinion",
-      "summary": "A technology policy researcher explores the ethics of implementing AI in current camera surveillance systems.",
-      "date": "2026-03-29T15:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/KhYxMHTfmCEkBx9B8c38dS-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-03-29T15:40:26Z"
     }
   ]
 }
