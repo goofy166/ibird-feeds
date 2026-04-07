@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-07T22:49:50Z",
-  "updated_utc": "2026-04-07T22:49:50Z",
+  "updated": "2026-04-07T23:48:02Z",
+  "updated_utc": "2026-04-07T23:48:02Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The ‘oldest fossil octopus’ is probably another animal",
+      "link": "https://www.sciencenews.org/article/oldest-fossil-octopus-another-animal",
+      "summary": "In 2000, researchers thought they found the oldest fossil octopus, which lived over 300 million years ago. But it may just be a half-rotten nautilus.",
+      "date": "Tue, 07 Apr 2026 23Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/040726_JB_octopus_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-04-07T23:47:56Z"
+    },
+    {
+      "title": "'Oldest octopus' fossil is no octopus at all, scans reveal",
+      "link": "https://phys.org/news/2026-04-oldest-octopus-fossil-scans-reveal.html",
+      "summary": "A famous 300-million-year-old fossil that was thought to be the world's oldest octopus—even featuring in the Guinness Book of Records—has turned out to be something else altogether",
+      "date": "2026-04-07T23:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oldest-octopus-fossil.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-07T23:47:58Z"
+    },
     {
       "title": "Do Hummingbirds Reuse Their Nests?",
       "link": "https://www.birdsandblooms.com/birding/attracting-hummingbirds/do-hummingbirds-reuse-nests/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-03-31T17:08:16Z"
-    },
-    {
-      "title": "New fibre optic record allows 50,000,000 movies to be streamed at once",
-      "link": "https://www.newscientist.com/article/2520542-new-fibre-optic-record-allows-50000000-movies-to-be-streamed-at-once/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Improved hardware can send ten times as much data through existing fibre optic cables, potentially providing a way to massively upgrade the internet's infrastructure without the co",
-      "date": "Tue, 31 Mar 2026 15Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/30155206/SEI_291517691.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-03-31T17:08:17Z"
-    },
-    {
-      "title": "Parasites defy biodiversity rules, thriving far from the equator",
-      "link": "https://phys.org/news/2026-03-parasites-defy-biodiversity-equator.html",
-      "summary": "For decades, scientists have observed a clear pattern across the natural world: biodiversity tends to be higher near the equator and lower toward the poles. Known as the latitudina",
-      "date": "2026-03-31T16:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fau-study-finds-parasi.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-31T17:08:18Z"
     }
   ]
 }
