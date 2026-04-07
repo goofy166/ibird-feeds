@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-07T03:19:59Z",
-  "updated_utc": "2026-04-07T03:19:59Z",
+  "updated": "2026-04-07T05:50:58Z",
+  "updated_utc": "2026-04-07T05:50:58Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: A bum note amid the dawn chorus | Mark Cocker",
+      "link": "https://www.theguardian.com/environment/2026/apr/07/country-diary-a-bum-note-amid-the-dawn-chorus",
+      "summary": "Hogshaw, Derbyshire: Our old Buxton tip is an area rich in nature. It’s depressing out local council wants it developed Our old Buxton tip might bear the scars of former abuse, but",
+      "date": "2026-04-07T04:30:38Z",
+      "image": "https://i.guim.co.uk/img/media/8a275cde55745e85786095de398faeca80549dcc/886_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=ef8c1b9220ce69e3db900b4ca91e4fba",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-07T05:50:40Z"
+    },
+    {
+      "title": "GMO pictures may reinforce existing views, deepening the divide of attitudes towards them",
+      "link": "https://phys.org/news/2026-04-gmo-pictures-views-deepening-attitudes.html",
+      "summary": "Images have long played a powerful role in shaping public perceptions of genetically modified organisms (GMOs), often reinforcing emotional reactions more than scientific understan",
+      "date": "2026-04-07T04:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gmo-pictures-may-reinf.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-07T05:50:53Z"
+    },
     {
       "title": "Global warming may be a boon for this aggressive prairie plant",
       "link": "https://phys.org/news/2026-04-global-boon-aggressive-prairie.html",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-03-30T13:58:23Z"
-    },
-    {
-      "title": "When America Found Itself Ready to Roll, Route 66, Stretching From Chicago to Los Angeles, Was the Road of Endless Possibilities",
-      "link": "https://www.smithsonianmag.com/history/when-america-found-itself-ready-rock-roll-route66-stretching-chicago-los-angeles-road-endless-possibilities-180988406/",
-      "summary": "The country’s “mother road” started out as a way to get from Point A to Point B but quickly became the host of a culture and a symbol of freedom",
-      "date": "2026-03-30T13:24:49Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/0GmlraF_bjy3rw92cZQNRWRz3jU=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c6/75/c6754f99-a657-402b-b4a6-eefd5321031b/gettyimages-2209373065.jpg",
-      "name": "Smithsonian",
-      "category": "butterflies",
-      "color": 10,
-      "fetched_at": "2026-03-30T13:58:26Z"
-    },
-    {
-      "title": "The Turin Shroud bears DNA from many people, plants and animals",
-      "link": "https://www.newscientist.com/article/2521236-the-turin-shroud-bears-dna-from-many-people-plants-and-animals/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Researchers have identified genetic material from a vast range of organisms contaminating the shroud, said to have wrapped Jesus's body, further complicating the question of the cl",
-      "date": "2026-03-30T10:00:34Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/27105547/SEI_290843101.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-03-30T13:58:29Z"
     }
   ]
 }
