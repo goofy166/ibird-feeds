@@ -1,8 +1,129 @@
 {
-  "updated": "2026-04-07T13:49:45Z",
-  "updated_utc": "2026-04-07T13:49:45Z",
+  "updated": "2026-04-07T15:19:09Z",
+  "updated_utc": "2026-04-07T15:19:09Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Voices: Common Loon",
+      "link": "https://www.allaboutbirds.org/news/voices-common-loon/",
+      "summary": "",
+      "date": "Tue, 07 Apr 2026 15Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Juvenile_Raggiana_Bird-of-Paradise.jpg",
+      "name": "All About Birds",
+      "category": "birds",
+      "color": 3,
+      "fetched_at": "2026-04-07T15:18:51Z"
+    },
+    {
+      "title": "Club-Winged Manakin Dance",
+      "link": "https://www.allaboutbirds.org/news/club-winged-manakin-dance/",
+      "summary": "",
+      "date": "Tue, 07 Apr 2026 14Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Psephotus_haematonotus_male.jpg",
+      "name": "All About Birds",
+      "category": "birds",
+      "color": 3,
+      "fetched_at": "2026-04-07T15:18:51Z"
+    },
+    {
+      "title": "Birds Near Me",
+      "link": "https://www.allaboutbirds.org/news/birds-near-me/",
+      "summary": "",
+      "date": "Tue, 07 Apr 2026 14Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Psephotus_haematonotus_male.jpg",
+      "name": "All About Birds",
+      "category": "birds",
+      "color": 3,
+      "fetched_at": "2026-04-07T15:18:51Z"
+    },
+    {
+      "title": "Oil slick from bombed Iranian ship threatens protected wetland",
+      "link": "https://www.theguardian.com/environment/2026/apr/07/oil-slick-shahid-bagheri-iran-ship-hara-wetland",
+      "summary": "Shahid Bagheri leaking fuel towards Hara mangrove forest, home to migrating birds and endangered turtles Middle East crisis – live updates An oil slick from a stricken Iranian ship",
+      "date": "2026-04-07T15:02:05Z",
+      "image": "https://i.guim.co.uk/img/media/2c623e4631896259bfe5155274a95781f6675a5c/146_0_998_798/master/998.jpg?width=140&quality=85&auto=format&fit=max&s=190d95b0ed58ddcb3e37c6d7133299ea",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-07T15:18:54Z"
+    },
+    {
+      "title": "California scientists are uncovering Baja’s mysterious creatures. Their new research shows there’s still a lot to learn.",
+      "link": "https://www.mercurynews.com/2026/04/07/san-diego-scientists-are-uncovering-bajas-mysterious-creatures-their-new-research-shows-theres-still-a-lot-to-learn/",
+      "summary": "Scientists are learning more about a rare Baja snake. Plus, a short hike in a local San Diego canyon.",
+      "date": "Tue, 07 Apr 2026 11Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/sut-l-NAT-expedition-21A.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-07T15:18:58Z"
+    },
+    {
+      "title": "Becoming an Expert Birder Can Reshape Your Brain and Might Help Protect It From Aging, New Research Suggests",
+      "link": "https://www.smithsonianmag.com/smart-news/becoming-an-expert-birder-can-reshape-your-brain-and-might-help-protect-it-from-aging-new-research-suggests-180988489/",
+      "summary": "Compared to novices, seasoned birders had denser, more structurally complex brain regions involved with tasks like object identification, visual processing, attention and working m",
+      "date": "Tue, 07 Apr 2026 14Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/4-XHqwIrcp4fVudJrIK5EMsznKg=/420x240/filters:focal(1723x1395:1724x1396)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1f/4f/1f4f549e-23ad-4ab9-8b03-0095e8fd6995/pexels-timon-cornelissen-241844481-33392217.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-07T15:19:02Z"
+    },
+    {
+      "title": "How the social lives of magpies shape their call repertoire",
+      "link": "https://phys.org/news/2026-04-social-magpies-repertoire.html",
+      "summary": "Communication is central to the survival of most animals, including humans. Yet animals of different species communicate differently, and the complexity of their communication skil",
+      "date": "2026-04-07T14:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-the-social-lives-o.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-07T15:19:06Z"
+    },
+    {
+      "title": "Tech can enable cross-species experiences, new research suggests",
+      "link": "https://phys.org/news/2026-04-tech-enable-species.html",
+      "summary": "Giving lemurs the chance to use technology to share control of sensory experiences with zoo visitors can help create meaningful connections between humans and animals, new research",
+      "date": "2026-04-07T14:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tech-can-enable-cross-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-07T15:19:06Z"
+    },
+    {
+      "title": "15 years after the eradication of rinderpest, lessons still ring true",
+      "link": "https://phys.org/news/2026-04-years-eradication-rinderpest-lessons-true.html",
+      "summary": "Permanently wiping out a disease is tricky business. Polio, measles, mumps—all have effective vaccines, yet they persist in certain pockets around the world. To date, the World Hea",
+      "date": "2026-04-07T13:50:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/beef-cattle.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-07T15:19:06Z"
+    },
+    {
+      "title": "AI 'mirages' mean tools used to analyze medical scans could fabricate their findings",
+      "link": "https://www.livescience.com/health/ai-mirages-mean-tools-used-to-analyze-medical-scans-could-fabricate-their-findings",
+      "summary": "Modern AI models can create convincing descriptions of images that were never given to them — a phenomenon researchers call a \"mirage.\"",
+      "date": "Tue, 07 Apr 2026 15Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/in8zk4Z6SaHPkG9kqq7Wdc-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-07T15:19:07Z"
+    },
+    {
+      "title": "World's fattest parrot — on the verge of extinction 30 years ago — has record-breaking breeding season",
+      "link": "https://www.livescience.com/animals/birds/worlds-fattest-parrot-has-record-breaking-breeding-season",
+      "summary": "Conservationists are celebrating the 105th kākāpō chick to hatch during the 2026 breeding season — the highest number reported since such records began 30 years ago.",
+      "date": "Tue, 07 Apr 2026 14Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/MFgdxLw8YaY6KZBZMP4koT-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-07T15:19:07Z"
+    },
     {
       "title": "Birding Burlingame Along San Francisco Bay and The Sanchez Marsh",
       "link": "https://www.10000birds.com/birding-burlingame-along-san-francisco-bay-and-the-sanchez-marsh.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-burlingame-along-san-francisco-bay-and-the-sanchez-marsh",
@@ -5381,127 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-03-30T21:52:34Z"
-    },
-    {
-      "title": "Protein complex protects central RNA quality control from disruption",
-      "link": "https://phys.org/news/2026-03-protein-complex-central-rna-quality.html",
-      "summary": "A research team led by Professor Dr. Niels Gehring from the Institute for Genetics has shown that the coordinated interaction of three proteins plays a central role in nonsense-med",
-      "date": "2026-03-30T21:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/protein-complex-protec.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-30T21:52:34Z"
-    },
-    {
-      "title": "'Something really big is going to happen': NASA's historic Artemis II mission approved for April 1 launch",
-      "link": "https://www.livescience.com/space/space-exploration/something-really-big-is-going-to-happen-nasas-historic-artemis-ii-mission-approved-for-april-1-launch",
-      "summary": "NASA has given the 10-day Artemis II mission the green light after its flight readiness review, and the weather outlook remains favorable.",
-      "date": "2026-03-30T21:38:21Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/4YqJsvAAtKejHVsjZN7qJn-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-03-30T21:52:35Z"
-    },
-    {
-      "title": "Meet the Eastern Wood-Pewee Bird",
-      "link": "https://www.birdsandblooms.com/birding/bird-species/songbirds/eastern-wood-pewee/",
-      "summary": "Listen for the distinctive call of an eastern wood-pewee in summertime forests. Here's how to recognize this bird, by sight and by ear. The post Meet the Eastern Wood-Pewee Bird ap",
-      "date": "2026-03-30T19:41:24Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/686986870_1_Barbara_Fralix_BNB_PC_2024-1.jpg?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-03-30T20:55:52Z"
-    },
-    {
-      "title": "These Long-Lost Photos of the Chelsea Hotel Reveal Intimate Portraits of Its Bohemian Residents—From Patti Smith to Bob Dylan",
-      "link": "https://www.smithsonianmag.com/smart-news/these-long-lost-photos-of-the-chelsea-hotel-reveal-intimate-portraits-of-its-bohemian-residentsfrom-patti-smith-to-bob-dylan-180988458/",
-      "summary": "Photographer Albert Scopin documented the countercultural hub at its peak in the mid-20th century. Now, the recovered photos are the subject of a new book and exhibition celebratin",
-      "date": "2026-03-30T20:10:05Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/lYIXD1YUl3ZFenXxzTUNZUZP-44=/420x240/filters:focal(640x430:641x431)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f2/8b/f28be9a7-3704-44f3-80ff-1e580706d887/gross-scopin-robert-mapplethorpe-and-patti-smith-atelier-1970-1920x.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-03-30T20:56:04Z"
-    },
-    {
-      "title": "Astronomers Discover a Rare Primitive Star That Provides a Chemical Snapshot of the Early Universe",
-      "link": "https://www.smithsonianmag.com/smart-news/astronomers-discovere-a-rare-primitive-star-that-provides-a-chemical-snapshot-of-the-early-universe-180988454/",
-      "summary": "PicII-503 is likely a second-generation star, born from the remnants of the very first stars, according to a new study",
-      "date": "2026-03-30T19:13:37Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/ERodezwLYB96bjPqPyeaF9Jh8nM=/420x240/filters:focal(366x150:367x151)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/86/be/86bec543-a5ed-478a-abad-e85ca0cf9241/noirlab2607a.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-03-30T20:56:04Z"
-    },
-    {
-      "title": "The profound effect the heart-brain connection has on your health",
-      "link": "https://www.newscientist.com/article/2519667-the-profound-effect-the-heart-brain-connection-has-on-your-health/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Cognitive decline, mental health and heart disease are all shaped by the deep links between heart and brain – with major implications for diagnoses and treatment",
-      "date": "2026-03-30T16:00:47Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/25135205/phone-final.gif",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-03-30T20:56:07Z"
-    },
-    {
-      "title": "Food shock is inevitable due to the Iran war – and it could get bad",
-      "link": "https://www.newscientist.com/article/2521311-food-shock-is-inevitable-due-to-the-iran-war-and-it-could-get-bad/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Even if the conflict in the Middle East ends today, higher fuel, fertiliser and pesticide prices will lead to a food shock in the coming months. There is no easy way out, but accel",
-      "date": "2026-03-30T17:14:53Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/27181622/SEI_291160457.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-03-30T20:56:07Z"
-    },
-    {
-      "title": "The Shroud of Turin bears DNA from many people, plants and animals",
-      "link": "https://www.newscientist.com/article/2521236-the-shroud-of-turin-bears-dna-from-many-people-plants-and-animals/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Researchers have identified genetic material from a vast range of organisms contaminating the shroud, said to have wrapped Jesus's body, further complicating the question of the cl",
-      "date": "2026-03-30T10:00:34Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/27105547/SEI_290843101.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-03-30T20:56:07Z"
-    },
-    {
-      "title": "Study uncovers internal cell 'trade winds' that drive movement and repair",
-      "link": "https://phys.org/news/2026-03-uncovers-internal-cell-movement.html",
-      "summary": "Scientists at Oregon Health & Science University have uncovered a previously unknown system of internal \"trade winds\" that help cells rapidly move essential proteins to the front o",
-      "date": "2026-03-30T20:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ohsu-study-uncovers-in.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-30T20:56:08Z"
-    },
-    {
-      "title": "Cover crops show the clearest gains in soil health across US long-term trials, study shows",
-      "link": "https://phys.org/news/2026-03-crops-clearest-gains-soil-health.html",
-      "summary": "Farmers have long debated which practices do the most to keep their soil healthy. Now, after pulling data from 21 long-term field trials scattered across the United States, a multi",
-      "date": "2026-03-30T20:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-co-led-by-uk-fin-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-03-30T20:56:08Z"
-    },
-    {
-      "title": "Cells under stress: How a chemotherapy drug damages RNA",
-      "link": "https://phys.org/news/2026-03-cells-stress-chemotherapy-drug-rna.html",
-      "summary": "The integrity of DNA and RNA is essential for every cell. DNA contains the genetic information for proteins, while RNA serves as a working copy of individual genes and is required ",
-      "date": "2026-03-30T20:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cells-under-stress-che.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-03-30T20:56:08Z"
     }
   ]
 }
