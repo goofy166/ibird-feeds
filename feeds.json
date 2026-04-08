@@ -1,8 +1,41 @@
 {
-  "updated": "2026-04-08T03:22:10Z",
-  "updated_utc": "2026-04-08T03:22:10Z",
+  "updated": "2026-04-08T05:51:55Z",
+  "updated_utc": "2026-04-08T05:51:55Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Birdwatch: Climbing to 4,400 metres to spot a rare rufous-bellied seedsnipe",
+      "link": "https://www.theguardian.com/environment/2026/apr/08/birdwatch-rufous-bellied-seedsnipe-andes-mountains-ecuador",
+      "summary": "Our writer travels to the eastern Andes in search of one of Ecuador’s most elusive birds I’m out of breath – and not just because I’m desperate to see one of Ecuador’s most elusive",
+      "date": "2026-04-08T05:00:17Z",
+      "image": "https://i.guim.co.uk/img/media/9b81a05c85712b707c920aaf786fefb5b9f157f4/569_0_3393_2715/master/3393.jpg?width=140&quality=85&auto=format&fit=max&s=b4226990ac83db7796b528ff593307f5",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-08T05:51:38Z"
+    },
+    {
+      "title": "Seizure of 2,000 ants at Nairobi airport highlights the hidden scale of insect trafficking",
+      "link": "https://phys.org/news/2026-04-seizure-ants-nairobi-airport-highlights.html",
+      "summary": "Last year Kenya Wildlife Service warned of a growing demand for garden ants in Europe and Asia, where some people view them as exotic pets. An attempt to smuggle over 2,000 garden ",
+      "date": "2026-04-08T05:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/ants.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-08T05:51:51Z"
+    },
+    {
+      "title": "Climate change may speed evolution through inherited gene regulation changes",
+      "link": "https://phys.org/news/2026-04-climate-evolution-inherited-gene.html",
+      "summary": "A new paper in Molecular Biology and Evolution, finds that changes in animal development induced by climate shock persist generations after the initial event. The escalating effect",
+      "date": "2026-04-08T04:10:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/children.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-08T05:51:51Z"
+    },
     {
       "title": "The ‘oldest fossil octopus’ is probably another animal",
       "link": "https://www.sciencenews.org/article/oldest-fossil-octopus-another-animal",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-03-31T17:08:07Z"
-    },
-    {
-      "title": "Starlink satellite breaks up, scatters debris",
-      "link": "https://earthsky.org/space/starlink-satellite-breaks-up-debris-artemis-risk/",
-      "summary": "A SpaceX Starlink satellite unexpectedly broke up in low-Earth orbit on March 29, 2026. Will the debris impact Artemis 2 or the space station? The post Starlink satellite breaks up",
-      "date": "Tue, 31 Mar 2026 16Z",
-      "image": "https://earthsky.org/upl/2026/03/starlink-above-earth-illustrations-wikideas-e1774974125561.png",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-03-31T17:08:08Z"
-    },
-    {
-      "title": "When Did the Earth's Crust Start to Shift? Scientists Uncover Evidence of Plate Tectonics Happening 3.48 Billion Years Ago",
-      "link": "https://www.smithsonianmag.com/smart-news/when-did-the-earths-crust-start-to-shift-scientists-uncover-evidence-of-plate-tectonics-happening-3-48-billion-years-ago-180988399/",
-      "summary": "A new study provides the oldest direct evidence of tectonic plate movement ever recorded",
-      "date": "Tue, 31 Mar 2026 16Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/xLLJJcf0dPyRD7rDBrx8Hbi_kb0=/420x240/filters:focal(2012x1514:2013x1515)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4e/87/4e879c48-5def-43a6-97ae-c10bc4a66195/earliest-plate-tectonics.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-03-31T17:08:15Z"
-    },
-    {
-      "title": "A comet may have flipped its spin and entered into a death spiral",
-      "link": "https://www.sciencenews.org/article/comet-41p-reversed-spin-death-spiral",
-      "summary": "Gases jetting out of Comet 41P/Tuttle-Giacobini-Kresák may have caused it to reverse its spin in 2017, possibly leading to its eventual destruction.",
-      "date": "Tue, 31 Mar 2026 16Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/033026_NO_comet_social.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-03-31T17:08:16Z"
     }
   ]
 }
