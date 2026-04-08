@@ -1,8 +1,63 @@
 {
-  "updated": "2026-04-08T21:52:36Z",
-  "updated_utc": "2026-04-08T21:52:36Z",
+  "updated": "2026-04-08T22:52:35Z",
+  "updated_utc": "2026-04-08T22:52:35Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Palo Alto group buys Coyote Valley farmland in San Jose for $5.3 million",
+      "link": "https://www.mercurynews.com/2026/04/08/palo-alto-group-buys-coyote-valley-farmland-in-san-jose-for-5-3-million/",
+      "summary": "71-acre parcel had been owned by same family since 1950s, was considered for a battery storage plant",
+      "date": "2026-04-08T22:10:56Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SJM-L-Coyote-Valley-Farm-0408026-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-08T22:52:25Z"
+    },
+    {
+      "title": "Jim Whittaker, the First American to Summit Everest, Dies at 97",
+      "link": "https://www.outsideonline.com/outdoor-adventure/everest/jim-whittaker-obituary-everest-mountaineer-rei/",
+      "summary": "Mountaineering legend and former REI CEO Jim Whittaker died in April at 97. Explore the life of the man who put America on top of the world. The post Jim Whittaker, the First Ameri",
+      "date": "2026-04-08T21:54:38Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/AP915632257453.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-08T22:52:26Z"
+    },
+    {
+      "title": "Even before splashdown, Artemis II is delivering a scientific treasure trove",
+      "link": "https://www.sciencenews.org/article/splashdown-artemis-ii-science-moon",
+      "summary": "The Artemis II moon flyby may be over, but the hunt for scientific treasures in the trove of data collected is just starting.",
+      "date": "2026-04-08T21:53:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/040826_LG_artemis_sciencefolo_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-04-08T22:52:29Z"
+    },
+    {
+      "title": "Mathematical model predicts fish freshness in real time",
+      "link": "https://phys.org/news/2026-04-mathematical-fish-freshness-real.html",
+      "summary": "Every day, fish caught in oceans and seas around the world pass through a long journey before reaching supermarkets, restaurants, and home kitchens. Along the way, their freshness ",
+      "date": "2026-04-08T22:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fish-counter.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-08T22:52:31Z"
+    },
+    {
+      "title": "The binding sites that guide fungal 'vesicle hitchhiking'—new study maps mRNA transport",
+      "link": "https://phys.org/news/2026-04-sites-fungal-vesicle-hitchhiking-mrna.html",
+      "summary": "A specific protein controls mRNA transport in fungi and distinguishes important from unimportant binding sites in the transported mRNAs. Researchers from Würzburg and Düsseldorf ha",
+      "date": "2026-04-08T22:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-describes-mr.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-08T22:52:31Z"
+    },
     {
       "title": "Main Ridge Forest Reserve: A 250-year Legacy",
       "link": "https://www.10000birds.com/main-ridge-forest-reserve-a-250-year-legacy.htm?utm_source=rss&utm_medium=rss&utm_campaign=main-ridge-forest-reserve-a-250-year-legacy",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-04-01T19:15:10Z"
-    },
-    {
-      "title": "Oceans are darkening all over the planet – what’s going on?",
-      "link": "https://www.newscientist.com/article/2519611-oceans-are-darkening-all-over-the-planet-whats-going-on/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "In a shift that is reshaping entire ecosystems, the open oceans are letting less light in. We don't fully understand the consequences yet, but there is still hope, says oceanograph",
-      "date": "2026-04-01T16:00:58Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/17160408/SEI_289836816.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-01T19:15:10Z"
-    },
-    {
-      "title": "Male octopuses have a favourite arm that they mostly use for sex",
-      "link": "https://www.newscientist.com/article/2521744-male-octopuses-have-a-favourite-arm-that-they-mostly-use-for-sex/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "The third right arm of male octopuses has a specialised role in mating, and the creatures take extra care to avoid damaging it or losing it to a predator",
-      "date": "2026-04-01T15:00:55Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/01114938/SEI_291710069.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-01T19:15:10Z"
-    },
-    {
-      "title": "The best new popular science books of April 2026",
-      "link": "https://www.newscientist.com/article/2521713-the-best-new-popular-science-books-of-april-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "April has a lot to offer when it comes to popular science reading, promising to help us do everything from future-proof our brains courtesy of Hannah Critchlow, to get to grips wit",
-      "date": "2026-04-01T14:00:36Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/01105130/sei291593985.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-01T19:15:10Z"
-    },
-    {
-      "title": "Analysis tracks 20 years of coastal species shifts in the Gulf of Maine",
-      "link": "https://phys.org/news/2026-04-analysis-tracks-years-coastal-species.html",
-      "summary": "Researchers from the University of Maine, in partnership with the Maine Department of Marine Resources (DMR), are analyzing more than 20 years of fishery survey data from the Gulf ",
-      "date": "2026-04-01T19:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/analysis-tracks-20-yea.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-01T19:15:11Z"
-    },
-    {
-      "title": "Millions-of-years-old insect symbioses are surprisingly fragile",
-      "link": "https://phys.org/news/2026-04-millions-years-insect-symbioses-fragile.html",
-      "summary": "Many insects have lived in close symbiosis with bacteria for millions of years, during which time the bacteria have provided them with vital nutrients, making the mutualistic relat",
-      "date": "2026-04-01T18:50:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/millions-of-years-old.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-01T19:15:11Z"
     }
   ]
 }
