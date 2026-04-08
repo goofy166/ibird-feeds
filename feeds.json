@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-08T05:51:55Z",
-  "updated_utc": "2026-04-08T05:51:55Z",
+  "updated": "2026-04-08T07:47:24Z",
+  "updated_utc": "2026-04-08T07:47:24Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Atmospheric dust gives plants nutrients through their leaves, study finds",
+      "link": "https://phys.org/news/2026-04-atmospheric-nutrients.html",
+      "summary": "Research in New Phytologist shows that plants can acquire nutrients not only from the soil but also from atmospheric dust that settles and dissolves on their leaves, releasing elem",
+      "date": "2026-04-08T07:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/plants.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-08T07:47:20Z"
+    },
     {
       "title": "Birdwatch: Climbing to 4,400 metres to spot a rare rufous-bellied seedsnipe",
       "link": "https://www.theguardian.com/environment/2026/apr/08/birdwatch-rufous-bellied-seedsnipe-andes-mountains-ecuador",
@@ -5491,17 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-03-31T17:08:00Z"
-    },
-    {
-      "title": "‘God squad’ waives endangered species law to allow US drilling in Gulf of Mexico",
-      "link": "https://www.theguardian.com/us-news/2026/mar/31/gulf-of-mexico-drilling-endangered-species",
-      "summary": "Critics say exemption for fossil fuels exploits White House’s ‘self-made gas crisis’, and could doom the rare Rice’s whale Sign up for the Breaking News US email to get newsletter ",
-      "date": "2026-03-31T15:26:49Z",
-      "image": "https://i.guim.co.uk/img/media/7df5ac002b8790e161dc69f61eec051199c3f9c6/578_440_1109_888/master/1109.jpg?width=140&quality=85&auto=format&fit=max&s=03e014ed845f303830c302d12e367c6a",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-03-31T17:08:07Z"
     }
   ]
 }
