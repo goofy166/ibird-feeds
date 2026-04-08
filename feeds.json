@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-08T22:52:35Z",
-  "updated_utc": "2026-04-08T22:52:35Z",
+  "updated": "2026-04-08T23:48:40Z",
+  "updated_utc": "2026-04-08T23:48:40Z",
   "count": 500,
   "stories": [
+    {
+      "title": "From 'sustainable' to 'regenerative' agriculture: What's in a name?",
+      "link": "https://phys.org/news/2026-04-sustainable-regenerative-agriculture.html",
+      "summary": "Sustainability has become something of a buzzword over the years. From the clothes we wear and the energy that powers our homes to the way we live our lives, the idea of sustainabl",
+      "date": "2026-04-08T23:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/agriculture.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-08T23:48:36Z"
+    },
+    {
+      "title": "Ecuador study finds tropical rainforest biodiversity rebounds over 90% in 30 years",
+      "link": "https://phys.org/news/2026-04-ecuador-tropical-rainforest-biodiversity-rebounds.html",
+      "summary": "Tropical rainforests are home to almost two-thirds of all vertebrate species and three-quarters of all tree species: they are the most species-rich terrestrial ecosystem on Earth. ",
+      "date": "2026-04-08T23:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-remarkable-resilie.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-08T23:48:36Z"
+    },
     {
       "title": "Palo Alto group buys Coyote Valley farmland in San Jose for $5.3 million",
       "link": "https://www.mercurynews.com/2026/04/08/palo-alto-group-buys-coyote-valley-farmland-in-san-jose-for-5-3-million/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-04-01T19:15:07Z"
-    },
-    {
-      "title": "A Truck Driver Spent 20 Years Making This Astonishing Scale Model of Every Single Building in New York City",
-      "link": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
-      "summary": "The 1,350-square-foot model is now on display at the Museum of the City of New York, where visitors can use binoculars to see tiny replicas of all five boroughs",
-      "date": "2026-04-01T17:45:40Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/7Ay1qf12R0zRg9Vq_Ht29cJQ1L0=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b8/57/b857e0c7-ca4f-4125-8e59-aa66ff192cf3/city.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-01T19:15:07Z"
-    },
-    {
-      "title": "The first quantum computer to break encryption is now shockingly close",
-      "link": "https://www.newscientist.com/article/2521878-the-first-quantum-computer-to-break-encryption-is-now-shockingly-close/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Traditional encryption methods have long been vulnerable to quantum computers, but two new analyses suggest a capable enough machine may be built much sooner than previously though",
-      "date": "2026-04-01T16:32:09Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/01162942/SEI_291734286.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-01T19:15:10Z"
     }
   ]
 }
