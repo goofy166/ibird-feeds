@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-09T22:52:29Z",
-  "updated_utc": "2026-04-09T22:52:29Z",
+  "updated": "2026-04-09T23:44:32Z",
+  "updated_utc": "2026-04-09T23:44:32Z",
   "count": 500,
   "stories": [
+    {
+      "title": "AI-designed proteins built from scratch can recognize specific compounds",
+      "link": "https://phys.org/news/2026-04-ai-proteins-built-specific-compounds.html",
+      "summary": "Professor Gyu Rie Lee of the Department of Biological Sciences successfully designed artificial proteins that selectively recognize specific compounds using AI through joint resear",
+      "date": "2026-04-09T23:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-use-ai-to-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-09T23:44:28Z"
+    },
     {
       "title": "Gear Up for Festival Season With These 8 Essentials",
       "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/gear-up-for-festival-season-with-these-8-essentials/",
@@ -5487,17 +5498,6 @@
       "summary": "Archival images snapped by the Hubble Space Telescope revealed the unusual event",
       "date": "Thu, 02 Apr 2026 16Z",
       "image": "https://th-thumbnailer.cdn-si-edu.com/q7TeRwot6bzTqs1lBkkzZxYd5tw=/420x240/filters:focal(1000x571:1001x572)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ee/86/ee86e94b-9669-4316-9150-80da328356b5/stsci-01kkh8zmjnedz0vg0tn1hs3vqq.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-02T17:03:58Z"
-    },
-    {
-      "title": "Spectators Flocked to the Artemis 2 Launch to Witness History Being Made. One Awed Viewer Called It 'the Best Thing Ever'",
-      "link": "https://www.smithsonianmag.com/science-nature/spectators-flocked-to-the-artemis-2-launch-to-witness-history-being-made-one-awed-viewer-called-it-the-best-thing-ever-180988474/",
-      "summary": "Wednesday evening, a human mission to the moon lifted off for the first time in more than 50 years. These 13 photographs capture what it was like to experience the moment",
-      "date": "Thu, 02 Apr 2026 16Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/9xn3dzKqdW30gWQyDcQ_1fy0l-o=/420x240/filters:focal(2040x1535:2041x1536)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7f/59/7f59693c-eb2f-476d-a2d9-e0ff653d0bdf/pxl_20260401_223707602.jpg",
       "name": "Smithsonian",
       "category": "insects",
       "color": 10,
