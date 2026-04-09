@@ -1,8 +1,129 @@
 {
-  "updated": "2026-04-09T11:07:50Z",
-  "updated_utc": "2026-04-09T11:07:50Z",
+  "updated": "2026-04-09T14:01:48Z",
+  "updated_utc": "2026-04-09T14:01:48Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Doug Allan, cameraman on David Attenborough’s Planet series, dies trekking in Nepal",
+      "link": "https://www.theguardian.com/media/2026/apr/09/doug-allan-wildlife-cameraman-dies",
+      "summary": "Wildlife film pioneer has died aged 74 ‘immersed in nature and surrounded by friends’, his representatives said An award-winning wildlife cameraman renowned for his work with David",
+      "date": "2026-04-09T10:27:20Z",
+      "image": "https://i.guim.co.uk/img/media/77c385c1418816f1febc74b11978a9848c130db5/0_118_1596_1276/master/1596.jpg?width=140&quality=85&auto=format&fit=max&s=8c5b7df89a080d66817452bf47f6b1e1",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-09T14:01:32Z"
+    },
+    {
+      "title": "To Speak the Language of the Land",
+      "link": "https://hakaimagazine.com/features/to-speak-the-language-of-the-land/",
+      "summary": "Nearly 200 of us cram into Tarāwhai, a traditional wooden Māori meeting house, under the gaze of the ancestors and deities carved into the posts and walls. We’re here in the home o",
+      "date": "Thu, 12 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-maori-language-and-place.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-04-09T14:01:35Z"
+    },
+    {
+      "title": "Caviar Pizzas, New Money, and the Death of an Ancient Fish",
+      "link": "https://hakaimagazine.com/features/caviar-pizzas-new-money-and-the-death-of-an-ancient-fish/",
+      "summary": "I am sitting at a slick Manhattan waterfront restaurant on the banks of the East River, New York City, trying to decide why I find the caviar pizza on the menu so disturbing. Jonat",
+      "date": "Tue, 10 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-21st-century-sturgeon.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-04-09T14:01:35Z"
+    },
+    {
+      "title": "The Destructive Legacy of Failed Aquaculture",
+      "link": "https://hakaimagazine.com/news/the-destructive-legacy-of-failed-aquaculture/",
+      "summary": "Aquaculture is big business in Canada. In 2023, open-net-pen salmon farming in British Columbia alone produced 50,000 tonnes of fish worth just over US $350-million. But on June 30",
+      "date": "2024-12-06T08:01:14Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-aquaculture-cleanup.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-04-09T14:01:35Z"
+    },
+    {
+      "title": "Conjuring the Lost Land Beneath the North Sea",
+      "link": "https://hakaimagazine.com/features/conjuring-the-lost-land-beneath-the-north-sea/",
+      "summary": "The North Sea is a hard place to love. It’s not the cold, or the silty gray-brown waters that seem to suck the brightness out of the sky that make it unappealing, it’s what people ",
+      "date": "Thu, 05 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-doggerland.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-04-09T14:01:35Z"
+    },
+    {
+      "title": "This Punjabi Princess Fought for Women's Suffrage and Sheltered Refugees During World War II. A Goddaughter of Queen Victoria, She Rejected British Imperialism",
+      "link": "https://www.smithsonianmag.com/history/this-punjabi-princess-fought-for-womens-suffrage-and-sheltered-refugees-during-world-war-ii-a-goddaughter-of-queen-victoria-she-rejected-british-imperialism-180988491/",
+      "summary": "A new exhibition at Kensington Palace tells the riveting story of Sophia Duleep Singh, daughter of the last maharaja of the Sikh Empire",
+      "date": "Thu, 09 Apr 2026 11Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/55gkd7-7QvBjeXWgm85_hkaKKvM=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/30/8c/308cedab-7177-49f7-90fe-06baa5b3d15d/sisters.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-09T14:01:41Z"
+    },
+    {
+      "title": "Long Before Machine Guns, Ancient Roman Troops Used This 2,000-Year-Old Rapid-Fire Weapon in Pompeii, New Research Suggests",
+      "link": "https://www.smithsonianmag.com/smart-news/long-before-machine-guns-ancient-roman-troops-were-using-this-rapid-fire-weapon-180988504/",
+      "summary": "Ancient Roman forces may have used the polybolos to quell a rebellion at Pompeii in 89 B.C.E. The unique weapon was likely developed by a Greek engineer centuries earlier",
+      "date": "Thu, 09 Apr 2026 11Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/sPiPvvqEYGh4tVNOtcIJIO9bVFE=/420x240/filters:focal(1497x784:1498x785)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8e/10/8e10133d-a0f9-481a-ab58-e1ef5bd3cb65/heritage-09-00096-g015.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-09T14:01:41Z"
+    },
+    {
+      "title": "Emperor penguins added to endangered list after rapid decline",
+      "link": "https://www.newscientist.com/article/2522508-emperor-penguins-added-to-endangered-list-after-rapid-decline/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The International Union for Conservation of Nature has updated the Red List status for three of Antarctica’s most famous species after a dire assessment of their prospects under cl",
+      "date": "Thu, 09 Apr 2026 11Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/09094919/SEI_292509435.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-09T14:01:43Z"
+    },
+    {
+      "title": "Why early humans radically changed their toolkits 200,000 years ago",
+      "link": "https://www.newscientist.com/article/2522425-why-early-humans-radically-changed-their-toolkits-200000-years-ago/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A decline in ancient megafauna in the Middle East coincided with a shift towards smaller, lighter toolkits in the archaeological record – though scientists are still in debate abou",
+      "date": "2026-04-08T17:00:19Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/08153707/SEI_292426531.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-09T14:01:43Z"
+    },
+    {
+      "title": "Preventing the spread of a deadly virus to Pennsylvania's rabbits and hares",
+      "link": "https://phys.org/news/2026-04-deadly-virus-pennsylvania-rabbits-hares.html",
+      "summary": "Rabbit hemorrhagic disease virus type 2 is a terrible way for any animal to die, especially creatures as gentle as these. Highly contagious and lethal, it threatens wild and domest",
+      "date": "2026-04-09T12:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wild-rabbit.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-09T14:01:44Z"
+    },
+    {
+      "title": "Scientists discover the antibacterial potential of 'hero' Korean skincare ingredient",
+      "link": "https://phys.org/news/2026-04-scientists-antibacterial-potential-hero-korean.html",
+      "summary": "Fans of Korean skincare may be familiar with \"hero ingredient\" Madecassic acid for its skin-soothing properties, but researchers at Kent have revealed its greater potential for use",
+      "date": "2026-04-09T12:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-th.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-09T14:01:44Z"
+    },
     {
       "title": "Northeast Brazil  – Profile for Birders",
       "link": "https://www.10000birds.com/northeast-brazil-profile-for-birders.htm?utm_source=rss&utm_medium=rss&utm_campaign=northeast-brazil-profile-for-birders",
@@ -5381,127 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-04-01T23:43:51Z"
-    },
-    {
-      "title": "Researchers present first fossilized 'emperor' butterfly",
-      "link": "https://phys.org/news/2026-04-fossilized-emperor-butterfly.html",
-      "summary": "Butterfly fossils are rare, and finds that preserve fine anatomical details and wing patterns are an absolute exception. An international research team from Sweden, the U.S., and G",
-      "date": "2026-04-01T23:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-present-fi.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-04-01T23:43:53Z"
-    },
-    {
-      "title": "Oregano, rosemary and 'time': Long-term swine study shows natural-compound benefits",
-      "link": "https://phys.org/news/2026-04-oregano-rosemary-term-swine-natural.html",
-      "summary": "In the search to replace antibiotic growth promoters with effective alternatives in modern swine production, plant-based essential oils are showing potential to provide lasting ben",
-      "date": "2026-04-01T23:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oregano-rosemary-and-t-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-01T23:43:53Z"
-    },
-    {
-      "title": "Artemis II blasts off: Humans are on their way back to the moon",
-      "link": "https://www.livescience.com/space/space-exploration/artemis-ii-blasts-off-humans-are-on-their-way-back-to-the-moon",
-      "summary": "NASA's Artemis II rocket has taken off in a historic launch on Florida's Space Coast, sending humans back to the moon for the first time in more than 50 years.",
-      "date": "2026-04-01T22:56:34Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/mTUUKdvZFnMKJhUJ8gYVsB-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-01T23:43:54Z"
-    },
-    {
-      "title": "Visible planets and night sky guide for March and April",
-      "link": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
-      "summary": "Visible planets and night sky guide. The full Pink Moon will rise at about sunset tonight and shine all night near the star Spica. It will set around sunrise. The post Visible plan",
-      "date": "2026-04-01T10:00:08Z",
-      "image": "https://earthsky.org/upl/2026/03/2026-Apr-1-Full-Moon-A.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-01T22:49:22Z"
-    },
-    {
-      "title": "Sun news: What happened to last night’s auroras?",
-      "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-      "summary": "Sun news for April 1, 2026: The blast of sun-stuff (CME) from the X1.5 flare has still not arrived. Will we see a late arrival today? The post Sun news: What happened to last night",
-      "date": "2026-04-01T09:30:53Z",
-      "image": "https://earthsky.org/upl/2026/04/Apr-1-26-Sun-activity-filament-eruptions.-ezgif.com-video-to-webp-converter.webp",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-01T22:49:22Z"
-    },
-    {
-      "title": "How to Tell If You’re Overwhelmed or Overstimulated—and How Getting Outside Can Help",
-      "link": "https://www.outsideonline.com/health/wellness/overstimulation-vs-overwhelmed/",
-      "summary": "Here’s how to tell the difference and, more importantly, what to do to push past these uncomfortable feelings. The post How to Tell If You’re Overwhelmed or Overstimulated—and How ",
-      "date": "2026-04-01T21:56:20Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/overwhelm-overstimulated-nature.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-01T22:49:27Z"
-    },
-    {
-      "title": "Fins, fingers and toes: A new take on repeating body parts and how they come to be",
-      "link": "https://phys.org/news/2026-04-fins-fingers-toes-body.html",
-      "summary": "As biologists know, nature can take its sweet time explaining itself. Andrew Gillis, associate scientist at the Marine Biological Laboratory (MBL), has been investigating how the p",
-      "date": "2026-04-01T22:30:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fins-fingers-and-toes.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-01T22:49:32Z"
-    },
-    {
-      "title": "New model shows how behavioral flexibility affects animal evolution",
-      "link": "https://phys.org/news/2026-04-behavioral-flexibility-affects-animal-evolution.html",
-      "summary": "When the environment changes dramatically, animals from mollusks to crows can make big changes in their behavior that enable them to survive. For example, marmots and ground squirr",
-      "date": "2026-04-01T22:10:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/polar-bear.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-01T22:49:32Z"
-    },
-    {
-      "title": "Aquaculture is shifting toward less sustainable species, study says",
-      "link": "https://phys.org/news/2026-04-aquaculture-shifting-sustainable-species.html",
-      "summary": "While aquaculture has grown rapidly to meet global seafood demand, it is increasingly relying on species that are less beneficial for food security, climate mitigation, and biodive",
-      "date": "2026-04-01T22:10:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/aquaculture-is-shiftin.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-01T22:49:32Z"
-    },
-    {
-      "title": "Precision work prior to cell division: How enzymes optimize DNA structure",
-      "link": "https://phys.org/news/2026-04-precision-prior-cell-division-enzymes.html",
-      "summary": "Before a cell can divide, it has to precisely duplicate its entire genetic information. However, the DNA in the cell exists as part of a DNA-protein complex known as chromatin. For",
-      "date": "2026-04-01T22:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/3-dna.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-01T22:49:32Z"
-    },
-    {
-      "title": "The Personal Toll of Canada’s Broken Fishing Promises",
-      "link": "https://hakaimagazine.com/features/the-personal-toll-of-canadas-broken-fishing-promises/",
-      "summary": "August 29, 2020, dawned clear over southwest Nova Scotia. In the cabin of his lobster boat, the Mystique Lady, Matthew Cope was chatting with the other members of his crew as they ",
-      "date": "Tue, 17 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-matt-cope-moderate-livelihood.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-04-01T21:52:24Z"
     }
   ]
 }
