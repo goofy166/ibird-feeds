@@ -1,8 +1,41 @@
 {
-  "updated": "2026-04-09T02:57:27Z",
-  "updated_utc": "2026-04-09T02:57:27Z",
+  "updated": "2026-04-09T05:20:24Z",
+  "updated_utc": "2026-04-09T05:20:24Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Thick-billed Larks (Ramphocoris clotbey) in the Negev Desert, Israel",
+      "link": "https://www.10000birds.com/thick-billed-larks-ramphocoris-clotbey-in-the-negev-desert-israel.htm?utm_source=rss&utm_medium=rss&utm_campaign=thick-billed-larks-ramphocoris-clotbey-in-the-negev-desert-israel",
+      "summary": "By Itamar Procaccia, The Weizmann Institute of Science, Rehovot 7610001, Israel Itamar Procaccia is a professor at the Weizmann Institute in Rehovot, Israel, specialising in the Ph",
+      "date": "Thu, 09 Apr 2026 05Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/04/image-8.jpeg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-04-09T05:20:03Z"
+    },
+    {
+      "title": "Those Wacky Oropendolas",
+      "link": "https://www.10000birds.com/bring-in-the-reinforcements.htm?utm_source=rss&utm_medium=rss&utm_campaign=bring-in-the-reinforcements",
+      "summary": "Some birds are a little bit goofy. For example there are two birds I met on previous trips to Mexico’s southeastern state of Tabasco: the Northern Potoo, which spends daylight hour",
+      "date": "Thu, 09 Apr 2026 04Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/04/Montezuma-Oropendola-2-Grutas-de-Cocona-March-2026.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-04-09T05:20:03Z"
+    },
+    {
+      "title": "Country diary: There’s a pecking order to my bird feeder – but should I be feeding them at all? | Gwyneth Lewis",
+      "link": "https://www.theguardian.com/environment/2026/apr/09/country-diary-theres-a-pecking-order-to-my-bird-feeder-but-should-i-be-feeding-them-at-all",
+      "summary": "Cardiff: Robin then blue tit, siskin then goldfinch … I love this ritual, but I’m persuaded that it deserves more careful thought I’ve been away from my bird feeder for months and,",
+      "date": "2026-04-09T04:30:22Z",
+      "image": "https://i.guim.co.uk/img/media/d639cae274e5b5cee6dbdaf27b7ad0430376744a/273_0_2374_1900/master/2374.jpg?width=140&quality=85&auto=format&fit=max&s=fd62f358d04c42c0133cf6675e2c8712",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-09T05:20:08Z"
+    },
     {
       "title": "‘They poo all over the yard’: little corellas are terrorising Kangaroo Island – and nothing can stop them",
       "link": "https://www.theguardian.com/australia-news/2026/apr/09/kangaroo-island-little-corellas-culled",
@@ -5465,39 +5498,6 @@
       "summary": "AI language models, used to generate human-like text to power chatbots and create content, are also revolutionizing biology by treating complex biological data like a language. Lan",
       "date": "2026-04-01T20:30:01Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/accuracy-test-for-prot.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-01T20:55:45Z"
-    },
-    {
-      "title": "Social roles are neither predetermined nor set in stone, study in mice suggests",
-      "link": "https://phys.org/news/2026-04-social-roles-predetermined-stone-mice.html",
-      "summary": "In animal societies as in human ones, some individuals regularly produce resources while others appropriate them. Contrary to what evolutionary theories had previously suggested, t",
-      "date": "2026-04-01T20:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/social-roles-are-neith.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-01T20:55:45Z"
-    },
-    {
-      "title": "Free software lets laptops simulate how aging evolves under selection",
-      "link": "https://phys.org/news/2026-04-free-software-laptops-simulate-aging.html",
-      "summary": "Why do some species live for only weeks while others survive for centuries? Researchers at the Leibniz Institute on Aging—Fritz Lipmann Institute (FLI) in Jena have developed AEGIS",
-      "date": "2026-04-01T20:00:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-software-brings-ag.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-01T20:55:45Z"
-    },
-    {
-      "title": "Ghost bat dialects emerge across colonies, study suggests",
-      "link": "https://phys.org/news/2026-04-ghost-dialects-emerge-colonies.html",
-      "summary": "Accents are usually thought of as a human trait, indicating where a person has grown up or the communities they belong—and new research shows the same dialects can also occur in Au",
-      "date": "2026-04-01T19:50:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chatty-batty-research.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
