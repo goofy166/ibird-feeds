@@ -1,8 +1,96 @@
 {
-  "updated": "2026-04-09T07:50:09Z",
-  "updated_utc": "2026-04-09T07:50:09Z",
+  "updated": "2026-04-09T09:19:40Z",
+  "updated_utc": "2026-04-09T09:19:40Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Mass drowning of chicks puts emperor penguins at risk of extinction",
+      "link": "https://www.theguardian.com/environment/2026/apr/09/mass-drowning-of-chicks-puts-emperor-penguins-at-risk-of-extinction",
+      "summary": "Record low levels of Antarctic sea ice is having grim consequences for penguins yet to grow waterproof feathers The mass drowning of emperor penguin chicks as sea ice is melted by ",
+      "date": "2026-04-09T09:00:28Z",
+      "image": "https://i.guim.co.uk/img/media/1e1a70eac7b0cd541a2b2f0a14a34d24238662e3/840_0_4310_3449/master/4310.jpg?width=140&quality=85&auto=format&fit=max&s=075854a56ef4796ab0bd1c6e22b90a05",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-09T09:19:25Z"
+    },
+    {
+      "title": "Follow the arc to Arcturus, then speed on to Spica",
+      "link": "https://earthsky.org/tonight/follow-the-arc-to-arcturus/",
+      "summary": "If you only ever learn 1 star mnemonic, make it this one! Arc to Arcturus and speed on to Spica to identify 2 of the sky's brightest stars. The post Follow the arc to Arcturus, the",
+      "date": "Thu, 09 Apr 2026 09Z",
+      "image": "https://earthsky.org/upl/2018/04/springtime-big-dipper-arcurus-spica.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-04-09T09:19:26Z"
+    },
+    {
+      "title": "What to read this week: Beyond Inheritance by Roxanne Khamsi",
+      "link": "https://www.newscientist.com/article/2522203-what-to-read-this-week-beyond-inheritance-by-roxanne-khamsi/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A fresh and important book reveals the messy reality of our ever-mutating cells – and why the quest to defeat ageing is futile, says Michael Le Page",
+      "date": "2026-04-08T18:00:18Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/07125109/SEI_290999712.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-09T09:19:35Z"
+    },
+    {
+      "title": "Is this the most niche scientific tourist attraction in the world?",
+      "link": "https://www.newscientist.com/article/2522140-is-this-the-most-niche-scientific-tourist-attraction-in-the-world/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Feedback is delighted by the discovery of a very specific scientific sculpture park in China – and wonders if readers can top it",
+      "date": "2026-04-08T18:00:00Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/08141844/SEI_292418962.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-09T09:19:35Z"
+    },
+    {
+      "title": "One DNA letter can trigger complete sex reversal",
+      "link": "https://phys.org/news/2026-04-dna-letter-trigger-sex-reversal.html",
+      "summary": "Researchers at Bar-Ilan University have discovered that changing just one letter in DNA can completely alter sex development in mice. In the new study, published in Nature Communic",
+      "date": "2026-04-09T09:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-dna-letter-can-tri.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-09T09:19:36Z"
+    },
+    {
+      "title": "Ocean protections clash with mining pressure in Indonesia's most diverse marine ecosystem",
+      "link": "https://phys.org/news/2026-04-ocean-clash-pressure-indonesia-diverse.html",
+      "summary": "There is an explosion of color beneath the surface in Raja Ampat, a remote archipelago in eastern Indonesia where sharks, mantas and sea turtles glide alongside vast schools of fis",
+      "date": "2026-04-09T08:26:13Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ocean-protections-clas.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-09T09:19:36Z"
+    },
+    {
+      "title": "Soundscapes from nearby forests are more uplifting than those from faraway places, research suggests",
+      "link": "https://phys.org/news/2026-04-soundscapes-nearby-forests-uplifting-faraway.html",
+      "summary": "Listening to one-minute-long audio recordings of forests had positive effects on people's short-term well-being, especially when the recordings were from local temperate forests. S",
+      "date": "2026-04-09T08:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/soundscapes-from-nearb.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-09T09:19:36Z"
+    },
+    {
+      "title": "Western states face above-normal wildfire threats this summer. New maps reveal which areas are most at risk.",
+      "link": "https://www.livescience.com/planet-earth/climate-change/western-states-face-above-normal-wildfire-threats-this-summer-new-maps-reveal-which-areas-are-most-at-risk",
+      "summary": "Amid drought and heat waves, April's national wildfire forecast shows that nearly the entire Western U.S. will face an above-normal risk of wildfires at some point in the next four",
+      "date": "Thu, 09 Apr 2026 08Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/wiGAUpqvBn26hDyyHdhwZ3-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-09T09:19:37Z"
+    },
     {
       "title": "Science history: Doctor hypothesizes that 'transmissible proteins' can cause disease, contradicting a 'central dogma' of molecular biology — April 9, 1982",
       "link": "https://www.livescience.com/health/science-history-scientist-identifies-strange-infectious-misfolded-proteins-april-9-1982",
@@ -5414,94 +5502,6 @@
       "category": "butterflies",
       "color": 13,
       "fetched_at": "2026-04-01T21:52:34Z"
-    },
-    {
-      "title": "Time lapse video shows trees give visual clues as they rehydrate each spring",
-      "link": "https://phys.org/news/2026-04-lapse-video-trees-visual-clues.html",
-      "summary": "With the arrival of spring a few weeks ago, new buds and colors on the trees started to appear. Along with that new growth, a UBC Okanagan researcher has determined that some trees",
-      "date": "2026-04-01T21:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-says-tree.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-01T21:52:34Z"
-    },
-    {
-      "title": "Why some predators thrive near people: A Kenya hyena study highlights tolerance",
-      "link": "https://phys.org/news/2026-04-predators-people-kenya-hyena-highlights.html",
-      "summary": "Human–wildlife coexistence is often far from straightforward, with predators particularly hard hit: their numbers tend to fall sharply in areas close to human settlements, fields a",
-      "date": "2026-04-01T21:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/human-views-on-predato.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-01T21:52:34Z"
-    },
-    {
-      "title": "Meteor shower guide 2026: Up next … the Lyrids",
-      "link": "https://earthsky.org/astronomy-essentials/earthskys-meteor-shower-guide/",
-      "summary": "Up next is the Lyrid meteor shower. Watch for them they'll be best after midnight and before dawn on April 22. Your 2026 meteor shower guide here. The post Meteor shower guide 2026",
-      "date": "2026-03-30T07:00:43Z",
-      "image": "https://earthsky.org/upl/2023/01/Lyra-Vega-Radiant.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-01T20:55:35Z"
-    },
-    {
-      "title": "What’s Better for Strength Training: Weighted Vests, Rucking Packs, or Regular Backpacks?",
-      "link": "https://www.outsideonline.com/outdoor-gear/weighted-vests-ruckpacks-backpacks/",
-      "summary": "I tested trendy weighted vests and packs against ordinary backpacks. Here’s what I found. The post What’s Better for Strength Training: Weighted Vests, Rucking Packs, or Regular Ba",
-      "date": "2026-04-01T20:21:05Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/weighted-vests_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-01T20:55:39Z"
-    },
-    {
-      "title": "This Secret Passageway May Have Been Part of the Underground Railroad. Now, Preservationists Say It's in Danger",
-      "link": "https://www.smithsonianmag.com/smart-news/this-secret-passageway-may-have-been-part-of-the-underground-railroad-now-preservationists-say-its-in-danger-180988461/",
-      "summary": "The Merchant's House Museum in New York City announced its investigation into the tunnel's history in February. A neighboring development could threaten the building's walls and fo",
-      "date": "2026-04-01T19:08:04Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/iJRN37g4CMGIGuiYbEYZupeD06Q=/420x240/filters:focal(512x346:513x347)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ab/c1/abc1b1b6-ad9c-460e-893f-a74e3b9131a6/inside-underground-railroad-drawers-1024x683.webp",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-01T20:55:41Z"
-    },
-    {
-      "title": "Tobacco plant altered to produce five psychedelic drugs",
-      "link": "https://www.newscientist.com/article/2521338-tobacco-plant-altered-to-produce-five-psychedelic-drugs/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Genetically engineering tobacco plants could enable a more sustainable production method for psychedelic drugs, which are increasingly in demand for research and medical uses",
-      "date": "2026-04-01T19:00:03Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/01141452/SEI_291592603.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-01T20:55:44Z"
-    },
-    {
-      "title": "Queen bumblebees can breathe underwater for days. We discovered how",
-      "link": "https://phys.org/news/2026-04-queen-bumblebees-underwater-days.html",
-      "summary": "In most bumblebee species, the queens spend their winters buried underground in a tiny cavity the size of a grape. For six to nine months, they enter a deep sleep-like state called",
-      "date": "2026-04-01T20:50:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bumblebee.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-01T20:55:45Z"
-    },
-    {
-      "title": "Atomic-level simulations reveal rotational mechanism behind a critical biomolecular motor",
-      "link": "https://phys.org/news/2026-04-atomic-simulations-reveal-rotational-mechanism.html",
-      "summary": "The way a key cellular motor works at an atomic level has been uncovered by simulations conducted by RIKEN biophysicists. This finding, published in the journal Proceedings of the ",
-      "date": "2026-04-01T20:50:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-causes-a-molecula.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-01T20:55:45Z"
     }
   ]
 }
