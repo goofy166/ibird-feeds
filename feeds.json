@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-09T05:20:24Z",
-  "updated_utc": "2026-04-09T05:20:24Z",
+  "updated": "2026-04-09T07:50:09Z",
+  "updated_utc": "2026-04-09T07:50:09Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Science history: Doctor hypothesizes that 'transmissible proteins' can cause disease, contradicting a 'central dogma' of molecular biology — April 9, 1982",
+      "link": "https://www.livescience.com/health/science-history-scientist-identifies-strange-infectious-misfolded-proteins-april-9-1982",
+      "summary": "Prion diseases, such as \"mad cow,\" are caused by transmissible proteins that were identified in the 1980s.",
+      "date": "Thu, 09 Apr 2026 06Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/KZjsugUAHTPPpDrdKR2mE8-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-09T07:50:06Z"
+    },
     {
       "title": "Thick-billed Larks (Ramphocoris clotbey) in the Negev Desert, Israel",
       "link": "https://www.10000birds.com/thick-billed-larks-ramphocoris-clotbey-in-the-negev-desert-israel.htm?utm_source=rss&utm_medium=rss&utm_campaign=thick-billed-larks-ramphocoris-clotbey-in-the-negev-desert-israel",
@@ -5487,17 +5498,6 @@
       "summary": "The way a key cellular motor works at an atomic level has been uncovered by simulations conducted by RIKEN biophysicists. This finding, published in the journal Proceedings of the ",
       "date": "2026-04-01T20:50:01Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-causes-a-molecula.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-01T20:55:45Z"
-    },
-    {
-      "title": "Accuracy test for protein language models shines light into AI 'black box'",
-      "link": "https://phys.org/news/2026-04-accuracy-protein-language-ai-black.html",
-      "summary": "AI language models, used to generate human-like text to power chatbots and create content, are also revolutionizing biology by treating complex biological data like a language. Lan",
-      "date": "2026-04-01T20:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/accuracy-test-for-prot.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
