@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-10T22:48:11Z",
-  "updated_utc": "2026-04-10T22:48:11Z",
+  "updated": "2026-04-10T23:44:45Z",
+  "updated_utc": "2026-04-10T23:44:45Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Nicotine's last biosynthesis steps mapped in wild tobacco, ending a long mystery",
+      "link": "https://phys.org/news/2026-04-nicotine-biosynthesis-wild-tobacco-mystery.html",
+      "summary": "Nicotine, a potent insecticidal alkaloid unique to the nightshade family, has been employed in agriculture as a pesticide since 1690. It also has therapeutic potential for neurolog",
+      "date": "2026-04-10T23:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-elucidate.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-10T23:44:42Z"
+    },
+    {
+      "title": "Underwater architects: Nest-building in cichlids reveals more than hardwired instinct",
+      "link": "https://phys.org/news/2026-04-underwater-architects-cichlids-reveals-hardwired.html",
+      "summary": "We associate nests with shelter, warmth, and a safe retreat—and usually picture a bird's nest made out of twigs, grass and feathers. Yet many other animals take advantage of such r",
+      "date": "2026-04-10T23:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/underwater-architects.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-10T23:44:42Z"
+    },
     {
       "title": "'First contact' that may have led to complex life on Earth finally witnessed by scientists",
       "link": "https://phys.org/news/2026-04-contact-complex-life-earth-witnessed.html",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-04-03T15:47:22Z"
-    },
-    {
-      "title": "Seed banks may complicate gene drives aimed at controlling weeds",
-      "link": "https://phys.org/news/2026-04-seed-banks-complicate-gene-aimed.html",
-      "summary": "Gene drives—a genetic engineering approach that quickly spreads specific genetic changes throughout a population, whether to kill it off or add a new trait—may have potential for c",
-      "date": "2026-04-03T15:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seed-banks-may-complic.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-03T15:47:23Z"
-    },
-    {
-      "title": "Homo habilis is the earliest named human. But is it even human?",
-      "link": "https://www.livescience.com/archaeology/human-evolution/homo-habilis-is-the-earliest-named-human-but-is-it-even-human",
-      "summary": "Between 2 million and 3 million years ago, humans appeared in Africa — but identifying them in the fossil record is turning out to be surprisingly difficult.",
-      "date": "2026-04-03T15:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/435Yz3ieFSMGqN4wTcLQzH-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-03T15:47:24Z"
     }
   ]
 }
