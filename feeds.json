@@ -1,8 +1,52 @@
 {
-  "updated": "2026-04-10T08:25:09Z",
-  "updated_utc": "2026-04-10T08:25:09Z",
+  "updated": "2026-04-10T10:13:37Z",
+  "updated_utc": "2026-04-10T10:13:37Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘I’m worried there’s too much of me,’ says a birch: inside the interspecies council giving nature a voice",
+      "link": "https://www.theguardian.com/environment/2026/apr/10/im-worried-theres-too-much-of-me-says-a-birch-inside-the-interspecies-council-giving-nature-a-voice",
+      "summary": "In a village in Norway, humans representing flora and fauna of all kinds meet to reimagine ‘nature-centric governance’ “My ask of humans is quite large,” says the northern bat to a",
+      "date": "2026-04-10T10:09:55Z",
+      "image": "https://i.guim.co.uk/img/media/8b743245eb0bcdfefd455bff374469343fe715f4/11_0_1253_1002/master/1253.jpg?width=140&quality=85&auto=format&fit=max&s=4154df0caf4b339a9d7fc229b06e0aed",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-10T10:13:22Z"
+    },
+    {
+      "title": "My Guide Says It’s Safe but I’m Not So Sure. Should I Say Something?",
+      "link": "https://www.outsideonline.com/culture/opinion/unsafe-guide-advice/",
+      "summary": "Does your backcountry leader always know best? Our ethics columnist, himself a former guide, explains what to do if your guide’s approach feels dangerous. The post My Guide Says It",
+      "date": "2026-04-10T09:16:00Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/Guide1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-10T10:13:29Z"
+    },
+    {
+      "title": "Could your housemates be changing your gut bacteria? An island bird study suggests so",
+      "link": "https://phys.org/news/2026-04-housemates-gut-bacteria-island-bird.html",
+      "summary": "Living with friends may quietly be altering your gut bacteria, according to a new study from the University of East Anglia. Research on a colony of tiny island birds reveals they s",
+      "date": "2026-04-10T09:10:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-your-housemates.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-10T10:13:34Z"
+    },
+    {
+      "title": "AI war games almost always escalate to nuclear strikes, simulation shows",
+      "link": "https://www.livescience.com/technology/artificial-intelligence/ai-war-games-almost-always-escalate-to-nuclear-strikes-simulation-shows",
+      "summary": "A new study reveals that AI decision-making during conflicts is naturally prone to escalation.",
+      "date": "2026-04-10T08:58:17Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/QwkefbjmDvBRtJY8wma5F4-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-10T10:13:35Z"
+    },
     {
       "title": "A rare sign of hope as mountain gorillas welcome two sets of twins in Africa",
       "link": "https://www.theguardian.com/environment/2026/apr/09/a-rare-sign-of-hope-as-mountain-gorillas-welcome-two-sets-of-twins-in-central-africa",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-02T19:07:45Z"
-    },
-    {
-      "title": "Spectacular fossil treasure trove pushes back origins of complex animals",
-      "link": "https://phys.org/news/2026-04-spectacular-fossil-treasure-trove-complex.html",
-      "summary": "A newly discovered fossil site in southwest China has transformed our understanding of how complex animal life emerged on Earth, revealing that many key animal groups had already e",
-      "date": "2026-04-02T18:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spectacular-fossil-tre-6.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-02T19:07:45Z"
-    },
-    {
-      "title": "Ancient children's teeth reveal a syphilis-like disease was spreading in Vietnam 4,000 years ago",
-      "link": "https://www.livescience.com/archaeology/ancient-childrens-teeth-reveal-a-syphilis-like-disease-was-spreading-in-vietnam-4-000-years-ago",
-      "summary": "Remains from three Stone Age children in Vietnam may challenge long-standing ideas about the origin of syphilis, scientists say.",
-      "date": "Thu, 02 Apr 2026 17Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Ze3oZZoW3KU6zcY92nVPKh-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-02T19:07:46Z"
-    },
-    {
-      "title": "Chemists make hydrogen from breadcrumbs in groundbreaking reaction that could replace some fossil fuels",
-      "link": "https://www.livescience.com/chemistry/chemists-make-hydrogen-from-breadcrumbs-in-groundbreaking-reaction-that-could-replace-some-fossil-fuels",
-      "summary": "Chemists say they’ve found a way to turn breadcrumbs into hydrogen, potentially offering a sustainable alternative to one of the most common chemical manufacturing processes.",
-      "date": "Thu, 02 Apr 2026 17Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/6Ag57XqXi4vejsboyAVbDn-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-02T19:07:46Z"
-    },
-    {
-      "title": "Why Do Birds Abandon Their Nests?",
-      "link": "https://www.birdsandblooms.com/birding/attracting-birds/bird-nesting/do-birds-abandon-their-nests/",
-      "summary": "Nesting season brings joy to the backyard, but sometimes things don't work out as expected. Learn why birds may abandon their nests and eggs. The post Why Do Birds Abandon Their Ne",
-      "date": "2026-03-25T19:29:21Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/BNBbyc19_amy-gonzales-e1774465847255.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-04-02T17:03:46Z"
     }
   ]
 }
