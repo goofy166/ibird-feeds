@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-10T21:49:14Z",
-  "updated_utc": "2026-04-10T21:49:14Z",
+  "updated": "2026-04-10T22:48:11Z",
+  "updated_utc": "2026-04-10T22:48:11Z",
   "count": 500,
   "stories": [
+    {
+      "title": "'First contact' that may have led to complex life on Earth finally witnessed by scientists",
+      "link": "https://phys.org/news/2026-04-contact-complex-life-earth-witnessed.html",
+      "summary": "On the shores of the west coast of Australia lies a window to our past: the stromatolites and microbial mats of Gathaagudu (Shark Bay).",
+      "date": "2026-04-10T22:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-contact-that-may.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-10T22:48:08Z"
+    },
     {
       "title": "Wyoming man who injured wolf, taped its mouth shut and then killed it receives probation",
       "link": "https://www.theguardian.com/us-news/2026/apr/10/wyoming-man-wolf-killing-probation",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-04-03T15:47:24Z"
-    },
-    {
-      "title": "Top 10 Full Sun Annuals That Love the Light",
-      "link": "https://www.birdsandblooms.com/gardening/top-10-lists-for-gardeners/full-sun-annual-plants/",
-      "summary": "Embrace the summer season with eye-catching, pollinator-friendly annuals that thrive in full sun and heat. The post Top 10 Full Sun Annuals That Love the Light appeared first on Bi",
-      "date": "Thu, 26 Mar 2026 17Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/jamesbrittenia_safari_lava_flow_12817_tag-e1774543132518.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-04-03T14:53:32Z"
     }
   ]
 }
