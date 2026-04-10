@@ -1,8 +1,41 @@
 {
-  "updated": "2026-04-10T17:53:03Z",
-  "updated_utc": "2026-04-10T17:53:03Z",
+  "updated": "2026-04-10T19:05:37Z",
+  "updated_utc": "2026-04-10T19:05:37Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Are Guns Allowed in National Parks? A New Lawsuit Says Yes.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/guns-in-national-parks-laws-lawsuit/",
+      "summary": "A new legal challenge targets the \"federal facility\" loophole that makes carrying a firearm inside visitor centers a crime. The post Are Guns Allowed in National Parks? A New Lawsu",
+      "date": "2026-04-10T18:36:06Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/GettyImages-2226979644.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-10T19:05:28Z"
+    },
+    {
+      "title": "Unraveling the complexities of the Borna disease virus 1",
+      "link": "https://phys.org/news/2026-04-unraveling-complexities-borna-disease-virus.html",
+      "summary": "Cases of Borna disease virus 1 (BoDV-1) are extremely rare in humans, but in those who develop disease, the outcome is severe, almost always resulting in fatal encephalitis or infl",
+      "date": "2026-04-10T18:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unraveling-the-complex.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-10T19:05:33Z"
+    },
+    {
+      "title": "Scientists identify kinesin-2 motor assemblies that selectively transport proteins to specific regions within neurons",
+      "link": "https://phys.org/news/2026-04-scientists-kinesin-motor-proteins-specific.html",
+      "summary": "Intracellular transport is a vital process that allows cells to move proteins and other molecules to specific locations. This process is especially important in neurons, which have",
+      "date": "2026-04-10T18:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/composition-of-neurona.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-10T19:05:33Z"
+    },
     {
       "title": "How Creatine Can Boost Your Cognitive Function in the Outdoors",
       "link": "https://www.outsideonline.com/health/training-performance/creatine-cognitive-benefits/",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-04-03T11:43:29Z"
-    },
-    {
-      "title": "Artemis 2 critical burn a success! We’re going to the moon!",
-      "link": "https://earthsky.org/spaceflight/the-artemis-program-nasas-mission-return-to-the-moon/",
-      "summary": "The translunar injection burn - which will send the 4 brave astronauts of the Artemis 2 mission to the moon - is complete. The astronauts are moonward bound! The post Artemis 2 cri",
-      "date": "2026-04-03T00:09:31Z",
-      "image": "https://earthsky.org/upl/2026/04/crescent-earth-from-artemis-NASA-e1775147270356.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-03T11:43:29Z"
-    },
-    {
-      "title": "Will sungrazing Comet MAPS survive the sun?",
-      "link": "https://earthsky.org/space/new-sungrazing-comet-c-2026-a1-comet-maps/",
-      "summary": "Sungrazing comet C/2026 A1 (MAPS) has entered the field of view of the SOHO spacecraft. The post Will sungrazing Comet MAPS survive the sun? first appeared on EarthSky .",
-      "date": "Thu, 02 Apr 2026 23Z",
-      "image": "https://earthsky.org/upl/2026/03/PHOTO-2026-04-03-05-16-06-e1775215078757.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-03T11:43:29Z"
-    },
-    {
-      "title": "Native Nations Fought in the American Revolution to Protect Their Ancestral Lands. After the War, Settlers Seized Their Territory Anyway",
-      "link": "https://www.smithsonianmag.com/history/native-nations-fought-in-the-american-revolution-to-protect-their-ancestral-lands-after-the-war-settlers-seized-their-territory-anyway-180988435/",
-      "summary": "The conflict divided the six tribes of the Haudenosaunee Confederacy, most of whom decided to join the British. The former allies clashed at the Battle of Oriskany in New York in 1",
-      "date": "2026-04-03T11:15:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/b0b6hAgIx-EgKamikhyYSUEE5as=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c1/80/c1801950-2c8b-4fc2-9b57-ba1ddf61c316/burgoyne.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-03T11:43:36Z"
     }
   ]
 }
