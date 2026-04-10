@@ -1,8 +1,74 @@
 {
-  "updated": "2026-04-10T14:57:16Z",
-  "updated_utc": "2026-04-10T14:57:16Z",
+  "updated": "2026-04-10T16:02:51Z",
+  "updated_utc": "2026-04-10T16:02:51Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Flava of the month",
+      "link": "https://www.10000birds.com/flava-of-the-month.htm?utm_source=rss&utm_medium=rss&utm_campaign=flava-of-the-month",
+      "summary": "It's always a thrill to spot the first Yellow Wagtail of the spring",
+      "date": "2026-04-10T15:59:00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/04/image0-1.jpeg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-04-10T16:02:31Z"
+    },
+    {
+      "title": "Fremont police warn of rabies after dead bat tests positive",
+      "link": "https://www.mercurynews.com/2026/04/02/fremont-police-warn-rabies-dead-bat/",
+      "summary": "Rabies attacks the brain and nervous system and is nearly always fatal without treatment.",
+      "date": "Thu, 02 Apr 2026 23Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2021/09/hypatia-h_4ed32d3506d204b1bf057ff739291f77-h_34cae2596129ae7ffcc1963eabc53c1a.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-10T16:02:40Z"
+    },
+    {
+      "title": "See 15 Sensational Scenes of Switzerland, Europe's Alpine Wonderland That's Beautiful No Matter the Season",
+      "link": "https://www.smithsonianmag.com/travel/see-15-sensational-scenes-of-switzerland-europe-alpine-wonderland-beautiful-no-matter-season-180988518/",
+      "summary": "These dramatic images from the Smithsonian Magazine Photo Contest capture the splendor of the European nation home to castles, alpine huts, snow-capped mountains and much more",
+      "date": "2026-04-10T15:21:22Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/_B-mJF_qsmVgYn8JVOdmybDDPTQ=/420x240/filters:focal(752x501:753x502)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ce/7c/ce7c3bbc-029b-4773-8ce1-6e05529f5a29/0ed8824822d8cff1c682a37fff0e0ade6854be82.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-10T16:02:44Z"
+    },
+    {
+      "title": "Artemis II nears its finale",
+      "link": "https://www.sciencenews.org/article/artemis-ii-moon-finale",
+      "summary": "After looping around the moon, the Artemis II crew — and their capsule’s heat shield — are preparing for the mission’s final major test: coming home.",
+      "date": "2026-04-10T15:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/040926_LG_artemis_splashdown_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-04-10T16:02:45Z"
+    },
+    {
+      "title": "Alzheimer's-linked protein tau plays a role in cell division",
+      "link": "https://phys.org/news/2026-04-alzheimer-linked-protein-tau-plays.html",
+      "summary": "All processes such as wound healing, hair growth, and the replacement of old cells with new ones depend on cell division. During this process, chromosomes inside the cell must be e",
+      "date": "2026-04-10T16:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/alzheimers-linked-prot.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-10T16:02:48Z"
+    },
+    {
+      "title": "Tropical cyclone Narelle struck three major reef systems in one epic trek",
+      "link": "https://phys.org/news/2026-04-tropical-cyclone-narelle-struck-major.html",
+      "summary": "Coral reefs are important in many ways, but they also play a major role in protecting much of the world's coastlines from erosion by blocking up to 90% of incoming wave energy. Dur",
+      "date": "2026-04-10T15:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cyclone-narelles-unpre.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-10T16:02:48Z"
+    },
     {
       "title": "The Ultimate Impatiens Flowers Growing Guide",
       "link": "https://www.birdsandblooms.com/gardening/flower-gardening/impatiens-flowers/",
@@ -5436,72 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-04-03T10:53:10Z"
-    },
-    {
-      "title": "Multipurpose anti-viral pill may treat colds, norovirus, flu and covid",
-      "link": "https://www.newscientist.com/article/2521670-multipurpose-anti-viral-pill-may-treat-colds-norovirus-flu-and-covid/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "AI predicted that a forgotten breast cancer drug could be repurposed to treat many respiratory and gastrointestinal viruses, and subsequent animal tests suggests it may be right",
-      "date": "2026-04-03T09:00:52Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/02102053/SEI_291707914.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-03T10:53:10Z"
-    },
-    {
-      "title": "How a DIY worm farm can compost food scraps, paper or a whole kangaroo",
-      "link": "https://www.newscientist.com/article/2521536-how-a-diy-worm-farm-can-compost-food-scraps-paper-or-a-whole-kangaroo/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "For those who want a little help composting, take a cue from James Woodford’s experience raising worms – both the small colony of wrigglers he keeps in a sensible bin in his city g",
-      "date": "2026-04-03T09:00:12Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/30172024/SEI_291502695.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-03T10:53:10Z"
-    },
-    {
-      "title": "A new tweak to Einstein's relativity could transform our understanding of the Big Bang",
-      "link": "https://www.livescience.com/physics-mathematics/a-new-tweak-to-einsteins-relativity-could-transform-our-understanding-of-the-big-bang",
-      "summary": "A new physics paper proposes modifications to Einstein’s theory of relativity that could solve one of the biggest issues about our understanding of the Big Bang.",
-      "date": "2026-04-03T10:30:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Mf59AcAxnRm2tQEZfcAPSo-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-03T10:53:12Z"
-    },
-    {
-      "title": "Culture of care: surreal celebrations of Iranian tenderness – in pictures",
-      "link": "https://www.theguardian.com/culture/gallery/2026/apr/03/sheida-soleimani-ghostwriter-iran-art-photography-nyc-gallery",
-      "summary": "As the daughter of refugees, Iranian American artist Sheida Soleimani’s work reframes caring for bodies – both human and animal - as a political act. Her new exhibition, Forest of ",
-      "date": "2026-04-03T09:00:49Z",
-      "image": "https://i.guim.co.uk/img/media/963065f2d83c760e9d1e90872b4011329639b59e/95_0_2810_2248/master/2810.jpg?width=140&quality=85&auto=format&fit=max&s=dacd19882bbc92cf3af6e1316f8f3f17",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-03T09:04:33Z"
-    },
-    {
-      "title": "Star-hop from Orion to Sirius: See them before they go!",
-      "link": "https://earthsky.org/tonight/star-hop-orion-to-sirius-springtime/",
-      "summary": "Star-hopping is going from stars you know to stars you don't know. Star-hop from the constellation Orion to Sirius, sky's brightest star, before they're gone. The post Star-hop fro",
-      "date": "2026-04-03T09:00:00Z",
-      "image": "https://earthsky.org/upl/2021/04/starhop-orion-sirius-April-2022.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-03T09:04:35Z"
-    },
-    {
-      "title": "Easter is April 5 and Orthodox Easter is April 12",
-      "link": "https://earthsky.org/astronomy-essentials/easter-full-moon-vernal-equinox/",
-      "summary": "In 2026, Easter falls on April 5. It falls on the first Sunday after the first full moon after the March equinox. More about the date of Easter, here. The post Easter is April 5 an",
-      "date": "2026-04-03T08:00:39Z",
-      "image": "https://earthsky.org/upl/2024/03/Draper-UT-Mar-31-painted-Easter-eggs-Steve-Price-community-photos-800x519.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-03T09:04:35Z"
     }
   ]
 }
