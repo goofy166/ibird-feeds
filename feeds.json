@@ -1,8 +1,41 @@
 {
-  "updated": "2026-04-10T03:30:21Z",
-  "updated_utc": "2026-04-10T03:30:21Z",
+  "updated": "2026-04-10T06:04:05Z",
+  "updated_utc": "2026-04-10T06:04:05Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A rare sign of hope as mountain gorillas welcome two sets of twins in Africa",
+      "link": "https://www.theguardian.com/environment/2026/apr/09/a-rare-sign-of-hope-as-mountain-gorillas-welcome-two-sets-of-twins-in-central-africa",
+      "summary": "In this week’s newsletter: Once close to extinction, the species is rebounding due to years of conservation work • Don’t get Down to Earth delivered to your inbox? Sign up here I w",
+      "date": "2026-04-10T06:00:16Z",
+      "image": "https://i.guim.co.uk/img/media/67eeabf1b107c92fd7ab6cb4a5f61c9bd2f0694a/150_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=41abf453bbc1d027df98e652600cf62c",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-10T06:03:50Z"
+    },
+    {
+      "title": "Take down bird feeders this summer to cut spread of avian disease, says RSPB",
+      "link": "https://www.theguardian.com/environment/2026/apr/10/rspb-bird-feeders-nuts-seeds-summer-parasitic-avian-disease",
+      "summary": "Charity advises replacing seed and nut feeders, where birds gather, with small amounts of mealworms, fat balls or suet Garden birds should not be fed seeds and nuts over the summer",
+      "date": "2026-04-10T05:00:09Z",
+      "image": "https://i.guim.co.uk/img/media/fd1da1bd123b2a3bc6d620b19a3ebb60e06332f0/544_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=d1e7b553e030a7b3d500a0d22cef7c71",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-10T06:03:50Z"
+    },
+    {
+      "title": "Country diary: A sun-warmed day has the bees feeling hot | Claire Stares",
+      "link": "https://www.theguardian.com/environment/2026/apr/10/country-diary-a-sun-warmed-day-has-the-bees-feeling-hot",
+      "summary": "Langstone, Hampshire: Solitary bees, albeit hundreds of them, are hovering low to the ground, hoping to mate before nightfall One of the 68 UK-recorded species of mining bee in the",
+      "date": "2026-04-10T04:30:08Z",
+      "image": "https://i.guim.co.uk/img/media/06f75464841c7d2ede1a3cdf5cdb074ead96384a/0_653_2448_1958/master/2448.jpg?width=140&quality=85&auto=format&fit=max&s=5b282f92d12a40cbedddfd67bfb381a9",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-10T06:03:50Z"
+    },
     {
       "title": "AI-designed proteins built from scratch can recognize specific compounds",
       "link": "https://phys.org/news/2026-04-ai-proteins-built-specific-compounds.html",
@@ -5469,39 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-04-02T17:03:46Z"
-    },
-    {
-      "title": "Why collars are cool for cats and wildlife. | Letters",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/02/why-collars-are-cool-for-cats-and-wildlife",
-      "summary": "The case for cats wearing collars is compelling, and should be supported by veterinary organisations, writes Trevor Lawson While Sir David Attenborough’s latest series might enrage",
-      "date": "2026-04-02T15:52:27Z",
-      "image": "https://i.guim.co.uk/img/media/208d87d1f7d51d9f5d30dd03aeff8a8e0dc471d5/299_0_3003_2403/master/3003.jpg?width=140&quality=85&auto=format&fit=max&s=dad94fcf76f17aeea750a610e6ebe171",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-02T17:03:50Z"
-    },
-    {
-      "title": "Our Centuries-Long Quest for Immortality From Ancient Mesopotamia to Modern Biohacking",
-      "link": "https://www.outsideonline.com/health/wellness/human-longevity-history/",
-      "summary": "This fear, one so strong, has spawned a number of gurus and scientists who suggest that dying is optional, like a Harvard University geneticist who argues aging is a disease we can",
-      "date": "Thu, 02 Apr 2026 15Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/obsessed-longevity-1.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-02T17:03:56Z"
-    },
-    {
-      "title": "In a First, an Astronomer May Have Witnessed a Comet Stop Its Spin—Then Reverse Its Rotation",
-      "link": "https://www.smithsonianmag.com/smart-news/in-a-first-an-astronomer-may-have-witnessed-a-comet-stop-its-spin-then-reverse-its-rotation-180988469/",
-      "summary": "Archival images snapped by the Hubble Space Telescope revealed the unusual event",
-      "date": "Thu, 02 Apr 2026 16Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/q7TeRwot6bzTqs1lBkkzZxYd5tw=/420x240/filters:focal(1000x571:1001x572)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ee/86/ee86e94b-9669-4316-9150-80da328356b5/stsci-01kkh8zmjnedz0vg0tn1hs3vqq.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-02T17:03:58Z"
     }
   ]
 }
