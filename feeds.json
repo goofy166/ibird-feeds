@@ -1,8 +1,96 @@
 {
-  "updated": "2026-04-10T16:02:51Z",
-  "updated_utc": "2026-04-10T16:02:51Z",
+  "updated": "2026-04-10T17:53:03Z",
+  "updated_utc": "2026-04-10T17:53:03Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How Creatine Can Boost Your Cognitive Function in the Outdoors",
+      "link": "https://www.outsideonline.com/health/training-performance/creatine-cognitive-benefits/",
+      "summary": "Research suggests that creatine can provide a cognitive boost in extreme environments or during high-intensity activity. Here's what to know. The post How Creatine Can Boost Your C",
+      "date": "2026-04-10T17:51:21Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/creatine-backcountry.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-10T17:52:54Z"
+    },
+    {
+      "title": "After Nearly 80 Years of Doubt, Scientists Say a Spear Lodged Between Elephant Ribs Offers Evidence That Neanderthals Hunted Big Game",
+      "link": "https://www.smithsonianmag.com/smart-news/after-nearly-80-years-of-doubt-scientists-say-a-spear-lodged-between-elephant-ribs-offers-evidence-that-neanderthals-hunted-big-game-180988522/",
+      "summary": "In 1948, amateur archaeologists unearthed the remains, which should have shifted researchers' views of Neanderthals. But poor documentation sewed skepticism in the scientific commu",
+      "date": "2026-04-10T16:05:15Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/CO3cZEbAKijwvQHVmv8SKFI1sBc=/420x240/filters:focal(750x407:751x408)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7f/7a/7f7a0bfe-9c36-4a54-8177-d116b3330552/pic_f26dcc43bc20260326095725.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-10T17:52:56Z"
+    },
+    {
+      "title": "Unexpected predator: Jellyfish shown to hunt polychaete worms",
+      "link": "https://phys.org/news/2026-04-unexpected-predator-jellyfish-shown-polychaete.html",
+      "summary": "Most polychaete species spend their lives in burrows in the seabed. However, adult individuals of two species, Alitta succinea and Platynereis dumerilii, leave their burrows to spa",
+      "date": "2026-04-10T17:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unexpected-predator-je.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-10T17:52:59Z"
+    },
+    {
+      "title": "Rod-shaped synthetic swimmers reveal a 'sweet spot' for active turbulence",
+      "link": "https://phys.org/news/2026-04-rod-synthetic-swimmers-reveal-sweet.html",
+      "summary": "Inspired by the collective dynamics of bacteria like E. coli and Bacillus subtilis, researchers at the University of Twente asked a simple but fundamental question: what happens wh",
+      "date": "2026-04-10T17:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/synthetic-bacteria-fro.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-10T17:52:59Z"
+    },
+    {
+      "title": "Bacteria from bumblebees can produce vitamin B₂ in soya drinks",
+      "link": "https://phys.org/news/2026-04-bacteria-bumblebees-vitamin-soya.html",
+      "summary": "Researchers at DTU have developed a new method that can reduce the time needed to find new bacteria for fermentation. They have now identified a bacterium that can be used both for",
+      "date": "2026-04-10T16:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-bacterium-from-bumbl.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-10T17:52:59Z"
+    },
+    {
+      "title": "Climate change is outpacing evolution. Scientists are using DNA to catch up",
+      "link": "https://phys.org/news/2026-04-climate-outpacing-evolution-scientists-dna.html",
+      "summary": "Evolution works over millennia. Climate change is moving far faster. That mismatch is killing some of the planet's most vital ecosystems, from California's towering redwoods to the",
+      "date": "2026-04-10T16:07:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-change-is-outp-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-10T17:52:59Z"
+    },
+    {
+      "title": "There are 'reasons to be confident' about faulty Artemis II heat shield ahead of 25,000 mph reentry, space expert Ed Macaulay says",
+      "link": "https://www.livescience.com/space/space-exploration/there-are-reasons-to-be-confident-about-faulty-artemis-ii-heat-shield-ahead-of-25-000-mph-reentry-space-expert-ed-macauley-says",
+      "summary": "NASA's Artemis II heat shield is about to face its ultimate test as the Orion crew prepares for reentry. Physics and data science lecturer Ed Macaulay tells Live Science reasons to",
+      "date": "2026-04-10T16:42:54Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/UHPw3hSiKV3d6wa8K7sS8C-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-10T17:53:00Z"
+    },
+    {
+      "title": "The moon is green and brown? Why scientists are already excited about Artemis II's historic lunar photos",
+      "link": "https://www.livescience.com/space/the-moon/the-moon-is-green-and-brown-why-scientists-are-already-excited-about-artemis-iis-historic-lunar-photos",
+      "summary": "As Earth reels at the beauty of Artemis II's historic lunar flyby photos, geologists working on the mission are excited for big insights about the moon.",
+      "date": "2026-04-10T16:24:10Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/YV2xns9KPbtWyCEJQGAdsQ-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-10T17:53:00Z"
+    },
     {
       "title": "Flava of the month",
       "link": "https://www.10000birds.com/flava-of-the-month.htm?utm_source=rss&utm_medium=rss&utm_campaign=flava-of-the-month",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-04-03T11:43:36Z"
-    },
-    {
-      "title": "MoMA Plans a Retrospective for Marcel Duchamp, the Dada Artist Who Was Unimpressed With His Own Masterpieces",
-      "link": "https://www.smithsonianmag.com/arts-culture/moma-plans-retrospective-marcel-duchamp-dada-artist-who-unimpressed-masterpieces-180988407/",
-      "summary": "The French-American avant garde artist said painting and sculpture exhibitions made him sick. But the collection of 200 of his works may tell the story of art in the 20th century",
-      "date": "2026-04-03T11:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/UFVkHEYszuH20oZKIyY_dTjfxnI=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7c/9a/7c9a7d97-4e95-4290-943a-7c905918bc67/art-1.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-03T11:43:36Z"
-    },
-    {
-      "title": "IBM quantum processor achieves highest fidelity calculations for the longest period of time on record",
-      "link": "https://www.livescience.com/technology/quantum/ibm-quantum-processor-achieves-highest-fidelity-calculations-for-the-longest-period-of-time-on-record",
-      "summary": "Scientists have developed a novel approach to error correction that resulted in the highest-ever fidelity of entangled, logical qubits on a superconducting quantum processor.",
-      "date": "2026-04-03T11:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/bV9aDvTM6a6xTtBdjyx2oa-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-03T11:43:41Z"
-    },
-    {
-      "title": "The 10 best running shoe deals, as chosen by an experienced runner",
-      "link": "https://www.livescience.com/products/health-fitness/the-10-best-running-shoe-deals-as-chosen-by-an-experienced-runner",
-      "summary": "Save big on a wide variety of great running shoes, from New Balance to Columbia and Saucony",
-      "date": "2026-04-03T11:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/zsdCvwnqP3AbMqCiTeLkK6-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-03T11:43:41Z"
-    },
-    {
-      "title": "Rare 'sungrazer' comet MAPS will shine superbright on Saturday ‪—‬ if it survives a dangerous encounter with our star",
-      "link": "https://www.livescience.com/space/comets/rare-sungrazer-comet-maps-will-appear-brighter-than-ever-on-saturday-if-it-survives-a-dangerous-encounter-with-our-star",
-      "summary": "Comet C/2026 A1 (MAPS) could shine brightly in the evenings after April 4, but only if it survives a very close encounter with the sun.",
-      "date": "2026-04-03T11:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/AGcem5z85jQ69uvqudffY5-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-03T11:43:41Z"
-    },
-    {
-      "title": "Why do tinamou birds lay such colorful eggs?",
-      "link": "https://earthsky.org/earth/tinamou-birds-colorful-eggs-evolution/",
-      "summary": "Scientists said tinamou birds evolved to lay bright egg colors to help closely related species recognize each other and avoid breeding with the wrong species. The post Why do tinam",
-      "date": "2026-04-03T10:21:00Z",
-      "image": "https://earthsky.org/upl/2026/04/tinamou-bird-scott-flickr-800px.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-03T10:53:01Z"
-    },
-    {
-      "title": "These 3 Workouts Take Walking to the Next Level",
-      "link": "https://www.outsideonline.com/health/training-performance/walking-workouts/",
-      "summary": "Spring is the perfect time to get in some outdoor cardio. A personal trainer shares three 30-minute walking workouts to try. The post These 3 Workouts Take Walking to the Next Leve",
-      "date": "2026-04-03T09:39:56Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/walking-workouts.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-03T10:53:06Z"
-    },
-    {
-      "title": "I Spent 25 Years Producing Survival Shows. Here’s What I Actually Pack to Stay Alive.",
-      "link": "https://www.outsideonline.com/outdoor-gear/tools/jungle-survival-tips-gear-guide/",
-      "summary": "From 'Naked and Afraid' to 'Dual Survival,' veteran TV producer Rachel Maguire has seen it all. These are the surprisingly simple items she relies on in the world’s most dangerous ",
-      "date": "2026-04-03T09:24:55Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/jungle.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-03T10:53:06Z"
-    },
-    {
-      "title": "New Scientist recommends the engaging Native Nations by Kathleen DuVal",
-      "link": "https://www.newscientist.com/article/2521378-new-scientist-recommends-the-engaging-native-nations-by-kathleen-duval/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "The books, TV, games and more that New Scientist staff have enjoyed this week",
-      "date": "2026-04-01T18:00:11Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/30141006/SEI_290757438.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-03T10:53:10Z"
     }
   ]
 }
