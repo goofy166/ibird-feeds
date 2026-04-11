@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-11T15:40:40Z",
-  "updated_utc": "2026-04-11T15:40:40Z",
+  "updated": "2026-04-11T16:48:54Z",
+  "updated_utc": "2026-04-11T16:48:54Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Irish bog plant revives ancient remedy as a new weapon vs superbugs",
+      "link": "https://phys.org/news/2026-04-irish-bog-revives-ancient-remedy.html",
+      "summary": "Long before we had modern antibiotics to rely on, people often turned to traditional medicines from plants to treat infections.",
+      "date": "2026-04-11T16:30:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tormentil.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-11T16:48:50Z"
+    },
     {
       "title": "Microbial hockey: Scientists discover how bacteria rotate tiny pucks",
       "link": "https://phys.org/news/2026-04-microbial-hockey-scientists-bacteria-rotate.html",
@@ -5491,17 +5502,6 @@
       "category": "butterflies",
       "color": 13,
       "fetched_at": "2026-04-03T18:58:55Z"
-    },
-    {
-      "title": "‘Human intervention’ believed responsible as dozen leopard sharks are found dead on California beach trail",
-      "link": "https://www.mercurynews.com/2026/04/03/human-intervention-believed-responsible-as-dozen-leopard-sharks-are-found-dead-on-la-jolla-beach-trail/",
-      "summary": "The young sharks were lined up along the trail far from the shoreline, some covered in sand and others laid out on rocks",
-      "date": "2026-04-03T17:20:45Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SUT-L-LJ_drone-005.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-04-03T17:41:41Z"
     }
   ]
 }
