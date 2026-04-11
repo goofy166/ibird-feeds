@@ -1,8 +1,63 @@
 {
-  "updated": "2026-04-10T23:44:45Z",
-  "updated_utc": "2026-04-10T23:44:45Z",
+  "updated": "2026-04-11T02:53:54Z",
+  "updated_utc": "2026-04-11T02:53:54Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Artemis 2 Astronauts Successfully Return to Earth After Completing a Historic Mission Around the Moon",
+      "link": "https://www.smithsonianmag.com/smart-news/artemis-2-astronauts-successfully-return-to-earth-after-completing-a-historic-mission-around-the-moon-180988513/",
+      "summary": "The crewmembers splashed down Friday after breaking a space-faring record and viewing lunar features never seen by human eyes during their ten-day trip. It marks the first time any",
+      "date": "2026-04-11T00:07:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/5GtTPqhWenRoEMfTrBTZeiqtKoA=/420x240/filters:focal(1728x1119:1729x1120)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e3/c4/e3c4dc29-4225-43f0-8dba-934867e3d0e6/screenshot_2026-04-10_at_80802pm.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-11T02:53:46Z"
+    },
+    {
+      "title": "Tweaking the smell of cat food can encourage fussy felines to eat",
+      "link": "https://www.newscientist.com/article/2522781-tweaking-the-smell-of-cat-food-can-encourage-fussy-felines-to-eat/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Some cats will suddenly refuse to touch brands of cat food that they have eaten for years. Changing the way the food smells might solve the problem",
+      "date": "2026-04-10T20:00:04Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/10180714/SEI_292651331.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-11T02:53:49Z"
+    },
+    {
+      "title": "AI and drones can select the most resilient wheat",
+      "link": "https://phys.org/news/2026-04-ai-drones-resilient-wheat.html",
+      "summary": "Making wheat more resilient to climate change without compromising yields has become an urgent priority for the agricultural sector. Now, a study led by a research team from the Un",
+      "date": "2026-04-11T01:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/artificial-intelligenc-15.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-11T02:53:50Z"
+    },
+    {
+      "title": "New research shows habitat restoration projects have paid off for Forest Park in St. Louis",
+      "link": "https://phys.org/news/2026-04-habitat-paid-forest-st-louis.html",
+      "summary": "Over the past few decades, a collaboration of St. Louis regional groups have partnered to be good stewards of Forest Park, one of the largest urban parks and wildlife areas in the ",
+      "date": "2026-04-11T00:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/heron.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-11T02:53:50Z"
+    },
+    {
+      "title": "'I'm at a loss for words': Artemis II mission comes home to joy and cheers after historic 10-day mission",
+      "link": "https://www.livescience.com/space/space-exploration/im-at-a-loss-for-words-artemis-ii-mission-comes-home-to-joy-and-cheers-after-historic-10-day-mission",
+      "summary": "NASA's 10-day moon mission has officially ended with a \"bullseye landing\"",
+      "date": "2026-04-11T02:26:39Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/q2JBKDaw2sb6YdQXW3b673-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-11T02:53:52Z"
+    },
     {
       "title": "Nicotine's last biosynthesis steps mapped in wild tobacco, ending a long mystery",
       "link": "https://phys.org/news/2026-04-nicotine-biosynthesis-wild-tobacco-mystery.html",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-04-03T16:52:51Z"
-    },
-    {
-      "title": "Top 10 Hosta Varieties to Grow in Your Shade Garden",
-      "link": "https://www.birdsandblooms.com/gardening/shade-gardening/hosta-varieties/",
-      "summary": "Add big-foliage energy to your shady corners with colorful, easy-growing hosta varieties for garden beds and container plantings. The post Top 10 Hosta Varieties to Grow in Your Sh",
-      "date": "Thu, 26 Mar 2026 20Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/GettyImages-1347671838-e1774554519125.jpg?fit=700,703",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-04-03T15:47:08Z"
-    },
-    {
-      "title": "Marion Nixon obituary",
-      "link": "https://www.theguardian.com/environment/2026/apr/03/marion-nixon-obituary",
-      "summary": "My friend Marion Nixon, who has died aged 95, was well known to generations of research scientists for her ingenious work in clarifying much of what we know about octopuses, includ",
-      "date": "2026-04-03T15:29:36Z",
-      "image": "https://i.guim.co.uk/img/media/7484905ff757e269f5182ab7a4dd4c841f979cb7/633_250_4363_3491/master/4363.jpg?width=140&quality=85&auto=format&fit=max&s=073c43cd62d2949262e7b79d05a40a33",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-03T15:47:12Z"
-    },
-    {
-      "title": "Supreme Court ruling on ‘conversion therapy’ puts medical talk in the hot seat",
-      "link": "https://www.sciencenews.org/article/conversion-therapy-supreme-court-lgbtq",
-      "summary": "In Chiles v. Salazar , the court ruled that a therapist has First Amendment protections. That could impact how talk therapy is regulated.",
-      "date": "2026-04-03T15:03:56Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/040226_AC_conversion_main-1.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-03T15:47:21Z"
-    },
-    {
-      "title": "We may have seen a 'dirty fireball' star explosion for the first time",
-      "link": "https://www.newscientist.com/article/2522015-we-may-have-seen-a-dirty-fireball-star-explosion-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "An incredibly powerful flash of X-rays spotted by the Einstein Probe telescope appears to be a kind of explosion first theorised more than 30 years ago",
-      "date": "2026-04-03T14:00:47Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/02144417/SEI_291818531.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-03T15:47:22Z"
-    },
-    {
-      "title": "How worried should you be about an AI apocalypse?",
-      "link": "https://www.newscientist.com/article/2522019-how-worried-should-you-be-about-an-ai-apocalypse/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Fears that artificial intelligence could rise up to wipe out humanity are understandable given our steady diet of sci-fi stories depicting just that, but what is the real risk? Mat",
-      "date": "2026-04-03T12:00:55Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/02125325/SEI_291810409.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-03T15:47:22Z"
     }
   ]
 }
