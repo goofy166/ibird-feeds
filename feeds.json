@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-11T17:39:52Z",
-  "updated_utc": "2026-04-11T17:39:52Z",
+  "updated": "2026-04-11T18:58:06Z",
+  "updated_utc": "2026-04-11T18:58:06Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Oldest dog DNA suggests 16,000 years of human companionship",
+      "link": "https://phys.org/news/2026-03-oldest-dog-dna-years-human.html",
+      "summary": "The discovery of the oldest ever dog DNA suggests they have been our best friends for nearly 16,000 years—5,000 years earlier than had previously been thought, new research said We",
+      "date": "2026-04-11T18:10:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-earliest-dogs-in-e-3.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-11T18:58:03Z"
+    },
     {
       "title": "‘Human intervention’ believed responsible as dozen leopard sharks are found dead on California beach trail",
       "link": "https://www.mercurynews.com/2026/04/03/human-intervention-believed-responsible-as-dozen-leopard-sharks-are-found-dead-on-la-jolla-beach-trail/",
@@ -5487,17 +5498,6 @@
       "summary": "The new \"Goddess\" escalator in Wushan County features 21 individual escalators and 8 elevators. The modular design carries riders up 800 feet in elevation",
       "date": "2026-04-03T18:28:33Z",
       "image": "https://th-thumbnailer.cdn-si-edu.com/2bTjYa6Hcr5NywHxicil1WkMjUQ=/420x240/filters:focal(2432x1644:2433x1645)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/72/7b/727bef6f-59bd-44dc-a2e6-b1dcd8b15d16/gettyimages-2261701300.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-03T18:58:51Z"
-    },
-    {
-      "title": "Meet Domino, a Tiny, Bumpy Fish Making a Splash in Chicago",
-      "link": "https://www.smithsonianmag.com/smart-news/meet-domino-a-tiny-bumpy-fish-making-a-splash-in-chicago-180988482/",
-      "summary": "The warty frogfish, also known as a clown anglerfish, is believed to be the first of its kind born and raised in captivity",
-      "date": "2026-04-03T17:48:37Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/2YB10LAw99zN9cEqKN6e5aNPMsI=/420x240/filters:focal(1316x877:1317x878)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/39/f2/39f2e882-14d6-42ad-be11-39ea1cc2b84c/165a9147_hpr_1.jpg",
       "name": "Smithsonian",
       "category": "insects",
       "color": 10,
