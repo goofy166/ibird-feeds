@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-11T18:58:06Z",
-  "updated_utc": "2026-04-11T18:58:06Z",
+  "updated": "2026-04-11T19:42:49Z",
+  "updated_utc": "2026-04-11T19:42:49Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Hackers meet their match: New DNA encryption protects engineered cells from within",
+      "link": "https://phys.org/news/2026-04-hackers-dna-encryption-cells.html",
+      "summary": "Engineered cells are a high-value genetic asset that is key to many fields, including biotechnology, medicine, aging, and stem cell research, with the global market projected to re",
+      "date": "2026-04-11T19:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hackers-meet-their-mat.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-11T19:42:45Z"
+    },
     {
       "title": "Oldest dog DNA suggests 16,000 years of human companionship",
       "link": "https://phys.org/news/2026-03-oldest-dog-dna-years-human.html",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-04-03T18:58:48Z"
-    },
-    {
-      "title": "The World's Longest Outdoor Escalator Just Opened in China. Riding the 3,000-Foot-Long System to the Top Takes More Than 20 Minutes",
-      "link": "https://www.smithsonianmag.com/smart-news/the-worlds-longest-outdoor-escalator-just-opened-in-china-riding-the-3000-foot-long-system-to-the-top-takes-more-than-20-minutes-180988468/",
-      "summary": "The new \"Goddess\" escalator in Wushan County features 21 individual escalators and 8 elevators. The modular design carries riders up 800 feet in elevation",
-      "date": "2026-04-03T18:28:33Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/2bTjYa6Hcr5NywHxicil1WkMjUQ=/420x240/filters:focal(2432x1644:2433x1645)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/72/7b/727bef6f-59bd-44dc-a2e6-b1dcd8b15d16/gettyimages-2261701300.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-03T18:58:51Z"
     }
   ]
 }
