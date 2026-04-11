@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-11T22:40:56Z",
-  "updated_utc": "2026-04-11T22:40:56Z",
+  "updated": "2026-04-11T23:43:21Z",
+  "updated_utc": "2026-04-11T23:43:21Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Golden eagles could be reintroduced to England after more than 150 years",
+      "link": "https://www.theguardian.com/environment/2026/apr/12/golden-eagles-reintroduced-england-150-years",
+      "summary": "Study identified eight areas that can sustain a population and government has given £1m for recovery programme “The world is grown so bad that wrens make prey where eagles dare not",
+      "date": "2026-04-11T23:01:00Z",
+      "image": "https://i.guim.co.uk/img/media/af643708107ea821c70eb82bf432ea38fa3185ea/565_324_3542_2833/master/3542.jpg?width=140&quality=85&auto=format&fit=max&s=e9a69c97677f90503e6cb4147094ec0f",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-11T23:43:06Z"
+    },
+    {
+      "title": "Inquiry-based biomimicry course inspires students to design solutions by learning from nature",
+      "link": "https://phys.org/news/2026-04-inquiry-based-biomimicry-students-solutions.html",
+      "summary": "Research and innovation in Texas A&M University's biomedical engineering department often centers around clinical impact on patients. Beyond the lab, however, some faculty are find",
+      "date": "2026-04-11T23:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/engineering-the-future.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-11T23:43:17Z"
+    },
     {
       "title": "Hackers meet their match: New DNA encryption protects engineered cells from within",
       "link": "https://phys.org/news/2026-04-hackers-dna-encryption-cells.html",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-04-03T19:48:46Z"
-    },
-    {
-      "title": "Tiny African fish caught climbing to the top of a 50-foot waterfall",
-      "link": "https://phys.org/news/2026-04-tiny-african-fish-caught-climbing.html",
-      "summary": "For over half a century, people in Central Africa have told tales of the fish seen climbing waterfalls, but these claims have never been officially confirmed. Now, these fish have ",
-      "date": "2026-04-03T19:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-african-fish-caug-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-03T19:48:50Z"
-    },
-    {
-      "title": "Coyote killed after string of attacks in California neighborhood",
-      "link": "https://www.mercurynews.com/2026/04/03/coyote-killed-los-angeles-county-attacks/",
-      "summary": "The three most recent attacks, in Carson and adjacent Gardena, injured an adult and two children.",
-      "date": "2026-04-03T18:20:18Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2025/12/sut-l-cowan-col-0119-01.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-04-03T18:58:48Z"
     }
   ]
 }
