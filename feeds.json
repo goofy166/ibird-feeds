@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-11T11:37:53Z",
-  "updated_utc": "2026-04-11T11:37:53Z",
+  "updated": "2026-04-11T13:15:45Z",
+  "updated_utc": "2026-04-11T13:15:45Z",
   "count": 500,
   "stories": [
+    {
+      "title": "AI for breakup texts? How 'sycophantic' chatbots are messing with our ability to handle difficult social situations.",
+      "link": "https://www.livescience.com/technology/artificial-intelligence/ai-for-breakup-texts-how-sycophantic-chatbots-are-messing-with-our-ability-to-handle-difficult-social-situations",
+      "summary": "Overly agreeable AI responses to interpersonal issues could mess with human moral perspectives.",
+      "date": "2026-04-11T12:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ervjwVvHc8ebu6CRzXBfBa-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-11T13:15:42Z"
+    },
     {
       "title": "When The Levee Breaks",
       "link": "https://www.10000birds.com/when-the-levee-breaks.htm?utm_source=rss&utm_medium=rss&utm_campaign=when-the-levee-breaks",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-04-03T17:41:44Z"
-    },
-    {
-      "title": "When our minds wander to the body, it may affect mental health",
-      "link": "https://www.sciencenews.org/article/mind-wander-body-mental-health",
-      "summary": "People’s minds sometimes wander to their bodily sensations, which may reduce symptoms of depression and ADHD, a new study suggests.",
-      "date": "2026-04-03T17:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/032726_DK_bodywandering_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-03T17:41:45Z"
     }
   ]
 }
