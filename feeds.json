@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-11T02:53:54Z",
-  "updated_utc": "2026-04-11T02:53:54Z",
+  "updated": "2026-04-11T05:02:00Z",
+  "updated_utc": "2026-04-11T05:02:00Z",
   "count": 500,
   "stories": [
+    {
+      "title": "NASA’s Artemis II mission was a historic success",
+      "link": "https://www.newscientist.com/article/2522636-nasas-artemis-ii-mission-was-a-historic-success/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The astronauts of the Artemis II mission around the moon have made it home safely to Earth, marking the end of a triumphant mission and the beginning of a longer road to stay on th",
+      "date": "2026-04-11T01:20:21Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/11011831/integritysplashdown3.png",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-11T05:01:55Z"
+    },
     {
       "title": "Artemis 2 Astronauts Successfully Return to Earth After Completing a Historic Mission Around the Moon",
       "link": "https://www.smithsonianmag.com/smart-news/artemis-2-astronauts-successfully-return-to-earth-after-completing-a-historic-mission-around-the-moon-180988513/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-03T16:52:50Z"
-    },
-    {
-      "title": "'Trust us; you look amazing': Artemis II crewmembers share first message from space",
-      "link": "https://www.livescience.com/space/space-exploration/trust-us-you-look-amazing-artemis-ii-crewmembers-share-first-message-from-space",
-      "summary": "As Artemis II begins humanity's first return to the moon in over 50 years, the four astronauts aboard the Orion spacecraft shared their first message from deep space.",
-      "date": "2026-04-03T16:27:15Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Fz9N5gqjRTZ7Ae9Z9wVESd-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-03T16:52:51Z"
     }
   ]
 }
