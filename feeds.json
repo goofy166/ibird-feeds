@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-11T16:48:54Z",
-  "updated_utc": "2026-04-11T16:48:54Z",
+  "updated": "2026-04-11T17:39:52Z",
+  "updated_utc": "2026-04-11T17:39:52Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘Human intervention’ believed responsible as dozen leopard sharks are found dead on California beach trail",
+      "link": "https://www.mercurynews.com/2026/04/03/human-intervention-believed-responsible-as-dozen-leopard-sharks-are-found-dead-on-la-jolla-beach-trail/",
+      "summary": "The young sharks were lined up along the trail far from the shoreline, some covered in sand and others laid out on rocks",
+      "date": "2026-04-03T17:20:45Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SUT-L-LJ_drone-005.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-11T17:39:41Z"
+    },
     {
       "title": "Irish bog plant revives ancient remedy as a new weapon vs superbugs",
       "link": "https://phys.org/news/2026-04-irish-bog-revives-ancient-remedy.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-04-03T18:58:51Z"
-    },
-    {
-      "title": "Exposing secret night operations between hawkmoths and Japan's black-nectar flowers",
-      "link": "https://phys.org/news/2026-04-exposing-secret-night-hawkmoths-japan.html",
-      "summary": "Researchers Soma Chiyoda, Ko Mochizuki, and Atsushi Kawakita from the University of Tokyo have discovered that nocturnal hawkmoths are the main pollinators of Jasminanthes mucronat",
-      "date": "2026-04-03T18:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/secret-night-operation.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-04-03T18:58:55Z"
     }
   ]
 }
