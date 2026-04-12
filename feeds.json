@@ -1,8 +1,41 @@
 {
-  "updated": "2026-04-12T11:40:08Z",
-  "updated_utc": "2026-04-12T11:40:08Z",
+  "updated": "2026-04-12T13:18:19Z",
+  "updated_utc": "2026-04-12T13:18:19Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A messy garden is a glorious garden. We need to stop tidying, titivating and paving them over | Emma Beddington",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/12/a-messy-garden-is-a-glorious-garden-stop-paving-over",
+      "summary": "I’ve just watched another of my neighbours rip up everything green and growing around their home. It’s enough to make David Attenborough weep It’s noisy outside. I forget over wint",
+      "date": "2026-04-12T13:00:18Z",
+      "image": "https://i.guim.co.uk/img/media/3c84b606cf9b0483ab1ffe9fd90db38319fe2666/1744_483_3966_3172/master/3966.jpg?width=140&quality=85&auto=format&fit=max&s=acfe031ddc2e34f2e2f62fb45f590c8b",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-12T13:18:04Z"
+    },
+    {
+      "title": "New study targets cost hurdles in forest restoration",
+      "link": "https://phys.org/news/2026-04-hurdles-forest.html",
+      "summary": "As the West faces increasingly destructive wildfires, land managers rely on mechanical thinning to reduce hazardous fuels and restore forest health. But one obstacle continues to s",
+      "date": "2026-04-12T12:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-targets-cost.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-12T13:18:15Z"
+    },
+    {
+      "title": "Ancient Egyptian stone monument depicting a Roman emperor as a pharaoh discovered in Luxor",
+      "link": "https://www.livescience.com/archaeology/ancient-egyptians/ancient-egyptian-stone-monument-depicting-a-roman-emperor-as-a-pharaoh-discovered-in-luxor",
+      "summary": "A stone slab depicting the Roman emperor Tiberius was found during restoration work at the Karnak temple complex in Luxor.",
+      "date": "2026-04-12T13:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/bYWLMHJZBhWSo2jAUioVVg-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-12T13:18:17Z"
+    },
     {
       "title": "10 Birds Highly Appreciated By Expert Birders",
       "link": "https://www.10000birds.com/10-birds-highly-appreciated-by-expert-birders.htm?utm_source=rss&utm_medium=rss&utm_campaign=10-birds-highly-appreciated-by-expert-birders",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-04-04T10:42:32Z"
-    },
-    {
-      "title": "Michael Pollan: 'Consciousness is really under siege'",
-      "link": "https://www.newscientist.com/article/2521412-michael-pollan-consciousness-is-really-under-siege/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A psychedelic experience set author Michael Pollan on a quest to understand consciousness in his new book A World Appears. He tells Olivia Goldhill what he learned – and how it cha",
-      "date": "2026-04-01T18:00:12Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/30145646/SEI_290757209.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-04T10:42:32Z"
-    },
-    {
-      "title": "Dark Sky Running Is a Growing Movement to See the Stars",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/dark-sky-running-us/",
-      "summary": "Running in the pitch-black is a sensory-rich experience where the sound of the wind and the glow of the cosmos replace the distractions of the daytime, RUN's travel columnist expla",
-      "date": "2026-04-04T09:30:30Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/GettyImages-1039444396-2.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-04T09:49:12Z"
-    },
-    {
-      "title": "Are allergies genetic?",
-      "link": "https://www.livescience.com/health/genetics/are-allergies-genetic",
-      "summary": "Although babies born from parents with allergies are also more likely to have them, there are a number of outside factors that affect whether and how someone develops allergies.",
-      "date": "2026-04-04T09:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/vjwdUgMLKEHqU9kfjUqJtK-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-04T09:49:19Z"
     }
   ]
 }
