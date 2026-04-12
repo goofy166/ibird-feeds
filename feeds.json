@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-12T09:56:15Z",
-  "updated_utc": "2026-04-12T09:56:15Z",
+  "updated": "2026-04-12T10:51:33Z",
+  "updated_utc": "2026-04-12T10:51:33Z",
   "count": 500,
   "stories": [
+    {
+      "title": "'Human minds shouldn't have to go through' this: Artemis II crew recalls unreal moment when Earth disappeared — Space photo of the week",
+      "link": "https://www.livescience.com/space/human-minds-shouldnt-have-to-go-through-this-artemis-ii-crew-recalls-unreal-moment-when-earth-disappeared-space-photo-of-the-week",
+      "summary": "A stunning Earthset image from Artemis II recalls Apollo 8's Earthrise, marking humanity's return to deep space and the start of a new era of exploration.",
+      "date": "2026-04-12T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/95DQWuHqSXz4iWkXFxXBeT-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-12T10:51:31Z"
+    },
     {
       "title": "Does the moon look the same from everywhere on Earth?",
       "link": "https://www.livescience.com/space/the-moon/does-the-moon-look-the-same-from-everywhere-on-earth",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-04-03T20:47:07Z"
-    },
-    {
-      "title": "What the Heck Is Going On with the Mount Everest Poisoning Scandal?",
-      "link": "https://www.outsideonline.com/outdoor-adventure/everest/mount-everest-poisoning-explainer/",
-      "summary": "You may have read a crazy headline or two about allegations of insurance fraud, false helicopter rescues, and (gasp) poisoning on Mount Everest. Our articles editor provides a hand",
-      "date": "2026-04-03T19:26:22Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/Everest111.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-03T19:48:45Z"
     }
   ]
 }
