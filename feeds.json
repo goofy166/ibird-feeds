@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-12T17:42:26Z",
-  "updated_utc": "2026-04-12T17:42:26Z",
+  "updated": "2026-04-12T19:01:34Z",
+  "updated_utc": "2026-04-12T19:01:34Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A Bike Crash Left Me with a Severe Injury While I Was Alone in the Backcountry. Here’s What It Was Like.",
+      "link": "https://www.outsideonline.com/health/training-performance/bike-crash-injury-iphone-sos/",
+      "summary": "While riding my bike in the mountains and took a nasty fall. My leg sliced open, and I thought I was going to bleed out. I used iPhone SOS for help. The post A Bike Crash Left Me w",
+      "date": "2026-04-12T18:07:09Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/what-its-like-arterial-gash.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-12T19:01:25Z"
+    },
+    {
+      "title": "Extinct ice age giants in Bender's Cave challenge existing climate records for the Edwards Plateau",
+      "link": "https://phys.org/news/2026-04-extinct-ice-age-giants-bender.html",
+      "summary": "A recent study by Dr. John Moretti of the University of Texas and local caver John Young uncovered the remains of Ice Age megafauna, revealing an entirely new ecosystem that once t",
+      "date": "2026-04-12T18:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fossil-of-extinct-ice.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-12T19:01:30Z"
+    },
     {
       "title": "Universe’s expansion rate: ‘Something doesn’t add up’",
       "link": "https://earthsky.org/space/local-universes-expansion-rate-clear-but-questions/",
@@ -5480,28 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-04-04T11:36:08Z"
-    },
-    {
-      "title": "Very Special Birds",
-      "link": "https://www.10000birds.com/very-special-birds-2.htm?utm_source=rss&utm_medium=rss&utm_campaign=very-special-birds-2",
-      "summary": "This post is republished in our “From the Archives” series, featuring highlights of our vast back catalogue of more than 10,000 birding-related posts published over the last 15 yea",
-      "date": "2026-04-04T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/Chestnut-sided-Shrike-Vireo-2-el-Temascal-February-2021.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-04-04T11:36:08Z"
-    },
-    {
-      "title": "Orcas never seen before in Seattle delight whale watchers with a visit",
-      "link": "https://phys.org/news/2026-04-orcas-seattle-whale-watchers.html",
-      "summary": "When tourists travel to Seattle, it's common to take in the Space Needle and the downtown skyline from Puget Sound.",
-      "date": "2026-04-04T10:56:59Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/orcas-never-seen-befor.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-04T11:36:24Z"
     }
   ]
 }
