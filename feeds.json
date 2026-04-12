@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-11T23:43:21Z",
-  "updated_utc": "2026-04-11T23:43:21Z",
+  "updated": "2026-04-12T03:34:21Z",
+  "updated_utc": "2026-04-12T03:34:21Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Coyote killed after string of attacks in California neighborhood",
+      "link": "https://www.mercurynews.com/2026/04/03/coyote-killed-los-angeles-county-attacks/",
+      "summary": "The three most recent attacks, in Carson and adjacent Gardena, injured an adult and two children.",
+      "date": "2026-04-03T18:20:18Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2025/12/sut-l-cowan-col-0119-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-12T03:34:11Z"
+    },
     {
       "title": "Golden eagles could be reintroduced to England after more than 150 years",
       "link": "https://www.theguardian.com/environment/2026/apr/12/golden-eagles-reintroduced-england-150-years",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-04-03T19:48:45Z"
-    },
-    {
-      "title": "Despite Their Tiny Brains, Bumblebees Have a Surprising Sense of Rhythm, According to a New Study by Neuroscientists",
-      "link": "https://www.smithsonianmag.com/smart-news/bumble-bees-have-a-surprising-sense-of-rhythm-despite-their-tiny-brains-180988481/",
-      "summary": "By speeding up the tempo of alternating flashing lights, the scientists were able to demonstrate yet another example of the small insect's remarkable mind",
-      "date": "2026-04-03T19:10:23Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/-JmbVPO0BqjS9s3XCRr9tKQALlw=/420x240/filters:focal(400x310:401x311)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/63/62/63623770-2418-4dae-a0f7-c9713b343cc3/32539693186_7e27b3b732_c.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-03T19:48:46Z"
     }
   ]
 }
