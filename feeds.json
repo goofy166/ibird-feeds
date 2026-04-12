@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-12T19:01:34Z",
-  "updated_utc": "2026-04-12T19:01:34Z",
+  "updated": "2026-04-12T20:47:11Z",
+  "updated_utc": "2026-04-12T20:47:11Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Embryo fossil found in South Africa is world's oldest proof that mammal ancestors laid eggs",
+      "link": "https://phys.org/news/2026-04-embryo-fossil-south-africa-world.html",
+      "summary": "Between 280 and 200 million years ago, a group of animals evolved which would eventually give rise to mammals, including humans: the therapsids. They were first described more than",
+      "date": "2026-04-12T19:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/embryo-fossil-found-in.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-12T20:47:07Z"
+    },
     {
       "title": "A Bike Crash Left Me with a Severe Injury While I Was Alone in the Backcountry. Here’s What It Was Like.",
       "link": "https://www.outsideonline.com/health/training-performance/bike-crash-injury-iphone-sos/",
@@ -5487,17 +5498,6 @@
       "summary": "By Adam Cruickshank Adam Cruickshank is a team member at Birding Ecotours and the host of The Birding Life Podcast. He is based in South Africa and spends much of his time explorin",
       "date": "2026-04-04T11:00:00Z",
       "image": "https://www.10000birds.com/wp-content/uploads/2026/02/1-6.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-04-04T11:36:08Z"
-    },
-    {
-      "title": "Mostly Magpies: Winter Birding in the Bavarian Alps",
-      "link": "https://www.10000birds.com/mostly-magpies-incidental-winter-birding-in-the-bavarian-alps.htm?utm_source=rss&utm_medium=rss&utm_campaign=mostly-magpies-incidental-winter-birding-in-the-bavarian-alps",
-      "summary": "A few weeks ago, I went on a hike with my brother and girlfriend in the Alps near Bayrischzell, in southern Bavaria. Being out in the sun and breathing in the clear winter air was ",
-      "date": "2026-04-04T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/03/DSC_5618.jpg",
       "name": "10,000 Birds",
       "category": "birds",
       "color": 1,
