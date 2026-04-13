@@ -1,8 +1,96 @@
 {
-  "updated": "2026-04-13T11:23:24Z",
-  "updated_utc": "2026-04-13T11:23:24Z",
+  "updated": "2026-04-13T14:00:11Z",
+  "updated_utc": "2026-04-13T14:00:11Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Did you know hummingbirds love to eat insects?",
+      "link": "https://www.mercurynews.com/2026/04/13/outdoors/",
+      "summary": "Blooming flowers provide natural nectar sources, but hummingbirds primarily eat bugs, including an assortment of gnats, mosquitoes, crane flies, midges and spiders.",
+      "date": "2026-04-13T12:45:51Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SUT-L-COWAN-COL-0412-03.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-13T14:00:01Z"
+    },
+    {
+      "title": "In 1776, the Declaration of Independence Was Breaking News. Here's How the Founding Document Reached the American Public",
+      "link": "https://www.smithsonianmag.com/history/in-1776-the-declaration-of-independence-was-breaking-news-heres-how-the-founding-document-reached-the-american-public-180988494/",
+      "summary": "A new book by historian Emily Sneff records the journeys of the Declaration's first printed copies, tracking their reception in the Thirteen Colonies and overseas",
+      "date": "2026-04-13T11:45:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/aIka-p2Co8Re2v16djXNADQJ0SQ=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9b/81/9b816acb-0313-4d21-b305-371c9cdf32a3/trumbull.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-13T14:00:04Z"
+    },
+    {
+      "title": "Where Does This Anti-War Masterpiece Belong? In Spain, a Request to Borrow Picasso’s ‘Guernica’ Sparks a Bitter Debate",
+      "link": "https://www.smithsonianmag.com/smart-news/where-does-this-anti-war-masterpiece-belong-in-spain-a-request-to-borrow-picassos-guernica-sparks-a-bitter-debate-180988533/",
+      "summary": "The artwork depicts the bombing of a Basque village in 1937. Now, the relocation debate is raising questions about how to balance the painting’s cultural significance with conserva",
+      "date": "2026-04-13T11:30:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/H7VBrk9FUg8f7usJX0wOaga49Kk=/420x240/filters:focal(2790x1873:2791x1874)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c6/0e/c60edfb0-a70c-43eb-9b8d-55184cb7dd7c/picasso_mural.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-13T14:00:04Z"
+    },
+    {
+      "title": "We urgently need to prepare for quantum computers breaking encryption",
+      "link": "https://www.newscientist.com/article/2522124-we-urgently-need-to-prepare-for-quantum-computers-breaking-encryption/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The maths problems that secure your online bank transactions and emails may soon be undermined by quantum technology. It’s imperative we act now, before it’s too late",
+      "date": "2026-04-08T18:00:37Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/07093550/SEI_291808518.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-13T14:00:06Z"
+    },
+    {
+      "title": "Painkillers prevent pain responses in Norway lobsters, intensifying the case against boiling them alive",
+      "link": "https://phys.org/news/2026-04-painkillers-pain-responses-norway-lobsters.html",
+      "summary": "Common human painkillers also work on Norway lobsters, according to research from the University of Gothenburg. This is further evidence that crustaceans may feel pain and that mor",
+      "date": "2026-04-13T13:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/painkillers-prevent-pa.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-13T14:00:08Z"
+    },
+    {
+      "title": "Cacti fungal endophytes may help cacao tolerate drought",
+      "link": "https://phys.org/news/2026-04-cacti-fungal-endophytes-cacao-tolerate.html",
+      "summary": "Beans of the cacao plant, Theobroma cacao, are used in chocolates, pharmaceuticals and other products, but they're under threat. Increased drought associated with climate change ha",
+      "date": "2026-04-13T13:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cacao-plant.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-13T14:00:08Z"
+    },
+    {
+      "title": "From river stain to your cup of tea: The secret world of tannins",
+      "link": "https://phys.org/news/2026-04-river-cup-tea-secret-world.html",
+      "summary": "While stopped in heavy Melbourne traffic recently, I noticed that what looked like a shadow under a row of spotted gums (Corymbia maculata) along a major road was actually a stain ",
+      "date": "2026-04-13T12:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-river-stain-to-yo.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-13T14:00:08Z"
+    },
+    {
+      "title": "Global warming is changing the hatching of bees and wasps",
+      "link": "https://phys.org/news/2026-04-global-hatching-bees-wasps.html",
+      "summary": "A large-scale experiment shows that warmth brings bees and wasps out of hibernation earlier—leaving some of them with poorer starting conditions. This is particularly true for spec",
+      "date": "2026-04-13T12:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/global-warming-is-chan.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-13T14:00:08Z"
+    },
     {
       "title": "Birding Lodges of the World: Xaro Lodge, Botswana",
       "link": "https://www.10000birds.com/birding-lodges-of-the-world-xaro-lodge-botswana.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-lodges-of-the-world-xaro-lodge-botswana",
@@ -5414,94 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-04-05T10:44:53Z"
-    },
-    {
-      "title": "NASA telescope uncovers new mystery in supernova first spotted by Chinese astronomers 2,000 years ago —‬ Space photo of the week",
-      "link": "https://www.livescience.com/space/nasa-telescope-uncovers-new-mystery-in-supernova-first-spotted-by-chinese-astronomers-2-000-years-ago-space-photo-of-the-week",
-      "summary": "NASA's Imaging X-ray Polarimetry Explorer reveals the expansion and shock patterns within RCW 86, a supernova observed by early astronomers in A.D. 185.",
-      "date": "2026-04-05T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/enHTzPxMtdeTR7x88CsY75-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-05T10:45:05Z"
-    },
-    {
-      "title": "What happened to the Minoan civilization?",
-      "link": "https://www.livescience.com/archaeology/what-happened-to-the-minoan-civilization",
-      "summary": "The Minoan civilization flourished between roughly 2000 and 1500 B.C. on Crete and nearby islands. How did it come to an end?",
-      "date": "2026-04-05T09:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/7n7n387SZYoGutjuc4VGyR-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-05T09:49:35Z"
-    },
-    {
-      "title": "Meet the Chamaeleon, a southern constellation",
-      "link": "https://earthsky.org/constellations/chamaeleon-southern-constellation/",
-      "summary": "The constellation Chamaeleon the Chameleon is a dark patch of sky that lies deep in the Southern Hemisphere and is visible any night of the year. The post Meet the Chamaeleon, a so",
-      "date": "2026-04-05T07:09:49Z",
-      "image": "https://earthsky.org/upl/2022/03/Chamaeleon-April-Evenings-2-e1647818677278.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-05T07:18:30Z"
-    },
-    {
-      "title": "Look and Listen for the Eastern Whip-poor-will",
-      "link": "https://www.birdsandblooms.com/birding/bird-species/eastern-whip-poor-will-identification/",
-      "summary": "Keep your ears open at night for the well-camouflaged eastern whip-poor-will: a rarely seen (but often heard!) summertime visitor. The post Look and Listen for the Eastern Whip-poo",
-      "date": "2026-03-27T14:54:16Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/GettyImages-1400305689-e1774622841541.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-04-05T05:48:17Z"
-    },
-    {
-      "title": "How to Identify a Prairie Warbler",
-      "link": "https://www.birdsandblooms.com/birding/bird-species/warblers/prairie-warbler/",
-      "summary": "Look for a prairie warbler in the eastern United States — but not in a prairie! Learn where to find them, what they eat, and more. The post How to Identify a Prairie Warbler appear",
-      "date": "2026-03-27T14:38:19Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/BNBPC23_Victor-Quintanilla-e1774621696476.jpg?fit=700,695",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-04-05T03:26:32Z"
-    },
-    {
-      "title": "AI makes rewilding look tame—and misses its messy reality",
-      "link": "https://phys.org/news/2026-03-ai-rewilding-messy-reality.html",
-      "summary": "Humans have always imagined the natural world. From Ice Age cave paintings to the modern day, we depict the animals and landscapes we value—and ignore those we don't.",
-      "date": "2026-04-04T23:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-makes-rewilding-loo.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-04T23:38:54Z"
-    },
-    {
-      "title": "Insects in the tropics are already near their heat limits. Climate change could push many beyond survival",
-      "link": "https://phys.org/news/2026-04-insects-tropics-limits-climate-survival.html",
-      "summary": "Insects make up to 90% of all animal species on the planet, and most of them can be found in the tropics, the regions around the equator. Yet we still know surprisingly little abou",
-      "date": "2026-04-04T22:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/insects-in-the-tropics.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-04T22:38:24Z"
-    },
-    {
-      "title": "Three-week-old mountain lion cub rescued by California biologists",
-      "link": "https://www.theguardian.com/us-news/2026/apr/04/mountain-lion-cub-crimson-california",
-      "summary": "Crimson, seen alone in Santa Monica mountains for days, gets care in Oakland zoo after mother nowhere to be found It was an unusual scene. A lion cub alone for days in southern Cal",
-      "date": "2026-04-04T21:10:05Z",
-      "image": "https://i.guim.co.uk/img/media/7ae371dd978877feb6af2dc363910616eb3a15f4/52_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=7c0cdb47bcd2aeae8813db1a2fb64232",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-04T21:39:38Z"
     }
   ]
 }
