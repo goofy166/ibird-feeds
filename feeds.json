@@ -1,8 +1,129 @@
 {
-  "updated": "2026-04-13T17:14:16Z",
-  "updated_utc": "2026-04-13T17:14:16Z",
+  "updated": "2026-04-13T19:24:20Z",
+  "updated_utc": "2026-04-13T19:24:20Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Canadian Ginger Care and Growing Tips",
+      "link": "https://www.birdsandblooms.com/gardening/shade-gardening/canadian-ginger/",
+      "summary": "Need a ground cover for a shady, damp spot that is easy to grow? Try Canadian ginger! Here's what to know about this native plant. The post Canadian Ginger Care and Growing Tips ap",
+      "date": "2026-03-27T15:47:33Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/GettyImages-1232560408-e1774625401228.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-04-13T19:24:01Z"
+    },
+    {
+      "title": "Colombia to cull up to 80 hippos descended from Pablo Escobar zoo",
+      "link": "https://www.theguardian.com/world/2026/apr/13/colombia-hippo-hunt-pablo-escobar",
+      "summary": "Dozens of feral pachyderms linked to drug kingpin to be killed because of threat to native species and villagers Colombian officials have authorized a plan to cull dozens of hippos",
+      "date": "2026-04-13T18:01:03Z",
+      "image": "https://i.guim.co.uk/img/media/2ef833ef72bf8ac1b209c6188ffe86707117f9e8/211_0_2103_1683/master/2103.jpg?width=140&quality=85&auto=format&fit=max&s=696b718a75ac2040ebea2d163c2b3dbf",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-13T19:24:05Z"
+    },
+    {
+      "title": "Commercial salmon fishing to open in California for the first time since 2022 as population rebounds",
+      "link": "https://www.mercurynews.com/2026/04/13/commercial-salmon-fishing-to-open-in-california-for-the-first-time-since-2022-as-population-rebounds/",
+      "summary": "Salmon populations have also bounced back in areas where they were long absent due to river restoration efforts.",
+      "date": "2026-04-13T17:36:38Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/California_Salmon_Fishing_58567.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-13T19:24:10Z"
+    },
+    {
+      "title": "A Dizzying Spiral Staircase With a Single Guardrail Once Led to the Top of the Eiffel Tower. Now, You Can Buy 14 of the Original Steps",
+      "link": "https://www.smithsonianmag.com/smart-news/a-dizzying-spiral-staircase-with-a-single-guardrail-once-led-to-the-top-of-the-eiffel-tower-now-you-can-buy-14-of-the-original-steps-180988535/",
+      "summary": "The 1,062 steps connecting the tower's second and third levels were installed in 1889. Fragments from the 137-year-old staircase can be found at several French museums",
+      "date": "2026-04-13T18:08:16Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/0Jz4ilM2oMZnHRvZp_ZDGhiot4k=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f8/62/f8623622-d172-4ab5-bee8-71dc0bcecad2/staircase.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-13T19:24:13Z"
+    },
+    {
+      "title": "Rolled Up in a Cellar for Decades, This Artemisia Gentileschi Painting Is Now Up for Auction. Why Is Mary Magdalene's Face Missing From the Portrait?",
+      "link": "https://www.smithsonianmag.com/smart-news/rolled-up-in-a-cellar-for-decades-this-artemisia-gentileschi-painting-is-now-up-for-auction-why-is-mary-magdalenes-face-missing-from-the-portrait-180988537/",
+      "summary": "Found in Berlin, the artwork was probably damaged in the chaotic aftermath of World War II. Despite the gaping hole in the canvas, it could sell for upwards of $180,000 later this ",
+      "date": "2026-04-13T17:10:03Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/dYgTXo-D25JS4fQEftIdkipK4dE=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f8/3d/f83db525-ea6f-484b-a985-e23785c92976/artemisia.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-13T19:24:13Z"
+    },
+    {
+      "title": "Fluoride in U.S. drinking water does not reduce IQ, a new study finds",
+      "link": "https://www.sciencenews.org/article/fluoride-drinking-water-iq-no-evidence",
+      "summary": "Claims that fluoride in drinking water causes cognitive delays in kids are driving U.S. policy. A new study finds no evidence to back them.",
+      "date": "2026-04-13T19:12:52Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/041326_ED_fluoride_main_rev.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-04-13T19:24:14Z"
+    },
+    {
+      "title": "What fish redistribution in the Mediterranean is telling us about species' climate resilience",
+      "link": "https://phys.org/news/2026-04-fish-redistribution-mediterranean-species-climate.html",
+      "summary": "Over the past 20 years, nearly half of commercially important Mediterranean fish species have shifted their distribution due to climate change, causing marine species to move away ",
+      "date": "2026-04-13T18:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/5-fish.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-13T19:24:17Z"
+    },
+    {
+      "title": "Future-proofing livestock vaccines by anticipating viruses' next moves",
+      "link": "https://phys.org/news/2026-04-future-proofing-livestock-vaccines-viruses.html",
+      "summary": "The wave-shaped chart Ratul Chowdhury pulls up on a computer monitor in his office captures the evolutionary cat-and-mouse game his research lab is up against. The undulating curve",
+      "date": "2026-04-13T17:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/future-proofing-livest.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-13T19:24:17Z"
+    },
+    {
+      "title": "Homo erectus' tools include stunning geodes and fossils, possibly as a way to connect with the cosmos, study finds",
+      "link": "https://www.livescience.com/archaeology/human-evolution/homo-erectus-tools-include-stunning-geodes-and-fossils-possibly-as-a-way-to-connect-with-the-cosmos-study-finds",
+      "summary": "Homo erectus may have deliberately selected rocks embedded with fossils and crystals to craft their hand axes — possibly to serve as mediators between humans and the cosmos.",
+      "date": "2026-04-13T18:55:41Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/5tLR5r9t8RSNKwFZjhGo2h-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-13T19:24:18Z"
+    },
+    {
+      "title": "'Really, really weird': Physicists entangle two moving atoms for the first time, validating 'spooky' quantum theory",
+      "link": "https://www.livescience.com/physics-mathematics/quantum-physics/really-really-weird-physicists-entangle-two-moving-atoms-for-the-first-time-validating-spooky-quantum-theory",
+      "summary": "For the first time, scientists have observed quantum entanglement in the momentum of massive particles. The result, decades in the making, could help physicists probe the relations",
+      "date": "2026-04-13T18:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/GY7oFCjuHP2Mtd3qGEw645-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-13T19:24:18Z"
+    },
+    {
+      "title": "'I have not processed what we just did': Artemis II astronauts share all in first news conference since splashdown",
+      "link": "https://www.livescience.com/space/space-exploration/i-have-not-processed-what-we-just-did-artemis-ii-astronauts-share-all-in-first-news-conference-since-splashdown",
+      "summary": "The Artemis II crew have spoken publicly for the first time since their return to Earth.",
+      "date": "2026-04-13T17:39:06Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/6R9gvc92cXrFTNoviSMsfG-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-13T19:24:18Z"
+    },
     {
       "title": "Wildflower season: Here’s where to find blooms in the Bay Area",
       "link": "https://www.mercurynews.com/2026/04/13/bay-area-wildflower-blooms-2026/",
@@ -5381,127 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-04-06T11:53:48Z"
-    },
-    {
-      "title": "‘I escaped death a lot of times’: one man’s lifelong work protecting gorillas and communities in Congo",
-      "link": "https://www.theguardian.com/environment/2026/apr/06/dominique-bikaba-drc-gorillas-wildlife-sanctuary-war-zone-aoe",
-      "summary": "As a child, Dominique Bikaba, was displaced by a new national park in the DRC. Now he is helping to secure land for wildlife and Indigenous groups against the backdrop of ongoing f",
-      "date": "2026-04-06T09:00:16Z",
-      "image": "https://i.guim.co.uk/img/media/52642d431f0d09b04d67499f61990b0950ed65a0/396_0_1392_1114/master/1392.jpg?width=140&quality=85&auto=format&fit=max&s=86802eee40a52186173aa16fbda5a903",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-06T10:16:52Z"
-    },
-    {
-      "title": "Bull sharks choose companions and form lasting bonds",
-      "link": "https://earthsky.org/earth/bull-sharks-companions-lasting-bonds/",
-      "summary": "Bull sharks form enduring social bonds, selecting preferred companions and sustaining strong, structured networks in the wild. The post Bull sharks choose companions and form lasti",
-      "date": "2026-04-06T10:00:54Z",
-      "image": "https://earthsky.org/upl/2026/04/Bull-shark_Wikipedia-e1775217831172.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-06T10:16:53Z"
-    },
-    {
-      "title": "A gray whale that swam 20 miles up a Washington state river is found dead",
-      "link": "https://phys.org/news/2026-04-gray-whale-swam-miles-washington.html",
-      "summary": "A juvenile gray whale that amazed Washington state residents after it swam 20 miles up a small river was found dead, and an official with a marine mammal research group suspects hu",
-      "date": "2026-04-06T08:33:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-gray-whale-that-swam.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-06T10:17:03Z"
-    },
-    {
-      "title": "Beadnet dress: A 4,500-year-old ancient Egyptian funeral 'gown' that was in vogue during the Old Kingdom",
-      "link": "https://www.livescience.com/archaeology/ancient-egyptians/beadnet-dress-a-4-500-year-old-ancient-egyptian-funeral-gown-that-was-in-vogue-during-the-old-kingdom",
-      "summary": "This rare example of an ancient Egyptian beaded dress was likely crafted specifically for a woman's funeral.",
-      "date": "2026-04-06T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/bc9cm4L3fYuyapBpAHkjFD-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-06T10:17:05Z"
-    },
-    {
-      "title": "Philippines – Profile for Birders",
-      "link": "https://www.10000birds.com/philippines-profile-for-birders.htm?utm_source=rss&utm_medium=rss&utm_campaign=philippines-profile-for-birders",
-      "summary": "Highlights 761 Bird species (2024) 274 endemic species (36%) 17 endemic genera 4th in the world in avian endemism … and … Largest number of endemic hornbill species in the world – ",
-      "date": "2026-04-06T05:26:30Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/03/201607687_c624d0dd94_o.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-04-06T06:03:39Z"
-    },
-    {
-      "title": "Athens, Greece – Profile for Birders",
-      "link": "https://www.10000birds.com/athens-greece-profile-for-birders.htm?utm_source=rss&utm_medium=rss&utm_campaign=athens-greece-profile-for-birders",
-      "summary": "Highlights Athens is arguably the most complete birding capital in the world, combining cultural significance, geographic position, and habitat diversity in a way no other city can",
-      "date": "2026-04-06T05:19:13Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/03/250px-Public_transport_map_of_Athens.png",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-04-06T06:03:39Z"
-    },
-    {
-      "title": "Country diary 1976: Dungeness is a desert with variety",
-      "link": "https://www.theguardian.com/environment/2026/apr/06/country-diary-1976-dungeness-is-a-desert-with-variety",
-      "summary": "9 April 1976 : Willow scrub, reed, and juncus rush can be found, while flooded gravel pits are much frequented by wild fowl KENT: A stony desert pointing like a stubby finger at th",
-      "date": "2026-04-06T05:00:11Z",
-      "image": "https://i.guim.co.uk/img/media/8b2a7fac6b51e6eefa225d0f22bf6e0a386eb360/433_0_4330_3464/master/4330.jpg?width=140&quality=85&auto=format&fit=max&s=aaacdb810e3fc7cd94047b246e7c9a49",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-06T06:03:44Z"
-    },
-    {
-      "title": "Country diary: Lambing season is here – how long until white-tailed eagles are overhead? | Andrea Meanwell",
-      "link": "https://www.theguardian.com/environment/2026/apr/06/country-diary-lambing-season-is-here-how-long-until-white-tailed-eagles-are-overhead",
-      "summary": "Tebay, Cumbria: A planned reintroduction of these apex predators has got us upland farmers worried. We’re still not convinced they won’t harm our flocks The years seem to be coming",
-      "date": "2026-04-06T04:30:09Z",
-      "image": "https://i.guim.co.uk/img/media/597c7853f9b342813ef3d86398eada05b767f2f1/64_0_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=b3341222bf633e1fe144420769f600f9",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-06T06:03:44Z"
-    },
-    {
-      "title": "'Lliving fossils' nautilus and allonautilus shaped by depths and diets over 500 million years",
-      "link": "https://phys.org/news/2026-04-lliving-fossils-nautilus-allonautilus-depths.html",
-      "summary": "Nautilus and Allonautilus cephalopods and their extinct ancestors have been drifting through the mesophotic zone of the ocean for more than 500 million years. Researchers have spen",
-      "date": "2026-04-05T23:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-habits-and-habitat.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-05T23:42:03Z"
-    },
-    {
-      "title": "Sundarban Tidal Mangrove Forest, Bangladesh – Profile for Birders",
-      "link": "https://www.10000birds.com/sundarban-tidal-mangrove-forest-bangladesh-profile-for-birders.htm?utm_source=rss&utm_medium=rss&utm_campaign=sundarban-tidal-mangrove-forest-bangladesh-profile-for-birders",
-      "summary": "Highlights This very unique coastal tidal mangrove habitat is located in South-west Bangladesh and hosts a large collection of bird species ranging from waterbirds, storks, kingfis",
-      "date": "2026-04-05T20:51:58Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/04/28216187062_50e70a077e_c-1.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-04-05T21:40:02Z"
-    },
-    {
-      "title": "It takes a village: How cooperative breeding has shaped Lake Tanganyika fish",
-      "link": "https://phys.org/news/2026-03-village-cooperative-lake-tanganyika-fish.html",
-      "summary": "\"It takes a village to raise a child\" doesn't apply merely to humans. Many species of mammals, birds, fish, and various invertebrates have evolved complex social care systems known",
-      "date": "2026-04-05T18:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/it-takes-a-village-for.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-05T18:57:01Z"
     }
   ]
 }
