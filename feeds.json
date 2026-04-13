@@ -1,8 +1,118 @@
 {
-  "updated": "2026-04-13T19:24:20Z",
-  "updated_utc": "2026-04-13T19:24:20Z",
+  "updated": "2026-04-13T21:03:39Z",
+  "updated_utc": "2026-04-13T21:03:39Z",
   "count": 500,
   "stories": [
+    {
+      "title": "“Please Help Us Get a Break:” Goblin Valley Rangers Plead with Hikers After a Surge in Rescues.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/goblin-valley-state-park-rescues/",
+      "summary": "Goblin Valley rangers say they are seeing an uptick in search and rescue calls throughout the area’s most popular slot canyons. The post “Please Help Us Get a Break:” Goblin Valley",
+      "date": "2026-04-13T20:39:58Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/IMG_8771.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-13T21:03:30Z"
+    },
+    {
+      "title": "This Nearly 300-Million-Year-Old Mummified Reptile Reveals the Evolutionary Origins of How We Breathe",
+      "link": "https://www.smithsonianmag.com/smart-news/this-300-million-year-old-mummified-fossil-reveals-the-origins-of-breathing-in-amniotes-180988521/",
+      "summary": "Unusually well-preserved fossils have provided the earliest known evidence of a land vertebrate that could pump air in and out of its chest using muscles between the ribs—the same ",
+      "date": "2026-04-13T20:06:58Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/8P1dcdL7J8TqRgwxdqnirUyyZDQ=/420x240/filters:focal(1275x2359:1276x2360)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/13/9f/139f1392-3580-4b72-87f1-cf22ae034bca/the-oldest-breath-a-30.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-13T21:03:32Z"
+    },
+    {
+      "title": "We’ve caught a comet switching its spin direction for the first time",
+      "link": "https://www.newscientist.com/article/2522785-weve-caught-a-comet-switching-its-spin-direction-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A small comet has been spotted slowing down and then speeding up again – but in the opposite direction, which we have never seen before",
+      "date": "2026-04-13T18:00:37Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/13115744/SEI_293008014.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-13T21:03:34Z"
+    },
+    {
+      "title": "Chernobyl at 40: My life as a meteorologist under Russian occupation",
+      "link": "https://www.newscientist.com/article/2520451-chernobyl-at-40-my-life-as-a-meteorologist-under-russian-occupation/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "When Russia invaded Ukraine in 2022, Chernobyl lay on the path to the capital Kyiv. When the plant was occupied by Russian troops, meteorologist Lyudmila Dyblenko fearlessly contin",
+      "date": "2026-04-13T14:00:05Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/31122554/SEI_291592253.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-13T21:03:34Z"
+    },
+    {
+      "title": "Vitamin B12 drives inherited behavioral changes across generations in roundworms",
+      "link": "https://phys.org/news/2026-04-vitamin-b12-inherited-behavioral-generations.html",
+      "summary": "It has long been known that environmental conditions can shape how traits are inherited, a phenomenon known as transgenerational epigenetic inheritance. However, the molecular sign",
+      "date": "2026-04-13T20:50:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/vitamin-b12-drives-inh.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-13T21:03:35Z"
+    },
+    {
+      "title": "Math model reveals how life may have switched on from Earth's primordial soup",
+      "link": "https://phys.org/news/2026-04-math-reveals-life-earth-primordial.html",
+      "summary": "Isolating the first spark of life on Earth is a matter of biology, geology, and chemistry—but it's also an amazing math problem. At least, that's how Varun Varanasi viewed it when ",
+      "date": "2026-04-13T20:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/showing-the-math-for-e.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-13T21:03:35Z"
+    },
+    {
+      "title": "Beneath this cemetery, 5.5 million wild bees form a giant underground city vital to spring pollination",
+      "link": "https://phys.org/news/2026-04-beneath-cemetery-million-wild-bees.html",
+      "summary": "To save money, Rachel Fordyce parked her car for free at Ithaca's East Hill Plaza and walked through East Lawn Cemetery to her job as a technician in an entomology lab on Cornell's",
+      "date": "2026-04-13T20:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/55m-ground-nesting-bee.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-13T21:03:35Z"
+    },
+    {
+      "title": "Longer-term plankton species diversity is independent of ocean mixing, study finds",
+      "link": "https://phys.org/news/2026-04-longer-term-plankton-species-diversity.html",
+      "summary": "Plankton are tiny, microscopic marine organisms that represent the very bottom of the food chain. Some are photosynthetic and others graze on bacteria and other plankton, but no pl",
+      "date": "2026-04-13T20:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/longer-term-plankton-s.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-13T21:03:35Z"
+    },
+    {
+      "title": "Museum fossil reveals that extinct giant echidnas once roamed Australia",
+      "link": "https://phys.org/news/2026-04-museum-fossil-reveals-extinct-giant.html",
+      "summary": "Paleontologists have used an Ice Age fossil found 120 years ago in an underground cave to reveal that extinct giant echidnas roamed southeastern Australia during the Pleistocene Ep",
+      "date": "2026-04-13T20:00:09Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/victorias-ice-age-mega.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-13T21:03:35Z"
+    },
+    {
+      "title": "Antiseptic-tolerant germs spread through the air in hospitals, early study hints",
+      "link": "https://www.livescience.com/health/medicine-drugs/antiseptic-tolerant-germs-spread-through-the-air-in-hospitals-early-study-hints",
+      "summary": "Trace amounts of antiseptic chemicals in hospital rooms may be driving tolerance and resistance in bacteria, a study finds.",
+      "date": "2026-04-13T20:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/NJDVADfqmvrweP7L2XSVhg-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-13T21:03:36Z"
+    },
     {
       "title": "Canadian Ginger Care and Growing Tips",
       "link": "https://www.birdsandblooms.com/gardening/shade-gardening/canadian-ginger/",
@@ -5392,116 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-06T13:27:16Z"
-    },
-    {
-      "title": "Fish 'steals' glowing protein: Genome sequencing proves unique survival strategy",
-      "link": "https://phys.org/news/2026-04-fish-protein-genome-sequencing-unique.html",
-      "summary": "In a striking example of nature's ingenuity, a collaborative research team has revealed that a bioluminescent fish glows not by producing its own light-emitting molecules, but by \"",
-      "date": "2026-04-06T13:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fish-steals-glowing-pr-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-06T13:27:16Z"
-    },
-    {
-      "title": "'They could spend 4 or 5 hours per day underwater': How humans adapted to the most challenging environments",
-      "link": "https://www.livescience.com/archaeology/human-evolution/they-could-spend-4-or-5-hours-per-day-underwater-how-humans-adapted-to-the-most-challenging-environments",
-      "summary": "In the book \"Adaptable,\" evolutionary anthropologist Herman Pontzer explores human biology and development, and how people have evolved to survive everywhere on Earth.",
-      "date": "2026-04-06T13:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/VNpW6X2eGCj9HgrMM7EofW-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-06T13:27:17Z"
-    },
-    {
-      "title": "Birding Lodges of the World: Birdhaven Cottage, Julatten, Australia",
-      "link": "https://www.10000birds.com/birding-lodges-of-the-world-birdhaven-cottage-julatten-australia.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-lodges-of-the-world-birdhaven-cottage-julatten-australia",
-      "summary": "Which bird species do you think is the biggest attraction to visitors of your lodge (please only name one species)? The Buff-breasted Paradise Kingfisher What is the name of your l",
-      "date": "2026-04-06T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/02/Cottage-Living-Room.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-04-06T11:53:30Z"
-    },
-    {
-      "title": "Birding Dasyueshan, Taiwan",
-      "link": "https://www.10000birds.com/birding-dasyueshan-taiwan.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-dasyueshan-taiwan",
-      "summary": "Dasyueshan (Dasyueshan National Forest Recreation Area, to give it its full but rather clumsy name) is a beautiful place if the weather is good. The altitude ranges from about 1000",
-      "date": "2026-04-06T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2025/12/Mikado-Pheasant_DSC6770_Dasyueshan-Taiwan-Nov-13-2025-1.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-04-06T11:53:30Z"
-    },
-    {
-      "title": "See a Colorful Wall of Vintage iMacs and a Recreation of Steve Jobs' Garage at a New Apple Museum in the Netherlands",
-      "link": "https://www.smithsonianmag.com/smart-news/see-a-colorful-wall-of-vintage-imacs-and-a-recreation-of-steve-jobs-garage-at-a-new-apple-museum-in-the-netherlands-180988485/",
-      "summary": "The tech world changed forever when two college dropouts founded Apple on April 1, 1976. Fifty years later, a museum dedicated to the company's history and evolution has opened in ",
-      "date": "2026-04-06T11:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/bc0NGPH454sLjpRdWxHCaD_lS9Q=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/33/54/3354d48e-0495-442e-bc0e-d98bcbc90642/apple-i-replica.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-06T11:53:43Z"
-    },
-    {
-      "title": "See the Spectacular Winners of Smithsonian Magazine’s 23rd Annual Photography Contest",
-      "link": "https://www.smithsonianmag.com/arts-culture/see-spectacular-winners-smithsonian-magazines-23rd-annual-photography-contest-180988429/",
-      "summary": "This year’s best photos command attention by capturing intimate moments and bold colors",
-      "date": "2026-04-06T11:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/7Po5DChkc1r9MP1aWBTmmVNO2Dg=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/92/d8/92d892cd-0ef3-43b7-94b2-8ab246fa3677/smithmag-photocontest23-winners-finalists-article-1500x1000.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-06T11:53:43Z"
-    },
-    {
-      "title": "The Gunboat ‘Philadelphia’ Lasted One Day in Battle. It’s Still Telling Us About the Revolution 250 Years Later.",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/gunboat-philadelphia-lasted-one-day-battle-still-telling-us-revolution-250-years-later-180988412/",
-      "summary": "The 29-ton ship went to war against the British, then sat at the bottom of Lake Champlain for 160 years. Now it’s a relic of ragged glory",
-      "date": "2026-04-06T11:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/X-m9NOFTRZ37TBMqmjmXr9kAdcc=/420x240/filters:focal(1576x1050:1577x1051)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/52/43/5243d43c-428a-4f22-800e-17a3a8b129f0/b1703304_copy_3.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-06T11:53:43Z"
-    },
-    {
-      "title": "The Iran war is exposing the huge risks in our food system",
-      "link": "https://www.newscientist.com/article/2521611-the-iran-war-is-exposing-the-huge-risks-in-our-food-system/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "No matter where you get your food from, a good chunk of your diet is ultimately reliant on fossil fuels. We already need to change this to tackle climate change, but the Iran war a",
-      "date": "2026-04-01T18:00:41Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/31140712/SEI_291515130.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-06T11:53:45Z"
-    },
-    {
-      "title": "We went to Finland to hear about the new 'sand battery' that will turn stored renewable energy back into power for the electrical grid",
-      "link": "https://www.livescience.com/technology/engineering/we-went-to-finland-to-hear-about-the-new-sand-battery-that-will-turn-stored-renewable-energy-back-into-power-for-the-electrical-grid",
-      "summary": "Engineers are testing a new \"sand battery\" that could power industries and communities using stored renewable energy.",
-      "date": "2026-04-06T11:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/XXN9RdBTijsKcHCaLxsBnc-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-06T11:53:48Z"
-    },
-    {
-      "title": "The hungriest black holes in the universe are running out of food, survey of 8,000 cosmic monsters reveals",
-      "link": "https://www.livescience.com/space/black-holes/the-hungriest-black-holes-in-the-universe-are-running-out-of-food-survey-of-8-000-cosmic-monsters-reveals",
-      "summary": "Astronomers studied 1.3 million galaxies and 8,000 X-ray-spewing supermassive black holes to find out why these gravitational monsters are growing more slowly than ever.",
-      "date": "2026-04-06T11:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/JWwVXj5CND4YSBzGQsgtKD-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-06T11:53:48Z"
     }
   ]
 }
