@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-13T06:23:14Z",
-  "updated_utc": "2026-04-13T06:23:14Z",
+  "updated": "2026-04-13T09:06:27Z",
+  "updated_utc": "2026-04-13T09:06:27Z",
   "count": 500,
   "stories": [
+    {
+      "title": "HBO’s ‘The Dark Wizard’ Is a Heartbreaking Account of Dean Potter’s Life, Death, and Demons",
+      "link": "https://www.outsideonline.com/culture/books-media/dean-potter-hbo-series-dark-wizard-review/",
+      "summary": "Dean Potter was the \"Dark Wizard\" of the Valley, a man who conjured impossible feats from a well of deep personal torment. Eleven years after he died in a wingsuit flying accident,",
+      "date": "2026-04-13T09:00:46Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/dean-potter_5-2.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-13T09:06:18Z"
+    },
     {
       "title": "Country diary 1976: A place where change has lain lightly",
       "link": "https://www.theguardian.com/environment/2026/apr/13/country-diary-1976-place-where-change-has-lain-lightly-lake-district",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-04T17:39:14Z"
-    },
-    {
-      "title": "New study pinpoints climate conditions for restoring the endangered butternut tree",
-      "link": "https://phys.org/news/2026-04-climate-conditions-endangered-butternut-tree.html",
-      "summary": "The butternut tree, a close relative of black walnut prized for its pale wood and wildlife value, is on the brink of disappearing from North American forests. A new study from Virg",
-      "date": "2026-04-04T15:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-pinpoints-cl.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-04T15:40:24Z"
     }
   ]
 }
