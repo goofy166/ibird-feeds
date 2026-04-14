@@ -1,8 +1,74 @@
 {
-  "updated": "2026-04-14T22:57:09Z",
-  "updated_utc": "2026-04-14T22:57:09Z",
+  "updated": "2026-04-14T23:54:06Z",
+  "updated_utc": "2026-04-14T23:54:06Z",
   "count": 500,
   "stories": [
+    {
+      "title": "New national framework in Australia strengthens antimicrobial stewardship in animal industries",
+      "link": "https://phys.org/news/2026-04-national-framework-australia-antimicrobial-stewardship.html",
+      "summary": "Australia's animal sectors now have a comprehensive framework to help strengthen the industry's response to antimicrobial resistance. The Animal Antimicrobial Stewardship Framework",
+      "date": "2026-04-14T23:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/cows-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-14T23:54:03Z"
+    },
+    {
+      "title": "Discovery of Addison's disease gene in dogs could help humans as well",
+      "link": "https://phys.org/news/2026-04-discovery-addison-disease-gene-dogs.html",
+      "summary": "Among dog breeds, Nova Scotia duck tolling retrievers (tollers) have an unusually high rate of Addison's disease, a condition in which the adrenal glands do not produce enough horm",
+      "date": "2026-04-14T23:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nova-scotia-duck-tolli.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-14T23:54:03Z"
+    },
+    {
+      "title": "Q&A: How smarter forest practices could help protect British Columbia's forests from wildfire, climate stress",
+      "link": "https://phys.org/news/2026-04-qa-smarter-forest-british-columbia.html",
+      "summary": "New research from the UBC-based Mother Tree Project is shedding light on how forests respond to harvesting and climate stress, including practices aimed at reducing wildfire risk. ",
+      "date": "2026-04-14T23:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/smarter-forest-practic.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-04-14T23:54:03Z"
+    },
+    {
+      "title": "Birds that put more energy into parenthood age faster and die younger, research shows",
+      "link": "https://phys.org/news/2026-04-birds-energy-parenthood-age-faster.html",
+      "summary": "In a new study, appearing in Proceedings of the Royal Society B: Biological Sciences, scientists selectively bred Japanese quails into two groups: laying either relatively large or",
+      "date": "2026-04-14T23:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/birds-that-put-more-en-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-14T23:54:03Z"
+    },
+    {
+      "title": "Carbon removal project supports Maine's blue economy, broader marine health",
+      "link": "https://phys.org/news/2026-04-carbon-maine-blue-economy-broader.html",
+      "summary": "Oceans absorb roughly 25% to 30% of the carbon dioxide (CO2) that is released into the atmosphere. When this CO2 dissolves in seawater, it forms carbonic acid, making the water mor",
+      "date": "2026-04-14T23:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/carbon-removal-project.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-14T23:54:03Z"
+    },
+    {
+      "title": "Triassic croc relative from Ghost Ranch, New Mexico finally identified after nearly 80 years in museum basement",
+      "link": "https://www.livescience.com/animals/extinct-species/triassic-croc-relative-from-ghost-ranch-new-mexico-finally-identified-after-nearly-80-years-in-museum-basement",
+      "summary": "During the Triassic, a newly described species related to modern crocodiles and alligators stalked prey on land, not the water, a new study finds.",
+      "date": "Tue, 14 Apr 2026 23Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/S2KzCXQNeqzgDbSTUJFjMQ-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-14T23:54:04Z"
+    },
     {
       "title": "Meet kungaka—'the hidden one.' This ancient lizard could be the rarest reptile in Australia",
       "link": "https://phys.org/news/2026-04-kungaka-hidden-ancient-lizard-rarest.html",
@@ -5436,72 +5502,6 @@
       "category": "birds",
       "color": 3,
       "fetched_at": "2026-04-07T17:10:43Z"
-    },
-    {
-      "title": "Voices: White-rumped Sandpiper",
-      "link": "https://www.allaboutbirds.org/news/voices-white-rumped-sandpiper-2/",
-      "summary": "",
-      "date": "Tue, 07 Apr 2026 15Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Eopsaltria_australis_-_Mogo_Campground.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-04-07T17:10:43Z"
-    },
-    {
-      "title": "Voices: Common Nighthawk",
-      "link": "https://www.allaboutbirds.org/news/voices-common-nighthawk/",
-      "summary": "",
-      "date": "Tue, 07 Apr 2026 15Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Eopsaltria_australis_-_Mogo_Campground.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-04-07T17:10:43Z"
-    },
-    {
-      "title": "The Distinctive Calls of Owls: A Sampler",
-      "link": "https://www.allaboutbirds.org/news/the-distinctive-calls-of-owls-a-sampler-2/",
-      "summary": "",
-      "date": "Tue, 07 Apr 2026 15Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Juvenile_Raggiana_Bird-of-Paradise.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-04-07T17:10:43Z"
-    },
-    {
-      "title": "Thieves Who Allegedly Stole an Ancient Gold Helmet Belonging to a Lost European Culture Just Returned It",
-      "link": "https://www.smithsonianmag.com/smart-news/thieves-allegedly-stole-gold-helmet-lost-european-culture-returned-it-180988487/",
-      "summary": "More than a year after the Romanian treasure disappeared from a museum in the Netherlands, it’s back in the hands of authorities. The men accused of stealing it will face trial lat",
-      "date": "Tue, 07 Apr 2026 16Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/a7gcN0_a2cB9jSR_178ulUbGlQs=/420x240/filters:focal(966x644:967x645)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/31/99/3199be1d-9a20-475f-b198-026a13f56312/661563417_927619946555456_6433766536656630696_n.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-07T17:10:55Z"
-    },
-    {
-      "title": "See the Amazing Images That Showcase the Short, Brilliant Lives of Honeybees Throughout the Seasons",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/see-the-amazing-images-that-showcase-the-short-brilliant-lives-of-honeybees-throughout-the-seasons-180988495/",
-      "summary": "A new book follows the insects through rain and shine and highlights the unique behaviors of each bee in a colony",
-      "date": "Tue, 07 Apr 2026 16Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/0kqTvPf2DsVUkl3AqNagOGX_oIE=/420x240/filters:focal(1998x1085:1999x1086)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d9/be/d9beba45-85f5-447b-92ff-bbbfcee0ecc0/abd_53_page_2.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-07T17:10:55Z"
-    },
-    {
-      "title": "Scientists Engineered Tobacco Plants to Produce Five Mind-Altering Psychedelic Compounds",
-      "link": "https://www.smithsonianmag.com/smart-news/scientists-engineered-tobacco-plants-to-produce-five-mind-altering-psychedelic-compounds-180988488/",
-      "summary": "The substances have been used by Indigenous peoples for thousands of years, but they've recently become popular as possible therapeutics for mental health conditions",
-      "date": "Tue, 07 Apr 2026 15Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/t6CyiRcnlkHv_2QK3-xsAFhaLM0=/420x240/filters:focal(3000x2000:3001x2001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1b/d1/1bd13e5f-b965-47b7-85a7-c1e653cecb61/tobacco.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-07T17:10:55Z"
     }
   ]
 }
