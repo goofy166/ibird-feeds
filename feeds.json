@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-14T21:58:03Z",
-  "updated_utc": "2026-04-14T21:58:03Z",
+  "updated": "2026-04-14T22:57:09Z",
+  "updated_utc": "2026-04-14T22:57:09Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Meet kungaka—'the hidden one.' This ancient lizard could be the rarest reptile in Australia",
+      "link": "https://phys.org/news/2026-04-kungaka-hidden-ancient-lizard-rarest.html",
+      "summary": "Hidden among the red sandstone escarpments of Mutawintji National Park in western New South Wales lives a rare lizard, long isolated in this arid landscape.",
+      "date": "2026-04-14T22:00:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/meet-kungakathe-hidden.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-14T22:57:05Z"
+    },
     {
       "title": "California scientists are uncovering Baja’s mysterious creatures. Their new research shows there’s still a lot to learn.",
       "link": "https://www.mercurynews.com/2026/04/07/san-diego-scientists-are-uncovering-bajas-mysterious-creatures-their-new-research-shows-theres-still-a-lot-to-learn/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-04-07T17:10:55Z"
-    },
-    {
-      "title": "The first-ever ‘Earthset’ image marks another Artemis II milestone",
-      "link": "https://www.sciencenews.org/article/first-earthset-moon-artemis-ii-mission",
-      "summary": "As NASA’s Orion spacecraft slipped behind the farside of the moon, the astronauts captured the crescent of Earth setting over the moon’s horizon.",
-      "date": "Tue, 07 Apr 2026 15Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/040726_LG_artemis_earthset_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-07T17:10:56Z"
     }
   ]
 }
