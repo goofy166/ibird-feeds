@@ -1,8 +1,85 @@
 {
-  "updated": "2026-04-14T18:11:39Z",
-  "updated_utc": "2026-04-14T18:11:39Z",
+  "updated": "2026-04-14T20:10:56Z",
+  "updated_utc": "2026-04-14T20:10:56Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Born to a Family of Sharecroppers, This Topiary Artist Overcame Discrimination to Become the 'Picasso of Plants'",
+      "link": "https://www.smithsonianmag.com/smart-news/born-to-a-family-of-sharecroppers-this-topiary-artist-overcame-discrimination-to-become-the-picasso-of-plants-180988544/",
+      "summary": "Self-taught artist Pearl Fryar, who died this month at age 86, got his start when he tried to win an award from his local garden club. He ended up becoming a celebrity in the horti",
+      "date": "Tue, 14 Apr 2026 19Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/3DdbgJ_7O2yK-ofFsluiwLtNFE0=/420x240/filters:focal(1500x1000:1501x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4d/4e/4d4eba27-a084-493e-843a-ecd31fc4e00e/topiary.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-14T20:10:49Z"
+    },
+    {
+      "title": "Long Misidentified, This Seal Tooth Pendant Was Carefully Crafted by a Prehistoric Human Roughly 15,000 Years Ago",
+      "link": "https://www.smithsonianmag.com/smart-news/long-misidentified-this-seal-tooth-pendant-was-carefully-crafted-by-a-prehistoric-human-roughly-15000-years-ago-180988543/",
+      "summary": "Discovered in 1867, the artifact raises new theories about the Magdalenian people who inhabited southwest England during the Late Upper Paleolithic period",
+      "date": "Tue, 14 Apr 2026 18Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/52lZ5WDSX6yke5HzsVVfdaHFX-Y=/420x240/filters:focal(600x346:601x347)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/89/fe/89fe849b-642a-4fd1-8efe-cb31c37ca522/seal-pendant-suspended-pendant-on-cord-two-column-nhmjpgthumb19201920.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-14T20:10:49Z"
+    },
+    {
+      "title": "The stunning physics of Project Hail Mary go back to ancient China",
+      "link": "https://www.newscientist.com/article/2523048-the-stunning-physics-of-project-hail-mary-go-back-to-ancient-china/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "How do you portray momentum in space accurately? Columnist Chanda Prescod-Weinstein takes a look at the origins of our understanding of motion, which runs from Isaac Newton back to",
+      "date": "Tue, 14 Apr 2026 18Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/14161709/SEI_293138562.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-14T20:10:51Z"
+    },
+    {
+      "title": "Picky methane-consuming microorganisms prefer carbon monoxide, opening the door to more greenhouse gas release",
+      "link": "https://phys.org/news/2026-04-picky-methane-consuming-microorganisms-carbon.html",
+      "summary": "Research by microbiologists Reinier Egas and Cornelia Welte of Radboud University shows that many methane-consuming microorganisms actually prefer carbon monoxide over methane. Whe",
+      "date": "2026-04-14T20:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/picky-methane-consumin.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-14T20:10:52Z"
+    },
+    {
+      "title": "Hidden damage in stony corals revealed using 3D imaging and AI",
+      "link": "https://phys.org/news/2026-04-hidden-stony-corals-revealed-3d.html",
+      "summary": "Florida's coral reefs are under siege. Since 2014, Stony Coral Tissue Loss Disease (SCTLD) has spread rapidly across the Florida Reef Tract and Caribbean, killing vast numbers of r",
+      "date": "2026-04-14T20:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-reveals-hidden-d.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-14T20:10:52Z"
+    },
+    {
+      "title": "A built-in 'hairpin' mechanism in CRISPR-Cas13 prevents rogue RNAs",
+      "link": "https://phys.org/news/2026-04-built-hairpin-mechanism-crispr-cas13.html",
+      "summary": "The CRISPR-Cas gene-editing system has long been the focus of research as a promising tool in genome editing. However, the emphasis has been on its underlying mechanisms and nuclea",
+      "date": "2026-04-14T19:40:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-built-in-hairpin-mec.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-14T20:10:52Z"
+    },
+    {
+      "title": "Integration of two genes: A valuable strategy for developing virus-resistant tomatoes",
+      "link": "https://phys.org/news/2026-04-genes-valuable-strategy-virus-resistant.html",
+      "summary": "Tomato yellow leaf curl disease (TYLCD), caused by begomoviruses, is a global problem in tomato production, affecting yield. While introduction of resistance genes is one of the st",
+      "date": "2026-04-14T19:00:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/integration-of-two-gen.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-14T20:10:52Z"
+    },
     {
       "title": "My friend and I saw a big cat on Exmoor in 1982 | Letter",
       "link": "https://www.theguardian.com/world/2026/apr/14/my-friend-and-i-saw-a-big-cat-on-exmoor-in-1982",
@@ -5425,83 +5502,6 @@
       "category": "birds",
       "color": 3,
       "fetched_at": "2026-04-07T15:18:51Z"
-    },
-    {
-      "title": "Birds Near Me",
-      "link": "https://www.allaboutbirds.org/news/birds-near-me/",
-      "summary": "",
-      "date": "Tue, 07 Apr 2026 14Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Psephotus_haematonotus_male.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-04-07T15:18:51Z"
-    },
-    {
-      "title": "Oil slick from bombed Iranian ship threatens protected wetland",
-      "link": "https://www.theguardian.com/environment/2026/apr/07/oil-slick-shahid-bagheri-iran-ship-hara-wetland",
-      "summary": "Shahid Bagheri leaking fuel towards Hara mangrove forest, home to migrating birds and endangered turtles Middle East crisis – live updates An oil slick from a stricken Iranian ship",
-      "date": "2026-04-07T15:02:05Z",
-      "image": "https://i.guim.co.uk/img/media/2c623e4631896259bfe5155274a95781f6675a5c/146_0_998_798/master/998.jpg?width=140&quality=85&auto=format&fit=max&s=190d95b0ed58ddcb3e37c6d7133299ea",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-07T15:18:54Z"
-    },
-    {
-      "title": "California scientists are uncovering Baja’s mysterious creatures. Their new research shows there’s still a lot to learn.",
-      "link": "https://www.mercurynews.com/2026/04/07/san-diego-scientists-are-uncovering-bajas-mysterious-creatures-their-new-research-shows-theres-still-a-lot-to-learn/",
-      "summary": "Scientists are learning more about a rare Baja snake. Plus, a short hike in a local San Diego canyon.",
-      "date": "Tue, 07 Apr 2026 11Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/sut-l-NAT-expedition-21A.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-04-07T15:18:58Z"
-    },
-    {
-      "title": "Becoming an Expert Birder Can Reshape Your Brain and Might Help Protect It From Aging, New Research Suggests",
-      "link": "https://www.smithsonianmag.com/smart-news/becoming-an-expert-birder-can-reshape-your-brain-and-might-help-protect-it-from-aging-new-research-suggests-180988489/",
-      "summary": "Compared to novices, seasoned birders had denser, more structurally complex brain regions involved with tasks like object identification, visual processing, attention and working m",
-      "date": "Tue, 07 Apr 2026 14Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/4-XHqwIrcp4fVudJrIK5EMsznKg=/420x240/filters:focal(1723x1395:1724x1396)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1f/4f/1f4f549e-23ad-4ab9-8b03-0095e8fd6995/pexels-timon-cornelissen-241844481-33392217.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-07T15:19:02Z"
-    },
-    {
-      "title": "How the social lives of magpies shape their call repertoire",
-      "link": "https://phys.org/news/2026-04-social-magpies-repertoire.html",
-      "summary": "Communication is central to the survival of most animals, including humans. Yet animals of different species communicate differently, and the complexity of their communication skil",
-      "date": "2026-04-07T14:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-the-social-lives-o.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-07T15:19:06Z"
-    },
-    {
-      "title": "Tech can enable cross-species experiences, new research suggests",
-      "link": "https://phys.org/news/2026-04-tech-enable-species.html",
-      "summary": "Giving lemurs the chance to use technology to share control of sensory experiences with zoo visitors can help create meaningful connections between humans and animals, new research",
-      "date": "2026-04-07T14:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tech-can-enable-cross-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-07T15:19:06Z"
-    },
-    {
-      "title": "15 years after the eradication of rinderpest, lessons still ring true",
-      "link": "https://phys.org/news/2026-04-years-eradication-rinderpest-lessons-true.html",
-      "summary": "Permanently wiping out a disease is tricky business. Polio, measles, mumps—all have effective vaccines, yet they persist in certain pockets around the world. To date, the World Hea",
-      "date": "2026-04-07T13:50:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/beef-cattle.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-07T15:19:06Z"
     }
   ]
 }
