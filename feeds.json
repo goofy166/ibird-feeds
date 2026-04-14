@@ -1,8 +1,52 @@
 {
-  "updated": "2026-04-13T23:53:07Z",
-  "updated_utc": "2026-04-13T23:53:07Z",
+  "updated": "2026-04-14T03:30:02Z",
+  "updated_utc": "2026-04-14T03:30:02Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Did you know hummingbirds love to eat insects?",
+      "link": "https://www.mercurynews.com/2026/04/12/outdoors/",
+      "summary": "Blooming flowers provide natural nectar sources, but hummingbirds primarily eat bugs, including an assortment of gnats, mosquitoes, crane flies, midges and spiders.",
+      "date": "2026-04-12T12:00:51Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SUT-L-COWAN-COL-0412-03.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-14T03:29:52Z"
+    },
+    {
+      "title": "The green solution to climate change isn't happening – and that's good",
+      "link": "https://www.newscientist.com/article/2522770-the-green-solution-to-climate-change-isnt-happening-and-thats-good/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Removing CO2 from the atmosphere by capturing the carbon from burning biomass is supposed to save the planet, but it looks like the flagship project will never happen",
+      "date": "2026-04-13T22:00:02Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/13171038/SEI_293019176.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-14T03:29:57Z"
+    },
+    {
+      "title": "Free online lipid network aims to unite researchers and speed collaboration worldwide",
+      "link": "https://phys.org/news/2026-04-free-online-lipid-network-aims.html",
+      "summary": "Lipid research investigates the structure, function and metabolism of fats, covering their roles in industrial processes, the environment and health. Emerging research areas includ",
+      "date": "2026-04-14T02:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/lab.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-14T03:29:58Z"
+    },
+    {
+      "title": "Predictably unpredictable: Building resilient crops for a changing world",
+      "link": "https://phys.org/news/2026-04-unpredictable-resilient-crops-world.html",
+      "summary": "An unusually mild winter followed by a wet spring made last year one of the worst in a decade for Pennsylvania soybean growers. It wasn't the soybeans that were the problem; it was",
+      "date": "2026-04-14T01:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/predictably-unpredicta.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-14T03:29:58Z"
+    },
     {
       "title": "Compact CRISPR system unlocks targeted in-body gene editing, with up to 90% efficiency",
       "link": "https://phys.org/news/2026-04-compact-crispr-body-gene-efficiency.html",
@@ -5458,50 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-04-06T17:00:58Z"
-    },
-    {
-      "title": "Doctors Used 'Digital Twins' of Patients' Hearts to Fix Their Irregular Heartbeats",
-      "link": "https://www.smithsonianmag.com/smart-news/doctors-used-digital-twins-of-patients-hearts-to-fix-their-irregular-heartbeats-180988476/",
-      "summary": "A small clinical trial suggests the technology can help physicians perform life-saving surgeries more efficiently and safely",
-      "date": "2026-04-06T15:47:43Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/ixyxWk-XywCK6nSosmnduj2EGjs=/420x240/filters:focal(642x483:643x484)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c2/8c/c28c89cd-b999-4cad-bc73-9402d735abb8/screenshot_2026-04-02_at_123331pm.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-06T17:01:06Z"
-    },
-    {
-      "title": "Novel approach to clearing brain waste shows promise for Alzheimer's",
-      "link": "https://www.newscientist.com/article/2522065-novel-approach-to-clearing-brain-waste-shows-promise-for-alzheimers/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Boosting the brain's waste-disposal system is increasingly showing promise for Alzheimer's disease, with a study now suggesting that a novel approach eases brain deficits and sympt",
-      "date": "2026-04-06T12:00:57Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/02163440/SEI_291714243.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-06T17:01:13Z"
-    },
-    {
-      "title": "Pigeons tend to respond 'at the edge of chaos,' study finds",
-      "link": "https://phys.org/news/2026-04-pigeons-tend-edge-chaos.html",
-      "summary": "If you were rewarded for following a particular pattern of behavior, wouldn't you keep doing it? The answer turns out to be more nuanced than you might think. In a new study, Unive",
-      "date": "2026-04-06T17:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pigeon.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-06T17:01:15Z"
-    },
-    {
-      "title": "How the female baboon body has the final say in sperm selection",
-      "link": "https://phys.org/news/2026-04-female-baboon-body-sperm.html",
-      "summary": "Just because a female olive baboon has mated with a specific male doesn't mean he will be the father of her offspring. According to a new study published in PLOS Biology, mate sele",
-      "date": "2026-04-06T16:50:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-the-female-baboon-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-06T17:01:15Z"
     }
   ]
 }
