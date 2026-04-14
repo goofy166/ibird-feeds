@@ -1,8 +1,118 @@
 {
-  "updated": "2026-04-14T20:10:56Z",
-  "updated_utc": "2026-04-14T20:10:56Z",
+  "updated": "2026-04-14T21:58:03Z",
+  "updated_utc": "2026-04-14T21:58:03Z",
   "count": 500,
   "stories": [
+    {
+      "title": "California scientists are uncovering Baja’s mysterious creatures. Their new research shows there’s still a lot to learn.",
+      "link": "https://www.mercurynews.com/2026/04/07/san-diego-scientists-are-uncovering-bajas-mysterious-creatures-their-new-research-shows-theres-still-a-lot-to-learn/",
+      "summary": "Scientists are learning more about a rare Baja snake. Plus, a short hike in a local San Diego canyon.",
+      "date": "Tue, 07 Apr 2026 11Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/sut-l-NAT-expedition-21A.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-14T21:57:52Z"
+    },
+    {
+      "title": "Colombia Plans to Euthanize Dozens of 'Cocaine Hippos,' Descendants of Animals Brought by Notorious Drug Trafficker Pablo Escobar",
+      "link": "https://www.smithsonianmag.com/smart-news/colombia-plans-to-euthanize-dozens-of-cocaine-hippos-descendants-of-animals-brought-by-notorious-drug-trafficker-pablo-escobar-180988548/",
+      "summary": "If nothing is done to control the invasive creatures, officials estimate the population could grow to 1,000 animals by 2035. So, they aim to cull about 80 individuals later this ye",
+      "date": "Tue, 14 Apr 2026 21Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/pmk8Lpi7PCXVG51vb_C44o9-vV0=/420x240/filters:focal(4128x2752:4129x2753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/51/47/5147e0bc-1da5-4a70-9037-a55a7442ab90/hippo.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-14T21:57:55Z"
+    },
+    {
+      "title": "Is a super El Niño imminent, and what could the impacts be?",
+      "link": "https://www.newscientist.com/article/2523034-is-a-super-el-nino-imminent-and-what-could-the-impacts-be/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A planet-warming El Niño climate phase is now developing, and some models predict it could turn out to be the strongest on record",
+      "date": "Tue, 14 Apr 2026 21Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/14164226/SEI_293140790.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-14T21:57:58Z"
+    },
+    {
+      "title": "Beef is making a comeback – does it fit into a healthy diet?",
+      "link": "https://www.newscientist.com/article/2522111-beef-is-making-a-comeback-does-it-fit-into-a-healthy-diet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The protein craze is in full swing and beef consumption is on the rise, particularly in the US, where health agencies are promoting red meat as part of an optimum diet. So, how muc",
+      "date": "Tue, 14 Apr 2026 19Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/08204052/SEI_292410310.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-14T21:57:58Z"
+    },
+    {
+      "title": "Are Neanderthals descendants of modern humans?",
+      "link": "https://www.newscientist.com/article/2522913-are-neanderthals-descendants-of-modern-humans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The gap between genetics and archaeology leaves us with an unclear picture of where the Neanderthals originated. Columnist Michael Marshall details a surprising new hypothesis that",
+      "date": "Tue, 14 Apr 2026 19Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/13203555/SEI_291616172.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-14T21:57:58Z"
+    },
+    {
+      "title": "After 9,000 years of cultivation, rice has reached its thermal limit",
+      "link": "https://phys.org/news/2026-04-years-cultivation-rice-thermal-limit.html",
+      "summary": "Rice has historically been a heat-loving plant. In fact, the wild ancestor of cultivated rice once grew primarily on the sweltering, rain-swept Malay and Indochina peninsulas as we",
+      "date": "2026-04-14T21:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/after-9000-years-of-cu.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-14T21:57:59Z"
+    },
+    {
+      "title": "Simple rules guide how proteins assemble and evolve, study finds",
+      "link": "https://phys.org/news/2026-04-simple-proteins-evolve.html",
+      "summary": "Researchers at Ben-Gurion University of the Negev have identified simple rules that explain how complex protein structures assemble correctly and remain functional over time, despi",
+      "date": "2026-04-14T21:40:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/protein-folding.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-14T21:57:59Z"
+    },
+    {
+      "title": "Why did the stag beetle Prosopocoilus hachijoensis lose its ability to fly?",
+      "link": "https://phys.org/news/2026-04-stag-beetle-prosopocoilus-hachijoensis-ability.html",
+      "summary": "The stag beetle Prosopocoilus hachijoensis is the only flightless species of the genus Prosopocoilus in Japan. Researchers at University of Tsukuba investigated the mechanisms unde",
+      "date": "2026-04-14T21:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-did-the-stag-beetl.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-14T21:57:59Z"
+    },
+    {
+      "title": "When a key resource disappears: What wood ant networks can teach us",
+      "link": "https://phys.org/news/2026-04-key-resource-wood-ant-networks.html",
+      "summary": "At first glance, the world of ants may seem far removed from our everyday lives. Yet, on closer inspection, they often face surprisingly similar challenges. They live in complex so",
+      "date": "2026-04-14T21:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-a-key-resource-di-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-14T21:57:59Z"
+    },
+    {
+      "title": "Some lake bacteria survive by slashing half their genome and never looking back",
+      "link": "https://phys.org/news/2026-04-lake-bacteria-survive-slashing-genome.html",
+      "summary": "Researchers at the University of Zurich have analyzed the genome of bacteria living in Lake Zurich to conclude that microbes employ two different strategies to colonize new habitat",
+      "date": "2026-04-14T20:20:09Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-soil-microbes-adap.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-14T21:57:59Z"
+    },
     {
       "title": "Born to a Family of Sharecroppers, This Topiary Artist Overcame Discrimination to Become the 'Picasso of Plants'",
       "link": "https://www.smithsonianmag.com/smart-news/born-to-a-family-of-sharecroppers-this-topiary-artist-overcame-discrimination-to-become-the-picasso-of-plants-180988544/",
@@ -5392,116 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-04-07T17:10:56Z"
-    },
-    {
-      "title": "Migraines could be treated by ramping up the brain's cleaning system",
-      "link": "https://www.newscientist.com/article/2522159-migraines-could-be-treated-by-ramping-up-the-brains-cleaning-system/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Amplifying the brain's waste disposal system seems to clear a substance that drives migraines, relieving some of the pain associated with the condition",
-      "date": "Tue, 07 Apr 2026 16Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/07120603/SEI_292292157.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-07T17:10:57Z"
-    },
-    {
-      "title": "Are manure digesters a real solution to dairy farm emissions?",
-      "link": "https://www.newscientist.com/article/2522081-are-manure-digesters-a-real-solution-to-dairy-farm-emissions/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Anaerobic digesters converting manure to biogas reduce methane emissions from livestock, but incentives for them have encouraged factory farms to get bigger",
-      "date": "Tue, 07 Apr 2026 16Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/07111647/SEI_291829348.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-07T17:10:57Z"
-    },
-    {
-      "title": "Rich biodiversity found in Japan's deepest ocean trenches, including an unidentified 'mystery' species",
-      "link": "https://phys.org/news/2026-04-rich-biodiversity-japan-deepest-ocean.html",
-      "summary": "A new study published in the Biodiversity Data Journal provides a profound look at life up to nearly 10 kilometers below the ocean's surface in the Japan, Ryukyu, and Izu-Ogasawara",
-      "date": "2026-04-07T17:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rich-biodiversity-foun.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-07T17:10:58Z"
-    },
-    {
-      "title": "New leading cause of tree death in US northeast shifts from logging to natural causes",
-      "link": "https://phys.org/news/2026-04-tree-death-northeast-shifts-natural.html",
-      "summary": "Why do trees fall in the forest? The Answer is Changing. New research suggests that in just 15 years, the causes of most tree loss have flipped from human hands to a handful of nat",
-      "date": "2026-04-07T16:10:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/logging.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-07T17:10:58Z"
-    },
-    {
-      "title": "Born to roam, built for home: New genomic insights for snapper fisheries",
-      "link": "https://phys.org/news/2026-04-born-roam-built-home-genomic.html",
-      "summary": "Snapper are central to coastal life across southern Australia, supporting fisheries, local businesses, and regional tourism. New Flinders University research has found that althoug",
-      "date": "2026-04-07T16:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/snapper.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-07T17:10:58Z"
-    },
-    {
-      "title": "Ak4 regulates mitochondrial DNA synthesis to control macrophage antibacterial activity, research finds",
-      "link": "https://phys.org/news/2026-04-ak4-mitochondrial-dna-synthesis-macrophage.html",
-      "summary": "A mitochondrial enzyme, Ak4, strengthens immune defense by promoting mitochondrial DNA synthesis and enhancing macrophage antibacterial activity. When bacteria invade the body, mac",
-      "date": "2026-04-07T16:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ak4-regulates-mitochon.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-07T17:10:58Z"
-    },
-    {
-      "title": "DNA reveals ancestry of man buried in Stone Age monument in Spain, but his religion remains a mystery",
-      "link": "https://www.livescience.com/archaeology/dna-reveals-ancestry-of-man-buried-in-stone-age-monument-in-spain-but-his-religion-remains-a-mystery",
-      "summary": "In the Middle Ages, a man was buried in a Stone Age monument in what is now Spain. Now, we finally know his genetic roots, but his religious beliefs are still a mystery.",
-      "date": "Tue, 07 Apr 2026 16Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/hVhNXU9eUHzAHX2f7UvpUQ-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-07T17:11:00Z"
-    },
-    {
-      "title": "'So much magic': Artemis II shares first images from the far side of the moon, including new 'Earthset' and total eclipse in space",
-      "link": "https://www.livescience.com/space/the-moon/so-much-magic-artemis-ii-shares-first-images-from-the-far-side-of-the-moon-including-new-earthset-and-total-eclipse-in-space",
-      "summary": "NASA's first set of images captured by the Artemis II crew during their lunar flyby are here, and they're stunnin",
-      "date": "Tue, 07 Apr 2026 16Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/gahDatvZXJk7aotwMurfeP-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-07T17:11:00Z"
-    },
-    {
-      "title": "Voices: Common Loon",
-      "link": "https://www.allaboutbirds.org/news/voices-common-loon/",
-      "summary": "",
-      "date": "Tue, 07 Apr 2026 15Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Juvenile_Raggiana_Bird-of-Paradise.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-04-07T15:18:51Z"
-    },
-    {
-      "title": "Club-Winged Manakin Dance",
-      "link": "https://www.allaboutbirds.org/news/club-winged-manakin-dance/",
-      "summary": "",
-      "date": "Tue, 07 Apr 2026 14Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Psephotus_haematonotus_male.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-04-07T15:18:51Z"
     }
   ]
 }
