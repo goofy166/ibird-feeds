@@ -1,8 +1,96 @@
 {
-  "updated": "2026-04-15T12:00:45Z",
-  "updated_utc": "2026-04-15T12:00:45Z",
+  "updated": "2026-04-15T14:48:23Z",
+  "updated_utc": "2026-04-15T14:48:23Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Ant smuggler sentenced to a year in jail by Kenyan court",
+      "link": "https://www.theguardian.com/environment/2026/apr/15/ant-smuggler-sentenced-to-a-year-in-jail-by-kenyan-court",
+      "summary": "More than 2,200 ants were found in Zhang Kequn’s luggage at Nairobi airport, with baggage destined for China A Chinese national has been sentenced to a year in prison and fined by ",
+      "date": "2026-04-15T14:07:33Z",
+      "image": "https://i.guim.co.uk/img/media/6599c7988a158fcbef75059cd29599182cb32f18/301_0_3139_2511/master/3139.jpg?width=140&quality=85&auto=format&fit=max&s=36b8b0dc38963c57bd585e196bd1effe",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-15T14:48:08Z"
+    },
+    {
+      "title": "Scientists Just Made the Most Complete Map of the Clitoris's Sensory Nerve Network. Here's What They Found",
+      "link": "https://www.smithsonianmag.com/smart-news/scientists-just-made-the-most-complete-map-of-the-clitoris-sensory-nerve-network-heres-what-found-180988463/",
+      "summary": "Cultural taboos around female sexuality have hindered research on the organ. But a new study provides pivotal insights that can inform important surgeries and health care",
+      "date": "2026-04-15T14:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/yM7KDT3VwUsHAp-WDowQ7boEhJo=/420x240/filters:focal(2736x1824:2737x1825)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/26/47/26473c59-4662-411e-8ec8-ee32b9db206d/clitoris.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-15T14:48:16Z"
+    },
+    {
+      "title": "A Rare 1897 Film Discovered in an Old Trunk in Michigan Features the First On-Screen Appearance of a Robot",
+      "link": "https://www.smithsonianmag.com/smart-news/rare-1897-film-discovered-in-an-old-trunk-in-michigan-features-the-first-on-screen-appearance-of-robot-180988547/",
+      "summary": "Filmmaker Georges Méliès employed some of his signature special effects techniques to create comedy in \"Gugusse and the Automaton\"",
+      "date": "2026-04-15T13:16:42Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/ze447GdtexVoPmFWz7WPxLnMfAs=/420x240/filters:focal(1037x691:1038x692)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1a/6e/1a6eeefd-3ccb-4629-a5d7-38d36844d2da/screenshot_2026-04-14_at_125848pm.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-15T14:48:16Z"
+    },
+    {
+      "title": "Math long resisted a digital disruption. AI is poised to change that",
+      "link": "https://www.sciencenews.org/article/math-disrupted-by-ai-verify-proofs",
+      "summary": "The painstaking process of formalization to verify proofs is starting to surge thanks to AI. That could radically change the way people do math.",
+      "date": "2026-04-15T13:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/0526_ai-math_feat_A.gif?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-04-15T14:48:17Z"
+    },
+    {
+      "title": "'Safe' fertilizer linked to extreme water quality loss in Canadian Prairies",
+      "link": "https://phys.org/news/2026-04-safe-fertilizer-linked-extreme-quality.html",
+      "summary": "Research published in Nature Water found that widespread application of the common farm fertilizer, urea, severely degrades water quality in the Canadian Prairies. Researchers at t",
+      "date": "2026-04-15T13:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/canadian-prairies.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-15T14:48:20Z"
+    },
+    {
+      "title": "Nature might have a universal rhythm",
+      "link": "https://phys.org/news/2026-04-nature-universal-rhythm.html",
+      "summary": "Animal communication can look wildly different—flashing lights, chirping calls, croaking songs and elaborate dances. But new research from Northwestern University suggests many of ",
+      "date": "2026-04-15T13:20:09Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nature-might-have-a-un.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-15T14:48:20Z"
+    },
+    {
+      "title": "Drought takes a heavy toll on bumblebees",
+      "link": "https://phys.org/news/2026-04-drought-heavy-toll-bumblebees.html",
+      "summary": "Drought significantly reduces the reproductive success of bumblebee colonies, according to a new study conducted by a research team at the University of Würzburg and published in t",
+      "date": "2026-04-15T13:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/drought-takes-a-heavy-3.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-15T14:48:20Z"
+    },
+    {
+      "title": "New technique maps cancer drug uptake inside living cells",
+      "link": "https://phys.org/news/2026-04-technique-cancer-drug-uptake-cells.html",
+      "summary": "A new analytical method could improve how cancer treatments are designed—by allowing scientists to track, for the first time, exactly where inside a living cell a drug accumulates.",
+      "date": "2026-04-15T12:40:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-technique-maps-can.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-15T14:48:20Z"
+    },
     {
       "title": "Let’s Talk About Quails",
       "link": "https://www.10000birds.com/lets-talk-about-quails.htm?utm_source=rss&utm_medium=rss&utm_campaign=lets-talk-about-quails",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-04-07T23:47:56Z"
-    },
-    {
-      "title": "'Oldest octopus' fossil is no octopus at all, scans reveal",
-      "link": "https://phys.org/news/2026-04-oldest-octopus-fossil-scans-reveal.html",
-      "summary": "A famous 300-million-year-old fossil that was thought to be the world's oldest octopus—even featuring in the Guinness Book of Records—has turned out to be something else altogether",
-      "date": "2026-04-07T23:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oldest-octopus-fossil.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-07T23:47:58Z"
-    },
-    {
-      "title": "Do Hummingbirds Reuse Their Nests?",
-      "link": "https://www.birdsandblooms.com/birding/attracting-hummingbirds/do-hummingbirds-reuse-nests/",
-      "summary": "Will a female hummingbird reuse a nest to raise another brood? Find out if hummingbird moms make a new nest each time. The post Do Hummingbirds Reuse Their Nests? appeared first on",
-      "date": "Tue, 31 Mar 2026 14Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/GettyImages-1219649975.jpg?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-04-07T22:49:30Z"
-    },
-    {
-      "title": "AI is reengineering drug discovery by speeding up testing and scanning petabytes of data",
-      "link": "https://phys.org/news/2026-04-ai-reengineering-drug-discovery-scanning.html",
-      "summary": "In December, The Conversation hosted a webinar on AI's revolutionary role in drug discovery and development. Science and technology editor Eric Smalley interviewed Jeffrey Skolnick",
-      "date": "2026-04-07T22:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/ai-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-07T22:49:46Z"
-    },
-    {
-      "title": "This protein helps cancer cells survive treatment—and points to new treatments",
-      "link": "https://phys.org/news/2026-04-protein-cancer-cells-survive-treatment.html",
-      "summary": "Researchers at Umeå University have contributed new insights into how cancer cells protect themselves from cell death. The study provides a deeper understanding of how key proteins",
-      "date": "2026-04-07T22:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-protein-that-helps.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-07T22:49:46Z"
-    },
-    {
-      "title": "Molecular 'leash' measures force-sensing protein activation at about 15 piconewtons",
-      "link": "https://phys.org/news/2026-04-molecular-leash-protein-piconewtons.html",
-      "summary": "Researchers at the National University of Singapore (NUS) have built a molecular \"leash\" to pull directly on a force-sensing protein called Piezo1, and discovered it switches on at",
-      "date": "2026-04-07T22:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/force-sensing-in-cells.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-07T22:49:46Z"
-    },
-    {
-      "title": "African frogs haven't forgotten the ice ages. Scientists can tell by where they live.",
-      "link": "https://phys.org/news/2026-04-african-frogs-havent-forgotten-ice.html",
-      "summary": "Why are frogs diverse in some parts of Africa's rainforests and less so in others? The patterns of cooling and glaciation during the last ice age would probably not have been your ",
-      "date": "2026-04-07T21:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/african-frogs-havent-f-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-07T21:53:31Z"
-    },
-    {
-      "title": "Researchers clarify how cells remove damaged endoplasmic reticulum",
-      "link": "https://phys.org/news/2026-04-cells-endoplasmic-reticulum.html",
-      "summary": "The cell's endoplasmic reticulum (ER) plays a central role in protein synthesis, folding, and calcium (Ca²⁺) storage. When damaged, ER-phagy (self-eating) removes affected ER regio",
-      "date": "2026-04-07T21:30:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-clarify-ho.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-07T21:53:31Z"
-    },
-    {
-      "title": "Fly ball: Drosophila can learn while playing with tiny spheres",
-      "link": "https://phys.org/news/2026-04-fly-ball-drosophila-playing-tiny.html",
-      "summary": "For more than a century, the fruit fly has been a workhorse of the biological sciences that has helped scientists to make fundamental breakthroughs in fields such as genetics and n",
-      "date": "2026-04-07T21:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fly-ball.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-07T21:53:31Z"
     }
   ]
 }
