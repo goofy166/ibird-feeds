@@ -1,8 +1,63 @@
 {
-  "updated": "2026-04-15T08:49:37Z",
-  "updated_utc": "2026-04-15T08:49:37Z",
+  "updated": "2026-04-15T10:22:57Z",
+  "updated_utc": "2026-04-15T10:22:57Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Sperm whales’ communication closely parallels human language, study finds",
+      "link": "https://www.theguardian.com/environment/2026/apr/15/sperm-whales-alphabet-vocalizations-similar-humans",
+      "summary": "Analysis shows whales’ coda vocalizations are ‘highly complex’ and remarkably similar to our own We may appear to have little in common with sperm whales – enormous, ocean-dwelling",
+      "date": "2026-04-15T10:00:25Z",
+      "image": "https://i.guim.co.uk/img/media/f27594083ae2fe430610c8c1be16c9e872536dee/0_0_5399_4320/master/5399.jpg?width=140&quality=85&auto=format&fit=max&s=438352d439a5e6cd6bea6068014e366a",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-15T10:22:42Z"
+    },
+    {
+      "title": "How to Make Your Sleeping Bag Last Forever",
+      "link": "https://www.outsideonline.com/outdoor-gear/camping/sleeping-bag-care-maintenance/",
+      "summary": "Your sleeping bag needs a little TLC if you want it to last as long as possible. Some post-trip care—such as proper washing, drying, and storage—can mean the difference between yea",
+      "date": "2026-04-15T10:01:59Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/sleeping-bag-care-maintenance.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-15T10:22:48Z"
+    },
+    {
+      "title": "America's sewage and manure hold a $5.7 billion key to breaking synthetic fertilizer dependence",
+      "link": "https://phys.org/news/2026-04-america-sewage-manure-billion-key.html",
+      "summary": "Nutrients recovered from animal and human waste could drastically reduce synthetic fertilizer use in the U.S., according to a new Cornell University study that takes into account r",
+      "date": "2026-04-15T09:00:09Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/fertilizer.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-15T10:22:53Z"
+    },
+    {
+      "title": "Scientists turn AI-generated proteins into smart molecular sensors",
+      "link": "https://phys.org/news/2026-04-scientists-ai-generated-proteins-smart.html",
+      "summary": "An international team led by researchers at QUT has used artificial intelligence to create tiny \"smart\" proteins that switch on only when they detect a chosen target. Published in ",
+      "date": "2026-04-15T09:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-turn-ai-gen.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-15T10:22:53Z"
+    },
+    {
+      "title": "Diagnostic dilemma: A woman heard voices telling her she had a brain tumor ‪—‬ and scans confirmed she did",
+      "link": "https://www.livescience.com/health/diagnostic-dilemma-a-woman-heard-voices-telling-her-she-had-a-brain-tumor-and-scans-confirmed-she-did",
+      "summary": "In a strange medical case, a woman suddenly started hearing voices, and they directed her to seek care for a brain tumor.",
+      "date": "2026-04-15T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/tL7LnHaX6x3ekecQz7ZoJ5-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-15T10:22:55Z"
+    },
     {
       "title": "More than half of Britain’s butterfly species in decline, monitoring scheme shows",
       "link": "https://www.theguardian.com/environment/2026/apr/15/butterfly-monitoring-scheme-britain-decline",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-04-07T20:57:26Z"
-    },
-    {
-      "title": "How stem cell descendants preserve flexibility while maintaining distinct identities",
-      "link": "https://phys.org/news/2026-04-stem-cell-descendants-flexibility-distinct.html",
-      "summary": "Stem cells are the body's ultimate shape-shifters, sustaining tissues by balancing two competing demands: maintaining their own population and generating specialized descendants. I",
-      "date": "2026-04-07T20:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-stem-cell-descenda.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-07T20:57:27Z"
-    },
-    {
-      "title": "What this AI epitope library means for vaccines, immunotherapy and biosensors",
-      "link": "https://phys.org/news/2026-04-ai-epitope-library-vaccines-immunotherapy.html",
-      "summary": "A new tool makes it possible to screen millions of tiny protein fragments and select those that can be recognized by the immune system. The CIC biomaGUNE Center for Cooperative Res",
-      "date": "2026-04-07T20:00:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-accelerates-the-dev-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-07T20:57:27Z"
-    },
-    {
-      "title": "3D microscopy reveals how a tick-borne virus reshapes human cells to replicate",
-      "link": "https://phys.org/news/2026-04-3d-microscopy-reveals-borne-virus.html",
-      "summary": "Researchers at Umeå University show how tick-borne viruses remodel human cells into virus factories, using an advanced microscopy method. The findings provide new insight into how ",
-      "date": "2026-04-07T19:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/three-dimensional-micr.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-07T20:57:27Z"
-    },
-    {
-      "title": "'They are literally everywhere': The shocking story of how forever chemicals polluted the world",
-      "link": "https://www.livescience.com/chemistry/they-are-literally-everywhere-the-shocking-story-of-how-forever-chemicals-polluted-the-world",
-      "summary": "Live Science spoke with Mariah Blake, an investigative journalist and author of the book \"They Poisoned The World,\" about one of the greatest corporate scandals in history.",
-      "date": "Tue, 07 Apr 2026 19Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/5z8rTH4SVCBKhtMPkfrLw-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-07T20:57:28Z"
-    },
-    {
-      "title": "Environmental group signs deal to buy Golden Gate Fields horse track with plans to create huge new East Bay waterfront park",
-      "link": "https://www.mercurynews.com/2026/03/31/environmental-group-signs-deal-to-buy-golden-gate-fields-horse-track-with-plans-to-create-huge-new-east-bay-waterfront-park/",
-      "summary": "$175 million deal is \"once in a lifetime opportunity\" to transform track that operated from 1941 to 2024, supporters say",
-      "date": "Tue, 31 Mar 2026 07Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/03/SJM-L-GGFIELDS-0331-1.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-04-07T19:16:18Z"
     }
   ]
 }
