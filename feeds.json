@@ -1,8 +1,140 @@
 {
-  "updated": "2026-04-15T18:10:03Z",
-  "updated_utc": "2026-04-15T18:10:03Z",
+  "updated": "2026-04-15T20:06:55Z",
+  "updated_utc": "2026-04-15T20:06:55Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Lark Bunting Bird Species Identification",
+      "link": "https://www.birdsandblooms.com/birding/bird-species/sparrows/lark-bunting/",
+      "summary": "Lark buntings are a striking, easy-to-spot bird of the prairies. Learn what a lark bunting looks and sounds like, and what the bird eats. The post Lark Bunting Bird Species Identif",
+      "date": "Tue, 31 Mar 2026 15Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/GettyImages-2256319558-e1774970294989.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-04-15T20:06:32Z"
+    },
+    {
+      "title": "The Best Trail Shoes for Spring and Summer Running (2026)",
+      "link": "https://www.outsideonline.com/outdoor-gear/run/best-trail-running-shoes/",
+      "summary": "From versatile road-to-trail cruisers to speedy, agile racers, we found the best trail running shoes for every runner and terrain. The post The Best Trail Shoes for Spring and Summ",
+      "date": "2026-04-15T18:06:03Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/trail_shoes_S2026_h.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-15T20:06:42Z"
+    },
+    {
+      "title": "Requests for blood from unvaccinated donors is harming patients",
+      "link": "https://www.newscientist.com/article/2523157-requests-for-blood-from-unvaccinated-donors-is-harming-patients/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Patients are requesting that blood transfusions come from people who they know have not been vaccinated against covid-19, which can cause dangerous delays",
+      "date": "2026-04-15T18:24:25Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/15162217/SEI_293145102.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-15T20:06:50Z"
+    },
+    {
+      "title": "Monkeys walk around a virtual world using only their thoughts",
+      "link": "https://www.newscientist.com/article/2522956-monkeys-walk-around-a-virtual-world-using-only-their-thoughts/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Monkeys with around 300 electrodes implanted in their brain were able to steer avatars around different virtual environments",
+      "date": "2026-04-15T18:00:42Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/15161019/SEI_293256504.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-15T20:06:50Z"
+    },
+    {
+      "title": "Largest ever map of universe captures 47 million galaxies and quasars",
+      "link": "https://www.newscientist.com/article/2520008-largest-ever-map-of-universe-captures-47-million-galaxies-and-quasars/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The Dark Energy Spectroscopic Instrument (DESI) has finished the most detailed survey of the universe to date, and the resulting map will help researchers understand an apparent we",
+      "date": "2026-04-15T16:00:45Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/24124507/SEI_290738755.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-15T20:06:50Z"
+    },
+    {
+      "title": "Neanderthal infants were enormous compared with modern humans",
+      "link": "https://www.newscientist.com/article/2523132-neanderthal-infants-were-enormous-compared-with-modern-humans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A detailed analysis of the best-preserved Neanderthal infant skeleton ever found suggests that our ancient relatives grew much faster as young children",
+      "date": "2026-04-15T16:00:13Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/15141126/SEI_293251292.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-15T20:06:50Z"
+    },
+    {
+      "title": "Museum drawer fossil reveals 200-million-year-old crocodile relative with a powerful bite",
+      "link": "https://phys.org/news/2026-04-museum-drawer-fossil-reveals-million.html",
+      "summary": "The fossil record has given us another new prehistoric species, named Eosphorosuchus lacrimosa (from the Greek personification of the morning star—the planet Venus), a member of th",
+      "date": "2026-04-15T20:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/introducing-a-new-preh.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-15T20:06:51Z"
+    },
+    {
+      "title": "Soil species face extinction risk as one in five assessed are threatened",
+      "link": "https://phys.org/news/2026-04-soil-species-extinction-threatened.html",
+      "summary": "A new report led by Conservation International and IUCN, published today in Oryx, warns that over 40% of more than 8,500 soil‑dependent species are at risk of extinction or Data‑De",
+      "date": "2026-04-15T19:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/soil.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-15T20:06:51Z"
+    },
+    {
+      "title": "One battered skull exposes a lost killer from dinosaur dawn and a vanished bloodline",
+      "link": "https://phys.org/news/2026-04-battered-skull-exposes-lost-killer.html",
+      "summary": "\"You want to stick your finger in a dinosaur brain?\" asked Simba Srivastava. Surrounded by cabinets full of ancient bones in the paleobiology lab, the Virginia Tech undergraduate s",
+      "date": "2026-04-15T18:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/student-identifies-new.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-15T20:06:51Z"
+    },
+    {
+      "title": "How to tell if your dog is in pain (and what to do if they are)",
+      "link": "https://phys.org/news/2026-04-dog-pain.html",
+      "summary": "If you live with a pet, you might feel like you can almost read each other's minds.",
+      "date": "2026-04-15T18:20:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/2-dog.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-15T20:06:51Z"
+    },
+    {
+      "title": "Pill bugs don't just use the minerals they eat—they rebuild them inside their bodies",
+      "link": "https://phys.org/news/2026-04-pill-bugs-dont-minerals-rebuild.html",
+      "summary": "Placing small stones in a bug cage is beneficial when raising pill bugs, a type of woodlouse. Researchers at the University of Tsukuba have discovered that pill bugs do not directl",
+      "date": "2026-04-15T18:20:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pill-bugs-dont-just-us.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-15T20:06:51Z"
+    },
+    {
+      "title": "Extend the Season of Love to Birds",
+      "link": "https://www.birds.cornell.edu/home/join_great_backyard_bird_count_2026/",
+      "summary": "Love is in the air—listen closely and the sounds of chickadees, sparrows, and thrushes are beckoning you to step outside to experience the love from birds and nature. Take a moment",
+      "date": "Tue, 20 Jan 2026 14Z",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-04-15T20:06:54Z"
+    },
     {
       "title": "Over-the-counter pet flea treatments could be banned under new UK rules",
       "link": "https://www.theguardian.com/environment/2026/apr/15/over-the-counter-pet-flea-treatments-could-be-banned-under-new-uk-rules",
@@ -5370,138 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-04-08T17:15:09Z"
-    },
-    {
-      "title": "Shakespeare Gardens Around the World Honor the Playwright—and Hold Their Own Storied History",
-      "link": "https://www.smithsonianmag.com/travel/shakespeare-gardens-around-the-world-honor-the-playwright-and-hold-their-own-storied-history-180988497/",
-      "summary": "The curated plots of flowers, herbs and trees serve as windows into Shakespeare’s work and life",
-      "date": "2026-04-08T15:36:23Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/00gntyj5JOoXfhpkycJm6a8mklA=/420x240/filters:focal(512x344:513x345)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/60/19/6019ed2d-641e-41ed-a45d-2fbae446bf38/gettyimages-1253663908.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-08T17:15:09Z"
-    },
-    {
-      "title": "Hawaii is turning ocean plastic into roads to fight pollution",
-      "link": "https://www.sciencenews.org/article/hawaii-plastic-pollution-recycle-roads",
-      "summary": "The ocean plastic that washes up on Hawaii’s beaches is recycled into asphalt to pave roads. The roads are then tested for microplastic pollution.",
-      "date": "2026-04-08T17:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/033126_SN_pavement_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-08T17:15:10Z"
-    },
-    {
-      "title": "Particles seen emerging from empty space for first time",
-      "link": "https://www.newscientist.com/article/2522324-particles-seen-emerging-from-empty-space-for-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "By tracing the origins of an unusual, short-lived particle, researchers have gathered some of the strongest evidence yet that mass can emerge from fluctuations in the vacuum",
-      "date": "2026-04-08T12:00:39Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/08105059/SEI_291618910.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-08T17:15:11Z"
-    },
-    {
-      "title": "Why The Double Helix is such an extraordinary but infuriating book",
-      "link": "https://www.newscientist.com/article/2519886-why-the-double-helix-is-such-an-extraordinary-but-infuriating-book/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "James Watson’s The Double Helix is probably one of the greatest science books of all time – but Michael Le Page finds he can’t recommend that anyone actually reads it",
-      "date": "2026-04-08T12:00:36Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/18143333/sei289837603.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-08T17:15:11Z"
-    },
-    {
-      "title": "Glucose transport may hinge on a fleeting transition-like state",
-      "link": "https://phys.org/news/2026-04-glucose-hinge-fleeting-transition-state.html",
-      "summary": "Stockholm University and SciLifeLab researchers have uncovered how glucose transporters move nutrients into cells, bridging a long-standing gap between structure and function in me",
-      "date": "2026-04-08T16:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-reveals-tran.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-08T17:15:12Z"
-    },
-    {
-      "title": "Avoiding the very hungry caterpillar: Herbivores pose unexpected threat to predatory mite eggs",
-      "link": "https://phys.org/news/2026-04-hungry-caterpillar-herbivores-pose-unexpected.html",
-      "summary": "Predators don't expect to be preyed upon, and especially not by herbivores such as caterpillars. The slow-moving, leaf-eating larvae may only intend to consume plants, but sometime",
-      "date": "2026-04-08T16:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/avoiding-the-very-hung.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-04-08T17:15:12Z"
-    },
-    {
-      "title": "Global trade in wild birds is poorly monitored: The risks to wildlife, ecosystems and human health",
-      "link": "https://phys.org/news/2026-04-global-wild-birds-poorly-wildlife.html",
-      "summary": "Birds have, for centuries, been captured from the wild to be kept in cages—valued for their looks, songs and ability to imitate sounds. Data compiled by the Convention on Internati",
-      "date": "2026-04-08T16:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wild-birds.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-08T17:15:12Z"
-    },
-    {
-      "title": "AI uncovers hidden immune defenses inside bacteria",
-      "link": "https://phys.org/news/2026-04-ai-uncovers-hidden-immune-defenses.html",
-      "summary": "Researchers at the Massachusetts Institute of Technology (MIT) have discovered thousands of new proteins that protect bacteria from virus attacks using an AI system called DefenseP",
-      "date": "2026-04-08T15:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-uncovers-hidden-imm.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-08T17:15:12Z"
-    },
-    {
-      "title": "How to see Comet PanSTARRS as it brightens in the night sky this week",
-      "link": "https://www.livescience.com/space/comets/how-to-see-comet-panstarrs-as-it-brightens-in-the-night-sky-this-week",
-      "summary": "Comet C/2025 R3 (PanSTARRS) could be visible to the naked eye in the predawn sky after April 13 as it makes a close approach to the sun.",
-      "date": "2026-04-08T15:48:26Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Kxc5SHM3nbu8LYXxfRLsi9-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-08T17:15:14Z"
-    },
-    {
-      "title": "New Research Forecasts the Impacts of Fire on Birds",
-      "link": "https://www.birds.cornell.edu/home/forecasting-impacts-of-fire-on-birds/",
-      "summary": "Where will severe fires threaten the most birds in the future? New research identifies where future high-severity fires threaten biodiversity hotspots in the western United States",
-      "date": "2026-02-18T18:17:27Z",
-      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-04-08T17:15:15Z"
-    },
-    {
-      "title": "Photometrics AI Integrates Data from Bird Migration Forecasts to Automatically Dim Streetlights to Protect Birds",
-      "link": "https://www.birds.cornell.edu/home/photometrics-ai-uses-bird-data-to-adjust-streetlights/",
-      "summary": "New lighting system uses BirdCast data to enable real-time lighting adjustments during peak migration periods to reduce bird collisions with buildings.",
-      "date": "Tue, 10 Feb 2026 19Z",
-      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-04-08T17:15:15Z"
-    },
-    {
-      "title": "Scientists Just Mapped the Family Tree of 11,000+ Bird Species—And You Can Explore It",
-      "link": "https://www.birds.cornell.edu/home/scientists-map-interactive-avian-tree-of-life/",
-      "summary": "The new illustrated Birds of the World Phylogeny Explorer by the Cornell Lab of Ornithology lets users trace any bird's lineage, compare species relationships, and explore major ev",
-      "date": "2026-01-28T14:39:09Z",
-      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-04-08T17:15:15Z"
     }
   ]
 }
