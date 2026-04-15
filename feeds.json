@@ -1,8 +1,96 @@
 {
-  "updated": "2026-04-15T20:06:55Z",
-  "updated_utc": "2026-04-15T20:06:55Z",
+  "updated": "2026-04-15T21:58:26Z",
+  "updated_utc": "2026-04-15T21:58:26Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Gray whales, once rare in San Francisco Bay, dying there at alarming rates",
+      "link": "https://www.theguardian.com/us-news/2026/apr/15/gray-whales-san-francisco-bay",
+      "summary": "Researchers find increase in whale deaths in the Bay, largely because of collisions with vessels on busy shipping route Gray whales have historically been a rare sight in the San F",
+      "date": "2026-04-15T21:45:57Z",
+      "image": "https://i.guim.co.uk/img/media/47f99920e93e5c99d1d3969c725be08883f88359/560_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=8aa0f901e1a2192a1f4df8f4cd549570",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-15T21:58:11Z"
+    },
+    {
+      "title": "Wild Granites and Car Forests: Two of Alex Honnold’s New Discoveries in Nevada",
+      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/wild-granites-and-car-forests-two-of-alex-honnolds-new-discoveries-in-nevada/",
+      "summary": "In the video series “Get a Little Out There with Alex Honnold,” learn why hidden climbing spots and oddball art installations are par for the course in Nevada The post Wild Granite",
+      "date": "2026-04-15T21:57:08Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/GALOT_Teaser-2_featured_h.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-15T21:58:17Z"
+    },
+    {
+      "title": "Kristin Harila Is Saying Goodbye to Mount Everest with a Bold Plan to Climb It.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/everest/kristin-harila-everest-triple-crown/",
+      "summary": "Kristin Harila, who holds the speed record on the 8000ers, will attempt the so-called Everest Triple Crown this spring as a personal goodbye to the mountain The post Kristin Harila",
+      "date": "2026-04-15T20:09:17Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/Harila1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-15T21:58:17Z"
+    },
+    {
+      "title": "Emerging in Alaska, dominant H5N1 strain spread continent-wide through migratory birds",
+      "link": "https://phys.org/news/2026-04-emerging-alaska-dominant-h5n1-strain.html",
+      "summary": "An international group of scientists mapped the spread of the current dominant strain of highly pathogenic avian influenza virus through North American bird populations in 2024. Le",
+      "date": "2026-04-15T21:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-continent-wide-m.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-15T21:58:22Z"
+    },
+    {
+      "title": "Hawai'i's songbirds are raiding neighbors' nests, and the losses could deepen a growing survival crisis",
+      "link": "https://phys.org/news/2026-04-hawaii-songbirds-raiding-neighbors-losses.html",
+      "summary": "High in the forests of Hawai'i, songbirds are stealing twigs and moss from one another's nests. UC Riverside researchers found this quiet canopy crime is surprisingly common and co",
+      "date": "2026-04-15T20:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/birds-caught-stealing.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-15T21:58:22Z"
+    },
+    {
+      "title": "New Research Forecasts the Impacts of Fire on Birds",
+      "link": "https://www.birds.cornell.edu/home/forecasting-impacts-of-fire-on-birds/",
+      "summary": "Where will severe fires threaten the most birds in the future? New research identifies where future high-severity fires threaten biodiversity hotspots in the western United States",
+      "date": "2026-02-18T18:17:27Z",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-04-15T21:58:25Z"
+    },
+    {
+      "title": "Photometrics AI Integrates Data from Bird Migration Forecasts to Automatically Dim Streetlights to Protect Birds",
+      "link": "https://www.birds.cornell.edu/home/photometrics-ai-uses-bird-data-to-adjust-streetlights/",
+      "summary": "New lighting system uses BirdCast data to enable real-time lighting adjustments during peak migration periods to reduce bird collisions with buildings.",
+      "date": "Tue, 10 Feb 2026 19Z",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-04-15T21:58:25Z"
+    },
+    {
+      "title": "Scientists Just Mapped the Family Tree of 11,000+ Bird Species—And You Can Explore It",
+      "link": "https://www.birds.cornell.edu/home/scientists-map-interactive-avian-tree-of-life/",
+      "summary": "The new illustrated Birds of the World Phylogeny Explorer by the Cornell Lab of Ornithology lets users trace any bird's lineage, compare species relationships, and explore major ev",
+      "date": "2026-01-28T14:39:09Z",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-04-15T21:58:25Z"
+    },
     {
       "title": "Lark Bunting Bird Species Identification",
       "link": "https://www.birdsandblooms.com/birding/bird-species/sparrows/lark-bunting/",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 15,
       "fetched_at": "2026-04-08T19:28:15Z"
-    },
-    {
-      "title": "A Cattle Farm in Alabama Draws Birders for a Spectacle of Kites",
-      "link": "https://www.birds.cornell.edu/home/a-cattle-farm-in-alabama-draws-birders-for-a-spectacle-of-kites/",
-      "summary": "",
-      "date": "Tue, 24 Mar 2026 13Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Coccinella_magnifica01.jpg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-04-08T19:28:15Z"
-    },
-    {
-      "title": "Tracking the Very Large, Very Elusive Star of Papua’s Forests: the Northern Cassowary",
-      "link": "https://www.birds.cornell.edu/home/tracking-the-very-large-very-elusive-star-of-papuas-forests-the-northern-cassowary/",
-      "summary": "",
-      "date": "Tue, 24 Mar 2026 13Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Chrysopa_perla_2.jpg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-04-08T19:28:15Z"
-    },
-    {
-      "title": "Study reveals new technique to identify individual night-flying birds for the first time",
-      "link": "https://www.birds.cornell.edu/home/new-tech-to-id-night-migrating-birds/",
-      "summary": "Using thermal imaging and digital photography, researchers can now spot and identify birds that migrate silently through the night sky—a method that could reveal new insights into ",
-      "date": "2026-03-06T15:33:00Z",
-      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-04-08T19:28:15Z"
-    },
-    {
-      "title": "Academic Books, Book Chapters And Papers In Conference Proceedings",
-      "link": "https://www.birds.cornell.edu/home/academic-books-book-chapters-and-papers-in-conference-proceedings/",
-      "summary": "Books Dhondt AA. 2012. Interspecific competition in birds. Oxford University Press. Clobert J, E Danchin, AA Dhondt, and J Nichols (eds). 2001. Dispersal. Oxford University Press. ",
-      "date": "Thu, 19 Feb 2026 16Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Coccinella_magnifica01.jpg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-04-08T19:28:15Z"
-    },
-    {
-      "title": "These Are the 20 Birds Most People in the US See Every Day",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/20-common-birds-in-the-usa/",
-      "summary": "Birds are one of the few wild animals most people encounter daily. They hop across lawns, perch on fences, gather in parking lots, and call … Read More \"These Are the 20 Birds Most",
-      "date": "2026-02-07T13:43:40Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/02/northern-cardinal-common-birds-in-the-usa-scaled.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-04-08T17:14:53Z"
-    },
-    {
-      "title": "Tree Pruning 101: Proper Tools and Easy Techniques",
-      "link": "https://www.birdsandblooms.com/gardening/growing-trees-shrubs-grasses/easy-tree-pruning/",
-      "summary": "With the right tools and techniques, you’ll get the tree pruning job done safely and keep your tree healthy and strong. The post Tree Pruning 101: Proper Tools and Easy Techniques ",
-      "date": "2026-04-08T16:11:51Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/04/FHM_How_To_Prune_Tree_EF_050825_Step_03_v2.jpg?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-04-08T17:14:57Z"
-    },
-    {
-      "title": "It's time to burst the party balloon bubble | Letters",
-      "link": "https://www.theguardian.com/environment/2026/apr/08/its-time-to-burst-the-party-balloon-bubble",
-      "summary": "Readers respond to an article by Leah Harper on the environmental impact of the balloon boom and calls for a ban I was pleased to read your article on the detrimental effects of ba",
-      "date": "2026-04-08T16:45:22Z",
-      "image": "https://i.guim.co.uk/img/media/d1c52509748972ef0cb0ecaa25a682396729be8c/38_0_4124_3300/master/4124.jpg?width=140&quality=85&auto=format&fit=max&s=9f5aefbb0d3e547f3ec8dfbee86f9a7a",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-08T17:15:01Z"
-    },
-    {
-      "title": "Can Frida Kahlo Leave Mexico? Plans to Relocate a Trove of Paintings by the Famous Artist Spark a Heated Debate",
-      "link": "https://www.smithsonianmag.com/smart-news/can-frida-kahlo-leave-mexico-plans-to-relocate-a-trove-of-paintings-by-the-famous-artist-spark-heated-debate-180988506/",
-      "summary": "Nearly 400 cultural heritage professionals signed an open letter protesting plans to move a collection featuring artworks by the renowned Mexican painter out of her home country",
-      "date": "2026-04-08T16:11:40Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/miGa5nKMv7k0zHwHxwRXNqZGNKE=/420x240/filters:focal(1089x1140:1090x1141)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a5/b6/a5b6ec28-21cd-40b0-b2b6-4b86546b8bae/fkahlo_autorretratoconcollar.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-08T17:15:09Z"
     }
   ]
 }
