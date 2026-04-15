@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-15T06:05:22Z",
-  "updated_utc": "2026-04-15T06:05:22Z",
+  "updated": "2026-04-15T08:49:37Z",
+  "updated_utc": "2026-04-15T08:49:37Z",
   "count": 500,
   "stories": [
+    {
+      "title": "More than half of Britain’s butterfly species in decline, monitoring scheme shows",
+      "link": "https://www.theguardian.com/environment/2026/apr/15/butterfly-monitoring-scheme-britain-decline",
+      "summary": "Warmer weather has benefited some species in Britain, but others that rely on specific plants or habitats have struggled “Insectageddon” has not occurred, but there has been a loss",
+      "date": "2026-04-15T07:00:01Z",
+      "image": "https://i.guim.co.uk/img/media/a77368be6ff574533fd7702ca20b63ade6698346/696_0_3705_2964/master/3705.jpg?width=140&quality=85&auto=format&fit=max&s=ecf8b7b6c2033c014be2c96d08ec480a",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-15T08:49:22Z"
+    },
     {
       "title": "Sedums Are National Garden Bureau’s 2026 Perennial Plant of the Year",
       "link": "https://www.birdsandblooms.com/gardening/gardening-basics/perennial-plant-of-the-year/",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-04-07T19:16:18Z"
-    },
-    {
-      "title": "A Court Ruling Just Protected 1 Million Acres of Grand Canyon Backcountry",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/baaj-nwaavjo-itah-kukveni-lawsuit-rejected/",
-      "summary": "Baaj Nwaavjo I’tah Kukveni—Ancestral Footprints of the Grand Canyon will stay a national monument, the Ninth Circuit Court of Appeals said. The post A Court Ruling Just Protected 1",
-      "date": "Tue, 07 Apr 2026 19Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/GettyImages-1274444077.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-07T19:16:20Z"
     }
   ]
 }
