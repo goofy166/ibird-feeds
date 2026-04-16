@@ -1,8 +1,41 @@
 {
-  "updated": "2026-04-16T22:52:50Z",
-  "updated_utc": "2026-04-16T22:52:50Z",
+  "updated": "2026-04-16T23:51:56Z",
+  "updated_utc": "2026-04-16T23:51:56Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Sun news: Wow! A 3rd far-side blast this week",
+      "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+      "summary": "Sun news for April 16, 2026: A third big blast in a row rocks the sun's far side, this time from the northwest solar horizon. The post Sun news: Wow! A 3rd far-side blast this week",
+      "date": "Thu, 16 Apr 2026 10Z",
+      "image": "https://earthsky.org/upl/2026/04/Apr-15-26-Sun-activity-far-side.-ezgif.com-video-to-webp-converter.webp",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-04-16T23:51:43Z"
+    },
+    {
+      "title": "Visible planets and night sky guide for April",
+      "link": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
+      "summary": "Visible planets and night sky guide. The Lyrid meteors are putting on a show right now. Watch a video with Deborah Byrd to find out all about them. The post Visible planets and nig",
+      "date": "Thu, 16 Apr 2026 08Z",
+      "image": "https://earthsky.org/upl/2025/11/Nov-19-23-GOES-19-CCOR-1.-ezgif.com-video-to-webp-converter.webp",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-04-16T23:51:43Z"
+    },
+    {
+      "title": "From lockdown to the lab: Researcher develops 'decoy molecule' to slow down coronavirus",
+      "link": "https://phys.org/news/2026-04-lockdown-lab-decoy-molecule-coronavirus.html",
+      "summary": "While the Netherlands was in lockdown because of the coronavirus, Ph.D. candidate Koen Rijpkema began his research into the same virus. In the lab, he developed molecules that can ",
+      "date": "2026-04-16T23:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-lockdown-to-the-l.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-16T23:51:52Z"
+    },
     {
       "title": "The Personal Toll of Canada’s Broken Fishing Promises",
       "link": "https://hakaimagazine.com/features/the-personal-toll-of-canadas-broken-fishing-promises/",
@@ -5465,39 +5498,6 @@
       "summary": "Some animals can regrow lost body parts. Salamanders and frog tadpoles can rebuild entire limbs after amputation. Mammals cannot. For decades, biologists have tried to understand w",
       "date": "2026-04-09T18:00:01Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2017/tadpoles.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-09T18:02:58Z"
-    },
-    {
-      "title": "Four sperm whale strandings point to potential human causes",
-      "link": "https://phys.org/news/2026-04-sperm-whale-strandings-potential-human.html",
-      "summary": "Four sperm whales that stranded separately on southeastern U.S. coastlines between 2020–22 were emaciated and malnourished, with ingested fishing gear and marine debris found in tw",
-      "date": "2026-04-09T17:40:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/four-sperm-whale-stran.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-09T18:02:58Z"
-    },
-    {
-      "title": "Scientists unveil breakthrough tool that could help stop the world's third‑biggest driver of deforestation",
-      "link": "https://phys.org/news/2026-04-scientists-unveil-breakthrough-tool-world.html",
-      "summary": "Scientists at the Royal Botanic Gardens, Kew, World Forest ID, University of Sheffield and international collaborators have developed a new technique that can identify where soybea",
-      "date": "2026-04-09T17:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-unveil-brea.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-09T18:02:58Z"
-    },
-    {
-      "title": "Ant larvae control parental care by using odor signals",
-      "link": "https://phys.org/news/2026-04-ant-larvae-parental-odor.html",
-      "summary": "In the clonal raider ant (Ooceraea biroi), workers in a colony alternate between caring for larvae and laying eggs in a coordinated cycle. Researchers at the Max Planck Institute f",
-      "date": "2026-04-09T16:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ant-larvae-control-par.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
