@@ -1,8 +1,41 @@
 {
-  "updated": "2026-04-16T06:08:35Z",
-  "updated_utc": "2026-04-16T06:08:35Z",
+  "updated": "2026-04-16T08:49:53Z",
+  "updated_utc": "2026-04-16T08:49:53Z",
   "count": 500,
   "stories": [
+    {
+      "title": "See Antlia the Air Pump on April evenings",
+      "link": "https://earthsky.org/constellations/antlia-the-air-pump-april/",
+      "summary": "Antlia the Air Pump is a constellation that lies in southern skies. It contains dim stars and galaxies, including NGC 2997. The post See Antlia the Air Pump on April evenings first",
+      "date": "Thu, 16 Apr 2026 07Z",
+      "image": "https://earthsky.org/upl/2022/03/Antlia-Deep-Sky-e1647818958323.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-04-16T08:49:40Z"
+    },
+    {
+      "title": "What to read this week: Emma Chapman's mind-expanding Radio Universe",
+      "link": "https://www.newscientist.com/article/2522686-what-to-read-this-week-emma-chapmans-mind-expanding-radio-universe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "An imaginative and compelling book reveals how radio waves help us tune in to our universe – and even search for alien civilisations, says Karmela Padavic-Callaghan",
+      "date": "2026-04-15T18:00:40Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/10123925/SEI_291809741.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-16T08:49:49Z"
+    },
+    {
+      "title": "Why cloning anyone – even Jim Carrey – isn't the best plan ever",
+      "link": "https://www.newscientist.com/article/2522669-why-cloning-anyone-even-jim-carrey-isnt-the-best-plan-ever/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Feedback discovers that a conspiracy theory has formed that various celebrities have been replaced by clones, and sees just a few small problems with the idea",
+      "date": "2026-04-15T18:00:20Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/14144259/SEI_293128357.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-16T08:49:49Z"
+    },
     {
       "title": "Foxes and birds could be 'early warning system' to survey spread of antibiotic resistance into ecosystems",
       "link": "https://phys.org/news/2026-04-foxes-birds-early-survey-antibiotic.html",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-04-08T21:52:31Z"
-    },
-    {
-      "title": "Buried bounty: Caribou survival depends on lichen and snow",
-      "link": "https://phys.org/news/2026-04-bounty-caribou-survival-lichen.html",
-      "summary": "A study by researchers at the SUNY College of Environmental Science and Forestry indicates that if lichen continues to decline across the Arctic, caribou populations could struggle",
-      "date": "2026-04-08T21:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/buried-bounty-caribou.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-08T21:52:32Z"
-    },
-    {
-      "title": "Livestock may be rewriting elephants' gut microbiomes in Kenya's protected reserves",
-      "link": "https://phys.org/news/2026-04-livestock-rewriting-elephants-gut-microbiomes.html",
-      "summary": "Sharing habitat with livestock is changing elephants' gut bacteria in ways that could be harmful to their health, according to new research conducted by San Diego Zoo Wildlife Alli",
-      "date": "2026-04-08T21:30:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gut-microbiomes-of-ele.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-08T21:52:32Z"
-    },
-    {
-      "title": "Pollinator-friendly gardens don't have to sacrifice style",
-      "link": "https://phys.org/news/2026-04-pollinator-friendly-gardens-dont-sacrifice.html",
-      "summary": "For gardeners who love colorful, tidy flower beds, helping pollinators doesn't have to mean going fully wild. A new study from plant biologists at Northwestern University and the C",
-      "date": "2026-04-08T21:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pollinator-friendly-ga-1.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-04-08T21:52:32Z"
     }
   ]
 }
