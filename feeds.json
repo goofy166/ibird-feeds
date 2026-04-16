@@ -1,8 +1,52 @@
 {
-  "updated": "2026-04-15T23:52:42Z",
-  "updated_utc": "2026-04-15T23:52:42Z",
+  "updated": "2026-04-16T03:36:00Z",
+  "updated_utc": "2026-04-16T03:36:00Z",
   "count": 500,
   "stories": [
+    {
+      "title": "From the air to the field: How nitrogen fertilizer helps feed the world—and why supply chains matter",
+      "link": "https://phys.org/news/2026-04-air-field-nitrogen-fertilizer-world.html",
+      "summary": "When lightning strikes a paddock, it does more than scorch grass and scare the cows. The electrical discharge breaks apart nitrogen molecules in the atmosphere, converting them int",
+      "date": "2026-04-16T02:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-the-air-to-the-fi-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-16T03:35:56Z"
+    },
+    {
+      "title": "COVID-19 in mink farm reveals early lung damage",
+      "link": "https://phys.org/news/2026-04-covid-mink-farm-reveals-early.html",
+      "summary": "What happens inside the lungs before COVID-19 symptoms appear? Research in mink offers a rare window into the early stages of the disease. These insights matter for both animal and",
+      "date": "2026-04-16T02:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/covid-19-in-mink-farm.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-16T03:35:56Z"
+    },
+    {
+      "title": "Burning plus tree retention boosts natural forest regrowth in Finland after 11 years",
+      "link": "https://phys.org/news/2026-04-tree-retention-boosts-natural-forest.html",
+      "summary": "Prescribed burning, when combined with tree retention, can effectively support natural regeneration in managed boreal forests, new research shows. The study demonstrates that post-",
+      "date": "2026-04-16T01:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scots-pine.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-16T03:35:56Z"
+    },
+    {
+      "title": "Unlocking the value of biodiversity in the UK and Ireland",
+      "link": "https://phys.org/news/2026-04-biodiversity-uk-ireland.html",
+      "summary": "Sequencing the DNA of all complex life in the UK and Ireland could generate up to almost £3 billion for the economy across agriculture, conservation, and research over the next 30 ",
+      "date": "2026-04-16T00:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unlocking-the-value-of.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-16T03:35:56Z"
+    },
     {
       "title": "Annual Geranium Flower Care and Growing Tips",
       "link": "https://www.birdsandblooms.com/gardening/flower-gardening/geranium-flower-pelargonium/",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-04-08T21:52:34Z"
-    },
-    {
-      "title": "How to Make Hiking Boots and Running Shoes Last Forever",
-      "link": "https://www.outsideonline.com/outdoor-gear/hiking-gear/hiking-boots-care-maintenance/",
-      "summary": "A bit of cleaning, care, and repair can keep your footwear in rotation for years. The post How to Make Hiking Boots and Running Shoes Last Forever appeared first on Outside Online ",
-      "date": "2026-04-08T19:50:39Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/dirty-hiking-boots.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-08T20:55:22Z"
-    },
-    {
-      "title": "Quantum entanglement can be measured in solids for the first time",
-      "link": "https://www.newscientist.com/article/2522100-quantum-entanglement-can-be-measured-in-solids-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A method that relies on hitting materials with neutrons can measure how much quantum entanglement hides within them, which could enable new kinds of quantum technology",
-      "date": "2026-04-08T17:00:39Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/08110916/SEI_292283798.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-08T20:55:25Z"
-    },
-    {
-      "title": "Disappearing megafauna may have prompted a stone tool revolution",
-      "link": "https://www.newscientist.com/article/2522425-disappearing-megafauna-may-have-prompted-a-stone-tool-revolution/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Massive herbivores became scarce in the Middle East about 200,000 years ago, and this coincided with a shift towards smaller, lighter toolkits in the archaeological record",
-      "date": "2026-04-08T17:00:19Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/08153707/SEI_292426531.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-08T20:55:25Z"
-    },
-    {
-      "title": "The invisibility cloak inventor now has better tricks up his sleeve",
-      "link": "https://www.newscientist.com/article/2519999-the-invisibility-cloak-inventor-now-has-better-tricks-up-his-sleeve/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "John Pendry is known for creating an invisibility cloak. Twenty years on, he has used the same principles to fashion an even more powerful kind of metamaterial that can teach us ab",
-      "date": "2026-04-08T16:00:26Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/19135953/SEI_290090481.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-08T20:55:25Z"
     }
   ]
 }
