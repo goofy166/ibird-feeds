@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-16T03:36:00Z",
-  "updated_utc": "2026-04-16T03:36:00Z",
+  "updated": "2026-04-16T06:08:35Z",
+  "updated_utc": "2026-04-16T06:08:35Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Foxes and birds could be 'early warning system' to survey spread of antibiotic resistance into ecosystems",
+      "link": "https://phys.org/news/2026-04-foxes-birds-early-survey-antibiotic.html",
+      "summary": "Red foxes and birds regularly cross between human-dominated and natural ecosystems. For this reason, they may be heralds of spreading antibiotic resistance into ecosystems unexpose",
+      "date": "2026-04-16T04:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/urban-fox.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-16T06:08:31Z"
+    },
     {
       "title": "From the air to the field: How nitrogen fertilizer helps feed the world—and why supply chains matter",
       "link": "https://phys.org/news/2026-04-air-field-nitrogen-fertilizer-world.html",
@@ -5491,17 +5502,6 @@
       "category": "butterflies",
       "color": 13,
       "fetched_at": "2026-04-08T21:52:32Z"
-    },
-    {
-      "title": "'No one knows what they are': Researchers discover new type of cell that's seen only during pregnancy",
-      "link": "https://www.livescience.com/health/reproductive-health/no-one-knows-what-they-are-researchers-discover-new-type-of-cell-thats-seen-only-during-pregnancy",
-      "summary": "A new map of the \"maternal-fetal interface\" reveals a new type of cell, as well as the types of cells most likely to be affected in conditions like preeclampsia.",
-      "date": "2026-04-08T21:01:04Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/9Z3qiznDkwJYPyaPNESoLD-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-08T21:52:34Z"
     }
   ]
 }
