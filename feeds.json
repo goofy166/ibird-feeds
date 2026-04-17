@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-17T20:56:19Z",
-  "updated_utc": "2026-04-17T20:56:19Z",
+  "updated": "2026-04-17T21:54:34Z",
+  "updated_utc": "2026-04-17T21:54:34Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Archaeologists discover perfectly circular ancient Egyptian temple that may have been used for sacred water rituals",
+      "link": "https://www.livescience.com/archaeology/ancient-egyptians/archaeologists-discover-perfectly-circular-ancient-egyptian-temple-that-may-have-been-used-for-sacred-water-rituals",
+      "summary": "The temple included a network of water infrastructure, revealing the importance of the ancient city and the Nile.",
+      "date": "2026-04-17T20:59:20Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/hieL5s7hjqSaXjEt4TUyT7-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-17T21:54:31Z"
+    },
     {
       "title": "Large spiders the size of your palm are popping up across the US. Here’s why you shouldn’t be afraid",
       "link": "https://www.mercurynews.com/2026/04/09/invasive-spider-spreads-across-california-georgia/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-04-10T13:40:24Z"
-    },
-    {
-      "title": "Quantum batteries could be charged by reversing time",
-      "link": "https://www.newscientist.com/article/2522404-quantum-batteries-could-be-charged-by-reversing-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Physicists have shown how time can effectively be reversed for some quantum systems, which would allow for new ways to harvest energy",
-      "date": "2026-04-10T11:00:15Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/09144318/SEI_292436999.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-10T13:40:25Z"
     }
   ]
 }
