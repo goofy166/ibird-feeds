@@ -1,8 +1,151 @@
 {
-  "updated": "2026-04-17T13:52:40Z",
-  "updated_utc": "2026-04-17T13:52:40Z",
+  "updated": "2026-04-17T15:03:10Z",
+  "updated_utc": "2026-04-17T15:03:10Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Gray Catbird Species Spotlight: 10 Interesting Facts!",
+      "link": "https://birdwatchinghq.com/gray-catbird-interesting-facts/",
+      "summary": "If you’ve ever heard a bird meow or seen a flash of sleek gray darting through a thicket, you might have seen the Gray Catbird. Equal parts mysterious and entertaining, these feath",
+      "date": "Thu, 16 Oct 2025 17Z",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/gray_catbird_1-1.jpg",
+      "name": "BWatching HQ",
+      "category": "birds",
+      "color": 4,
+      "fetched_at": "2026-04-17T15:02:52Z"
+    },
+    {
+      "title": "15 Birds You’re Helping Protect by Drinking Shade-Grown Coffee",
+      "link": "https://birdwatchinghq.com/birds-that-benefit-from-shade-grown-coffee-farms/",
+      "summary": "Shade-grown coffee farms are a lifeline for birds that depend on forest-like environments to survive. These farms preserve canopy cover, native trees, and layered vegetation, which",
+      "date": "2025-10-15T17:37:00Z",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/male_scarlet_tanager_2.jpg",
+      "name": "BWatching HQ",
+      "category": "birds",
+      "color": 4,
+      "fetched_at": "2026-04-17T15:02:52Z"
+    },
+    {
+      "title": "17 FUN Facts About Hummingbirds! (that will make you hum)",
+      "link": "https://birdwatchinghq.com/facts-about-hummingbirds/",
+      "summary": "Are you ready to learn some amazing facts about hummingbirds? Seriously, these tiny birds are some of the most interesting creatures in the world. And today, I’m listing some of th",
+      "date": "2025-07-20T13:35:58Z",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2022/05/hummingbird-facts-intro.png",
+      "name": "BWatching HQ",
+      "category": "birds",
+      "color": 4,
+      "fetched_at": "2026-04-17T15:02:52Z"
+    },
+    {
+      "title": "28 Common ANTS in North America! (2026)",
+      "link": "https://birdwatchinghq.com/ants-in-north-america/",
+      "summary": "There are hundreds of ant species that live in North America! Trying to list them all would be impossible. 🙂 Below are the most common and abundant types of ants, which are part of",
+      "date": "Thu, 13 Jun 2024 14Z",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2024/05/Dark-Rover-Ant-Brachymyrmex-patagonicus.png",
+      "name": "BWatching HQ",
+      "category": "birds",
+      "color": 4,
+      "fetched_at": "2026-04-17T15:02:52Z"
+    },
+    {
+      "title": "27 Grasshopper Species in North America! (2026)",
+      "link": "https://birdwatchinghq.com/grasshoppers-in-north-america/",
+      "summary": "An incredible amount of grasshopper species live in North America! Trying to list them all would be impossible. 🙂 So below, you will find the most common and abundant insects found",
+      "date": "2024-05-10T15:51:41Z",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2024/05/grasshoppers-intro.jpg",
+      "name": "BWatching HQ",
+      "category": "birds",
+      "color": 4,
+      "fetched_at": "2026-04-17T15:02:52Z"
+    },
+    {
+      "title": "40 Types of Rabbit-Resistant Plants You Can Grow (2026)",
+      "link": "https://birdwatchinghq.com/rabbit-resistant-plants/",
+      "summary": "“Where did all my flowers go?!” I’ve asked myself this question more than once, and usually, the answer can be summed up with one word -> rabbits! These creatures are adorable but ",
+      "date": "2024-04-24T19:32:31Z",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2020/06/rabbits-eating-clover.jpg",
+      "name": "BWatching HQ",
+      "category": "birds",
+      "color": 4,
+      "fetched_at": "2026-04-17T15:02:52Z"
+    },
+    {
+      "title": "Scientists dig broad-shelled turtles stuck under mud in dried up wetlands – video",
+      "link": "https://www.theguardian.com/environment/video/2026/apr/18/scientists-dig-broad-shelled-turtles-stuck-under-mud-in-dried-up-wetlands-video",
+      "summary": "Footage supplied by the office of the Greens legislative council member Cate Faehrmann shows scientists digging to reach broad-shelled turtles stuck under boggy mud in the Gingham ",
+      "date": "2026-04-17T15:00:48Z",
+      "image": "https://i.guim.co.uk/img/media/9242502015ed0f19dd8e41da8dce9e6331dba713/0_800_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=7de97272034c615c894e8be759d56c89",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-17T15:02:54Z"
+    },
+    {
+      "title": "So Long, and Thanks for All the Fish",
+      "link": "https://hakaimagazine.com/article-short/so-long-and-thanks-for-all-the-fish/",
+      "summary": "We started Hakai Magazine over 10 years ago because the ocean and its coastlines needed a voice. No other outlet was exclusively covering issues at the interface of sea and land—or",
+      "date": "2024-12-27T08:05:43Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-so-long-and-thanks-for-all-the-fish.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-04-17T15:02:57Z"
+    },
+    {
+      "title": "The First First Responders",
+      "link": "https://hakaimagazine.com/features/the-first-first-responders/",
+      "summary": "When a ship wrecks on an unfamiliar coastline, an already desperate situation is all the more dire. Blinded by the night, and lost, the captain and crew of the Puritan, a four-mast",
+      "date": "Tue, 24 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-first-first-responder.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-04-17T15:02:57Z"
+    },
+    {
+      "title": "A Bountiful Berry Harvest Put These Chunky, Endangered Parrots in the Mood. Now, Scientists Are Celebrating a Breeding Bonanza",
+      "link": "https://www.smithsonianmag.com/smart-news/a-bountiful-berry-harvest-put-these-chunky-endangered-parrots-in-the-mood-now-scientists-are-celebrating-a-breeding-bonanza-180988510/",
+      "summary": "New Zealand's kakapo have laid 256 eggs, and around 100 of them have hatched, providing a bright spot in a decades-long conservation effort. The official chick count won't be confi",
+      "date": "2026-04-17T14:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/iHS5J9Lxh4FY2pg4pQkxtmBfHdI=/420x240/filters:focal(1620x1080:1621x1081)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/78/7e/787e3bc4-594a-407f-9310-9ab8e4bd8af3/2601_sinbad_on_whenua_hou_2.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-17T15:03:02Z"
+    },
+    {
+      "title": "Key gene enables tomato seed germination under high-temperature conditions",
+      "link": "https://phys.org/news/2026-04-key-gene-enables-tomato-seed.html",
+      "summary": "Researchers at University of Tsukuba have demonstrated that tomato mutants lacking the SlIAA9 gene, an auxin signaling repressor involved in the regulation of seed germination, not",
+      "date": "2026-04-17T15:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/identification-of-a-ke.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-17T15:03:06Z"
+    },
+    {
+      "title": "Saving coral reefs will require ruthless selection over generations to beat future heat waves",
+      "link": "https://phys.org/news/2026-04-coral-reefs-require-ruthless-generations.html",
+      "summary": "Assisted evolution could help corals survive future heat waves, but careful trait choice and strong repeated selection will be needed for it to be effective. As global temperatures",
+      "date": "2026-04-17T15:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/helping-corals-survive.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-17T15:03:06Z"
+    },
+    {
+      "title": "As modern crops turn 'lazy' underground, old sorghum may hold key to future food security",
+      "link": "https://phys.org/news/2026-04-modern-crops-lazy-underground-sorghum.html",
+      "summary": "A greater focus on roots during plant breeding could ensure staple grain crops continue to feed the world as recycled nutrients substitute conventional fertilizers in the future, a",
+      "date": "2026-04-17T14:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/future-food-needs-new.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-17T15:03:06Z"
+    },
     {
       "title": "Coral reefs are nearing extinction. 2026 must mark a turning point | Jason Momoa",
       "link": "https://www.theguardian.com/commentisfree/2026/apr/17/coral-reefs-extinction-global-warming-jason-momoa",
@@ -5359,149 +5502,6 @@
       "category": "birds",
       "color": 0,
       "fetched_at": "2026-04-09T20:04:49Z"
-    },
-    {
-      "title": "Why Birds Suddenly Go Silent at Certain Times of Day",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/why-birds-suddenly-go-silent-at-certain-times-of-day/",
-      "summary": "You step outside expecting birdsong and instead, there’s nothing. No chirping. No calls. No background chorus. It can feel eerie, even worrying. But when birds … Read More \"Why Bir",
-      "date": "2026-01-02T16:52:05Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/01/pexels-jimmykphotos-28491655-scaled.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-04-09T20:04:49Z"
-    },
-    {
-      "title": "12 Winter Moments Every Birdwatcher Should Look For",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/12-winter-moments-every-birdwatcher-should-look-for/",
-      "summary": "The countryside feels hushed, colors soften, and days are short, but winter strips nature back to its essentials. Leaves fall, cover thins, and suddenly birds … Read More \"12 Winte",
-      "date": "2025-12-17T08:48:59Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/12/12-Winter-Moments-Every-Birdwatcher-Should-Look-For.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-04-09T20:04:49Z"
-    },
-    {
-      "title": "Why Some Birds Choose to Stay North in Winter",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/why-some-birds-choose-to-stay-north-in-winter/",
-      "summary": "Migration is often portrayed as the heroic default, a grand seasonal pilgrimage that sweeps birds thousands of miles south to warmth and abundance. But for … Read More \"Why Some Bi",
-      "date": "2025-12-10T08:22:42Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/12/Why-Some-Birds-Choose-to-Stay-North-in-Winter.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-04-09T20:04:49Z"
-    },
-    {
-      "title": "How Birds Keep Their Feet From Freezing",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/how-birds-keep-their-feet-from-freezing/",
-      "summary": "Watching a gull stand calmly on ice or a duck paddle through water that would numb a human in minutes is one of winter’s most … Read More \"How Birds Keep Their Feet From Freezing\"",
-      "date": "Tue, 09 Dec 2025 10Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/12/How-Birds-Keep-Their-Feet-From-Freezing.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-04-09T20:04:49Z"
-    },
-    {
-      "title": "My First Time at the Biggest Week in American Birding",
-      "link": "https://www.birdsandblooms.com/travel/birding-hotspots/biggest-week-american-birding/",
-      "summary": "Follow along for a first-timer's take on the Biggest Week in American Birding at the warbler capital of the world. The post My First Time at the Biggest Week in American Birding ap",
-      "date": "Thu, 09 Apr 2026 18Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/04/YellowRumpedWarbler19.jpg?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-04-09T20:04:53Z"
-    },
-    {
-      "title": "Bird Friendly Certification: 8 Requirements Coffee Farms Need to Satisify",
-      "link": "https://birdwatchinghq.com/bird-friendly-certification-requirements-for-coffee-farms/",
-      "summary": "In the world of coffee certifications, there’s one that soars above the rest—literally. The Smithsonian Bird Friendly certification is the gold standard when it comes to protecting",
-      "date": "2025-10-20T17:51:25Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/bird_friendly_logo_2-1024x1024.webp",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-04-09T20:04:55Z"
-    },
-    {
-      "title": "Harpy Eagles: 17 Fascinating Facts About the Canopy’s King",
-      "link": "https://birdwatchinghq.com/harpy-eagle-facts/",
-      "summary": "Honestly, Harpy Eagles are one of the coolest birds around. They are the rulers of the rainforest skies and are as intriguing as they are awe-inspiring. Keep reading, and you will ",
-      "date": "2025-10-19T17:49:35Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/harpy_eagle_double_crest_of_feathers-1.jpg",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-04-09T20:04:55Z"
-    },
-    {
-      "title": "10 Things You Can Do to Help Birds",
-      "link": "https://birdwatchinghq.com/how-to-help-birds/",
-      "summary": "Let me give you a staggering and sobering number: Since 1970, 2.9 billion birds have disappeared from North America. Yes, you read that correctly. Almost 25% of the total number of",
-      "date": "2025-10-18T17:47:14Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/red_winged_blackbirds_declining.jpg",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-04-09T20:04:55Z"
-    },
-    {
-      "title": "Scarlet Tanager Species Spotlight: 10 Interesting Facts!",
-      "link": "https://birdwatchinghq.com/scarlet-tanager-interesting-facts/",
-      "summary": "Today, I want to introduce you to the Scarlet Tanager. Many people find it surprising that these BEAUTIFUL birds spend their summers breeding in North America. Once the weather sta",
-      "date": "2025-10-17T17:43:57Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/male_scarlet_tanager_2.jpg",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-04-09T20:04:55Z"
-    },
-    {
-      "title": "The Seven Wonders of the Trail Running World",
-      "link": "https://www.outsideonline.com/outdoor-gear/run/the-seven-wonders-of-the-trail-running-world/",
-      "summary": "These epic routes belong on every runner’s bucket list The post The Seven Wonders of the Trail Running World appeared first on Outside Online .",
-      "date": "Thu, 09 Apr 2026 19Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/Speedgoat_featured_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-09T20:05:03Z"
-    },
-    {
-      "title": "Octopus Sex Just Got Weirder. In Addition to Depositing Sperm, Males' Specialized Mating Arm Can 'Taste' Female Hormones",
-      "link": "https://www.smithsonianmag.com/smart-news/octopus-sex-just-got-weirder-in-addition-to-depositing-sperm-males-specialized-mating-arm-can-taste-female-hormones-180988500/",
-      "summary": "The hectocotylus is both a reproductive organ and a sensory organ, a rare combination in animals, new research suggests",
-      "date": "Thu, 09 Apr 2026 18Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/YOYT2-iTeZDC4gstxyu1vBBchY4=/420x240/filters:focal(1920x1280:1921x1281)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f6/15/f615f076-43e9-4132-86ae-4dbe63aa2cff/3840px-two-spot_octopus_octopus_bimaculoides.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-09T20:05:05Z"
-    },
-    {
-      "title": "Liquid-like histone H1 'glues' nucleosomes, reshaping how DNA compacts",
-      "link": "https://phys.org/news/2026-04-liquid-histone-h1-nucleosomes-reshaping.html",
-      "summary": "DNA inside the nucleus is not packed as a rigid regular fiber—linker histone H1 dynamically binds and loosely \"glues\" nucleosomes together, creating a dynamic, fluid organization t",
-      "date": "2026-04-09T20:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/linker-histone-h1-acts.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-09T20:05:08Z"
-    },
-    {
-      "title": "It's OK to love all the bees (the honey bees, too)",
-      "link": "https://phys.org/news/2026-04-bees-honey.html",
-      "summary": "North America's bee populations are in trouble, but don't blame the honey bees. While some people argue that an overabundance of managed honey bees—those raised to help pollinate c",
-      "date": "2026-04-09T19:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/bee.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-09T20:05:08Z"
     }
   ]
 }
