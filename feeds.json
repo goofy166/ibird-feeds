@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-17T03:31:58Z",
-  "updated_utc": "2026-04-17T03:31:58Z",
+  "updated": "2026-04-17T06:08:55Z",
+  "updated_utc": "2026-04-17T06:08:55Z",
   "count": 500,
   "stories": [
+    {
+      "title": "More than 15m oysters to be released in the North Sea for UK rewilding project",
+      "link": "https://www.theguardian.com/environment/2026/apr/17/more-than-15m-oysters-to-be-released-in-the-north-sea-for-uk-rewilding-project",
+      "summary": "Exclusive: Experts say scheme will help repair damaged marine ecosystems while sequestering large amounts of carbon More than 15m juvenile oysters are to be released into the North",
+      "date": "2026-04-17T06:00:23Z",
+      "image": "https://i.guim.co.uk/img/media/ce261c6e6fcc3f795e04a8da52f7a61fab4dd243/448_0_4139_3311/master/4139.jpg?width=140&quality=85&auto=format&fit=max&s=4cd4de501c64ec12853e1d0bdfbf32d9",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-17T06:08:40Z"
+    },
+    {
+      "title": "‘It feels like death is certain’: lives and limbs lost to crocodile attacks on the banks of Kenya’s rising Lake Turkana",
+      "link": "https://www.theguardian.com/world/2026/apr/17/crocodile-attacks-kenya-lake-turkana-rising-water",
+      "summary": "Seven deaths and 15 injuries have been recorded in the past year as crocodiles move their habitats closer to human settlements • Warning: contains graphic descriptions of crocodile",
+      "date": "2026-04-17T04:00:19Z",
+      "image": "https://i.guim.co.uk/img/media/ac78da465fdcd11977c609071d7d190f34e18644/994_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=bd880a4b134aa3866af7f03512e8394a",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-17T06:08:40Z"
+    },
     {
       "title": "Preconception radiation exposure alters offspring mitochondrial DNA in an organ-specific manner",
       "link": "https://phys.org/news/2026-04-preconception-exposure-offspring-mitochondrial-dna.html",
@@ -5476,28 +5498,6 @@
       "summary": "A remarkable new discovery is shedding light on one of the greatest survival stories in Earth's history, and answering a decades-old scientific mystery. Lystrosaurus, a hardy, plan",
       "date": "2026-04-09T18:00:14Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-survivor-revea.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-09T18:02:58Z"
-    },
-    {
-      "title": "Keeping up with the phages: How V. cholerae neighbors swap defenses against viruses",
-      "link": "https://phys.org/news/2026-04-phages-cholerae-neighbors-swap-defenses.html",
-      "summary": "Like most bacteria, Vibrio cholerae lives under constant attack from viruses. To survive, bacteria equip themselves with antiviral immune systems. Previous work has shown that V. c",
-      "date": "2026-04-09T18:00:10Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2016/vibriocholer.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-09T18:02:58Z"
-    },
-    {
-      "title": "Wildlife trade increases pathogen transmission: What 40 years of data say about spillover",
-      "link": "https://phys.org/news/2026-04-wildlife-pathogen-transmission-years-spillover.html",
-      "summary": "Hedgehogs, elephants, pangolins, bears or fennec foxes: many wild species are sold as pets, hunting trophies, for traditional medicine, biomedical research, or for their meat or fu",
-      "date": "2026-04-09T18:00:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/chinesepango.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
