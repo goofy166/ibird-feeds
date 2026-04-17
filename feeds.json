@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-17T06:08:55Z",
-  "updated_utc": "2026-04-17T06:08:55Z",
+  "updated": "2026-04-17T08:49:02Z",
+  "updated_utc": "2026-04-17T08:49:02Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Week in wildlife: a puffin bromance, blushing terrapins and goslings galore",
+      "link": "https://www.theguardian.com/environment/gallery/2026/apr/16/week-in-wildlife-puffin-rescue-and-a-goslings-first-gander",
+      "summary": "This week’s best wildlife photographs from around the world Continue reading...",
+      "date": "2026-04-17T07:00:02Z",
+      "image": "https://i.guim.co.uk/img/media/34ab1ba5c536b83f288a3ce0d31fae4c6c61586f/415_0_2994_2395/master/2994.jpg?width=140&quality=85&auto=format&fit=max&s=0ec7f7898fd8b5599ca815aa84d1203c",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-17T08:48:46Z"
+    },
+    {
+      "title": "Alpha Centauri, the star system closest to our sun",
+      "link": "https://earthsky.org/brightest-stars/alpha-centauri-is-the-nearest-bright-star/",
+      "summary": "Our closest stellar neighbors are the 3 stars that make up the Alpha Centauri system. They lie just over 4 light-years away from us. The post Alpha Centauri, the star system closes",
+      "date": "2026-04-17T08:00:17Z",
+      "image": "https://earthsky.org/upl/2026/04/neighbors-closest-to-sun.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-04-17T08:48:48Z"
+    },
     {
       "title": "More than 15m oysters to be released in the North Sea for UK rewilding project",
       "link": "https://www.theguardian.com/environment/2026/apr/17/more-than-15m-oysters-to-be-released-in-the-north-sea-for-uk-rewilding-project",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-04-09T18:02:55Z"
-    },
-    {
-      "title": "Chimpanzee empire falls apart in rare instance of division and deadly violence",
-      "link": "https://phys.org/news/2026-04-chimpanzee-empire-falls-rare-instance.html",
-      "summary": "The largest group of wild chimpanzees known to scientists has permanently split in two. In a study published in Science, researchers from the University of Texas at Austin and othe",
-      "date": "2026-04-09T18:00:16Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ngogo-chimpanzee.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-09T18:02:58Z"
-    },
-    {
-      "title": "Mammal ancestors laid eggs—and this 250-million-year-old fossil proves it",
-      "link": "https://phys.org/news/2026-04-mammal-ancestors-laid-eggs-million.html",
-      "summary": "A remarkable new discovery is shedding light on one of the greatest survival stories in Earth's history, and answering a decades-old scientific mystery. Lystrosaurus, a hardy, plan",
-      "date": "2026-04-09T18:00:14Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-survivor-revea.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-09T18:02:58Z"
     }
   ]
 }
