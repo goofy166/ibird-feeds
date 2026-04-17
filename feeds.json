@@ -1,8 +1,74 @@
 {
-  "updated": "2026-04-17T10:19:32Z",
-  "updated_utc": "2026-04-17T10:19:32Z",
+  "updated": "2026-04-17T11:57:37Z",
+  "updated_utc": "2026-04-17T11:57:37Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Ask a Birder: Do Birds Have Personalities?",
+      "link": "https://www.10000birds.com/ask-a-birder-do-birds-have-personalities.htm?utm_source=rss&utm_medium=rss&utm_campaign=ask-a-birder-do-birds-have-personalities",
+      "summary": "Apparently, yes — although scientists tend to avoid the word personality and prefer something more grantworthy like “consistent individual behavioral differences.”For a long time, ",
+      "date": "2026-04-17T11:26:33Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/03/Eurasian-Tree-Sparrow_DSC6120-Nanhui-Nov-2016.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-04-17T11:57:16Z"
+    },
+    {
+      "title": "Species Spotlight: Japanese Waxwing",
+      "link": "https://www.10000birds.com/species-spotlight-japanese-waxwing.htm?utm_source=rss&utm_medium=rss&utm_campaign=species-spotlight-japanese-waxwing",
+      "summary": "The Japanese Waxwing is one of the three species in the waxwing family, along with the Cedar Waxwing (Americas) and the Bohemian Waxwing (Eurasia). The scientific species name is s",
+      "date": "2026-04-17T11:00:00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2025/12/Japanese-Waxwing_DSC1180_SHA-Botanical-Garden-Dec-30-2025.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-04-17T11:57:16Z"
+    },
+    {
+      "title": "South Koreans breathe sighs of relief as escaped wolf is returned to zoo safely",
+      "link": "https://www.theguardian.com/world/2026/apr/17/south-korea-escaped-wolf-captured-returned-zoo-safely",
+      "summary": "Nine-day search for two-year-old Neukgu gripped nation and sparked safety concerns for animal and public The internet in South Korea erupted in celebration as a two-year-old wolf t",
+      "date": "2026-04-17T11:49:38Z",
+      "image": "https://i.guim.co.uk/img/media/e01e3b9ea62aac2ebbfb097e547c24a229255645/40_0_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=1a71345e612589feb0355dd0739a568a",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-17T11:57:21Z"
+    },
+    {
+      "title": "Will a super El Niño in 2026 bring record high temps?",
+      "link": "https://earthsky.org/earth/super-el-nino-record-temperatures-2026-2027/",
+      "summary": "Signs are trending toward a super El Niño to develop this summer. If it happens, we might see record high temperatures in 2026 and into 2027. The post Will a super El Niño in 2026 ",
+      "date": "2026-04-17T10:27:07Z",
+      "image": "https://earthsky.org/upl/2026/04/Pixabay-peggy_marco-sunset-beach-e1776278390929.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-04-17T11:57:22Z"
+    },
+    {
+      "title": "DESI’s 3D map of the universe is complete!",
+      "link": "https://earthsky.org/space/3d-map-of-the-universe-desi/",
+      "summary": "Astronomers have completed the largest, most detailed 3D map of the universe ever made. It will help reveal how dark energy shapes the cosmos. The post DESI’s 3D map of the univers",
+      "date": "2026-04-17T10:23:16Z",
+      "image": "https://earthsky.org/upl/2026/04/DESI-portion-of-3d-Universe-map-DESI-Collaboration-and-DESI-Member-Institutions-DOE-KPNO-NOIRLab-NSF-AURA-R-Proctor-e1776348817587.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-04-17T11:57:22Z"
+    },
+    {
+      "title": "Andrew Lloyd Webber Says He's Writing a New Musical About the Time the 'Mona Lisa' Vanished Without a Trace in 1911",
+      "link": "https://www.smithsonianmag.com/arts-culture/andrew-lloyd-webber-says-hes-writing-a-new-musical-about-the-time-the-mona-lisa-vanished-without-a-trace-in-1911-180988559/",
+      "summary": "Known for spectacles like \"The Phantom of the Opera,\" Broadway's most commercially successful composer now wants to tell the story of the world's most famous painting",
+      "date": "2026-04-17T10:15:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/tTGSaZCwjGQeB7WgWdJL1MHPM5A=/420x240/filters:focal(1916x1542:1917x1543)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0e/c8/0ec8a237-40da-4c05-bd13-7115915903ae/gettyimages-80912904.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-17T11:57:29Z"
+    },
     {
       "title": "Four Years After Full Circle Everest, Philip Henderson Continues to Tell His Story",
       "link": "https://www.outsideonline.com/outdoor-adventure/everest/philip-henderson-full-circle-everest/",
@@ -5436,72 +5502,6 @@
       "category": "wildlife",
       "color": 7,
       "fetched_at": "2026-04-09T18:02:49Z"
-    },
-    {
-      "title": "How, Exactly, Could Deep-Sea Mining Benefit All of Humanity?",
-      "link": "https://hakaimagazine.com/news/how-exactly-could-deep-sea-mining-benefit-all-of-humanity/",
-      "summary": "When Arvid Pardo, a Maltese diplomat, took the floor at the United Nations General Assembly in New York in 1967 and began speaking at length on international law, the room was spar",
-      "date": "2024-12-20T08:01:54Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-benefit-of-humanity.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-04-09T18:02:49Z"
-    },
-    {
-      "title": "The Canoe in the Forest",
-      "link": "https://hakaimagazine.com/features/the-canoe-in-the-forest/",
-      "summary": "When I first see the canoe, in May, it takes a moment to distinguish the long, shapely slab of cedar from the patch of earth that has spent more than a century trying to reclaim it",
-      "date": "Thu, 19 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-haida-canoe.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-04-09T18:02:49Z"
-    },
-    {
-      "title": "What’s Next for Deep-Sea Mining?",
-      "link": "https://hakaimagazine.com/news/whats-next-for-deep-sea-mining/",
-      "summary": "Earlier this year, Leticia Carvalho, a Brazilian oceanographer and environmental policy expert, took the helm of the International Seabed Authority (ISA) as secretary general. The ",
-      "date": "2024-12-18T08:01:59Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-deep-sea-mining-1.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-04-09T18:02:49Z"
-    },
-    {
-      "title": "“It‘s Damaged the Public’s Trust in Us.” Everest Guides Fear the Worst After Nepal’s Hiking Scandal.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/everest/everest-poisoning-scandal-fallout/",
-      "summary": "Allegations of fraud and poisoning in Himalayan tourism have already had a huge impact on the Mount Everest guiding industry in Nepal. Expedition operators fear it’s going to get g",
-      "date": "Thu, 09 Apr 2026 17Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/Everest1112.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-09T18:02:52Z"
-    },
-    {
-      "title": "A Mysterious, Monumental Scroll on Public Display for the First Time Paints a Picture of Artistic Fusion in Colonial India",
-      "link": "https://www.smithsonianmag.com/smart-news/mysterious-monumental-scroll-public-display-first-time-aints-picture-artistic-fusion-colonial-india-180988512/",
-      "summary": "A new exhibition shares the artistic legacy of centuries of British East India Company influence in East and Southeast Asia",
-      "date": "Thu, 09 Apr 2026 17Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/GyhGhhBwIxSbW0bJI5Gn9Mxooc4=/420x240/filters:focal(980x654:981x655)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b3/2b/b32b8a85-af6f-4c13-96b5-d2cae428a214/01_lucknow_from_the_gomti_lucknow_india_1826.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-09T18:02:54Z"
-    },
-    {
-      "title": "Chiringuitos Offer the Quintessential Beach Bar Experience on Spain's Costa del Sol",
-      "link": "https://www.smithsonianmag.com/travel/chiringuitos-offer-the-quintessential-beach-bar-experience-on-spains-costa-del-sol-180988499/",
-      "summary": "Steeped in history, the seafood joints are evolving to keep up with a global clientele and tightening environmental regulations",
-      "date": "Thu, 09 Apr 2026 16Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/iN2qBCLaRR1vm4qE8IwlwqWxqzA=/420x240/filters:focal(1059x706:1060x707)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d1/3a/d13ab3ad-e2f1-4767-bb50-bd201684cf81/gettyimages-1462215142.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-09T18:02:54Z"
     }
   ]
 }
