@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-16T23:51:56Z",
-  "updated_utc": "2026-04-16T23:51:56Z",
+  "updated": "2026-04-17T03:31:58Z",
+  "updated_utc": "2026-04-17T03:31:58Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Preconception radiation exposure alters offspring mitochondrial DNA in an organ-specific manner",
+      "link": "https://phys.org/news/2026-04-preconception-exposure-offspring-mitochondrial-dna.html",
+      "summary": "It did not take long after the discovery of X-rays in the 1890s for scientists to begin exploring the harmful effects of radiation on living organisms. Yet even after more than a c",
+      "date": "2026-04-17T01:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/preconception-radiatio-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-17T03:31:54Z"
+    },
+    {
+      "title": "Agrovoltaic systems can save water, generating energy and making tomato cultivation more sustainable at the same time",
+      "link": "https://phys.org/news/2026-04-agrovoltaic-generating-energy-tomato-cultivation.html",
+      "summary": "Researchers from the University of Seville (US) and the Polytechnic University of Madrid (UPM) have demonstrated that it is possible to grow tomatoes and generate solar energy simu",
+      "date": "2026-04-17T00:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/saving-water-generatin.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-17T03:31:54Z"
+    },
     {
       "title": "Sun news: Wow! A 3rd far-side blast this week",
       "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
@@ -5476,28 +5498,6 @@
       "summary": "Hedgehogs, elephants, pangolins, bears or fennec foxes: many wild species are sold as pets, hunting trophies, for traditional medicine, biomedical research, or for their meat or fu",
       "date": "2026-04-09T18:00:08Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/chinesepango.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-09T18:02:58Z"
-    },
-    {
-      "title": "Northeast farmers could profit from grass-fed beef if they expand, join forces",
-      "link": "https://phys.org/news/2026-04-northeast-farmers-profit-grass-fed.html",
-      "summary": "New York State and New England have optimal conditions for grass-fed beef production—with an abundance of pasturelands and forage—but higher production costs have made farmers wary",
-      "date": "2026-04-09T18:00:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/northeast-farmers-coul.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-09T18:02:58Z"
-    },
-    {
-      "title": "Oxygen sensing helps explain why amphibians regenerate limbs but mammals cannot",
-      "link": "https://phys.org/news/2026-04-oxygen-amphibians-regenerate-limbs-mammals.html",
-      "summary": "Some animals can regrow lost body parts. Salamanders and frog tadpoles can rebuild entire limbs after amputation. Mammals cannot. For decades, biologists have tried to understand w",
-      "date": "2026-04-09T18:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2017/tadpoles.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
