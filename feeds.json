@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-17T08:49:02Z",
-  "updated_utc": "2026-04-17T08:49:02Z",
+  "updated": "2026-04-17T10:19:32Z",
+  "updated_utc": "2026-04-17T10:19:32Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Four Years After Full Circle Everest, Philip Henderson Continues to Tell His Story",
+      "link": "https://www.outsideonline.com/outdoor-adventure/everest/philip-henderson-full-circle-everest/",
+      "summary": "Philip Henderson, the director of Full Circle Everest, continues to tell the mission’s story to outdoor groups and schools The post Four Years After Full Circle Everest, Philip Hen",
+      "date": "2026-04-17T09:28:24Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/Phil2.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-17T10:19:24Z"
+    },
+    {
+      "title": "Catching a scramblase in the act could pave the way to improved blood disorder and cancer treatments",
+      "link": "https://phys.org/news/2026-04-scramblase-pave-blood-disorder-cancer.html",
+      "summary": "Weill Cornell Medicine investigators have revealed the detailed workings of a cell membrane protein that has essential roles in all animals. The discovery could lead to new therape",
+      "date": "2026-04-17T09:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/catching-a-scramblase.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-17T10:19:28Z"
+    },
     {
       "title": "Week in wildlife: a puffin bromance, blushing terrapins and goslings galore",
       "link": "https://www.theguardian.com/environment/gallery/2026/apr/16/week-in-wildlife-puffin-rescue-and-a-goslings-first-gander",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-04-09T18:02:54Z"
-    },
-    {
-      "title": "Seeing and imagining activate some of the same brain cells",
-      "link": "https://www.sciencenews.org/article/seeing-imagining-activate-brain-cells",
-      "summary": "By recording brain activity directly, scientists showed that imagining an object can revive parts of the neural pattern used to see it.",
-      "date": "Thu, 09 Apr 2026 18Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/040926_DK_imagery_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-09T18:02:55Z"
-    },
-    {
-      "title": "Emperor penguins are marching toward extinction. Antarctica fur seals too",
-      "link": "https://www.sciencenews.org/article/emperor-penguins-endangered-extinction-iucn",
-      "summary": "Conservationists now list the penguins and seals as “Endangered.” Climate change in Antarctica has led to plunging populations.",
-      "date": "Thu, 09 Apr 2026 17Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/040926_endangered_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-09T18:02:55Z"
     }
   ]
 }
