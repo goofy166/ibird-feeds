@@ -1,8 +1,85 @@
 {
-  "updated": "2026-04-17T19:12:46Z",
-  "updated_utc": "2026-04-17T19:12:46Z",
+  "updated": "2026-04-17T20:56:19Z",
+  "updated_utc": "2026-04-17T20:56:19Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Large spiders the size of your palm are popping up across the US. Here’s why you shouldn’t be afraid",
+      "link": "https://www.mercurynews.com/2026/04/09/invasive-spider-spreads-across-california-georgia/",
+      "summary": "Giant, palm-sized Joro spiders with huge webs are spreading in the U.S.",
+      "date": "Thu, 09 Apr 2026 22Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/202604091520MCT_____PHOTO____US-NEWS-ENV-JORO-SPIDERS-FILEPIC-DMT.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-17T20:56:07Z"
+    },
+    {
+      "title": "A Yellowstone Wolf Stole a Grizzly Warning Sign and Turned It into a Chew Toy. (Yes, Really.)",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/yellowstone-wolf-steals-grizzly-sign/",
+      "summary": "A viral encounter in Yellowstone National Park shows a wolf stealing a sign warning tourists about grizzly bears. The post A Yellowstone Wolf Stole a Grizzly Warning Sign and Turne",
+      "date": "2026-04-17T20:44:58Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/Copy-of-Untitled-Design-2.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-17T20:56:09Z"
+    },
+    {
+      "title": "“My Mouth Dropped.” How a Photographer Captured a Once-in-a-Lifetime Lightning Strike in Yosemite.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/yosemite-lightning-strike-proposal-photo/",
+      "summary": "When a lightning storm met a Yosemite proposal, Erica Houck leaned into chaos. The result? A viral photo of El Capitan you have to see to believe. The post “My Mouth Dropped.” How ",
+      "date": "2026-04-17T19:11:59Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/image0.jpeg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-17T20:56:09Z"
+    },
+    {
+      "title": "Scientists Still Don't Know How or When the Grand Canyon Formed. New Research May Hint at Its Ancient Origins",
+      "link": "https://www.smithsonianmag.com/smart-news/scientists-still-dont-know-how-or-when-the-grand-canyon-formed-new-research-may-hint-at-its-ancient-origins-180988570/",
+      "summary": "Researchers say the ancestral Colorado River formed an ancient lake in northern Arizona roughly 6.6 million years ago that spilled out westward onto the landscape that would eventu",
+      "date": "2026-04-17T19:11:08Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/wH2TdauR8zGJyuqx_yH0GEl7Jxg=/420x240/filters:focal(1500x1279:1501x1280)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b9/ba/b9ba262b-52e7-4aa7-ac9b-a7dd749d5a9a/47006412314_a98ecd3fa3_o.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-17T20:56:11Z"
+    },
+    {
+      "title": "Antioxidant glutathione discovered to play a key role in proper protein folding",
+      "link": "https://phys.org/news/2026-04-antioxidant-glutathione-play-key-role.html",
+      "summary": "In the past several years, Rockefeller University's Kivanç Birsoy and his team in the Laboratory of Metabolic Regulation and Genetics have revealed remarkable details about the ant",
+      "date": "2026-04-17T20:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-antioxidant-glutat.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-17T20:56:15Z"
+    },
+    {
+      "title": "Two bacteria join forces to turn chemical signals into electricity, opening up low-cost sensing options",
+      "link": "https://phys.org/news/2026-04-bacteria-chemical-electricity-options.html",
+      "summary": "Bacterial sensors usually rely on emitting light to transfer information about what they're sensing, but that method isn't practical in many settings. That's why most information t",
+      "date": "2026-04-17T19:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/engineered-dual-bacter.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-17T20:56:15Z"
+    },
+    {
+      "title": "Want to restore oyster reefs? Find a site where they don't wash away or become buried under the sand",
+      "link": "https://phys.org/news/2026-04-oyster-reefs-site-dont-sand.html",
+      "summary": "Restoring once abundant oyster reefs in temperate marginal seas such as the North Sea is a challenging task. New research by NIOZ marine ecologist Zhiyuan Zhao and colleagues shows",
+      "date": "2026-04-17T19:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/want-to-restore-oyster.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-17T20:56:15Z"
+    },
     {
       "title": "The Best Bird Song Apps in the U.S. (2026): A Complete Guide",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/best-bird-song-apps/",
@@ -5425,83 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-04-10T13:40:25Z"
-    },
-    {
-      "title": "New Scientist recommends sampling the Museum of Edible Earth in London",
-      "link": "https://www.newscientist.com/article/2522230-new-scientist-recommends-sampling-the-museum-of-edible-earth-in-london/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "The books, TV, games and more that New Scientist staff have enjoyed this week",
-      "date": "2026-04-08T18:00:50Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/07144623/SEI_291000138.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-10T13:40:25Z"
-    },
-    {
-      "title": "The man who ruined mathematics",
-      "link": "https://www.newscientist.com/article/2522297-the-man-who-ruined-mathematics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "The incompleteness theorem is accepted as part of the mathematical canon today, but columnist Jacob Aron says it was a bombshell when Kurt Gödel first introduced it. Gödel’s semina",
-      "date": "2026-04-10T09:00:35Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/08001359/SEI_292286483.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-10T13:40:25Z"
-    },
-    {
-      "title": "Physicists resolve a long-standing puzzle over the size of a proton",
-      "link": "https://www.newscientist.com/article/2522294-physicists-resolve-a-long-standing-puzzle-over-the-size-of-a-proton/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Two extremely precise experiments agree with a previously shocking measurement of just how big the proton is, which may help future searches for new particles",
-      "date": "2026-04-10T09:00:07Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/09103754/SEI_292511951.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-10T13:40:25Z"
-    },
-    {
-      "title": "Tarantulas may use learning and memory to search for food and locate their retreats",
-      "link": "https://phys.org/news/2026-04-tarantulas-memory-food-retreats.html",
-      "summary": "Researchers have documented several cases of spatial orientation in tarantulas living both in trees and in underground burrows. Spatial orientation refers to the ability of an anim",
-      "date": "2026-04-10T13:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tarantulas-may-use-lea.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-10T13:40:26Z"
-    },
-    {
-      "title": "Changing 'just one DNA letter' in female mice triggers growth of male genitalia",
-      "link": "https://www.livescience.com/health/genetics/changing-just-one-dna-letter-in-female-mice-triggers-growth-of-male-genitalia",
-      "summary": "Scientists discovered that making a very small change to female mice's DNA caused them to develop male reproductive organs.",
-      "date": "2026-04-10T13:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/wXXkNxuzrUgBeZnFgQnhhj-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-10T13:40:27Z"
-    },
-    {
-      "title": "Aoshima: Japan's tiny 'Cat Island' where felines hugely outnumber humans",
-      "link": "https://www.livescience.com/planet-earth/aoshima-japans-tiny-cat-island-where-felines-hugely-outnumber-humans",
-      "summary": "Once a thriving sardine fishing island, today Aoshima is home to roughly 80 cats and just a handful of people who look after the felines with the help of food donations from around",
-      "date": "2026-04-10T12:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/7tHSE8zLgEcXND4MgZXNMh-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-10T13:40:27Z"
-    },
-    {
-      "title": "Artemis II returns LIVE: NASA prepares for Artemis II crew's perilous return to Earth at record-breaking speeds",
-      "link": "https://www.livescience.com/space/live/artemis-ii-returns-friday-april-10",
-      "summary": "Friday, April 10, 2026: The latest updates on the Artemis II mission as the crew prepare for reentry to Earth following their 10-day journey around the moon.",
-      "date": "2026-04-10T11:53:05Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/JkcjH69AupHTZFHZ3coZSS-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-10T13:40:27Z"
     }
   ]
 }
