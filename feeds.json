@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-18T15:46:25Z",
-  "updated_utc": "2026-04-18T15:46:25Z",
+  "updated": "2026-04-18T16:52:40Z",
+  "updated_utc": "2026-04-18T16:52:40Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How poison frogs built a chemical weapons system one evolutionary step at a time",
+      "link": "https://phys.org/news/2026-04-poison-frogs-built-chemical-weapons.html",
+      "summary": "Poison frogs are small and brightly colored amphibians that originate from Central and South America. As suggested by their name, these frogs can release highly toxic chemicals fro",
+      "date": "2026-04-18T15:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-poison-frogs-acqui-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-18T16:52:37Z"
+    },
     {
       "title": "The Forest Service Is Moving to Utah. Here’s What That Means for Our Public Lands.",
       "link": "https://www.outsideonline.com/outdoor-adventure/environment/usda-forest-service-relocation-utah-impact/",
@@ -5487,17 +5498,6 @@
       "summary": "Researchers at DTU have developed a new method that can reduce the time needed to find new bacteria for fermentation. They have now identified a bacterium that can be used both for",
       "date": "2026-04-10T16:20:04Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-bacterium-from-bumbl.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-10T17:52:59Z"
-    },
-    {
-      "title": "Climate change is outpacing evolution. Scientists are using DNA to catch up",
-      "link": "https://phys.org/news/2026-04-climate-outpacing-evolution-scientists-dna.html",
-      "summary": "Evolution works over millennia. Climate change is moving far faster. That mismatch is killing some of the planet's most vital ecosystems, from California's towering redwoods to the",
-      "date": "2026-04-10T16:07:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-change-is-outp-1.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
