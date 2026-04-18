@@ -1,8 +1,63 @@
 {
-  "updated": "2026-04-18T10:54:01Z",
-  "updated_utc": "2026-04-18T10:54:01Z",
+  "updated": "2026-04-18T11:41:03Z",
+  "updated_utc": "2026-04-18T11:41:03Z",
   "count": 500,
   "stories": [
+    {
+      "title": "High on Endemics: Birding Sri Lanka’s Highlands",
+      "link": "https://www.10000birds.com/high-on-endemics-birding-sri-lankas-highlands.htm?utm_source=rss&utm_medium=rss&utm_campaign=high-on-endemics-birding-sri-lankas-highlands",
+      "summary": "The town of Nuwara Eliya is the getaway to several birding spots in Sri Lanka’s highlands, including several spots in the town itself, and Horton Plains National Park to the south.",
+      "date": "2026-04-18T11:00:00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/04/DSC_0501.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-04-18T11:40:42Z"
+    },
+    {
+      "title": "How to Bird by Car",
+      "link": "https://www.10000birds.com/how-to-bird-by-car-2.htm?utm_source=rss&utm_medium=rss&utm_campaign=how-to-bird-by-car-2",
+      "summary": "This post is republished in our “From the Archives” series, featuring highlights of our vast back catalogue of more than 10,000 birding-related posts published over the last 15 yea",
+      "date": "2026-04-18T11:00:00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/DSCF9664-1.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-04-18T11:40:42Z"
+    },
+    {
+      "title": "Science behind the scenes",
+      "link": "https://www.sciencenews.org/article/science-behind-the-scenes",
+      "summary": "Editor in chief Nancy Shute discusses the fascinating world of constructed languages, our behind-the-scenes look at a vast science museum collection, and how some mathematicians ar",
+      "date": "2026-04-18T11:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/01/cropped-favicon.jpg?w=32",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-04-18T11:40:57Z"
+    },
+    {
+      "title": "PFAS detected in dolphin milk may pass from mothers to calves",
+      "link": "https://phys.org/news/2026-04-pfas-dolphin-mothers-calves.html",
+      "summary": "Researchers have found that a group of chemicals known as PFAS can be transferred from mother dolphins to their nursing calves, adding to the evidence that these persistent contami",
+      "date": "2026-04-18T11:04:50Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dolphins.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-04-18T11:40:59Z"
+    },
+    {
+      "title": "Science news this week: Physicists witness faster-than-light darkness pinpricks, humans are still evolving, and some polar bears are getting fatter than ever",
+      "link": "https://www.livescience.com/space/science-news-this-week-physicists-witness-faster-than-light-darkness-pinpricks-humans-found-to-still-be-evolving-and-the-endanered-polar-bears-that-are-getting-fatter-than-ever",
+      "summary": "April 18, 2026: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend",
+      "date": "2026-04-18T11:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/7usLS9NEtwQKFienEciP9J-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-18T11:41:00Z"
+    },
     {
       "title": "A prickle of hedgehogs and an armada of newts: wildlife settles in at London’s new Queen Elizabeth garden",
       "link": "https://www.theguardian.com/environment/2026/apr/18/a-prickle-of-hedgehogs-and-an-armada-of-newts-wildlife-settles-in-at-londons-new-queen-elizabeth-garden",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-04-10T16:02:44Z"
-    },
-    {
-      "title": "Artemis II nears its finale",
-      "link": "https://www.sciencenews.org/article/artemis-ii-moon-finale",
-      "summary": "After looping around the moon, the Artemis II crew — and their capsule’s heat shield — are preparing for the mission’s final major test: coming home.",
-      "date": "2026-04-10T15:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/040926_LG_artemis_splashdown_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-10T16:02:45Z"
-    },
-    {
-      "title": "Alzheimer's-linked protein tau plays a role in cell division",
-      "link": "https://phys.org/news/2026-04-alzheimer-linked-protein-tau-plays.html",
-      "summary": "All processes such as wound healing, hair growth, and the replacement of old cells with new ones depend on cell division. During this process, chromosomes inside the cell must be e",
-      "date": "2026-04-10T16:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/alzheimers-linked-prot.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-10T16:02:48Z"
-    },
-    {
-      "title": "Tropical cyclone Narelle struck three major reef systems in one epic trek",
-      "link": "https://phys.org/news/2026-04-tropical-cyclone-narelle-struck-major.html",
-      "summary": "Coral reefs are important in many ways, but they also play a major role in protecting much of the world's coastlines from erosion by blocking up to 90% of incoming wave energy. Dur",
-      "date": "2026-04-10T15:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cyclone-narelles-unpre.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-10T16:02:48Z"
-    },
-    {
-      "title": "The Ultimate Impatiens Flowers Growing Guide",
-      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/impatiens-flowers/",
-      "summary": "Impatiens flowers are beloved for shade, but downy mildew has taken a toll. Learn about disease-resistant varieties and impatiens care. The post The Ultimate Impatiens Flowers Grow",
-      "date": "2026-04-10T14:49:26Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/04/BigBounceImpatiens-e1775763255639.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-04-10T14:56:57Z"
-    },
-    {
-      "title": "Anger as swifts’ nesting holes in Derbyshire rail viaduct ‘blocked up’",
-      "link": "https://www.theguardian.com/environment/2026/apr/10/anger-as-swifts-nesting-holes-in-derbyshire-rail-viaduct-blocked-up",
-      "summary": "Campaigners say birds could die trying to access ancestral nests that were sealed during rail refurbishment Some swifts returning to Britain to breed will be unable to access their",
-      "date": "2026-04-10T14:26:46Z",
-      "image": "https://i.guim.co.uk/img/media/9a7b31e1a75cab87cf795e5043928599e4b0faa1/384_123_3941_3153/master/3941.jpg?width=140&quality=85&auto=format&fit=max&s=f5d4631fe7fd85de3cd9171749ac5200",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-10T14:57:01Z"
     }
   ]
 }
