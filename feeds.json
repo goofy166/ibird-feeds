@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-18T09:57:31Z",
-  "updated_utc": "2026-04-18T09:57:31Z",
+  "updated": "2026-04-18T10:54:01Z",
+  "updated_utc": "2026-04-18T10:54:01Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A prickle of hedgehogs and an armada of newts: wildlife settles in at London’s new Queen Elizabeth garden",
+      "link": "https://www.theguardian.com/environment/2026/apr/18/a-prickle-of-hedgehogs-and-an-armada-of-newts-wildlife-settles-in-at-londons-new-queen-elizabeth-garden",
+      "summary": "A former horticultural nursery in Regent’s Park has been transformed into a diverse mix of habitats, with a wide range of species already spotted ahead of its opening to the public",
+      "date": "2026-04-18T10:00:11Z",
+      "image": "https://i.guim.co.uk/img/media/99174ec34abf14b7be97bccf394a5956403b020c/908_0_6157_4928/master/6157.jpg?width=140&quality=85&auto=format&fit=max&s=47deaf1c736c1e61b309a5bc424de1d7",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-18T10:53:45Z"
+    },
+    {
+      "title": "Werner Herzog searches for ghost elephants in stunning new documentary",
+      "link": "https://www.newscientist.com/article/2522722-werner-herzog-searches-for-ghost-elephants-in-stunning-new-documentary/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A film about the quest for “ghost elephants” is as much about not knowing and asking the right questions as about exploration, finds Davide Abbatescianni",
+      "date": "2026-04-15T18:00:19Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/10123922/SEI_291809775.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-18T10:53:56Z"
+    },
     {
       "title": "I Tested Allergy Supplements for a Whole Month. These Are the Ones That Helped Me Survive My Outdoor Runs.",
       "link": "https://www.outsideonline.com/health/wellness/allergy-supplements-outdoor-running/",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-04-10T14:57:01Z"
-    },
-    {
-      "title": "In Defense of Visiting the Obvious Places (Like Crowded National Parks)",
-      "link": "https://www.outsideonline.com/adventure-travel/national-parks/why-national-park-crowds-are-worth-it/",
-      "summary": "I’ve spent my career writing about under-appreciated gems and getting away from the crowds. But there’s something to be said for standing shoulder-to-shoulder with a bunch of stran",
-      "date": "2026-04-10T14:24:30Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/GettyImages-2159581672-1.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-10T14:57:07Z"
-    },
-    {
-      "title": "This Fashion Designer Collaborated With Salvador Dalí and Jean Cocteau to Imagine Fabulous Surrealist Ensembles",
-      "link": "https://www.smithsonianmag.com/smart-news/the-surrealism-inspired-fashions-of-elsa-schiaparelli-take-the-spotlight-in-london-180988503/",
-      "summary": "A new exhibition at the Victoria and Albert Museum lays out the history and legacy of the House of Schiaparelli, focusing on its founder’s unique creative processes",
-      "date": "2026-04-10T13:33:39Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/vwxldy7x_BbatuRlk8Nn00KO5F0=/420x240/filters:focal(3595x2397:3596x2398)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a4/4c/a44cc27f-cd13-4bc8-96e0-c5bc8b6dc3c0/schiaparelli_fashion_becomes_art_at_va_south_kensington_photo_-_david_parry_pa_media_assignm.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-10T14:57:09Z"
     }
   ]
 }
