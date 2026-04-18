@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-18T09:00:22Z",
-  "updated_utc": "2026-04-18T09:00:22Z",
+  "updated": "2026-04-18T09:57:31Z",
+  "updated_utc": "2026-04-18T09:57:31Z",
   "count": 500,
   "stories": [
+    {
+      "title": "I Tested Allergy Supplements for a Whole Month. These Are the Ones That Helped Me Survive My Outdoor Runs.",
+      "link": "https://www.outsideonline.com/health/wellness/allergy-supplements-outdoor-running/",
+      "summary": "While I can’t avoid the pollen dusting the trails I run on, I’ve found that I can breathe a little easier when I’m taking an allergy supplement in addition to my nasal spray. I reg",
+      "date": "2026-04-18T09:06:50Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/allergy-supplements-runner-pollen.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-18T09:57:23Z"
+    },
+    {
+      "title": "Did King Arthur really exist?",
+      "link": "https://www.livescience.com/archaeology/did-king-arthur-really-exist",
+      "summary": "The stories about King Arthur are almost certainly false or greatly exaggerated, but did the man himself exist?",
+      "date": "2026-04-18T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/qEpw46d5eoYdeqq6SL6WSZ-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-18T09:57:29Z"
+    },
     {
       "title": "Stranded and dying, the German whale is a parable of our troubled relationship with these sea giants",
       "link": "https://www.theguardian.com/environment/2026/apr/18/stranded-dying-german-whale-troubled-relationship-sea-timmy",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-04-10T14:57:09Z"
-    },
-    {
-      "title": "Exploding black holes could explain an antimatter mystery",
-      "link": "https://www.sciencenews.org/article/exploding-black-holes-antimatter",
-      "summary": "Shock waves from tiny black holes in the early universe could explain how antimatter became so rare while matter is common.",
-      "date": "2026-04-10T14:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/040726_EC_blackholes_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-10T14:57:10Z"
-    },
-    {
-      "title": "Biochar has limited effect on potato yields—but may improve soil and climate",
-      "link": "https://phys.org/news/2026-04-biochar-limited-effect-potato-yields.html",
-      "summary": "In a three-year project, researchers at NIBIO have tested how biochar affects potato yields and soil quality under Norwegian conditions. The results show that biochar has little ef",
-      "date": "2026-04-10T14:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/biochar-has-limited-ef.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-10T14:57:12Z"
     }
   ]
 }
