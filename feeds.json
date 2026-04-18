@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-18T17:44:16Z",
-  "updated_utc": "2026-04-18T17:44:16Z",
+  "updated": "2026-04-18T19:02:44Z",
+  "updated_utc": "2026-04-18T19:02:44Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Two US army soldiers injured by brown bear during training exercise in Alaska",
+      "link": "https://www.theguardian.com/us-news/2026/apr/18/army-soldiers-brown-bear-attack-alaska",
+      "summary": "Soldiers were participating in ‘land navigation training’ when bear injured them in a ‘defensive attack’ Two US army soldiers have been injured after encountering a brown bear in a",
+      "date": "2026-04-18T18:44:57Z",
+      "image": "https://i.guim.co.uk/img/media/6e3ff0707f22bc7bd5cc50520bde340fa99f4f37/864_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=35cc7525ebab503cd53d57aa37c3023a",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-18T19:02:28Z"
+    },
+    {
+      "title": "Raven personalities shape survival as human pressure grows at the Dead Sea",
+      "link": "https://phys.org/news/2026-04-raven-personalities-survival-human-pressure.html",
+      "summary": "Along the stark and shimmering coastline of the Dead Sea, where desert cliffs meet one of the world's most extreme environments, a quiet drama is unfolding in the skies above. Fan-",
+      "date": "2026-04-18T19:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/personality-shapes-sur.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-18T19:02:40Z"
+    },
     {
       "title": "How poison frogs built a chemical weapons system one evolutionary step at a time",
       "link": "https://phys.org/news/2026-04-poison-frogs-built-chemical-weapons.html",
@@ -5476,28 +5498,6 @@
       "summary": "Most polychaete species spend their lives in burrows in the seabed. However, adult individuals of two species, Alitta succinea and Platynereis dumerilii, leave their burrows to spa",
       "date": "2026-04-10T17:40:03Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unexpected-predator-je.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-10T17:52:59Z"
-    },
-    {
-      "title": "Rod-shaped synthetic swimmers reveal a 'sweet spot' for active turbulence",
-      "link": "https://phys.org/news/2026-04-rod-synthetic-swimmers-reveal-sweet.html",
-      "summary": "Inspired by the collective dynamics of bacteria like E. coli and Bacillus subtilis, researchers at the University of Twente asked a simple but fundamental question: what happens wh",
-      "date": "2026-04-10T17:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/synthetic-bacteria-fro.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-10T17:52:59Z"
-    },
-    {
-      "title": "Bacteria from bumblebees can produce vitamin B₂ in soya drinks",
-      "link": "https://phys.org/news/2026-04-bacteria-bumblebees-vitamin-soya.html",
-      "summary": "Researchers at DTU have developed a new method that can reduce the time needed to find new bacteria for fermentation. They have now identified a bacterium that can be used both for",
-      "date": "2026-04-10T16:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-bacterium-from-bumbl.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
