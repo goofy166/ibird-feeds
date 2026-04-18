@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-17T23:50:09Z",
-  "updated_utc": "2026-04-17T23:50:09Z",
+  "updated": "2026-04-18T03:19:43Z",
+  "updated_utc": "2026-04-18T03:19:43Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘The environmental movement needs many hands’: saving Australia’s biodiversity is getting personal",
+      "link": "https://www.theguardian.com/australia-news/2026/apr/18/privately-protected-managed-land-australia-biodiversity-protection",
+      "summary": "Powered by individual donations and bequests, the country now has one of the world’s largest networks of privately protected and managed land Change by degrees offers life hacks an",
+      "date": "2026-04-18T00:00:01Z",
+      "image": "https://i.guim.co.uk/img/media/87334bb9666cc73b5eb2dc0240df53804696b9b0/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=d6bd8868b59c2002bb3fa556f2016d07",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-18T03:19:28Z"
+    },
     {
       "title": "Warmer streams may be draining river food webs by sending more carbon into the air",
       "link": "https://phys.org/news/2026-04-warmer-streams-river-food-webs.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-04-10T14:57:13Z"
-    },
-    {
-      "title": "The James Webb Space Telescope and the Parker Solar Probe Changed How We See the Universe. Now, Their Models Have Found a Home at the Smithsonian",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/the-james-webb-space-telescope-and-the-parker-solar-probe-changed-how-we-see-the-universe-now-their-models-have-found-a-home-at-the-smithsonian-180988524/",
-      "summary": "The National Air and Space Museum’s Virginia location now displays the objects which represent critical leaps forward in technology and exploration by NASA",
-      "date": "2026-04-10T12:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/YwnTP8KCQZW9kerpdbLvRcoWm1Y=/420x240/filters:focal(1500x1029:1501x1030)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fc/9a/fc9ae77c-0d48-40de-9b3d-e406d3f56495/20260312ma_293.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-10T13:40:22Z"
     }
   ]
 }
