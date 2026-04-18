@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-18T19:02:44Z",
-  "updated_utc": "2026-04-18T19:02:44Z",
+  "updated": "2026-04-18T20:47:23Z",
+  "updated_utc": "2026-04-18T20:47:23Z",
   "count": 500,
   "stories": [
+    {
+      "title": "I adored Pokémon as a child. Now I collect critters of a different kind in a hobby I’m uniquely suited to – birdwatching  | Jayce Carrano",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/19/birdwatching-hobby-pokemon-generation",
+      "summary": "Every player has experienced that fierce loyalty to one pocket monster or another. The same is true here The Pokémon franchise has turned 30, which means that it’s been a long time",
+      "date": "2026-04-18T20:00:22Z",
+      "image": "https://i.guim.co.uk/img/media/919d0d875a9ca795e1e7c12e8fcb74b8f2a80134/3_0_6015_4811/master/6015.jpg?width=140&quality=85&auto=format&fit=max&s=ed52093e21fc16b7c326c52745547e80",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-18T20:47:09Z"
+    },
     {
       "title": "Two US army soldiers injured by brown bear during training exercise in Alaska",
       "link": "https://www.theguardian.com/us-news/2026/apr/18/army-soldiers-brown-bear-attack-alaska",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-04-10T17:52:56Z"
-    },
-    {
-      "title": "Unexpected predator: Jellyfish shown to hunt polychaete worms",
-      "link": "https://phys.org/news/2026-04-unexpected-predator-jellyfish-shown-polychaete.html",
-      "summary": "Most polychaete species spend their lives in burrows in the seabed. However, adult individuals of two species, Alitta succinea and Platynereis dumerilii, leave their burrows to spa",
-      "date": "2026-04-10T17:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unexpected-predator-je.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-10T17:52:59Z"
     }
   ]
 }
