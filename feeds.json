@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-18T23:44:24Z",
-  "updated_utc": "2026-04-18T23:44:24Z",
+  "updated": "2026-04-19T03:38:54Z",
+  "updated_utc": "2026-04-19T03:38:54Z",
   "count": 500,
   "stories": [
+    {
+      "title": "$3 million prize goes to duo whose research led to first sickle cell CRISPR therapy",
+      "link": "https://www.livescience.com/health/usd3-million-prize-goes-to-duo-whose-research-led-to-first-sickle-cell-crispr-therapy",
+      "summary": "Dr. Swee Lay Thein and Dr. Stuart Orkin won the $3 million Breakthrough Prize in Life Sciences for their work toward a functional cure for the deadly blood disorders sickle cell di",
+      "date": "2026-04-19T00:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/3qbaTRBCD2pnJxQJ9us4Nd-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-19T03:38:51Z"
+    },
     {
       "title": "How to feed your garden birds without spreading disease",
       "link": "https://phys.org/news/2026-04-garden-birds-disease.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-10T19:05:33Z"
-    },
-    {
-      "title": "How Creatine Can Boost Your Cognitive Function in the Outdoors",
-      "link": "https://www.outsideonline.com/health/training-performance/creatine-cognitive-benefits/",
-      "summary": "Research suggests that creatine can provide a cognitive boost in extreme environments or during high-intensity activity. Here's what to know. The post How Creatine Can Boost Your C",
-      "date": "2026-04-10T17:51:21Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/creatine-backcountry.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-10T17:52:54Z"
     }
   ]
 }
