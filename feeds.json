@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-19T17:42:39Z",
-  "updated_utc": "2026-04-19T17:42:39Z",
+  "updated": "2026-04-19T19:02:42Z",
+  "updated_utc": "2026-04-19T19:02:42Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Moroccan dinosaur's fearsome tail spikes evolved much earlier than we thought—new discovery",
+      "link": "https://phys.org/news/2026-04-moroccan-dinosaur-fearsome-tail-spikes.html",
+      "summary": "In the heart of the Middle Atlas Mountains in central Morocco, a global team of paleontologists and geologists has discovered new remains of a very unusual dinosaur. It belonged to",
+      "date": "2026-04-19T18:30:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/moroccan-dinosaurs-fea-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-19T19:02:39Z"
+    },
     {
       "title": "Your local fishing hole is getting browner, changing which fish species thrive and which ones struggle",
       "link": "https://phys.org/news/2026-04-local-fishing-hole-browner-fish.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-10T22:48:08Z"
-    },
-    {
-      "title": "Wyoming man who injured wolf, taped its mouth shut and then killed it receives probation",
-      "link": "https://www.theguardian.com/us-news/2026/apr/10/wyoming-man-wolf-killing-probation",
-      "summary": "Cody Roberts received widespread opprobrium for his ‘disturbing’ treatment of gray wolf but avoided jail time Sign up for the Breaking News US email to get newsletter alerts in you",
-      "date": "2026-04-10T21:25:05Z",
-      "image": "https://i.guim.co.uk/img/media/5a649465ca84aa9e00f98970cf6440fc166d9e75/436_0_4341_3475/master/4341.jpg?width=140&quality=85&auto=format&fit=max&s=0644181572c32477bc29a0a08d5f0b61",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-10T21:48:59Z"
     }
   ]
 }
