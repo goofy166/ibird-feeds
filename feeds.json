@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-19T20:49:11Z",
-  "updated_utc": "2026-04-19T20:49:11Z",
+  "updated": "2026-04-19T21:44:59Z",
+  "updated_utc": "2026-04-19T21:44:59Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A light-controlled 'muscle' could give synthetic cells a new way to move",
+      "link": "https://phys.org/news/2026-04-muscle-synthetic-cells.html",
+      "summary": "Engineers interested in creating artificial cells to deliver drugs to unhealthy parts of the body face a key challenge: for a cell-like system to move, change shape, or divide, it ",
+      "date": "2026-04-19T21:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-use-light-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-19T21:44:56Z"
+    },
     {
       "title": "'Protected' seagrass meadows aren't necessarily healthy, because pollution doesn't stop at the shoreline",
       "link": "https://phys.org/news/2026-04-seagrass-meadows-necessarily-healthy-pollution.html",
@@ -5487,17 +5498,6 @@
       "summary": "Nicotine, a potent insecticidal alkaloid unique to the nightshade family, has been employed in agriculture as a pesticide since 1690. It also has therapeutic potential for neurolog",
       "date": "2026-04-10T23:20:01Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-elucidate.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-10T23:44:42Z"
-    },
-    {
-      "title": "Underwater architects: Nest-building in cichlids reveals more than hardwired instinct",
-      "link": "https://phys.org/news/2026-04-underwater-architects-cichlids-reveals-hardwired.html",
-      "summary": "We associate nests with shelter, warmth, and a safe retreat—and usually picture a bird's nest made out of twigs, grass and feathers. Yet many other animals take advantage of such r",
-      "date": "2026-04-10T23:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/underwater-architects.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
