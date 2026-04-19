@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-19T08:10:57Z",
-  "updated_utc": "2026-04-19T08:10:57Z",
+  "updated": "2026-04-19T09:55:07Z",
+  "updated_utc": "2026-04-19T09:55:07Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Can chickens really run around with their heads cut off?",
+      "link": "https://www.livescience.com/animals/birds/can-chickens-really-run-around-with-their-heads-cut-off",
+      "summary": "There's lore about chickens surviving from seconds to months after their heads are chopped off, but what does the science say?",
+      "date": "2026-04-19T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/PLqb9h226U2khY4rXcnw3T-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-19T09:55:04Z"
+    },
     {
       "title": "$3 million prize goes to duo whose research led to first sickle cell CRISPR therapy",
       "link": "https://www.livescience.com/health/usd3-million-prize-goes-to-duo-whose-research-led-to-first-sickle-cell-crispr-therapy",
@@ -5487,17 +5498,6 @@
       "summary": "Cases of Borna disease virus 1 (BoDV-1) are extremely rare in humans, but in those who develop disease, the outcome is severe, almost always resulting in fatal encephalitis or infl",
       "date": "2026-04-10T18:00:05Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unraveling-the-complex.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-10T19:05:33Z"
-    },
-    {
-      "title": "Scientists identify kinesin-2 motor assemblies that selectively transport proteins to specific regions within neurons",
-      "link": "https://phys.org/news/2026-04-scientists-kinesin-motor-proteins-specific.html",
-      "summary": "Intracellular transport is a vital process that allows cells to move proteins and other molecules to specific locations. This process is especially important in neurons, which have",
-      "date": "2026-04-10T18:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/composition-of-neurona.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
