@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-19T19:02:42Z",
-  "updated_utc": "2026-04-19T19:02:42Z",
+  "updated": "2026-04-19T20:49:11Z",
+  "updated_utc": "2026-04-19T20:49:11Z",
   "count": 500,
   "stories": [
+    {
+      "title": "'Protected' seagrass meadows aren't necessarily healthy, because pollution doesn't stop at the shoreline",
+      "link": "https://phys.org/news/2026-04-seagrass-meadows-necessarily-healthy-pollution.html",
+      "summary": "I spent last summer wading through seagrass meadows across Northern Ireland, from the sheltered waters of Strangford Lough to the exposed coast at Waterfoot Bay. I was collecting s",
+      "date": "2026-04-19T19:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/seagrassmead.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-19T20:49:07Z"
+    },
     {
       "title": "Moroccan dinosaur's fearsome tail spikes evolved much earlier than we thought—new discovery",
       "link": "https://phys.org/news/2026-04-moroccan-dinosaur-fearsome-tail-spikes.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-10T23:44:42Z"
-    },
-    {
-      "title": "'First contact' that may have led to complex life on Earth finally witnessed by scientists",
-      "link": "https://phys.org/news/2026-04-contact-complex-life-earth-witnessed.html",
-      "summary": "On the shores of the west coast of Australia lies a window to our past: the stromatolites and microbial mats of Gathaagudu (Shark Bay).",
-      "date": "2026-04-10T22:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-contact-that-may.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-10T22:48:08Z"
     }
   ]
 }
