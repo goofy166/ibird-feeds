@@ -1,8 +1,173 @@
 {
-  "updated": "2026-04-20T16:17:11Z",
-  "updated_utc": "2026-04-20T16:17:11Z",
+  "updated": "2026-04-20T18:03:15Z",
+  "updated_utc": "2026-04-20T18:03:15Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Sustainable sushi: How to forage uni from California’s coastal tide pools",
+      "link": "https://www.mercurynews.com/2026/04/20/how-to-forage-uni-california-earth-day/",
+      "summary": "Peer into the water at the tide pools of Fort Ross State Historic Park on the Sonoma Coast, and you'll see what appears to be an alien invasion of bright purple, spiky balls the si",
+      "date": "2026-04-20T16:24:07Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SJM-L-UNI-0419-02.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-20T18:03:04Z"
+    },
+    {
+      "title": "Mountain lion captured in Marin as wildlife project expands",
+      "link": "https://www.mercurynews.com/2026/04/19/mountain-lion-captured-in-marin-as-wildlife-project-expands/",
+      "summary": "The 140-pound predator caught in the Lagunitas area is now wearing a tracking collar so researchers can monitor its movements.",
+      "date": "2026-04-19T20:48:06Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/jb0429_lion_004.jpg.jpeg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-20T18:03:04Z"
+    },
+    {
+      "title": "East Palo Alto neighborhood gets access to open space",
+      "link": "https://www.mercurynews.com/2026/04/12/east-palo-alto-neighborhood-gets-access-to-open-space/",
+      "summary": "City, Midpen cut ribbon on gate to Ravenswood preserve.",
+      "date": "2026-04-12T14:14:30Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/DNG-L-BRIEFS-0417.jpeg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-20T18:03:04Z"
+    },
+    {
+      "title": "How to Make Your Rain Shell Last Forever",
+      "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/rain-shell-care-maintenance/",
+      "summary": "Don’t buy into the misconception that washing and drying your shell will ruin it. In fact, the opposite is true. The post How to Make Your Rain Shell Last Forever appeared first on",
+      "date": "2026-04-20T17:15:42Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/how-to-care-for-rain-shell.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-20T18:03:06Z"
+    },
+    {
+      "title": "Pirate Shipwreck Off the Coast of Cape Cod Sets the Historical Record Straight on West African Gold",
+      "link": "https://www.smithsonianmag.com/smart-news/pirate-shipwreck-off-the-coast-of-cape-cod-sets-the-historical-record-straight-on-west-african-gold-180988572/",
+      "summary": "Europeans spread rumors about degraded gold from their Akan trade partners. A new analysis of artifacts from the \"Whydah Gally\" shipwreck tells a different story",
+      "date": "2026-04-20T17:03:03Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/dCGjvAe_mLR4Az08uKkAqWyP27E=/420x240/filters:focal(2000x1429:2001x1430)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/97/9b/979bd344-6d74-48e4-ae0b-af5073faea84/lion_gold.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-20T18:03:08Z"
+    },
+    {
+      "title": "Increasing heat can boost malnutrition among children",
+      "link": "https://www.sciencenews.org/article/malnutrition-heat-climate-children-brazil",
+      "summary": "In a study of 6.5 million children in Brazil, higher temperatures were associated with worse nutrition outcomes, especially in vulnerable groups.",
+      "date": "2026-04-20T17:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/041326_MR_malnutrition_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-04-20T18:03:09Z"
+    },
+    {
+      "title": "Parrot uses his broken beak to become a dominant male",
+      "link": "https://www.newscientist.com/article/2523471-parrot-uses-his-broken-beak-to-become-a-dominant-male/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "An injured kea with just half a beak has used what's left as a weapon that gives him dominance over a captive colony of the birds",
+      "date": "2026-04-20T16:00:13Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/17112112/SEI_293384576.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-20T18:03:10Z"
+    },
+    {
+      "title": "Can you determine your personalised stress score?",
+      "link": "https://www.newscientist.com/article/2522498-can-you-determine-your-personalised-stress-score/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "“I’m stressed” is a phrase that many of us use, but now there are ways to shed light on how stressed you actually are",
+      "date": "2026-04-20T14:00:00Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/16155919/SEI_293150549.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-20T18:03:10Z"
+    },
+    {
+      "title": "Why the right kind of stress is crucial for your health and happiness",
+      "link": "https://www.newscientist.com/article/2522362-why-the-right-kind-of-stress-is-crucial-for-your-health-and-happiness/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Stress is linked to many of our biggest killers, but a growing body of research suggests that certain types can sharpen the mind and strengthen the body. Here’s how to find your pe",
+      "date": "2026-04-20T14:00:47Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/16155917/SEI_293146323.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-20T18:03:10Z"
+    },
+    {
+      "title": "Rediscovered tracksite reveals large dinosaurs ranged as far as northern Mongolia 120 million years ago",
+      "link": "https://phys.org/news/2026-04-rediscovered-tracksite-reveals-large-dinosaurs.html",
+      "summary": "An international research team has rediscovered a dinosaur tracksite in the Saijrakh area of northern Mongolia. The site was originally reported about 70 years ago but had since be",
+      "date": "2026-04-20T17:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oldest-dinosaur-tracks.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-20T18:03:11Z"
+    },
+    {
+      "title": "Ancient teeth reveal clues to the environment humans' early ancestors evolved in millions of years ago",
+      "link": "https://phys.org/news/2026-04-ancient-teeth-reveal-clues-environment.html",
+      "summary": "Teeth are like tiny biological time capsules. They tell stories about ancient diets and environments long after their owners have died and landscapes have changed.",
+      "date": "2026-04-20T17:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/ancientskulls.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-20T18:03:11Z"
+    },
+    {
+      "title": "New research finds few improvements for British Columbia's endangered wildlife",
+      "link": "https://phys.org/news/2026-04-british-columbia-endangered-wildlife.html",
+      "summary": "British Columbia's wildlife is in trouble, and governments aren't working hard enough to keep wild animals and plants alive. How do we know?",
+      "date": "2026-04-20T17:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-finds-few.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-20T18:03:11Z"
+    },
+    {
+      "title": "Cells 'switch' on protein factories after injury, study finds",
+      "link": "https://phys.org/news/2026-04-cells-protein-factories-injury.html",
+      "summary": "Scientists have uncovered a novel mechanism through which skin cells organize and control protein production during homeostasis and wound healing, according to a new study publishe",
+      "date": "2026-04-20T17:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cells-switch-on-protei.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-20T18:03:11Z"
+    },
+    {
+      "title": "Here's what to know about Timmy, the humpback whale that's sick and stranded in the Baltic Sea",
+      "link": "https://phys.org/news/2026-04-timmy-humpback-whale-sick-stranded.html",
+      "summary": "A humpback whale's likely final days in the Baltic Sea have been livestreamed across the globe as multiple rescue efforts failed to coax it back into deeper waters while the marine",
+      "date": "2026-04-20T16:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/heres-what-to-know-abo-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-20T18:03:11Z"
+    },
+    {
+      "title": "A giant 'shadow' has been creeping across Mars for 50 years — and scientists aren't sure why",
+      "link": "https://www.livescience.com/space/mars/a-giant-shadow-has-been-creeping-across-mars-for-50-years-and-scientists-arent-sure-why",
+      "summary": "A dark patch in Mars' Utopia Planitia region has grown significantly since it was first photographed in 1976. Scientists have a loose understanding of what it is, but they can't pr",
+      "date": "2026-04-20T16:23:46Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/TXffQy33zrckDsMW2Aut7G-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-20T18:03:12Z"
+    },
     {
       "title": "Swallow-tailed Kite: A Poem",
       "link": "https://www.10000birds.com/swallow-tailed-kite-a-poem.htm?utm_source=rss&utm_medium=rss&utm_campaign=swallow-tailed-kite-a-poem",
@@ -5337,171 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-04-13T11:23:04Z"
-    },
-    {
-      "title": "Birding Alishan, Taiwan",
-      "link": "https://www.10000birds.com/birding-alishan-taiwan.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-alishan-taiwan",
-      "summary": "“The sunrise, sea of clouds, railway, forest, and sunset are the common impressions of Alishan”, says the relevant website. Indeed, I saw some of these sights. But the website has ",
-      "date": "2026-04-13T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2025/12/Taiwan-Liocichla_DSC5939_Alishan-Taiwan-Nov-11-2025.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-04-13T11:23:04Z"
-    },
-    {
-      "title": "The tree-kangaroo lives in the hidden world of the treetops",
-      "link": "https://earthsky.org/earth/tree-kangaroo-rare-marsupial-facts/",
-      "summary": "The tree-kangaroo lives high in the rainforest canopy, leaping, climbing and revealing a surprising side of marsupial life few have seen. The post The tree-kangaroo lives in the hi",
-      "date": "2026-04-13T11:00:15Z",
-      "image": "https://earthsky.org/upl/2026/04/tree-kangaroo-golden-color_Kunal-Kalra_Unsplash-scaled-e1775674346711.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-13T11:23:10Z"
-    },
-    {
-      "title": "Enslaved and Free Workers Built Thomas Jefferson's Monticello Brick by Brick. Archaeologists Just Discovered One of the Kilns They Used",
-      "link": "https://www.smithsonianmag.com/smart-news/workers-built-thomas-jeffersons-monticello-brick-by-brick-archaeologists-just-discovered-one-of-the-kilns-they-used-180988525/",
-      "summary": "Researchers think the newly unearthed structure was used to fire and cure bricks during construction of the site’s original mansion in the early 1770s",
-      "date": "2026-04-13T10:00:14Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/BHoat8cgY3Rt0L8w8zG-C78jqkk=/420x240/filters:focal(720x480:721x481)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ba/38/ba38a48f-9edc-4c2b-8ba8-ae67d197e6d7/bricks_1.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-13T11:23:17Z"
-    },
-    {
-      "title": "Scientists are trying to build a vaccine that works against almost any respiratory pathogen — here's how close they are.",
-      "link": "https://www.livescience.com/health/medicine-drugs/scientists-are-trying-to-build-a-vaccine-that-works-against-almost-any-respiratory-pathogen-heres-how-close-they-are",
-      "summary": "A nasal spray in mice boosted lung immunity against viruses, bacteria and allergens — but a truly universal vaccine is still years away.",
-      "date": "2026-04-13T11:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/QX9GWVRoL7AA4eJrqEmaf9-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-13T11:23:22Z"
-    },
-    {
-      "title": "Idol of Pomos: A 5,000-year-old fertility figurine from Cyprus that wears a miniature version of herself on a necklace",
-      "link": "https://www.livescience.com/archaeology/idol-of-pomos-a-5-000-year-old-fertility-figurine-from-cyprus-that-wears-a-miniature-version-of-herself-on-a-necklace",
-      "summary": "The cross-shaped figurine has become a potent symbol of Cyprus' contribution to prehistory.",
-      "date": "2026-04-13T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/EVhNtytNQvFDgw2DTGQUU3-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-13T11:23:22Z"
-    },
-    {
-      "title": "HBO’s ‘The Dark Wizard’ Is a Heartbreaking Account of Dean Potter’s Life, Death, and Demons",
-      "link": "https://www.outsideonline.com/culture/books-media/dean-potter-hbo-series-dark-wizard-review/",
-      "summary": "Dean Potter was the \"Dark Wizard\" of the Valley, a man who conjured impossible feats from a well of deep personal torment. Eleven years after he died in a wingsuit flying accident,",
-      "date": "2026-04-13T09:00:46Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/dean-potter_5-2.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-13T09:06:18Z"
-    },
-    {
-      "title": "Country diary 1976: A place where change has lain lightly",
-      "link": "https://www.theguardian.com/environment/2026/apr/13/country-diary-1976-place-where-change-has-lain-lightly-lake-district",
-      "summary": "19 April 1976 : The farms in St John’s in the Vale settle comfortably into their places under the fell’s edge KESWICK: There is still a shiver in the early morning air even though ",
-      "date": "2026-04-13T05:00:37Z",
-      "image": "https://i.guim.co.uk/img/media/f08b1ef11621a5bd8e4c2f4bec96285970a477a9/610_0_6139_4912/master/6139.jpg?width=140&quality=85&auto=format&fit=max&s=c4dfe446f95d82b4d6c6fed355a5036d",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-13T06:22:59Z"
-    },
-    {
-      "title": "The incredible life of the ‘bird man’ refugee who brought tweets, chirps and trills to British radio",
-      "link": "https://www.theguardian.com/film/2026/apr/13/ludwig-koch-bird-man-refugee-film-alarm-notes",
-      "summary": "Ludwig Koch was once as influential as David Attenborough is today – a new film by his granddaughter sheds light on a tragic event in the naturalist’s life in Berlin before he fled",
-      "date": "2026-04-13T04:00:37Z",
-      "image": "https://i.guim.co.uk/img/media/e3f3f61e7132b7e2cea492dca67308da9e2872ac/79_0_2234_1787/master/2234.jpg?width=140&quality=85&auto=format&fit=max&s=a9d37ed948e3df5c390b6b185f93b704",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-13T06:22:59Z"
-    },
-    {
-      "title": "For gray whales, San Francisco Bay is becoming a deadly pit stop",
-      "link": "https://www.sciencenews.org/article/gray-whale-deaths-boat-strikes-sf",
-      "summary": "Climate change could be forcing gray whales to seek food in San Francisco Bay, where vessel strikes may be driving rising deaths.",
-      "date": "2026-04-13T04:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/040926_GT_graywhales_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-13T06:23:08Z"
-    },
-    {
-      "title": "Of gray whales that enter San Francisco Bay, nearly 18% die there, scientists find",
-      "link": "https://phys.org/news/2026-04-gray-whales-san-francisco-bay.html",
-      "summary": "Gray whales migrate from Arctic waters full of food to the lagoons of Baja Mexico—but as the climate crisis gathers pace, they have been sighted foraging in unexpected places. Rece",
-      "date": "2026-04-13T04:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/18-of-gray-whales-that.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-13T06:23:10Z"
-    },
-    {
-      "title": "Embryo fossil found in South Africa is world's oldest proof that mammal ancestors laid eggs",
-      "link": "https://phys.org/news/2026-04-embryo-fossil-south-africa-world.html",
-      "summary": "Between 280 and 200 million years ago, a group of animals evolved which would eventually give rise to mammals, including humans: the therapsids. They were first described more than",
-      "date": "2026-04-12T19:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/embryo-fossil-found-in.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-12T20:47:07Z"
-    },
-    {
-      "title": "A Bike Crash Left Me with a Severe Injury While I Was Alone in the Backcountry. Here’s What It Was Like.",
-      "link": "https://www.outsideonline.com/health/training-performance/bike-crash-injury-iphone-sos/",
-      "summary": "While riding my bike in the mountains and took a nasty fall. My leg sliced open, and I thought I was going to bleed out. I used iPhone SOS for help. The post A Bike Crash Left Me w",
-      "date": "2026-04-12T18:07:09Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/what-its-like-arterial-gash.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-12T19:01:25Z"
-    },
-    {
-      "title": "Extinct ice age giants in Bender's Cave challenge existing climate records for the Edwards Plateau",
-      "link": "https://phys.org/news/2026-04-extinct-ice-age-giants-bender.html",
-      "summary": "A recent study by Dr. John Moretti of the University of Texas and local caver John Young uncovered the remains of Ice Age megafauna, revealing an entirely new ecosystem that once t",
-      "date": "2026-04-12T18:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fossil-of-extinct-ice.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-12T19:01:30Z"
-    },
-    {
-      "title": "Universe’s expansion rate: ‘Something doesn’t add up’",
-      "link": "https://earthsky.org/space/local-universes-expansion-rate-clear-but-questions/",
-      "summary": "We think we understand the local universe's expansion rate. But measurements confirm a mismatch that could point to a need for new physics. The post Universe’s expansion rate: ‘Som",
-      "date": "2026-04-12T12:00:43Z",
-      "image": "https://earthsky.org/upl/2026/04/universes-expanion-rate-stepladder-distance-scale-artist-NOIRLAB-e1775940551807.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-12T15:43:19Z"
-    },
-    {
-      "title": "AI can design and run thousands of lab experiments without human hands. Humanity isn't ready",
-      "link": "https://phys.org/news/2026-04-ai-thousands-lab-human-humanity.html",
-      "summary": "Artificial intelligence is rapidly learning to autonomously design and run biological experiments, but the systems intended to govern those capabilities are struggling to keep pace",
-      "date": "2026-04-12T15:30:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lab-robot.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-12T15:43:29Z"
     }
   ]
 }
