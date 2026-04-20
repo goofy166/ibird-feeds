@@ -1,8 +1,140 @@
 {
-  "updated": "2026-04-20T20:03:03Z",
-  "updated_utc": "2026-04-20T20:03:03Z",
+  "updated": "2026-04-20T21:54:44Z",
+  "updated_utc": "2026-04-20T21:54:44Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Planning a Trip to Lake Powell? Here’s What You Need to Know About Historically Low Water Levels.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/water-activities/glen-canyon-lake-powell-guide-2026/",
+      "summary": "Planning a trip to Glen Canyon? Get the latest updates on park access, water levels, and the best places to hike and boat in 2026. The post Planning a Trip to Lake Powell? Here’s W",
+      "date": "2026-04-20T21:09:22Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/GettyImages-1325429232.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-20T21:54:36Z"
+    },
+    {
+      "title": "To Reap the Benefits of Cold Plunging, Avoid These 8 Mistakes",
+      "link": "https://www.outsideonline.com/health/training-performance/cold-plunge-mistakes-and-how-to/",
+      "summary": "Too icy, too soon, and all alone: These eight mistakes can throw cold water on plunging’s benefits, and even put you in danger. The post To Reap the Benefits of Cold Plunging, Avoi",
+      "date": "2026-04-20T20:11:10Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/cold-plunging.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-20T21:54:36Z"
+    },
+    {
+      "title": "Anglerfish Are Known for Their Built-in Fishing Rods. New Research Sheds Light on How These Lures Evolved in the Strange Creatures",
+      "link": "https://www.smithsonianmag.com/smart-news/anglerfish-are-known-for-their-built-in-fishing-rods-new-research-sheds-light-on-how-these-lures-evolved-in-the-strange-creatures-180988577/",
+      "summary": "A new study suggests the odd appendages first appeared in the fish's ancestors around 72 million years ago. Today, females might use them not only to attract prey but also to commu",
+      "date": "2026-04-20T21:41:41Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/hG6HH8HayW9Bo5OEFL_zmdPXv78=/420x240/filters:focal(512x434:513x435)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a2/17/a21734bc-1485-4912-947a-547e78e44200/dkl8pfeg.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-20T21:54:37Z"
+    },
+    {
+      "title": "A whole new way to prevent death from sepsis shows promise",
+      "link": "https://www.newscientist.com/article/2523669-a-whole-new-way-to-prevent-death-from-sepsis-shows-promise/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Filtering a protein that may cause sepsis out from the blood has shown promising signs for improving survival",
+      "date": "2026-04-20T18:00:05Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/20135200/SEI_293924114.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-20T21:54:40Z"
+    },
+    {
+      "title": "Can we ‘vaccinate’ ourselves against stress?",
+      "link": "https://www.newscientist.com/article/2522501-can-we-vaccinate-ourselves-against-stress/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A traditional vaccine primes the immune system to build better defences. Researchers think we can do something similar to increase our resilience to the pressures and worries of li",
+      "date": "2026-04-20T14:00:59Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/16155914/SEI_293150298.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-20T21:54:40Z"
+    },
+    {
+      "title": "Ant supergene reveals surprising twist in evolution of social behavior",
+      "link": "https://phys.org/news/2026-04-ant-supergene-reveals-evolution-social.html",
+      "summary": "In the spring, ants are once again hard at work. Beyond their everyday presence, ants are also key model organisms in cutting-edge evolutionary genetics research, helping scientist",
+      "date": "2026-04-20T21:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/myrmica-ruginodis.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-20T21:54:41Z"
+    },
+    {
+      "title": "Whale stranded on German coast swims off, gets stuck again",
+      "link": "https://phys.org/news/2026-04-whale-stranded-german-coast-stuck.html",
+      "summary": "Efforts to rescue a humpback whale stranded for weeks on Germany's Baltic Sea coast were complicated Monday when the animal unexpectedly swam away but then appeared to have got stu",
+      "date": "2026-04-20T21:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/divers-try-to-help-the.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-20T21:54:41Z"
+    },
+    {
+      "title": "Stem cell embryo model grows yolk sac without hypoblasts or gene editing",
+      "link": "https://phys.org/news/2026-04-stem-cell-embryo-yolk-sac.html",
+      "summary": "For the first time, a stem cell model has produced a structure resembling an early human embryo with a yolk-sac-like structure, from a single starting stem cell population and with",
+      "date": "2026-04-20T21:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/stem-cell-model-of-hum.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-20T21:54:41Z"
+    },
+    {
+      "title": "Cambrian microfossils reveal earliest known ringed worms from 535 million years ago",
+      "link": "https://phys.org/news/2026-04-cambrian-microfossils-reveal-earliest-worms.html",
+      "summary": "Scientists have uncovered the earliest fossil evidence of annelids (ringed worms) in Cambrian microfossils dating back approximately 535 million years ago. This discovery offers fr",
+      "date": "2026-04-20T21:00:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/earliest-cambrian-micr-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-20T21:54:41Z"
+    },
+    {
+      "title": "Golden eagles in England? Here's the ecological case for bringing them back",
+      "link": "https://phys.org/news/2026-04-golden-eagles-england-ecological-case.html",
+      "summary": "England's last recorded pair of golden eagles lived in the Lake District. After the female died in 2004, the male was left alone for 12 years before his death in 2016.",
+      "date": "2026-04-20T21:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/golden-eagle.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-20T21:54:41Z"
+    },
+    {
+      "title": "AI algorithm identifies cells across diverse biological images, cutting hours of manual labeling",
+      "link": "https://phys.org/news/2026-04-ai-algorithm-cells-diverse-biological.html",
+      "summary": "Imaging is a critical technique in biology—from identifying cancerous cells in biopsies to observing how immune cells like macrophages hunt down and destroy pathogens. Traditionall",
+      "date": "2026-04-20T20:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-algorithm-enables-b.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-20T21:54:41Z"
+    },
+    {
+      "title": "A protein engineering method may lead to more exact cancer treatments",
+      "link": "https://phys.org/news/2026-04-protein-method-exact-cancer-treatments.html",
+      "summary": "Enzymes called proteases act like molecular scissors for proteins in the body and play a role in therapies to stop viruses from replicating and to kill cancer cells. The developmen",
+      "date": "2026-04-20T20:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/protein-engineering-me.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-20T21:54:41Z"
+    },
     {
       "title": "Taron Egerton Tells Us What It Was Really Like to Film Netflix’s New Thriller ‘Apex’",
       "link": "https://www.outsideonline.com/culture/books-media/taron-egerton-apex-netflix-interview/",
@@ -5370,138 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-04-13T19:24:18Z"
-    },
-    {
-      "title": "Wildflower season: Here’s where to find blooms in the Bay Area",
-      "link": "https://www.mercurynews.com/2026/04/13/bay-area-wildflower-blooms-2026/",
-      "summary": "The spring provides a chance to appreciate the riches Earth gives us: small-scale splendor hiding beneath our feet.",
-      "date": "2026-04-13T16:30:12Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SJM-L-WILDFLOWERS-XX-1.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-04-13T17:14:05Z"
-    },
-    {
-      "title": "Spring Sales on Kicks for Everyone",
-      "link": "https://www.outsideonline.com/outdoor-gear/run/spring-sales-on-kicks-for-everyone/",
-      "summary": "Win the season with great deals on shoes for fun and performance The post Spring Sales on Kicks for Everyone appeared first on Outside Online .",
-      "date": "2026-04-13T16:48:17Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/AFFILIATE-EDITORIAL-CASUAL-SNEAKERS-LANDSCAPE-1750x1167-1-e1775850234848.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-13T17:14:07Z"
-    },
-    {
-      "title": "Songkran Is Thailand’s Splashing New Year’s Festival, When Everyone Gets Out a Super Soaker and Prepares to Get Drenched",
-      "link": "https://www.smithsonianmag.com/smart-news/see-how-thailand-splashes-into-spring-with-songkran-a-new-years-water-festival-starting-april-13-180988536/",
-      "summary": "The memorable tradition has a deep cultural history rooted in Buddhism and increasing global notoriety for its rowdy water fights",
-      "date": "2026-04-13T16:38:47Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/T1ETF5wyUzNZxj7irw6zBtg0Zkg=/420x240/filters:focal(2667x1778:2668x1779)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fb/1e/fb1e7c3d-0a5e-4d57-9ead-909ef766a1b3/water_gun.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-13T17:14:09Z"
-    },
-    {
-      "title": "Talking dogs and chatty cats could one day ‘speak’ in our language",
-      "link": "https://www.sciencenews.org/article/talking-animals-human-language-ai",
-      "summary": "Advances in decoding animal sounds might someday make animal translators a possibility.",
-      "date": "2026-04-13T16:30:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/0526_tech-fic.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-13T17:14:10Z"
-    },
-    {
-      "title": "Chernobyl at 40: The man with the most dangerous job on Earth",
-      "link": "https://www.newscientist.com/article/2520435-chernobyl-at-40-the-man-with-the-most-dangerous-job-on-earth/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Ever since the Chernobyl nuclear reactor exploded in 1986, scientists have needed to monitor radioactive conditions inside. That job currently falls to Anatoly Doroshenko, who expl",
-      "date": "2026-04-13T14:00:24Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/31122557/SEI_291592417.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-13T17:14:11Z"
-    },
-    {
-      "title": "Collapse of key ocean current may release billions of tonnes of carbon",
-      "link": "https://www.newscientist.com/article/2522765-collapse-of-key-ocean-current-may-release-billions-of-tonnes-of-carbon/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "If the Atlantic Meridional Overturning Circulation shut down, the knock-on effects could release hundreds of billions of tonnes of CO2, raising global temperatures even further",
-      "date": "2026-04-13T14:00:44Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/13115731/SEI_292660198.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-13T17:14:11Z"
-    },
-    {
-      "title": "Chernobyl at 40: The past, present and future of a nuclear disaster",
-      "link": "https://www.newscientist.com/article/2520367-chernobyl-at-40-the-past-present-and-future-of-a-nuclear-disaster/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Forty years ago, the catastrophic explosion at Chernobyl sent plumes of radioactive waste into the atmosphere. Now, New Scientist has gained exclusive access to learn how vital wor",
-      "date": "2026-04-13T14:00:01Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/31122601/SEI_291592307.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-13T17:14:11Z"
-    },
-    {
-      "title": "Link between pollinators and diverse landscapes is a two-way street",
-      "link": "https://phys.org/news/2026-04-link-pollinators-diverse-landscapes-street.html",
-      "summary": "Ecologists have long seen a strong connection between biodiversity and pollinators—the butterflies, birds, bats, bees, and other insects that help the flowers they snack on fertili",
-      "date": "2026-04-13T17:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/link-between-pollinato.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-04-13T17:14:12Z"
-    },
-    {
-      "title": "Dead leaves now linger longer in Veluwe forests as acidic soils suppress decay",
-      "link": "https://phys.org/news/2026-04-dead-linger-longer-veluwe-forests.html",
-      "summary": "Decomposition of dead leaves in Veluwe forests has declined by tens of percent since the turn of the century. Meteorologists from Wageningen University & Research discovered this i",
-      "date": "2026-04-13T16:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/1-forest.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-13T17:14:12Z"
-    },
-    {
-      "title": "In Arizona's desert, tiny ants turn into living hygienists, climbing inside bigger ants' mandibles and cleaning them",
-      "link": "https://phys.org/news/2026-04-arizona-tiny-ants-hygienists-climbing.html",
-      "summary": "Ants are known for many things. They fight, bite and sometimes compete for every crumb. We can now possibly add cleaning services to that list, according to a study published in th",
-      "date": "2026-04-13T16:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-tiny-desert-ants-t-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-13T17:14:12Z"
-    },
-    {
-      "title": "Look and Listen for the Eastern Whip-poor-will",
-      "link": "https://www.birdsandblooms.com/birding/bird-species/eastern-whip-poor-will-identification/",
-      "summary": "Keep your ears open at night for the well-camouflaged eastern whip-poor-will: a rarely seen (but often heard!) summertime visitor. The post Look and Listen for the Eastern Whip-poo",
-      "date": "2026-03-27T14:54:16Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/GettyImages-1400305689-e1774622841541.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-04-13T15:40:39Z"
-    },
-    {
-      "title": "In a First, This Personalized Cell Therapy Treated Three Life-Threatening Autoimmune Diseases in One Patient",
-      "link": "https://www.smithsonianmag.com/smart-news/in-a-first-this-personalized-cell-therapy-treated-three-life-threatening-autoimmune-diseases-in-one-patient-180988528/",
-      "summary": "The patient was bedridden and needed daily blood transfusions, and she had tried nine different therapies that didn't bring lasting effects. So, researchers modified some of her im",
-      "date": "2026-04-13T14:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/5hFS79WEuNNUyX96KhbnBKnza3c=/420x240/filters:focal(1280x963:1281x964)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/55/86/55866793-32d1-4469-9771-234340f5ef01/human_b_lymphocyte_29196367446.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-13T15:40:51Z"
     }
   ]
 }
