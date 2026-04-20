@@ -1,8 +1,41 @@
 {
-  "updated": "2026-04-20T22:54:32Z",
-  "updated_utc": "2026-04-20T22:54:32Z",
+  "updated": "2026-04-20T23:53:19Z",
+  "updated_utc": "2026-04-20T23:53:19Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Each protein in the epigenome produces a different pattern of gene expression, study finds",
+      "link": "https://phys.org/news/2026-04-protein-epigenome-pattern-gene.html",
+      "summary": "A new study finds the proteins responsible for controlling which genes are expressed in a genome do more than simply turn a gene on or off. Essentially, each type of protein that i",
+      "date": "2026-04-20T23:40:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-finds-each-prote.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-20T23:53:15Z"
+    },
+    {
+      "title": "The physics of brain development: How cells pull together to form the neural tube",
+      "link": "https://phys.org/news/2026-04-physics-brain-cells-neural-tube.html",
+      "summary": "In about one out of every 1,000 pregnancies, the neural tube, a key nervous system structure, fails to close properly. Georgia Tech physicists are now helping explain why this happ",
+      "date": "2026-04-20T23:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-physics-of-brain-d-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-20T23:53:15Z"
+    },
+    {
+      "title": "AI model 'reads' protein pairs, unlocking new insights into disease and drug discovery",
+      "link": "https://phys.org/news/2026-04-ai-protein-pairs-insights-disease.html",
+      "summary": "Researchers have developed a new artificial intelligence (AI) model that can more accurately predict how proteins interact with one another—an advancement that could accelerate dru",
+      "date": "2026-04-20T23:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-model-reads-protein.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-20T23:53:15Z"
+    },
     {
       "title": "Wildflower season: Here’s where to find blooms in the Bay Area",
       "link": "https://www.mercurynews.com/2026/04/13/bay-area-wildflower-blooms-2026/",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-04-13T19:24:13Z"
-    },
-    {
-      "title": "Rolled Up in a Cellar for Decades, This Artemisia Gentileschi Painting Is Now Up for Auction. Why Is Mary Magdalene's Face Missing From the Portrait?",
-      "link": "https://www.smithsonianmag.com/smart-news/rolled-up-in-a-cellar-for-decades-this-artemisia-gentileschi-painting-is-now-up-for-auction-why-is-mary-magdalenes-face-missing-from-the-portrait-180988537/",
-      "summary": "Found in Berlin, the artwork was probably damaged in the chaotic aftermath of World War II. Despite the gaping hole in the canvas, it could sell for upwards of $180,000 later this ",
-      "date": "2026-04-13T17:10:03Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/dYgTXo-D25JS4fQEftIdkipK4dE=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f8/3d/f83db525-ea6f-484b-a985-e23785c92976/artemisia.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-13T19:24:13Z"
-    },
-    {
-      "title": "Fluoride in U.S. drinking water does not reduce IQ, a new study finds",
-      "link": "https://www.sciencenews.org/article/fluoride-drinking-water-iq-no-evidence",
-      "summary": "Claims that fluoride in drinking water causes cognitive delays in kids are driving U.S. policy. A new study finds no evidence to back them.",
-      "date": "2026-04-13T19:12:52Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/041326_ED_fluoride_main_rev.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-13T19:24:14Z"
-    },
-    {
-      "title": "What fish redistribution in the Mediterranean is telling us about species' climate resilience",
-      "link": "https://phys.org/news/2026-04-fish-redistribution-mediterranean-species-climate.html",
-      "summary": "Over the past 20 years, nearly half of commercially important Mediterranean fish species have shifted their distribution due to climate change, causing marine species to move away ",
-      "date": "2026-04-13T18:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/5-fish.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-13T19:24:17Z"
     }
   ]
 }
