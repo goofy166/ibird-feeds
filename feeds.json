@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-19T23:47:01Z",
-  "updated_utc": "2026-04-19T23:47:01Z",
+  "updated": "2026-04-20T03:40:17Z",
+  "updated_utc": "2026-04-20T03:40:17Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Hospital-acquired pneumonia reduced by daily toothbrushing",
+      "link": "https://www.newscientist.com/article/2523576-hospital-acquired-pneumonia-reduced-by-daily-toothbrushing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Most hospital patients don't brush their teeth regularly, but doing so could cut their risk of developing pneumonia during their stay",
+      "date": "2026-04-19T23:01:43Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/17174146/SEI_293540765.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-20T03:40:12Z"
+    },
     {
       "title": "A light-controlled 'muscle' could give synthetic cells a new way to move",
       "link": "https://phys.org/news/2026-04-muscle-synthetic-cells.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-04-11T02:53:52Z"
-    },
-    {
-      "title": "Nicotine's last biosynthesis steps mapped in wild tobacco, ending a long mystery",
-      "link": "https://phys.org/news/2026-04-nicotine-biosynthesis-wild-tobacco-mystery.html",
-      "summary": "Nicotine, a potent insecticidal alkaloid unique to the nightshade family, has been employed in agriculture as a pesticide since 1690. It also has therapeutic potential for neurolog",
-      "date": "2026-04-10T23:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-elucidate.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-10T23:44:42Z"
     }
   ]
 }
