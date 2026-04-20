@@ -1,8 +1,52 @@
 {
-  "updated": "2026-04-20T21:54:44Z",
-  "updated_utc": "2026-04-20T21:54:44Z",
+  "updated": "2026-04-20T22:54:32Z",
+  "updated_utc": "2026-04-20T22:54:32Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Wildflower season: Here’s where to find blooms in the Bay Area",
+      "link": "https://www.mercurynews.com/2026/04/13/bay-area-wildflower-blooms-2026/",
+      "summary": "The spring provides a chance to appreciate the riches Earth gives us: small-scale splendor hiding beneath our feet.",
+      "date": "2026-04-13T16:30:12Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SJM-L-WILDFLOWERS-XX-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-20T22:54:21Z"
+    },
+    {
+      "title": "Alkaline cement tiles boost baby coral survival from 12% to 52%",
+      "link": "https://phys.org/news/2026-04-alkaline-cement-tiles-boost-baby.html",
+      "summary": "As coral reefs struggle to survive in warming oceans, scientists across the world are scrambling to find ways to help these vital ocean ecosystems. An interdisciplinary team at the",
+      "date": "2026-04-20T22:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-strategies-for-c-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-20T22:54:29Z"
+    },
+    {
+      "title": "Editing grapevine DNA could boost resistance to disease and drought",
+      "link": "https://phys.org/news/2026-04-grapevine-dna-boost-resistance-disease.html",
+      "summary": "For the first time, a team of researchers from Stellenbosch University (SU) and the Agricultural Research Council has successfully edited the DNA of a woody crop plant in Africa by",
+      "date": "2026-04-20T22:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-shows-editin.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-20T22:54:29Z"
+    },
+    {
+      "title": "Simple mineral treatment rescues flaxseed oil, slashing bitterness and keeping omega-3-rich flavor intact",
+      "link": "https://phys.org/news/2026-04-simple-mineral-treatment-flaxseed-oil.html",
+      "summary": "How can the mild flavor of flaxseed oil be preserved for longer? A research team led by Roman Lang from the Leibniz Institute for Food Systems Biology at the Technical University o",
+      "date": "2026-04-20T22:20:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-approach.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-20T22:54:29Z"
+    },
     {
       "title": "Planning a Trip to Lake Powell? Here’s What You Need to Know About Historically Low Water Levels.",
       "link": "https://www.outsideonline.com/outdoor-adventure/water-activities/glen-canyon-lake-powell-guide-2026/",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-13T19:24:17Z"
-    },
-    {
-      "title": "Future-proofing livestock vaccines by anticipating viruses' next moves",
-      "link": "https://phys.org/news/2026-04-future-proofing-livestock-vaccines-viruses.html",
-      "summary": "The wave-shaped chart Ratul Chowdhury pulls up on a computer monitor in his office captures the evolutionary cat-and-mouse game his research lab is up against. The undulating curve",
-      "date": "2026-04-13T17:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/future-proofing-livest.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-13T19:24:17Z"
-    },
-    {
-      "title": "Homo erectus' tools include stunning geodes and fossils, possibly as a way to connect with the cosmos, study finds",
-      "link": "https://www.livescience.com/archaeology/human-evolution/homo-erectus-tools-include-stunning-geodes-and-fossils-possibly-as-a-way-to-connect-with-the-cosmos-study-finds",
-      "summary": "Homo erectus may have deliberately selected rocks embedded with fossils and crystals to craft their hand axes — possibly to serve as mediators between humans and the cosmos.",
-      "date": "2026-04-13T18:55:41Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/5tLR5r9t8RSNKwFZjhGo2h-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-13T19:24:18Z"
-    },
-    {
-      "title": "'Really, really weird': Physicists entangle two moving atoms for the first time, validating 'spooky' quantum theory",
-      "link": "https://www.livescience.com/physics-mathematics/quantum-physics/really-really-weird-physicists-entangle-two-moving-atoms-for-the-first-time-validating-spooky-quantum-theory",
-      "summary": "For the first time, scientists have observed quantum entanglement in the momentum of massive particles. The result, decades in the making, could help physicists probe the relations",
-      "date": "2026-04-13T18:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/GY7oFCjuHP2Mtd3qGEw645-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-13T19:24:18Z"
-    },
-    {
-      "title": "'I have not processed what we just did': Artemis II astronauts share all in first news conference since splashdown",
-      "link": "https://www.livescience.com/space/space-exploration/i-have-not-processed-what-we-just-did-artemis-ii-astronauts-share-all-in-first-news-conference-since-splashdown",
-      "summary": "The Artemis II crew have spoken publicly for the first time since their return to Earth.",
-      "date": "2026-04-13T17:39:06Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/6R9gvc92cXrFTNoviSMsfG-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-13T19:24:18Z"
     }
   ]
 }
