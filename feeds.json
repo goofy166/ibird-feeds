@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-20T06:23:15Z",
-  "updated_utc": "2026-04-20T06:23:15Z",
+  "updated": "2026-04-20T09:12:12Z",
+  "updated_utc": "2026-04-20T09:12:12Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Pivotal D.C. Gathering Seeks to Make Outdoor Recreation a Cornerstone of Health and Wellness",
+      "link": "https://www.outsideonline.com/culture/books-media/health-and-outdoor-recreation-forum/",
+      "summary": "The Outdoor Recreation Roundtable will host the National Executive Forum on Health and Outdoor Recreation May 6-7 in Washington D.C. The post Pivotal D.C. Gathering Seeks to Make O",
+      "date": "2026-04-20T09:00:45Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/ORR-forum.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-20T09:12:03Z"
+    },
+    {
+      "title": "Why so many mollusks sound Greek—their naming evolves at a snail's pace",
+      "link": "https://phys.org/news/2026-04-mollusks-greek-evolves-snail-pace.html",
+      "summary": "\"A rose by any other name would smell as sweet,\" said Juliet Capulet in William Shakespeare's famous play. And the same is presumably true for mollusks, albeit with different odors",
+      "date": "2026-04-20T09:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-naming-of-mollusks.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-20T09:12:08Z"
+    },
     {
       "title": "Country diary 1926: There was a hoopoe on the lawn",
       "link": "https://www.theguardian.com/environment/2026/apr/20/country-diary-1926-hoopoe-on-the-lawn-cornwall",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-04-11T02:53:46Z"
-    },
-    {
-      "title": "Tweaking the smell of cat food can encourage fussy felines to eat",
-      "link": "https://www.newscientist.com/article/2522781-tweaking-the-smell-of-cat-food-can-encourage-fussy-felines-to-eat/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Some cats will suddenly refuse to touch brands of cat food that they have eaten for years. Changing the way the food smells might solve the problem",
-      "date": "2026-04-10T20:00:04Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/10180714/SEI_292651331.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-11T02:53:49Z"
-    },
-    {
-      "title": "AI and drones can select the most resilient wheat",
-      "link": "https://phys.org/news/2026-04-ai-drones-resilient-wheat.html",
-      "summary": "Making wheat more resilient to climate change without compromising yields has become an urgent priority for the agricultural sector. Now, a study led by a research team from the Un",
-      "date": "2026-04-11T01:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/artificial-intelligenc-15.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-11T02:53:50Z"
     }
   ]
 }
