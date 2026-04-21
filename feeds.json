@@ -1,8 +1,107 @@
 {
-  "updated": "2026-04-21T20:09:01Z",
-  "updated_utc": "2026-04-21T20:09:01Z",
+  "updated": "2026-04-21T21:53:29Z",
+  "updated_utc": "2026-04-21T21:53:29Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Neon green fireworms light up California lagoon with their mating",
+      "link": "https://www.mercurynews.com/2026/04/14/neon-green-fireworms-light-up-long-beach-water-with-their-mating/",
+      "summary": "Bioluminescent fireworms engaging in a mating ritual in Colorado Lagoon drew crowds over the weekend, but they only mate during certain moon phases.",
+      "date": "Tue, 14 Apr 2026 13Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/DSC03905-2-16x9-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-21T21:53:18Z"
+    },
+    {
+      "title": "This New York City Cemetery Restored a Victorian Greenhouse to Welcome Visitors to Its Historic Grounds",
+      "link": "https://www.smithsonianmag.com/smart-news/green-wood-cemetery-restored-a-victorian-greenhouse-to-welcome-visitors-to-its-historic-grounds-180988588/",
+      "summary": "Green-Wood Cemetery in Brooklyn grew out of the 19th-century \"rural cemetery\" movement that transformed graveyards from cramped and dark to sprawling and beautiful",
+      "date": "Tue, 21 Apr 2026 20Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/8z0tkges32l7SfWfFbyrgHPnCDw=/420x240/filters:focal(717x485:718x486)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/84/45/84450507-c544-4100-8a01-02e4e5abf547/670445941_18595753075007221_6102406801397021539_n.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-21T21:53:22Z"
+    },
+    {
+      "title": "Astronauts' Memories of Earth's Gravity May Influence How They Move and Hold Objects, Even After Months in Space",
+      "link": "https://www.smithsonianmag.com/smart-news/astronauts-memories-of-earths-gravity-may-influence-how-they-move-and-hold-objects-even-after-months-in-space-180988586/",
+      "summary": "Examining the fine motor skills of space travelers can help improve safety for future missions, scientists say",
+      "date": "Tue, 21 Apr 2026 20Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/aUI25dv-9N12QMaupkudEmV6hCc=/420x240/filters:focal(400x266:401x267)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/54/c0/54c0217a-76b8-4cc1-a0e8-307811e57928/51814201006_f887979ceb_c.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-21T21:53:22Z"
+    },
+    {
+      "title": "Bacteria's 'two-way door' revealed: How antimicrobials cross cell membranes",
+      "link": "https://phys.org/news/2026-04-bacteria-door-revealed-antimicrobials-cell.html",
+      "summary": "Researchers at Durham have helped unlock a new understanding of how bacteria import antimicrobial peptides—the molecules that can kill or inhibit microbes. The research sheds new l",
+      "date": "2026-04-21T21:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-reveal-how.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-21T21:53:25Z"
+    },
+    {
+      "title": "New research reveals cell proteins that drive severe viral infections",
+      "link": "https://phys.org/news/2026-04-reveals-cell-proteins-severe-viral.html",
+      "summary": "Researchers at Umeå University have identified two human cell proteins, NUP98 and NUP153, that play a crucial role in how viruses such as tick-borne encephalitis virus (TBEV), West",
+      "date": "2026-04-21T20:50:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-reveals-c-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-21T21:53:25Z"
+    },
+    {
+      "title": "Crabs' iconic sideways walk evolved from common ancestor, study suggests",
+      "link": "https://phys.org/news/2026-04-crabs-iconic-sideways-evolved-common.html",
+      "summary": "Researchers have provided new insights into the evolutionary origin of sideways walking in crabs. Their study, published today as a Reviewed Preprint in eLife, presents the largest",
+      "date": "2026-04-21T20:40:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-suggests-crabs-i.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-21T21:53:25Z"
+    },
+    {
+      "title": "How colonialism still shapes extinctions today, from island species losses to disappearing languages",
+      "link": "https://phys.org/news/2026-04-colonialism-extinctions-today-island-species.html",
+      "summary": "Human activities have always shaped both biological and cultural diversity. An international team led by the University of Vienna has now investigated the link between the threat t",
+      "date": "2026-04-21T20:30:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/species-and-languages.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-21T21:53:25Z"
+    },
+    {
+      "title": "AI tool predicts how new drug molecules move before costly lab tests",
+      "link": "https://phys.org/news/2026-04-ai-tool-drug-molecules-lab.html",
+      "summary": "For every life-changing new drug that comes to market, many candidates fail along the way. An artificial intelligence-based tool developed at the University of Oregon could help sc",
+      "date": "2026-04-21T20:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-drug.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-21T21:53:25Z"
+    },
+    {
+      "title": "Discover the Hidden World of Bird Nests and Eggs with the Cornell Lab of Ornithology",
+      "link": "https://www.birds.cornell.edu/home/discover-bird-nests-and-eggs/",
+      "summary": "A Brand new self-paced, online course explores nests and eggs just in time for spring.",
+      "date": "2026-04-06T13:32:14Z",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-04-21T21:53:28Z"
+    },
     {
       "title": "Alex Honnold Discovers Epic Trail Running in Nevada’s Ruby Mountains",
       "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/alex-honnold-discovers-epic-trail-running-in-nevadas-ruby-mountains/",
@@ -5403,105 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-04-14T16:16:03Z"
-    },
-    {
-      "title": "The National Gallery of Art Holds an Artistic Mirror Up to the United States for Its Big 250th Birthday",
-      "link": "https://www.smithsonianmag.com/smart-news/the-national-gallery-of-art-holds-an-artistic-mirror-up-to-the-united-states-for-its-big-250th-birthday-180988538/",
-      "summary": "In celebration of the semiquincentennial this year, \"Dear America\" looks at the country's land, communities and revolutionary history through artworks dating back to the late 18th ",
-      "date": "Tue, 14 Apr 2026 15Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/w3Au-ewBcsSLvGe0KKGDGJ1TWIQ=/420x240/filters:focal(2048x1463:2049x1464)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/76/b6/76b6835c-d039-472c-ac71-b9b78a20ce05/across_the_continent_westward_the_course_of_empire_takes_its_way_198564160.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-14T16:16:03Z"
-    },
-    {
-      "title": "New mutations help the H5N1 bird flu virus infect cows but not people",
-      "link": "https://www.sciencenews.org/article/mutations-h5n1-bird-flu-adapt-cows",
-      "summary": "The findings show how the H5N1 bird flu virus is evolving in livestock and what that may mean for human health.",
-      "date": "Tue, 14 Apr 2026 16Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/040926_TS_cattleH5N1_main_80f4e9.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-14T16:16:05Z"
-    },
-    {
-      "title": "My life as a meteorologist in Chernobyl under Russian occupation",
-      "link": "https://www.newscientist.com/article/2520451-my-life-as-a-meteorologist-in-chernobyl-under-russian-occupation/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "When Russia invaded Ukraine in 2022, Chernobyl lay on the path to the capital Kyiv. When the plant was occupied by Russian troops, meteorologist Lyudmila Dyblenko fearlessly contin",
-      "date": "2026-04-13T14:00:05Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/14114251/SEI_290650814.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-14T16:16:06Z"
-    },
-    {
-      "title": "The man who crawls into the perilous heart of the Chernobyl reactor",
-      "link": "https://www.newscientist.com/article/2520435-the-man-who-crawls-into-the-perilous-heart-of-the-chernobyl-reactor/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Ever since the Chernobyl nuclear reactor exploded in 1986, scientists have needed to monitor radioactive conditions inside. That job currently falls to Anatoly Doroshenko, who expl",
-      "date": "2026-04-13T14:00:24Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/14114245/SEI_290668214.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-14T16:16:06Z"
-    },
-    {
-      "title": "A tiny predator from ancient Spain just doubled the weasel family's evolutionary timeline",
-      "link": "https://phys.org/news/2026-04-tiny-predator-ancient-spain-weasel.html",
-      "summary": "Weasels are small carnivores with a long body and short legs. They also have a stout skull and sharp teeth. These creatures, along with ferrets and minks, make up the Mustelinae su",
-      "date": "2026-04-14T16:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-fossil-of-a-new-carn.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-14T16:16:07Z"
-    },
-    {
-      "title": "Scattered insects offer practical boost to poultry welfare, new research shows",
-      "link": "https://phys.org/news/2026-04-insects-boost-poultry-welfare.html",
-      "summary": "Modern broiler chicken strains have been selectively bred for rapid growth, increased meat yield and feed efficiency, making poultry meat affordable and widely available. But this ",
-      "date": "2026-04-14T16:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/broiler.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-14T16:16:07Z"
-    },
-    {
-      "title": "A tiny wall spider named for Pink Floyd is hunting urban pests up to six times its size",
-      "link": "https://phys.org/news/2026-04-tiny-wall-spider-pink-floyd.html",
-      "summary": "A team of researchers from institutions across South America have expanded scholarly knowledge of the Pikelinia spider genus, with their recent discovery of a new crevice weaver sp",
-      "date": "2026-04-14T15:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/another-web-in-the-wal-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-14T16:16:07Z"
-    },
-    {
-      "title": "The North of Bonaire – Profile for Birders",
-      "link": "https://www.10000birds.com/the-north-of-bonaire-profile-for-birders.htm?utm_source=rss&utm_medium=rss&utm_campaign=the-north-of-bonaire-profile-for-birders",
-      "summary": "Highlights The northern region of Bonaire offers one of the island’s most rewarding birding experiences, centered around its unique tropical dry forest habitat. Conditions here shi",
-      "date": "Tue, 14 Apr 2026 12Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/04/route-for-northern-tropical-dry-forest-birding.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-04-14T14:55:09Z"
-    },
-    {
-      "title": "Comet R3 PanSTARRS is brightening! Pics and chart here",
-      "link": "https://earthsky.org/space/comet-r3-panstarrs-pics-and-chart/",
-      "summary": "Comet R3 PanSTARRS is now visible in the morning sky for those with binoculars or a telescope. Will it get brighter? See pics and a finder chart here. The post Comet R3 PanSTARRS i",
-      "date": "Tue, 14 Apr 2026 14Z",
-      "image": "https://earthsky.org/upl/2026/04/AstroBob-finder-chart-for-Comet-R3-PanSTARRS-Apr-11-to-17-2026-e1776175704364.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-14T14:55:16Z"
     }
   ]
 }
