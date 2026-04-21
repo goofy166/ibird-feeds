@@ -1,8 +1,63 @@
 {
-  "updated": "2026-04-21T08:57:04Z",
-  "updated_utc": "2026-04-21T08:57:04Z",
+  "updated": "2026-04-21T10:25:26Z",
+  "updated_utc": "2026-04-21T10:25:26Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Experts call for restrictions on pet flea treatments that harm UK songbirds",
+      "link": "https://www.theguardian.com/environment/2026/apr/21/calls-restrict-pet-flea-products-study-finds-neurotoxins-bird-feathers",
+      "summary": "Chemicals known to affect brains of common garden birds, and to kill unborn chicks, found in most feather samples Conservationists have called for restrictions on pet flea treatmen",
+      "date": "2026-04-21T09:00:20Z",
+      "image": "https://i.guim.co.uk/img/media/dd9c439f141620d270a091fcef1e5b2a1595751f/290_0_1532_1225/master/1532.jpg?width=140&quality=85&auto=format&fit=max&s=7b4b0c6fac0df2dfc26fe1cf0d7266ca",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-21T10:25:10Z"
+    },
+    {
+      "title": "Canned Beans Are Cool Again. Here Are the Brands You Need for Your Next Adventure.",
+      "link": "https://www.outsideonline.com/food/food-culture/best-canned-bean-brands-camping-meals/",
+      "summary": "From Cuban black beans to Greek gigantes, we tested the best new shelf-stable beans that are high in protein, fiber, and flavor—perfect for the campsite or a quick weeknight meal. ",
+      "date": "Tue, 21 Apr 2026 10Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/BeanOpener.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-21T10:25:17Z"
+    },
+    {
+      "title": "REI’s Minimalist Sling Just Made My Daypacks Obsolete",
+      "link": "https://www.outsideonline.com/outdoor-gear/hiking-gear/rei-trailmade-hydration-sling-review/",
+      "summary": "Even before REI Co-op debuted its Trailmade Hydration Sling, my daypacks were languishing in my garage—and not because they were derelict or unusable. These are top-notch packs, cu",
+      "date": "Tue, 21 Apr 2026 09Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/rei-trailmade-hydration-sling-back-shot.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-21T10:25:17Z"
+    },
+    {
+      "title": "New blood test aims to spot liver scarring before it paves the way to cancer",
+      "link": "https://www.livescience.com/health/medicine-drugs/new-blood-test-aims-to-spot-liver-scarring-before-it-paves-the-way-to-cancer",
+      "summary": "Liver scarring can pave the way to cancer down the line. A new blood test in development might help doctors spot it.",
+      "date": "Tue, 21 Apr 2026 10Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/JzzCNgNDazBDUSoV4e4fAL-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-21T10:25:23Z"
+    },
+    {
+      "title": "'We're the best servants anyone could dream of!' AI superintelligence has no need to enslave humans because we're already bowing to it",
+      "link": "https://www.livescience.com/technology/artificial-intelligence/were-the-best-servants-anyone-could-dream-of-ai-superintelligence-has-no-need-to-enslave-humans-because-were-already-bowing-to-it",
+      "summary": "A future AI would have no need to rid the world of humanity because we're incredibly useful. But if it did want to shrug us off, this is how it would likely play out.",
+      "date": "Tue, 21 Apr 2026 10Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/UC8DRafT5WorTr5aHpc7gQ-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-21T10:25:23Z"
+    },
     {
       "title": "‘They come right past the house’: learning to live with rhinos as numbers soar in Nepal",
       "link": "https://www.theguardian.com/environment/2026/apr/21/rhinos-on-the-high-street-human-wildlife-conflict-nepal-aoe",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-13T22:53:19Z"
-    },
-    {
-      "title": "Gray whales are dying in San Francisco Bay at an alarming rate. This isn't normal",
-      "link": "https://phys.org/news/2026-04-gray-whales-dying-san-francisco.html",
-      "summary": "At least six gray whales have died in San Francisco Bay from mid-March to early April 2026. These deaths follow a pattern over the past few years, and they are raising concerns amo",
-      "date": "2026-04-13T21:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/gray-whale.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-13T22:53:19Z"
-    },
-    {
-      "title": "Plants use a protein-tagging complex to control stress survival, study finds",
-      "link": "https://phys.org/news/2026-04-protein-tagging-complex-stress-survival.html",
-      "summary": "A specific cellular mechanism regulates the protein balance of plants, thereby influencing how they respond to environmental stress. An international research team led by Dr. Marku",
-      "date": "2026-04-13T21:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-plants-regulate-th-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-13T22:53:19Z"
-    },
-    {
-      "title": "Disrupting genome architecture selectively impairs developmental genes",
-      "link": "https://phys.org/news/2026-04-disrupting-genome-architecture-impairs-developmental.html",
-      "summary": "Weill Cornell Medicine researchers have found that temporarily disabling a protein complex that organizes DNA into loops inside the cell's nucleus drastically disrupted the three-d",
-      "date": "2026-04-13T21:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/disrupting-genome-arch.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-13T22:53:19Z"
-    },
-    {
-      "title": "'Oslo patient' likely cured of HIV after getting stem cell transplant from his brother, who is genetically resistant to the virus",
-      "link": "https://www.livescience.com/health/hiv/oslo-patient-likely-cured-of-hiv-after-getting-stem-cell-transplant-from-his-brother-who-is-genetically-resistant-to-the-virus",
-      "summary": "A man known as the \"Oslo patient\" joins a short list of people in long-term remission from HIV following bone marrow transplants.",
-      "date": "2026-04-13T21:08:33Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/nyMuAaZA2RcDNTPpCpLPBU-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-13T22:53:20Z"
-    },
-    {
-      "title": "“Please Help Us Get a Break:” Goblin Valley Rangers Plead with Hikers After a Surge in Rescues.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/goblin-valley-state-park-rescues/",
-      "summary": "Goblin Valley rangers say they are seeing an uptick in search and rescue calls throughout the area’s most popular slot canyons. The post “Please Help Us Get a Break:” Goblin Valley",
-      "date": "2026-04-13T20:39:58Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/IMG_8771.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-13T21:03:30Z"
     }
   ]
 }
