@@ -1,8 +1,85 @@
 {
-  "updated": "2026-04-21T12:04:29Z",
-  "updated_utc": "2026-04-21T12:04:29Z",
+  "updated": "2026-04-21T14:51:06Z",
+  "updated_utc": "2026-04-21T14:51:06Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Proof in the Code traces efforts to digitally verify mathematical truths",
+      "link": "https://www.sciencenews.org/article/the-proof-in-the-code-ai-math-book",
+      "summary": "Journalist Kevin Hartnett chronicles how code-checking tools and AI are being used to tackle difficult math problems.",
+      "date": "Tue, 21 Apr 2026 13Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/041626_TheProof_review_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-04-21T14:51:00Z"
+    },
+    {
+      "title": "Brushing your teeth in hospital could prevent catching a bad infection",
+      "link": "https://www.newscientist.com/article/2523576-brushing-your-teeth-in-hospital-could-prevent-catching-a-bad-infection/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Most hospital patients don't brush their teeth regularly, but doing so could cut their risk of developing pneumonia during their stay",
+      "date": "2026-04-19T23:01:43Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/17174146/SEI_293540765.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-21T14:51:01Z"
+    },
+    {
+      "title": "Uganda's Python Cave reveals how a Marburg virus outbreak could begin",
+      "link": "https://phys.org/news/2026-04-uganda-python-cave-reveals-marburg.html",
+      "summary": "Marburg virus disease (MVD) is a severe and often fatal hemorrhagic disease in humans caused by the Marburg virus. It is carried by Egyptian fruit bats and can spread to people aft",
+      "date": "2026-04-21T14:20:15Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/camera-footage-of-a-ca.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-21T14:51:02Z"
+    },
+    {
+      "title": "Small-scale and backyard egg producers in New England invited to participate in survey",
+      "link": "https://phys.org/news/2026-04-small-scale-backyard-egg-england.html",
+      "summary": "As more families and small enterprises enter the egg market and more consumers buy local food, the stakes around backyard egg safety are growing. A single outbreak linked to small ",
+      "date": "2026-04-21T14:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/small-scale-and-backya.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-21T14:51:02Z"
+    },
+    {
+      "title": "Breaking a shared defense restores antibiotics against two cystic fibrosis lung bacteria",
+      "link": "https://phys.org/news/2026-04-defense-antibiotics-cystic-fibrosis-lung.html",
+      "summary": "A newly discovered mechanism renders antibiotic-resistant bacteria vulnerable by disabling both their individual resistance and a process known as cross-protection, the ability of ",
+      "date": "2026-04-21T12:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-disable-an.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-21T14:51:02Z"
+    },
+    {
+      "title": "AI maps mammals' molecular 'dark matter' by predicting billions of missing metabolites",
+      "link": "https://phys.org/news/2026-04-ai-mammals-molecular-dark-billions.html",
+      "summary": "Invisible \"dark matter\"—what cosmologists call the mysterious glue that holds everything together—is estimated to make up more than a quarter of the universe. In chemistry, dark ma",
+      "date": "2026-04-21T12:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-shed-light-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-21T14:51:02Z"
+    },
+    {
+      "title": "'Nations need to prepare now': Key Atlantic ocean current is much closer to collapse than scientists thought",
+      "link": "https://www.livescience.com/planet-earth/climate-change/nations-need-to-prepare-now-key-atlantic-ocean-current-is-much-closer-to-collapse-than-scientists-thought",
+      "summary": "An alarming study claims the Atlantic meridional overturning circulation is weakening more than than believed previously. But experts say its findings are far from the final word.",
+      "date": "Tue, 21 Apr 2026 14Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/mhmyo2aVVXYBZzv9uNgsfH-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-21T14:51:03Z"
+    },
     {
       "title": "Blakiston’s Fish-Owl in Hokkaido",
       "link": "https://www.10000birds.com/blakistons-fish-owl-in-hokkaido.htm?utm_source=rss&utm_medium=rss&utm_campaign=blakistons-fish-owl-in-hokkaido",
@@ -5425,83 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-04-14T03:29:52Z"
-    },
-    {
-      "title": "The green solution to climate change isn't happening – and that's good",
-      "link": "https://www.newscientist.com/article/2522770-the-green-solution-to-climate-change-isnt-happening-and-thats-good/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Removing CO2 from the atmosphere by capturing the carbon from burning biomass is supposed to save the planet, but it looks like the flagship project will never happen",
-      "date": "2026-04-13T22:00:02Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/13171038/SEI_293019176.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-14T03:29:57Z"
-    },
-    {
-      "title": "Free online lipid network aims to unite researchers and speed collaboration worldwide",
-      "link": "https://phys.org/news/2026-04-free-online-lipid-network-aims.html",
-      "summary": "Lipid research investigates the structure, function and metabolism of fats, covering their roles in industrial processes, the environment and health. Emerging research areas includ",
-      "date": "2026-04-14T02:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/lab.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-14T03:29:58Z"
-    },
-    {
-      "title": "Predictably unpredictable: Building resilient crops for a changing world",
-      "link": "https://phys.org/news/2026-04-unpredictable-resilient-crops-world.html",
-      "summary": "An unusually mild winter followed by a wet spring made last year one of the worst in a decade for Pennsylvania soybean growers. It wasn't the soybeans that were the problem; it was",
-      "date": "2026-04-14T01:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/predictably-unpredicta.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-14T03:29:58Z"
-    },
-    {
-      "title": "Compact CRISPR system unlocks targeted in-body gene editing, with up to 90% efficiency",
-      "link": "https://phys.org/news/2026-04-compact-crispr-body-gene-efficiency.html",
-      "summary": "A research team has discovered an enhanced CRISPR gene-editing system that could enable targeted delivery inside the human body—a key step toward broader clinical use. Researchers ",
-      "date": "2026-04-13T23:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/smaller-crispr-system.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-13T23:53:04Z"
-    },
-    {
-      "title": "Protein clusters reshape cell movement and may help cells build amino acids faster",
-      "link": "https://phys.org/news/2026-04-protein-clusters-reshape-cell-movement.html",
-      "summary": "Cells can be thought of as cities, with factories, a transport system, and lots of building activity. An international team led by scientists at the University of Groningen studied",
-      "date": "2026-04-13T23:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/proteins-cluster-in-ce.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-13T23:53:04Z"
-    },
-    {
-      "title": "Stone Age tombs in Scotland reveal 'webs of descent' among male relatives",
-      "link": "https://www.livescience.com/archaeology/stone-age-tombs-in-scotland-reveal-webs-of-descent-among-male-relatives",
-      "summary": "An analysis of DNA from Stone Age skeletons buried in Scotland reveals how people organized the burial of their dead.",
-      "date": "2026-04-13T23:01:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Lq2Scoqf7mKN6YZLowN3iY-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-13T23:53:05Z"
-    },
-    {
-      "title": "Discover the Hidden World of Bird Nests and Eggs with the Cornell Lab of Ornithology",
-      "link": "https://www.birds.cornell.edu/home/discover-bird-nests-and-eggs/",
-      "summary": "A Brand new self-paced, online course explores nests and eggs just in time for spring.",
-      "date": "2026-04-06T13:32:14Z",
-      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-04-13T23:53:06Z"
     }
   ]
 }
