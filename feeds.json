@@ -1,8 +1,107 @@
 {
-  "updated": "2026-04-21T22:49:02Z",
-  "updated_utc": "2026-04-21T22:49:02Z",
+  "updated": "2026-04-21T23:43:13Z",
+  "updated_utc": "2026-04-21T23:43:13Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Humidity makes these bees turn green",
+      "link": "https://www.sciencenews.org/article/humidity-bee-hue-color-change",
+      "summary": "North American sweat bees change color depending on the surrounding humidity. It might be a more widespread phenomenon among insects.",
+      "date": "Tue, 21 Apr 2026 23Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/042126_JB_bees_main_REV.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-04-21T23:43:06Z"
+    },
+    {
+      "title": "The way primates parent their young shows how strict labels like parenting styles miss the mark",
+      "link": "https://phys.org/news/2026-04-primates-parent-young-strict-parenting.html",
+      "summary": "Whether you've sought them out or not, you've probably encountered parenting content creators on social media at some point in the last two decades.",
+      "date": "2026-04-21T23:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/primates.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-21T23:43:09Z"
+    },
+    {
+      "title": "Malaria rebound spurs AI-driven hunt for parasite genes linked to deadly cases",
+      "link": "https://phys.org/news/2026-04-malaria-rebound-spurs-ai-driven.html",
+      "summary": "Despite decades of efforts to combat it, malaria remains a major global health threat. According to the World Health Organization's (WHO) 2025 World Malaria Report, about 282 milli",
+      "date": "2026-04-21T23:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/malaria-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-21T23:43:09Z"
+    },
+    {
+      "title": "Self‑replicating circular RNA persists in extreme environments: Insights from hot spring microbiomes",
+      "link": "https://phys.org/news/2026-04-selfreplicating-circular-rna-persists-extreme.html",
+      "summary": "Although the genetic material of most living organisms is DNA, various self-replicating agents rely instead on RNA, including RNA viruses and viroids, which are infectious RNA mole",
+      "date": "2026-04-21T23:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hot-spring-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-21T23:43:09Z"
+    },
+    {
+      "title": "A few extra minutes of daily play can strengthen your bond with your dog in four weeks",
+      "link": "https://phys.org/news/2026-04-extra-minutes-daily-play-bond.html",
+      "summary": "Playing a little extra with your dog improves the emotional bond between owner and dog, according to a new study from Linköping University. However, training did not give the same ",
+      "date": "2026-04-21T23:10:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/playing-with-your-dog.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-21T23:43:09Z"
+    },
+    {
+      "title": "Breathing new life into an ancient mystery: Unlocking the trilobite's respiratory secrets",
+      "link": "https://phys.org/news/2026-04-life-ancient-mystery-trilobite-respiratory.html",
+      "summary": "For more than 270 million years, trilobites were among the most successful and diverse creatures on Earth, with over 22,000 known species spanning the Paleozoic Era. Yet, despite t",
+      "date": "2026-04-21T23:00:12Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/breathing-new-life-int.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-21T23:43:09Z"
+    },
+    {
+      "title": "Hurricanes devastated Florida's East Coast. Then seagrass made an unexpected comeback",
+      "link": "https://phys.org/news/2026-04-hurricanes-devastated-florida-east-coast.html",
+      "summary": "Florida's Indian River Lagoon has been an ecosystem in decline going back to 2011, when harmful algal blooms led to a severe decline in seagrass, the foundational component of shal",
+      "date": "2026-04-21T23:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/seagrass.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-21T23:43:09Z"
+    },
+    {
+      "title": "Before the melt begins, sea stars show hidden immune collapse and tissue failure driving a coastal die-off",
+      "link": "https://phys.org/news/2026-04-sea-stars-hidden-immune-collapse.html",
+      "summary": "Scientists are homing in on a mysterious wasting disease that has killed billions of sea stars along the Pacific coast of North America since 2013. Sea star wasting disease can rap",
+      "date": "2026-04-21T23:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/early-warning-signs-uv-5.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-21T23:43:09Z"
+    },
+    {
+      "title": "Penguin muscle map reveals how waddles and underwater 'flight' both work",
+      "link": "https://phys.org/news/2026-04-penguin-muscle-reveals-waddles-underwater.html",
+      "summary": "Penguins may look charmingly awkward on land, but new research shows their bodies are finely tuned for powerful, efficient movement both on land and underwater. A team of anatomist",
+      "date": "2026-04-21T22:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-reveal-the.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-21T23:43:09Z"
+    },
     {
       "title": "The Best Sports Bras for Every Body and Activity (2026)",
       "link": "https://www.outsideonline.com/outdoor-gear/run/best-sports-bras/",
@@ -5403,105 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-14T20:10:52Z"
-    },
-    {
-      "title": "Integration of two genes: A valuable strategy for developing virus-resistant tomatoes",
-      "link": "https://phys.org/news/2026-04-genes-valuable-strategy-virus-resistant.html",
-      "summary": "Tomato yellow leaf curl disease (TYLCD), caused by begomoviruses, is a global problem in tomato production, affecting yield. While introduction of resistance genes is one of the st",
-      "date": "2026-04-14T19:00:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/integration-of-two-gen.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-14T20:10:52Z"
-    },
-    {
-      "title": "My friend and I saw a big cat on Exmoor in 1982 | Letter",
-      "link": "https://www.theguardian.com/world/2026/apr/14/my-friend-and-i-saw-a-big-cat-on-exmoor-in-1982",
-      "summary": "Steve Jones responds to Max Lury’s report of seeing a big cat on Dartmoor as a child, and not being believed I believe you, Max Lury ( A moment that changed me: I saw a big cat on ",
-      "date": "2026-04-14T17:05:11Z",
-      "image": "https://i.guim.co.uk/img/media/3a27dff84fa4007bdec656e6973623c3191de9bb/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7ca8d982cb4ecd09ff48786934700dbb",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-14T18:11:24Z"
-    },
-    {
-      "title": "Antioxidant in mushrooms may target uterus cells to ease period pain",
-      "link": "https://www.newscientist.com/article/2522944-antioxidant-in-mushrooms-may-target-uterus-cells-to-ease-period-pain/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "L-ergothioneine, an antioxidant found in certain mushrooms, is thought to neutralise damaging molecules in uterine cells that may contribute to period pain",
-      "date": "Tue, 14 Apr 2026 17Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/14111246/SEI_292634932.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-14T18:11:34Z"
-    },
-    {
-      "title": "How autoimmune conditions can unexpectedly drive mental illness",
-      "link": "https://www.newscientist.com/article/2521774-how-autoimmune-conditions-can-unexpectedly-drive-mental-illness/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Antibodies mistakenly attacking the brain are linked with conditions including schizophrenia, dementia and OCD, prompting a revolution in how we think about mental health condition",
-      "date": "Tue, 14 Apr 2026 17Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/07125928/SEI_291827309.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-14T18:11:34Z"
-    },
-    {
-      "title": "Quantum computers could usher in a crisis worse than Y2K",
-      "link": "https://www.newscientist.com/article/2522615-quantum-computers-could-usher-in-a-crisis-worse-than-y2k/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "The day when a quantum computer manages to break common encryption, or Q-Day, is fast approaching, and the world is not close to being ready",
-      "date": "Tue, 14 Apr 2026 15Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/14095551/SEI_292620729.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-14T18:11:34Z"
-    },
-    {
-      "title": "Parasites get trapped inside host cells when MIC11 is removed, exposing a crucial escape mechanism",
-      "link": "https://phys.org/news/2026-04-parasites-host-cells-mic11-exposing.html",
-      "summary": "Parasites are a major global health problem, underlying many human diseases worldwide. For example, Plasmodium falciparum, the parasite responsible for malaria, plays a well-establ",
-      "date": "2026-04-14T18:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shedding-light-on-how.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-14T18:11:35Z"
-    },
-    {
-      "title": "Island songbirds may have their own music and culture",
-      "link": "https://phys.org/news/2026-04-island-songbirds-music-culture.html",
-      "summary": "Whether it is the climate, beaches, or simply being away from the hustle and bustle, island cultures around the world often do things differently to the mainland. It turns out this",
-      "date": "2026-04-14T17:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/island-songbirds-have.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-14T18:11:35Z"
-    },
-    {
-      "title": "Toothy snout recasts Australia's famed Muttaburrasaurus as a picky eater",
-      "link": "https://phys.org/news/2026-04-toothy-snout-recasts-australia-famed.html",
-      "summary": "In a surprising new study, Australia's most famous plant-eating dinosaur has been described as a \"picky eater with a nose for good food\" when it roamed across the continent around ",
-      "date": "2026-04-14T17:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/giant-aussie-dinosaur.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-14T18:11:35Z"
-    },
-    {
-      "title": "New genetic discovery reveals why some plants are born to survive in a warming world",
-      "link": "https://phys.org/news/2026-04-genetic-discovery-reveals-born-survive.html",
-      "summary": "A genetic master map of ancient grasses could be the key to future-proofing global food supplies, according to a new study revealing why some crops are naturally better at survivin",
-      "date": "2026-04-14T16:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/maize-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-14T18:11:35Z"
     }
   ]
 }
