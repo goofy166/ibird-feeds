@@ -1,8 +1,52 @@
 {
-  "updated": "2026-04-21T10:25:26Z",
-  "updated_utc": "2026-04-21T10:25:26Z",
+  "updated": "2026-04-21T12:04:29Z",
+  "updated_utc": "2026-04-21T12:04:29Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Blakiston’s Fish-Owl in Hokkaido",
+      "link": "https://www.10000birds.com/blakistons-fish-owl-in-hokkaido.htm?utm_source=rss&utm_medium=rss&utm_campaign=blakistons-fish-owl-in-hokkaido",
+      "summary": "Blakiston’s Fish-Owls became a bird known to many birders and non-birders thanks to Jonathan Slaght’s Owls of the Eastern Ice, which opened many eyes to this iconic species and the",
+      "date": "Tue, 21 Apr 2026 11Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/04/EDO_4499-e1776714298194.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-04-21T12:04:09Z"
+    },
+    {
+      "title": "Bird Guides of the World: Eko Lesomar, Biak Numfor, Papua, Indonesia",
+      "link": "https://www.10000birds.com/bird-guides-of-the-world-eko-lesomar-biak-numfor-papua-indonesia.htm?utm_source=rss&utm_medium=rss&utm_campaign=bird-guides-of-the-world-eko-lesomar-biak-numfor-papua-indonesia",
+      "summary": "What is your favorite bird species? Bird of Paradise and Kingfisher Lesser Bird of Paradise What is your name, and where do you live? My name is Eko Lesomar, and I live in Biak, Pa",
+      "date": "Tue, 21 Apr 2026 11Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/02/IMG20241103171349.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-04-21T12:04:09Z"
+    },
+    {
+      "title": "Wildlife and humans thriving in Unesco-protected sites",
+      "link": "https://www.theguardian.com/world/2026/apr/21/wildlife-humans-thriving-unesco-protected-sites",
+      "summary": "While wildlife populations crash globally, research finds designated areas enable recovery of threatened species Wildlife and humans are thriving within sites recognised by Unesco,",
+      "date": "2026-04-21T11:00:48Z",
+      "image": "https://i.guim.co.uk/img/media/a7f8ff157c167653a6855240d575451ff18ab8e5/103_0_3060_2448/master/3060.jpg?width=140&quality=85&auto=format&fit=max&s=835f5c45fa3b33a6c0347657c83c4389",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-21T12:04:14Z"
+    },
+    {
+      "title": "The fast-track tree breeding method that is restoring European ash to the landscape",
+      "link": "https://phys.org/news/2026-04-fast-track-tree-method-european.html",
+      "summary": "A fast-track method of breeding disease-resistant ash trees has been developed by researchers leading efforts to conserve the species. Researchers at the John Innes Center, who hav",
+      "date": "2026-04-21T11:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-fast-track-tree-br.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-21T12:04:25Z"
+    },
     {
       "title": "Experts call for restrictions on pet flea treatments that harm UK songbirds",
       "link": "https://www.theguardian.com/environment/2026/apr/21/calls-restrict-pet-flea-products-study-finds-neurotoxins-bird-feathers",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 15,
       "fetched_at": "2026-04-13T23:53:06Z"
-    },
-    {
-      "title": "Modern living may be causing big changes to our oestrogen levels",
-      "link": "https://www.newscientist.com/article/2522701-modern-living-may-be-causing-big-changes-to-our-oestrogen-levels/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Some gut bacteria recycle discarded sex hormones, like oestrogens, back into the body. The level of these bacteria seems to be higher in industrialised societies, which could have ",
-      "date": "2026-04-13T20:00:29Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/13113050/SEI_292652979.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-13T22:53:18Z"
-    },
-    {
-      "title": "Designing better membrane proteins by embracing imperfection",
-      "link": "https://phys.org/news/2026-04-membrane-proteins-embracing-imperfection.html",
-      "summary": "Scientists at the VIB–VUB Center for Structural Biology have uncovered a counterintuitive principle that could reshape how membrane proteins are designed from scratch: Sometimes, m",
-      "date": "2026-04-13T22:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/designing-better-membr-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-13T22:53:19Z"
-    },
-    {
-      "title": "Light tightens young pea stems, revealing a new brake on plant growth",
-      "link": "https://phys.org/news/2026-04-tightens-young-pea-stems-revealing.html",
-      "summary": "Light has long been known to regulate plant growth. New research from Osaka Metropolitan University has discovered a new mechanism behind this regulation. A team led by Professor K",
-      "date": "2026-04-13T22:20:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-mechanism-for-li-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-13T22:53:19Z"
-    },
-    {
-      "title": "Video shows that sunbirds suck, while hummingbirds don't",
-      "link": "https://phys.org/news/2026-04-video-sunbirds-hummingbirds-dont.html",
-      "summary": "Two unrelated groups of nectar eaters, hummingbirds and sunbirds, have evolved different techniques to slurp the sweet liquid from flowers. The tongue suctioning employed by sunbir",
-      "date": "2026-04-13T22:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sunbirds-suck-scientis.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-13T22:53:19Z"
     }
   ]
 }
