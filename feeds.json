@@ -1,8 +1,85 @@
 {
-  "updated": "2026-04-21T14:51:06Z",
-  "updated_utc": "2026-04-21T14:51:06Z",
+  "updated": "2026-04-21T16:17:10Z",
+  "updated_utc": "2026-04-21T16:17:10Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Renaissance Art Linked Beauty With Virtue and Ugliness With Vice. See How Painters From Leonardo da Vinci to Botticelli Viewed Physical Attractiveness",
+      "link": "https://www.smithsonianmag.com/smart-news/renaissance-art-linked-beauty-with-virtue-and-ugliness-with-vice-see-how-painters-from-leonardo-da-vinci-to-botticelli-viewed-physical-attractiveness-180988584/",
+      "summary": "An exhibition in Brussels spotlights 90-plus artworks featuring golden-haired muses, greedy old men and those deemed unattractive simply because they were different",
+      "date": "Tue, 21 Apr 2026 15Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/eydqjwK27je80e1XCYeL3G_-8vI=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d3/bf/d3bfdf8c-2f6e-494c-9451-01224b0301e7/pomona.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-21T16:17:03Z"
+    },
+    {
+      "title": "Neanderthal Kids Grew Up So Fast—at Least Compared With Their Human Peers—Thanks to Genetic Adaptations to Their Environment",
+      "link": "https://www.smithsonianmag.com/smart-news/neanderthal-kids-grew-up-so-fast-at-least-compared-to-their-human-peers-thanks-to-genetic-adaptations-to-their-environment-180988583/",
+      "summary": "Scientists think Neanderthal children may have had faster growth rates because larger bodies tend to retain heat more effectively than smaller ones",
+      "date": "Tue, 21 Apr 2026 15Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/qfK-hsmu_3anUIBGNPnyWaD-qBs=/420x240/filters:focal(1240x838:1241x839)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f1/f7/f1f73e7c-5383-48ee-922c-9e96884d1ced/amud_7_burial_curtesy_of_prof_yoel_rak_-_copy.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-21T16:17:03Z"
+    },
+    {
+      "title": "Got pesky, invasive corals? Blast ‘em away with air guns",
+      "link": "https://www.sciencenews.org/article/invasive-sun-corals-compressed-air-guns",
+      "summary": "Compressed air bids bye-bye to invasive sun corals in Brazil. The blasts obliterated soft tissue and fragments couldn't regenerate.",
+      "date": "Tue, 21 Apr 2026 15Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/041626_DB_corals_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-04-21T16:17:04Z"
+    },
+    {
+      "title": "Black bears are emerging as roaming reservoirs of antibiotic-resistant bacteria across expanding US ranges",
+      "link": "https://phys.org/news/2026-04-black-emerging-roaming-reservoirs-antibiotic.html",
+      "summary": "A new gut microbiome study of bears in eastern North Carolina expands our understanding of microbial ecosystems in omnivores and contributes to the broader idea that bear feces cou",
+      "date": "2026-04-21T16:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/black-bear.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-21T16:17:07Z"
+    },
+    {
+      "title": "One-step method reveals structures of RNA-protein complexes in living cells",
+      "link": "https://phys.org/news/2026-04-method-reveals-rna-protein-complexes.html",
+      "summary": "A new method developed at Baylor College of Medicine and collaborating institutions allows researchers to better understand how RNA works. The method, published in Molecular Cell, ",
+      "date": "2026-04-21T15:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-step-method-reveal.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-21T16:17:07Z"
+    },
+    {
+      "title": "Florida is facing its most intense drought in 15 years. Here's how it got so bad and how long it will last.",
+      "link": "https://www.livescience.com/planet-earth/weather/florida-is-facing-its-most-intense-drought-in-15-years-heres-how-it-got-so-bad-and-how-long-it-will-last",
+      "summary": "More than 70% of the state is under \"extreme\" to \"exceptional\" drought conditions, and other parts of the U.S. Southeast are similarly affected. But why, and what are the impacts?",
+      "date": "Tue, 21 Apr 2026 15Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/RRhm5qLPWdqTGorj3rLTP4-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-21T16:17:08Z"
+    },
+    {
+      "title": "Neanderthal toddlers grew faster than modern humans, probably because of the harsh environment they evolved in",
+      "link": "https://www.livescience.com/archaeology/neanderthals/neanderthal-toddlers-grew-faster-than-modern-humans-probably-because-of-the-harsh-environment-they-evolved-in",
+      "summary": "A new study of a Neanderthal toddler reveals that our closest evolutionary relatives' growth patterns differed from those of modern humans.",
+      "date": "Tue, 21 Apr 2026 15Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/MSLPa44tfqqDwhiMYN85yR-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-21T16:17:08Z"
+    },
     {
       "title": "The Proof in the Code traces efforts to digitally verify mathematical truths",
       "link": "https://www.sciencenews.org/article/the-proof-in-the-code-ai-math-book",
@@ -5425,83 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-04-14T10:22:12Z"
-    },
-    {
-      "title": "2026 Lyrid meteor shower: All you need to know",
-      "link": "https://earthsky.org/astronomy-essentials/everything-you-need-to-know-lyrid-meteor-shower/",
-      "summary": "The best time to watch the Lyrid meteor shower is after midnight and before dawn on the morning of April 22. You'll have a dark and moonless sky! The post 2026 Lyrid meteor shower:",
-      "date": "Tue, 14 Apr 2026 07Z",
-      "image": "https://earthsky.org/upl/2025/04/Lyrids_April_2025-Jeremy-Evans-California.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-14T08:48:04Z"
-    },
-    {
-      "title": "Is AI bad for critical thinking? It depends on when you use it",
-      "link": "https://www.sciencenews.org/article/ai-timing-critical-thinking-study",
-      "summary": "Using AI later in solving tough problems boosts critical thinking and memory, a study shows, highlighting trade-offs between speed and reasoning.",
-      "date": "Tue, 14 Apr 2026 08Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/040926_AB_AIcriticalthinking_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-14T08:48:12Z"
-    },
-    {
-      "title": "Mini lake meets snowy rim of Canada's oldest ice mass — Earth from space",
-      "link": "https://www.livescience.com/planet-earth/arctic/mini-lake-meets-snowy-rim-of-canadas-oldest-ice-mass-earth-from-space",
-      "summary": "A 2010 satellite photo shows the point where a small lake bisects the snowy rim of an ancient glacier on Canada's Baffin Island. The rippling, snow-rimmed structure is the last rem",
-      "date": "Tue, 14 Apr 2026 07Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/wqqB6RqDeezRgNRLz7jfdD-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-14T08:48:16Z"
-    },
-    {
-      "title": "Searching for Satyrus review – on the hunt for an elusive butterfly and the lepidopterist who named them",
-      "link": "https://www.theguardian.com/film/2026/apr/14/searching-for-satyrus-review-lepidopterist-butterfly-rena-effendi",
-      "summary": "Rena Effendi attempts to find the species named after her wayward, womanising father – and a connection to the man she never knew – in this moving documentary Photojournalist Rena ",
-      "date": "2026-04-14T06:00:02Z",
-      "image": "https://i.guim.co.uk/img/media/af315416db920879b4f1891781cf62ed9becc36d/672_0_2255_1806/master/2255.jpg?width=140&quality=85&auto=format&fit=max&s=b4abde279109f3b45bc2a172edfde9e2",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-14T06:05:30Z"
-    },
-    {
-      "title": "MSPs not told about collapse of funding deal for Scottish nature restoration",
-      "link": "https://www.theguardian.com/uk-news/2026/apr/14/msps-not-told-about-collapse-of-funding-deal-for-scottish-nature-restoration",
-      "summary": "Exclusive: Ministers accused of trying to keep investment firm’s withdrawal from partnership with NatureScot under wraps A funding deal to raise £100m from private investors for ur",
-      "date": "2026-04-14T05:00:01Z",
-      "image": "https://i.guim.co.uk/img/media/4695ad0703d8ab6ae46692b9fe37e6a5a9a0657d/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=61f6e4b343265d1ebfe56413c7f8a8d2",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-14T06:05:30Z"
-    },
-    {
-      "title": "New Research Says That Loneliness Impacts Memory. Therapists Share the Best Ways to Socialize More.",
-      "link": "https://www.outsideonline.com/health/wellness/loneliness-memory-new-study/",
-      "summary": "The results? While those with the highest levels of loneliness performed worse in initial memory tests compared to those with low or average levels, everyone’s ability to remember ",
-      "date": "Tue, 14 Apr 2026 06Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/lonely-outside.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-14T06:05:36Z"
-    },
-    {
-      "title": "Did you know hummingbirds love to eat insects?",
-      "link": "https://www.mercurynews.com/2026/04/12/outdoors/",
-      "summary": "Blooming flowers provide natural nectar sources, but hummingbirds primarily eat bugs, including an assortment of gnats, mosquitoes, crane flies, midges and spiders.",
-      "date": "2026-04-12T12:00:51Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SUT-L-COWAN-COL-0412-03.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-04-14T03:29:52Z"
     }
   ]
 }
