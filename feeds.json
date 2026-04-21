@@ -1,8 +1,129 @@
 {
-  "updated": "2026-04-21T16:17:10Z",
-  "updated_utc": "2026-04-21T16:17:10Z",
+  "updated": "2026-04-21T18:05:02Z",
+  "updated_utc": "2026-04-21T18:05:02Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Jackie and Shadow: A Bald Eagle Love Story",
+      "link": "https://www.birdsandblooms.com/birding/bird-species/birds-of-prey/jackie-shadow-bald-eagles/",
+      "summary": "Here's what to know about bald eagles Jackie and Shadow, a mated pair that has captivated millions through their live nest cam. The post Jackie and Shadow: A Bald Eagle Love Story ",
+      "date": "Tue, 21 Apr 2026 17Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/04/260108_Sticks3-1-e1776792408487.png?fit=700,699",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-04-21T18:04:42Z"
+    },
+    {
+      "title": "Mystery Solved: Why Do Squirrels Shake Their Tails?",
+      "link": "https://www.birdsandblooms.com/gardening/backyard-wildlife/squirrel-tails/",
+      "summary": "Have you ever seen a squirrel flicking its tail and wondered why? We have the answer—plus answers to other questions about squirrel tails. The post Mystery Solved: Why Do Squirrels",
+      "date": "Tue, 21 Apr 2026 16Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/04/GettyImages-579617512-scaled-e1776786665882.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-04-21T18:04:42Z"
+    },
+    {
+      "title": "The Lyrid meteor shower peaks tonight. Don’t miss it!",
+      "link": "https://earthsky.org/astronomy-essentials/everything-you-need-to-know-lyrid-meteor-shower/",
+      "summary": "The best time to watch the Lyrid meteor shower is before dawn on the morning of April 22. You'll have a dark and moonless sky. Good luck! The post The Lyrid meteor shower peaks ton",
+      "date": "Tue, 21 Apr 2026 10Z",
+      "image": "https://earthsky.org/upl/2026/04/Meteor-falling-fireball_NASA.webp",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-04-21T18:04:47Z"
+    },
+    {
+      "title": "Did you know hummingbirds love to eat insects?",
+      "link": "https://www.mercurynews.com/2026/04/12/outdoors/",
+      "summary": "Blooming flowers provide natural nectar sources, but hummingbirds primarily eat bugs, including an assortment of gnats, mosquitoes, crane flies, midges and spiders.",
+      "date": "2026-04-12T12:00:51Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SUT-L-COWAN-COL-0412-03.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-21T18:04:51Z"
+    },
+    {
+      "title": "New Archaeological Discoveries Reveal How San Antonio's Earliest Settlers Irrigated Crops and Accessed Drinking Water",
+      "link": "https://www.smithsonianmag.com/smart-news/new-archaeological-discoveries-reveal-how-san-antonio-colonists-irrigated-crops-and-accessed-drinking-water-180988571/",
+      "summary": "While preparing for school renovations, researchers in Texas found remnants of the historic San Pedro acequia, a centuries-old technology that provided water to the burgeoning vill",
+      "date": "Tue, 21 Apr 2026 17Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/LtVC0frbKDvMNHuMct4aAb_g5uY=/420x240/filters:focal(500x281:501x282)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7a/29/7a29855e-24a9-4a9c-aae9-7efbf6302f17/large_acafe56c-aa33-4a9b-a27f-0ffe403d73a8.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-21T18:04:54Z"
+    },
+    {
+      "title": "Titan’s strange plains may be explained by unusual weather",
+      "link": "https://www.newscientist.com/article/2523722-titans-strange-plains-may-be-explained-by-unusual-weather/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Most of Titan’s surface is oddly flat and smooth, and it may be because it is coated by as much as a metre of fluffy organic material that snowed down from the icy moon’s thick atm",
+      "date": "Tue, 21 Apr 2026 18Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/21111159/SEI_294025329.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-21T18:04:57Z"
+    },
+    {
+      "title": "How we discovered the speed limit of arithmetic – and broke it",
+      "link": "https://www.newscientist.com/article/2521354-how-we-discovered-the-speed-limit-of-arithmetic-and-broke-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Some seemingly simple sequences of multiplication and addition grow so quickly that they question the very foundations of mathematics. In doing so, they demand a whole new level of",
+      "date": "Tue, 21 Apr 2026 17Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/13175115/SEI_293041785.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-21T18:04:57Z"
+    },
+    {
+      "title": "Game theory explains why the US's goals in Iran keep changing",
+      "link": "https://www.newscientist.com/article/2523786-game-theory-explains-why-the-uss-goals-in-iran-keep-changing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The ongoing conflict around the Strait of Hormuz has become a situation in game theory known as a war of attrition. The maths behind it can help explain what's going on, says Petro",
+      "date": "Tue, 21 Apr 2026 15Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/21133208/SEI_293951796.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-21T18:04:57Z"
+    },
+    {
+      "title": "Better-fed calves are more motivated to play, pioneering study shows",
+      "link": "https://phys.org/news/2026-04-fed-calves-play.html",
+      "summary": "New research has revealed dairy calves that are fed less complete tasks faster and remember more in pursuit of milk, but miss out on play. Calves that were given more food were mor",
+      "date": "2026-04-21T18:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/better-fed-calves-are.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-21T18:04:58Z"
+    },
+    {
+      "title": "How Bruce the half‑beak kea weaponized his disability to become the alpha bird",
+      "link": "https://phys.org/news/2026-04-bruce-halfbeak-kea-weaponized-disability.html",
+      "summary": "Bruce the kea is missing his entire upper beak. Yet he is the alpha bird of his circus (the apt collective noun for a group of New Zealand's famously playful alpine parrots).",
+      "date": "2026-04-21T17:40:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-bruce-the-halfbeak.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-21T18:04:58Z"
+    },
+    {
+      "title": "Missing link in evolution of ancient fish found in 150-year-old museum specimen",
+      "link": "https://phys.org/news/2026-04-link-evolution-ancient-fish-year.html",
+      "summary": "A new species of coelacanth has been identified from a 150-year-old fossil housed at London's Natural History Museum. Former University of Portsmouth paleontology student Jack L. N",
+      "date": "2026-04-21T17:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/150-year-old-museum-sp.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-21T18:04:58Z"
+    },
     {
       "title": "Renaissance Art Linked Beauty With Virtue and Ugliness With Vice. See How Painters From Leonardo da Vinci to Botticelli Viewed Physical Attractiveness",
       "link": "https://www.smithsonianmag.com/smart-news/renaissance-art-linked-beauty-with-virtue-and-ugliness-with-vice-see-how-painters-from-leonardo-da-vinci-to-botticelli-viewed-physical-attractiveness-180988584/",
@@ -5381,127 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-04-14T12:03:03Z"
-    },
-    {
-      "title": "The night sky in the time of the dinosaurs",
-      "link": "https://earthsky.org/space/night-sky-in-the-time-of-the-dinosaurs/",
-      "summary": "The night sky in the time of the dinosaurs would have looked much different than today’s. Some famous stars had not yet been born. Read more. The post The night sky in the time of ",
-      "date": "Tue, 14 Apr 2026 11Z",
-      "image": "https://earthsky.org/upl/2026/04/pexels-stephen-leonardi-dinosaurs-at-night-br-co.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-14T12:03:10Z"
-    },
-    {
-      "title": "Ancestors of mammals laid eggs, says new fossil evidence",
-      "link": "https://earthsky.org/earth/ancestors-of-mammals-laid-eggs-fossil-evidence/",
-      "summary": "Scientists discovered a 250-million-year-old Lystrosaurus fossil that was still in its egg. It showed ancestors of mammals laid eggs. The post Ancestors of mammals laid eggs, says ",
-      "date": "Tue, 14 Apr 2026 10Z",
-      "image": "https://earthsky.org/upl/2026/04/Lystrosaurus-embryo-J-Benoit-et-al.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-14T12:03:10Z"
-    },
-    {
-      "title": "This Millennium-Old Sacrificial Altar in Mexico Belonged to a Civilization That Thrived Before the Aztecs",
-      "link": "https://www.smithsonianmag.com/smart-news/this-millennium-old-sacrificial-altar-in-mexico-belonged-to-a-civilization-that-thrived-before-the-aztecs-180988539/",
-      "summary": "Surrounded by human skulls, the artifact was uncovered at the site of the Toltec people's capital in central Mexico ahead of construction of a new railway project",
-      "date": "Tue, 14 Apr 2026 11Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/-9QAbj_nfSFJNTWzxT5UQT2Vu9Q=/420x240/filters:focal(499x334:500x335)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/03/85/0385de02-a424-463f-823b-cb57ad40450c/the_inah_national_institute_of_anthropology_and_history_discovers_an_altar_and_offerings_outs.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-14T12:03:17Z"
-    },
-    {
-      "title": "We're solving the fundamental mystery of how reality is glued together",
-      "link": "https://www.newscientist.com/article/2520573-were-solving-the-fundamental-mystery-of-how-reality-is-glued-together/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "For decades, scientists have tried and failed to explain how the force that binds the heart of atoms together really works. But new mathematical tools are finally prising the probl",
-      "date": "2026-04-06T16:00:03Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/07111359/SEI_292284736.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-14T12:03:19Z"
-    },
-    {
-      "title": "The 'ungrateful lungfish': Study focuses on sustainable food sources for very hungry ancient fish",
-      "link": "https://phys.org/news/2026-04-ungrateful-lungfish-focuses-sustainable-food.html",
-      "summary": "Like a naughty pet Labrador, the Australian lungfish has little restraint when it comes to food. \"We had 360 sqm of aquatic plants growing inside enclosures; but, once the fences w",
-      "date": "2026-04-14T11:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-ungrateful-lungfis.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-14T12:03:21Z"
-    },
-    {
-      "title": "Who Hid the Stars? A KidLit Bird Book Review",
-      "link": "https://www.10000birds.com/who-hid-the-stars-a-kidlit-bird-book-review.htm?utm_source=rss&utm_medium=rss&utm_campaign=who-hid-the-stars-a-kidlit-bird-book-review",
-      "summary": "Who Hid the Stars: A KidLit Bird Book Review WHO HID THE STARS? How Light Pollution Changes Our World documents the effects of artificial light on animals, plants and ecosystems. O",
-      "date": "Tue, 14 Apr 2026 10Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/04/WHTSFeaturedImage-scaled.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-04-14T10:21:46Z"
-    },
-    {
-      "title": "Coma Berenices galaxy cluster, best in April and May",
-      "link": "https://earthsky.org/clusters-nebulae-galaxies/the-coma-berenices-galaxy-cluster/",
-      "summary": "Myriads of galaxies - in all shapes and sizes and visible only in telescopes - shine in the Coma Berenices galaxy cluster. The post Coma Berenices galaxy cluster, best in April and",
-      "date": "Tue, 14 Apr 2026 10Z",
-      "image": "https://earthsky.org/upl/2019/04/Coma-Cluster-Mosaic-2018-NASA-ESA-scaled-e1617638016588.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-14T10:21:54Z"
-    },
-    {
-      "title": "Want to Climb Mount Everest? The Training May Leave You Breathless.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/everest/mount-everest-training/",
-      "summary": "How do climbers train their bodies to reach the summit of Everest? There’s lots of jogging, a few laps on a homemade ladder bridge, and maybe even a frigid climb in the middle of t",
-      "date": "Tue, 14 Apr 2026 09Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/IMG_3332_3.gif?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-14T10:21:58Z"
-    },
-    {
-      "title": "The 5 Best Treadmill Running Shoes",
-      "link": "https://www.outsideonline.com/outdoor-gear/run/best-treadmill-running-shoes/",
-      "summary": "The new treadmill-specific Reebok FloatZig Tread got us wondering: What makes a good treadmill shoe? We spoke with experts and rounded up the best pairs for indoor running. The pos",
-      "date": "Tue, 14 Apr 2026 09Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/treadmill-running-shoes.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-14T10:21:58Z"
-    },
-    {
-      "title": "‘100 Hikes of a Lifetime’ Author Stephanie Pearson Shares Her Favorite Treks in the U.S.",
-      "link": "https://www.outsideonline.com/adventure-travel/advice/100-hikes-of-a-lifetime-author-stephanie-pearson-shares-her-favorite-treks-in-the-u-s/",
-      "summary": "National Geographic Explorer Stephanie Pearson shares insights with us from her new book \"100 Hikes of a Lifetime U.S.A,\" including her toughest and most rewarding treks across the",
-      "date": "Tue, 14 Apr 2026 09Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/GettyImages-2180409438.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-14T10:21:58Z"
-    },
-    {
-      "title": "Physicists just witnessed pinpricks of darkness moving faster than the speed of light ‪—‬ without breaking the laws of relativity",
-      "link": "https://www.livescience.com/physics-mathematics/particle-physics/physicists-just-witnessed-pinpricks-of-darkness-moving-faster-than-the-speed-of-light-without-breaking-the-laws-of-relativity",
-      "summary": "For the first time, researchers measured singularities in combined light and sound waves moving faster than the speed of light. The findings have implications in fluid dynamics, op",
-      "date": "Tue, 14 Apr 2026 10Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/PQswpbxFMarZgAR3f2jzWf-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-14T10:22:12Z"
     }
   ]
 }
