@@ -1,8 +1,41 @@
 {
-  "updated": "2026-04-21T06:08:40Z",
-  "updated_utc": "2026-04-21T06:08:40Z",
+  "updated": "2026-04-21T08:57:04Z",
+  "updated_utc": "2026-04-21T08:57:04Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘They come right past the house’: learning to live with rhinos as numbers soar in Nepal",
+      "link": "https://www.theguardian.com/environment/2026/apr/21/rhinos-on-the-high-street-human-wildlife-conflict-nepal-aoe",
+      "summary": "The country is seeing an increase in human-wildlife conflict as the number of megafauna, including rhinos and tigers, grows. But there are efforts to tackle the problem around Chit",
+      "date": "2026-04-21T08:00:19Z",
+      "image": "https://i.guim.co.uk/img/media/7c67af73a84a85c6f1cb093b8bc54e3e23efc44a/528_0_6627_5304/master/6627.jpg?width=140&quality=85&auto=format&fit=max&s=1d83404f3734ba7dac9de07045b1d8df",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-21T08:56:49Z"
+    },
+    {
+      "title": "Meet M13, the Great Globular Cluster in Hercules",
+      "link": "https://earthsky.org/clusters-nebulae-galaxies/m13-finest-globular-cluster-in-northern-skies/",
+      "summary": "Many stargazers call it the finest globular cluster in the northern half of the heavens. It's M13, also known as the Great Cluster in Hercules. The post Meet M13, the Great Globula",
+      "date": "Tue, 21 Apr 2026 08Z",
+      "image": "https://earthsky.org/upl/2025/06/Gwen-Forrester_M13-globular-cluster-in-Hercules_DeKalb-County-TN_2025-may-23-e1748852712975.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-04-21T08:56:50Z"
+    },
+    {
+      "title": "Glowing ring of plankton surrounding New Zealand islands linked to deadly underwater plateau — Earth from space",
+      "link": "https://www.livescience.com/planet-earth/rivers-oceans/glowing-ring-of-plankton-surrounding-new-zealand-islands-linked-to-deadly-underwater-plateau-earth-from-space",
+      "summary": "A recent satellite photo captured a gleaming halo of phytoplankton encircling the remote Chatham Islands. The stunning sight is the result of a hidden underwater structure, which h",
+      "date": "Tue, 21 Apr 2026 07Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/WntAEWYUaXJwBEAXaa9JnN-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-21T08:57:01Z"
+    },
     {
       "title": "England wildlife watchdog ‘has stopped designating special sites for protection’",
       "link": "https://www.theguardian.com/environment/2026/apr/21/england-wildlife-watchdog-has-stopped-designating-special-sites-for-protection",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-04-13T21:03:30Z"
-    },
-    {
-      "title": "This Nearly 300-Million-Year-Old Mummified Reptile Reveals the Evolutionary Origins of How We Breathe",
-      "link": "https://www.smithsonianmag.com/smart-news/this-300-million-year-old-mummified-fossil-reveals-the-origins-of-breathing-in-amniotes-180988521/",
-      "summary": "Unusually well-preserved fossils have provided the earliest known evidence of a land vertebrate that could pump air in and out of its chest using muscles between the ribs—the same ",
-      "date": "2026-04-13T20:06:58Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/8P1dcdL7J8TqRgwxdqnirUyyZDQ=/420x240/filters:focal(1275x2359:1276x2360)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/13/9f/139f1392-3580-4b72-87f1-cf22ae034bca/the-oldest-breath-a-30.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-13T21:03:32Z"
-    },
-    {
-      "title": "We’ve caught a comet switching its spin direction for the first time",
-      "link": "https://www.newscientist.com/article/2522785-weve-caught-a-comet-switching-its-spin-direction-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A small comet has been spotted slowing down and then speeding up again – but in the opposite direction, which we have never seen before",
-      "date": "2026-04-13T18:00:37Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/13115744/SEI_293008014.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-13T21:03:34Z"
-    },
-    {
-      "title": "Chernobyl at 40: My life as a meteorologist under Russian occupation",
-      "link": "https://www.newscientist.com/article/2520451-chernobyl-at-40-my-life-as-a-meteorologist-under-russian-occupation/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "When Russia invaded Ukraine in 2022, Chernobyl lay on the path to the capital Kyiv. When the plant was occupied by Russian troops, meteorologist Lyudmila Dyblenko fearlessly contin",
-      "date": "2026-04-13T14:00:05Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/31122554/SEI_291592253.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-13T21:03:34Z"
     }
   ]
 }
