@@ -1,8 +1,52 @@
 {
-  "updated": "2026-04-21T03:32:56Z",
-  "updated_utc": "2026-04-21T03:32:56Z",
+  "updated": "2026-04-21T06:08:40Z",
+  "updated_utc": "2026-04-21T06:08:40Z",
   "count": 500,
   "stories": [
+    {
+      "title": "England wildlife watchdog ‘has stopped designating special sites for protection’",
+      "link": "https://www.theguardian.com/environment/2026/apr/21/england-wildlife-watchdog-has-stopped-designating-special-sites-for-protection",
+      "summary": "Exclusive: Report finds Natural England has created no new SSSIs, which protect areas from development, since 2023 The government’s wildlife watchdog for England is failing to save",
+      "date": "2026-04-21T05:00:16Z",
+      "image": "https://i.guim.co.uk/img/media/4db182eab053ef22023332eef442caf09d185239/156_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=c93b54b8c11a9d059c521a8e8672a8f9",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-21T06:08:25Z"
+    },
+    {
+      "title": "Country diary: The most magical of frost-coated mornings | Mark Cocker",
+      "link": "https://www.theguardian.com/environment/2026/apr/21/country-diary-the-most-magical-of-frost-coated-mornings",
+      "summary": "Knotbury, Staffordshire: A truly special dawn, where last night’s ice lingered on everything, and I was joined by no fewer than six ring ouzels As I drove to this tiny moorland ham",
+      "date": "2026-04-21T04:30:15Z",
+      "image": "https://i.guim.co.uk/img/media/b323f0298236cd67be6b3837b664255d399d8b74/267_0_2568_2055/master/2568.jpg?width=140&quality=85&auto=format&fit=max&s=a290df3405b5440449672f767cfc2c70",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-21T06:08:25Z"
+    },
+    {
+      "title": "On the trail with the hunters who believe shooting big game can save Africa’s wildlife",
+      "link": "https://www.theguardian.com/environment/2026/apr/21/hunters-who-believe-shooting-big-game-can-save-africa-wildlife",
+      "summary": "One way to pay for wildlife conservation is to allow the rich to bag a few animals for high prices. But critics see this approach as an exercise in neocolonialism You can kill almo",
+      "date": "2026-04-21T04:00:14Z",
+      "image": "https://i.guim.co.uk/img/media/c6651b18826d09f5e7bc6a5e2bcf8535bcabbc32/186_0_2682_2145/master/2682.jpg?width=140&quality=85&auto=format&fit=max&s=e1b04136a8188e46001604b8210519ab",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-21T06:08:25Z"
+    },
+    {
+      "title": "Commercial salmon fishing to open in California for the first time since 2022 as population rebounds",
+      "link": "https://www.mercurynews.com/2026/04/13/commercial-salmon-fishing-to-open-in-california-for-the-first-time-since-2022-as-population-rebounds/",
+      "summary": "Salmon populations have also bounced back in areas where they were long absent due to river restoration efforts.",
+      "date": "2026-04-13T17:36:38Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/California_Salmon_Fishing_58567.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-21T06:08:29Z"
+    },
     {
       "title": "This Ancient God’s Name Was 'Mud.' Archaeologists Discovered a Water-Filled Temple Possibly Tied to Him in Egypt",
       "link": "https://www.smithsonianmag.com/smart-news/this-ancient-gods-name-was-mud-archaeologists-discovered-a-water-filled-temple-possibly-tied-to-him-in-egypt-180988581/",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-04-13T21:03:34Z"
-    },
-    {
-      "title": "Vitamin B12 drives inherited behavioral changes across generations in roundworms",
-      "link": "https://phys.org/news/2026-04-vitamin-b12-inherited-behavioral-generations.html",
-      "summary": "It has long been known that environmental conditions can shape how traits are inherited, a phenomenon known as transgenerational epigenetic inheritance. However, the molecular sign",
-      "date": "2026-04-13T20:50:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/vitamin-b12-drives-inh.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-13T21:03:35Z"
-    },
-    {
-      "title": "Math model reveals how life may have switched on from Earth's primordial soup",
-      "link": "https://phys.org/news/2026-04-math-reveals-life-earth-primordial.html",
-      "summary": "Isolating the first spark of life on Earth is a matter of biology, geology, and chemistry—but it's also an amazing math problem. At least, that's how Varun Varanasi viewed it when ",
-      "date": "2026-04-13T20:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/showing-the-math-for-e.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-13T21:03:35Z"
-    },
-    {
-      "title": "Beneath this cemetery, 5.5 million wild bees form a giant underground city vital to spring pollination",
-      "link": "https://phys.org/news/2026-04-beneath-cemetery-million-wild-bees.html",
-      "summary": "To save money, Rachel Fordyce parked her car for free at Ithaca's East Hill Plaza and walked through East Lawn Cemetery to her job as a technician in an entomology lab on Cornell's",
-      "date": "2026-04-13T20:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/55m-ground-nesting-bee.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-13T21:03:35Z"
-    },
-    {
-      "title": "Longer-term plankton species diversity is independent of ocean mixing, study finds",
-      "link": "https://phys.org/news/2026-04-longer-term-plankton-species-diversity.html",
-      "summary": "Plankton are tiny, microscopic marine organisms that represent the very bottom of the food chain. Some are photosynthetic and others graze on bacteria and other plankton, but no pl",
-      "date": "2026-04-13T20:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/longer-term-plankton-s.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-13T21:03:35Z"
     }
   ]
 }
