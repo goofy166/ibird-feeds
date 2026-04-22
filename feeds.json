@@ -1,8 +1,41 @@
 {
-  "updated": "2026-04-22T22:58:27Z",
-  "updated_utc": "2026-04-22T22:58:27Z",
+  "updated": "2026-04-22T23:55:57Z",
+  "updated_utc": "2026-04-22T23:55:57Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Promiscuity and parental behavior in birds are driven by demographics, not the other way around",
+      "link": "https://phys.org/news/2026-04-promiscuity-parental-behavior-birds-driven.html",
+      "summary": "New research shows that variation in mating behaviors, parental care and differences in ornamentation of the sexes in bird species is driven by demographics rather than vice versa.",
+      "date": "2026-04-22T23:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/promiscuity-and-parent.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-22T23:55:53Z"
+    },
+    {
+      "title": "Chicken gene-editing advance opens path to drug-producing eggs",
+      "link": "https://phys.org/news/2026-04-chicken-gene-advance-path-drug.html",
+      "summary": "Chicken eggs are already used to harvest helpful proteins called antibodies to protect humans from viruses such as influenza. Now, a breakthrough at the University of Missouri coul",
+      "date": "2026-04-22T23:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/chickens-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-22T23:55:53Z"
+    },
+    {
+      "title": "Q&A: Scientists decode the logic behind cells' mysterious protein stockpiles",
+      "link": "https://phys.org/news/2026-04-qa-scientists-decode-logic-cells.html",
+      "summary": "As far as research subjects go, it's not always easy to find common ground with a single-celled bacterium. Yet the more Paul Wiggins studies his model bacteria, Acinetobacter bayly",
+      "date": "2026-04-22T23:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-decode-the.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-22T23:55:53Z"
+    },
     {
       "title": "Netflix’s ‘A Gorilla Story’ Reveals the Remarkable Legacy of David Attenborough’s Most Iconic Wildlife Encounter",
       "link": "https://www.outsideonline.com/culture/books-media/david-attenborough-gorilla-story-netflix-legacy/",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-15T20:06:51Z"
-    },
-    {
-      "title": "Pill bugs don't just use the minerals they eat—they rebuild them inside their bodies",
-      "link": "https://phys.org/news/2026-04-pill-bugs-dont-minerals-rebuild.html",
-      "summary": "Placing small stones in a bug cage is beneficial when raising pill bugs, a type of woodlouse. Researchers at the University of Tsukuba have discovered that pill bugs do not directl",
-      "date": "2026-04-15T18:20:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pill-bugs-dont-just-us.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-15T20:06:51Z"
-    },
-    {
-      "title": "Extend the Season of Love to Birds",
-      "link": "https://www.birds.cornell.edu/home/join_great_backyard_bird_count_2026/",
-      "summary": "Love is in the air—listen closely and the sounds of chickadees, sparrows, and thrushes are beckoning you to step outside to experience the love from birds and nature. Take a moment",
-      "date": "Tue, 20 Jan 2026 14Z",
-      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-04-15T20:06:54Z"
-    },
-    {
-      "title": "Over-the-counter pet flea treatments could be banned under new UK rules",
-      "link": "https://www.theguardian.com/environment/2026/apr/15/over-the-counter-pet-flea-treatments-could-be-banned-under-new-uk-rules",
-      "summary": "Exclusive: ministers consider restricting pesticide-based treatments, which can get into waterways and harm wildlife Pet owners across the UK could be banned from buying flea treat",
-      "date": "2026-04-15T17:00:34Z",
-      "image": "https://i.guim.co.uk/img/media/d5522419ff1c5681be961bda524675b8187b92f9/772_0_5715_4571/master/5715.jpg?width=140&quality=85&auto=format&fit=max&s=2904be0606dfe078a57237ce4366ed96",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-15T18:09:48Z"
     }
   ]
 }
