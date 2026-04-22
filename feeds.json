@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-22T03:30:50Z",
-  "updated_utc": "2026-04-22T03:30:50Z",
+  "updated": "2026-04-22T06:05:43Z",
+  "updated_utc": "2026-04-22T06:05:43Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: A beekeeper’s lament – ‘Why did none of my bees survive winter?’ | Tom Allan",
+      "link": "https://www.theguardian.com/environment/2026/apr/22/country-diary-a-beekeepers-lament-why-did-none-of-my-bees-survive-winter",
+      "summary": "St Mabyn, Cornwall: Many apiarists opened their hives this spring to find hardly any sign of life. In Richard’s case, he found nothing at all Richard Bray’s hives stand in a crooke",
+      "date": "2026-04-22T04:30:08Z",
+      "image": "https://i.guim.co.uk/img/media/ae9b00cbb1c18df13dab4cf1cbc301aca709f794/270_0_1606_1284/master/1606.jpg?width=140&quality=85&auto=format&fit=max&s=47b89e4b240c57905719491b2d4b23ce",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-22T06:05:27Z"
+    },
     {
       "title": "If a bird flu pandemic starts, we may have an mRNA vaccine ready",
       "link": "https://www.newscientist.com/article/2523838-if-a-bird-flu-pandemic-starts-we-may-have-an-mrna-vaccine-ready/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-04-14T20:10:51Z"
-    },
-    {
-      "title": "Picky methane-consuming microorganisms prefer carbon monoxide, opening the door to more greenhouse gas release",
-      "link": "https://phys.org/news/2026-04-picky-methane-consuming-microorganisms-carbon.html",
-      "summary": "Research by microbiologists Reinier Egas and Cornelia Welte of Radboud University shows that many methane-consuming microorganisms actually prefer carbon monoxide over methane. Whe",
-      "date": "2026-04-14T20:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/picky-methane-consumin.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-14T20:10:52Z"
     }
   ]
 }
