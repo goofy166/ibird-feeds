@@ -1,8 +1,140 @@
 {
-  "updated": "2026-04-22T12:03:55Z",
-  "updated_utc": "2026-04-22T12:03:55Z",
+  "updated": "2026-04-22T14:51:33Z",
+  "updated_utc": "2026-04-22T14:51:33Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How to Use BirdCast Maps and Dashboard to See Your Local Migration in Detail",
+      "link": "https://www.allaboutbirds.org/news/heres-how-to-use-the-new-migration-forecast-tools-from-birdcast/",
+      "summary": "Updated April 2026. Originally published online April 2018 and printed in the Spring 2019 issue of Living Bird magazine. Subscribe now. Migration is the best time to be a birdwatch",
+      "date": "2026-04-15T09:11:00Z",
+      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2022/04/Birdcast-banner1.png",
+      "name": "All About Birds",
+      "category": "birds",
+      "color": 3,
+      "fetched_at": "2026-04-22T14:51:13Z"
+    },
+    {
+      "title": "Ditch power tools, build a hedgehog highway: how to create a nature-friendly garden",
+      "link": "https://www.theguardian.com/thefilter/2026/apr/22/how-to-create-nature-friendly-garden",
+      "summary": "Inspired by David Attenborough’s Secret Garden? Try these easy, enjoyable tips to turn your outdoor space into a sanctuary for wildlife • Gardening pros on the tools they can’t liv",
+      "date": "2026-04-22T14:00:27Z",
+      "image": "https://i.guim.co.uk/img/media/a5391d55e296b4925ffcd0b5d8f8ae0f76d57eb1/544_0_5907_4724/master/5907.jpg?width=140&quality=85&auto=format&fit=max&s=7f17a8e30c90fe378604989ea946b441",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-22T14:51:16Z"
+    },
+    {
+      "title": "For Earth Day, Berkeley is showing a Wild & Scenic Film Festival",
+      "link": "https://www.mercurynews.com/2026/04/22/for-earth-day-berkeley-is-showing-a-wild-scenic-film-festival/",
+      "summary": "The lineup of short movies deals with California honeybees, mountain biking and edible-plant foraging.",
+      "date": "2026-04-22T14:30:00Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SJM-L-GOODTIMES-0422-03.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-22T14:51:20Z"
+    },
+    {
+      "title": "Environmental group sues Trump administration seeking stronger protections for Clear Lake hitch",
+      "link": "https://www.mercurynews.com/2026/04/22/environmental-group-sues-trump-administration-seeking-stronger-protections-for-clear-lake-hitch/",
+      "summary": "A fish that exists only in the tributaries and waters of Clear Lake, and which has been nearing the brink of extinction, according to scientists, is back at the center of a legal f",
+      "date": "2026-04-22T13:56:51Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/1cd4e8cb-7289-565a-941a-72122c9c015b.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-22T14:51:20Z"
+    },
+    {
+      "title": "We Use Many of the Same Brain Cells to See and to Imagine Objects, a Study Suggests. The Findings Provide a New Window Into Memory",
+      "link": "https://www.smithsonianmag.com/smart-news/we-use-many-of-the-same-brain-cells-to-see-and-to-imagine-objects-a-study-suggests-the-findings-provide-a-new-window-into-memory-180988580/",
+      "summary": "While past research has hinted at an overlap in relevant brain regions, the new work drills down to the cellular level. The discovery could help improve treatments for memory disor",
+      "date": "2026-04-22T14:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/wgkClSNrqRPsiPVPycydAOD7Kzc=/420x240/filters:focal(2850x1927:2851x1928)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/95/86/95868344-c587-4ff4-a5c3-afc42d71625a/neurons-see-imagine.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-22T14:51:24Z"
+    },
+    {
+      "title": "An Eccentric Tycoon Left a Fortune to the Winner of a Baby-Making Contest. The Great Stork Derby Divided Canadians During the Great Depression",
+      "link": "https://www.smithsonianmag.com/history/an-eccentric-tycoon-left-a-fortune-to-the-winner-of-a-baby-making-contest-the-great-stork-derby-divided-canadians-during-the-great-depression-180988575/",
+      "summary": "In his will, Charles Vance Millar offered roughly 500,000 Canadian dollars to the mother who \"has since my death given birth to the greatest number of children\"",
+      "date": "2026-04-22T11:45:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/YjQsb8Et5F3uc-U4tYhnYHvkwe4=/420x240/filters:focal(1148x891:1149x892)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0e/43/0e43de7b-1053-4f66-8306-b8cad320efc5/gettyimages-502254239.jpg",
+      "name": "Smithsonian",
+      "category": "butterflies",
+      "color": 10,
+      "fetched_at": "2026-04-22T14:51:24Z"
+    },
+    {
+      "title": "Fermat's Last Theorem: still a must-read about a 350-year maths secret",
+      "link": "https://www.newscientist.com/article/2523771-fermats-last-theorem-still-a-must-read-about-a-350-year-maths-secret/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Simon Singh's exploration of mathematical proof – in particular Pierre de Fermat's last theorem – remains an absolute treasure, almost three decades after it was first published",
+      "date": "2026-04-22T12:00:36Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/21120400/sei293049964.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-22T14:51:27Z"
+    },
+    {
+      "title": "New technology helps flat-faced dogs breathe easy",
+      "link": "https://phys.org/news/2026-04-technology-flat-dogs-easy.html",
+      "summary": "Australian scientists have developed an injectable therapy that helps clear blocked airways in flat-faced dogs. Melbourne-based biotechnology company Snoretox and RMIT University h",
+      "date": "2026-04-22T14:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-technology-helps-f.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-22T14:51:29Z"
+    },
+    {
+      "title": "Whale strandings draw emotional responses. But repeated rescues can cause more harm",
+      "link": "https://phys.org/news/2026-04-whale-strandings-emotional-responses.html",
+      "summary": "A humpback whale repeatedly restranding in shallow waters in the Baltic Sea for more than three weeks has become the focus of a complex debate about reconciling compassion for anim",
+      "date": "2026-04-22T14:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/humpback-whales.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-22T14:51:29Z"
+    },
+    {
+      "title": "Wild apple genes still shape modern fruit, and that could matter for climate-ready crops",
+      "link": "https://phys.org/news/2026-04-wild-apple-genes-modern-fruit.html",
+      "summary": "Researchers at NYU Abu Dhabi, in collaboration with international partners, have uncovered new insights into how apples became the fruits we know today, showing that their evolutio",
+      "date": "2026-04-22T14:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nyu-abu-dhabi-research-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-22T14:51:29Z"
+    },
+    {
+      "title": "Cheaper sequencing, bigger payoff: New software could bring advanced metagenomics to more labs",
+      "link": "https://phys.org/news/2026-04-cheaper-sequencing-bigger-payoff-software.html",
+      "summary": "Metagenomics relies on the use of software programs called assemblers, which can reconstruct tens of thousands of individual microbial genomes from DNA sequencing of samples such a",
+      "date": "2026-04-22T12:28:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/1-soil.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-22T14:51:29Z"
+    },
+    {
+      "title": "Earth quiz: What do you know about our planet's most amazing features?",
+      "link": "https://www.livescience.com/planet-earth/earth-quiz-what-do-you-know-about-our-planets-most-amazing-features",
+      "summary": "Do you know Earth's highest peak, deepest point, and more? Test your knowledge about our planet in this quiz.",
+      "date": "2026-04-22T14:11:54Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ABhV2EC8HppuNfV4oVoydP-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-22T14:51:30Z"
+    },
     {
       "title": "Ask a Birder: Which Bird Species Are Shown Most Frequently in Movies?",
       "link": "https://www.10000birds.com/ask-a-birder-which-bird-species-are-shown-most-frequently-in-movies.htm?utm_source=rss&utm_medium=rss&utm_campaign=ask-a-birder-which-bird-species-are-shown-most-frequently-in-movies",
@@ -5370,138 +5502,6 @@
       "category": "birds",
       "color": 3,
       "fetched_at": "2026-04-15T03:28:39Z"
-    },
-    {
-      "title": "Voices: Common Nighthawk",
-      "link": "https://www.allaboutbirds.org/news/voices-common-nighthawk/",
-      "summary": "",
-      "date": "Tue, 07 Apr 2026 15Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Psephotus_haematonotus_male.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-04-15T03:28:39Z"
-    },
-    {
-      "title": "The Distinctive Calls of Owls: A Sampler",
-      "link": "https://www.allaboutbirds.org/news/the-distinctive-calls-of-owls-a-sampler-2/",
-      "summary": "",
-      "date": "Tue, 07 Apr 2026 15Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Goldfinch_on_a_branch.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-04-15T03:28:39Z"
-    },
-    {
-      "title": "Following in the footsteps of Jane Goodall: A wildlife pathologist's story",
-      "link": "https://phys.org/news/2026-04-footsteps-jane-goodall-wildlife-pathologist.html",
-      "summary": "When she was a kid in the 1970s, Karen Terio wasn't allowed to watch much television, but wildlife specials were permitted. That was how she learned about the work of Jane Goodall,",
-      "date": "2026-04-15T02:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/following-in-the-foots.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-15T03:28:53Z"
-    },
-    {
-      "title": "The olive as a laboratory: New analytical approach predicts the quality of olive oil before it is extracted",
-      "link": "https://phys.org/news/2026-04-olive-laboratory-analytical-approach-quality.html",
-      "summary": "A method developed by the University of Córdoba (UCO) predicts the fatty acid, phenol, and volatile compound profile of extra virgin olive oil (EVOO) quickly, easily, and accuratel",
-      "date": "2026-04-15T00:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/oliveoil.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-15T03:28:53Z"
-    },
-    {
-      "title": "Flies found to be effective pollinators of berry crops",
-      "link": "https://phys.org/news/2026-04-flies-effective-pollinators-berry-crops.html",
-      "summary": "Researchers at the University of New England have identified two fly species as promising pollinators for berry crops, offering a vital alternative to European honey bees in protec",
-      "date": "2026-04-15T00:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/flies-found-to-be-effe.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-04-15T03:28:53Z"
-    },
-    {
-      "title": "New national framework in Australia strengthens antimicrobial stewardship in animal industries",
-      "link": "https://phys.org/news/2026-04-national-framework-australia-antimicrobial-stewardship.html",
-      "summary": "Australia's animal sectors now have a comprehensive framework to help strengthen the industry's response to antimicrobial resistance. The Animal Antimicrobial Stewardship Framework",
-      "date": "2026-04-14T23:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/cows-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-14T23:54:03Z"
-    },
-    {
-      "title": "Discovery of Addison's disease gene in dogs could help humans as well",
-      "link": "https://phys.org/news/2026-04-discovery-addison-disease-gene-dogs.html",
-      "summary": "Among dog breeds, Nova Scotia duck tolling retrievers (tollers) have an unusually high rate of Addison's disease, a condition in which the adrenal glands do not produce enough horm",
-      "date": "2026-04-14T23:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nova-scotia-duck-tolli.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-14T23:54:03Z"
-    },
-    {
-      "title": "Q&A: How smarter forest practices could help protect British Columbia's forests from wildfire, climate stress",
-      "link": "https://phys.org/news/2026-04-qa-smarter-forest-british-columbia.html",
-      "summary": "New research from the UBC-based Mother Tree Project is shedding light on how forests respond to harvesting and climate stress, including practices aimed at reducing wildfire risk. ",
-      "date": "2026-04-14T23:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/smarter-forest-practic.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-04-14T23:54:03Z"
-    },
-    {
-      "title": "Birds that put more energy into parenthood age faster and die younger, research shows",
-      "link": "https://phys.org/news/2026-04-birds-energy-parenthood-age-faster.html",
-      "summary": "In a new study, appearing in Proceedings of the Royal Society B: Biological Sciences, scientists selectively bred Japanese quails into two groups: laying either relatively large or",
-      "date": "2026-04-14T23:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/birds-that-put-more-en-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-14T23:54:03Z"
-    },
-    {
-      "title": "Carbon removal project supports Maine's blue economy, broader marine health",
-      "link": "https://phys.org/news/2026-04-carbon-maine-blue-economy-broader.html",
-      "summary": "Oceans absorb roughly 25% to 30% of the carbon dioxide (CO2) that is released into the atmosphere. When this CO2 dissolves in seawater, it forms carbonic acid, making the water mor",
-      "date": "2026-04-14T23:00:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/carbon-removal-project.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-14T23:54:03Z"
-    },
-    {
-      "title": "Triassic croc relative from Ghost Ranch, New Mexico finally identified after nearly 80 years in museum basement",
-      "link": "https://www.livescience.com/animals/extinct-species/triassic-croc-relative-from-ghost-ranch-new-mexico-finally-identified-after-nearly-80-years-in-museum-basement",
-      "summary": "During the Triassic, a newly described species related to modern crocodiles and alligators stalked prey on land, not the water, a new study finds.",
-      "date": "Tue, 14 Apr 2026 23Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/S2KzCXQNeqzgDbSTUJFjMQ-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-14T23:54:04Z"
-    },
-    {
-      "title": "Meet kungaka—'the hidden one.' This ancient lizard could be the rarest reptile in Australia",
-      "link": "https://phys.org/news/2026-04-kungaka-hidden-ancient-lizard-rarest.html",
-      "summary": "Hidden among the red sandstone escarpments of Mutawintji National Park in western New South Wales lives a rare lizard, long isolated in this arid landscape.",
-      "date": "2026-04-14T22:00:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/meet-kungakathe-hidden.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-14T22:57:05Z"
     }
   ]
 }
