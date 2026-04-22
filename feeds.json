@@ -1,8 +1,41 @@
 {
-  "updated": "2026-04-22T18:05:51Z",
-  "updated_utc": "2026-04-22T18:05:51Z",
+  "updated": "2026-04-22T20:10:30Z",
+  "updated_utc": "2026-04-22T20:10:30Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A Humanoid Robot Just Beat the Human World Record for the Fastest Half-Marathon During a Race in China",
+      "link": "https://www.smithsonianmag.com/smart-news/a-humanoid-robot-just-beat-the-human-world-record-for-the-fastest-half-marathon-during-a-race-in-china-180988599/",
+      "summary": "A self-navigating robot called Lightning, developed by Chinese electronics company Honor, won the 13.1-mile race. Its results and others mark significant advancements since last ye",
+      "date": "2026-04-22T19:27:47Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/W9fngI9BhbzNSlAFYLSrRppGENQ=/420x240/filters:focal(3479x2286:3480x2287)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/40/9d/409d5fc3-4626-4075-87a3-e52e9b20108d/robot-race.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-22T20:10:22Z"
+    },
+    {
+      "title": "This Rare-Coin Scavenger Hunt in San Francisco Offers Participants the Chance to Relive the California Gold Rush",
+      "link": "https://www.smithsonianmag.com/smart-news/this-rare-coin-scavenger-hunt-in-san-francisco-offers-participants-the-chance-to-relive-the-california-gold-rush-180988598/",
+      "summary": "A local coin dealer will hide historic currency worth a total of $50,000 in its third annual citywide challenge on April 25",
+      "date": "2026-04-22T18:42:31Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/_lpJcSyN87r7hMcB_JP_a10KzgQ=/420x240/filters:focal(990x660:991x661)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/51/e8/51e89a4c-8154-4cd7-8910-d37b623d4acf/seth_chandler_at_witter_coin.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-22T20:10:22Z"
+    },
+    {
+      "title": "Engineered soil bacterial protein kills colorectal cancer cells by targeting their mitochondria",
+      "link": "https://phys.org/news/2026-04-soil-bacterial-protein-colorectal-cancer.html",
+      "summary": "Researchers at Umeå University have turned a protein from soil bacteria into a potential new weapon against colorectal cancer. Their study published in Cell Death Discovery shows h",
+      "date": "2026-04-22T19:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-turn-soil-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-22T20:10:26Z"
+    },
     {
       "title": "Earth Day!",
       "link": "https://www.10000birds.com/earth-day.htm?utm_source=rss&utm_medium=rss&utm_campaign=earth-day",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-04-15T18:10:00Z"
-    },
-    {
-      "title": "Ancient process that created rare earth elements discovered — and it could help us locate desperately needed deposits",
-      "link": "https://www.livescience.com/planet-earth/geology/ancient-process-that-created-rare-earth-elements-discovered-and-it-could-help-us-locate-desperately-needed-deposits",
-      "summary": "A new study suggests rare earth elements form in magma above ancient subduction zones, as that magma reacts with substances that are released when one tectonic plate dives beneath ",
-      "date": "2026-04-15T16:18:57Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Ff5QYzuLKhhc7iPKuReCrP-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-15T18:10:00Z"
-    },
-    {
-      "title": "Strange mammal ancestor laid huge, leathery eggs —‬ and it was key to surviving the world's worst mass extinction",
-      "link": "https://www.livescience.com/animals/extinct-species/strange-mammal-ancestor-laid-huge-leathery-eggs-and-it-was-key-to-surviving-the-worlds-worst-mass-extinction",
-      "summary": "Using synchrotron X-ray CT scans of a fossilized, intact embryo, researchers found evidence that the plant-eating mammal Lystrosaurus laid eggs, which answers a key question about ",
-      "date": "2026-04-15T16:15:56Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/H5KqFSt7L4HRdcxnRor7Zm-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-15T18:10:00Z"
-    },
-    {
-      "title": "How to Grow and Care for Celosia Plants (Cockscomb)",
-      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/celosia-cockscomb/",
-      "summary": "If you're looking for a unique, eye-catching flower to add pizazz to your yard, celosia is the flower for you! Here's how to grow it. The post How to Grow and Care for Celosia Plan",
-      "date": "2026-04-15T14:49:44Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/04/shutterstock_1247105863-e1776264228417.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-04-15T16:10:36Z"
     }
   ]
 }
