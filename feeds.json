@@ -1,8 +1,52 @@
 {
-  "updated": "2026-04-22T21:57:33Z",
-  "updated_utc": "2026-04-22T21:57:33Z",
+  "updated": "2026-04-22T22:58:27Z",
+  "updated_utc": "2026-04-22T22:58:27Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Netflix’s ‘A Gorilla Story’ Reveals the Remarkable Legacy of David Attenborough’s Most Iconic Wildlife Encounter",
+      "link": "https://www.outsideonline.com/culture/books-media/david-attenborough-gorilla-story-netflix-legacy/",
+      "summary": "The new Netflix doc 'A Gorilla Story' shows David Attenborough’s unscripted 1978 encounter with a baby gorilla did more than create iconic TV—it helped fuel a 50-year conservation ",
+      "date": "2026-04-22T22:00:03Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/GORILLAS_TXTD_UHD_SDR_LEGAL-RANGE_ProRes4444XQ_20STEREO_20250723.00008710.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-22T22:58:18Z"
+    },
+    {
+      "title": "Cosmetics from waste? Microbial discovery unlocks greener route to high-value chemical products",
+      "link": "https://phys.org/news/2026-04-cosmetics-microbial-discovery-greener-route.html",
+      "summary": "Researchers at University of Toronto's Department of Chemical Engineering & Applied Chemistry have made a key discovery about how certain bacterial strains produce a set of economi",
+      "date": "2026-04-22T22:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cosmetics-from-waste-m.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-22T22:58:23Z"
+    },
+    {
+      "title": "How a faster protein-screening tool could strengthen US rare-earth supply chains",
+      "link": "https://phys.org/news/2026-04-faster-protein-screening-tool-rare.html",
+      "summary": "To ensure a robust domestic supply chain in the U.S., Lawrence Livermore National Laboratory (LLNL) scientists are using bacterial proteins to separate the rare-earth elements that",
+      "date": "2026-04-22T22:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-protein-screening-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-22T22:58:23Z"
+    },
+    {
+      "title": "Turning four into two: How duplicated genomes become diploid again",
+      "link": "https://phys.org/news/2026-04-duplicated-genomes-diploid.html",
+      "summary": "Genome duplication probably gave biodiversity a decisive evolutionary boost. A Chinese-German research team led by Axel Meyer from the University of Konstanz has now investigated t",
+      "date": "2026-04-22T22:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/turning-four-into-two-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-22T22:58:23Z"
+    },
     {
       "title": "How to Grow and Care for Celosia Plants (Cockscomb)",
       "link": "https://www.birdsandblooms.com/gardening/flower-gardening/celosia-cockscomb/",
@@ -5458,50 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-04-15T18:09:48Z"
-    },
-    {
-      "title": "Why Does This Newly Discovered 2,000-Year-Old Stone Slab Depict a Roman Emperor as an Egyptian Pharaoh?",
-      "link": "https://www.smithsonianmag.com/smart-news/why-does-this-newly-discovered-2000-year-old-stone-slab-depict-a-roman-emperor-as-an-egyptian-pharaoh-180988549/",
-      "summary": "The sandstone monument shows Tiberius standing next to a family of local gods. Archaeologists say the scene illustrates the ruler's role as a leader who upheld cosmic order in Egyp",
-      "date": "2026-04-15T17:56:07Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/fTmxPtlIry3kZvtUCgBODQq9Ay8=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c8/04/c8043d96-13cd-4be6-8791-c725425c87f2/stone-stele.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-15T18:09:56Z"
-    },
-    {
-      "title": "See the Most Adorable Photos of Baby Elephant Linh Mai, the National Zoo’s Newest Star",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/see-the-most-adorable-photos-of-baby-elephant-linh-mai-the-national-zoos-newest-star-180988532/",
-      "summary": "Since her birth in early February, the calf has been growing and beginning to bond with her care team and herd. She will go on view in-person and online starting April 22",
-      "date": "2026-04-15T17:12:31Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/E0ng54_8Z2nNVbYFB-3HJSxIT6o=/420x240/filters:focal(1000x671:1001x672)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7d/b0/7db0595f-aa0b-45f2-b32c-2782d86edc51/20260225-817a4947-04bk-resized.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-15T18:09:56Z"
-    },
-    {
-      "title": "How Do Different Psychedelics Affect the Brain? Scientists Analyzed More Than 500 Neural Scans to Find Out",
-      "link": "https://www.smithsonianmag.com/smart-news/how-do-different-psychedelics-affect-the-brain-scientists-analyzed-more-than-500-neural-scans-to-find-out-180988534/",
-      "summary": "A new study suggests that four psychoactive compounds work in surprisingly similar ways, and that they break down the separation between how we think internally and how we perceive",
-      "date": "2026-04-15T17:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/R1p8jsC2gmtpQYeJohVHQ8QYYjs=/420x240/filters:focal(1408x1059:1409x1060)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/63/5f/635f5949-f772-4b8b-8e0d-6679086d1a14/psilocybe_pelliculosa_122504.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-15T18:09:56Z"
-    },
-    {
-      "title": "Breath carries clues to gut health",
-      "link": "https://www.sciencenews.org/article/breath-tests-clues-to-gut-health",
-      "summary": "At-home breath tests could reveal insights about gut health, though their ability to assess food intolerances is not yet clear.",
-      "date": "2026-04-15T17:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/040726_MR_breath_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-15T18:09:57Z"
     }
   ]
 }
