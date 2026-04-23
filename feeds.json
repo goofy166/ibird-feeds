@@ -1,8 +1,74 @@
 {
-  "updated": "2026-04-23T21:00:18Z",
-  "updated_utc": "2026-04-23T21:00:18Z",
+  "updated": "2026-04-23T21:58:11Z",
+  "updated_utc": "2026-04-23T21:58:11Z",
   "count": 500,
   "stories": [
+    {
+      "title": "In Japan, a New Steward for 1,200 Years of Cherry Blossom Data Has Been Found, Sustaining a Climate Change Research Project",
+      "link": "https://www.smithsonianmag.com/smart-news/in-japan-a-new-steward-for-1200-years-of-cherry-blossom-data-has-been-found-sustaining-a-climate-change-research-project-180988607/",
+      "summary": "Climate scientist Yasuyuki Aono, who died last summer, learned to read ancient Japanese script to compile records on peak bloom dating back to the ninth century C.E.",
+      "date": "Thu, 23 Apr 2026 20Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/YsVTZjdL6DMyqj1TzuIa4w6goqo=/420x240/filters:focal(1280x817:1281x818)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/76/9f/769f45eb-00ce-4ba7-b942-5eaaa2e283fa/prunus_jamasakura_japanese_wild_cherry_tree__-_panoramio.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-23T21:58:03Z"
+    },
+    {
+      "title": "Study shows a widely used antifungal drug works only when its target enzyme is active",
+      "link": "https://phys.org/news/2026-04-widely-antifungal-drug-enzyme.html",
+      "summary": "Serious fungal infections are on the rise, and many hospital-acquired cases are becoming harder to treat as fungi become resistant to available medications. One of the most widely ",
+      "date": "2026-04-23T21:40:09Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/catching-a-fungal-enzy.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T21:58:07Z"
+    },
+    {
+      "title": "Reeds boost mosquito spread in rivers and ponds",
+      "link": "https://phys.org/news/2026-04-reeds-boost-mosquito-rivers-ponds.html",
+      "summary": "Reed, an invasive alien plant that is abundant on the banks of many rivers, ponds and canals, can encourage the growth of common mosquito populations in the absence of natural pred",
+      "date": "2026-04-23T21:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reeds-boost-mosquito-s-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T21:58:07Z"
+    },
+    {
+      "title": "Inside the skull of a Devonian fish from Gondwana, revealed by neutron imaging",
+      "link": "https://phys.org/news/2026-04-skull-devonian-fish-gondwana-revealed.html",
+      "summary": "Flinders University researchers have taken a revealing look inside the head of one of the first animals to crawl from the water to live on land more than 380 million years ago. Usi",
+      "date": "2026-04-23T21:20:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fresh-eyes-on-gondwana.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T21:58:07Z"
+    },
+    {
+      "title": "Robotic fish prototype cuts aquaculture stress while inspecting nets and water",
+      "link": "https://phys.org/news/2026-04-robotic-fish-prototype-aquaculture-stress.html",
+      "summary": "The Centre for Research in Robotics and Underwater Technologies (CIRTESU) at the Universitat Jaume I in Castelló has developed an experimental modular, bio-inspired robotic fish pr",
+      "date": "2026-04-23T21:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-cirtesu-at-the-uni.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T21:58:07Z"
+    },
+    {
+      "title": "'A landmark moment for the field': FDA approves first-ever gene therapy for inherited deafness",
+      "link": "https://www.livescience.com/health/genetics/a-landmark-moment-for-the-field-fda-approves-first-ever-gene-therapy-for-inherited-deafness",
+      "summary": "A gene therapy made by Regeneron is the first treatment of its kind approved for genetic hearing loss.",
+      "date": "Thu, 23 Apr 2026 21Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Eh6aWHV9n7jMowNbUkPWMc-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-23T21:58:08Z"
+    },
     {
       "title": "A Mars Rover Found Building Blocks of Life Never Seen on the Red Planet Before, Boosting the Case for Ancient Habitability",
       "link": "https://www.smithsonianmag.com/smart-news/a-mars-rover-found-building-blocks-of-life-never-seen-on-the-red-planet-before-boosting-the-case-for-ancient-habitability-180988610/",
@@ -5436,72 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-16T19:26:35Z"
-    },
-    {
-      "title": "Scientists unlock shape-shifting living tissue, programming cells to fold flat sheets into precise 3D forms",
-      "link": "https://phys.org/news/2026-04-scientists-shifting-tissue-cells-flat.html",
-      "summary": "Biological tissues have a remarkable ability to organize and change shape, driven by forces generated by their own cells. One of the major challenges in bioengineering is harnessin",
-      "date": "2026-04-16T18:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-create-livi-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-16T19:26:35Z"
-    },
-    {
-      "title": "Warm-bodied sharks and tunas face 'double jeopardy' in warming seas",
-      "link": "https://phys.org/news/2026-04-bodied-sharks-tunas-jeopardy-seas.html",
-      "summary": "A new study reveals that some of the ocean's most powerful predators are running hotter, and that they are likely paying an increasingly steep price for it. The significance of thi",
-      "date": "2026-04-16T18:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/warm-bodied-sharks-and.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-16T19:26:35Z"
-    },
-    {
-      "title": "Meet Yuji, the Mexican baby monkey finding comfort in a plush companion",
-      "link": "https://phys.org/news/2026-04-yuji-mexican-baby-monkey-comfort.html",
-      "summary": "Yuji, a 6-week-old patas monkey in Mexico, wakes up every day clinging to a stuffed dog. More than a toy, this plush companion acts as a surrogate mom after the tiny primate was re",
-      "date": "2026-04-16T17:39:54Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/meet-yuji-the-mexican.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-16T19:26:35Z"
-    },
-    {
-      "title": "Monkeys navigate a virtual forest with thought alone, pushing brain-computer interfaces beyond the lab",
-      "link": "https://phys.org/news/2026-04-monkeys-virtual-forest-thought-brain.html",
-      "summary": "As a part of a study testing out a new type of implanted brain-computer interface (BCI), three rhesus monkeys controlled movements in a virtual reality (VR) world using only brain ",
-      "date": "2026-04-16T17:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/monkeys-explore-a-virt-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-16T19:26:35Z"
-    },
-    {
-      "title": "Colorado River may have pooled and spilled over to form the Grand Canyon, solving a long-standing mystery ‪—‬ but not everyone agrees",
-      "link": "https://www.livescience.com/planet-earth/rivers-oceans/colorado-river-may-have-pooled-and-spilled-over-to-form-the-grand-canyon-solving-a-long-standing-mystery-but-not-everyone-agrees",
-      "summary": "The Colorado River muscled its way through today's Grand Canyon after pooling as a giant lake, according to new research.",
-      "date": "Thu, 16 Apr 2026 18Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/F2wEugVw4ZEjwHXzVqgoRF-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-16T19:26:37Z"
-    },
-    {
-      "title": "'We all screamed when it happened': Bright-green fireball meteor caught exploding over famous Viking raid site in UK",
-      "link": "https://www.livescience.com/space/meteoroids/we-all-screamed-when-it-happened-bright-green-fireball-meteor-caught-exploding-over-famous-viking-raid-site-in-uk",
-      "summary": "Photographers caught a spectacular emerald-green fireball meteor streaking above Lindisfarne in northeast England, where Viking raiders famously killed and robbed Christian monks i",
-      "date": "Thu, 16 Apr 2026 17Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/m3hN2hwAjdhWwuwqLGiTWb-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-16T19:26:37Z"
     }
   ]
 }
