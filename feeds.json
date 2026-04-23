@@ -1,8 +1,52 @@
 {
-  "updated": "2026-04-23T21:58:11Z",
-  "updated_utc": "2026-04-23T21:58:11Z",
+  "updated": "2026-04-23T22:59:28Z",
+  "updated_utc": "2026-04-23T22:59:28Z",
   "count": 500,
   "stories": [
+    {
+      "title": "New Research Highlights 10 Peptides You Shouldn’t Be Using",
+      "link": "https://www.outsideonline.com/health/training-performance/performance-peptides-safety-research/",
+      "summary": "A new scientific review examines the \"Wolverine stack\" and other supplements trending on social media. While the hype promises rapid healing, the actual evidence for human safety i",
+      "date": "Thu, 23 Apr 2026 22Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/weights.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-23T22:59:19Z"
+    },
+    {
+      "title": "These 'good' viruses hold up a booming industry—AI just found a faster way to track them",
+      "link": "https://phys.org/news/2026-04-good-viruses-booming-industry-ai.html",
+      "summary": "Researchers have developed a new methodology that uses artificial intelligence tools to identify and count target viruses more efficiently than previous techniques. The new approac",
+      "date": "2026-04-23T22:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-ai-can-help-us-cou.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T22:59:24Z"
+    },
+    {
+      "title": "Giant octopuses may have ruled the oceans 100 million years ago",
+      "link": "https://phys.org/news/2026-04-giant-octopuses-oceans-million-years.html",
+      "summary": "Today's octopuses are intelligent, remarkably flexible animals that lurk in reefs, hide in crevices, or drift through the deep sea. But new research suggests that their earliest re",
+      "date": "2026-04-23T22:30:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/giant-octopuses-may-ha.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T22:59:24Z"
+    },
+    {
+      "title": "Life's earliest proteins may have folded into complex shapes with far fewer amino acids",
+      "link": "https://phys.org/news/2026-04-life-earliest-proteins-complex-amino.html",
+      "summary": "How did the earliest life on Earth build complex biological machinery with so few tools? A new study explores how the simplest building blocks of proteins—once limited to just half",
+      "date": "2026-04-23T22:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-hidden-language-of.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T22:59:24Z"
+    },
     {
       "title": "In Japan, a New Steward for 1,200 Years of Cherry Blossom Data Has Been Found, Sustaining a Climate Change Research Project",
       "link": "https://www.smithsonianmag.com/smart-news/in-japan-a-new-steward-for-1200-years-of-cherry-blossom-data-has-been-found-sustaining-a-climate-change-research-project-180988607/",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-04-16T19:26:32Z"
-    },
-    {
-      "title": "These Tiny Ants Crawled All Over Larger Ants and Licked Them Clean. Scientists Aren't Sure How This Behavior Benefits Any of Them",
-      "link": "https://www.smithsonianmag.com/smart-news/these-tiny-ants-crawled-all-over-larger-ants-and-licked-them-clean-scientists-arent-sure-how-this-behavior-benefits-any-of-them-180988555/",
-      "summary": "After witnessing the interactions in an Arizona desert, a Smithsonian researcher suggests that the little ants picked off tasty treats and that the big ants get thoroughly groomed ",
-      "date": "Thu, 16 Apr 2026 18Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/I68imt7--sQHC9UAwqGzLvs9LVw=/420x240/filters:focal(3058x2067:3059x2068)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1e/de/1ede8f15-b944-4aa1-955b-fbf1980c1f86/cleaner_ants.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-16T19:26:32Z"
-    },
-    {
-      "title": "The secret sensory life of plants: Researchers are discovering how they see, hear, feel—and even remember",
-      "link": "https://phys.org/news/2026-04-secret-sensory-life.html",
-      "summary": "Plants are often seen as passive organisms, rooted in one place and largely unable to react to the world around them. But a new field of research is challenging these assumptions a",
-      "date": "2026-04-16T19:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/looking-up-at-trees.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-16T19:26:35Z"
-    },
-    {
-      "title": "For regrowing human limbs, this salamander gene could hold the key",
-      "link": "https://phys.org/news/2026-04-regrowing-human-limbs-salamander-gene.html",
-      "summary": "Investigating a common gene in three very different species—salamanders, mice and zebrafish—scientists have discovered the potential for a novel gene therapy aimed at eventually re",
-      "date": "2026-04-16T18:40:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/axolotl.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-16T19:26:35Z"
-    },
-    {
-      "title": "Cyanobacteria surprise scientists with evolutionary shift",
-      "link": "https://phys.org/news/2026-04-cyanobacteria-scientists-evolutionary-shift.html",
-      "summary": "Photosynthetic bacteria helped shape planet Earth. Among them are cyanobacteria that produced the oxygen in the atmosphere and made complex life possible, captivating scientists fo",
-      "date": "2026-04-16T18:00:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/anabaena-learns-a-new.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-16T19:26:35Z"
     }
   ]
 }
