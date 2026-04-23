@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-23T06:12:02Z",
-  "updated_utc": "2026-04-23T06:12:02Z",
+  "updated": "2026-04-23T08:58:18Z",
+  "updated_utc": "2026-04-23T08:58:18Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Here’s how to see the Lunar X and V at 1st-quarter moon",
+      "link": "https://earthsky.org/astronomy-essentials/what-is-lunar-x/",
+      "summary": "Lunar X and Lunar V are optical features on the moon. They are visible through a telescope for several hours around the time of the 1st quarter moon. The post Here’s how to see the",
+      "date": "Thu, 23 Apr 2026 08Z",
+      "image": "https://earthsky.org/upl/2023/04/Lunar-X-and-V-Frank-Lu-Texas-Feb-5-2025.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-04-23T08:58:03Z"
+    },
     {
       "title": "Accelerating drug discovery with fragment screening",
       "link": "https://phys.org/news/2026-04-drug-discovery-fragment-screening.html",
@@ -5487,17 +5498,6 @@
       "summary": "The Dark Energy Spectroscopic Instrument (DESI) has finished the most detailed survey of the universe to date, and the resulting map will help researchers understand an apparent we",
       "date": "2026-04-15T16:00:45Z",
       "image": "https://images.newscientist.com/wp-content/uploads/2026/03/24124507/SEI_290738755.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-15T20:06:50Z"
-    },
-    {
-      "title": "Neanderthal infants were enormous compared with modern humans",
-      "link": "https://www.newscientist.com/article/2523132-neanderthal-infants-were-enormous-compared-with-modern-humans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A detailed analysis of the best-preserved Neanderthal infant skeleton ever found suggests that our ancient relatives grew much faster as young children",
-      "date": "2026-04-15T16:00:13Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/15141126/SEI_293251292.jpg",
       "name": "New Scientist",
       "category": "insects",
       "color": 12,
