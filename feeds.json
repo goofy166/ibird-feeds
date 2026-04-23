@@ -1,8 +1,52 @@
 {
-  "updated": "2026-04-22T23:55:57Z",
-  "updated_utc": "2026-04-22T23:55:57Z",
+  "updated": "2026-04-23T03:38:13Z",
+  "updated_utc": "2026-04-23T03:38:13Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Accelerating drug discovery with fragment screening",
+      "link": "https://phys.org/news/2026-04-drug-discovery-fragment-screening.html",
+      "summary": "Modern medicine has played a significant role in improving the length and quality of our lives. While many treatments may seem like miracles, they are the result of a lengthy, rigo",
+      "date": "2026-04-23T02:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/accelerating-drug-disc.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T03:38:10Z"
+    },
+    {
+      "title": "New study presents the eLTER Framework of Standard Observations for long-term, integrated environmental monitoring",
+      "link": "https://phys.org/news/2026-04-elter-framework-standard-term-environmental.html",
+      "summary": "A new study published in Earth's Future introduces the eLTER Framework of Standard Observations (eLTER SO)—a structured, harmonized system designed to support consistent long-term ",
+      "date": "2026-04-23T01:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-paper-presents-the.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T03:38:10Z"
+    },
+    {
+      "title": "Peptide synthesis could stop global potato pathogen once linked to Ireland's Great Famine",
+      "link": "https://phys.org/news/2026-04-peptide-synthesis-global-potato-pathogen.html",
+      "summary": "Scientists in Sweden have taken an important step toward fighting potato late blight, a plant disease that once triggered a historic famine in Ireland and now threatens to spread g",
+      "date": "2026-04-23T01:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-offers-new-wa.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T03:38:10Z"
+    },
+    {
+      "title": "Extend the Season of Love to Birds",
+      "link": "https://www.birds.cornell.edu/home/join_great_backyard_bird_count_2026/",
+      "summary": "Love is in the air—listen closely and the sounds of chickadees, sparrows, and thrushes are beckoning you to step outside to experience the love from birds and nature. Take a moment",
+      "date": "Tue, 20 Jan 2026 14Z",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-04-23T03:38:12Z"
+    },
     {
       "title": "Promiscuity and parental behavior in birds are driven by demographics, not the other way around",
       "link": "https://phys.org/news/2026-04-promiscuity-parental-behavior-birds-driven.html",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-04-15T20:06:50Z"
-    },
-    {
-      "title": "Museum drawer fossil reveals 200-million-year-old crocodile relative with a powerful bite",
-      "link": "https://phys.org/news/2026-04-museum-drawer-fossil-reveals-million.html",
-      "summary": "The fossil record has given us another new prehistoric species, named Eosphorosuchus lacrimosa (from the Greek personification of the morning star—the planet Venus), a member of th",
-      "date": "2026-04-15T20:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/introducing-a-new-preh.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-15T20:06:51Z"
-    },
-    {
-      "title": "Soil species face extinction risk as one in five assessed are threatened",
-      "link": "https://phys.org/news/2026-04-soil-species-extinction-threatened.html",
-      "summary": "A new report led by Conservation International and IUCN, published today in Oryx, warns that over 40% of more than 8,500 soil‑dependent species are at risk of extinction or Data‑De",
-      "date": "2026-04-15T19:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/soil.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-15T20:06:51Z"
-    },
-    {
-      "title": "One battered skull exposes a lost killer from dinosaur dawn and a vanished bloodline",
-      "link": "https://phys.org/news/2026-04-battered-skull-exposes-lost-killer.html",
-      "summary": "\"You want to stick your finger in a dinosaur brain?\" asked Simba Srivastava. Surrounded by cabinets full of ancient bones in the paleobiology lab, the Virginia Tech undergraduate s",
-      "date": "2026-04-15T18:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/student-identifies-new.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-15T20:06:51Z"
-    },
-    {
-      "title": "How to tell if your dog is in pain (and what to do if they are)",
-      "link": "https://phys.org/news/2026-04-dog-pain.html",
-      "summary": "If you live with a pet, you might feel like you can almost read each other's minds.",
-      "date": "2026-04-15T18:20:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/2-dog.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-15T20:06:51Z"
     }
   ]
 }
