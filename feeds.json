@@ -1,8 +1,173 @@
 {
-  "updated": "2026-04-23T17:39:48Z",
-  "updated_utc": "2026-04-23T17:39:48Z",
+  "updated": "2026-04-23T19:24:30Z",
+  "updated_utc": "2026-04-23T19:24:30Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Is This Black and White Bird a Leucistic Grackle?",
+      "link": "https://www.birdsandblooms.com/birding/birding-basics/leucistic-common-grackle/",
+      "summary": "A reader shared a photo of a bird that looks like a common grackle with white patches. He asked our experts: is it leucistic? The post Is This Black and White Bird a Leucistic Grac",
+      "date": "Thu, 23 Apr 2026 18Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/04/13_Carl-Muehlemeyer_BBXspring26_0001.jpg?fit=700,1024",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-04-23T19:24:11Z"
+    },
+    {
+      "title": "30 Mnemonics to Help You Remember Bird Calls",
+      "link": "https://www.allaboutbirds.org/news/30-mnemonics-help-remember-bird-calls/",
+      "summary": "Most birds squawk, chirp, and warble—but some of them are more “talkative” than that—their songs and calls sound almost like speech. Granted, this is mostly down to the imagination",
+      "date": "2026-04-08T21:03:04Z",
+      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/04/Ovenbird-Brad-Imhoff-335096071.jpg",
+      "name": "All About Birds",
+      "category": "birds",
+      "color": 3,
+      "fetched_at": "2026-04-23T19:24:12Z"
+    },
+    {
+      "title": "How to Use Spectrograms to Learn Details of Bird Songs",
+      "link": "https://www.allaboutbirds.org/news/how-to-use-spectrograms-learn-bird-songs/",
+      "summary": "Bird songs and calls can be hard to learn—they’re so intricate, and they go by so fast. That’s why ornithologists use spectrograms—visualizations that allow you to see the shape of",
+      "date": "2026-04-08T21:00:45Z",
+      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/03/Indigo-Bunting-Emily-Tallo-Illinois-639396909-1280x720.jpg",
+      "name": "All About Birds",
+      "category": "birds",
+      "color": 3,
+      "fetched_at": "2026-04-23T19:24:12Z"
+    },
+    {
+      "title": "Basic Parts of a Bird Song: Rhythm, Repetition, Pitch, and Tone",
+      "link": "https://www.allaboutbirds.org/news/parts-bird-song-rhythm-repetition-pitch-tone/",
+      "summary": "When you first listen to a dawn chorus in full swing, the sheer onslaught of bird song can be overwhelming. How does anyone start to pick apart the chirps, whistles, ... Read more ",
+      "date": "2026-04-08T20:58:35Z",
+      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/04/Nashville-Warbler-Shailesh-Pinto-Michigan-268052371_banner.jpg",
+      "name": "All About Birds",
+      "category": "birds",
+      "color": 3,
+      "fetched_at": "2026-04-23T19:24:12Z"
+    },
+    {
+      "title": "Giant, kraken-like octopuses may have ruled the Cretaceous deep",
+      "link": "https://www.sciencenews.org/article/kraken-octopus-largest-invertebrate",
+      "summary": "Some octopuses that lived over 72 million years ago were as long as whales. These huge predators may have been the largest invertebrates ever.",
+      "date": "Thu, 23 Apr 2026 18Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/042326_JB_kraken_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-04-23T19:24:24Z"
+    },
+    {
+      "title": "Catching a cold can delay cancer from spreading to the lungs",
+      "link": "https://www.newscientist.com/article/2524114-catching-a-cold-can-delay-cancer-from-spreading-to-the-lungs/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Infecting mice with RSV, a common virus that causes cold-like symptoms, prevented breast cancer cells from reaching their lungs. This was due to the release of proteins that stop v",
+      "date": "Thu, 23 Apr 2026 18Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/23140855/SEI_294185886.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-23T19:24:25Z"
+    },
+    {
+      "title": "What if humans could regrow tissue? New study moves science closer",
+      "link": "https://phys.org/news/2026-04-humans-regrow-tissue-science-closer.html",
+      "summary": "For centuries, the inability to regrow lost body parts has been considered a defining limitation of humans and other mammals. While animals like salamanders can regenerate entire l",
+      "date": "2026-04-23T19:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-if-humans-could-r.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T19:24:27Z"
+    },
+    {
+      "title": "Do polysaccharide-degrading enzymes also help build polysaccharides?",
+      "link": "https://phys.org/news/2026-04-polysaccharide-degrading-enzymes-polysaccharides.html",
+      "summary": "Most of the carbon fixed by plants through photosynthesis is ultimately stored in the cell wall, primarily in the form of polysaccharides such as cellulose, xylan, and glucomannan.",
+      "date": "2026-04-23T18:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/do-polysaccharide-degr.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T19:24:27Z"
+    },
+    {
+      "title": "Brazil unearths a bizarre beaked reptile with a trans-Atlantic prehistoric link",
+      "link": "https://phys.org/news/2026-04-brazil-unearths-bizarre-beaked-reptile.html",
+      "summary": "Paleontologists from the Federal University of Santa Maria (UFSM) have published a new study in the scientific journal Royal Society Open Science, in which they describe a new spec",
+      "date": "2026-04-23T18:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-fossil-reptile-spe-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T19:24:27Z"
+    },
+    {
+      "title": "Mozambique 'sky island' expeditions found four new species of chameleon that are already at risk from forest loss",
+      "link": "https://phys.org/news/2026-04-mozambique-sky-island-species-chameleon.html",
+      "summary": "Tropical rainforests are known for their unique biodiversity, with species found nowhere else on Earth. But nearly 30% of tropical rainforest has been destroyed or has become serio",
+      "date": "2026-04-23T18:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mozambique-sky-island.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T19:24:27Z"
+    },
+    {
+      "title": "Machine learning helps detect roars from lion collars without recording actual audio",
+      "link": "https://phys.org/news/2026-04-machine-roars-lion-collars-actual.html",
+      "summary": "Roaring over long distances is a key behavior of lions. They communicate within prides as well as with other animals using distinct sequences of moans and grunts. Scientists from t",
+      "date": "2026-04-23T18:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mixed-signals-machine.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T19:24:27Z"
+    },
+    {
+      "title": "What wild honey from the Philippine jungle reveals about biodiversity",
+      "link": "https://phys.org/news/2026-04-wild-honey-philippine-jungle-reveals.html",
+      "summary": "In the Philippines, Indigenous communities have been harvesting wild honey for centuries. A new chemical analysis of this honey now provides insights into the biodiversity of the r",
+      "date": "2026-04-23T18:00:09Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-wild-honey-from-t-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T19:24:27Z"
+    },
+    {
+      "title": "More than 600,000 seabirds killed in single marine heat wave",
+      "link": "https://phys.org/news/2026-04-seabirds-marine.html",
+      "summary": "Ocean temperatures are rising around the world—and marine wildlife are feeling the heat. New research reveals that almost two-thirds of a million seabirds were killed by a marine h",
+      "date": "2026-04-23T18:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/over-600000-seabirds-k.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T19:24:27Z"
+    },
+    {
+      "title": "'Strong, undeniable public examples of something positive': Astronaut Chris Hadfield on why Artemis II hit him hard, the importance of spaceflight, and why we need to send a guitar to the moon",
+      "link": "https://www.livescience.com/space/space-exploration/strong-undeniable-public-examples-of-something-positive-astronaut-chris-hadfield-on-why-artemis-ii-hit-him-hard-the-importance-of-spaceflight-and-why-we-need-to-send-a-guitar-to-the-moon",
+      "summary": "Astronaut Chris Hadfield discusses the value and risks of space travel, his emotional response to the Artemis II mission, and his love of music ahead of a fundraiser concert for ch",
+      "date": "Thu, 23 Apr 2026 19Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/JDS8kyJjRC5xgAATWxa6iV-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-23T19:24:28Z"
+    },
+    {
+      "title": "'Kraken' octopus that lived at the time of the dinosaurs was a 62-foot-long apex predator of the ocean",
+      "link": "https://www.livescience.com/animals/octopuses/kraken-octopus-that-lived-at-the-time-of-the-dinosaurs-was-a-62-foot-long-apex-predator-of-the-ocean",
+      "summary": "A close inspection of 27 fossil jaws from finned octopuses challenge the longstanding belief that the apex oceanic predators of the Cretaceous were all vertebrates.",
+      "date": "Thu, 23 Apr 2026 18Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/VFBjdfV6Ud9qzaukmLzPcJ-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-23T19:24:28Z"
+    },
     {
       "title": "These Are the 20 Birds Most People in the US See Every Day",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/20-common-birds-in-the-usa/",
@@ -5337,171 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-16T17:23:43Z"
-    },
-    {
-      "title": "Palo Alto group buys Coyote Valley farmland in San Jose for $5.3 million",
-      "link": "https://www.mercurynews.com/2026/04/08/palo-alto-group-buys-coyote-valley-farmland-in-san-jose-for-5-3-million/",
-      "summary": "71-acre parcel had been owned by same family since 1950s, was considered for a battery storage plant",
-      "date": "2026-04-08T22:10:56Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SJM-L-Coyote-Valley-Farm-0408026-01.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-04-16T15:02:42Z"
-    },
-    {
-      "title": "'Fresh Eyes on Ice' Teaches Kids to Collect Vital Ice Data in Remote Alaskan Communities",
-      "link": "https://www.smithsonianmag.com/innovation/fresh-eyes-on-ice-teaches-kids-to-collect-vital-ice-data-in-remote-alaskan-communities-180988556/",
-      "summary": "Students measure ice thickness and monitor spring break-up to help save lives in areas where frozen rivers are used as roadways",
-      "date": "Thu, 16 Apr 2026 14Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/SqcbOpdAQCbA1BgK4BjXIeMRZ40=/420x240/filters:focal(1200x800:1201x801)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b8/5d/b85d6c70-9747-4395-a923-b2d3c577acee/jr-19-6177-78.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-16T15:02:45Z"
-    },
-    {
-      "title": "Medieval Writings and Tree Rings Helped Researchers Track a Solar Storm From 800 Years Ago and Reconstruct Past Solar Cycles",
-      "link": "https://www.smithsonianmag.com/smart-news/medieval-writings-and-tree-rings-helped-researchers-track-a-solar-storm-from-800-years-ago-and-reconstruct-past-solar-cycles-180988546/",
-      "summary": "Diary entries by the Japanese poet Fujiwara no Teika, along with other historical sources from across Asia and Europe, played pivotal roles in a new study",
-      "date": "Thu, 16 Apr 2026 14Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/2JcPV5ywPTYV8r6IE6uqJB_kQUQ=/420x240/filters:focal(768x432:769x433)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d5/96/d5968076-98f0-4a53-b755-c1bb754ee476/20260410-aurora_over_engaru_tomohiro_m_nakayama-cropped_cc-by-nc_1.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-16T15:02:45Z"
-    },
-    {
-      "title": "A Sudden Squall Doomed This Stone-Hauling Vessel in Lake Erie. Divers Just Found the Shipwreck More Than 150 Years Later",
-      "link": "https://www.smithsonianmag.com/smart-news/a-sudden-squall-doomed-this-stone-hauling-vessel-in-lake-erie-divers-just-found-the-shipwreck-more-than-150-years-later-180988557/",
-      "summary": "The \"Clough,\" a 125-foot-long bark, sank in September 1868 near Cleveland, with just one crew member surviving to explain what had happened",
-      "date": "Thu, 16 Apr 2026 13Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/UPNeMAouVJs7TDwQpqu5yuiWcOM=/420x240/filters:focal(4128x2752:4129x2753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/18/45/18450960-8ae6-45d7-a1ab-1be02cbc59b5/20240705-udr_2414-papes_2.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-16T15:02:45Z"
-    },
-    {
-      "title": "A Glowing Sphere Towering Over Utah Sent an Urgent Artistic Message: The Great Salt Lake Is Drying Up",
-      "link": "https://www.smithsonianmag.com/smart-news/a-glowing-sphere-towering-over-utah-sent-an-urgent-artistic-message-the-great-salt-lake-is-drying-up-180988553/",
-      "summary": "Olafur Eliasson's latest installation married visuals with a soundscape to draw the public's attention to the plight of the important ecosystem",
-      "date": "Thu, 16 Apr 2026 13Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/j5ULy4brpRNGnKoMMzFX1S0QHJg=/420x240/filters:focal(1917x1278:1918x1279)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/43/f5/43f543b7-d37a-4a14-aaca-c59de8e3aaa8/a_symphony_of_disappearing_sounds_for_the_great_salt_lake_2026_1.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-16T15:02:45Z"
-    },
-    {
-      "title": "This tree is number one for cloud forest mammals going number two",
-      "link": "https://www.sciencenews.org/article/cloud-forest-mammals-poop-tree-hub",
-      "summary": "The strangler fig is a keystone species in the tropics, providing food and shelter, and a place to poop for 17 different mammal species.",
-      "date": "Thu, 16 Apr 2026 15Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/040926_BB_treetoppotties_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-16T15:02:47Z"
-    },
-    {
-      "title": "How to spot the Lyrid meteor shower tonight",
-      "link": "https://www.newscientist.com/article/2523230-how-to-spot-the-lyrid-meteor-shower-tonight/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "The Lyrid meteor shower will soon hit its peak. Here's how to spot it, including by using the New Scientist stargazing companion",
-      "date": "Thu, 16 Apr 2026 12Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/16110423/SEI_293361600.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-16T15:02:48Z"
-    },
-    {
-      "title": "Human sense of smell evolved with diets and lifestyle, genetic study suggests",
-      "link": "https://phys.org/news/2026-04-human-evolved-diets-lifestyle-genetic.html",
-      "summary": "From the ability to detect the smell of wet soil to the scent of ripe fruit, the human olfactory system has evolved over thousands of years in response to how people live and what ",
-      "date": "2026-04-16T15:00:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/sense-of-smell-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-16T15:02:49Z"
-    },
-    {
-      "title": "Managing risks when intervening to help coral reefs",
-      "link": "https://phys.org/news/2026-04-intervening-coral-reefs.html",
-      "summary": "A new tool to help scientists and reef managers consider the ecological risks of different coral reef interventions around the world has been developed by researchers from the Aust",
-      "date": "2026-04-16T15:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/managing-risks-when-in.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-16T15:02:49Z"
-    },
-    {
-      "title": "Polymer physics reveals DNA loops are formed by single molecular motors",
-      "link": "https://phys.org/news/2026-04-polymer-physics-reveals-dna-loops.html",
-      "summary": "Scientists from Skoltech and the University of Potsdam have developed a physical theory that sheds light on how molecular motors organize the three-dimensional structure of the gen",
-      "date": "2026-04-16T14:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/polymer-physics-reveal.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-16T15:02:49Z"
-    },
-    {
-      "title": "Tracing anglers in the Gulf Coast: New machine learning tools reveal when, where and how anglers fish",
-      "link": "https://phys.org/news/2026-04-tracinganglers-gulf-coast-machinelearning-tools.html",
-      "summary": "The Gulf Coast is recognized worldwide for its exceptional fishing opportunities, offering anglers a wide variety of species such as trout, red snapper, and grouper. Recreational f",
-      "date": "2026-04-16T14:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/angler.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-16T15:02:49Z"
-    },
-    {
-      "title": "Northern lights may be visible from several US states Friday and Saturday as giant hole opens up in sun's atmosphere",
-      "link": "https://www.livescience.com/space/the-sun/northern-lights-may-be-visible-from-several-us-states-friday-and-saturday-as-giant-hole-opens-up-in-suns-atmosphere",
-      "summary": "A large hole opened up in the sun's atmosphere this week, spewing high-speed solar winds that will paint northern lights displays across several U.S. states this weekend.",
-      "date": "Thu, 16 Apr 2026 14Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/nERaRfLTGSn5qrXMmV3mTi-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-16T15:02:50Z"
-    },
-    {
-      "title": "Demotivational Posters for Birds (XXVII)",
-      "link": "https://www.10000birds.com/demotivational-posters-for-birds-xxvii.htm?utm_source=rss&utm_medium=rss&utm_campaign=demotivational-posters-for-birds-xxvii",
-      "summary": "Recognition remains a popular topic, despite a consistent lack of lasting results. Many birds engage in displays that appear designed to attract attention. Some succeed, briefly. M",
-      "date": "Thu, 16 Apr 2026 11Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/03/Picture1-2.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-04-16T12:03:48Z"
-    },
-    {
-      "title": "Species Spotlight: The Verdin’s Desert World",
-      "link": "https://www.10000birds.com/species-spotlight-the-verdins-desert-world.htm?utm_source=rss&utm_medium=rss&utm_campaign=species-spotlight-the-verdins-desert-world",
-      "summary": "The Verdin is one of the smallest and most captivating songbirds of the American Southwest. They are resilient desert dwellers wrapped in soft gray feathers and crowned with a flas",
-      "date": "Thu, 16 Apr 2026 11Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/04/ND5_4955-Verdinwrkshr.jpg.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-04-16T12:03:48Z"
-    },
-    {
-      "title": "Ten Birds that bring good luck … supposedly.",
-      "link": "https://www.10000birds.com/ten-birds-that-bring-good-luck-supposedly.htm?utm_source=rss&utm_medium=rss&utm_campaign=ten-birds-that-bring-good-luck-supposedly",
-      "summary": "To be clear: birds do not bring luck or make your day better. Anyone who tells you a robin is lucky or a swallow brings fortune is just having fun with folklore … or you … or is be",
-      "date": "Thu, 16 Apr 2026 11Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/02/Common-Kingfisher_DSC7242-Paotaiwan-Nov-2016.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-04-16T12:03:48Z"
     }
   ]
 }
