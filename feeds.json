@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-23T22:59:28Z",
-  "updated_utc": "2026-04-23T22:59:28Z",
+  "updated": "2026-04-23T23:57:57Z",
+  "updated_utc": "2026-04-23T23:57:57Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Gear You Need To Ditch Your Car and Start Bike Commuting",
+      "link": "https://www.outsideonline.com/outdoor-gear/bikes-and-biking/bike-commuting-gear/",
+      "summary": "These 12 items will make your bike commute easier, safer, more comfortable, and more convenient. The post The Gear You Need To Ditch Your Car and Start Bike Commuting appeared firs",
+      "date": "Thu, 23 Apr 2026 23Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/BIKE_COMMUTE_h.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-23T23:57:45Z"
+    },
+    {
+      "title": "New bioreactor turns stem cells into an immune-cell factory, producing 40 million human macrophages per week",
+      "link": "https://phys.org/news/2026-04-bioreactor-stem-cells-immune-cell.html",
+      "summary": "Researchers at Hannover Medical School (MHH) have developed a method for the efficient production of human immune cells, such as macrophages, in medium-sized bioreactors. These imm",
+      "date": "2026-04-23T23:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cell-factory-for-the-i.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T23:57:53Z"
+    },
     {
       "title": "New Research Highlights 10 Peptides You Shouldn’t Be Using",
       "link": "https://www.outsideonline.com/health/training-performance/performance-peptides-safety-research/",
@@ -5480,28 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-04-16T19:26:20Z"
-    },
-    {
-      "title": "Meet Yuji, the Mexican baby monkey finding comfort in a plush companion",
-      "link": "https://www.mercurynews.com/2026/04/16/mexico-baby-monkey-yuji/",
-      "summary": "Yuji represents the most recent case of assisted rearing at the Guadalajara Zoo in Mexico.",
-      "date": "Thu, 16 Apr 2026 17Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/Mexico_Baby_Monkey_Yuji_72216-1.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-04-16T19:26:28Z"
-    },
-    {
-      "title": "Why Is a Cold War Bunker Buried Underneath This Medieval English Castle? In Case of Nuclear 'Armageddon'",
-      "link": "https://www.smithsonianmag.com/smart-news/why-is-a-cold-war-bunker-buried-underneath-this-medieval-english-castle-in-case-of-nuclear-armageddon-180988561/",
-      "summary": "Archaeologists uncovered a relic of the 20th-century conflict beneath Scarborough Castle, decades after the bunker was sealed and its exact location was forgotten",
-      "date": "Thu, 16 Apr 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/pbp3i6qo30PDWMKaoyGYd6rI0XE=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5b/32/5b32dcb5-8b51-458f-a8df-55d089643aa9/bunker.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-16T19:26:32Z"
     }
   ]
 }
