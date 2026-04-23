@@ -1,8 +1,129 @@
 {
-  "updated": "2026-04-23T19:24:30Z",
-  "updated_utc": "2026-04-23T19:24:30Z",
+  "updated": "2026-04-23T21:00:18Z",
+  "updated_utc": "2026-04-23T21:00:18Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A Mars Rover Found Building Blocks of Life Never Seen on the Red Planet Before, Boosting the Case for Ancient Habitability",
+      "link": "https://www.smithsonianmag.com/smart-news/a-mars-rover-found-building-blocks-of-life-never-seen-on-the-red-planet-before-boosting-the-case-for-ancient-habitability-180988610/",
+      "summary": "The organic molecules discovered by NASA’s Curiosity rover could have been formed by life, but they could have also come from geologic processes or meteorites",
+      "date": "Thu, 23 Apr 2026 20Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/pz8PP3Cc6IezbUAfSoAnTXbewME=/420x240/filters:focal(800x453:801x454)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6c/1b/6c1b6e38-1b30-41c0-a5ac-f8c6fcf1ca11/pia24173-1c-16.webp",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-23T21:00:11Z"
+    },
+    {
+      "title": "Gibraltar's Famous Monkeys Are Eating Dirt, Likely to Alleviate Stomach Aches From Munching on Tourists' Junk Food",
+      "link": "https://www.smithsonianmag.com/smart-news/gibraltars-famous-monkeys-are-eating-dirt-likely-to-alleviate-stomach-aches-from-munching-on-tourists-junk-food-180988606/",
+      "summary": "The British territory's Barbary macaques are the only wild monkeys in Europe. But many are consuming human snacks high in calories, sugar, salt and dairy, and low in fiber",
+      "date": "Thu, 23 Apr 2026 19Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/0mSsK5M80wx5rjGsUnknqHZLQuY=/420x240/filters:focal(1131x646:1132x647)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/14/1d/141d15d2-ed6a-4067-9b93-ab97ade0b4d1/monkeybiscuit-2261x1272.webp",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-23T21:00:11Z"
+    },
+    {
+      "title": "Largest-ever octopus was great white shark of invertebrate predators",
+      "link": "https://www.newscientist.com/article/2524049-largest-ever-octopus-was-great-white-shark-of-invertebrate-predators/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "During the Cretaceous, 19-metre-long predatory octopuses swam the seas, and evidence from their fossilised remains suggest they may have been highly intelligent hunters",
+      "date": "Thu, 23 Apr 2026 20Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/23105850/SEI_294157269.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-23T21:00:13Z"
+    },
+    {
+      "title": "Do you need to worry about Mythos, Anthropic's computer-hacking AI?",
+      "link": "https://www.newscientist.com/article/2524008-do-you-need-to-worry-about-mythos-anthropics-computer-hacking-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A powerful AI kept from public access because of its ability to hack computers with impunity is making headlines around the world. But what is Mythos, does it really represent a ri",
+      "date": "Thu, 23 Apr 2026 19Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/23154958/SEI_294329195.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-23T21:00:13Z"
+    },
+    {
+      "title": "AI model designs new antibiotic for staph infections after exploring 46 billion compounds",
+      "link": "https://phys.org/news/2026-04-ai-antibiotic-staph-infections-exploring.html",
+      "summary": "Researchers at McMaster University have developed a new generative artificial intelligence (AI) model capable of drastically speeding up drug discovery—and, in early tests, it has ",
+      "date": "2026-04-23T21:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-model-designs-new-a.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T21:00:15Z"
+    },
+    {
+      "title": "Room to move: Neutron scattering shows how proteins behave in crowded environments",
+      "link": "https://phys.org/news/2026-04-room-neutron-proteins-crowded-environments.html",
+      "summary": "Proteins are essential molecules in living systems. They move, interact and organize themselves to carry out a wide range of functions, from helping cells communicate to forming st",
+      "date": "2026-04-23T20:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/room-to-move-how-prote.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T21:00:15Z"
+    },
+    {
+      "title": "Rye mulch stabilizes vegetable yields—clover living mulch can significantly reduce yields",
+      "link": "https://phys.org/news/2026-04-rye-mulch-stabilizes-vegetable-yields.html",
+      "summary": "Results recently published in the journal Plant and Soil by the researchers of the Leibniz Institute of Vegetable and Ornamental Crops (IGZ) show that strip tillage combined with r",
+      "date": "2026-04-23T20:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rye-mulch-stabilises-v.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T21:00:15Z"
+    },
+    {
+      "title": "E. coli editing technique expands into a universal toolkit for rewriting bacterial DNA",
+      "link": "https://phys.org/news/2026-04-coli-technique-universal-toolkit-rewriting.html",
+      "summary": "The ability to precisely edit the genomes of bacteria has long been a goal of microbiologists. Such technology would enable scientists to make new inroads into studying disease, de",
+      "date": "2026-04-23T20:30:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-universal-toolkit-fo.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T21:00:15Z"
+    },
+    {
+      "title": "Tiny songbird crosses Sahara by flying night after night",
+      "link": "https://phys.org/news/2026-04-tiny-songbird-sahara-flying-night.html",
+      "summary": "Every year a small songbird, no heavier than a letter, crosses the Sahara Desert, the Mediterranean and the Arabian Desert on its migration. New research from Lund University in Sw",
+      "date": "2026-04-23T20:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/songbirds-extreme-dese.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T21:00:15Z"
+    },
+    {
+      "title": "Common soil fungus could cut pesticide use while helping tomatoes grow stronger",
+      "link": "https://phys.org/news/2026-04-common-soil-fungus-pesticide-tomatoes.html",
+      "summary": "Trichoderma species—a common fungus found in soils—have varying abilities to promote tomato plant growth and differentially affect the abundance of certain soil bacteria, according",
+      "date": "2026-04-23T20:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cherry-tomatoes-on-vin.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T21:00:15Z"
+    },
+    {
+      "title": "Why more gut and soil microbes could make ecosystems easier to predict",
+      "link": "https://phys.org/news/2026-04-gut-soil-microbes-ecosystems-easier.html",
+      "summary": "Much of the beauty—and challenge—of biology lies in its complexity. That's especially true in the microbial world, where hundreds or thousands of different bacterial species may co",
+      "date": "2026-04-23T19:50:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/finding-predictability.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-23T21:00:15Z"
+    },
     {
       "title": "Is This Black and White Bird a Leucistic Grackle?",
       "link": "https://www.birdsandblooms.com/birding/birding-basics/leucistic-common-grackle/",
@@ -5381,127 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-04-16T19:26:37Z"
-    },
-    {
-      "title": "Network Rail must restore swift nesting sites | Letter",
-      "link": "https://www.theguardian.com/environment/2026/apr/16/network-rail-must-restore-swift-nesting-sites",
-      "summary": "Sue Atkinson on how nesting sites of sand martins were blocked in Perthshire, similar to that of swifts at Chapel Milton viaduct in Derbyshire Your distressing article about the un",
-      "date": "2026-04-16T15:49:50Z",
-      "image": "https://i.guim.co.uk/img/media/8b05ac1a39c041c083eb3f2b74175b253a4c8784/894_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=bb71f946a6581be0748b853f8764dfda",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-16T17:23:33Z"
-    },
-    {
-      "title": "Millionaires fund last-ditch attempt to save humpback whale stranded in Germany",
-      "link": "https://www.theguardian.com/world/2026/apr/16/millionaires-fund-last-ditch-attempt-to-save-humpback-whale-stranded-in-germany",
-      "summary": "Critics say efforts to rescue the animal, nicknamed Tommy, unlikely to succeed and could lead to further harm A last-ditch effort to rescue a wayward whale that has transfixed Germ",
-      "date": "2026-04-16T15:37:41Z",
-      "image": "https://i.guim.co.uk/img/media/40d8ab8c6e09786d3c6dbc70646f4df23b268ada/273_0_3920_3136/master/3920.jpg?width=140&quality=85&auto=format&fit=max&s=b0a6bae4b78aca0f9ed332a01d774119",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-16T17:23:33Z"
-    },
-    {
-      "title": "First Look: Norco Sight VLT Bosch A",
-      "link": "https://www.outsideonline.com/outdoor-gear/bikes-and-biking/first-look-norco-sight-vlt-bosch-a/",
-      "summary": "Ready to get more from your e-bike? This full-powered eMTB delivers a premium ride at an accessible price. The post First Look: Norco Sight VLT Bosch A appeared first on Outside On",
-      "date": "Thu, 16 Apr 2026 15Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/Norco_featured_h-scaled.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-16T17:23:38Z"
-    },
-    {
-      "title": "Are 32-Inch Wheels the Next Big Thing in Biking?",
-      "link": "https://www.outsideonline.com/outdoor-gear/bikes-and-biking/32-inch-bike-wheels-trend/",
-      "summary": "Bigger off-road wheels are already showing up on mountain and gravel bikes—but are they here to stay? The post Are 32-Inch Wheels the Next Big Thing in Biking? appeared first on Ou",
-      "date": "Thu, 16 Apr 2026 15Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/Salsa-3222-Gravel-Bike-3_Courtesy.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-16T17:23:38Z"
-    },
-    {
-      "title": "Large Invasive Rodents Are Wreaking Havoc in California. New Research Suggests Someone Deliberately Introduced Them",
-      "link": "https://www.smithsonianmag.com/smart-news/large-invasive-rodents-are-wreaking-havoc-in-california-new-research-suggests-someone-deliberately-introduced-them-180988554/",
-      "summary": "Genetic testing revealed that nutria living in California since 2017 are most closely related to a population in central Oregon—too far for the creatures to have traveled on their ",
-      "date": "Thu, 16 Apr 2026 16Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/fVq91lyykwg17UYrvGp3ZTJP810=/420x240/filters:focal(2292x1714:2293x1715)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/38/f7/38f7f0dc-4998-44b1-9f9e-3cc6d8026303/nutria.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-16T17:23:40Z"
-    },
-    {
-      "title": "In the 1990s, a Dog Taught Kids About Shakespeare and Homer. A New Documentary Tells the Tale of 'Wishbone'—From His Backflips to His Historical Hats",
-      "link": "https://www.smithsonianmag.com/smart-news/in-the-1990s-a-dog-taught-kids-about-shakespeare-and-homer-a-new-documentary-tells-the-tale-of-wishbone-from-his-backflips-to-his-historical-hats-180988552/",
-      "summary": "The film reunites the human cast and crew who saw the potential of a Jack Russell terrier to bring classic literature to life on PBS",
-      "date": "Thu, 16 Apr 2026 15Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/dUdDPEpeYote2GqY4j3kiVe03xo=/420x240/filters:focal(1733x1188:1734x1189)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2a/57/2a571e79-668d-4d9f-9934-55e281ace849/wishbone-hero-chair.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-16T17:23:40Z"
-    },
-    {
-      "title": "A strange ‘neutrino force’ helped heal a crack in particle physics",
-      "link": "https://www.sciencenews.org/article/neutrino-force-particle-physics",
-      "summary": "A neglected force produced by neutrinos and other particles helps atomic physics measurements align with predictions of the standard model.",
-      "date": "Thu, 16 Apr 2026 17Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/041026_EC_neutrino_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-16T17:23:41Z"
-    },
-    {
-      "title": "A new measurement reveals gravity is still hard to pin down",
-      "link": "https://www.sciencenews.org/article/gravity-fundamental-constant-new-measurement",
-      "summary": "After a 10-year effort, physicists got a value for “Big G” that does not settle the debate over one of nature’s hardest numbers to nail down.",
-      "date": "Thu, 16 Apr 2026 16Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/041526_MJG_BigG_social.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-16T17:23:41Z"
-    },
-    {
-      "title": "Our dreams become more emotive and symbolic as we approach death",
-      "link": "https://www.newscientist.com/article/2523071-our-dreams-become-more-emotive-and-symbolic-as-we-approach-death/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Terminally ill people are commonly reunited with lost loved ones in their dreams and have visions of doors, stairways and light, which are said to help them accept the dying proces",
-      "date": "Thu, 16 Apr 2026 14Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/16103727/SEI_293258048.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-16T17:23:42Z"
-    },
-    {
-      "title": "Patagonia yields 155-million-year-old long-necked dinosaur with links to two famous lineages",
-      "link": "https://phys.org/news/2026-04-patagonia-yields-million-year-necked.html",
-      "summary": "A German–Argentine team of paleontologists led by SNSB dinosaur expert Oliver Rauhut has discovered a new long-necked dinosaur, Bicharracosaurus dionidei, from the Upper Jurassic p",
-      "date": "2026-04-16T16:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/palaeontologists-disco.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-16T17:23:43Z"
-    },
-    {
-      "title": "Tomato industry taking steps to stop spread of parasitic weed",
-      "link": "https://phys.org/news/2026-04-tomato-industry-parasitic-weed.html",
-      "summary": "California's processing tomato industry for the first time this past harvest season, agreed to voluntary equipment cleaning and notification guidelines to prevent the spread of bra",
-      "date": "2026-04-16T15:20:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tomato-industry-taking.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-16T17:23:43Z"
     }
   ]
 }
