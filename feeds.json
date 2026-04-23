@@ -1,8 +1,85 @@
 {
-  "updated": "2026-04-23T08:58:18Z",
-  "updated_utc": "2026-04-23T08:58:18Z",
+  "updated": "2026-04-23T10:41:55Z",
+  "updated_utc": "2026-04-23T10:41:55Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Friends in Low Places",
+      "link": "https://www.10000birds.com/friends-in-low-places.htm?utm_source=rss&utm_medium=rss&utm_campaign=friends-in-low-places",
+      "summary": "In the waning days of March, my wife and I drove downhill from Morelia to the coastal town of Ixtapa. Ixtapa is a tourist town created by the Mexican government back in the 1970s, ",
+      "date": "Thu, 23 Apr 2026 10Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/04/Roseate-Spoonbill-1.jpeg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-04-23T10:41:34Z"
+    },
+    {
+      "title": "Sedums Are National Garden Bureau’s 2026 Perennial Plant of the Year",
+      "link": "https://www.birdsandblooms.com/gardening/gardening-basics/perennial-plant-of-the-year/",
+      "summary": "Sedums are beloved by gardeners and they're National Garden Bureau's 2026 Perennial Plant of the Year! Here's why you should grow sedums. The post Sedums Are National Garden Bureau",
+      "date": "Tue, 07 Apr 2026 15Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/04/249915120_1_Debbie_Wright_BNB_BYPC2020-1-e1775490915332.jpeg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-04-23T10:41:36Z"
+    },
+    {
+      "title": "Dippy the injured axolotl rescued from Welsh river",
+      "link": "https://www.theguardian.com/uk-news/2026/apr/23/dippy-injured-axolotl-welsh-river-tiktok",
+      "summary": "Family found creature under a bridge and are documenting its recovery in a fish tank on TikTok An injured axolotl is on the road to recovery after being rescued from a river in Wal",
+      "date": "2026-04-23T09:53:31Z",
+      "image": "https://i.guim.co.uk/img/media/5e993f3c5e6e46ef962a613bc1889dca864afe9a/592_317_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=b322a679f89de9ab1f400c5beeb2bd76",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-23T10:41:40Z"
+    },
+    {
+      "title": "Bonobos enjoy pretend tea parties and chimps think rationally: why apes are more like us than we ever thought",
+      "link": "https://www.theguardian.com/environment/2026/apr/23/apes-behaviour-bonobo-chimpanzee-humans-science-aoe",
+      "summary": "A series of stunning findings about great apes’ mental capabilities in recent years has transformed how we see our closest relatives Clear plastic cups and pitchers adorned the woo",
+      "date": "2026-04-23T09:00:06Z",
+      "image": "https://i.guim.co.uk/img/media/030fe5fb84dbcb24cf4fc62d53d419d499cbfc91/0_221_1536_1229/master/1536.jpg?width=140&quality=85&auto=format&fit=max&s=2f7d055ffb2cd1e5a1aa920845aa8500",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-23T10:41:40Z"
+    },
+    {
+      "title": "How many dachshunds would it take to get to the moon?",
+      "link": "https://www.newscientist.com/article/mg27035922-500-how-many-dachshunds-would-it-take-to-get-to-the-moon/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Feedback, always on the hunt for absurd units of measurement, is delighted by recent attempts to convey the 406,771 kilometres that the Artemis II crew travelled from Earth",
+      "date": "2026-04-22T18:00:00Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/21135535/SEI_294046430.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-23T10:41:50Z"
+    },
+    {
+      "title": "Can you slow ageing with your diet? A new book gives it a go",
+      "link": "https://www.newscientist.com/article/mg27035920-200-can-you-slow-ageing-with-your-diet-a-new-book-gives-it-a-go/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Discovering he is getting old before his time, David Cox tries to lower his biological age by changing his diet in a helpful new book, The Age Code, says Graham Lawton",
+      "date": "2026-04-22T18:00:00Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/20113603/SEI_293122774.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-23T10:41:50Z"
+    },
+    {
+      "title": "Meet AGI CPU — a specialist processor that engineers believe will power the next wave of AI",
+      "link": "https://www.livescience.com/technology/artificial-intelligence/meet-the-agi-cpu-arms-first-processor-designed-to-power-agentic-ai",
+      "summary": "Arm’s new chip could be a powerful but efficient conductor for real-world use of agentic AIs.",
+      "date": "Thu, 23 Apr 2026 09Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/KuwA8GtKdSstZHoVyQF7qV-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-23T10:41:53Z"
+    },
     {
       "title": "Here’s how to see the Lunar X and V at 1st-quarter moon",
       "link": "https://earthsky.org/astronomy-essentials/what-is-lunar-x/",
@@ -5425,83 +5502,6 @@
       "category": "insects",
       "color": 15,
       "fetched_at": "2026-04-15T21:58:25Z"
-    },
-    {
-      "title": "Photometrics AI Integrates Data from Bird Migration Forecasts to Automatically Dim Streetlights to Protect Birds",
-      "link": "https://www.birds.cornell.edu/home/photometrics-ai-uses-bird-data-to-adjust-streetlights/",
-      "summary": "New lighting system uses BirdCast data to enable real-time lighting adjustments during peak migration periods to reduce bird collisions with buildings.",
-      "date": "Tue, 10 Feb 2026 19Z",
-      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-04-15T21:58:25Z"
-    },
-    {
-      "title": "Scientists Just Mapped the Family Tree of 11,000+ Bird Species—And You Can Explore It",
-      "link": "https://www.birds.cornell.edu/home/scientists-map-interactive-avian-tree-of-life/",
-      "summary": "The new illustrated Birds of the World Phylogeny Explorer by the Cornell Lab of Ornithology lets users trace any bird's lineage, compare species relationships, and explore major ev",
-      "date": "2026-01-28T14:39:09Z",
-      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-04-15T21:58:25Z"
-    },
-    {
-      "title": "Lark Bunting Bird Species Identification",
-      "link": "https://www.birdsandblooms.com/birding/bird-species/sparrows/lark-bunting/",
-      "summary": "Lark buntings are a striking, easy-to-spot bird of the prairies. Learn what a lark bunting looks and sounds like, and what the bird eats. The post Lark Bunting Bird Species Identif",
-      "date": "Tue, 31 Mar 2026 15Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/03/GettyImages-2256319558-e1774970294989.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-04-15T20:06:32Z"
-    },
-    {
-      "title": "The Best Trail Shoes for Spring and Summer Running (2026)",
-      "link": "https://www.outsideonline.com/outdoor-gear/run/best-trail-running-shoes/",
-      "summary": "From versatile road-to-trail cruisers to speedy, agile racers, we found the best trail running shoes for every runner and terrain. The post The Best Trail Shoes for Spring and Summ",
-      "date": "2026-04-15T18:06:03Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/trail_shoes_S2026_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-15T20:06:42Z"
-    },
-    {
-      "title": "Requests for blood from unvaccinated donors is harming patients",
-      "link": "https://www.newscientist.com/article/2523157-requests-for-blood-from-unvaccinated-donors-is-harming-patients/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Patients are requesting that blood transfusions come from people who they know have not been vaccinated against covid-19, which can cause dangerous delays",
-      "date": "2026-04-15T18:24:25Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/15162217/SEI_293145102.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-15T20:06:50Z"
-    },
-    {
-      "title": "Monkeys walk around a virtual world using only their thoughts",
-      "link": "https://www.newscientist.com/article/2522956-monkeys-walk-around-a-virtual-world-using-only-their-thoughts/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Monkeys with around 300 electrodes implanted in their brain were able to steer avatars around different virtual environments",
-      "date": "2026-04-15T18:00:42Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/15161019/SEI_293256504.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-15T20:06:50Z"
-    },
-    {
-      "title": "Largest ever map of universe captures 47 million galaxies and quasars",
-      "link": "https://www.newscientist.com/article/2520008-largest-ever-map-of-universe-captures-47-million-galaxies-and-quasars/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "The Dark Energy Spectroscopic Instrument (DESI) has finished the most detailed survey of the universe to date, and the resulting map will help researchers understand an apparent we",
-      "date": "2026-04-15T16:00:45Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/24124507/SEI_290738755.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-15T20:06:50Z"
     }
   ]
 }
