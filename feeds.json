@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-24T03:42:15Z",
-  "updated_utc": "2026-04-24T03:42:15Z",
+  "updated": "2026-04-24T06:16:23Z",
+  "updated_utc": "2026-04-24T06:16:23Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: The quiet vitality of a well-managed churchyard | Phil Gates",
+      "link": "https://www.theguardian.com/environment/2026/apr/24/country-diary-the-quiet-vitality-of-a-well-managed-churchyard",
+      "summary": "Brancepeth, County Durham: It’s nearly 30 years since St Brandon’s was devastated by fire. Today, both inside and out, it is full of light and life “Please close the door. It conse",
+      "date": "2026-04-24T04:30:30Z",
+      "image": "https://i.guim.co.uk/img/media/ab1b60c649ce9deb10e35d3af3b560aab5994d12/49_0_1462_1169/master/1462.jpg?width=140&quality=85&auto=format&fit=max&s=730075c59847db474942dffdbbef09ea",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-24T06:16:08Z"
+    },
     {
       "title": "Ultra-faint dwarf galaxies show state of the early universe",
       "link": "https://earthsky.org/space/ultra-faint-dwarf-galaxies-early-universe/",
@@ -5487,17 +5498,6 @@
       "summary": "Fish living downstream of wastewater treatment plants are accumulating antidepressants, opioids and other drugs of abuse in their bodies, according to a new study. Using a new anal",
       "date": "2026-04-16T20:00:07Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/opioids-and-other-drug.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-16T20:58:17Z"
-    },
-    {
-      "title": "Baby Neanderthals may have had a rapid growth spurt compared to modern babies",
-      "link": "https://phys.org/news/2026-04-baby-neanderthals-rapid-growth-spurt.html",
-      "summary": "Baby Neanderthals may have been much larger and grown much more quickly than their modern Homo sapiens counterparts, according to a new study of the most intact Neanderthal infant ",
-      "date": "2026-04-16T19:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/baby-neanderthals-may.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
