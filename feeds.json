@@ -1,8 +1,118 @@
 {
-  "updated": "2026-04-24T15:17:05Z",
-  "updated_utc": "2026-04-24T15:17:05Z",
+  "updated": "2026-04-24T17:07:22Z",
+  "updated_utc": "2026-04-24T17:07:22Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Storks in London – you can’t be serious!",
+      "link": "https://www.10000birds.com/storks-in-london-you-cant-be-serious.htm?utm_source=rss&utm_medium=rss&utm_campaign=storks-in-london-you-cant-be-serious",
+      "summary": "White Storks are the poster birds for reintroductions",
+      "date": "2026-04-24T15:59:00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/04/P9140217.jpeg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-04-24T17:07:01Z"
+    },
+    {
+      "title": "Man found guilty over birds of prey dumped outside Hampshire village shop",
+      "link": "https://www.theguardian.com/uk-news/2026/apr/24/man-found-guilty-after-dumping-50-dead-hares-outside-hampshire-village-shop",
+      "summary": "James Kempster’s DNA was found on dead barn owl and kestrel rammed into door handles of volunteer store A man has been found guilty of possessing the bodies of wild birds of prey t",
+      "date": "2026-04-24T17:05:15Z",
+      "image": "https://i.guim.co.uk/img/media/3c32c9e538c3140eb3f08f36a4adcd55ece464f7/0_157_2717_2172/master/2717.jpg?width=140&quality=85&auto=format&fit=max&s=e33a6ed8926ffb74b0757419aac4965b",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-24T17:07:06Z"
+    },
+    {
+      "title": "The Canoe in the Forest",
+      "link": "https://hakaimagazine.com/features/the-canoe-in-the-forest/",
+      "summary": "When I first see the canoe, in May, it takes a moment to distinguish the long, shapely slab of cedar from the patch of earth that has spent more than a century trying to reclaim it",
+      "date": "Thu, 19 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-haida-canoe.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-04-24T17:07:09Z"
+    },
+    {
+      "title": "What’s Next for Deep-Sea Mining?",
+      "link": "https://hakaimagazine.com/news/whats-next-for-deep-sea-mining/",
+      "summary": "Earlier this year, Leticia Carvalho, a Brazilian oceanographer and environmental policy expert, took the helm of the International Seabed Authority (ISA) as secretary general. The ",
+      "date": "2024-12-18T08:01:59Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-deep-sea-mining-1.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-04-24T17:07:09Z"
+    },
+    {
+      "title": "Butterflies Are in Dramatic Decline Across North America. A Close Look at the Western Monarch Shows Why",
+      "link": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
+      "summary": "Pesticides, habitat loss and climate change have taken their toll on the beloved insects. But the experts working with them still find hope for their future",
+      "date": "2026-04-24T15:42:27Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/-24-n29RwTeSdCjECgpJNEpUVzU=/420x240/filters:focal(2784x1856:2785x1857)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f0/cc/f0cccc48-0697-4243-89b0-1e93aa195dc2/dsc_0152.jpg",
+      "name": "Smithsonian",
+      "category": "butterflies",
+      "color": 10,
+      "fetched_at": "2026-04-24T17:07:15Z"
+    },
+    {
+      "title": "The earliest evidence of the first stars may lie in a distant gas clump",
+      "link": "https://www.sciencenews.org/article/first-stars-earliest-evidence-universe",
+      "summary": "James Webb data reveal pristine gas irradiated by energetic light some 450 million years after the Big Bang — a sign it may house primordial stars.",
+      "date": "2026-04-24T17:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/042126_MJG_stars_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-04-24T17:07:16Z"
+    },
+    {
+      "title": "Symptoms of early dementia reversed by bespoke treatment plans",
+      "link": "https://www.newscientist.com/article/2524198-symptoms-of-early-dementia-reversed-by-bespoke-treatment-plans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "People with cognitive decline or early-stage dementia saw their symptoms improve when given bespoke treatment plans that targeted their personal nutritional deficiencies, ongoing i",
+      "date": "2026-04-24T12:33:58Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/24125411/SEI_2944460911.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-24T17:07:17Z"
+    },
+    {
+      "title": "Amazon recovery masks diversity loss as fires, droughts and windstorms reshape forest edges",
+      "link": "https://phys.org/news/2026-04-amazon-recovery-masks-diversity-loss.html",
+      "summary": "Even after fires, severe droughts, and windstorms, the vegetation in degraded Amazonian forests demonstrates a high capacity for regeneration, including tree species. However, reco",
+      "date": "2026-04-24T15:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fires-droughts-and-win.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-24T17:07:18Z"
+    },
+    {
+      "title": "'Brain-eating' amoebas are nearly always fatal. New treatments may change that.",
+      "link": "https://www.livescience.com/health/viruses-infections-disease/brain-eating-amoebas-are-nearly-always-fatal-new-treatments-may-change-that",
+      "summary": "Doctors are pulling out new techniques and drugs in an effort to cure devastating brain infections.",
+      "date": "2026-04-24T16:01:28Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/U9Vuh3K746SGpu6vifPerc-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-24T17:07:20Z"
+    },
+    {
+      "title": "Thríhnúkagígur: The only volcano on Earth where you can descend into a magma chamber",
+      "link": "https://www.livescience.com/planet-earth/geology/thrihnukagigur-the-only-volcano-on-earth-where-you-can-descend-into-a-magma-chamber",
+      "summary": "Thríhnúkagígur is a volcano near Reykjavík in Iceland with an empty magma chamber decorated with vivid colors that scientists and tourists can access via an open cable elevator.",
+      "date": "2026-04-24T15:36:23Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/KjaomUJVyo7dxFNWBhAmYj-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-24T17:07:20Z"
+    },
     {
       "title": "Sun news: Surprise! The sun blasts 2 X flares!",
       "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
@@ -5392,116 +5502,6 @@
       "category": "birds",
       "color": 4,
       "fetched_at": "2026-04-17T15:02:52Z"
-    },
-    {
-      "title": "40 Types of Rabbit-Resistant Plants You Can Grow (2026)",
-      "link": "https://birdwatchinghq.com/rabbit-resistant-plants/",
-      "summary": "“Where did all my flowers go?!” I’ve asked myself this question more than once, and usually, the answer can be summed up with one word -> rabbits! These creatures are adorable but ",
-      "date": "2024-04-24T19:32:31Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2020/06/rabbits-eating-clover.jpg",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-04-17T15:02:52Z"
-    },
-    {
-      "title": "Scientists dig broad-shelled turtles stuck under mud in dried up wetlands – video",
-      "link": "https://www.theguardian.com/environment/video/2026/apr/18/scientists-dig-broad-shelled-turtles-stuck-under-mud-in-dried-up-wetlands-video",
-      "summary": "Footage supplied by the office of the Greens legislative council member Cate Faehrmann shows scientists digging to reach broad-shelled turtles stuck under boggy mud in the Gingham ",
-      "date": "2026-04-17T15:00:48Z",
-      "image": "https://i.guim.co.uk/img/media/9242502015ed0f19dd8e41da8dce9e6331dba713/0_800_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=7de97272034c615c894e8be759d56c89",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-17T15:02:54Z"
-    },
-    {
-      "title": "So Long, and Thanks for All the Fish",
-      "link": "https://hakaimagazine.com/article-short/so-long-and-thanks-for-all-the-fish/",
-      "summary": "We started Hakai Magazine over 10 years ago because the ocean and its coastlines needed a voice. No other outlet was exclusively covering issues at the interface of sea and land—or",
-      "date": "2024-12-27T08:05:43Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-so-long-and-thanks-for-all-the-fish.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-04-17T15:02:57Z"
-    },
-    {
-      "title": "The First First Responders",
-      "link": "https://hakaimagazine.com/features/the-first-first-responders/",
-      "summary": "When a ship wrecks on an unfamiliar coastline, an already desperate situation is all the more dire. Blinded by the night, and lost, the captain and crew of the Puritan, a four-mast",
-      "date": "Tue, 24 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-first-first-responder.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-04-17T15:02:57Z"
-    },
-    {
-      "title": "A Bountiful Berry Harvest Put These Chunky, Endangered Parrots in the Mood. Now, Scientists Are Celebrating a Breeding Bonanza",
-      "link": "https://www.smithsonianmag.com/smart-news/a-bountiful-berry-harvest-put-these-chunky-endangered-parrots-in-the-mood-now-scientists-are-celebrating-a-breeding-bonanza-180988510/",
-      "summary": "New Zealand's kakapo have laid 256 eggs, and around 100 of them have hatched, providing a bright spot in a decades-long conservation effort. The official chick count won't be confi",
-      "date": "2026-04-17T14:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/iHS5J9Lxh4FY2pg4pQkxtmBfHdI=/420x240/filters:focal(1620x1080:1621x1081)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/78/7e/787e3bc4-594a-407f-9310-9ab8e4bd8af3/2601_sinbad_on_whenua_hou_2.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-17T15:03:02Z"
-    },
-    {
-      "title": "Key gene enables tomato seed germination under high-temperature conditions",
-      "link": "https://phys.org/news/2026-04-key-gene-enables-tomato-seed.html",
-      "summary": "Researchers at University of Tsukuba have demonstrated that tomato mutants lacking the SlIAA9 gene, an auxin signaling repressor involved in the regulation of seed germination, not",
-      "date": "2026-04-17T15:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/identification-of-a-ke.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-17T15:03:06Z"
-    },
-    {
-      "title": "Saving coral reefs will require ruthless selection over generations to beat future heat waves",
-      "link": "https://phys.org/news/2026-04-coral-reefs-require-ruthless-generations.html",
-      "summary": "Assisted evolution could help corals survive future heat waves, but careful trait choice and strong repeated selection will be needed for it to be effective. As global temperatures",
-      "date": "2026-04-17T15:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/helping-corals-survive.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-17T15:03:06Z"
-    },
-    {
-      "title": "As modern crops turn 'lazy' underground, old sorghum may hold key to future food security",
-      "link": "https://phys.org/news/2026-04-modern-crops-lazy-underground-sorghum.html",
-      "summary": "A greater focus on roots during plant breeding could ensure staple grain crops continue to feed the world as recycled nutrients substitute conventional fertilizers in the future, a",
-      "date": "2026-04-17T14:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/future-food-needs-new.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-17T15:03:06Z"
-    },
-    {
-      "title": "Coral reefs are nearing extinction. 2026 must mark a turning point | Jason Momoa",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/17/coral-reefs-extinction-global-warming-jason-momoa",
-      "summary": "At 1.5C of global warming, up to 90% of coral reefs could be lost. The next few months could be a defining moment Where I come from – Hawai’i – the reef isn’t just something you lo",
-      "date": "2026-04-17T12:00:44Z",
-      "image": "https://i.guim.co.uk/img/media/5f5f8faf2a26617d310e3bf787b42e90c2997b99/294_0_2913_2331/master/2913.jpg?width=140&quality=85&auto=format&fit=max&s=896d0e23dd4aae22d7318845c9facf01",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-17T13:52:25Z"
-    },
-    {
-      "title": "How, Exactly, Could Deep-Sea Mining Benefit All of Humanity?",
-      "link": "https://hakaimagazine.com/news/how-exactly-could-deep-sea-mining-benefit-all-of-humanity/",
-      "summary": "When Arvid Pardo, a Maltese diplomat, took the floor at the United Nations General Assembly in New York in 1967 and began speaking at length on international law, the room was spar",
-      "date": "2024-12-20T08:01:54Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-benefit-of-humanity.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-04-17T13:52:28Z"
     }
   ]
 }
