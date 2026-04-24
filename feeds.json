@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-23T23:57:57Z",
-  "updated_utc": "2026-04-23T23:57:57Z",
+  "updated": "2026-04-24T03:42:15Z",
+  "updated_utc": "2026-04-24T03:42:15Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Ultra-faint dwarf galaxies show state of the early universe",
+      "link": "https://earthsky.org/space/ultra-faint-dwarf-galaxies-early-universe/",
+      "summary": "Ultra-faint dwarf galaxies preserve clues to early-universe conditions, acting as cosmic fossils. Simulations show whether they formed stars or stayed dark. The post Ultra-faint dw",
+      "date": "2026-04-24T00:15:56Z",
+      "image": "https://earthsky.org/upl/2026/04/dwarf_galaxies-RAS-e1776952083903.png",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-04-24T03:42:01Z"
+    },
+    {
+      "title": "Meet Yuji, the Mexican baby monkey finding comfort in a plush companion",
+      "link": "https://www.mercurynews.com/2026/04/16/mexico-baby-monkey-yuji/",
+      "summary": "Yuji represents the most recent case of assisted rearing at the Guadalajara Zoo in Mexico.",
+      "date": "Thu, 16 Apr 2026 17Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/Mexico_Baby_Monkey_Yuji_72216-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-24T03:42:05Z"
+    },
     {
       "title": "The Gear You Need To Ditch Your Car and Start Bike Commuting",
       "link": "https://www.outsideonline.com/outdoor-gear/bikes-and-biking/bike-commuting-gear/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-16T20:58:17Z"
-    },
-    {
-      "title": "Anglo-Saxon burial holds an older sister cradling her little brother after they both died 1,400 years ago, possibly of an infectious disease",
-      "link": "https://www.livescience.com/archaeology/anglo-saxon-burial-holds-an-older-sister-cradling-her-little-brother-after-they-both-died-1-400-years-ago-possibly-of-an-infectious-disease",
-      "summary": "An ancient-DNA analysis of a rare Anglo-Saxon double burial revealed the people in the grave were brother and sister.",
-      "date": "Thu, 16 Apr 2026 20Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/qCFZXF7Ni7YRZPh5bEffrj-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-16T20:58:19Z"
-    },
-    {
-      "title": "The Ultimate Petunia Flower Growing Guide",
-      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/petunia-flower/",
-      "summary": "Sun-loving petunia flowers are easy to grow and fill your containers with vibrant color. Here's what you should know about petunias. The post The Ultimate Petunia Flower Growing Gu",
-      "date": "Thu, 16 Apr 2026 19Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/04/Ball_PETUNIA-VEGETATIVE-SWEETSUNSHINE-MAGENTA-SKY_Bloom_Bloom-e1776361649890.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-04-16T19:26:20Z"
     }
   ]
 }
