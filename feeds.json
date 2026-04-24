@@ -1,8 +1,41 @@
 {
-  "updated": "2026-04-24T06:16:23Z",
-  "updated_utc": "2026-04-24T06:16:23Z",
+  "updated": "2026-04-24T09:05:48Z",
+  "updated_utc": "2026-04-24T09:05:48Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Week in wildlife: a tiny harvest mouse, bagel cats and a rhino out for a stroll",
+      "link": "https://www.theguardian.com/environment/gallery/2026/apr/24/week-in-wildlife-a-tiny-harvest-mouse-bagel-cats-and-a-rhino-out-for-a-stroll",
+      "summary": "This week’s best wildlife photographs from around the world Continue reading...",
+      "date": "2026-04-24T07:00:33Z",
+      "image": "https://i.guim.co.uk/img/media/a0f2b20b5c571652902a7f639fb702ad6b62004b/473_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=de04b14fac54f3f19f401b5aee3121e0",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-24T09:05:21Z"
+    },
+    {
+      "title": "Join the worldwide 2026 City Nature Challenge this weekend!",
+      "link": "https://earthsky.org/earth/worldwide-city-nature-challenge/",
+      "summary": "This weekend, April 24-27, 2026, join the global City Nature Challenge and record the biosphere in your neighborhood to help track real-time change. The post Join the worldwide 202",
+      "date": "2026-04-24T08:00:37Z",
+      "image": "https://earthsky.org/upl/2024/04/Man-taking-picture-of-flower-from-pexels-credit-fauxels-scaled-e1714164626670.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-04-24T09:05:22Z"
+    },
+    {
+      "title": "A third of animal habitats on land could experience multiple extreme events by 2085, new study suggests",
+      "link": "https://phys.org/news/2026-04-animal-habitats-multiple-extreme-events.html",
+      "summary": "By 2085, 36% of species' current habitats on land could be exposed to multiple types of climate-driven extreme events such as heat waves, fire or floods if warming continues to ris",
+      "date": "2026-04-24T09:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/kangaroos-jumping.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-24T09:05:40Z"
+    },
     {
       "title": "Country diary: The quiet vitality of a well-managed churchyard | Phil Gates",
       "link": "https://www.theguardian.com/environment/2026/apr/24/country-diary-the-quiet-vitality-of-a-well-managed-churchyard",
@@ -5464,39 +5497,6 @@
       "link": "https://phys.org/news/2026-04-wild-canadian-freshwater-fish-reveal.html",
       "summary": "Fish living downstream of wastewater treatment plants are accumulating antidepressants, opioids and other drugs of abuse in their bodies, according to a new study. Using a new anal",
       "date": "2026-04-16T20:40:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/opioids-and-other-drug.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-16T20:58:17Z"
-    },
-    {
-      "title": "Sex pheromone of a sandgrain-sized insect deciphered",
-      "link": "https://phys.org/news/2026-04-sex-pheromone-sandgrain-sized-insect.html",
-      "summary": "Parasitic wasps of the genus Trichogramma are among the smallest insects in the world—yet they play an important role in natural ecosystems and agricultural landscapes as natural a",
-      "date": "2026-04-16T20:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sex-pheromone-of-a-san.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-16T20:58:17Z"
-    },
-    {
-      "title": "Bird and tortoise fossil tracks on South Africa's coast: Latest findings are world firsts",
-      "link": "https://phys.org/news/2026-04-bird-tortoise-fossil-tracks-south.html",
-      "summary": "The south coast of South Africa's Western Cape province is a rich source of fossil tracks and traces—clues suggesting what this environment may have been like many thousands of yea",
-      "date": "2026-04-16T20:00:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bird-and-tortoise-foss.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-16T20:58:17Z"
-    },
-    {
-      "title": "Opioids and other drugs accumulating in freshwater fish",
-      "link": "https://phys.org/news/2026-04-opioids-drugs-accumulating-freshwater-fish.html",
-      "summary": "Fish living downstream of wastewater treatment plants are accumulating antidepressants, opioids and other drugs of abuse in their bodies, according to a new study. Using a new anal",
-      "date": "2026-04-16T20:00:07Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/opioids-and-other-drug.jpg",
       "name": "Phys.org",
       "category": "insects",
