@@ -1,8 +1,63 @@
 {
-  "updated": "2026-04-25T10:53:06Z",
-  "updated_utc": "2026-04-25T10:53:06Z",
+  "updated": "2026-04-25T11:44:53Z",
+  "updated_utc": "2026-04-25T11:44:53Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Blauw",
+      "link": "https://www.10000birds.com/blauw.htm?utm_source=rss&utm_medium=rss&utm_campaign=blauw",
+      "summary": "With this post’s title I fully understand that you are only sticking around to understand what the featured Bluethroat is all about. But for the linguistically gifted it is already",
+      "date": "2026-04-25T11:00:46Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/03/Bluethroat_DSC5754_Nanhui_Apr-23-2021.jpg-scaled.jpeg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-04-25T11:44:32Z"
+    },
+    {
+      "title": "Birding Arizona–style",
+      "link": "https://www.10000birds.com/birding-arizona-style-2.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-arizona-style-2",
+      "summary": "This post is republished in our “From the Archives” series, featuring highlights of our vast back catalogue of more than 10,000 birding-related posts published over the last 15 yea",
+      "date": "2026-04-25T11:00:00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/Elegant-Trogon-2-by-Michael-Todd-e1535733898737.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-04-25T11:44:32Z"
+    },
+    {
+      "title": "California’s wildlife bridge became a target for the right. Now it’s eyeing the finish line",
+      "link": "https://www.theguardian.com/us-news/2026/apr/25/california-wildlife-crossing-construction",
+      "summary": "Unhindered by critics who called the $114m project ‘a bridge to nowhere’, a gigantic bridge allowing animals to cross a busy freeway is close to completion Atop a gigantic wildlife",
+      "date": "2026-04-25T11:00:44Z",
+      "image": "https://i.guim.co.uk/img/media/058146db99bd6335e5f17a313a772d166fd67f0d/1242_0_5449_4362/master/5449.jpg?width=140&quality=85&auto=format&fit=max&s=e369113e45ce16a9a6e5a4b6798c96b8",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-25T11:44:37Z"
+    },
+    {
+      "title": "More than half of 480 ducks rescued from California sanctuary went to a livestock company",
+      "link": "https://www.mercurynews.com/2026/04/25/more-than-half-of-480-ducks-rescued-from-anza-sanctuary-went-to-a-livestock-company/",
+      "summary": "The Riverside County Department of Animal Services is under fire from animal activists for its handling of nearly 500 ducks surrendered last week by an animal rescue in Anza.",
+      "date": "2026-04-25T11:00:06Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/RPE-L-DUCKS2-0415.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-04-25T11:44:42Z"
+    },
+    {
+      "title": "Science news this week: Atlantic current edges closer to collapse, scientists make artificial-neuron breakthrough, and a copy of the \"Iliad\" is found inside an Egyptian mummy",
+      "link": "https://www.livescience.com/space/science-news-this-week-atlantic-current-edges-closer-to-collapse-scientists-make-artificial-neuron-breakthrough-and-a-copy-of-the-iliad-is-found-inside-an-egyptian-mummy",
+      "summary": "April 25, 2026: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend",
+      "date": "2026-04-25T11:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/jPsozJmzhHgyLsooPCi9AD-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-25T11:44:50Z"
+    },
     {
       "title": "Young country diary: A close call with a black adder | Orla",
       "link": "https://www.theguardian.com/environment/2026/apr/25/young-country-diary-a-close-call-with-a-black-adder",
@@ -5447,61 +5502,6 @@
       "category": "butterflies",
       "color": 13,
       "fetched_at": "2026-04-18T11:40:59Z"
-    },
-    {
-      "title": "Science news this week: Physicists witness faster-than-light darkness pinpricks, humans are still evolving, and some polar bears are getting fatter than ever",
-      "link": "https://www.livescience.com/space/science-news-this-week-physicists-witness-faster-than-light-darkness-pinpricks-humans-found-to-still-be-evolving-and-the-endanered-polar-bears-that-are-getting-fatter-than-ever",
-      "summary": "April 18, 2026: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend",
-      "date": "2026-04-18T11:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/7usLS9NEtwQKFienEciP9J-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-18T11:41:00Z"
-    },
-    {
-      "title": "A prickle of hedgehogs and an armada of newts: wildlife settles in at London’s new Queen Elizabeth garden",
-      "link": "https://www.theguardian.com/environment/2026/apr/18/a-prickle-of-hedgehogs-and-an-armada-of-newts-wildlife-settles-in-at-londons-new-queen-elizabeth-garden",
-      "summary": "A former horticultural nursery in Regent’s Park has been transformed into a diverse mix of habitats, with a wide range of species already spotted ahead of its opening to the public",
-      "date": "2026-04-18T10:00:11Z",
-      "image": "https://i.guim.co.uk/img/media/99174ec34abf14b7be97bccf394a5956403b020c/908_0_6157_4928/master/6157.jpg?width=140&quality=85&auto=format&fit=max&s=47deaf1c736c1e61b309a5bc424de1d7",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-18T10:53:45Z"
-    },
-    {
-      "title": "Werner Herzog searches for ghost elephants in stunning new documentary",
-      "link": "https://www.newscientist.com/article/2522722-werner-herzog-searches-for-ghost-elephants-in-stunning-new-documentary/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A film about the quest for “ghost elephants” is as much about not knowing and asking the right questions as about exploration, finds Davide Abbatescianni",
-      "date": "2026-04-15T18:00:19Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/10123922/SEI_291809775.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-18T10:53:56Z"
-    },
-    {
-      "title": "I Tested Allergy Supplements for a Whole Month. These Are the Ones That Helped Me Survive My Outdoor Runs.",
-      "link": "https://www.outsideonline.com/health/wellness/allergy-supplements-outdoor-running/",
-      "summary": "While I can’t avoid the pollen dusting the trails I run on, I’ve found that I can breathe a little easier when I’m taking an allergy supplement in addition to my nasal spray. I reg",
-      "date": "2026-04-18T09:06:50Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/allergy-supplements-runner-pollen.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-18T09:57:23Z"
-    },
-    {
-      "title": "Did King Arthur really exist?",
-      "link": "https://www.livescience.com/archaeology/did-king-arthur-really-exist",
-      "summary": "The stories about King Arthur are almost certainly false or greatly exaggerated, but did the man himself exist?",
-      "date": "2026-04-18T09:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/qEpw46d5eoYdeqq6SL6WSZ-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-18T09:57:29Z"
     }
   ]
 }
