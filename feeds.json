@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-25T21:45:34Z",
-  "updated_utc": "2026-04-25T21:45:34Z",
+  "updated": "2026-04-25T22:48:01Z",
+  "updated_utc": "2026-04-25T22:48:01Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Microfluidic device tracks cell 'squishiness' faster and more reliably than standard methods",
+      "link": "https://phys.org/news/2026-04-microfluidic-device-tracks-cell-squishiness.html",
+      "summary": "Researchers from Brown University and their collaborators have developed a new way to measure the properties of cells—an important development, they say, because accurate measureme",
+      "date": "2026-04-25T22:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/measuring-squishiness.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-25T22:47:58Z"
+    },
+    {
+      "title": "Australian farmers are battling another potential mouse plague—what is causing it?",
+      "link": "https://phys.org/news/2026-04-australian-farmers-potential-mouse-plague.html",
+      "summary": "Got a mouse in your house? That thought alone may terrify you. Now imagine if mice were scampering through your house, rummaging in your pantry or even running across your face at ",
+      "date": "2026-04-25T22:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/family-of-mice.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-25T22:47:58Z"
+    },
     {
       "title": "Forty years on from the disaster, why there are foxes, bears and bison again around Chernobyl",
       "link": "https://phys.org/news/2026-04-forty-years-disaster-foxes-bison.html",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-04-19T11:41:43Z"
-    },
-    {
-      "title": "Simulating how black holes light up the dark",
-      "link": "https://earthsky.org/space/black-holes-simulations-light-up-the-dark/",
-      "summary": "When black holes tear apart stars, the wreckage heats up, creating brilliant flares. New simulations are showing these flares with more detail than ever before. The post Simulating",
-      "date": "2026-04-19T10:04:51Z",
-      "image": "https://earthsky.org/upl/2026/02/supermassive-black-hole-shredding-star-Univ-of-Oregon.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-19T11:41:43Z"
-    },
-    {
-      "title": "Lyrid meteor shower 2026: See spring's first rain of 'shooting stars' peak in moonless skies",
-      "link": "https://www.livescience.com/space/meteoroids/lyrid-meteor-shower-2026-see-springs-first-rain-of-shooting-stars-peak-in-moonless-skies",
-      "summary": "Expect bright fireballs during the Lyrid meteor shower, which will peak in moonless skies on April 22, 2026.",
-      "date": "2026-04-19T11:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/9tSARvvZtjidzcmTmdJ2zi-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-19T11:41:55Z"
     }
   ]
 }
