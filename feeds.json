@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-25T07:40:49Z",
-  "updated_utc": "2026-04-25T07:40:49Z",
+  "updated": "2026-04-25T09:03:53Z",
+  "updated_utc": "2026-04-25T09:03:53Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Why are some constellations visible for only part of the year?",
+      "link": "https://www.livescience.com/space/astronomy/why-are-some-constellations-visible-for-only-part-of-the-year",
+      "summary": "Why do some constellations stay in the sky all year, while others disappear?",
+      "date": "2026-04-25T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/uHRVsjb5xTkZnuYhTvKeHi-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-25T09:03:50Z"
+    },
     {
       "title": "Science history: Chernobyl nuclear power plant melts down, bringing the world to the brink of disaster — April 26, 1986",
       "link": "https://www.livescience.com/planet-earth/nuclear-energy/science-history-chernobyl-nuclear-power-plant-melts-down-bringing-the-world-to-the-brink-of-disaster-april-26-1986",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-17T23:50:06Z"
-    },
-    {
-      "title": "Archaeologists discover perfectly circular ancient Egyptian temple that may have been used for sacred water rituals",
-      "link": "https://www.livescience.com/archaeology/ancient-egyptians/archaeologists-discover-perfectly-circular-ancient-egyptian-temple-that-may-have-been-used-for-sacred-water-rituals",
-      "summary": "The temple included a network of water infrastructure, revealing the importance of the ancient city and the Nile.",
-      "date": "2026-04-17T20:59:20Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/hieL5s7hjqSaXjEt4TUyT7-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-17T21:54:31Z"
     }
   ]
 }
