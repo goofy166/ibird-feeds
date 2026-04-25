@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-25T19:05:07Z",
-  "updated_utc": "2026-04-25T19:05:07Z",
+  "updated": "2026-04-25T20:50:39Z",
+  "updated_utc": "2026-04-25T20:50:39Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘The birds are a global citizen’: Indigenous groups in Australia and Alaska team up to track a feathered adventurer’s epic journey",
+      "link": "https://www.theguardian.com/australia-news/2026/apr/26/indigenous-groups-australia-alaska-track-short-tailed-shearwater-bird",
+      "summary": "A new knowledge-sharing project aims to ensure the survival of the migratory short-tailed shearwater Short-tailed shearwaters used to blacken the skies on the south-west coast of A",
+      "date": "2026-04-25T20:00:55Z",
+      "image": "https://i.guim.co.uk/img/media/c34b7b8363c4495d9ec4f81fbab4cad5a4378e2d/1162_420_3676_2940/master/3676.jpg?width=140&quality=85&auto=format&fit=max&s=c6a6ae3309498c50b9a647231a2d9b49",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-25T20:50:23Z"
+    },
+    {
+      "title": "More shearwaters are washing up dead on Australian beaches. It's not due to 'natural' causes",
+      "link": "https://phys.org/news/2026-04-shearwaters-dead-australian-beaches-due.html",
+      "summary": "You might know the short-tailed shearwater and sable shearwater by the common name \"muttonbirds.\" These two species of seabird breed on islands off southeastern Australia. Both und",
+      "date": "2026-04-25T20:30:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/short-tailed-shearwate.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-25T20:50:35Z"
+    },
     {
       "title": "Before dinosaurs vanished, a hamster-sized mammal was already shaping what survived next on the Pacific Coast",
       "link": "https://phys.org/news/2026-04-dinosaurs-hamster-sized-mammal-survived.html",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-04-19T09:55:04Z"
-    },
-    {
-      "title": "$3 million prize goes to duo whose research led to first sickle cell CRISPR therapy",
-      "link": "https://www.livescience.com/health/usd3-million-prize-goes-to-duo-whose-research-led-to-first-sickle-cell-crispr-therapy",
-      "summary": "Dr. Swee Lay Thein and Dr. Stuart Orkin won the $3 million Breakthrough Prize in Life Sciences for their work toward a functional cure for the deadly blood disorders sickle cell di",
-      "date": "2026-04-19T00:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/3qbaTRBCD2pnJxQJ9us4Nd-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-19T03:38:51Z"
-    },
-    {
-      "title": "How to feed your garden birds without spreading disease",
-      "link": "https://phys.org/news/2026-04-garden-birds-disease.html",
-      "summary": "The outbreak of a mysterious and deadly disease in finches in British gardens in 2005 set alarm bells ringing for conservationists. A decade later, the extent of that disease in gr",
-      "date": "2026-04-18T23:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/birds-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-18T23:44:20Z"
     }
   ]
 }
