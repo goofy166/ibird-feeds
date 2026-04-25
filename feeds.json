@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-25T20:50:39Z",
-  "updated_utc": "2026-04-25T20:50:39Z",
+  "updated": "2026-04-25T21:45:34Z",
+  "updated_utc": "2026-04-25T21:45:34Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Forty years on from the disaster, why there are foxes, bears and bison again around Chernobyl",
+      "link": "https://phys.org/news/2026-04-forty-years-disaster-foxes-bison.html",
+      "summary": "In the novel \"When There Are Wolves Again\" by E.J. Swift, the Chernobyl disaster and its legacy is extrapolated to a near future where natural habitats are depleted and precarious.",
+      "date": "2026-04-25T21:30:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/40-years-on-from-the-d.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-25T21:45:31Z"
+    },
+    {
+      "title": "Fluorescent probe lights up centrioles and cilia in living cells across species",
+      "link": "https://phys.org/news/2026-04-fluorescent-probe-centrioles-cilia-cells.html",
+      "summary": "Scientists at EPFL have developed CenSpark, a fluorescent probe that makes centrioles and cilia visible inside living cells, helping researchers study cell division, development, a",
+      "date": "2026-04-25T21:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lighting-up-the-organi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-25T21:45:31Z"
+    },
     {
       "title": "‘The birds are a global citizen’: Indigenous groups in Australia and Alaska team up to track a feathered adventurer’s epic journey",
       "link": "https://www.theguardian.com/australia-news/2026/apr/26/indigenous-groups-australia-alaska-track-short-tailed-shearwater-bird",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-04-19T11:41:55Z"
-    },
-    {
-      "title": "Largest-ever 3D map of the universe shows 47 million galaxies, from the Milky Way to 'cosmic noon' — Space photo of the week",
-      "link": "https://www.livescience.com/space/cosmology/largest-ever-3d-map-of-the-universe-shows-47-million-galaxies-from-the-milky-way-to-cosmic-noon-space-photo-of-the-week",
-      "summary": "The largest 3D map of the universe, created with data from the Dark Energy Spectroscopic Instrument, shows 47 million galaxies in stunning detail.",
-      "date": "2026-04-19T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/BcLRrTufB7CCq8C5a6Sqea-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-19T10:51:05Z"
-    },
-    {
-      "title": "Can chickens really run around with their heads cut off?",
-      "link": "https://www.livescience.com/animals/birds/can-chickens-really-run-around-with-their-heads-cut-off",
-      "summary": "There's lore about chickens surviving from seconds to months after their heads are chopped off, but what does the science say?",
-      "date": "2026-04-19T09:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/PLqb9h226U2khY4rXcnw3T-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-19T09:55:04Z"
     }
   ]
 }
