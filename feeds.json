@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-25T13:21:53Z",
-  "updated_utc": "2026-04-25T13:21:53Z",
+  "updated": "2026-04-25T14:52:33Z",
+  "updated_utc": "2026-04-25T14:52:33Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Century of data shows global decline in fish growth",
+      "link": "https://phys.org/news/2026-04-century-global-decline-fish-growth.html",
+      "summary": "A new analysis has revealed a global decline in fish growth over the last century, with scientists warning that overfishing and environmental change are eroding the biological foun",
+      "date": "2026-04-25T14:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/global-decline-in-fish.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-25T14:52:29Z"
+    },
+    {
+      "title": "'The push towards renewables is unstoppable because it's in a country's self-interest': Climate scientist Andy Reisinger on Trump, Iran, and the future of Earth",
+      "link": "https://www.livescience.com/planet-earth/climate-change/the-push-towards-renewables-is-unstoppable-because-its-in-a-countrys-self-interest-climate-scientist-andy-reisinger-on-trump-iran-and-the-future-of-earth",
+      "summary": "Once global warming peaks, it could take centuries to cool things back down. But we can bend the curve by cutting fossil fuel emissions now.",
+      "date": "2026-04-25T14:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/jwJfesZdHtafmRXq5Sb8Qf-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-25T14:52:31Z"
+    },
     {
       "title": "Milky Way season is back! See gorgeous pics here",
       "link": "https://earthsky.org/todays-image/milky-way-season-pics-2026/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-04-18T14:50:14Z"
-    },
-    {
-      "title": "The Ultimate Impatiens Flowers Growing Guide",
-      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/impatiens-flowers/",
-      "summary": "Impatiens flowers are beloved for shade, but downy mildew has taken a toll. Learn about disease-resistant varieties and impatiens care. The post The Ultimate Impatiens Flowers Grow",
-      "date": "2026-04-10T14:49:26Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/04/BigBounceImpatiens-e1775763255639.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-04-18T13:18:13Z"
-    },
-    {
-      "title": "Experimental drug doubles one-year survival in pancreatic cancer",
-      "link": "https://www.livescience.com/health/medicine-drugs/experimental-drug-doubles-one-year-survival-in-pancreatic-cancer",
-      "summary": "A new drug that works by making tumors more susceptible to chemotherapy and the immune system has increased survival in those with advanced pancreatic cancer in a trial.",
-      "date": "2026-04-18T13:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ouejyxLkXTqzQEY4StXncY-1280-80.jpg",
-      "name": "Live Science",
-      "category": "butterflies",
-      "color": 14,
-      "fetched_at": "2026-04-18T13:18:30Z"
     }
   ]
 }
