@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-25T17:48:16Z",
-  "updated_utc": "2026-04-25T17:48:16Z",
+  "updated": "2026-04-25T19:05:07Z",
+  "updated_utc": "2026-04-25T19:05:07Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Before dinosaurs vanished, a hamster-sized mammal was already shaping what survived next on the Pacific Coast",
+      "link": "https://phys.org/news/2026-04-dinosaurs-hamster-sized-mammal-survived.html",
+      "summary": "Mammals and dinosaurs coexisted on Earth until a catastrophic event 66 million years ago killed 75% of life on the planet. Despite the devastation, some animals survived, including",
+      "date": "2026-04-25T18:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-discover-t.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-25T19:05:03Z"
+    },
     {
       "title": "This life‑threatening bacterium's hidden motor just gave medicine an unexpected opening to fight back",
       "link": "https://phys.org/news/2026-04-lifethreatening-bacterium-hidden-motor-gave.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-18T23:44:20Z"
-    },
-    {
-      "title": "I adored Pokémon as a child. Now I collect critters of a different kind in a hobby I’m uniquely suited to – birdwatching  | Jayce Carrano",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/19/birdwatching-hobby-pokemon-generation",
-      "summary": "Every player has experienced that fierce loyalty to one pocket monster or another. The same is true here The Pokémon franchise has turned 30, which means that it’s been a long time",
-      "date": "2026-04-18T20:00:22Z",
-      "image": "https://i.guim.co.uk/img/media/919d0d875a9ca795e1e7c12e8fcb74b8f2a80134/3_0_6015_4811/master/6015.jpg?width=140&quality=85&auto=format&fit=max&s=ed52093e21fc16b7c326c52745547e80",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-18T20:47:09Z"
     }
   ]
 }
