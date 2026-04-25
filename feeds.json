@@ -1,8 +1,63 @@
 {
-  "updated": "2026-04-25T09:03:53Z",
-  "updated_utc": "2026-04-25T09:03:53Z",
+  "updated": "2026-04-25T10:53:06Z",
+  "updated_utc": "2026-04-25T10:53:06Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Young country diary: A close call with a black adder | Orla",
+      "link": "https://www.theguardian.com/environment/2026/apr/25/young-country-diary-a-close-call-with-a-black-adder",
+      "summary": "Dartmoor: We went for a family walk on the moor, and I ended up seeing something really rare and special It was a bright spring morning, and I had gone up to Dartmoor with my mum, ",
+      "date": "2026-04-25T10:00:43Z",
+      "image": "https://i.guim.co.uk/img/media/765aa3b4783a833025d0c29db6016d099ec925e9/478_0_5021_4016/master/5021.jpg?width=140&quality=85&auto=format&fit=max&s=7bb5480e40f71af8ea273184b0d9d67d",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-25T10:52:51Z"
+    },
+    {
+      "title": "Young country diary: Robin chicks are everywhere, in the kitchen, in Mum’s hair",
+      "link": "https://www.theguardian.com/environment/2026/apr/25/young-country-diary-robin-chicks-are-everywhere-in-the-kitchen-in-mums-hair",
+      "summary": "Gloucestershire: I have loved watching the busy nest near our house, now the chicks have fledged and keep coming in the house Spring is a relief after four months of darkness in my",
+      "date": "2026-04-25T10:00:42Z",
+      "image": "https://i.guim.co.uk/img/media/393f483f429d7404c9bbf1331554772f4a95543a/390_0_4410_3528/master/4410.jpg?width=140&quality=85&auto=format&fit=max&s=3d7aea12d41609dc9e46a42642af11c8",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-25T10:52:51Z"
+    },
+    {
+      "title": "When Does ‘Alone’ Season 13 Start? The Best Survival Podcasts, Albums, and Films While You Wait.",
+      "link": "https://www.outsideonline.com/culture/books-media/best-survival-movies-books-podcasts-alone-fans/",
+      "summary": "If you’ve binged every season of ‘Alone’ and still crave stories of shelter building, foraging, and the depths of human loneliness, we’ve got you covered. This curated list of movi",
+      "date": "2026-04-25T09:30:06Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/Alone6-1_2400x1350.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-25T10:52:58Z"
+    },
+    {
+      "title": "Dream of Being a Lighthouse Keeper? National Park Volunteer Programs Let You Try It Out.",
+      "link": "https://www.outsideonline.com/adventure-travel/national-parks/volunteer-lighthouse-keeper-national-park-service/",
+      "summary": "The era of the professional lighthouse keeper is over, but the National Park Service is looking for volunteers to stand watch. Here is the reality of the job and lighthouses across",
+      "date": "2026-04-25T09:05:34Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/Point-Reyes-Lighthouse-1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-25T10:52:58Z"
+    },
+    {
+      "title": "This mesmerising Cornish time-travel film is not to be missed",
+      "link": "https://www.newscientist.com/article/mg27035922-300-this-mesmerising-cornish-time-travel-film-is-not-to-be-missed/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A seaside town is devastated when a small fishing boat, the Rose of Nevada, disappears at sea. Thirty years later, the boat reappears in the harbour and sets off a moving story, sa",
+      "date": "2026-04-22T18:00:00Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/20105153/SEI_293114113.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-25T10:53:02Z"
+    },
     {
       "title": "Why are some constellations visible for only part of the year?",
       "link": "https://www.livescience.com/space/astronomy/why-are-some-constellations-visible-for-only-part-of-the-year",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-04-18T09:57:29Z"
-    },
-    {
-      "title": "Stranded and dying, the German whale is a parable of our troubled relationship with these sea giants",
-      "link": "https://www.theguardian.com/environment/2026/apr/18/stranded-dying-german-whale-troubled-relationship-sea-timmy",
-      "summary": "Even as we empathise with these intelligent animals, our relentless push for resources kills them in their thousands, just as whalers once hunted them to the brink of extinction Fo",
-      "date": "2026-04-18T06:00:05Z",
-      "image": "https://i.guim.co.uk/img/media/cad7ecee7c030d817d158de4943cbdb1af47f9d7/87_0_2120_1696/master/2120.jpg?width=140&quality=85&auto=format&fit=max&s=bfc9a90317fdef7bf2f0fb97932a6ffc",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-18T07:21:04Z"
-    },
-    {
-      "title": "Science history: Doctor autopsies the brain of a man who couldn't speak — and reveals the seat of spoken language — April 18, 1861",
-      "link": "https://www.livescience.com/health/neuroscience/science-history-doctor-autopsies-the-brain-of-a-man-who-couldnt-speak-and-reveals-the-seat-of-spoken-language-april-18-1861",
-      "summary": "Dr. Paul Broca conducted an autopsy on a patient known as \"Tan,\" who had aphasia, or the inability to speak. Broca's work identified a region of the brain that is key to spoken lan",
-      "date": "2026-04-18T06:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/XXJaFtR7U36yh5fRQswwAJ-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-18T07:21:16Z"
-    },
-    {
-      "title": "Country diary: Return of the Manx shearwaters – this island is their home | Tim Earl",
-      "link": "https://www.theguardian.com/environment/2026/apr/18/country-diary-return-of-the-manx-shearwaters-this-island-is-their-home",
-      "summary": "Langness, Isle of Man: With their epic migrations, they are special birds, but especially so here, the place that coined the name A swallow recorded at the start of March, sand mar",
-      "date": "2026-04-18T04:30:03Z",
-      "image": "https://i.guim.co.uk/img/media/08da62d7411bbb1e48634a03ce8612397333ccb0/343_0_3426_2741/master/3426.jpg?width=140&quality=85&auto=format&fit=max&s=b87848994e181fe5a1f5d4afa2d5def1",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-18T05:45:15Z"
-    },
-    {
-      "title": "‘The environmental movement needs many hands’: saving Australia’s biodiversity is getting personal",
-      "link": "https://www.theguardian.com/australia-news/2026/apr/18/privately-protected-managed-land-australia-biodiversity-protection",
-      "summary": "Powered by individual donations and bequests, the country now has one of the world’s largest networks of privately protected and managed land Change by degrees offers life hacks an",
-      "date": "2026-04-18T00:00:01Z",
-      "image": "https://i.guim.co.uk/img/media/87334bb9666cc73b5eb2dc0240df53804696b9b0/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=d6bd8868b59c2002bb3fa556f2016d07",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-18T03:19:28Z"
-    },
-    {
-      "title": "Warmer streams may be draining river food webs by sending more carbon into the air",
-      "link": "https://phys.org/news/2026-04-warmer-streams-river-food-webs.html",
-      "summary": "Rising stream temperatures may be weakening the foundation of river food webs by altering how carbon moves through these watery ecosystems. In a new study published in the journal ",
-      "date": "2026-04-17T23:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-finds-warmer-str-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-17T23:50:06Z"
     }
   ]
 }
