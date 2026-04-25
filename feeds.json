@@ -1,8 +1,52 @@
 {
-  "updated": "2026-04-25T11:44:53Z",
-  "updated_utc": "2026-04-25T11:44:53Z",
+  "updated": "2026-04-25T13:21:53Z",
+  "updated_utc": "2026-04-25T13:21:53Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Milky Way season is back! See gorgeous pics here",
+      "link": "https://earthsky.org/todays-image/milky-way-season-pics-2026/",
+      "summary": "Enjoy the beauty of our home galaxy in these images from the start of the Milky Way season, thanks to our talented EarthSky community! The post Milky Way season is back! See gorgeo",
+      "date": "2026-04-25T10:56:59Z",
+      "image": "https://earthsky.org/upl/2026/04/prinvevillemilkyway-Jeremy-Likness-Apr-18-2026-Oregon-e1776865335605.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-04-25T13:21:38Z"
+    },
+    {
+      "title": "The platypus is even weirder than thought, scientists discover",
+      "link": "https://phys.org/news/2026-03-platypus-weirder-thought-scientists.html",
+      "summary": "They already have the bill of a duck, the tail of a beaver, lay eggs like reptiles and have venom like snakes.",
+      "date": "2026-04-25T13:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-does-the-platypus.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-25T13:21:49Z"
+    },
+    {
+      "title": "How accelerating evolution could help corals survive future heat waves—new study",
+      "link": "https://phys.org/news/2026-04-evolution-corals-survive-future.html",
+      "summary": "As global warming accelerates, extreme heat waves are causing widespread death of tropical reef corals. Most corals rely on tiny algae cells living within their tissues that photos",
+      "date": "2026-04-25T13:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mass-bleach-coral.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-25T13:21:49Z"
+    },
+    {
+      "title": "Inside 18 years of ape minds, a vast record that may upend how human intelligence began",
+      "link": "https://phys.org/news/2026-04-years-ape-minds-vast-upend.html",
+      "summary": "A pioneering project led by researchers from the University of Stirling and the Max Planck Institute has opened the door for new insights into the evolutionary origins of human int",
+      "date": "2026-04-25T12:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/worlds-largest-great-a.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-25T13:21:49Z"
+    },
     {
       "title": "Blauw",
       "link": "https://www.10000birds.com/blauw.htm?utm_source=rss&utm_medium=rss&utm_campaign=blauw",
@@ -5458,50 +5502,6 @@
       "category": "butterflies",
       "color": 14,
       "fetched_at": "2026-04-18T13:18:30Z"
-    },
-    {
-      "title": "High on Endemics: Birding Sri Lanka’s Highlands",
-      "link": "https://www.10000birds.com/high-on-endemics-birding-sri-lankas-highlands.htm?utm_source=rss&utm_medium=rss&utm_campaign=high-on-endemics-birding-sri-lankas-highlands",
-      "summary": "The town of Nuwara Eliya is the getaway to several birding spots in Sri Lanka’s highlands, including several spots in the town itself, and Horton Plains National Park to the south.",
-      "date": "2026-04-18T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/04/DSC_0501.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-04-18T11:40:42Z"
-    },
-    {
-      "title": "How to Bird by Car",
-      "link": "https://www.10000birds.com/how-to-bird-by-car-2.htm?utm_source=rss&utm_medium=rss&utm_campaign=how-to-bird-by-car-2",
-      "summary": "This post is republished in our “From the Archives” series, featuring highlights of our vast back catalogue of more than 10,000 birding-related posts published over the last 15 yea",
-      "date": "2026-04-18T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/DSCF9664-1.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-04-18T11:40:42Z"
-    },
-    {
-      "title": "Science behind the scenes",
-      "link": "https://www.sciencenews.org/article/science-behind-the-scenes",
-      "summary": "Editor in chief Nancy Shute discusses the fascinating world of constructed languages, our behind-the-scenes look at a vast science museum collection, and how some mathematicians ar",
-      "date": "2026-04-18T11:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/01/cropped-favicon.jpg?w=32",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-18T11:40:57Z"
-    },
-    {
-      "title": "PFAS detected in dolphin milk may pass from mothers to calves",
-      "link": "https://phys.org/news/2026-04-pfas-dolphin-mothers-calves.html",
-      "summary": "Researchers have found that a group of chemicals known as PFAS can be transferred from mother dolphins to their nursing calves, adding to the evidence that these persistent contami",
-      "date": "2026-04-18T11:04:50Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dolphins.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-04-18T11:40:59Z"
     }
   ]
 }
