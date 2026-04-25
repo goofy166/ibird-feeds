@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-25T15:49:28Z",
-  "updated_utc": "2026-04-25T15:49:28Z",
+  "updated": "2026-04-25T16:54:29Z",
+  "updated_utc": "2026-04-25T16:54:29Z",
   "count": 500,
   "stories": [
+    {
+      "title": "This life‑threatening bacterium's hidden motor just gave medicine an unexpected opening to fight back",
+      "link": "https://phys.org/news/2026-04-lifethreatening-bacterium-hidden-motor-gave.html",
+      "summary": "Scientists have mapped in unprecedented detail the structure of Vibrio bacteria, which can cause life-threatening infections linked to antibiotic resistance. The King's College Lon",
+      "date": "2026-04-25T16:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2016/vibriocholer.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-25T16:54:25Z"
+    },
+    {
+      "title": "The Trump administration wants to open precious East Coast forests to logging and mining",
+      "link": "https://www.livescience.com/planet-earth/the-trump-administration-wants-to-open-precious-east-coast-forests-to-logging-and-mining",
+      "summary": "The fight over the roadless rule has long focused on the West, but its repeal could fragment some of the last pristine forests in the eastern United States.",
+      "date": "2026-04-25T16:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/HCMNiBTQheRSfkz8oPXZ5M-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-25T16:54:26Z"
+    },
     {
       "title": "The Ultimate Impatiens Flowers Growing Guide",
       "link": "https://www.birdsandblooms.com/gardening/flower-gardening/impatiens-flowers/",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-04-18T20:47:09Z"
-    },
-    {
-      "title": "Two US army soldiers injured by brown bear during training exercise in Alaska",
-      "link": "https://www.theguardian.com/us-news/2026/apr/18/army-soldiers-brown-bear-attack-alaska",
-      "summary": "Soldiers were participating in ‘land navigation training’ when bear injured them in a ‘defensive attack’ Two US army soldiers have been injured after encountering a brown bear in a",
-      "date": "2026-04-18T18:44:57Z",
-      "image": "https://i.guim.co.uk/img/media/6e3ff0707f22bc7bd5cc50520bde340fa99f4f37/864_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=35cc7525ebab503cd53d57aa37c3023a",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-18T19:02:28Z"
-    },
-    {
-      "title": "Raven personalities shape survival as human pressure grows at the Dead Sea",
-      "link": "https://phys.org/news/2026-04-raven-personalities-survival-human-pressure.html",
-      "summary": "Along the stark and shimmering coastline of the Dead Sea, where desert cliffs meet one of the world's most extreme environments, a quiet drama is unfolding in the skies above. Fan-",
-      "date": "2026-04-18T19:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/personality-shapes-sur.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-18T19:02:40Z"
     }
   ]
 }
