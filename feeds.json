@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-26T17:49:32Z",
-  "updated_utc": "2026-04-26T17:49:32Z",
+  "updated": "2026-04-26T19:06:54Z",
+  "updated_utc": "2026-04-26T19:06:54Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Antarctica's sea ice suddenly started shrinking a decade ago — and deep-diving robots are revealing why",
+      "link": "https://www.livescience.com/planet-earth/climate-change/antarcticas-sea-ice-suddenly-started-shrinking-a-decade-ago-and-deep-diving-robots-are-revealing-why",
+      "summary": "A decade ago, southern sea ice suddenly and dramatically declined. Scientists say the culprit was a \"very violent release\" of deep, pent-up heat.",
+      "date": "2026-04-26T18:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/aAxfYbw6HJ4DCXQCqcRBmd-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-26T19:06:51Z"
+    },
     {
       "title": "Final steps taken before audacious plan to tow whale stranded in Germany to North Sea",
       "link": "https://www.theguardian.com/world/2026/apr/26/final-steps-audacious-plan-tow-whale-stranded-germany-north-sea-timmy",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-04-20T06:23:00Z"
-    },
-    {
-      "title": "Hospital-acquired pneumonia reduced by daily toothbrushing",
-      "link": "https://www.newscientist.com/article/2523576-hospital-acquired-pneumonia-reduced-by-daily-toothbrushing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Most hospital patients don't brush their teeth regularly, but doing so could cut their risk of developing pneumonia during their stay",
-      "date": "2026-04-19T23:01:43Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/17174146/SEI_293540765.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-20T03:40:12Z"
     }
   ]
 }
