@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-26T22:50:05Z",
-  "updated_utc": "2026-04-26T22:50:05Z",
+  "updated": "2026-04-26T23:50:03Z",
+  "updated_utc": "2026-04-26T23:50:03Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Chernobyl's wildlife: The real story isn't the presence of radiation, it's the absence of humans",
+      "link": "https://phys.org/news/2026-04-chernobyl-wildlife-real-story-isnt.html",
+      "summary": "\"Dogs at Chernobyl are now genetically distinct … thanks to years of exposure to ionizing radiation, study finds.\"",
+      "date": "2026-04-26T23:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/chernobyl-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-26T23:49:59Z"
+    },
     {
       "title": "AI-enhanced microscopy produces crisp, real-time video inside live cells",
       "link": "https://phys.org/news/2026-04-ai-microscopy-crisp-real-video.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-20T09:12:08Z"
-    },
-    {
-      "title": "Country diary 1926: There was a hoopoe on the lawn",
-      "link": "https://www.theguardian.com/environment/2026/apr/20/country-diary-1926-hoopoe-on-the-lawn-cornwall",
-      "summary": "24 April 1926 : A rare sight in Cornwall, it was bigger than a mistle thrush, rusty pink against the grass There he was on the lawn when I came down to breakfast on Saturday – bigg",
-      "date": "2026-04-20T05:00:02Z",
-      "image": "https://i.guim.co.uk/img/media/df82da2805233f42e33c4444cbf6a6b166c23e0d/0_0_2426_1941/master/2426.jpg?width=140&quality=85&auto=format&fit=max&s=83e9d00e65d4bb94e81a98e867fe5cad",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-20T06:23:00Z"
     }
   ]
 }
