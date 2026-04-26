@@ -1,8 +1,30 @@
 {
-  "updated": "2026-04-26T15:51:35Z",
-  "updated_utc": "2026-04-26T15:51:35Z",
+  "updated": "2026-04-26T16:55:09Z",
+  "updated_utc": "2026-04-26T16:55:09Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Final steps taken before audacious plan to tow whale stranded in Germany to North Sea",
+      "link": "https://www.theguardian.com/world/2026/apr/26/final-steps-audacious-plan-tow-whale-stranded-germany-north-sea-timmy",
+      "summary": "Millionaire funded operation called ‘pure animal cruelty’ after environment minister sent threats on social media Final preparations are reportedly under way for a millionaire fund",
+      "date": "2026-04-26T16:46:05Z",
+      "image": "https://i.guim.co.uk/img/media/5de8e80e5fdf6c456a40fa6d64e00c06f12c8a47/0_0_2135_1709/master/2135.jpg?width=140&quality=85&auto=format&fit=max&s=f8cf96f004adc07d394593af7c884ddb",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-26T16:54:54Z"
+    },
+    {
+      "title": "Rare axolotl found under Welsh bridge probably an abandoned pet, say experts",
+      "link": "https://www.theguardian.com/environment/2026/apr/26/rare-axolotl-found-welsh-bridge-probably-abandoned-pet-experts",
+      "summary": "Craze for Mexican salamander as pets fuelled by Pokémon but inexperienced owners are often out of their depths The 15th-century Dipping Bridge over the River Ogwr (Ogmore) in the v",
+      "date": "2026-04-26T16:44:54Z",
+      "image": "https://i.guim.co.uk/img/media/d1886f80e813aea51353cc570f5f9b3f1fe100b6/158_0_1124_899/master/1124.jpg?width=140&quality=85&auto=format&fit=max&s=353b38f5b26bc69dcc7fb9c27b254115",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-26T16:54:54Z"
+    },
     {
       "title": "A British ban on imports of hunting trophies is long overdue | Letters",
       "link": "https://www.theguardian.com/environment/2026/apr/26/a-british-ban-on-imports-of-hunting-trophies-is-long-overdue",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-04-20T03:40:12Z"
-    },
-    {
-      "title": "A light-controlled 'muscle' could give synthetic cells a new way to move",
-      "link": "https://phys.org/news/2026-04-muscle-synthetic-cells.html",
-      "summary": "Engineers interested in creating artificial cells to deliver drugs to unhealthy parts of the body face a key challenge: for a cell-like system to move, change shape, or divide, it ",
-      "date": "2026-04-19T21:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-use-light-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-19T21:44:56Z"
-    },
-    {
-      "title": "'Protected' seagrass meadows aren't necessarily healthy, because pollution doesn't stop at the shoreline",
-      "link": "https://phys.org/news/2026-04-seagrass-meadows-necessarily-healthy-pollution.html",
-      "summary": "I spent last summer wading through seagrass meadows across Northern Ireland, from the sheltered waters of Strangford Lough to the exposed coast at Waterfoot Bay. I was collecting s",
-      "date": "2026-04-19T19:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/seagrassmead.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-19T20:49:07Z"
     }
   ]
 }
