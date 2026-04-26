@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-26T19:06:54Z",
-  "updated_utc": "2026-04-26T19:06:54Z",
+  "updated": "2026-04-26T20:50:41Z",
+  "updated_utc": "2026-04-26T20:50:41Z",
   "count": 500,
   "stories": [
+    {
+      "title": "AI-enhanced microscopy produces crisp, real-time video inside live cells",
+      "link": "https://phys.org/news/2026-04-ai-microscopy-crisp-real-video.html",
+      "summary": "Using artificial intelligence, engineers at the University of California San Diego have developed a new way to watch the inner workings of living cells in real time. The process bo",
+      "date": "2026-04-26T20:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-enhanced-microscopy.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-26T20:50:36Z"
+    },
     {
       "title": "Antarctica's sea ice suddenly started shrinking a decade ago — and deep-diving robots are revealing why",
       "link": "https://www.livescience.com/planet-earth/climate-change/antarcticas-sea-ice-suddenly-started-shrinking-a-decade-ago-and-deep-diving-robots-are-revealing-why",
@@ -5487,17 +5498,6 @@
       "summary": "24 April 1926 : A rare sight in Cornwall, it was bigger than a mistle thrush, rusty pink against the grass There he was on the lawn when I came down to breakfast on Saturday – bigg",
       "date": "2026-04-20T05:00:02Z",
       "image": "https://i.guim.co.uk/img/media/df82da2805233f42e33c4444cbf6a6b166c23e0d/0_0_2426_1941/master/2426.jpg?width=140&quality=85&auto=format&fit=max&s=83e9d00e65d4bb94e81a98e867fe5cad",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-20T06:23:00Z"
-    },
-    {
-      "title": "Country diary: Even in tame horses, a wildness remains | Kate Blincoe",
-      "link": "https://www.theguardian.com/environment/2026/apr/20/country-diary-even-in-tame-horses-a-wildness-remains",
-      "summary": "Caistor St Edmund, Norfolk: A large mare is being aggressive not just to the dying deer in its paddock, but also me for trying to save it It’s been a strange few weeks, not least b",
-      "date": "2026-04-20T04:30:01Z",
-      "image": "https://i.guim.co.uk/img/media/3a3ca067fec5c492aa449a7a276b114e2c4a1a3c/352_0_3188_2550/master/3188.jpg?width=140&quality=85&auto=format&fit=max&s=8b036d73128a12e2755cd981dfd875ae",
       "name": "Guardian",
       "category": "wildlife",
       "color": 5,
