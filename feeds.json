@@ -1,8 +1,52 @@
 {
-  "updated": "2026-04-26T11:50:49Z",
-  "updated_utc": "2026-04-26T11:50:49Z",
+  "updated": "2026-04-26T13:23:03Z",
+  "updated_utc": "2026-04-26T13:23:03Z",
   "count": 500,
   "stories": [
+    {
+      "title": "I Am a Full-Time Overlander. Here’s What It’s Really Like.",
+      "link": "https://www.outsideonline.com/adventure-travel/advice/overlanding-full-time-living-guide/",
+      "summary": "While vanlife is about the aesthetic, overlanding is about the adventure. Here's why 12 million people like me are trading paved roads for self-reliance and remote, off-grid landsc",
+      "date": "2026-04-26T12:21:59Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/DJI_0223.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-26T13:22:54Z"
+    },
+    {
+      "title": "Paris has successfully cut noise pollution, but urban birds still can't sing at their natural pitch",
+      "link": "https://phys.org/news/2026-04-paris-successfully-noise-pollution-urban.html",
+      "summary": "When Rachel Carson wrote the environmental classic \"Silent Spring\" in 1962, she warned that unchecked human impacts might create a silent future.",
+      "date": "2026-04-26T12:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/paris-has-successfully-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-26T13:22:59Z"
+    },
+    {
+      "title": "How likely are you to find a message in a bottle?",
+      "link": "https://www.livescience.com/physics-mathematics/mathematics/how-likely-are-you-to-find-a-message-in-a-bottle",
+      "summary": "Have you ever wondered how likely it is to find a message in a bottle, especially an old one? Let's do the math.",
+      "date": "2026-04-26T13:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/bSHFnyafsNZvLykkAEfmfL-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-26T13:23:00Z"
+    },
+    {
+      "title": "Astronomers just mapped one of the largest structures in the universe, long hidden behind the Milky Way's 'Zone of Avoidance'",
+      "link": "https://www.livescience.com/space/astronomy/astronomers-just-mapped-one-of-the-largest-structures-in-the-universe-long-hidden-behind-the-milky-ways-zone-of-avoidance",
+      "summary": "Scientists have mapped the extent of the Vela Supercluster for the first time, and determined that it is one of the largest structures in the universe.",
+      "date": "2026-04-26T12:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/x9u8go8UBwjg8GH6LiYATk-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-26T13:23:00Z"
+    },
     {
       "title": "Birding Brochure English, Part 6: Pristine",
       "link": "https://www.10000birds.com/birding-brochure-english-part-6-pristine.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-brochure-english-part-6-pristine",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-19T19:02:39Z"
-    },
-    {
-      "title": "Your local fishing hole is getting browner, changing which fish species thrive and which ones struggle",
-      "link": "https://phys.org/news/2026-04-local-fishing-hole-browner-fish.html",
-      "summary": "The lakes, streams, and ponds you've visited for years are likely looking more brown than they used to. And people who are fishing those waters are likely catching different specie",
-      "date": "2026-04-19T16:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/brown-pond-water.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-19T16:52:58Z"
-    },
-    {
-      "title": "Loneliness may contribute to memory issues, but not dementia — they are 'not the same thing'",
-      "link": "https://www.livescience.com/health/aging/loneliness-can-affect-your-memory-but-that-doesnt-mean-it-leads-to-dementia-opinion",
-      "summary": "A researcher explains what we know — and what we don't — about the link between loneliness and memory problems.",
-      "date": "2026-04-19T16:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/8HMVeZx59Uki3fJDXdLgdM-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-19T16:52:59Z"
-    },
-    {
-      "title": "Naked mole rats wage bloody wars of succession to choose a new queen — but one colony did something scientists have never seen before",
-      "link": "https://www.livescience.com/animals/mole-rats-wage-bloody-wars-of-succession-to-choose-a-new-queen-but-one-colony-did-something-scientists-have-never-seen-before",
-      "summary": "When their queen dies, naked mole rat females usually wage bloody battles of succession. But peace may be possible, a new study suggests",
-      "date": "2026-04-19T15:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/fm7BpbExHyyMxSy7bgRzKM-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-19T15:46:47Z"
-    },
-    {
-      "title": "Chernobyl's radioactive landscape is testament to nature's resilience and survival spirit",
-      "link": "https://phys.org/news/2026-04-chernobyl-radioactive-landscape-testament-nature.html",
-      "summary": "On contaminated land that is too dangerous for human life, the world's wildest horses roam free.",
-      "date": "2026-04-19T14:06:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chernobyls-radioactive.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-19T14:50:08Z"
     }
   ]
 }
