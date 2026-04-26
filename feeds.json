@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-26T14:54:37Z",
-  "updated_utc": "2026-04-26T14:54:37Z",
+  "updated": "2026-04-26T15:51:35Z",
+  "updated_utc": "2026-04-26T15:51:35Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A British ban on imports of hunting trophies is long overdue | Letters",
+      "link": "https://www.theguardian.com/environment/2026/apr/26/a-british-ban-on-imports-of-hunting-trophies-is-long-overdue",
+      "summary": "Eduardo Gonçalves and Blair Patrick Schuyler respond to an article on the myth at the heart of trophy hunting Regarding Cal Flyn’s article ( On the trail with the hunters who belie",
+      "date": "2026-04-26T15:48:15Z",
+      "image": "https://i.guim.co.uk/img/media/8b8077262496f35c6140a05a1d01c677bcbed5a0/84_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=bcf43ba99aacb8419f9611d76f098244",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-26T15:51:20Z"
+    },
     {
       "title": "I Am a Full-Time Overlander. Here’s What It’s Really Like.",
       "link": "https://www.outsideonline.com/adventure-travel/advice/overlanding-full-time-living-guide/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-19T20:49:07Z"
-    },
-    {
-      "title": "Moroccan dinosaur's fearsome tail spikes evolved much earlier than we thought—new discovery",
-      "link": "https://phys.org/news/2026-04-moroccan-dinosaur-fearsome-tail-spikes.html",
-      "summary": "In the heart of the Middle Atlas Mountains in central Morocco, a global team of paleontologists and geologists has discovered new remains of a very unusual dinosaur. It belonged to",
-      "date": "2026-04-19T18:30:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/moroccan-dinosaurs-fea-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-19T19:02:39Z"
     }
   ]
 }
