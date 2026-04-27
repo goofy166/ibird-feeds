@@ -1,8 +1,41 @@
 {
-  "updated": "2026-04-27T03:49:37Z",
-  "updated_utc": "2026-04-27T03:49:37Z",
+  "updated": "2026-04-27T06:35:39Z",
+  "updated_utc": "2026-04-27T06:35:39Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Record bear sightings in Japan cause alarm as hibernation ends",
+      "link": "https://www.theguardian.com/world/2026/apr/27/bear-sightings-warning-japan",
+      "summary": "Woman’s body found in Iwate prefecture last week, soon after a police officer was injured in bear attack nearby Rested but famished bears emerging from hibernation in Japan are alr",
+      "date": "2026-04-27T05:42:20Z",
+      "image": "https://i.guim.co.uk/img/media/a30f3bec76e951df37f3d9991be35bea00a99a09/785_0_5488_4390/master/5488.jpg?width=140&quality=85&auto=format&fit=max&s=929d0125fe92927433ca5534d8e2dbc1",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-27T06:35:24Z"
+    },
+    {
+      "title": "The Revolutionary Spirit of the Queen City: How to Experience 250 Years of Charlotte History",
+      "link": "https://www.smithsonianmag.com/sponsored/the-revolutionary-spirit-of-the-queen-city-how-to-experience-250-years-of-charlotte-history-180988508/",
+      "summary": "From the defiant rebellion of the \"Hornets' Nest\" to the industrial grit of the textile age, Charlotte's history is a record of people who chose to build, break, and reinvent",
+      "date": "2026-04-27T04:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/3PSc2O6P57vrLZ8rcaA-ceu5u88=/420x240/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d0/cc/d0cc8a47-0e6a-4428-99b3-f48e040db4d6/clt_skyline_-_night_-_19_1.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-27T06:35:32Z"
+    },
+    {
+      "title": "Orangutan uses Indonesia canopy bridge in 'world first': NGO",
+      "link": "https://phys.org/news/2026-04-orangutan-indonesia-canopy-bridge-world.html",
+      "summary": "A Sumatran orangutan has been filmed for the first time crossing a man-made canopy bridge constructed to help the endangered animals bypass a tarred road on the Indonesian island, ",
+      "date": "2026-04-27T06:22:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/in-the-wild-orangutans.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-27T06:35:36Z"
+    },
     {
       "title": "Chernobyl's wildlife: The real story isn't the presence of radiation, it's the absence of humans",
       "link": "https://phys.org/news/2026-04-chernobyl-wildlife-real-story-isnt.html",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-04-20T11:24:46Z"
-    },
-    {
-      "title": "Altar to Sol: A rare 1,900-year-old monument dedicated to the Roman god of light and used in a secret underground ritual",
-      "link": "https://www.livescience.com/archaeology/romans/altar-to-sol-a-rare-1-900-year-old-monument-dedicated-to-the-roman-god-of-light-and-used-in-a-secret-underground-ritual",
-      "summary": "This unique carved altar represents the triumph of light over darkness in ancient Roman religion.",
-      "date": "2026-04-20T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/5kvXuD3JdFoxBZqqQhYbrf-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-20T11:24:51Z"
-    },
-    {
-      "title": "Pivotal D.C. Gathering Seeks to Make Outdoor Recreation a Cornerstone of Health and Wellness",
-      "link": "https://www.outsideonline.com/culture/books-media/health-and-outdoor-recreation-forum/",
-      "summary": "The Outdoor Recreation Roundtable will host the National Executive Forum on Health and Outdoor Recreation May 6-7 in Washington D.C. The post Pivotal D.C. Gathering Seeks to Make O",
-      "date": "2026-04-20T09:00:45Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/ORR-forum.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-20T09:12:03Z"
-    },
-    {
-      "title": "Why so many mollusks sound Greek—their naming evolves at a snail's pace",
-      "link": "https://phys.org/news/2026-04-mollusks-greek-evolves-snail-pace.html",
-      "summary": "\"A rose by any other name would smell as sweet,\" said Juliet Capulet in William Shakespeare's famous play. And the same is presumably true for mollusks, albeit with different odors",
-      "date": "2026-04-20T09:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-naming-of-mollusks.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-20T09:12:08Z"
     }
   ]
 }
