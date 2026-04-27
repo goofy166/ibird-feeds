@@ -1,8 +1,63 @@
 {
-  "updated": "2026-04-27T16:48:00Z",
-  "updated_utc": "2026-04-27T16:48:00Z",
+  "updated": "2026-04-27T18:11:49Z",
+  "updated_utc": "2026-04-27T18:11:49Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The British Are Coming and You’re Gonna Love It",
+      "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/the-british-are-coming-and-youre-gonna-love-it/",
+      "summary": "Berghaus crosses the pond with alpine performance, Britpop style, and an unbreakable guarantee The post The British Are Coming and You’re Gonna Love It appeared first on Outside On",
+      "date": "2026-04-27T18:11:26Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/Berghaus_h-scaled-e1777296887184.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-27T18:11:40Z"
+    },
+    {
+      "title": "Coral reefs on a remote archipelago shrugged off a massive heatwave",
+      "link": "https://www.newscientist.com/article/2524399-coral-reefs-on-a-remote-archipelago-shrugged-off-a-massive-heatwave/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Scientists were shocked to find that the Houtman Abrolhos Islands’ coral reefs survived a prolonged extreme heatwave in 2025 virtually unharmed, which may reveal how to protect cor",
+      "date": "2026-04-27T16:00:58Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/27110514/SEI_294869215.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-27T18:11:44Z"
+    },
+    {
+      "title": "Why the keto diet could be a revolutionary way to treat mental illness",
+      "link": "https://www.newscientist.com/article/2523421-why-the-keto-diet-could-be-a-revolutionary-way-to-treat-mental-illness/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "You may think of the high-fat, low-carb eating plan as a faddish way to lose weight. But the keto diet is now being used to tackle conditions from severe depression to bipolar diso",
+      "date": "2026-04-27T16:00:03Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/17121257/SEI_2935027681.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-27T18:11:44Z"
+    },
+    {
+      "title": "How bacteria circumvent plants' immune system",
+      "link": "https://phys.org/news/2026-04-bacteria-circumvent-immune.html",
+      "summary": "How are bacterial pathogens able to effectively overcome plants' defense mechanisms? Researchers working with Professor Şuayb Üstün at Ruhr University Bochum, Germany, have found a",
+      "date": "2026-04-27T18:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-bacteria-circumven-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-27T18:11:46Z"
+    },
+    {
+      "title": "Atomic map reveals how Leptospira bacteria flip virulence switch inside hosts",
+      "link": "https://phys.org/news/2026-04-atomic-reveals-leptospira-bacteria-flip.html",
+      "summary": "During infection, pathogens must adapt quickly to the conditions to thrive inside the body. A research team at the University of Basel, Switzerland, has uncovered how a key protein",
+      "date": "2026-04-27T17:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/third-world-farming.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-27T18:11:46Z"
+    },
     {
       "title": "9 ways to experience Big Sur now that Highway 1 is fully open",
       "link": "https://www.mercurynews.com/2026/04/27/big-sur-highway-1-road-trip/",
@@ -5447,61 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-04-20T18:03:06Z"
-    },
-    {
-      "title": "Pirate Shipwreck Off the Coast of Cape Cod Sets the Historical Record Straight on West African Gold",
-      "link": "https://www.smithsonianmag.com/smart-news/pirate-shipwreck-off-the-coast-of-cape-cod-sets-the-historical-record-straight-on-west-african-gold-180988572/",
-      "summary": "Europeans spread rumors about degraded gold from their Akan trade partners. A new analysis of artifacts from the \"Whydah Gally\" shipwreck tells a different story",
-      "date": "2026-04-20T17:03:03Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/dCGjvAe_mLR4Az08uKkAqWyP27E=/420x240/filters:focal(2000x1429:2001x1430)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/97/9b/979bd344-6d74-48e4-ae0b-af5073faea84/lion_gold.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-20T18:03:08Z"
-    },
-    {
-      "title": "Increasing heat can boost malnutrition among children",
-      "link": "https://www.sciencenews.org/article/malnutrition-heat-climate-children-brazil",
-      "summary": "In a study of 6.5 million children in Brazil, higher temperatures were associated with worse nutrition outcomes, especially in vulnerable groups.",
-      "date": "2026-04-20T17:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/041326_MR_malnutrition_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-20T18:03:09Z"
-    },
-    {
-      "title": "Parrot uses his broken beak to become a dominant male",
-      "link": "https://www.newscientist.com/article/2523471-parrot-uses-his-broken-beak-to-become-a-dominant-male/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "An injured kea with just half a beak has used what's left as a weapon that gives him dominance over a captive colony of the birds",
-      "date": "2026-04-20T16:00:13Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/17112112/SEI_293384576.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-20T18:03:10Z"
-    },
-    {
-      "title": "Can you determine your personalised stress score?",
-      "link": "https://www.newscientist.com/article/2522498-can-you-determine-your-personalised-stress-score/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "“I’m stressed” is a phrase that many of us use, but now there are ways to shed light on how stressed you actually are",
-      "date": "2026-04-20T14:00:00Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/16155919/SEI_293150549.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-20T18:03:10Z"
-    },
-    {
-      "title": "Why the right kind of stress is crucial for your health and happiness",
-      "link": "https://www.newscientist.com/article/2522362-why-the-right-kind-of-stress-is-crucial-for-your-health-and-happiness/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Stress is linked to many of our biggest killers, but a growing body of research suggests that certain types can sharpen the mind and strengthen the body. Here’s how to find your pe",
-      "date": "2026-04-20T14:00:47Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/16155917/SEI_293146323.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-20T18:03:10Z"
     }
   ]
 }
