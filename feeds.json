@@ -1,8 +1,96 @@
 {
-  "updated": "2026-04-27T18:11:49Z",
-  "updated_utc": "2026-04-27T18:11:49Z",
+  "updated": "2026-04-27T20:14:11Z",
+  "updated_utc": "2026-04-27T20:14:11Z",
   "count": 500,
   "stories": [
+    {
+      "title": "I Saved a Dying Climber on a Deadly Himalayan Peak. It Nearly Killed Me.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/everest/annapurna-sherpa-rescue/",
+      "summary": "On Annapurna, the margin between life and death is painfully thin. Ashok Lama, a Nepali guide, recently saved two climbers on the peak, and narrowly escaped with his own life. The ",
+      "date": "2026-04-27T19:12:42Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/Annapurna1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-27T20:14:03Z"
+    },
+    {
+      "title": "Interstellar Comet 3I/ATLAS Came From an Extremely Cold, Lonely Region of the Milky Way Galaxy, New Research Suggests",
+      "link": "https://www.smithsonianmag.com/smart-news/interstellar-comet-3i-atlas-came-from-an-extremely-cold-lonely-region-of-the-milky-way-galaxy-new-research-suggests-180988625/",
+      "summary": "Astronomers analyzed the vapors coming off the comet when it neared the sun and found it had a lot of \"heavy\" water. That hints it grew up in a frigid planetary system, possibly be",
+      "date": "2026-04-27T19:26:47Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/ptVhNqIhoBAgvHslOwu3b40mzT8=/420x240/filters:focal(1000x752:1001x753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/db/45/db45118a-149a-444f-abcf-59fca14d4260/the-interstellar-comet-3i-atlas-was-born-somewhere-much-different-from-our-solar-system-3iatlas.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-27T20:14:04Z"
+    },
+    {
+      "title": "A Tourist Damaged Florence’s 'Fountain of Neptune' While Attempting to Grope Its Marble Statue on a Dare",
+      "link": "https://www.smithsonianmag.com/smart-news/a-tourist-damaged-florences-fountain-of-neptune-while-attempting-to-grope-its-marble-statue-on-a-dare-180988623/",
+      "summary": "Fixing the fountain’s horse sculptures and frieze will cost nearly $6,000. The alleged offender is the latest tourist to harm artwork in response to peer pressure or in pursuit of ",
+      "date": "2026-04-27T17:52:24Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/u1MBWBmkr6LbdLEZpQD1X88H1ak=/420x240/filters:focal(2340x1560:2341x1561)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/87/14/8714ad95-a064-499e-ab71-d841f8110786/firenze_fontana_del_nettuno_dopo_il_restauro_del_2020_di_giorno_01.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-27T20:14:04Z"
+    },
+    {
+      "title": "Why the right kind of stress is crucial for your health and happiness",
+      "link": "https://www.newscientist.com/article/2522362-why-the-right-kind-of-stress-is-crucial-for-your-health-and-happiness/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Stress is linked to many of our biggest killers, but a growing body of research suggests that certain types can sharpen the mind and strengthen the body. Here’s how to find your pe",
+      "date": "2026-04-20T14:00:47Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/16155917/SEI_293146323.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-27T20:14:06Z"
+    },
+    {
+      "title": "Detailed DNA repair snapshots reveal how BRCA-linked cancer cells may survive",
+      "link": "https://phys.org/news/2026-04-dna-snapshots-reveal-brca-linked.html",
+      "summary": "Scientists have captured the most detailed structural images to date of a specific type of protein's DNA repair process, a finding that could reveal ways to inhibit the effects of ",
+      "date": "2026-04-27T19:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/best-snapshots-yet-of.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-27T20:14:08Z"
+    },
+    {
+      "title": "Small differences in cell structures called microtubules determine how well cancer drug performs",
+      "link": "https://phys.org/news/2026-04-small-differences-cell-microtubules-cancer.html",
+      "summary": "A research team from the School of Biomedical Sciences at the LKS Faculty of Medicine, the University of Hong Kong (HKUMed), has uncovered the mechanism underlying how cancer patie",
+      "date": "2026-04-27T19:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/small-differences-in-c.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-27T20:14:08Z"
+    },
+    {
+      "title": "How giants that vanished 10,000 years ago triggered ripple effects that are still felt today",
+      "link": "https://phys.org/news/2026-04-giants-years-triggered-ripple-effects.html",
+      "summary": "Between 50,000 and 10,000 years ago, many of the world's largest mammals disappeared. Picture creatures like saber-toothed cats with 7-inch fangs and elephant-sized sloths. Woolly ",
+      "date": "2026-04-27T19:00:11Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/saber-toothed-cats.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-27T20:14:08Z"
+    },
+    {
+      "title": "Neanderthals' brains weren't to blame for their demise, new study suggests",
+      "link": "https://www.livescience.com/archaeology/neanderthals/neanderthals-brains-werent-to-blame-for-their-demise-new-study-suggests",
+      "summary": "Researchers examining the brains of living people found that they differed more substantially than Neanderthals' brains differed from modern humans', calling into question the reas",
+      "date": "2026-04-27T19:38:59Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/6xwoXuZHGXPVCpQDpZUy77-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-27T20:14:09Z"
+    },
     {
       "title": "The British Are Coming and You’re Gonna Love It",
       "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/the-british-are-coming-and-youre-gonna-love-it/",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-20T20:02:59Z"
-    },
-    {
-      "title": "Connected habitats help frogs keep protective microbes and curb deadly fungus",
-      "link": "https://phys.org/news/2026-04-habitats-frogs-microbes-curb-deadly.html",
-      "summary": "Maintaining connections between natural habitats may support beneficial microbes that help wildlife defend against disease. In a new study of tropical amphibians, a team led by Pen",
-      "date": "2026-04-20T19:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/connected-habitats-hel.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-20T20:02:59Z"
-    },
-    {
-      "title": "Why a bizarre Brazil 'pterosaur' fossil is now being reclassified as a fish",
-      "link": "https://phys.org/news/2026-04-bizarre-brazil-pterosaur-fossil-reclassified.html",
-      "summary": "Georges Cuvier, the 19th-century French anatomist who first recognized pterodactyls as flying reptiles, wrote that \"of all the beings whose ancient existence has been revealed to u",
-      "date": "2026-04-20T18:50:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-we-determined-that-3.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-20T20:02:59Z"
-    },
-    {
-      "title": "Australia's truffle industry may owe part of its success to a surprising underground secret",
-      "link": "https://phys.org/news/2026-04-australia-truffle-industry-owe-success.html",
-      "summary": "Imagine ordering a truffle dish in a fancy restaurant, and you might picture pricey gourmet mushrooms from France or Italy. But recent decades have seen an upstart on the truffle s",
-      "date": "2026-04-20T18:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/australias-truffle-ind.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-20T20:02:59Z"
-    },
-    {
-      "title": "Rare soft-bodied fossil from Quebec reveals a new jellyfish relative from 450 million years ago",
-      "link": "https://phys.org/news/2026-04-rare-soft-bodied-fossil-quebec.html",
-      "summary": "Canadian researchers studying 450-million-year-old fossils near Quebec City have identified a new species of basal-medusozoan: Paleocanna tentaculum, a soft-bodied, tube-shaped pol",
-      "date": "2026-04-20T18:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-find-a-new.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-20T20:02:59Z"
-    },
-    {
-      "title": "Sustainable sushi: How to forage uni from California’s coastal tide pools",
-      "link": "https://www.mercurynews.com/2026/04/20/how-to-forage-uni-california-earth-day/",
-      "summary": "Peer into the water at the tide pools of Fort Ross State Historic Park on the Sonoma Coast, and you'll see what appears to be an alien invasion of bright purple, spiky balls the si",
-      "date": "2026-04-20T16:24:07Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SJM-L-UNI-0419-02.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-04-20T18:03:04Z"
-    },
-    {
-      "title": "Mountain lion captured in Marin as wildlife project expands",
-      "link": "https://www.mercurynews.com/2026/04/19/mountain-lion-captured-in-marin-as-wildlife-project-expands/",
-      "summary": "The 140-pound predator caught in the Lagunitas area is now wearing a tracking collar so researchers can monitor its movements.",
-      "date": "2026-04-19T20:48:06Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/jb0429_lion_004.jpg.jpeg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-04-20T18:03:04Z"
-    },
-    {
-      "title": "East Palo Alto neighborhood gets access to open space",
-      "link": "https://www.mercurynews.com/2026/04/12/east-palo-alto-neighborhood-gets-access-to-open-space/",
-      "summary": "City, Midpen cut ribbon on gate to Ravenswood preserve.",
-      "date": "2026-04-12T14:14:30Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/DNG-L-BRIEFS-0417.jpeg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-04-20T18:03:04Z"
-    },
-    {
-      "title": "How to Make Your Rain Shell Last Forever",
-      "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/rain-shell-care-maintenance/",
-      "summary": "Don’t buy into the misconception that washing and drying your shell will ruin it. In fact, the opposite is true. The post How to Make Your Rain Shell Last Forever appeared first on",
-      "date": "2026-04-20T17:15:42Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/how-to-care-for-rain-shell.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-20T18:03:06Z"
     }
   ]
 }
