@@ -1,8 +1,52 @@
 {
-  "updated": "2026-04-28T03:53:48Z",
-  "updated_utc": "2026-04-28T03:53:48Z",
+  "updated": "2026-04-28T06:36:50Z",
+  "updated_utc": "2026-04-28T06:36:50Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: Urban peregrines are not fussy eaters | Nic Wilson",
+      "link": "https://www.theguardian.com/environment/2026/apr/28/country-diary-urban-peregrines-are-not-fussy-eaters",
+      "summary": "Stevenage, Hertfordshire: Thanks to Andy, who scrabbles around on the pavement, we know that pigeons are just for starters Andy and I meet by the trolleys in Asda car park. As we h",
+      "date": "2026-04-28T04:30:39Z",
+      "image": "https://i.guim.co.uk/img/media/edf015fada529de63c29406bef4c3b9fc015175f/0_156_1560_1247/master/1560.jpg?width=140&quality=85&auto=format&fit=max&s=e190eb514d719a35836eddf601bda8d8",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-28T06:36:35Z"
+    },
+    {
+      "title": "I’m a Registered Dietitian. These Are the Best Protein-Enhanced Foods That Are Worth Buying.",
+      "link": "https://www.outsideonline.com/health/nutrition/what-know-about-protein-maxxing/",
+      "summary": "Protein-enriched foods are everywhere, from ice cream to chips and even coffee. But this trend has very little to do with sports nutrition, Matthew Kadey, R.D., explains. The post ",
+      "date": "Tue, 28 Apr 2026 05Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/protein-maxxing-rd-take.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-28T06:36:42Z"
+    },
+    {
+      "title": "Rare two-colored lobster caught by fishermen off Cape Cod donated to aquarium",
+      "link": "https://phys.org/news/2026-04-rare-lobster-caught-fishermen-cape.html",
+      "summary": "It might be a divided lobster, but it has united New Englanders in fascination.",
+      "date": "2026-04-28T06:31:14Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rare-two-colored-lobst.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-28T06:36:47Z"
+    },
+    {
+      "title": "Two whale groups separated by seas—but not by genes, study finds",
+      "link": "https://phys.org/news/2026-04-whale-groups-seas-genes.html",
+      "summary": "A paper in Genome Biology and Evolution discovers that the endangered Mediterranean fin whale is not completely isolated from Atlantic groups. Both Atlantic and Mediterranean popul",
+      "date": "2026-04-28T04:10:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mediterranean-fin-whal.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-28T06:36:47Z"
+    },
     {
       "title": "What Do Birds Eat?",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/what-do-birds-eat/",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-20T23:53:15Z"
-    },
-    {
-      "title": "The physics of brain development: How cells pull together to form the neural tube",
-      "link": "https://phys.org/news/2026-04-physics-brain-cells-neural-tube.html",
-      "summary": "In about one out of every 1,000 pregnancies, the neural tube, a key nervous system structure, fails to close properly. Georgia Tech physicists are now helping explain why this happ",
-      "date": "2026-04-20T23:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-physics-of-brain-d-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-20T23:53:15Z"
-    },
-    {
-      "title": "AI model 'reads' protein pairs, unlocking new insights into disease and drug discovery",
-      "link": "https://phys.org/news/2026-04-ai-protein-pairs-insights-disease.html",
-      "summary": "Researchers have developed a new artificial intelligence (AI) model that can more accurately predict how proteins interact with one another—an advancement that could accelerate dru",
-      "date": "2026-04-20T23:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-model-reads-protein.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-20T23:53:15Z"
-    },
-    {
-      "title": "Wildflower season: Here’s where to find blooms in the Bay Area",
-      "link": "https://www.mercurynews.com/2026/04/13/bay-area-wildflower-blooms-2026/",
-      "summary": "The spring provides a chance to appreciate the riches Earth gives us: small-scale splendor hiding beneath our feet.",
-      "date": "2026-04-13T16:30:12Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SJM-L-WILDFLOWERS-XX-1.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-04-20T22:54:21Z"
-    },
-    {
-      "title": "Alkaline cement tiles boost baby coral survival from 12% to 52%",
-      "link": "https://phys.org/news/2026-04-alkaline-cement-tiles-boost-baby.html",
-      "summary": "As coral reefs struggle to survive in warming oceans, scientists across the world are scrambling to find ways to help these vital ocean ecosystems. An interdisciplinary team at the",
-      "date": "2026-04-20T22:50:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-strategies-for-c-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-20T22:54:29Z"
     }
   ]
 }
