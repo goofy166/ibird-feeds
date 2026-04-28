@@ -1,8 +1,118 @@
 {
-  "updated": "2026-04-28T16:59:11Z",
-  "updated_utc": "2026-04-28T16:59:11Z",
+  "updated": "2026-04-28T18:45:41Z",
+  "updated_utc": "2026-04-28T18:45:41Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How Many Bathtubs’ Worth of Water Does Yellowstone’s Old Faithful Erupt? Scientists Just Measured It.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/national-parks-yellowstone-old-faithful-water-volume-study/",
+      "summary": "Yellowstone’s Old Faithful is famous for its big eruptions, but how much water does it actually erupt? A new USGS study now has an answer. The post How Many Bathtubs’ Worth of Wate",
+      "date": "Tue, 28 Apr 2026 17Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/GettyImages-528903275.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-28T18:45:32Z"
+    },
+    {
+      "title": "11 Best Marathon Racing Shoes for Every Type of Runner",
+      "link": "https://www.outsideonline.com/outdoor-gear/run/best-marathon-racing-shoes/",
+      "summary": "The right marathon shoe can boost your performance and make the race more enjoyable. The post 11 Best Marathon Racing Shoes for Every Type of Runner appeared first on Outside Onlin",
+      "date": "Tue, 28 Apr 2026 17Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/marathon_racing_2026_h.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-28T18:45:32Z"
+    },
+    {
+      "title": "People are betting on measles outbreaks – and that might be useful",
+      "link": "https://www.newscientist.com/article/2524510-people-are-betting-on-measles-outbreaks-and-that-might-be-useful/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Millions of dollars are being spent on wagers predicting measles outbreaks in the US, which could help researchers modelling the spread of the disease",
+      "date": "Tue, 28 Apr 2026 17Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/27155540/SEI_294871761.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-28T18:45:36Z"
+    },
+    {
+      "title": "Is consciousness more fundamental to reality than quantum physics?",
+      "link": "https://www.newscientist.com/article/2523209-is-consciousness-more-fundamental-to-reality-than-quantum-physics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The idea that everything that exists can be built from the bottom up has long held sway among physicists. Now, a new kind of science is under construction that centres conscious ex",
+      "date": "Tue, 28 Apr 2026 17Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/23142211/SEI_294321403.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-28T18:45:36Z"
+    },
+    {
+      "title": "Humanoid robots may be about to break the 100-metre sprint record",
+      "link": "https://www.newscientist.com/article/2523906-humanoid-robots-may-be-about-to-break-the-100-metre-sprint-record/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Robots can now run a half-marathon faster than humans and are rapidly homing in on the 100-metre sprint record. But why are companies so keen to create speedy robots that have no o",
+      "date": "Tue, 28 Apr 2026 15Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/27145622/SEI_294881851.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-28T18:45:36Z"
+    },
+    {
+      "title": "Humidity and heat are killers for tropical birds: Waxbill and hornbill studies highlight the dangers",
+      "link": "https://phys.org/news/2026-04-humidity-killers-tropical-birds-waxbill.html",
+      "summary": "Humans are not the only species negatively affected by increasingly hot and humid conditions. Intense heat waves sometimes kill large numbers of wild animals. Eastern Australia's g",
+      "date": "2026-04-28T18:40:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/waxbill.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-28T18:45:37Z"
+    },
+    {
+      "title": "Urban agriculture could supply about 28% of Europe's vegetable demand",
+      "link": "https://phys.org/news/2026-04-urban-agriculture-europe-vegetable-demand.html",
+      "summary": "A new study, conducted by researchers from the Netherlands and Germany, estimates that urban agriculture in European cities could produce up to 20 million tons of vegetables annual",
+      "date": "2026-04-28T18:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/urban-agriculture-coul.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-28T18:45:37Z"
+    },
+    {
+      "title": "Stick-on gel delivers drugs directly to plants to clear infections quickly",
+      "link": "https://phys.org/news/2026-04-gel-drugs-infections-quickly.html",
+      "summary": "A stick-on gel for plants could one day offer a simple, safe and targeted way to treat diseases and pests. Engineers at the University of California San Diego have developed an adh",
+      "date": "2026-04-28T17:40:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/stick-on-gel-offers-ne-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-28T18:45:37Z"
+    },
+    {
+      "title": "Soil, not fertilizer, is primary source of nitrogen gas loss in rice paddies, study reveals",
+      "link": "https://phys.org/news/2026-04-soil-fertilizer-primary-source-nitrogen.html",
+      "summary": "Rice production is heavily dependent on nitrogen fertilizers, particularly in China, where application rates are two to three times the global average. At the same time, a large am",
+      "date": "2026-04-28T17:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-reveals-soil-not.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-28T18:45:37Z"
+    },
+    {
+      "title": "'Their greatest challenge since they stared down the asteroid': Paleontologist Steve Brusatte on why birds are facing their biggest existential threat since the dino-killing asteroid",
+      "link": "https://www.livescience.com/animals/birds/their-greatest-challenge-since-they-stared-down-the-asteroid-paleontologist-steve-brusatte-on-why-birds-are-facing-their-biggest-existential-threat-since-the-dino-killing-asteroid",
+      "summary": "In a new book, paleontologist Steve Brustatte tells the wild story of how birds evolved during the Jurassic and took to the skies, surviving the asteroid strike that killed their f",
+      "date": "Tue, 28 Apr 2026 17Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/on43bKdWEpnfevvzqfxjq7-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-28T18:45:39Z"
+    },
     {
       "title": "Goldfinch Nests: Everything You Need to Know",
       "link": "https://www.birdsandblooms.com/birding/attracting-birds/bird-nesting/goldfinch-nest/",
@@ -5392,116 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-21T20:08:57Z"
-    },
-    {
-      "title": "One tiny gene switch turns red lettuce upside down and reveals a hidden chemical tradeoff",
-      "link": "https://phys.org/news/2026-04-tiny-gene-red-lettuce-upside.html",
-      "summary": "Red-leaf lettuce is red due to anthocyanins, a class of polyphenolic pigments widely studied for their antioxidant properties. In plants, anthocyanins are synthesized through enzym",
-      "date": "2026-04-21T18:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genome-editing-turns-r.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-21T20:08:57Z"
-    },
-    {
-      "title": "NASA shuts off another Voyager 1 instrument as humanity's most distant spacecraft prepares for risky 'Big Bang' maneuver to save power",
-      "link": "https://www.livescience.com/space/space-exploration/nasa-shuts-off-another-voyager-1-instrument-as-humanitys-most-distant-spacecraft-prepares-for-risky-big-bang-maneuver-to-save-power",
-      "summary": "After nearly 50 years in space, the two Voyager spacecraft are very low on nuclear power. Voyager 1 just shut off another instrument to save the mission.",
-      "date": "Tue, 21 Apr 2026 18Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/UbGVdsGpa7MfEzeSc6yadJ-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-21T20:08:58Z"
-    },
-    {
-      "title": "Jackie and Shadow: A Bald Eagle Love Story",
-      "link": "https://www.birdsandblooms.com/birding/bird-species/birds-of-prey/jackie-shadow-bald-eagles/",
-      "summary": "Here's what to know about bald eagles Jackie and Shadow, a mated pair that has captivated millions through their live nest cam. The post Jackie and Shadow: A Bald Eagle Love Story ",
-      "date": "Tue, 21 Apr 2026 17Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/04/260108_Sticks3-1-e1776792408487.png?fit=700,699",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-04-21T18:04:42Z"
-    },
-    {
-      "title": "Mystery Solved: Why Do Squirrels Shake Their Tails?",
-      "link": "https://www.birdsandblooms.com/gardening/backyard-wildlife/squirrel-tails/",
-      "summary": "Have you ever seen a squirrel flicking its tail and wondered why? We have the answer—plus answers to other questions about squirrel tails. The post Mystery Solved: Why Do Squirrels",
-      "date": "Tue, 21 Apr 2026 16Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/04/GettyImages-579617512-scaled-e1776786665882.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-04-21T18:04:42Z"
-    },
-    {
-      "title": "The Lyrid meteor shower peaks tonight. Don’t miss it!",
-      "link": "https://earthsky.org/astronomy-essentials/everything-you-need-to-know-lyrid-meteor-shower/",
-      "summary": "The best time to watch the Lyrid meteor shower is before dawn on the morning of April 22. You'll have a dark and moonless sky. Good luck! The post The Lyrid meteor shower peaks ton",
-      "date": "Tue, 21 Apr 2026 10Z",
-      "image": "https://earthsky.org/upl/2026/04/Meteor-falling-fireball_NASA.webp",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-21T18:04:47Z"
-    },
-    {
-      "title": "Did you know hummingbirds love to eat insects?",
-      "link": "https://www.mercurynews.com/2026/04/12/outdoors/",
-      "summary": "Blooming flowers provide natural nectar sources, but hummingbirds primarily eat bugs, including an assortment of gnats, mosquitoes, crane flies, midges and spiders.",
-      "date": "2026-04-12T12:00:51Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SUT-L-COWAN-COL-0412-03.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-04-21T18:04:51Z"
-    },
-    {
-      "title": "New Archaeological Discoveries Reveal How San Antonio's Earliest Settlers Irrigated Crops and Accessed Drinking Water",
-      "link": "https://www.smithsonianmag.com/smart-news/new-archaeological-discoveries-reveal-how-san-antonio-colonists-irrigated-crops-and-accessed-drinking-water-180988571/",
-      "summary": "While preparing for school renovations, researchers in Texas found remnants of the historic San Pedro acequia, a centuries-old technology that provided water to the burgeoning vill",
-      "date": "Tue, 21 Apr 2026 17Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/LtVC0frbKDvMNHuMct4aAb_g5uY=/420x240/filters:focal(500x281:501x282)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7a/29/7a29855e-24a9-4a9c-aae9-7efbf6302f17/large_acafe56c-aa33-4a9b-a27f-0ffe403d73a8.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-21T18:04:54Z"
-    },
-    {
-      "title": "Titan’s strange plains may be explained by unusual weather",
-      "link": "https://www.newscientist.com/article/2523722-titans-strange-plains-may-be-explained-by-unusual-weather/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Most of Titan’s surface is oddly flat and smooth, and it may be because it is coated by as much as a metre of fluffy organic material that snowed down from the icy moon’s thick atm",
-      "date": "Tue, 21 Apr 2026 18Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/21111159/SEI_294025329.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-21T18:04:57Z"
-    },
-    {
-      "title": "How we discovered the speed limit of arithmetic – and broke it",
-      "link": "https://www.newscientist.com/article/2521354-how-we-discovered-the-speed-limit-of-arithmetic-and-broke-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Some seemingly simple sequences of multiplication and addition grow so quickly that they question the very foundations of mathematics. In doing so, they demand a whole new level of",
-      "date": "Tue, 21 Apr 2026 17Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/13175115/SEI_293041785.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-21T18:04:57Z"
-    },
-    {
-      "title": "Game theory explains why the US's goals in Iran keep changing",
-      "link": "https://www.newscientist.com/article/2523786-game-theory-explains-why-the-uss-goals-in-iran-keep-changing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "The ongoing conflict around the Strait of Hormuz has become a situation in game theory known as a war of attrition. The maths behind it can help explain what's going on, says Petro",
-      "date": "Tue, 21 Apr 2026 15Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/21133208/SEI_293951796.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-21T18:04:57Z"
     }
   ]
 }
