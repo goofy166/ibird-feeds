@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-29T04:33:55Z",
-  "updated_utc": "2026-04-29T04:33:55Z",
+  "updated": "2026-04-29T07:27:59Z",
+  "updated_utc": "2026-04-29T07:27:59Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Older than the dinosaurs: scientists finally unlock secret of the mayfly’s dance",
+      "link": "https://www.theguardian.com/environment/2026/apr/29/mayflies-dance-vertical-pattern-experts-aoe",
+      "summary": "The bizarre vertical flight pattern has long puzzled experts but new research reveals why it may play a crucial role in the insect’s survival On a spring evening along the banks of",
+      "date": "2026-04-29T06:00:48Z",
+      "image": "https://i.guim.co.uk/img/media/c3d6bcc6a0d639adeabab2678f71c6656913284f/374_1546_1917_1533/master/1917.jpg?width=140&quality=85&auto=format&fit=max&s=41c70dd274fdc63ac731a2fe634c5786",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-29T07:27:44Z"
+    },
     {
       "title": "Country diary: The simple pleasure of watching beetles doing a barn dance | Charlie Elder",
       "link": "https://www.theguardian.com/environment/2026/apr/29/country-diary-the-simple-pleasure-of-watching-beetles-doing-a-barn-dance",
@@ -5487,17 +5498,6 @@
       "summary": "Whether you've sought them out or not, you've probably encountered parenting content creators on social media at some point in the last two decades.",
       "date": "2026-04-21T23:40:04Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/primates.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-21T23:43:09Z"
-    },
-    {
-      "title": "Malaria rebound spurs AI-driven hunt for parasite genes linked to deadly cases",
-      "link": "https://phys.org/news/2026-04-malaria-rebound-spurs-ai-driven.html",
-      "summary": "Despite decades of efforts to combat it, malaria remains a major global health threat. According to the World Health Organization's (WHO) 2025 World Malaria Report, about 282 milli",
-      "date": "2026-04-21T23:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/malaria-2.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
