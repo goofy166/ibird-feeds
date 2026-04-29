@@ -1,8 +1,52 @@
 {
-  "updated": "2026-04-29T00:00:43Z",
-  "updated_utc": "2026-04-29T00:00:43Z",
+  "updated": "2026-04-29T04:33:55Z",
+  "updated_utc": "2026-04-29T04:33:55Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: The simple pleasure of watching beetles doing a barn dance | Charlie Elder",
+      "link": "https://www.theguardian.com/environment/2026/apr/29/country-diary-the-simple-pleasure-of-watching-beetles-doing-a-barn-dance",
+      "summary": "West Dartmoor, Devon: On the moor, every puddle and pool is quivering with whirligig beetles, carving circles and rotating in pairs A calm, clear morning on Dartmoor and the shallo",
+      "date": "2026-04-29T04:30:44Z",
+      "image": "https://i.guim.co.uk/img/media/403738d868906493dd09c6310cafb0c31fd21eb4/272_0_2024_1620/master/2024.jpg?width=140&quality=85&auto=format&fit=max&s=9156a5d76ab492f4b398c646ec46bf66",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-29T04:33:40Z"
+    },
+    {
+      "title": "British Australian athlete swims 55km in WA’s croc-filled Ord River to set world record – video",
+      "link": "https://www.theguardian.com/lifeandstyle/video/2026/apr/29/british-australian-athlete-swims-55km-in-was-croc-filled-ord-river-to-set-world-record-video",
+      "summary": "Ultramarathon swimmer Andy Donaldson completed the Dam to Dam Challenge from Lake Argyle to Kununurra in the East Kimberley on Tuesday, becoming the first man to complete the gruel",
+      "date": "2026-04-29T03:00:38Z",
+      "image": "https://i.guim.co.uk/img/media/ed8bcfc9c0dd609393183b73eda3bbc4d63b9b68/62_0_2108_1688/master/2108.jpg?width=140&quality=85&auto=format&fit=max&s=54e7f8c14823c40ee0f2bd121c994c4a",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-29T04:33:40Z"
+    },
+    {
+      "title": "‘Coming home’: kiwi enter parliament for first time as New Zealand marks conservation win",
+      "link": "https://www.theguardian.com/world/2026/apr/29/kiwi-bird-nz-new-zealand-parliament",
+      "summary": "Politicians, children and Māori groups gathered in the Wellington banquet hall to see in the flesh the success of efforts to protect country’s national bird When five kiwi were pre",
+      "date": "2026-04-29T00:49:25Z",
+      "image": "https://i.guim.co.uk/img/media/371ca71e897f4eadcab650f64e80b8e3ae17339d/159_0_1706_1365/master/1706.jpg?width=140&quality=85&auto=format&fit=max&s=be9e84898ee48766cc2ef427e697564b",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-29T04:33:40Z"
+    },
+    {
+      "title": "Cancer is increasing in young people and we still don't know why",
+      "link": "https://www.newscientist.com/article/2524515-cancer-is-increasing-in-young-people-and-we-still-dont-know-why/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Obesity might be to blame for part of the increase in cancer among young people, a study in the UK has found, but the causes largely remain a mystery",
+      "date": "2026-04-28T23:30:36Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/27174404/SEI_294906992.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-29T04:33:50Z"
+    },
     {
       "title": "Scorpions Are So Metal—Literally. New Images Reveal Patterns in How Their Weaponry Is Fortified With Iron, Zinc and Manganese",
       "link": "https://www.smithsonianmag.com/smithsonian-institution/scorpions-are-so-metal-literally-new-images-reveal-patterns-in-how-their-weaponry-is-fortified-with-iron-zinc-and-manganese-180988633/",
@@ -5454,50 +5498,6 @@
       "summary": "Despite decades of efforts to combat it, malaria remains a major global health threat. According to the World Health Organization's (WHO) 2025 World Malaria Report, about 282 milli",
       "date": "2026-04-21T23:40:01Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/malaria-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-21T23:43:09Z"
-    },
-    {
-      "title": "Self‑replicating circular RNA persists in extreme environments: Insights from hot spring microbiomes",
-      "link": "https://phys.org/news/2026-04-selfreplicating-circular-rna-persists-extreme.html",
-      "summary": "Although the genetic material of most living organisms is DNA, various self-replicating agents rely instead on RNA, including RNA viruses and viroids, which are infectious RNA mole",
-      "date": "2026-04-21T23:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hot-spring-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-21T23:43:09Z"
-    },
-    {
-      "title": "A few extra minutes of daily play can strengthen your bond with your dog in four weeks",
-      "link": "https://phys.org/news/2026-04-extra-minutes-daily-play-bond.html",
-      "summary": "Playing a little extra with your dog improves the emotional bond between owner and dog, according to a new study from Linköping University. However, training did not give the same ",
-      "date": "2026-04-21T23:10:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/playing-with-your-dog.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-21T23:43:09Z"
-    },
-    {
-      "title": "Breathing new life into an ancient mystery: Unlocking the trilobite's respiratory secrets",
-      "link": "https://phys.org/news/2026-04-life-ancient-mystery-trilobite-respiratory.html",
-      "summary": "For more than 270 million years, trilobites were among the most successful and diverse creatures on Earth, with over 22,000 known species spanning the Paleozoic Era. Yet, despite t",
-      "date": "2026-04-21T23:00:12Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/breathing-new-life-int.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-21T23:43:09Z"
-    },
-    {
-      "title": "Hurricanes devastated Florida's East Coast. Then seagrass made an unexpected comeback",
-      "link": "https://phys.org/news/2026-04-hurricanes-devastated-florida-east-coast.html",
-      "summary": "Florida's Indian River Lagoon has been an ecosystem in decline going back to 2011, when harmful algal blooms led to a severe decline in seagrass, the foundational component of shal",
-      "date": "2026-04-21T23:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/seagrass.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
