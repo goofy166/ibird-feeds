@@ -1,8 +1,107 @@
 {
-  "updated": "2026-04-29T21:13:39Z",
-  "updated_utc": "2026-04-29T21:13:39Z",
+  "updated": "2026-04-29T23:02:28Z",
+  "updated_utc": "2026-04-29T23:02:28Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Birds-of-Paradise Project Sound",
+      "link": "https://www.allaboutbirds.org/news/birds-of-paradise-project-sound/",
+      "summary": "",
+      "date": "Tue, 07 Apr 2026 16Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Goldfinch_on_a_branch.jpg",
+      "name": "All About Birds",
+      "category": "birds",
+      "color": 3,
+      "fetched_at": "2026-04-29T23:02:09Z"
+    },
+    {
+      "title": "How Nature Works: Catbird Mimicry",
+      "link": "https://www.allaboutbirds.org/news/how-nature-works-catbird-mimicry/",
+      "summary": "",
+      "date": "Tue, 07 Apr 2026 15Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Psephotus_haematonotus_male.jpg",
+      "name": "All About Birds",
+      "category": "birds",
+      "color": 3,
+      "fetched_at": "2026-04-29T23:02:09Z"
+    },
+    {
+      "title": "Blobs of fat and the smell of rotting garbage: at an idyllic Sydney beach, a 25-tonne sperm whale slowly disintegrates",
+      "link": "https://www.theguardian.com/environment/2026/apr/29/blobs-of-fat-and-the-smell-of-rotting-garbage-at-an-idyllic-sydney-beach-a-25-tonne-sperm-whale-slowly-disintegrates",
+      "summary": "Authorities are yet to decide how they will move the body of the massive creature, which is attracting humans, eagles – and plenty of sharks Follow our Australia news live blog for",
+      "date": "2026-04-29T15:00:52Z",
+      "image": "https://i.guim.co.uk/img/media/9009e348e844dbd6d0ac0d407e3f6e2b00a2ae80/326_0_2456_1965/master/2456.jpg?width=140&quality=85&auto=format&fit=max&s=2b5557891c55377ca1a454519e1a0d3b",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-29T23:02:12Z"
+    },
+    {
+      "title": "A Father and Daughter Forged More Than 200 Artworks by Warhol, Banksy, Picasso and Others—and Sold Them for $2 Million",
+      "link": "https://www.smithsonianmag.com/smart-news/a-father-and-daughter-forged-more-than-200-artworks-by-warhol-banksy-picasso-and-others-and-old-them-for-2-million-180988641/",
+      "summary": "The New Jersey residents, who face up to 20 years in prison, commissioned an artist in Poland to create the fakes. They got special penalties for forging paintings by Native Americ",
+      "date": "2026-04-29T21:26:09Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/CHS8I2ivp3k7Q5f1WB8adKAD4C0=/420x240/filters:focal(325x328:326x329)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ab/0a/ab0a653f-7146-45e6-aa3f-ac542a48c368/picture_4.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-29T23:02:20Z"
+    },
+    {
+      "title": "Blooming surprise in upstate New York reveals first new flowering plant species in nearly ten years",
+      "link": "https://phys.org/news/2026-04-blooming-upstate-york-reveals-species.html",
+      "summary": "Justin Scholten '22 knows the plants growing on the forest floor around the Finger Lakes. There's the white baneberry, Actaea pachypoda and the red baneberry, Actaea rubra. Both ar",
+      "date": "2026-04-29T22:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/phd-student-finds-new.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-29T23:02:24Z"
+    },
+    {
+      "title": "Embryo epigenome follows universal physical rules, reshaping views of early cell fate",
+      "link": "https://phys.org/news/2026-04-embryo-epigenome-universal-physical-reshaping.html",
+      "summary": "The development of an embryo is one of the most fundamental processes in biology. Early in this process, it is determined which cells will give rise to which tissues—controlled by ",
+      "date": "2026-04-29T21:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-the-embryonal-epig.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-29T23:02:24Z"
+    },
+    {
+      "title": "Rice processing research points to evolving milling rates as quality factor",
+      "link": "https://phys.org/news/2026-04-rice-evolving-milling-quality-factor.html",
+      "summary": "Research by the Arkansas Rice Processing Program is showing valuable insights for rice farmers that affect their take-home pay and the quality of rice for food makers. Over the pas",
+      "date": "2026-04-29T21:30:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rice-processing-resear-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-29T23:02:24Z"
+    },
+    {
+      "title": "Fertilizer can be made from local resources instead of fossil fuels",
+      "link": "https://phys.org/news/2026-04-fertilizer-local-resources-fossil-fuels.html",
+      "summary": "The prices of mineral fertilizers are rising. The Fraunhofer Institute for Interfacial Engineering and Biotechnology IGB is working on alternative production methods: Researchers h",
+      "date": "2026-04-29T21:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fertilizer-from-local.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-29T23:02:24Z"
+    },
+    {
+      "title": "Used SpaceX rocket could crash into the moon's Einstein crater this summer, report predicts",
+      "link": "https://www.livescience.com/space/space-exploration/used-spacex-rocket-could-crash-into-the-moons-einstein-crater-this-summer-report-predicts",
+      "summary": "Part of a SpaceX Falcon 9 rocket is likely to crash into the moon this summer, a new report finds. It poses no danger, but does highlight a worrying trend.",
+      "date": "2026-04-29T22:37:47Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/X4eypqsEXbsNbwXkMc2vZH-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-29T23:02:25Z"
+    },
     {
       "title": "8 Garden Caterpillars That You Should Never Kill",
       "link": "https://www.birdsandblooms.com/gardening/garden-bugs/garden-caterpillars/",
@@ -5403,105 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-04-22T22:58:18Z"
-    },
-    {
-      "title": "Cosmetics from waste? Microbial discovery unlocks greener route to high-value chemical products",
-      "link": "https://phys.org/news/2026-04-cosmetics-microbial-discovery-greener-route.html",
-      "summary": "Researchers at University of Toronto's Department of Chemical Engineering & Applied Chemistry have made a key discovery about how certain bacterial strains produce a set of economi",
-      "date": "2026-04-22T22:50:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cosmetics-from-waste-m.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-22T22:58:23Z"
-    },
-    {
-      "title": "How a faster protein-screening tool could strengthen US rare-earth supply chains",
-      "link": "https://phys.org/news/2026-04-faster-protein-screening-tool-rare.html",
-      "summary": "To ensure a robust domestic supply chain in the U.S., Lawrence Livermore National Laboratory (LLNL) scientists are using bacterial proteins to separate the rare-earth elements that",
-      "date": "2026-04-22T22:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-protein-screening-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-22T22:58:23Z"
-    },
-    {
-      "title": "Turning four into two: How duplicated genomes become diploid again",
-      "link": "https://phys.org/news/2026-04-duplicated-genomes-diploid.html",
-      "summary": "Genome duplication probably gave biodiversity a decisive evolutionary boost. A Chinese-German research team led by Axel Meyer from the University of Konstanz has now investigated t",
-      "date": "2026-04-22T22:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/turning-four-into-two-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-22T22:58:23Z"
-    },
-    {
-      "title": "How to Grow and Care for Celosia Plants (Cockscomb)",
-      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/celosia-cockscomb/",
-      "summary": "If you're looking for a unique, eye-catching flower to add pizazz to your yard, celosia is the flower for you! Here's how to grow it. The post How to Grow and Care for Celosia Plan",
-      "date": "2026-04-15T14:49:44Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/04/shutterstock_1247105863-e1776264228417.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-04-22T21:57:13Z"
-    },
-    {
-      "title": "Spring Hiking Can Turn Deadly Fast. The White Mountains Just Proved It.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/white-mountains-spring-hiking-safety-warning/",
-      "summary": "A solo hiker’s death in New Hampshire serves as a grim warning on why spring conditions can be the most deceptive for mountain travelers. The post Spring Hiking Can Turn Deadly Fas",
-      "date": "2026-04-22T21:47:58Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/GettyImages-1331273788.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-22T21:57:24Z"
-    },
-    {
-      "title": "I Climb the World’s Highest Peaks Without Bottled Oxygen. Here’s What It’s Like.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/everest/annapurna-no-oxygen/",
-      "summary": "Ever wondered what it feels like to ascend an 8,000-meter peak without supplemental oxygen? Mountaineer Stefi Trouget takes us inside her recent attempt on Annapurna. The post I Cl",
-      "date": "2026-04-22T20:14:05Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/Stefi6.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-22T21:57:24Z"
-    },
-    {
-      "title": "The National Gallery of Art Embraces New Role as Lending Library, Thanks to a Big Gift That Sends Artwork to Other Museums",
-      "link": "https://www.smithsonianmag.com/smart-news/the-national-gallery-of-art-embraces-new-role-as-lending-library-thanks-to-a-big-gift-that-sends-artwork-to-other-museums-180988597/",
-      "summary": "A donation of $116 million from the family foundation of longtime trustee Mitchell P. Rales will help share the museum's collection in honor of the 250th birthday of the U.S.",
-      "date": "2026-04-22T21:03:15Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/s2qzurn7MzN4Ntk1zSGfoDgCnPQ=/420x240/filters:focal(960x663:961x664)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ad/82/ad82986e-1070-4503-9fb7-cd097c9dbb62/national_gallery_of_art_select_image_12.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-22T21:57:26Z"
-    },
-    {
-      "title": "A Young Black Girl Was the First to Desegregate a Maryland Carousel in the 1960s. Now, the Historic Merry-Go-Round Will Entertain Visitors on the National Mall",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/a-young-black-girl-was-the-first-to-desegregate-a-maryland-carousel-in-the-1960s-now-the-historic-merry-go-round-will-entertain-visitors-on-the-national-mall-180988596/",
-      "summary": "The ride from Gwynn Oak Amusement Park has been out of commission for renovations since 2023. It opens to the public on April 24",
-      "date": "2026-04-22T20:00:01Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/OxS-uWGLG16wGayTszwssq8_sV8=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/db/05/db059581-3108-4fd6-abfc-22f0d86b5428/sharon_and_dad_charles.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-22T21:57:26Z"
-    },
-    {
-      "title": "98 per cent of meat and dairy sustainability pledges are greenwashing",
-      "link": "https://www.newscientist.com/article/2523798-98-per-cent-of-meat-and-dairy-sustainability-pledges-are-greenwashing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "The food industry has made big promises to reduce emissions and become more sustainable, but a review concludes that many of the pledges are not backed up by evidence",
-      "date": "2026-04-22T18:00:42Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/21143430/SEI_294030820.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-22T21:57:28Z"
     }
   ]
 }
