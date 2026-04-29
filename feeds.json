@@ -1,8 +1,74 @@
 {
-  "updated": "2026-04-28T22:05:44Z",
-  "updated_utc": "2026-04-28T22:05:44Z",
+  "updated": "2026-04-29T00:00:43Z",
+  "updated_utc": "2026-04-29T00:00:43Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Scorpions Are So Metal—Literally. New Images Reveal Patterns in How Their Weaponry Is Fortified With Iron, Zinc and Manganese",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/scorpions-are-so-metal-literally-new-images-reveal-patterns-in-how-their-weaponry-is-fortified-with-iron-zinc-and-manganese-180988633/",
+      "summary": "Scientists knew the stingers and pincers of these arachnids generally contained metals, but a new Smithsonian-led study maps out how these components are distributed",
+      "date": "Tue, 28 Apr 2026 23Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/zCeVtKFTESMYUFwptLkbMBL1NY4=/420x240/filters:focal(1024x770:1025x771)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/86/71/86717296-de0f-486d-a5db-0170eeb7f2c1/buthidae_1.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-29T00:00:35Z"
+    },
+    {
+      "title": "Wingbeat radar signatures let AI sort bees, wasps and other insects",
+      "link": "https://phys.org/news/2026-04-wingbeat-radar-signatures-ai-bees.html",
+      "summary": "Pollinating insects are important for agriculture and ecological flourishing, but they are difficult to monitor, as identification is tricky, labor-intensive, and typically require",
+      "date": "2026-04-29T00:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/identifying-insects-wi-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-29T00:00:39Z"
+    },
+    {
+      "title": "Atlantic Forest's top predator faces a hidden collapse, and protected areas are no longer enough",
+      "link": "https://phys.org/news/2026-04-atlantic-forest-predator-hidden-collapse.html",
+      "summary": "In addition to habitat loss and illegal hunting, the jaguar (Panthera onca) faces another threat that increases its risk of extinction in the South American Atlantic Forest: food s",
+      "date": "2026-04-28T23:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/decline-in-prey-increa.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-29T00:00:39Z"
+    },
+    {
+      "title": "How hard-surface feeding unlocked a burst of reef fish evolution 50 million years ago",
+      "link": "https://phys.org/news/2026-04-hard-surface-reef-fish-evolution.html",
+      "summary": "Why are there so many species of coral reef fish? According to a new study, it's because about 50 million years ago, some fish figured out how to bite food from hard surfaces.",
+      "date": "2026-04-28T23:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fish-evolution-acceler.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-29T00:00:39Z"
+    },
+    {
+      "title": "Scorpions' weapons are fortified with metal to suit their needs, research shows",
+      "link": "https://phys.org/news/2026-04-scorpions-weapons-fortified-metal.html",
+      "summary": "Scorpions wield some of the natural world's most formidable built-in weapons, from crushing pincers to venomous stingers. Scientists have long known that these structures contain t",
+      "date": "2026-04-28T23:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/smithsonian-led-resear.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-29T00:00:39Z"
+    },
+    {
+      "title": "Flipping the K⁺ switch: First potassium-gated ion channel discovered in animal",
+      "link": "https://phys.org/news/2026-04-flipping-potassium-gated-ion-channel.html",
+      "summary": "Researchers from the National Institute for Physiological Sciences, Nagoya City University, and Tokyo Metropolitan Institute of Medical Science in Japan have identified the first a",
+      "date": "2026-04-28T22:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/flipping-the-k-switch.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-29T00:00:39Z"
+    },
     {
       "title": "Known for Her Amusing Surreal Sculptures, This French Artist's Sinuous Set of Mirrors Just Shattered Auction Records",
       "link": "https://www.smithsonianmag.com/smart-news/known-for-her-amusing-surreal-sculptures-this-french-artists-sinuous-set-of-mirrors-just-shattered-auction-records-180988632/",
@@ -5436,72 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-21T23:43:09Z"
-    },
-    {
-      "title": "Before the melt begins, sea stars show hidden immune collapse and tissue failure driving a coastal die-off",
-      "link": "https://phys.org/news/2026-04-sea-stars-hidden-immune-collapse.html",
-      "summary": "Scientists are homing in on a mysterious wasting disease that has killed billions of sea stars along the Pacific coast of North America since 2013. Sea star wasting disease can rap",
-      "date": "2026-04-21T23:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/early-warning-signs-uv-5.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-21T23:43:09Z"
-    },
-    {
-      "title": "Penguin muscle map reveals how waddles and underwater 'flight' both work",
-      "link": "https://phys.org/news/2026-04-penguin-muscle-reveals-waddles-underwater.html",
-      "summary": "Penguins may look charmingly awkward on land, but new research shows their bodies are finely tuned for powerful, efficient movement both on land and underwater. A team of anatomist",
-      "date": "2026-04-21T22:50:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-reveal-the.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-21T23:43:09Z"
-    },
-    {
-      "title": "The Best Sports Bras for Every Body and Activity (2026)",
-      "link": "https://www.outsideonline.com/outdoor-gear/run/best-sports-bras/",
-      "summary": "Eleven testers spent months running, hiking, biking, and training to find the sports bras that hit the mark in comfort and performance. The post The Best Sports Bras for Every Body",
-      "date": "Tue, 21 Apr 2026 19Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/sports_bra_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-21T22:48:53Z"
-    },
-    {
-      "title": "Cell membranes may store memories after electrical stimulation",
-      "link": "https://phys.org/news/2026-04-cell-membranes-memories-electrical.html",
-      "summary": "The science of memories has been pursued and studied since the days of ancient Greece and Aristotle. Today, research conducted by Dima Bolmatov, assistant professor in the Departme",
-      "date": "2026-04-21T22:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researcher-explores-th.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-21T22:48:58Z"
-    },
-    {
-      "title": "Some cancer drugs disrupt taste by changing the cells inside taste buds, study shows",
-      "link": "https://phys.org/news/2026-04-cancer-drugs-disrupt-cells-buds.html",
-      "summary": "Researchers at the University of Colorado Anschutz may have identified why many cancer patients say food suddenly tastes unpleasant during treatment. The study, published today in ",
-      "date": "2026-04-21T22:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/some-cancer-drugs-disr-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-21T22:48:58Z"
-    },
-    {
-      "title": "Rose pangenome maps 55,000 genes, opening new path for breeding",
-      "link": "https://phys.org/news/2026-04-rose-pangenome-genes-path.html",
-      "summary": "Roses are among the most economically significant ornamental plants worldwide, with widespread applications in the cut flowers, garden, and cosmetics industries. Yet fewer than 10%",
-      "date": "2026-04-21T22:10:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-first-rose-pangeno.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-21T22:48:58Z"
     }
   ]
 }
