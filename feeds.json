@@ -1,8 +1,41 @@
 {
-  "updated": "2026-04-30T06:33:40Z",
-  "updated_utc": "2026-04-30T06:33:40Z",
+  "updated": "2026-04-30T09:21:39Z",
+  "updated_utc": "2026-04-30T09:21:39Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Hercules is between 2 bright stars: Vega and Arcturus",
+      "link": "https://earthsky.org/tonight/two-stars-lead-to-constellation-hercules/",
+      "summary": "The bright stars Arcturus and Vega can help you find the constellation Hercules and its Keystone asterism. Hercules is home to 2 fabulous globular clusters. The post Hercules is be",
+      "date": "Thu, 30 Apr 2026 09Z",
+      "image": "https://earthsky.org/upl/2019/04/constellation-hercules-between-vega-and-arcturus.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-04-30T09:21:25Z"
+    },
+    {
+      "title": "3 Strength Exercises to Prevent Muscle Loss on GLP-1s",
+      "link": "https://www.outsideonline.com/health/training-performance/exercises-prevent-glp1-muscle-loss/",
+      "summary": "A weight management doctor and exercise physiologist share three strength exercises to prevent GLP-1 muscle loss. The post 3 Strength Exercises to Prevent Muscle Loss on GLP-1s app",
+      "date": "Thu, 30 Apr 2026 09Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/exercises-prevent-muscle-loss-glp1s.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-30T09:21:30Z"
+    },
+    {
+      "title": "Buried in soil, a 100-million-year-old bacterial toxin could reshape pest control and antibiotic discovery",
+      "link": "https://phys.org/news/2026-04-soil-million-year-bacterial-toxin.html",
+      "summary": "In every backyard, park, and playground on Earth, the ground is teeming with a type of bacteria called Streptomyces—one of the most abundant organisms on the planet. While these di",
+      "date": "2026-04-30T09:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/agriculture-soil.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-30T09:21:35Z"
+    },
     {
       "title": "RSPB cautiously welcomes slight increase in UK nightingale population",
       "link": "https://www.theguardian.com/environment/2026/apr/30/rspb-cautiously-welcomes-slight-increase-in-uk-nightingale-population",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-04-23T10:41:50Z"
-    },
-    {
-      "title": "Can you slow ageing with your diet? A new book gives it a go",
-      "link": "https://www.newscientist.com/article/mg27035920-200-can-you-slow-ageing-with-your-diet-a-new-book-gives-it-a-go/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Discovering he is getting old before his time, David Cox tries to lower his biological age by changing his diet in a helpful new book, The Age Code, says Graham Lawton",
-      "date": "2026-04-22T18:00:00Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/20113603/SEI_293122774.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-23T10:41:50Z"
-    },
-    {
-      "title": "Meet AGI CPU — a specialist processor that engineers believe will power the next wave of AI",
-      "link": "https://www.livescience.com/technology/artificial-intelligence/meet-the-agi-cpu-arms-first-processor-designed-to-power-agentic-ai",
-      "summary": "Arm’s new chip could be a powerful but efficient conductor for real-world use of agentic AIs.",
-      "date": "Thu, 23 Apr 2026 09Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/KuwA8GtKdSstZHoVyQF7qV-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-23T10:41:53Z"
-    },
-    {
-      "title": "Here’s how to see the Lunar X and V at 1st-quarter moon",
-      "link": "https://earthsky.org/astronomy-essentials/what-is-lunar-x/",
-      "summary": "Lunar X and Lunar V are optical features on the moon. They are visible through a telescope for several hours around the time of the 1st quarter moon. The post Here’s how to see the",
-      "date": "Thu, 23 Apr 2026 08Z",
-      "image": "https://earthsky.org/upl/2023/04/Lunar-X-and-V-Frank-Lu-Texas-Feb-5-2025.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-23T08:58:03Z"
     }
   ]
 }
