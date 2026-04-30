@@ -1,8 +1,129 @@
 {
-  "updated": "2026-04-30T16:26:01Z",
-  "updated_utc": "2026-04-30T16:26:01Z",
+  "updated": "2026-04-30T18:16:22Z",
+  "updated_utc": "2026-04-30T18:16:22Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A ban on trophy hunting would harm, not help, conservation | Letter",
+      "link": "https://www.theguardian.com/environment/2026/apr/30/a-ban-on-trophy-hunting-would-harm-not-help-conservation",
+      "summary": "Prof Amy Dickman, Prof Adam Hart, Dr Dan Challender and Dr Dilys Roe say trophy hunting benefits lions and many other species by conserving more land in Africa than national parks ",
+      "date": "2026-04-30T16:59:11Z",
+      "image": "https://i.guim.co.uk/img/media/c955f82aa28edea105f01418a46cbc3a67cde90a/865_0_4325_3460/master/4325.jpg?width=140&quality=85&auto=format&fit=max&s=59a86d2485896c40369e4a0d90e8a727",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-30T18:16:06Z"
+    },
+    {
+      "title": "Watch Jane Goodall Reflect on a Lifetime in the Wild During Her Final Journey to Africa",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/watch-jane-goodall-reflect-on-a-lifetime-in-the-wild-during-her-final-journey-to-africa/",
+      "summary": "Acclaimed primatologist and conservationist Dr. Jane Goodall (1934-2025) reflects on a lifetime of conservation during her final trip to Africa. The post Watch Jane Goodall Reflect",
+      "date": "Thu, 30 Apr 2026 16Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/GettyImages-89865207.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-30T18:16:12Z"
+    },
+    {
+      "title": "Australia Has a Surprisingly Successful Truffle Industry. This New Study Could Explain Why",
+      "link": "https://www.smithsonianmag.com/smart-news/australia-has-a-surprisingly-successful-truffle-industry-this-new-study-could-explain-why-180988653/",
+      "summary": "Researchers examined hundreds of soil samples to uncover why the expensive fungi are thriving in the country",
+      "date": "Thu, 30 Apr 2026 17Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/WsqTwHnG4Baxa1TP6UoLKHaAT8Y=/420x240/filters:focal(1408x1059:1409x1060)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a0/1b/a01b0810-2c9f-4387-9e5d-9719305cfd78/australias-truffle-ind.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-30T18:16:14Z"
+    },
+    {
+      "title": "Cows’ methane burps may be fueled by a newfound organelle in gut microbes",
+      "link": "https://www.sciencenews.org/article/cows-methane-burps-may-be-fueled-by-a-newfound-organelle-in-gut-microbes",
+      "summary": "In cows’ guts, ciliates contain a tiny organelle called a hydrogenobody that may drive production of methane, a potent greenhouse gas.",
+      "date": "Thu, 30 Apr 2026 18Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/043026_ts_hydrogenobody_feat.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-04-30T18:16:16Z"
+    },
+    {
+      "title": "Can AI help doctors avoid missed diagnoses? A new study suggests yes",
+      "link": "https://www.sciencenews.org/article/ai-help-doctors-help-diagnoses",
+      "summary": "AI may help doctors avoid missed diagnoses, but it still needs real-world testing and human oversight before it can guide patient care.",
+      "date": "Thu, 30 Apr 2026 18Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/043026_KH_AImedical_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-04-30T18:16:16Z"
+    },
+    {
+      "title": "Evolution has reused the same genes for 120 million years, study shows",
+      "link": "https://phys.org/news/2026-04-evolution-reused-genes-million-years.html",
+      "summary": "Scientists have shown that evolution has been using the same genetic \"cheat sheet\" for over 120 million years, suggesting that life on Earth may be more predictable than first imag",
+      "date": "2026-04-30T18:00:14Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/evolution-has-reused-t.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-30T18:16:18Z"
+    },
+    {
+      "title": "Kangaroos chart 'upside-down' evolution",
+      "link": "https://phys.org/news/2026-04-kangaroos-upside-evolution.html",
+      "summary": "New research led by Flinders University argues thick tooth enamel helped kangaroos chart an unconventional evolution story, compared to the animals of other continents. A 50-millio",
+      "date": "2026-04-30T18:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kangaroos-chart-upside.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-30T18:16:18Z"
+    },
+    {
+      "title": "Hold your nose and don't stop for a selfie: Why getting up close to a beached whale is a really bad idea",
+      "link": "https://phys.org/news/2026-04-nose-dont-selfie-beached-whale.html",
+      "summary": "The beaches of Sydney's Royal National Park have been disrupted by a pungent odor. And its source is drawing in more than just seagulls.",
+      "date": "2026-04-30T17:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/beached-whale.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-30T18:16:18Z"
+    },
+    {
+      "title": "Massive reef expansion 20 million years ago may explain modern coral life's origins",
+      "link": "https://phys.org/news/2026-04-massive-reef-expansion-million-years.html",
+      "summary": "New research published in Science Advances reveals that the largest expansion of coral reefs in the past 100 million years happened about 20 to 10 million years ago, between Austra",
+      "date": "2026-04-30T17:00:10Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-cradle-of-earths-r.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-30T18:16:18Z"
+    },
+    {
+      "title": "Weapons of the world quiz: Can you identify these historical objects of war?",
+      "link": "https://www.livescience.com/archaeology/weapons-of-the-world-quiz-can-you-identify-these-historical-objects-of-war",
+      "summary": "Can you identify these millennia- to centuries-old weapons from the smallest clues? Test your eye for history by matching carved details and close-up images to the legendary tools ",
+      "date": "Thu, 30 Apr 2026 17Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/c9882VdM7xfXo3AQtAotnj-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-30T18:16:19Z"
+    },
+    {
+      "title": "Warblers in New Hampshire’s Forests Have Found an Ideal Way to Divvy Up Territories",
+      "link": "https://www.birds.cornell.edu/home/warblers-in-new-hampshires-forests-have-found-an-ideal-way-to-divvy-up-territories/",
+      "summary": "",
+      "date": "Tue, 24 Mar 2026 13Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Apis_mellifera_flying.jpg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-04-30T18:16:21Z"
+    },
     {
       "title": "Top 10 Low-Maintenance Shrubs to Boost Your Curb Appeal",
       "link": "https://www.birdsandblooms.com/gardening/top-10-lists-for-gardeners/low-maintenance-shrubs/",
@@ -5381,127 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-04-23T19:24:28Z"
-    },
-    {
-      "title": "'Kraken' octopus that lived at the time of the dinosaurs was a 62-foot-long apex predator of the ocean",
-      "link": "https://www.livescience.com/animals/octopuses/kraken-octopus-that-lived-at-the-time-of-the-dinosaurs-was-a-62-foot-long-apex-predator-of-the-ocean",
-      "summary": "A close inspection of 27 fossil jaws from finned octopuses challenge the longstanding belief that the apex oceanic predators of the Cretaceous were all vertebrates.",
-      "date": "Thu, 23 Apr 2026 18Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/VFBjdfV6Ud9qzaukmLzPcJ-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-23T19:24:28Z"
-    },
-    {
-      "title": "These Are the 20 Birds Most People in the US See Every Day",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/20-common-birds-in-the-usa/",
-      "summary": "Birds are one of the few wild animals most people encounter daily. They hop across lawns, perch on fences, gather in parking lots, and call … Read More \"These Are the 20 Birds Most",
-      "date": "2026-02-07T13:43:40Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/02/northern-cardinal-common-birds-in-the-usa-scaled.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-04-23T17:39:25Z"
-    },
-    {
-      "title": "Annual Geranium Flower Care and Growing Tips",
-      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/geranium-flower-pelargonium/",
-      "summary": "Though some consider the annual geranium flower too old fashioned, we love these reliable sun-loving beauties for nonstop summer color. The post Annual Geranium Flower Care and Gro",
-      "date": "2026-04-08T18:58:12Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/04/shutterstock_722677627-e1775668898566.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-04-23T17:39:28Z"
-    },
-    {
-      "title": "Tree Pruning 101: Proper Tools and Easy Techniques",
-      "link": "https://www.birdsandblooms.com/gardening/growing-trees-shrubs-grasses/easy-tree-pruning/",
-      "summary": "With the right tools and techniques, you’ll get the tree pruning job done safely and keep your tree healthy and strong. The post Tree Pruning 101: Proper Tools and Easy Techniques ",
-      "date": "2026-04-08T16:11:51Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/04/FHM_How_To_Prune_Tree_EF_050825_Step_03_v2.jpg?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-04-23T17:39:28Z"
-    },
-    {
-      "title": "Yeti vs. RTIC: Which Cooler Is Worth Your Money?",
-      "link": "https://www.outsideonline.com/outdoor-gear/camping/yeti-vs-rtic-cooler/",
-      "summary": "A real-world test reveals whether the cheaper RTIC can match Yeti’s legendary ice retention. The post Yeti vs. RTIC: Which Cooler Is Worth Your Money? appeared first on Outside Onl",
-      "date": "Thu, 23 Apr 2026 15Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/RTIC-v-Yeti-Cooler-Feature_Averill.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-23T17:39:39Z"
-    },
-    {
-      "title": "A Rare 'Cloud Jaguar' Was Spotted in Honduran Mountains for the First Time in a Decade, Representing a Win for Conservationists",
-      "link": "https://www.smithsonianmag.com/smart-news/a-rare-cloud-jaguar-was-spotted-in-honduran-mountains-for-the-first-time-in-a-decade-representing-a-win-for-conservationists-180988595/",
-      "summary": "The big cats are rarely seen at high elevations, so the sighting suggests that efforts to protect a wildlife corridor in the region are working",
-      "date": "Thu, 23 Apr 2026 15Z",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a6/30/a630698b-f82f-4e55-9881-d375f41648d3/cloud-jaguar-honduras.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-23T17:39:40Z"
-    },
-    {
-      "title": "Clouds of water ice thread stellar nurseries in the Milky Way",
-      "link": "https://www.sciencenews.org/article/water-ice-stellar-nurseries-galaxy",
-      "summary": "NASA’s SPHEREx mapped water ice across vast regions of the galaxy, confirming that an essential molecule for life on Earth abounds in space.",
-      "date": "Thu, 23 Apr 2026 17Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/042126_NO_glaciers_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-23T17:39:42Z"
-    },
-    {
-      "title": "Huge study reveals how Epstein-Barr virus may cause multiple sclerosis",
-      "link": "https://www.newscientist.com/article/2524077-huge-study-reveals-how-epstein-barr-virus-may-cause-multiple-sclerosis/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "The Epstein-Barr virus seems to affect gene expression and cell signalling in a way that causes the autoimmune condition multiple sclerosis",
-      "date": "Thu, 23 Apr 2026 17Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/23125520/SEI_294071625.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-23T17:39:43Z"
-    },
-    {
-      "title": "Amazon River plume: Where microalgae go carnivorous to win",
-      "link": "https://phys.org/news/2026-04-amazon-river-plume-microalgae-carnivorous.html",
-      "summary": "In the vast plume of the Amazon River, microscopic algae adopt a surprisingly flexible survival strategy: They combine photosynthesis with the uptake of organic matter. An internat",
-      "date": "2026-04-23T17:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/where-microalgae-go-ca.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T17:39:44Z"
-    },
-    {
-      "title": "Is your cat or dog overweight? Why simply feeding less doesn't always help",
-      "link": "https://phys.org/news/2026-04-cat-dog-overweight-simply-doesnt.html",
-      "summary": "Overweight and obesity are among the most common conditions veterinarians see in both dogs and cats.",
-      "date": "2026-04-23T17:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/is-your-cat-or-dog-ove.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T17:39:44Z"
-    },
-    {
-      "title": "Black grouse eye test reveals best flags to protect birds from fatal cables",
-      "link": "https://phys.org/news/2026-04-black-grouse-eye-reveals-flags.html",
-      "summary": "There is a silent killer lurking in the French Alps: ski lift cables. Over the last 60 years, the wires have accounted for almost 600 recorded landfowl deaths in the region. Black ",
-      "date": "2026-04-23T16:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/ski-lift.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T17:39:44Z"
     }
   ]
 }
