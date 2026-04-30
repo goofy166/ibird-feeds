@@ -1,8 +1,41 @@
 {
-  "updated": "2026-04-30T03:51:42Z",
-  "updated_utc": "2026-04-30T03:51:42Z",
+  "updated": "2026-04-30T06:33:40Z",
+  "updated_utc": "2026-04-30T06:33:40Z",
   "count": 500,
   "stories": [
+    {
+      "title": "RSPB cautiously welcomes slight increase in UK nightingale population",
+      "link": "https://www.theguardian.com/environment/2026/apr/30/rspb-cautiously-welcomes-slight-increase-in-uk-nightingale-population",
+      "summary": "Elusive nightingale ‘doing well’ at Northward Hill, Kent, but experts cite concerns around loss of habitat The dawn chorus at RSPB Northward Hill in Kent is a riot of sound: the me",
+      "date": "2026-04-30T05:00:08Z",
+      "image": "https://i.guim.co.uk/img/media/a1848d80fa5cf928483d1cfe979d39db470368e2/520_0_5468_4375/master/5468.jpg?width=140&quality=85&auto=format&fit=max&s=c9b3f84f5b5321397705cbc7f61f3537",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-30T06:33:24Z"
+    },
+    {
+      "title": "Seals get their hearts racing to detox after foraging trips at sea",
+      "link": "https://phys.org/news/2026-04-hearts-detox-foraging-sea.html",
+      "summary": "Diving is physiologically challenging for marine animals. Long and deep dives can trigger \"anaerobic\" (oxygen-less) metabolism in organs other than the heart and brain that causes ",
+      "date": "2026-04-30T04:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seals-get-their-hearts.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-30T06:33:36Z"
+    },
+    {
+      "title": "Extend the Season of Love to Birds",
+      "link": "https://www.birds.cornell.edu/home/join_great_backyard_bird_count_2026/",
+      "summary": "Love is in the air—listen closely and the sounds of chickadees, sparrows, and thrushes are beckoning you to step outside to experience the love from birds and nature. Take a moment",
+      "date": "Tue, 20 Jan 2026 14Z",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-04-30T06:33:38Z"
+    },
     {
       "title": "App Review: Dry Feet? Heck Yeah Using Tide Alert v3.3.2",
       "link": "https://www.10000birds.com/app-review-dry-feet-heck-yeah-using-tide-alert-v3-3-2.htm?utm_source=rss&utm_medium=rss&utm_campaign=app-review-dry-feet-heck-yeah-using-tide-alert-v3-3-2",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-04-23T08:58:03Z"
-    },
-    {
-      "title": "Accelerating drug discovery with fragment screening",
-      "link": "https://phys.org/news/2026-04-drug-discovery-fragment-screening.html",
-      "summary": "Modern medicine has played a significant role in improving the length and quality of our lives. While many treatments may seem like miracles, they are the result of a lengthy, rigo",
-      "date": "2026-04-23T02:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/accelerating-drug-disc.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T03:38:10Z"
-    },
-    {
-      "title": "New study presents the eLTER Framework of Standard Observations for long-term, integrated environmental monitoring",
-      "link": "https://phys.org/news/2026-04-elter-framework-standard-term-environmental.html",
-      "summary": "A new study published in Earth's Future introduces the eLTER Framework of Standard Observations (eLTER SO)—a structured, harmonized system designed to support consistent long-term ",
-      "date": "2026-04-23T01:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-paper-presents-the.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T03:38:10Z"
-    },
-    {
-      "title": "Peptide synthesis could stop global potato pathogen once linked to Ireland's Great Famine",
-      "link": "https://phys.org/news/2026-04-peptide-synthesis-global-potato-pathogen.html",
-      "summary": "Scientists in Sweden have taken an important step toward fighting potato late blight, a plant disease that once triggered a historic famine in Ireland and now threatens to spread g",
-      "date": "2026-04-23T01:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-offers-new-wa.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T03:38:10Z"
     }
   ]
 }
