@@ -1,8 +1,63 @@
 {
-  "updated": "2026-04-29T23:02:28Z",
-  "updated_utc": "2026-04-29T23:02:28Z",
+  "updated": "2026-04-30T03:51:42Z",
+  "updated_utc": "2026-04-30T03:51:42Z",
   "count": 500,
   "stories": [
+    {
+      "title": "App Review: Dry Feet? Heck Yeah Using Tide Alert v3.3.2",
+      "link": "https://www.10000birds.com/app-review-dry-feet-heck-yeah-using-tide-alert-v3-3-2.htm?utm_source=rss&utm_medium=rss&utm_campaign=app-review-dry-feet-heck-yeah-using-tide-alert-v3-3-2",
+      "summary": "Living on the Atlantic coast I am quite aware of the rise and fall of the tide and what it means for beach walking, tidal sandbars, and rocky shorelines. Some of my birding is guid",
+      "date": "Thu, 30 Apr 2026 00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/04/appicon-2.png",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-04-30T03:51:20Z"
+    },
+    {
+      "title": "New genome editing method could swap entire genes and correct 1000 mutations at once",
+      "link": "https://phys.org/news/2026-04-genome-method-swap-entire-genes.html",
+      "summary": "New technology enables the insertion of a large segment of DNA into a genome, potentially expanding gene therapy treatment from cancellation of disease-causing mutations to replace",
+      "date": "2026-04-30T00:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-technology-enables.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-30T03:51:38Z"
+    },
+    {
+      "title": "AI classifier flags bird flu genomes more likely to spread in mammals",
+      "link": "https://phys.org/news/2026-04-ai-flags-bird-flu-genomes.html",
+      "summary": "A research team from the LKS Faculty of Medicine at the University of Hong Kong (HKUMed) has developed a machine-learning classifier capable of analyzing the genomes of influenza A",
+      "date": "2026-04-29T23:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pioneering-ai-early-de-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-30T03:51:38Z"
+    },
+    {
+      "title": "Pet cats that roam outdoors can carry similar disease risk as feral cats",
+      "link": "https://phys.org/news/2026-04-pet-cats-roam-outdoors-similar.html",
+      "summary": "A new study led by University of British Columbia researchers has found that pet cats allowed to roam outside unsupervised carry infectious diseases at rates comparable to feral ca",
+      "date": "2026-04-29T23:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pet-cats-that-roam-out.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-30T03:51:38Z"
+    },
+    {
+      "title": "Do birds have accents? The fascinating regional differences in birdsong",
+      "link": "https://phys.org/news/2026-04-birds-accents-fascinating-regional-differences.html",
+      "summary": "Birds sing the most about an hour before dawn, when the air is at its stillest. Theoretically, this enables sounds to travel farther, making song up to 20 times more effective than",
+      "date": "2026-04-29T23:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/bird-song.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-30T03:51:38Z"
+    },
     {
       "title": "Birds-of-Paradise Project Sound",
       "link": "https://www.allaboutbirds.org/news/birds-of-paradise-project-sound/",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-23T03:38:10Z"
-    },
-    {
-      "title": "Extend the Season of Love to Birds",
-      "link": "https://www.birds.cornell.edu/home/join_great_backyard_bird_count_2026/",
-      "summary": "Love is in the air—listen closely and the sounds of chickadees, sparrows, and thrushes are beckoning you to step outside to experience the love from birds and nature. Take a moment",
-      "date": "Tue, 20 Jan 2026 14Z",
-      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-04-23T03:38:12Z"
-    },
-    {
-      "title": "Promiscuity and parental behavior in birds are driven by demographics, not the other way around",
-      "link": "https://phys.org/news/2026-04-promiscuity-parental-behavior-birds-driven.html",
-      "summary": "New research shows that variation in mating behaviors, parental care and differences in ornamentation of the sexes in bird species is driven by demographics rather than vice versa.",
-      "date": "2026-04-22T23:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/promiscuity-and-parent.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-22T23:55:53Z"
-    },
-    {
-      "title": "Chicken gene-editing advance opens path to drug-producing eggs",
-      "link": "https://phys.org/news/2026-04-chicken-gene-advance-path-drug.html",
-      "summary": "Chicken eggs are already used to harvest helpful proteins called antibodies to protect humans from viruses such as influenza. Now, a breakthrough at the University of Missouri coul",
-      "date": "2026-04-22T23:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/chickens-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-22T23:55:53Z"
-    },
-    {
-      "title": "Q&A: Scientists decode the logic behind cells' mysterious protein stockpiles",
-      "link": "https://phys.org/news/2026-04-qa-scientists-decode-logic-cells.html",
-      "summary": "As far as research subjects go, it's not always easy to find common ground with a single-celled bacterium. Yet the more Paul Wiggins studies his model bacteria, Acinetobacter bayly",
-      "date": "2026-04-22T23:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-decode-the.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-22T23:55:53Z"
-    },
-    {
-      "title": "Netflix’s ‘A Gorilla Story’ Reveals the Remarkable Legacy of David Attenborough’s Most Iconic Wildlife Encounter",
-      "link": "https://www.outsideonline.com/culture/books-media/david-attenborough-gorilla-story-netflix-legacy/",
-      "summary": "The new Netflix doc 'A Gorilla Story' shows David Attenborough’s unscripted 1978 encounter with a baby gorilla did more than create iconic TV—it helped fuel a 50-year conservation ",
-      "date": "2026-04-22T22:00:03Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/GORILLAS_TXTD_UHD_SDR_LEGAL-RANGE_ProRes4444XQ_20STEREO_20250723.00008710.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-22T22:58:18Z"
     }
   ]
 }
