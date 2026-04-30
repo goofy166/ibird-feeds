@@ -1,8 +1,107 @@
 {
-  "updated": "2026-04-30T20:14:07Z",
-  "updated_utc": "2026-04-30T20:14:07Z",
+  "updated": "2026-04-30T22:02:38Z",
+  "updated_utc": "2026-04-30T22:02:38Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How to Use Spectrograms to Learn Details of Bird Songs",
+      "link": "https://www.allaboutbirds.org/news/how-to-use-spectrograms-learn-bird-songs/",
+      "summary": "Bird songs and calls can be hard to learn—they’re so intricate, and they go by so fast. That’s why ornithologists use spectrograms—visualizations that allow you to see the shape of",
+      "date": "2026-04-08T21:00:45Z",
+      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/03/Indigo-Bunting-Emily-Tallo-Illinois-639396909-1280x720.jpg",
+      "name": "All About Birds",
+      "category": "birds",
+      "color": 3,
+      "fetched_at": "2026-04-30T22:02:20Z"
+    },
+    {
+      "title": "Basic Parts of a Bird Song: Rhythm, Repetition, Pitch, and Tone",
+      "link": "https://www.allaboutbirds.org/news/parts-bird-song-rhythm-repetition-pitch-tone/",
+      "summary": "When you first listen to a dawn chorus in full swing, the sheer onslaught of bird song can be overwhelming. How does anyone start to pick apart the chirps, whistles, ... Read more ",
+      "date": "2026-04-08T20:58:35Z",
+      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/04/Nashville-Warbler-Shailesh-Pinto-Michigan-268052371_banner.jpg",
+      "name": "All About Birds",
+      "category": "birds",
+      "color": 3,
+      "fetched_at": "2026-04-30T22:02:20Z"
+    },
+    {
+      "title": "There Are Two GLP-1 Side Effects Your Doctor Doesn’t Know About, and They Can Affect Your Workouts",
+      "link": "https://www.outsideonline.com/health/training-performance/glp1-unknown-side-effects-reddit-study/",
+      "summary": "A study in Nature Health revealed unknown GLP-1 side effects posted on Reddit. The lead author and doctors explain how they impact exercise. The post There Are Two GLP-1 Side Effec",
+      "date": "Thu, 30 Apr 2026 20Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/glp-1-side-effects-reddit.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-30T22:02:29Z"
+    },
+    {
+      "title": "Alexander the Great’s (Marble) Head Turned Up in New York. U.S. Officials Say It Was Stolen—and Just Sent It Back to Italy",
+      "link": "https://www.smithsonianmag.com/smart-news/alexander-the-greats-marble-head-turned-up-in-new-york-us-officials-say-it-was-stolen-and-just-sent-it-back-to-italy-180988650/",
+      "summary": "As part of a longstanding effort to help Italy track down its missing treasures, the U.S. returned hundreds of ancient archaeological finds this week",
+      "date": "Thu, 30 Apr 2026 20Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/sOsSKfyU_Ut-_78x0SEadcMnPow=/420x240/filters:focal(800x533:801x534)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7c/27/7c27000f-bf69-492b-87ac-a255247b8779/tpc_29aprile_foto_mic_03.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-30T22:02:31Z"
+    },
+    {
+      "title": "CRISPR speed patterns can identify multiple viruses and variants simultaneously",
+      "link": "https://phys.org/news/2026-04-crispr-patterns-multiple-viruses-variants.html",
+      "summary": "As the spread of infectious diseases accelerates, technologies that can accurately distinguish multiple viruses in a single test are becoming increasingly important. KAIST and an i",
+      "date": "2026-04-30T21:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-identifies-multi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-30T22:02:34Z"
+    },
+    {
+      "title": "Gene circuits reshape DNA folding and affect how genes are expressed, study finds",
+      "link": "https://phys.org/news/2026-04-gene-circuits-reshape-dna-affect.html",
+      "summary": "When a gene is turned on in a cell, it creates a ripple effect along the DNA strand, changing the physical structure of the strand. A new study by MIT researchers, appearing in Sci",
+      "date": "2026-04-30T20:30:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gene-circuits-reshape.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-30T22:02:34Z"
+    },
+    {
+      "title": "Human cell map uncovers 90,000 interactions among 4 million gene pairs",
+      "link": "https://phys.org/news/2026-04-human-cell-uncovers-interactions-million.html",
+      "summary": "How do our genes determine our appearance and our susceptibility to disease? This question is central to biomedical research, and today we can sequence thousands of human genomes t",
+      "date": "2026-04-30T20:20:09Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-create-gen.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-30T22:02:34Z"
+    },
+    {
+      "title": "For crop breeders, growth curves built on drone data reveal timing and duration of genetic effects",
+      "link": "https://phys.org/news/2026-04-crop-breeders-growth-built-drone.html",
+      "summary": "Though it's largely a hereditary trait, siblings often grow to be different heights. But even if they end up topping out at the same stature, they may take different paths to get t",
+      "date": "2026-04-30T20:20:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/for-crop-breeders-grow.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-30T22:02:34Z"
+    },
+    {
+      "title": "Poop-encrusted chamber pots from the Roman Empire reveal oldest known human cases of Crypto parasite",
+      "link": "https://www.livescience.com/archaeology/romans/poop-encrusted-chamber-pots-from-the-roman-empire-reveal-oldest-known-human-cases-of-crypto-parasite",
+      "summary": "Chamber pots from the frontier of the Roman Empire have provided the world's earliest evidence of humans infected with the Cryptosporidium parasite.",
+      "date": "Thu, 30 Apr 2026 20Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/mWF6MR2kWBHyLRAVW5pS4d-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-04-30T22:02:36Z"
+    },
     {
       "title": "The Best Running Hydration Vests for Every Type of Run",
       "link": "https://www.outsideonline.com/outdoor-gear/run/best-hydration-vests/",
@@ -5403,105 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-04-23T21:00:13Z"
-    },
-    {
-      "title": "AI model designs new antibiotic for staph infections after exploring 46 billion compounds",
-      "link": "https://phys.org/news/2026-04-ai-antibiotic-staph-infections-exploring.html",
-      "summary": "Researchers at McMaster University have developed a new generative artificial intelligence (AI) model capable of drastically speeding up drug discovery—and, in early tests, it has ",
-      "date": "2026-04-23T21:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-model-designs-new-a.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T21:00:15Z"
-    },
-    {
-      "title": "Room to move: Neutron scattering shows how proteins behave in crowded environments",
-      "link": "https://phys.org/news/2026-04-room-neutron-proteins-crowded-environments.html",
-      "summary": "Proteins are essential molecules in living systems. They move, interact and organize themselves to carry out a wide range of functions, from helping cells communicate to forming st",
-      "date": "2026-04-23T20:50:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/room-to-move-how-prote.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T21:00:15Z"
-    },
-    {
-      "title": "Rye mulch stabilizes vegetable yields—clover living mulch can significantly reduce yields",
-      "link": "https://phys.org/news/2026-04-rye-mulch-stabilizes-vegetable-yields.html",
-      "summary": "Results recently published in the journal Plant and Soil by the researchers of the Leibniz Institute of Vegetable and Ornamental Crops (IGZ) show that strip tillage combined with r",
-      "date": "2026-04-23T20:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rye-mulch-stabilises-v.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T21:00:15Z"
-    },
-    {
-      "title": "E. coli editing technique expands into a universal toolkit for rewriting bacterial DNA",
-      "link": "https://phys.org/news/2026-04-coli-technique-universal-toolkit-rewriting.html",
-      "summary": "The ability to precisely edit the genomes of bacteria has long been a goal of microbiologists. Such technology would enable scientists to make new inroads into studying disease, de",
-      "date": "2026-04-23T20:30:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-universal-toolkit-fo.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T21:00:15Z"
-    },
-    {
-      "title": "Tiny songbird crosses Sahara by flying night after night",
-      "link": "https://phys.org/news/2026-04-tiny-songbird-sahara-flying-night.html",
-      "summary": "Every year a small songbird, no heavier than a letter, crosses the Sahara Desert, the Mediterranean and the Arabian Desert on its migration. New research from Lund University in Sw",
-      "date": "2026-04-23T20:20:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/songbirds-extreme-dese.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T21:00:15Z"
-    },
-    {
-      "title": "Common soil fungus could cut pesticide use while helping tomatoes grow stronger",
-      "link": "https://phys.org/news/2026-04-common-soil-fungus-pesticide-tomatoes.html",
-      "summary": "Trichoderma species—a common fungus found in soils—have varying abilities to promote tomato plant growth and differentially affect the abundance of certain soil bacteria, according",
-      "date": "2026-04-23T20:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cherry-tomatoes-on-vin.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T21:00:15Z"
-    },
-    {
-      "title": "Why more gut and soil microbes could make ecosystems easier to predict",
-      "link": "https://phys.org/news/2026-04-gut-soil-microbes-ecosystems-easier.html",
-      "summary": "Much of the beauty—and challenge—of biology lies in its complexity. That's especially true in the microbial world, where hundreds or thousands of different bacterial species may co",
-      "date": "2026-04-23T19:50:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/finding-predictability.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T21:00:15Z"
-    },
-    {
-      "title": "Is This Black and White Bird a Leucistic Grackle?",
-      "link": "https://www.birdsandblooms.com/birding/birding-basics/leucistic-common-grackle/",
-      "summary": "A reader shared a photo of a bird that looks like a common grackle with white patches. He asked our experts: is it leucistic? The post Is This Black and White Bird a Leucistic Grac",
-      "date": "Thu, 23 Apr 2026 18Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/04/13_Carl-Muehlemeyer_BBXspring26_0001.jpg?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-04-23T19:24:11Z"
-    },
-    {
-      "title": "30 Mnemonics to Help You Remember Bird Calls",
-      "link": "https://www.allaboutbirds.org/news/30-mnemonics-help-remember-bird-calls/",
-      "summary": "Most birds squawk, chirp, and warble—but some of them are more “talkative” than that—their songs and calls sound almost like speech. Granted, this is mostly down to the imagination",
-      "date": "2026-04-08T21:03:04Z",
-      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/04/Ovenbird-Brad-Imhoff-335096071.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-04-23T19:24:12Z"
     }
   ]
 }
