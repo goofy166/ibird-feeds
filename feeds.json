@@ -1,8 +1,140 @@
 {
-  "updated": "2026-04-30T18:16:22Z",
-  "updated_utc": "2026-04-30T18:16:22Z",
+  "updated": "2026-04-30T20:14:07Z",
+  "updated_utc": "2026-04-30T20:14:07Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Best Running Hydration Vests for Every Type of Run",
+      "link": "https://www.outsideonline.com/outdoor-gear/run/best-hydration-vests/",
+      "summary": "These running vests are the secret to carrying all the fluids and gear you need on the run—comfortably and conveniently. The post The Best Running Hydration Vests for Every Type of",
+      "date": "Thu, 30 Apr 2026 18Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2025/09/hydration_vests_h.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-30T20:13:59Z"
+    },
+    {
+      "title": "The 5 Best Electric Mountain Bikes for Trail Riding in 2026, Tested",
+      "link": "https://www.outsideonline.com/outdoor-gear/bikes-and-biking/best-electric-mountain-bikes/",
+      "summary": "From steep climbs to rough descents, these were the most dialed bikes we tested. The post The 5 Best Electric Mountain Bikes for Trail Riding in 2026, Tested appeared first on Outs",
+      "date": "Thu, 30 Apr 2026 18Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/Best-eMTB-2026-Feature_PB.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-30T20:13:59Z"
+    },
+    {
+      "title": "A Man and His Dog Discovered a 3,400-Year-Old Ax Head While Out for a Walk in One of England’s Ancient Forests",
+      "link": "https://www.smithsonianmag.com/smart-news/a-man-and-his-dog-accidentally-discovered-a-3400-year-old-ax-head-while-out-for-a-walk-in-one-of-englands-ancient-forests-180988649/",
+      "summary": "Researchers believe the ax dates to between 1400 B.C.E. and 1275 B.C.E. and is a relic of the Bronze Age, when humans started to work with metal",
+      "date": "Thu, 30 Apr 2026 18Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/Rl0VpgOgcmImxVkvE8F3VZ5YeUw=/420x240/filters:focal(3000x2000:3001x2001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/60/5f/605fc21b-4d06-44d2-842a-7d2bf06c2a2b/260415-fod-axe-head-find-dsc08264.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-04-30T20:14:00Z"
+    },
+    {
+      "title": "'Green' cryptocurrency uses 18 times more energy than makers claim",
+      "link": "https://www.newscientist.com/article/2523912-green-cryptocurrency-uses-18-times-more-energy-than-makers-claim/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A cryptocurrency that aims to avoid the disastrous energy consumption of bitcoin is actually using 18 times more energy than its makers claim – but it promises improvements are on ",
+      "date": "Thu, 30 Apr 2026 19Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/30140233/SEI_295224565.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-30T20:14:03Z"
+    },
+    {
+      "title": "Your oral microbiome could affect your weight, liver and diabetes risk",
+      "link": "https://www.newscientist.com/article/2524866-your-oral-microbiome-could-affect-your-weight-liver-and-diabetes-risk/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "An ambitious study has explored how the oral microbiome may affect our metabolic health, raising hopes that conditions like pre-diabetes could one day be screened for via a simple ",
+      "date": "Thu, 30 Apr 2026 18Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/30100024/SEI_295109980.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-30T20:14:03Z"
+    },
+    {
+      "title": "Human heads have changed shape a lot in the past 100 years",
+      "link": "https://www.newscientist.com/article/2524895-human-heads-have-changed-shape-a-lot-in-the-past-100-years/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Since the early 20th century, people’s skulls have got rounder and their jaws have got wider, probably because of changes in health, diet and environment",
+      "date": "Thu, 30 Apr 2026 16Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/30105254/SEI_295226323.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-04-30T20:14:03Z"
+    },
+    {
+      "title": "Autumn leaves transformed into biodegradable mulch film can curb farm plastic pollution",
+      "link": "https://phys.org/news/2026-04-autumn-biodegradable-mulch-curb-farm.html",
+      "summary": "Fallen leaves, which are discarded every year, have been transformed into a resource that can replace waste plastics, a major nuisance in rural areas. A research team at the Korea ",
+      "date": "2026-04-30T20:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fallen-leaves-transfor-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-30T20:14:04Z"
+    },
+    {
+      "title": "Light-activated protein illuminates when embryos can cope with disruptions to cell division",
+      "link": "https://phys.org/news/2026-04-protein-illuminates-embryos-cope-disruptions.html",
+      "summary": "Cell division during the early stage of embryo development is a trade-off between speed and accuracy; the cells need to divide quickly to enable rapid growth, but it's important no",
+      "date": "2026-04-30T20:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-use-a-ligh.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-30T20:14:04Z"
+    },
+    {
+      "title": "Malaria parasite sneaks mRNA into immune cell nuclei, disrupting defenses",
+      "link": "https://phys.org/news/2026-04-malaria-parasite-mrna-immune-cell.html",
+      "summary": "RNA technology is regarded as one of the newest frontiers in medicine, but in fact a primordial innovator got there way before we did. The malaria parasite, an ancient single-celle",
+      "date": "2026-04-30T19:50:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/malarias-mrna-messages.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-30T20:14:04Z"
+    },
+    {
+      "title": "Compound in ginger and turmeric may disarm drug-resistant bacteria",
+      "link": "https://phys.org/news/2026-04-compound-ginger-turmeric-drug-resistant.html",
+      "summary": "Every year, antibiotic-resistant Staphylococcus aureus, commonly known as staph, causes serious infections and outbreaks in hospitals and community settings, disproportionately aff",
+      "date": "2026-04-30T19:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-identify-n-8.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-30T20:14:04Z"
+    },
+    {
+      "title": "Feeding shift may have steered 55 pilot whales toward Scotland mass stranding",
+      "link": "https://phys.org/news/2026-04-shift-whales-scotland-mass-stranding.html",
+      "summary": "New research, focused on the feeding behavior of long-finned pilot whales, has shed light on one of Scotland's largest mass stranding events. The study, led by the Scottish Marine ",
+      "date": "2026-04-30T19:00:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/long-finned-pilot-whal.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-30T20:14:04Z"
+    },
+    {
+      "title": "Fungi utilize ancient antimicrobial proteins to attack hosts and their microbiomes, plant researchers discover",
+      "link": "https://phys.org/news/2026-04-fungi-ancient-antimicrobial-proteins-hosts.html",
+      "summary": "An international research team led by Cologne-based plant scientist Professor Dr. Bart Thomma from the Institute for Plant Sciences, the Collaborative Research Center MiBiNet and t",
+      "date": "2026-04-30T18:40:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fungi-utilize-ancient.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-30T20:14:04Z"
+    },
     {
       "title": "A ban on trophy hunting would harm, not help, conservation | Letter",
       "link": "https://www.theguardian.com/environment/2026/apr/30/a-ban-on-trophy-hunting-would-harm-not-help-conservation",
@@ -5370,138 +5502,6 @@
       "category": "birds",
       "color": 3,
       "fetched_at": "2026-04-23T19:24:12Z"
-    },
-    {
-      "title": "How to Use Spectrograms to Learn Details of Bird Songs",
-      "link": "https://www.allaboutbirds.org/news/how-to-use-spectrograms-learn-bird-songs/",
-      "summary": "Bird songs and calls can be hard to learn—they’re so intricate, and they go by so fast. That’s why ornithologists use spectrograms—visualizations that allow you to see the shape of",
-      "date": "2026-04-08T21:00:45Z",
-      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/03/Indigo-Bunting-Emily-Tallo-Illinois-639396909-1280x720.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-04-23T19:24:12Z"
-    },
-    {
-      "title": "Basic Parts of a Bird Song: Rhythm, Repetition, Pitch, and Tone",
-      "link": "https://www.allaboutbirds.org/news/parts-bird-song-rhythm-repetition-pitch-tone/",
-      "summary": "When you first listen to a dawn chorus in full swing, the sheer onslaught of bird song can be overwhelming. How does anyone start to pick apart the chirps, whistles, ... Read more ",
-      "date": "2026-04-08T20:58:35Z",
-      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/04/Nashville-Warbler-Shailesh-Pinto-Michigan-268052371_banner.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-04-23T19:24:12Z"
-    },
-    {
-      "title": "Giant, kraken-like octopuses may have ruled the Cretaceous deep",
-      "link": "https://www.sciencenews.org/article/kraken-octopus-largest-invertebrate",
-      "summary": "Some octopuses that lived over 72 million years ago were as long as whales. These huge predators may have been the largest invertebrates ever.",
-      "date": "Thu, 23 Apr 2026 18Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/042326_JB_kraken_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-23T19:24:24Z"
-    },
-    {
-      "title": "Catching a cold can delay cancer from spreading to the lungs",
-      "link": "https://www.newscientist.com/article/2524114-catching-a-cold-can-delay-cancer-from-spreading-to-the-lungs/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Infecting mice with RSV, a common virus that causes cold-like symptoms, prevented breast cancer cells from reaching their lungs. This was due to the release of proteins that stop v",
-      "date": "Thu, 23 Apr 2026 18Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/23140855/SEI_294185886.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-23T19:24:25Z"
-    },
-    {
-      "title": "What if humans could regrow tissue? New study moves science closer",
-      "link": "https://phys.org/news/2026-04-humans-regrow-tissue-science-closer.html",
-      "summary": "For centuries, the inability to regrow lost body parts has been considered a defining limitation of humans and other mammals. While animals like salamanders can regenerate entire l",
-      "date": "2026-04-23T19:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-if-humans-could-r.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T19:24:27Z"
-    },
-    {
-      "title": "Do polysaccharide-degrading enzymes also help build polysaccharides?",
-      "link": "https://phys.org/news/2026-04-polysaccharide-degrading-enzymes-polysaccharides.html",
-      "summary": "Most of the carbon fixed by plants through photosynthesis is ultimately stored in the cell wall, primarily in the form of polysaccharides such as cellulose, xylan, and glucomannan.",
-      "date": "2026-04-23T18:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/do-polysaccharide-degr.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T19:24:27Z"
-    },
-    {
-      "title": "Brazil unearths a bizarre beaked reptile with a trans-Atlantic prehistoric link",
-      "link": "https://phys.org/news/2026-04-brazil-unearths-bizarre-beaked-reptile.html",
-      "summary": "Paleontologists from the Federal University of Santa Maria (UFSM) have published a new study in the scientific journal Royal Society Open Science, in which they describe a new spec",
-      "date": "2026-04-23T18:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-fossil-reptile-spe-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T19:24:27Z"
-    },
-    {
-      "title": "Mozambique 'sky island' expeditions found four new species of chameleon that are already at risk from forest loss",
-      "link": "https://phys.org/news/2026-04-mozambique-sky-island-species-chameleon.html",
-      "summary": "Tropical rainforests are known for their unique biodiversity, with species found nowhere else on Earth. But nearly 30% of tropical rainforest has been destroyed or has become serio",
-      "date": "2026-04-23T18:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mozambique-sky-island.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T19:24:27Z"
-    },
-    {
-      "title": "Machine learning helps detect roars from lion collars without recording actual audio",
-      "link": "https://phys.org/news/2026-04-machine-roars-lion-collars-actual.html",
-      "summary": "Roaring over long distances is a key behavior of lions. They communicate within prides as well as with other animals using distinct sequences of moans and grunts. Scientists from t",
-      "date": "2026-04-23T18:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mixed-signals-machine.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T19:24:27Z"
-    },
-    {
-      "title": "What wild honey from the Philippine jungle reveals about biodiversity",
-      "link": "https://phys.org/news/2026-04-wild-honey-philippine-jungle-reveals.html",
-      "summary": "In the Philippines, Indigenous communities have been harvesting wild honey for centuries. A new chemical analysis of this honey now provides insights into the biodiversity of the r",
-      "date": "2026-04-23T18:00:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-wild-honey-from-t-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T19:24:27Z"
-    },
-    {
-      "title": "More than 600,000 seabirds killed in single marine heat wave",
-      "link": "https://phys.org/news/2026-04-seabirds-marine.html",
-      "summary": "Ocean temperatures are rising around the world—and marine wildlife are feeling the heat. New research reveals that almost two-thirds of a million seabirds were killed by a marine h",
-      "date": "2026-04-23T18:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/over-600000-seabirds-k.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T19:24:27Z"
-    },
-    {
-      "title": "'Strong, undeniable public examples of something positive': Astronaut Chris Hadfield on why Artemis II hit him hard, the importance of spaceflight, and why we need to send a guitar to the moon",
-      "link": "https://www.livescience.com/space/space-exploration/strong-undeniable-public-examples-of-something-positive-astronaut-chris-hadfield-on-why-artemis-ii-hit-him-hard-the-importance-of-spaceflight-and-why-we-need-to-send-a-guitar-to-the-moon",
-      "summary": "Astronaut Chris Hadfield discusses the value and risks of space travel, his emotional response to the Artemis II mission, and his love of music ahead of a fundraiser concert for ch",
-      "date": "Thu, 23 Apr 2026 19Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/JDS8kyJjRC5xgAATWxa6iV-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-23T19:24:28Z"
     }
   ]
 }
