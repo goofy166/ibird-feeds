@@ -1,8 +1,96 @@
 {
-  "updated": "2026-04-30T22:02:38Z",
-  "updated_utc": "2026-04-30T22:02:38Z",
+  "updated": "2026-04-30T23:57:40Z",
+  "updated_utc": "2026-04-30T23:57:40Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Is This Black and White Bird a Leucistic Grackle?",
+      "link": "https://www.birdsandblooms.com/birding/birding-basics/leucistic-common-grackle/",
+      "summary": "A reader shared a photo of a bird that looks like a common grackle with white patches. He asked our experts: is it leucistic? The post Is This Black and White Bird a Leucistic Grac",
+      "date": "Thu, 23 Apr 2026 18Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/04/13_Carl-Muehlemeyer_BBXspring26_0001.jpg?fit=700,1024",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-04-30T23:57:21Z"
+    },
+    {
+      "title": "30 Mnemonics to Help You Remember Bird Calls",
+      "link": "https://www.allaboutbirds.org/news/30-mnemonics-help-remember-bird-calls/",
+      "summary": "Most birds squawk, chirp, and warble—but some of them are more “talkative” than that—their songs and calls sound almost like speech. Granted, this is mostly down to the imagination",
+      "date": "2026-04-08T21:03:04Z",
+      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/04/Ovenbird-Brad-Imhoff-335096071.jpg",
+      "name": "All About Birds",
+      "category": "birds",
+      "color": 3,
+      "fetched_at": "2026-04-30T23:57:22Z"
+    },
+    {
+      "title": "Gen Z leads birdwatching boom as more Britons reach for the binoculars",
+      "link": "https://www.theguardian.com/environment/2026/may/01/birdwatching-boom-britain-nature-gen-z-rspb-environment",
+      "summary": "Birdwatching no longer niche, old-fashioned pastime, says RSPB as research shows 47% increase in hobby since 2018 Birdwatching is the second fastest growing hobby for generation Z ",
+      "date": "2026-04-30T23:01:30Z",
+      "image": "https://i.guim.co.uk/img/media/68d967514d7b4d6a974dc6f4552e6eb1fa0bee91/1196_401_3060_2448/master/3060.jpg?width=140&quality=85&auto=format&fit=max&s=f48c658a9974238971a331f2a9df0aea",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-30T23:57:25Z"
+    },
+    {
+      "title": "‘Don’t fall!’: foil boarders describe hair-raising shark chase caught on video off California coast",
+      "link": "https://www.theguardian.com/us-news/2026/apr/30/foil-boarders-shark-chase-california",
+      "summary": "Foil boarders were pursued by shark – likely a great white – off Santa Barbara before it lost interest and swam away Sign up for the Breaking News US email to get newsletter alerts",
+      "date": "2026-04-30T22:26:58Z",
+      "image": "https://i.guim.co.uk/img/media/d2e03f73366ca6d215187d35e19ff947c16511c5/412_0_1376_1102/master/1376.jpg?width=140&quality=85&auto=format&fit=max&s=8d2e8a43dd024373f7d7db82d43272b9",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-04-30T23:57:25Z"
+    },
+    {
+      "title": "Where Do People Live the Longest? New Scientific Definition Helps Validate Blue Zones",
+      "link": "https://www.outsideonline.com/adventure-travel/news-analysis/new-blue-zone-definition-longevity-hotspots/",
+      "summary": "Longevity researchers outline new criteria to determine which regions of the world have exceptionally long-living populations. Will it finally put the Blue Zone critiques to bed? T",
+      "date": "Thu, 30 Apr 2026 23Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/GettyImages-2252514887.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-04-30T23:57:32Z"
+    },
+    {
+      "title": "Heat and cold alter how animals fight disease. As the climate changes, this knowledge may be vital",
+      "link": "https://phys.org/news/2026-04-cold-animals-disease-climate-knowledge.html",
+      "summary": "Each animal species has an optimal temperature at which it can metabolize food and its immune system can best fight off pathogens.",
+      "date": "2026-04-30T23:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/heat-and-cold-alter-ho.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-30T23:57:37Z"
+    },
+    {
+      "title": "Drivers help study road-trip mystery: what became of bug splats?",
+      "link": "https://phys.org/news/2026-04-drivers-road-mystery-bug-splats.html",
+      "summary": "Long an emblem of the summer road trip, squashed bugs on the car have become less numerous over the years, many people say—causing concern about the health of the world's insect po",
+      "date": "2026-04-30T22:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-sepia-dun-mayfly-lep.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-30T23:57:37Z"
+    },
+    {
+      "title": "How temperature swings impact the growth of young songbirds",
+      "link": "https://phys.org/news/2026-04-temperature-impact-growth-young-songbirds.html",
+      "summary": "Climate change threatens to cause increasingly extreme and variable temperature swings, affecting everything from urban infrastructure to global food supplies. In the animal kingdo",
+      "date": "2026-04-30T22:30:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-temperature-swings.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-04-30T23:57:37Z"
+    },
     {
       "title": "How to Use Spectrograms to Learn Details of Bird Songs",
       "link": "https://www.allaboutbirds.org/news/how-to-use-spectrograms-learn-bird-songs/",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-23T21:58:07Z"
-    },
-    {
-      "title": "Reeds boost mosquito spread in rivers and ponds",
-      "link": "https://phys.org/news/2026-04-reeds-boost-mosquito-rivers-ponds.html",
-      "summary": "Reed, an invasive alien plant that is abundant on the banks of many rivers, ponds and canals, can encourage the growth of common mosquito populations in the absence of natural pred",
-      "date": "2026-04-23T21:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reeds-boost-mosquito-s-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T21:58:07Z"
-    },
-    {
-      "title": "Inside the skull of a Devonian fish from Gondwana, revealed by neutron imaging",
-      "link": "https://phys.org/news/2026-04-skull-devonian-fish-gondwana-revealed.html",
-      "summary": "Flinders University researchers have taken a revealing look inside the head of one of the first animals to crawl from the water to live on land more than 380 million years ago. Usi",
-      "date": "2026-04-23T21:20:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fresh-eyes-on-gondwana.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T21:58:07Z"
-    },
-    {
-      "title": "Robotic fish prototype cuts aquaculture stress while inspecting nets and water",
-      "link": "https://phys.org/news/2026-04-robotic-fish-prototype-aquaculture-stress.html",
-      "summary": "The Centre for Research in Robotics and Underwater Technologies (CIRTESU) at the Universitat Jaume I in Castelló has developed an experimental modular, bio-inspired robotic fish pr",
-      "date": "2026-04-23T21:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-cirtesu-at-the-uni.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T21:58:07Z"
-    },
-    {
-      "title": "'A landmark moment for the field': FDA approves first-ever gene therapy for inherited deafness",
-      "link": "https://www.livescience.com/health/genetics/a-landmark-moment-for-the-field-fda-approves-first-ever-gene-therapy-for-inherited-deafness",
-      "summary": "A gene therapy made by Regeneron is the first treatment of its kind approved for genetic hearing loss.",
-      "date": "Thu, 23 Apr 2026 21Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Eh6aWHV9n7jMowNbUkPWMc-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-23T21:58:08Z"
-    },
-    {
-      "title": "A Mars Rover Found Building Blocks of Life Never Seen on the Red Planet Before, Boosting the Case for Ancient Habitability",
-      "link": "https://www.smithsonianmag.com/smart-news/a-mars-rover-found-building-blocks-of-life-never-seen-on-the-red-planet-before-boosting-the-case-for-ancient-habitability-180988610/",
-      "summary": "The organic molecules discovered by NASA’s Curiosity rover could have been formed by life, but they could have also come from geologic processes or meteorites",
-      "date": "Thu, 23 Apr 2026 20Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/pz8PP3Cc6IezbUAfSoAnTXbewME=/420x240/filters:focal(800x453:801x454)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6c/1b/6c1b6e38-1b30-41c0-a5ac-f8c6fcf1ca11/pia24173-1c-16.webp",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-23T21:00:11Z"
-    },
-    {
-      "title": "Gibraltar's Famous Monkeys Are Eating Dirt, Likely to Alleviate Stomach Aches From Munching on Tourists' Junk Food",
-      "link": "https://www.smithsonianmag.com/smart-news/gibraltars-famous-monkeys-are-eating-dirt-likely-to-alleviate-stomach-aches-from-munching-on-tourists-junk-food-180988606/",
-      "summary": "The British territory's Barbary macaques are the only wild monkeys in Europe. But many are consuming human snacks high in calories, sugar, salt and dairy, and low in fiber",
-      "date": "Thu, 23 Apr 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/0mSsK5M80wx5rjGsUnknqHZLQuY=/420x240/filters:focal(1131x646:1132x647)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/14/1d/141d15d2-ed6a-4067-9b93-ab97ade0b4d1/monkeybiscuit-2261x1272.webp",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-23T21:00:11Z"
-    },
-    {
-      "title": "Largest-ever octopus was great white shark of invertebrate predators",
-      "link": "https://www.newscientist.com/article/2524049-largest-ever-octopus-was-great-white-shark-of-invertebrate-predators/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "During the Cretaceous, 19-metre-long predatory octopuses swam the seas, and evidence from their fossilised remains suggest they may have been highly intelligent hunters",
-      "date": "Thu, 23 Apr 2026 20Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/23105850/SEI_294157269.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-23T21:00:13Z"
-    },
-    {
-      "title": "Do you need to worry about Mythos, Anthropic's computer-hacking AI?",
-      "link": "https://www.newscientist.com/article/2524008-do-you-need-to-worry-about-mythos-anthropics-computer-hacking-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A powerful AI kept from public access because of its ability to hack computers with impunity is making headlines around the world. But what is Mythos, does it really represent a ri",
-      "date": "Thu, 23 Apr 2026 19Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/23154958/SEI_294329195.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-23T21:00:13Z"
     }
   ]
 }
