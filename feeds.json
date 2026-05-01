@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-01T13:44:40Z",
-  "updated_utc": "2026-05-01T13:44:40Z",
+  "updated": "2026-05-01T15:03:53Z",
+  "updated_utc": "2026-05-01T15:03:53Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Peptides are unproven as health aids. FDA may unleash them anyway",
+      "link": "https://www.sciencenews.org/article/peptides-unproven-health-fda-access",
+      "summary": "Rather than reining in the compounds, the FDA may be poised to broaden access, perhapas even adding peptides to supplements. Experts say “buyer beware.”",
+      "date": "2026-05-01T14:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/042826_JD_peptides_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-05-01T15:03:47Z"
+    },
     {
       "title": "Six Funny Bird Names",
       "link": "https://www.10000birds.com/six-funny-bird-names.htm?utm_source=rss&utm_medium=rss&utm_campaign=six-funny-bird-names",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-04-24T13:56:54Z"
-    },
-    {
-      "title": "QBox theory may offer glimpse of reality deeper than quantum realm",
-      "link": "https://www.newscientist.com/article/2524032-qbox-theory-may-offer-glimpse-of-reality-deeper-than-quantum-realm/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Physicists have long suspected that there is a layer of physical reality beneath quantum theory and a new mathematical model unveils just how strange it might be",
-      "date": "2026-04-24T10:00:12Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/23182931/SEI_294309855.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-24T13:56:55Z"
     }
   ]
 }
