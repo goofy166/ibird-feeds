@@ -1,8 +1,74 @@
 {
-  "updated": "2026-05-01T21:01:50Z",
-  "updated_utc": "2026-05-01T21:01:50Z",
+  "updated": "2026-05-01T22:56:32Z",
+  "updated_utc": "2026-05-01T22:56:32Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Sun news: Solar wind brings a minor geomagnetic storm",
+      "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+      "summary": "Sun news for May 1, 2026: G1 (minor) geomagnetic storm arrived. The disturbance was due to the arrival of fast solar wind. The post Sun news: Solar wind brings a minor geomagnetic ",
+      "date": "2026-05-01T11:00:53Z",
+      "image": "https://earthsky.org/upl/2026/05/Apr-30-26-Aurora-forecast-oval.-ezgif.com-video-to-webp-converter.webp",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-01T22:56:18Z"
+    },
+    {
+      "title": "Visible planets and night sky guide for May",
+      "link": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
+      "summary": "Visible planets and night sky guide. This evening around sunset, look for the full Flower Moon rising in the east. It'll set about the time of sunrise. The post Visible planets and",
+      "date": "2026-05-01T08:00:08Z",
+      "image": "https://earthsky.org/upl/2026/04/May-1-2026-evening-full-moon.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-01T22:56:18Z"
+    },
+    {
+      "title": "The Personal Toll of Canada’s Broken Fishing Promises",
+      "link": "https://hakaimagazine.com/features/the-personal-toll-of-canadas-broken-fishing-promises/",
+      "summary": "August 29, 2020, dawned clear over southwest Nova Scotia. In the cabin of his lobster boat, the Mystique Lady, Matthew Cope was chatting with the other members of his crew as they ",
+      "date": "Tue, 17 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-matt-cope-moderate-livelihood.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-05-01T22:56:19Z"
+    },
+    {
+      "title": "The Debate over NPS Funding Just Got Heated. Here Is What’s at Stake.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/national-park-service-budget-cuts-2027-impact/",
+      "summary": "The proposed 2027 NPS budget slashes $736 million from park operations, threatening 3,000 jobs. The post The Debate over NPS Funding Just Got Heated. Here Is What’s at Stake. appea",
+      "date": "2026-05-01T21:12:31Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/GettyImages-2182885046.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-01T22:56:23Z"
+    },
+    {
+      "title": "Attributed to Banksy, a New Statue of a Suited Man, Blinded by a Flag and Walking Off a Ledge, Appeared in Central London",
+      "link": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
+      "summary": "The artwork was installed under the cloak of night this week, less than two months after a journalism investigation into Banksy’s true identity was published",
+      "date": "2026-05-01T21:51:19Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/UWO1ct5tcjK-dlIpyfuJ3Poc6lY=/420x240/filters:focal(2500x1667:2501x1668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6a/4a/6a4a7ecb-3a7c-4ac9-9297-c4cce0ec91b3/new_statue.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-01T22:56:24Z"
+    },
+    {
+      "title": "The earliest evidence of the first stars may lie in a distant gas clump",
+      "link": "https://www.sciencenews.org/article/first-stars-earliest-evidence-universe",
+      "summary": "James Webb data reveal pristine gas irradiated by energetic light some 450 million years after the Big Bang — a sign it may house primordial stars.",
+      "date": "2026-04-24T17:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/042126_MJG_stars_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-05-01T22:56:26Z"
+    },
     {
       "title": "To Speak the Language of the Land",
       "link": "https://hakaimagazine.com/features/to-speak-the-language-of-the-land/",
@@ -5436,72 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-24T19:05:02Z"
-    },
-    {
-      "title": "Building a massive dam between Alaska and Russia could prevent AMOC collapse, scientists say",
-      "link": "https://www.livescience.com/planet-earth/rivers-oceans/building-a-massive-dam-between-alaska-and-russia-could-prevent-amoc-collapse-scientists-say",
-      "summary": "Building a dam in the Bering Strait might preserve the Atlantic Meridional Overturning Circulation, but experts warn it could also threaten wildlife, Indigenous people and shipping",
-      "date": "2026-04-24T18:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/LTxtiHc8WAeJAtGxqoPdsR-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-24T19:05:03Z"
-    },
-    {
-      "title": "Storks in London – you can’t be serious!",
-      "link": "https://www.10000birds.com/storks-in-london-you-cant-be-serious.htm?utm_source=rss&utm_medium=rss&utm_campaign=storks-in-london-you-cant-be-serious",
-      "summary": "White Storks are the poster birds for reintroductions",
-      "date": "2026-04-24T15:59:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/04/P9140217.jpeg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-04-24T17:07:01Z"
-    },
-    {
-      "title": "Man found guilty over birds of prey dumped outside Hampshire village shop",
-      "link": "https://www.theguardian.com/uk-news/2026/apr/24/man-found-guilty-after-dumping-50-dead-hares-outside-hampshire-village-shop",
-      "summary": "James Kempster’s DNA was found on dead barn owl and kestrel rammed into door handles of volunteer store A man has been found guilty of possessing the bodies of wild birds of prey t",
-      "date": "2026-04-24T17:05:15Z",
-      "image": "https://i.guim.co.uk/img/media/3c32c9e538c3140eb3f08f36a4adcd55ece464f7/0_157_2717_2172/master/2717.jpg?width=140&quality=85&auto=format&fit=max&s=e33a6ed8926ffb74b0757419aac4965b",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-24T17:07:06Z"
-    },
-    {
-      "title": "The Canoe in the Forest",
-      "link": "https://hakaimagazine.com/features/the-canoe-in-the-forest/",
-      "summary": "When I first see the canoe, in May, it takes a moment to distinguish the long, shapely slab of cedar from the patch of earth that has spent more than a century trying to reclaim it",
-      "date": "Thu, 19 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-haida-canoe.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-04-24T17:07:09Z"
-    },
-    {
-      "title": "What’s Next for Deep-Sea Mining?",
-      "link": "https://hakaimagazine.com/news/whats-next-for-deep-sea-mining/",
-      "summary": "Earlier this year, Leticia Carvalho, a Brazilian oceanographer and environmental policy expert, took the helm of the International Seabed Authority (ISA) as secretary general. The ",
-      "date": "2024-12-18T08:01:59Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-deep-sea-mining-1.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-04-24T17:07:09Z"
-    },
-    {
-      "title": "Butterflies Are in Dramatic Decline Across North America. A Close Look at the Western Monarch Shows Why",
-      "link": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
-      "summary": "Pesticides, habitat loss and climate change have taken their toll on the beloved insects. But the experts working with them still find hope for their future",
-      "date": "2026-04-24T15:42:27Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/-24-n29RwTeSdCjECgpJNEpUVzU=/420x240/filters:focal(2784x1856:2785x1857)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f0/cc/f0cccc48-0697-4243-89b0-1e93aa195dc2/dsc_0152.jpg",
-      "name": "Smithsonian",
-      "category": "butterflies",
-      "color": 10,
-      "fetched_at": "2026-04-24T17:07:15Z"
     }
   ]
 }
