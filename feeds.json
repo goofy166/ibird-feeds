@@ -1,8 +1,96 @@
 {
-  "updated": "2026-05-01T07:29:52Z",
-  "updated_utc": "2026-05-01T07:29:52Z",
+  "updated": "2026-05-01T09:54:03Z",
+  "updated_utc": "2026-05-01T09:54:03Z",
   "count": 500,
   "stories": [
+    {
+      "title": "May birthstone: The magnificent green emerald",
+      "link": "https://earthsky.org/human-world/may-birthstone-emerald/",
+      "summary": "Happy birthday, May babies! The May birthstone is the emerald, a stone once worn by royalty in ancient Babylon and Egypt. The post May birthstone: The magnificent green emerald fir",
+      "date": "2026-05-01T09:27:48Z",
+      "image": "https://earthsky.org/upl/2022/08/Faceted-emeralds-Mauro-Cateb-Wikipedia.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-01T09:53:48Z"
+    },
+    {
+      "title": "These 7 Historic Resorts Are Now Epic Adventure Hubs",
+      "link": "https://www.outsideonline.com/adventure-travel/news-analysis/best-historic-adventure-resorts-guide/",
+      "summary": "From white-water rafting at the Greenbrier to surfing at America’s oldest seaside hotel, these grand dames are trading bathrobes for mountain bikes. The post These 7 Historic Resor",
+      "date": "2026-05-01T09:45:40Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/river.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-01T09:53:53Z"
+    },
+    {
+      "title": "8 Victories That Give Hope in the Fight to Protect Public Lands",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/public-land-victories/",
+      "summary": "From a magical stretch of the California coast to 50,000 acres in Montana, conservationists are still finding ways to set aside land for protection. The post 8 Victories That Give ",
+      "date": "2026-05-01T09:31:37Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/TPL1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-01T09:53:53Z"
+    },
+    {
+      "title": "The rings of Uranus are even stranger than we thought",
+      "link": "https://www.newscientist.com/article/2524832-the-rings-of-uranus-are-even-stranger-than-we-thought/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Uranus’s outermost two rings are surprisingly dissimilar, which opens up a mystery about the tiny moons and moonlets that form them",
+      "date": "2026-05-01T08:00:01Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/30115102/SEI_295137890.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-01T09:53:57Z"
+    },
+    {
+      "title": "An unorthodox version of quantum theory could reveal what reality is",
+      "link": "https://www.newscientist.com/article/2524665-an-unorthodox-version-of-quantum-theory-could-reveal-what-reality-is/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The implications of quantum mechanics suggest reality isn't as solid as we think it is, but physicist David Bohm had a spin on the theory that restores reality. Columnist Karmela P",
+      "date": "2026-05-01T06:00:38Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/29105132/SEI_294978299.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-01T09:53:57Z"
+    },
+    {
+      "title": "How oak trees outwit their predators",
+      "link": "https://phys.org/news/2026-04-oak-trees-outwit-predators.html",
+      "summary": "Spring in the forest: Many insects, particularly caterpillars, hatch just when the trees' nutrient-rich leaves are still young and soft. This means they find a table laden with foo",
+      "date": "2026-05-01T09:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-oak-trees-outwit-t.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-05-01T09:53:59Z"
+    },
+    {
+      "title": "India's cows offer biogas alternative to Mideast energy crunch",
+      "link": "https://phys.org/news/2026-05-india-cows-biogas-alternative-mideast.html",
+      "summary": "Across much of India, an energy crunch caused by the Iran war has prompted long queues for cooking gas cyclinders. That's not a problem for Gauri Devi.",
+      "date": "2026-05-01T08:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-villager-carrying-co.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-01T09:53:59Z"
+    },
+    {
+      "title": "Full moon alert: May's Flower 'micromoon' will look extra small tonight, with a rare Blue Moon following",
+      "link": "https://www.livescience.com/space/the-moon/full-moon-alert-mays-flower-micromoon-will-look-extra-small-tonight-with-a-rare-blue-moon-following",
+      "summary": "May's full moon rises on May Day — May 1 — shortly after sunset, creating a dramatic spectacle for skywatchers.",
+      "date": "2026-05-01T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/SiiczwD2zPCgbmrZKud7TH-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-01T09:54:00Z"
+    },
     {
       "title": "Week in wildlife: a clever orangutan, a cheeky frog and a dramatic whale rescue",
       "link": "https://www.theguardian.com/environment/gallery/2026/may/01/week-in-wildlife-a-clever-orangutan-a-cheeky-frog-and-a-dramatic-whale-rescue",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-24T09:05:40Z"
-    },
-    {
-      "title": "Country diary: The quiet vitality of a well-managed churchyard | Phil Gates",
-      "link": "https://www.theguardian.com/environment/2026/apr/24/country-diary-the-quiet-vitality-of-a-well-managed-churchyard",
-      "summary": "Brancepeth, County Durham: It’s nearly 30 years since St Brandon’s was devastated by fire. Today, both inside and out, it is full of light and life “Please close the door. It conse",
-      "date": "2026-04-24T04:30:30Z",
-      "image": "https://i.guim.co.uk/img/media/ab1b60c649ce9deb10e35d3af3b560aab5994d12/49_0_1462_1169/master/1462.jpg?width=140&quality=85&auto=format&fit=max&s=730075c59847db474942dffdbbef09ea",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-24T06:16:08Z"
-    },
-    {
-      "title": "Ultra-faint dwarf galaxies show state of the early universe",
-      "link": "https://earthsky.org/space/ultra-faint-dwarf-galaxies-early-universe/",
-      "summary": "Ultra-faint dwarf galaxies preserve clues to early-universe conditions, acting as cosmic fossils. Simulations show whether they formed stars or stayed dark. The post Ultra-faint dw",
-      "date": "2026-04-24T00:15:56Z",
-      "image": "https://earthsky.org/upl/2026/04/dwarf_galaxies-RAS-e1776952083903.png",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-24T03:42:01Z"
-    },
-    {
-      "title": "Meet Yuji, the Mexican baby monkey finding comfort in a plush companion",
-      "link": "https://www.mercurynews.com/2026/04/16/mexico-baby-monkey-yuji/",
-      "summary": "Yuji represents the most recent case of assisted rearing at the Guadalajara Zoo in Mexico.",
-      "date": "Thu, 16 Apr 2026 17Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/Mexico_Baby_Monkey_Yuji_72216-1.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-04-24T03:42:05Z"
-    },
-    {
-      "title": "The Gear You Need To Ditch Your Car and Start Bike Commuting",
-      "link": "https://www.outsideonline.com/outdoor-gear/bikes-and-biking/bike-commuting-gear/",
-      "summary": "These 12 items will make your bike commute easier, safer, more comfortable, and more convenient. The post The Gear You Need To Ditch Your Car and Start Bike Commuting appeared firs",
-      "date": "Thu, 23 Apr 2026 23Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/BIKE_COMMUTE_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-23T23:57:45Z"
-    },
-    {
-      "title": "New bioreactor turns stem cells into an immune-cell factory, producing 40 million human macrophages per week",
-      "link": "https://phys.org/news/2026-04-bioreactor-stem-cells-immune-cell.html",
-      "summary": "Researchers at Hannover Medical School (MHH) have developed a method for the efficient production of human immune cells, such as macrophages, in medium-sized bioreactors. These imm",
-      "date": "2026-04-23T23:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cell-factory-for-the-i.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T23:57:53Z"
-    },
-    {
-      "title": "New Research Highlights 10 Peptides You Shouldn’t Be Using",
-      "link": "https://www.outsideonline.com/health/training-performance/performance-peptides-safety-research/",
-      "summary": "A new scientific review examines the \"Wolverine stack\" and other supplements trending on social media. While the hype promises rapid healing, the actual evidence for human safety i",
-      "date": "Thu, 23 Apr 2026 22Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/weights.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-23T22:59:19Z"
-    },
-    {
-      "title": "These 'good' viruses hold up a booming industry—AI just found a faster way to track them",
-      "link": "https://phys.org/news/2026-04-good-viruses-booming-industry-ai.html",
-      "summary": "Researchers have developed a new methodology that uses artificial intelligence tools to identify and count target viruses more efficiently than previous techniques. The new approac",
-      "date": "2026-04-23T22:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-ai-can-help-us-cou.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T22:59:24Z"
-    },
-    {
-      "title": "Giant octopuses may have ruled the oceans 100 million years ago",
-      "link": "https://phys.org/news/2026-04-giant-octopuses-oceans-million-years.html",
-      "summary": "Today's octopuses are intelligent, remarkably flexible animals that lurk in reefs, hide in crevices, or drift through the deep sea. But new research suggests that their earliest re",
-      "date": "2026-04-23T22:30:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/giant-octopuses-may-ha.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T22:59:24Z"
     }
   ]
 }
