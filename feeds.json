@@ -1,8 +1,41 @@
 {
-  "updated": "2026-05-01T04:09:20Z",
-  "updated_utc": "2026-05-01T04:09:20Z",
+  "updated": "2026-05-01T07:29:52Z",
+  "updated_utc": "2026-05-01T07:29:52Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Week in wildlife: a clever orangutan, a cheeky frog and a dramatic whale rescue",
+      "link": "https://www.theguardian.com/environment/gallery/2026/may/01/week-in-wildlife-a-clever-orangutan-a-cheeky-frog-and-a-dramatic-whale-rescue",
+      "summary": "This week’s best wildlife photographs from around the world Continue reading...",
+      "date": "2026-05-01T07:00:40Z",
+      "image": "https://i.guim.co.uk/img/media/72d0461391e81be1a358b75b08c3ff466162fa4a/494_0_4820_3856/master/4820.jpg?width=140&quality=85&auto=format&fit=max&s=bf245916c41517979df0afa46f5e9b7a",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-01T07:29:36Z"
+    },
+    {
+      "title": "2026 Eta Aquariid meteor shower best before dawn on May 5",
+      "link": "https://earthsky.org/astronomy-essentials/everything-you-need-to-know-eta-aquarid-meteor-shower/",
+      "summary": "May's Eta Aquariid meteor shower is best in 2026 on the morning of May 5. Find a way to block the moonlight and watch in the hours before dawn. The post 2026 Eta Aquariid meteor sh",
+      "date": "2026-05-01T07:06:16Z",
+      "image": "https://earthsky.org/upl/2022/02/Eta-Aquariid-Meteor-Shower-e1644848992444.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-01T07:29:38Z"
+    },
+    {
+      "title": "A citizen campaign returns iconic kiwi birds to New Zealand's capital after a century-long absence",
+      "link": "https://phys.org/news/2026-05-citizen-campaign-iconic-kiwi-birds.html",
+      "summary": "The kiwi, New Zealand's sacred national bird, vanished from the hills around Wellington more than a century ago. Now the capital's residents are waging an improbable citizen campai",
+      "date": "2026-05-01T07:28:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-citizen-campaign-ret.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-01T07:29:48Z"
+    },
     {
       "title": "Is This Black and White Bird a Leucistic Grackle?",
       "link": "https://www.birdsandblooms.com/birding/birding-basics/leucistic-common-grackle/",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-23T22:59:24Z"
-    },
-    {
-      "title": "Life's earliest proteins may have folded into complex shapes with far fewer amino acids",
-      "link": "https://phys.org/news/2026-04-life-earliest-proteins-complex-amino.html",
-      "summary": "How did the earliest life on Earth build complex biological machinery with so few tools? A new study explores how the simplest building blocks of proteins—once limited to just half",
-      "date": "2026-04-23T22:20:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-hidden-language-of.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T22:59:24Z"
-    },
-    {
-      "title": "In Japan, a New Steward for 1,200 Years of Cherry Blossom Data Has Been Found, Sustaining a Climate Change Research Project",
-      "link": "https://www.smithsonianmag.com/smart-news/in-japan-a-new-steward-for-1200-years-of-cherry-blossom-data-has-been-found-sustaining-a-climate-change-research-project-180988607/",
-      "summary": "Climate scientist Yasuyuki Aono, who died last summer, learned to read ancient Japanese script to compile records on peak bloom dating back to the ninth century C.E.",
-      "date": "Thu, 23 Apr 2026 20Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/YsVTZjdL6DMyqj1TzuIa4w6goqo=/420x240/filters:focal(1280x817:1281x818)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/76/9f/769f45eb-00ce-4ba7-b942-5eaaa2e283fa/prunus_jamasakura_japanese_wild_cherry_tree__-_panoramio.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-23T21:58:03Z"
-    },
-    {
-      "title": "Study shows a widely used antifungal drug works only when its target enzyme is active",
-      "link": "https://phys.org/news/2026-04-widely-antifungal-drug-enzyme.html",
-      "summary": "Serious fungal infections are on the rise, and many hospital-acquired cases are becoming harder to treat as fungi become resistant to available medications. One of the most widely ",
-      "date": "2026-04-23T21:40:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/catching-a-fungal-enzy.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-23T21:58:07Z"
     }
   ]
 }
