@@ -1,8 +1,30 @@
 {
-  "updated": "2026-05-01T22:56:32Z",
-  "updated_utc": "2026-05-01T22:56:32Z",
+  "updated": "2026-05-01T23:58:25Z",
+  "updated_utc": "2026-05-01T23:58:25Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Canoe in the Forest",
+      "link": "https://hakaimagazine.com/features/the-canoe-in-the-forest/",
+      "summary": "When I first see the canoe, in May, it takes a moment to distinguish the long, shapely slab of cedar from the patch of earth that has spent more than a century trying to reclaim it",
+      "date": "Thu, 19 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-haida-canoe.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-05-01T23:58:13Z"
+    },
+    {
+      "title": "What’s Next for Deep-Sea Mining?",
+      "link": "https://hakaimagazine.com/news/whats-next-for-deep-sea-mining/",
+      "summary": "Earlier this year, Leticia Carvalho, a Brazilian oceanographer and environmental policy expert, took the helm of the International Seabed Authority (ISA) as secretary general. The ",
+      "date": "2024-12-18T08:01:59Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-deep-sea-mining-1.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-05-01T23:58:13Z"
+    },
     {
       "title": "Sun news: Solar wind brings a minor geomagnetic storm",
       "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
@@ -5478,28 +5500,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-mothers-gift-plastid.jpg",
       "name": "Phys.org",
       "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-04-24T19:05:02Z"
-    },
-    {
-      "title": "Genomic tool untangles how microbes spread—even when they look almost identical",
-      "link": "https://phys.org/news/2026-04-genomic-tool-untangles-microbes-identical.html",
-      "summary": "Researchers have developed a powerful new tool that can track how microbes spread between people with unprecedented precision, offering new ways to prevent infections and improve t",
-      "date": "2026-04-24T18:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/microbes.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-24T19:05:02Z"
-    },
-    {
-      "title": "Extra sets of chromosomes may help aggressive tumor cells spread, study finds",
-      "link": "https://phys.org/news/2026-04-extra-chromosomes-aggressive-tumor-cells.html",
-      "summary": "One of the biggest challenges in cancer research is understanding why some tumor cells become especially aggressive, invasive and resistant to treatment. Scientists have increasing",
-      "date": "2026-04-24T18:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/extra-sets-of-chromoso-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-24T19:05:02Z"
     }
