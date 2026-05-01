@@ -1,8 +1,96 @@
 {
-  "updated": "2026-05-01T17:05:48Z",
-  "updated_utc": "2026-05-01T17:05:48Z",
+  "updated": "2026-05-01T19:22:31Z",
+  "updated_utc": "2026-05-01T19:22:31Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Florida prosecutors launch criminal investigation into deaths of 31 sloths",
+      "link": "https://www.theguardian.com/us-news/2026/may/01/florida-sloth-deaths-criminial-investigation",
+      "summary": "Sloths were set to be displayed at controversial new theme park but report revealed mammals died in warehouse Prosecutors in Florida said Friday they have launched a criminal inves",
+      "date": "2026-05-01T19:05:16Z",
+      "image": "https://i.guim.co.uk/img/media/22ed23431d0a5005e58fe7e114e47eb9de72df61/32_0_960_768/master/960.jpg?width=140&quality=85&auto=format&fit=max&s=33c4d100ce2e281b58d9a815ad16d6bf",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-01T19:22:17Z"
+    },
+    {
+      "title": "Six Decades Ago, a Boy Stole Medieval Tiles From an English Monastery. He Just Returned the Illicit Souvenirs",
+      "link": "https://www.smithsonianmag.com/smart-news/six-decades-ago-a-boy-stole-medieval-tiles-from-an-english-monastery-he-just-returned-the-illicit-souvenirs-180988663/",
+      "summary": "A ghoulish face and a graceful dragon decorate the broken clay tiles from the late 13th century or early 14th century. They were found tucked in an old toffee tin",
+      "date": "2026-05-01T18:39:46Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/P1udB4i85hE8UP4_yNh-onOIFaQ=/420x240/filters:focal(2886x1924:2887x1925)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/41/1a/411a6e6c-c7fb-4c76-9ecf-ab68073ce49f/the_medieval_floor_tiles_were_kept_hidden_for_60_years_in_an_old_tin_credit_english_heritage.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-01T19:22:24Z"
+    },
+    {
+      "title": "Hummus Made From Moon-Grown Chickpeas Might Be on the Menu for Future Lunar Residents",
+      "link": "https://www.smithsonianmag.com/smart-news/hummus-made-from-moon-grown-chickpeas-might-be-on-the-menu-for-future-lunar-residents-180988320/",
+      "summary": "Researchers successfully grew and harvested chickpeas in simulated moon dirt—with a little help from worm poop and a beneficial fungus. However, they're still testing whether the l",
+      "date": "2026-05-01T17:23:35Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/EH3e7xeNp1gG5FVadT-GEmcnIwI=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/53/39/5339bcf4-7bc2-4f4e-9ce5-750df50c18f7/smithsonian_feature_images_17.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-01T19:22:24Z"
+    },
+    {
+      "title": "This Greek Volcano Seemed Quiet for 100,000 Years. Then It Erupted Again. Should Scientists Take a Second Look at 'Extinct' Volcanoes?",
+      "link": "https://www.smithsonianmag.com/smart-news/this-greek-volcano-seemed-quiet-for-100000-years-then-it-erupted-again-scientists-take-a-second-look-at-extinct-volcanoes-180988651/",
+      "summary": "By reconstructing a 700,000-year history of Methana volcano, geologists found a prehistoric phase when it appeared inactive on the surface, despite magma building up below ground",
+      "date": "2026-05-01T16:50:40Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/76hudpUcbLDapc3q9JKkfnP4Aq8=/420x240/filters:focal(1500x757:1501x758)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/83/80/83801e5d-0c31-4e5a-89f8-938a7b4c538c/imageimageformatcarousel1867773365.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-01T19:22:24Z"
+    },
+    {
+      "title": "2026 will be the hottest year on record, leading scientist predicts",
+      "link": "https://www.newscientist.com/article/2525229-2026-will-be-the-hottest-year-on-record-leading-scientist-predicts/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The second half of this year will almost certainly see the start of an El Niño phase that could lead to extreme heat across much of the globe, and James Hansen expects that to make",
+      "date": "2026-05-01T17:24:54Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/01171936/SEI_295409134.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-01T19:22:26Z"
+    },
+    {
+      "title": "Stealth switch in tuberculosis enzyme could open route to drug-resistant treatment",
+      "link": "https://phys.org/news/2026-05-stealth-tuberculosis-enzyme-route-drug.html",
+      "summary": "Recent research published in Communications Biology marks an advance in structural biology by enhancing understanding of protein regulation mechanisms in Mycobacterium tuberculosis",
+      "date": "2026-05-01T19:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/landmark-achievement-o.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-01T19:22:27Z"
+    },
+    {
+      "title": "How photosynthetic bacteria pass light along: Two major energy pathways identified",
+      "link": "https://phys.org/news/2026-05-photosynthetic-bacteria-major-energy-pathways.html",
+      "summary": "RIKEN researchers have found out how light energy harvested by pigments besides chlorophyll is transferred to the molecular site where photosynthesis occurs in cyanobacteria. The w",
+      "date": "2026-05-01T18:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-energy-is-transfer.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-01T19:22:27Z"
+    },
+    {
+      "title": "The way a cell fails to divide after copying its DNA can determine its fate",
+      "link": "https://phys.org/news/2026-05-cell-dna-fate.html",
+      "summary": "Cell division is one of the most fundamental and complex processes underpinning life. In human cells, thousands of molecules coordinate with one another in highly precise steps, al",
+      "date": "2026-05-01T17:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-a-cell-doubles-its.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-01T19:22:27Z"
+    },
     {
       "title": "Our greatest songster?",
       "link": "https://www.10000birds.com/our-greatest-songster.htm?utm_source=rss&utm_medium=rss&utm_campaign=our-greatest-songster",
@@ -5414,94 +5502,6 @@
       "category": "wildlife",
       "color": 7,
       "fetched_at": "2026-04-24T15:16:53Z"
-    },
-    {
-      "title": "To Speak the Language of the Land",
-      "link": "https://hakaimagazine.com/features/to-speak-the-language-of-the-land/",
-      "summary": "Nearly 200 of us cram into Tarāwhai, a traditional wooden Māori meeting house, under the gaze of the ancestors and deities carved into the posts and walls. We’re here in the home o",
-      "date": "Thu, 12 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-maori-language-and-place.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-04-24T15:16:53Z"
-    },
-    {
-      "title": "Caviar Pizzas, New Money, and the Death of an Ancient Fish",
-      "link": "https://hakaimagazine.com/features/caviar-pizzas-new-money-and-the-death-of-an-ancient-fish/",
-      "summary": "I am sitting at a slick Manhattan waterfront restaurant on the banks of the East River, New York City, trying to decide why I find the caviar pizza on the menu so disturbing. Jonat",
-      "date": "Tue, 10 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-21st-century-sturgeon.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-04-24T15:16:53Z"
-    },
-    {
-      "title": "The Destructive Legacy of Failed Aquaculture",
-      "link": "https://hakaimagazine.com/news/the-destructive-legacy-of-failed-aquaculture/",
-      "summary": "Aquaculture is big business in Canada. In 2023, open-net-pen salmon farming in British Columbia alone produced 50,000 tonnes of fish worth just over US $350-million. But on June 30",
-      "date": "2024-12-06T08:01:14Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-aquaculture-cleanup.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-04-24T15:16:53Z"
-    },
-    {
-      "title": "Conjuring the Lost Land Beneath the North Sea",
-      "link": "https://hakaimagazine.com/features/conjuring-the-lost-land-beneath-the-north-sea/",
-      "summary": "The North Sea is a hard place to love. It’s not the cold, or the silty gray-brown waters that seem to suck the brightness out of the sky that make it unappealing, it’s what people ",
-      "date": "Thu, 05 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-doggerland.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-04-24T15:16:53Z"
-    },
-    {
-      "title": "Bay Area construction company illegally polluted river, lawsuit alleges",
-      "link": "https://www.mercurynews.com/2026/04/16/prominent-bay-area-construction-company-illegally-polluted-river-lawsuit-alleges/",
-      "summary": "Graniterock quarry is one of the largest in the Western United States, company says it is a good environmental steward",
-      "date": "Thu, 16 Apr 2026 22Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SJM-L-QUARRY-0416-6.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-04-24T15:16:55Z"
-    },
-    {
-      "title": "9 of the Best Sustainable Hotels and Lodges in the World",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/best-sustainable-adventure-hotels-2026/",
-      "summary": "From a new DarkSky Approved glamping retreat in Yosemite to a former seaweed camp-turned-nature lodge in Patagonia, here are hotels, lodges, and retreats where you can feel like yo",
-      "date": "2026-04-24T14:39:01Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/best-of-travel-yellow-stamp.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-24T15:16:56Z"
-    },
-    {
-      "title": "Beavers Are Ecosystem Engineers—and They Might Be Helpful Allies in the Fight Against Human-Caused Climate Change",
-      "link": "https://www.smithsonianmag.com/smart-news/beavers-are-ecosystem-engineers-and-they-might-be-helpful-allies-in-the-fight-against-human-caused-climate-change-180988609/",
-      "summary": "New research suggests that wetlands created by the industrious rodents are carbon sinks, meaning they store a lot of heat-trapping carbon dioxide—the human-produced gas largely res",
-      "date": "2026-04-24T14:36:06Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/nadM9ILmV3qyixOdjbW475mJWHY=/420x240/filters:focal(1749x1216:1750x1217)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4e/a1/4ea1e962-53fb-4b95-aaf6-4b7c4f6088ae/beaver.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-24T15:16:58Z"
-    },
-    {
-      "title": "What Killed the Neanderthals? New Research Suggests a Lack of Genetic Diversity May Be Partially to Blame",
-      "link": "https://www.smithsonianmag.com/smart-news/what-killed-the-neanderthals-new-research-suggests-a-lack-of-genetic-diversity-may-be-partially-to-blame-180988612/",
-      "summary": "When the climate cooled, the population of Neanderthals shrank. Most that lived between 60,000 and 40,000 years ago were descended from the same lineage and had very similar DNA",
-      "date": "2026-04-24T14:04:18Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/vLUmNHFjAwCXMTFeDawZikMgogE=/420x240/filters:focal(2561x1708:2562x1709)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/92/82/9282d6cf-08c2-454f-a303-3cf02c4eae6c/gettyimages-2017218126.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-24T15:16:58Z"
     }
   ]
 }
