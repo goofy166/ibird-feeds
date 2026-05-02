@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-01T23:58:25Z",
-  "updated_utc": "2026-05-01T23:58:25Z",
+  "updated": "2026-05-02T03:43:56Z",
+  "updated_utc": "2026-05-02T03:43:56Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Federal government accused of watering down proposal to protect Australia’s threatened species and ecosystems",
+      "link": "https://www.theguardian.com/australia-news/2026/may/02/federal-government-accused-of-watering-down-proposal-to-protect-australias-threatened-species-and-ecosystems",
+      "summary": "Wilderness Society says changes undermined intent of national standards intended to reverse decline of plants, animals and ecosystems Get our breaking news email , free app or dail",
+      "date": "2026-05-02T00:00:10Z",
+      "image": "https://i.guim.co.uk/img/media/21a8051d436b804806e1165ab555e55aea1f2f15/363_83_815_652/master/815.jpg?width=140&quality=85&auto=format&fit=max&s=9be46632dfbc1076dc1ed64caa229445",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-02T03:43:40Z"
+    },
     {
       "title": "The Canoe in the Forest",
       "link": "https://hakaimagazine.com/features/the-canoe-in-the-forest/",
@@ -5489,17 +5500,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/dairy-cattle-farming.jpg",
       "name": "Phys.org",
       "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-24T19:05:02Z"
-    },
-    {
-      "title": "A mother's gift: Plastid-derived structures help sea urchin development and dispersal",
-      "link": "https://phys.org/news/2026-04-mother-gift-plastid-derived-sea.html",
-      "summary": "During the development of marine organisms—from fertilization through to juvenile stages—it is often observed that the eggs released into the water column are initially supplied wi",
-      "date": "2026-04-24T18:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-mothers-gift-plastid.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
       "color": 13,
       "fetched_at": "2026-04-24T19:05:02Z"
     }
