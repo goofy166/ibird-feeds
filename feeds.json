@@ -1,8 +1,30 @@
 {
-  "updated": "2026-05-02T19:13:49Z",
-  "updated_utc": "2026-05-02T19:13:49Z",
+  "updated": "2026-05-02T20:53:02Z",
+  "updated_utc": "2026-05-02T20:53:02Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘We don’t hear the frogs, we don’t see the birds’: government repeatedly delayed water to NSW wetlands, documents reveal",
+      "link": "https://www.theguardian.com/environment/2026/may/02/nsw-government-delayed-water-wetlands-documents-reveal",
+      "summary": "Exclusive: A grazier has released emails that reveal the state’s environment and water department prioritised harvesting of winter cereal crops over wetlands Sign up for climate an",
+      "date": "2026-05-02T20:00:34Z",
+      "image": "https://i.guim.co.uk/img/media/d8d41e44ab3ee6a979ad69507d140463c7132a09/622_0_4745_3796/master/4745.jpg?width=140&quality=85&auto=format&fit=max&s=5064de99b9be3a6349af96c6cd453cb0",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-02T20:52:46Z"
+    },
+    {
+      "title": "A new interface to study RNA biology",
+      "link": "https://phys.org/news/2026-04-interface-rna-biology.html",
+      "summary": "Scientists at Université de Montréal's Institute for Research in Immunology and Cancer have developed a new database that integrates the molecular structure of microRNAs and messen",
+      "date": "2026-05-02T20:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-interface-to-stu-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-02T20:52:57Z"
+    },
     {
       "title": "Grow Four-o’clock Flowers for Evening Blooms",
       "link": "https://www.birdsandblooms.com/gardening/flower-gardening/four-o-clock-flowers/",
@@ -5476,28 +5498,6 @@
       "summary": "One of the most surprising things new birdwatchers discover is how often common birds are misnamed. Even people who have watched birds casually for years … Read More \"You’re Probab",
       "date": "2026-02-08T12:19:08Z",
       "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/02/two-starlings-scaled.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-04-24T22:51:56Z"
-    },
-    {
-      "title": "It’s Not Magic: How Birds Really Know When the Feeder Is Full",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/how-do-birds-find-bird-feeders/",
-      "summary": "You top up the bird feeder, step back inside… and within minutes birds seem to appear out of nowhere. It can feel almost magical as … Read More \"It’s Not Magic: How Birds Really Kn",
-      "date": "2026-02-02T07:07:45Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/02/how-do-birds-find-bird-feeders-photo-5-scaled.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-04-24T22:51:56Z"
-    },
-    {
-      "title": "10 Birds That Look Fake But Are Actually Real",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/10-birds-that-look-fake-but-are-actually-real/",
-      "summary": "At first glance, these birds do not look real. Their colors feel too bright. Their patterns look artificial. Some seem more like toys, cartoons, or … Read More \"10 Birds That Look ",
-      "date": "2026-01-03T18:44:44Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/01/pexels-james-frid-81279-2569232-scaled.jpg",
       "name": "BWatching Daily",
       "category": "birds",
       "color": 0,
