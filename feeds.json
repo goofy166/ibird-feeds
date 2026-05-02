@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-02T08:25:11Z",
-  "updated_utc": "2026-05-02T08:25:11Z",
+  "updated": "2026-05-02T10:04:20Z",
+  "updated_utc": "2026-05-02T10:04:20Z",
   "count": 500,
   "stories": [
+    {
+      "title": "What's the difference between a lion and a tiger?",
+      "link": "https://www.livescience.com/animals/cats/whats-the-difference-between-a-lion-and-a-tiger",
+      "summary": "One has stripes, and one doesn't. But do the differences between lions and tigers go deeper than that?",
+      "date": "2026-05-02T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/PASmtoHQ2weaEJ9JB9wuWm-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-02T10:04:18Z"
+    },
     {
       "title": "Buenos Aires, Argentina – Profile for Birders",
       "link": "https://www.10000birds.com/buenos-aires-argentina-profile-for-birders.htm?utm_source=rss&utm_medium=rss&utm_campaign=buenos-aires-argentina-profile-for-birders",
@@ -5487,17 +5498,6 @@
       "summary": "Forests provide myriad benefits, including timber, wildlife attraction, local cooling and climate resilience. At the Smithsonian Environmental Research Center, ecologists are testi",
       "date": "2026-04-24T18:43:50Z",
       "image": "https://th-thumbnailer.cdn-si-edu.com/XQhGT_wn1zHv7MW-8VEGCHdT6mQ=/420x240/filters:focal(2699x2288:2700x2289)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d7/fc/d7fc0846-0c58-46ee-a3c6-8e4999d2add0/volunteers_planting8_copy.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-24T19:04:58Z"
-    },
-    {
-      "title": "Why Do We Love Movies? This New 'Smart' Movie Theater Tracks Viewers' Brain Waves and Heart Rates To Find Out",
-      "link": "https://www.smithsonianmag.com/smart-news/this-new-smart-movie-theatre-is-tracking-audiences-brain-waves-and-heart-rates-to-create-more-engaging-films-180988614/",
-      "summary": "Researchers at the University of Bristol are studying the appeal of the cinema-watching experience by turning one theater into a biometric laboratory",
-      "date": "2026-04-24T18:20:25Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/Lhl4eKc6_xizcjZtSmlH3Lhtawk=/420x240/filters:focal(1750x1167:1751x1168)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/23/d5/23d59582-792e-4521-9c30-401ffb5ab688/smart_cinema_-_audience_2.jpg",
       "name": "Smithsonian",
       "category": "insects",
       "color": 10,
