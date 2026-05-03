@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-03T17:01:48Z",
-  "updated_utc": "2026-05-03T17:01:48Z",
+  "updated": "2026-05-03T19:11:03Z",
+  "updated_utc": "2026-05-03T19:11:03Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Rising temperatures could be driving up antibiotic resistance in soil, 11-year study finds",
+      "link": "https://phys.org/news/2026-04-temperatures-antibiotic-resistance-soil-year.html",
+      "summary": "Every year, millions suffer, and thousands lose their lives to infections that were once easily treatable with the right dose of medication. The drugs are the same; human physiolog",
+      "date": "2026-05-03T17:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rising-temperatures-co.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-03T19:11:00Z"
+    },
     {
       "title": "Synthetic biology promised to rewrite life—with the death of its pioneer, J. Craig Venter, how close are scientists?",
       "link": "https://phys.org/news/2026-05-synthetic-biology-rewrite-life-death.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-04-25T15:49:26Z"
-    },
-    {
-      "title": "Century of data shows global decline in fish growth",
-      "link": "https://phys.org/news/2026-04-century-global-decline-fish-growth.html",
-      "summary": "A new analysis has revealed a global decline in fish growth over the last century, with scientists warning that overfishing and environmental change are eroding the biological foun",
-      "date": "2026-04-25T14:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/global-decline-in-fish.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-25T14:52:29Z"
     }
   ]
 }
