@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-03T03:58:46Z",
-  "updated_utc": "2026-05-03T03:58:46Z",
+  "updated": "2026-05-03T06:34:17Z",
+  "updated_utc": "2026-05-03T06:34:17Z",
   "count": 500,
   "stories": [
+    {
+      "title": "From neat lawns to wild havens: how No Mow May is transforming England’s gardens",
+      "link": "https://www.theguardian.com/environment/2026/may/03/lawns-wild-no-mow-may-gardens",
+      "summary": "Cheshire villagers are letting lawns grow wild to improve diversity and reconnect with nature on their doorstep Ian Waddington was crouched in his garden last summer, inspecting lo",
+      "date": "2026-05-03T06:00:46Z",
+      "image": "https://i.guim.co.uk/img/media/7b883243c428baa47d43f11bb73e490f0af766ec/1204_0_6485_5188/master/6485.jpg?width=140&quality=85&auto=format&fit=max&s=49fd285e0ceeee97b31338781e55c6f1",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-03T06:34:01Z"
+    },
     {
       "title": "‘We don’t hear the frogs, we don’t see the birds’: government repeatedly delayed water to NSW wetlands, documents reveal",
       "link": "https://www.theguardian.com/environment/2026/may/02/nsw-government-delayed-water-wetlands-documents-reveal",
@@ -5491,17 +5502,6 @@
       "category": "birds",
       "color": 0,
       "fetched_at": "2026-04-24T23:49:25Z"
-    },
-    {
-      "title": "You’re Probably Calling This Bird the Wrong Name",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/youre-probably-calling-this-bird-the-wrong-name/",
-      "summary": "One of the most surprising things new birdwatchers discover is how often common birds are misnamed. Even people who have watched birds casually for years … Read More \"You’re Probab",
-      "date": "2026-02-08T12:19:08Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/02/two-starlings-scaled.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-04-24T22:51:56Z"
     }
   ]
 }
