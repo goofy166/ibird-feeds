@@ -1,8 +1,41 @@
 {
-  "updated": "2026-05-03T11:51:52Z",
-  "updated_utc": "2026-05-03T11:51:52Z",
+  "updated": "2026-05-03T13:39:13Z",
+  "updated_utc": "2026-05-03T13:39:13Z",
   "count": 500,
   "stories": [
+    {
+      "title": "See the best deep-sky photos of April 2026",
+      "link": "https://earthsky.org/todays-image/deep-sky-photos-april-2026/",
+      "summary": "Enjoy this gallery of deep-sky photos for April 2026 from our EarthSky community. If you have a great photo to share, we'd love to see it! The post See the best deep-sky photos of ",
+      "date": "2026-05-03T12:00:41Z",
+      "image": "https://earthsky.org/upl/2026/04/Steven-Bellavia_Supernova-SN2026kid-in-galaxy-NGC5907-in-Draco_Smithfield-VA_2026-apr-29-e1777577335389.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-03T13:38:59Z"
+    },
+    {
+      "title": "Archaeologists recreate Pompeii victim using AI technology",
+      "link": "https://earthsky.org/human-world/pompeii-victim-image-ai-in-archeology/",
+      "summary": "Archaeologists have used AI technology to recreate a Pompeii victim. The man fled the volcano while trying to protect his head with a terracotta bowl. The post Archaeologists recre",
+      "date": "2026-05-03T12:00:07Z",
+      "image": "https://earthsky.org/upl/2026/04/Foto-Vittime-San-Paolino-e-ricostruzione-IA-1-e1777466932301.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-03T13:38:59Z"
+    },
+    {
+      "title": "Nest‑building chimpanzees seem to anticipate future weather",
+      "link": "https://phys.org/news/2026-04-nestbuilding-chimpanzees-future-weather.html",
+      "summary": "Every evening, as they move from place to place through the forest, chimpanzees stop to build a nest—most often in a tree—to sleep in. Using a selection of branches, leaves and twi",
+      "date": "2026-05-03T12:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chimp.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-03T13:39:10Z"
+    },
     {
       "title": "Three Photos: Shorebirds at Roebuck Bay",
       "link": "https://www.10000birds.com/three-photos-shorebirds-at-roebuck-bay.htm?utm_source=rss&utm_medium=rss&utm_campaign=three-photos-shorebirds-at-roebuck-bay",
@@ -5469,39 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-04-25T11:44:32Z"
-    },
-    {
-      "title": "Birding Arizona–style",
-      "link": "https://www.10000birds.com/birding-arizona-style-2.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-arizona-style-2",
-      "summary": "This post is republished in our “From the Archives” series, featuring highlights of our vast back catalogue of more than 10,000 birding-related posts published over the last 15 yea",
-      "date": "2026-04-25T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/Elegant-Trogon-2-by-Michael-Todd-e1535733898737.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-04-25T11:44:32Z"
-    },
-    {
-      "title": "California’s wildlife bridge became a target for the right. Now it’s eyeing the finish line",
-      "link": "https://www.theguardian.com/us-news/2026/apr/25/california-wildlife-crossing-construction",
-      "summary": "Unhindered by critics who called the $114m project ‘a bridge to nowhere’, a gigantic bridge allowing animals to cross a busy freeway is close to completion Atop a gigantic wildlife",
-      "date": "2026-04-25T11:00:44Z",
-      "image": "https://i.guim.co.uk/img/media/058146db99bd6335e5f17a313a772d166fd67f0d/1242_0_5449_4362/master/5449.jpg?width=140&quality=85&auto=format&fit=max&s=e369113e45ce16a9a6e5a4b6798c96b8",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-25T11:44:37Z"
-    },
-    {
-      "title": "More than half of 480 ducks rescued from California sanctuary went to a livestock company",
-      "link": "https://www.mercurynews.com/2026/04/25/more-than-half-of-480-ducks-rescued-from-anza-sanctuary-went-to-a-livestock-company/",
-      "summary": "The Riverside County Department of Animal Services is under fire from animal activists for its handling of nearly 500 ducks surrendered last week by an animal rescue in Anza.",
-      "date": "2026-04-25T11:00:06Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/RPE-L-DUCKS2-0415.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-04-25T11:44:42Z"
     }
   ]
 }
