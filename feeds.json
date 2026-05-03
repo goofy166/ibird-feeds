@@ -1,8 +1,52 @@
 {
-  "updated": "2026-05-03T08:52:42Z",
-  "updated_utc": "2026-05-03T08:52:42Z",
+  "updated": "2026-05-03T10:12:30Z",
+  "updated_utc": "2026-05-03T10:12:30Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Case for Trading Your Synthetic Gear for Natural Fibers",
+      "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/natural-fiber-clothing-vs-synthetic-polyester/",
+      "summary": "Nearly two-thirds of modern clothing is made from plastic, which traps heat and holds odors. Here is why switching back to natural fibers like hemp and linen will change how you fe",
+      "date": "2026-05-03T09:38:10Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/pend.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-03T10:12:21Z"
+    },
+    {
+      "title": "Inside the Growing Trend of Analog Travel",
+      "link": "https://www.outsideonline.com/adventure-travel/news-analysis/analog-travel-rising/",
+      "summary": "A growing “analog travel” trend is pushing people to swap screens for film cameras, paper maps, and real-world experiences. The post Inside the Growing Trend of Analog Travel appea",
+      "date": "2026-05-03T09:36:16Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/greecepolaroid.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-03T10:12:21Z"
+    },
+    {
+      "title": "Scientists detect an enormous halo around the iconic Sombrero Galaxy — Space photo of the week",
+      "link": "https://www.livescience.com/space/scientists-detect-an-enormous-halo-around-the-iconic-sombrero-galaxy-space-photo-of-the-week",
+      "summary": "The 570-megapixel Dark Energy Camera in Chile has captured an extended halo and a dust-filled disk around the hat-shaped Sombrero Galaxy.",
+      "date": "2026-05-03T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ssSSNzGYZedM35eFREmDcG-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-03T10:12:27Z"
+    },
+    {
+      "title": "Did Japan have female samurai?",
+      "link": "https://www.livescience.com/archaeology/did-japan-have-female-samurai",
+      "summary": "The samurai are renowned as skilled warriors, but were any of them women?",
+      "date": "2026-05-03T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/mRppARQkDFz7UFHekFXYpG-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-03T10:12:27Z"
+    },
     {
       "title": "Arcturus, brightest star of the northern sky",
       "link": "https://earthsky.org/brightest-stars/bright-orange-arcturus-use-the-big-dipper-to-find-it/",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-04-25T10:53:02Z"
-    },
-    {
-      "title": "Why are some constellations visible for only part of the year?",
-      "link": "https://www.livescience.com/space/astronomy/why-are-some-constellations-visible-for-only-part-of-the-year",
-      "summary": "Why do some constellations stay in the sky all year, while others disappear?",
-      "date": "2026-04-25T09:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/uHRVsjb5xTkZnuYhTvKeHi-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-25T09:03:50Z"
-    },
-    {
-      "title": "Science history: Chernobyl nuclear power plant melts down, bringing the world to the brink of disaster — April 26, 1986",
-      "link": "https://www.livescience.com/planet-earth/nuclear-energy/science-history-chernobyl-nuclear-power-plant-melts-down-bringing-the-world-to-the-brink-of-disaster-april-26-1986",
-      "summary": "On April 26, 1986, the Chernobyl nuclear reactor melted down, but the rest of the world wouldn't learn how close it came to nuclear Armageddon until weeks later.",
-      "date": "2026-04-25T06:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/gGHiDUyUxkocHhVkN4okiM-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-25T07:40:46Z"
-    },
-    {
-      "title": "‘Cries of delight’ as Sumatran orangutan filmed using canopy bridge to cross road for first time",
-      "link": "https://www.theguardian.com/environment/2026/apr/25/first-footage-endangered-sumatran-orangutan-using-canopy-bridge-cross-road-hope-species-aoe",
-      "summary": "After a two-year wait, video of a young male crossing above a road gives hope that critically endangered species can survive habitat fragmentation The critically endangered Sumatra",
-      "date": "2026-04-25T05:00:40Z",
-      "image": "https://i.guim.co.uk/img/media/d9a0ab12c38fffc21ff2544761f18362a7df71af/253_160_1746_1396/master/1746.jpg?width=140&quality=85&auto=format&fit=max&s=81e101903a5d3e4878b043c652b67cf3",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-25T05:53:12Z"
-    },
-    {
-      "title": "The Best Bird Song Apps in the U.S. (2026): A Complete Guide",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/best-bird-song-apps/",
-      "summary": "Birdwatching in the United States has never been more engaging, not just for spotting stunning feathered wildlife, but for hearing and identifying the incredible variety … Read Mor",
-      "date": "Thu, 05 Mar 2026 07Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/03/Singing-2.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-04-24T23:49:25Z"
     }
   ]
 }
