@@ -1,8 +1,41 @@
 {
-  "updated": "2026-05-03T13:39:13Z",
-  "updated_utc": "2026-05-03T13:39:13Z",
+  "updated": "2026-05-03T14:56:40Z",
+  "updated_utc": "2026-05-03T14:56:40Z",
   "count": 500,
   "stories": [
+    {
+      "title": "More than half of 480 ducks rescued from California sanctuary went to a livestock company",
+      "link": "https://www.mercurynews.com/2026/04/25/more-than-half-of-480-ducks-rescued-from-anza-sanctuary-went-to-a-livestock-company/",
+      "summary": "The Riverside County Department of Animal Services is under fire from animal activists for its handling of nearly 500 ducks surrendered last week by an animal rescue in Anza.",
+      "date": "2026-04-25T11:00:06Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/RPE-L-DUCKS2-0415.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-05-03T14:56:29Z"
+    },
+    {
+      "title": "New imaging method maps reversed DNA replication forks in single cells",
+      "link": "https://phys.org/news/2026-04-imaging-method-reversed-dna-replication.html",
+      "summary": "Researchers at The University of Texas MD Anderson Cancer Center have developed a new imaging method, known as RF-SIRF, that quantitatively detects and maps reversed DNA replicatio",
+      "date": "2026-05-03T14:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/imaging-tool-reveals-n.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-03T14:56:36Z"
+    },
+    {
+      "title": "'Sacrifice zones' around critical mineral mines are rife with pollution, child workers and birth defects",
+      "link": "https://www.livescience.com/planet-earth/sacrifice-zones-around-critical-mineral-mines-are-rife-with-pollution-child-workers-and-birth-defects",
+      "summary": "The race to mine critical minerals for AI and clean energy is creating 'sacrifice zones' that harm water and health of world's poor.",
+      "date": "2026-05-03T14:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/qHY2gugHaoDjqpg77sVNPh-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-03T14:56:37Z"
+    },
     {
       "title": "See the best deep-sky photos of April 2026",
       "link": "https://earthsky.org/todays-image/deep-sky-photos-april-2026/",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-25T13:21:49Z"
-    },
-    {
-      "title": "How accelerating evolution could help corals survive future heat waves—new study",
-      "link": "https://phys.org/news/2026-04-evolution-corals-survive-future.html",
-      "summary": "As global warming accelerates, extreme heat waves are causing widespread death of tropical reef corals. Most corals rely on tiny algae cells living within their tissues that photos",
-      "date": "2026-04-25T13:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mass-bleach-coral.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-25T13:21:49Z"
-    },
-    {
-      "title": "Inside 18 years of ape minds, a vast record that may upend how human intelligence began",
-      "link": "https://phys.org/news/2026-04-years-ape-minds-vast-upend.html",
-      "summary": "A pioneering project led by researchers from the University of Stirling and the Max Planck Institute has opened the door for new insights into the evolutionary origins of human int",
-      "date": "2026-04-25T12:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/worlds-largest-great-a.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-25T13:21:49Z"
-    },
-    {
-      "title": "Blauw",
-      "link": "https://www.10000birds.com/blauw.htm?utm_source=rss&utm_medium=rss&utm_campaign=blauw",
-      "summary": "With this post’s title I fully understand that you are only sticking around to understand what the featured Bluethroat is all about. But for the linguistically gifted it is already",
-      "date": "2026-04-25T11:00:46Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/03/Bluethroat_DSC5754_Nanhui_Apr-23-2021.jpg-scaled.jpeg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-04-25T11:44:32Z"
     }
   ]
 }
