@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-03T06:34:17Z",
-  "updated_utc": "2026-05-03T06:34:17Z",
+  "updated": "2026-05-03T08:52:42Z",
+  "updated_utc": "2026-05-03T08:52:42Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Arcturus, brightest star of the northern sky",
+      "link": "https://earthsky.org/brightest-stars/bright-orange-arcturus-use-the-big-dipper-to-find-it/",
+      "summary": "Arcturus is the brightest star in the northern half of the sky. It's easy to find in spring in the Northern Hemisphere near the handle of the Big Dipper. The post Arcturus, brighte",
+      "date": "2026-05-03T08:12:32Z",
+      "image": "https://earthsky.org/upl/2022/06/Big-Dipper-Arcturus-Spica.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-03T08:52:29Z"
+    },
     {
       "title": "From neat lawns to wild havens: how No Mow May is transforming England’s gardens",
       "link": "https://www.theguardian.com/environment/2026/may/03/lawns-wild-no-mow-may-gardens",
@@ -5487,17 +5498,6 @@
       "summary": "Birdwatching in the United States has never been more engaging, not just for spotting stunning feathered wildlife, but for hearing and identifying the incredible variety … Read Mor",
       "date": "Thu, 05 Mar 2026 07Z",
       "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/03/Singing-2.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-04-24T23:49:25Z"
-    },
-    {
-      "title": "Best Bird Feeders with Camera for Bird Lovers and Backyard Birding",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/best-bird-feeders-with-camera/",
-      "summary": "Here’s a comprehensive US-focused guide to the best bird feeder with a built-in camera — perfect for bird lovers who want to watch, record, and … Read More \"Best Bird Feeders with ",
-      "date": "Thu, 05 Mar 2026 07Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/03/SOLIOM-BF09-Bird-Feeder-with-Camera.webp",
       "name": "BWatching Daily",
       "category": "birds",
       "color": 0,
