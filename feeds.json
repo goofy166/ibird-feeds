@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-03T22:54:06Z",
-  "updated_utc": "2026-05-03T22:54:06Z",
+  "updated": "2026-05-03T23:56:42Z",
+  "updated_utc": "2026-05-03T23:56:42Z",
   "count": 500,
   "stories": [
+    {
+      "title": "UK's national soil database released as open-access repository",
+      "link": "https://phys.org/news/2026-04-uk-national-soil-database-access.html",
+      "summary": "Cranfield University has launched a new soil and environmental online database and mapping tool, opening up detailed information about land in England and Wales. In collaboration w",
+      "date": "2026-05-03T23:30:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uks-national-soil-data.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-03T23:56:39Z"
+    },
     {
       "title": "Understanding canine distemper virus and increased risk during summer",
       "link": "https://phys.org/news/2026-04-canine-distemper-virus-summer.html",
@@ -5491,17 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-04-25T15:49:09Z"
-    },
-    {
-      "title": "Don't just plant trees, plant forests to restore biodiversity for the future",
-      "link": "https://phys.org/news/2026-04-dont-trees-forests-biodiversity-future.html",
-      "summary": "Around the world, people plan to plant more than 1 trillion trees this decade in an ambitious effort to slow climate change and reduce biodiversity loss. But if the past is prolong",
-      "date": "2026-04-25T15:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dont-just-plant-trees.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-25T15:49:24Z"
     }
   ]
 }
