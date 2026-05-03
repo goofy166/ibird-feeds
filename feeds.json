@@ -1,8 +1,30 @@
 {
-  "updated": "2026-05-03T14:56:40Z",
-  "updated_utc": "2026-05-03T14:56:40Z",
+  "updated": "2026-05-03T15:56:29Z",
+  "updated_utc": "2026-05-03T15:56:29Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How to conserve your dragon – and avoid losing Australia’s most imperilled reptile for a second time",
+      "link": "https://www.theguardian.com/environment/2026/may/04/victorian-grassland-earless-dragon-melbourne-zoo-endangered-species-second-extinction",
+      "summary": "Melbourne zoo’s new breeding centre hopes to safeguard the future of the critically endangered Victorian grassland earless dragon Sign up for climate and environment editor Adam Mo",
+      "date": "2026-05-03T15:00:05Z",
+      "image": "https://i.guim.co.uk/img/media/13984943428293d5aeaf3198e8847005c985c5a2/348_0_4068_3254/master/4068.jpg?width=140&quality=85&auto=format&fit=max&s=abe1ec26974975f45f41b057bb8b3700",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-03T15:56:10Z"
+    },
+    {
+      "title": "How a newly discovered organelle could help reduce cow methane emissions",
+      "link": "https://phys.org/news/2026-05-newly-organelle-cow-methane-emissions.html",
+      "summary": "When cows burp, they send a substantial amount of methane gas into the air, which makes them a leading contributor to greenhouse gas emissions. According to research published in t",
+      "date": "2026-05-03T15:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-a-newly-discovered.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-03T15:56:21Z"
+    },
     {
       "title": "More than half of 480 ducks rescued from California sanctuary went to a livestock company",
       "link": "https://www.mercurynews.com/2026/04/25/more-than-half-of-480-ducks-rescued-from-anza-sanctuary-went-to-a-livestock-company/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-04-25T14:52:31Z"
-    },
-    {
-      "title": "Milky Way season is back! See gorgeous pics here",
-      "link": "https://earthsky.org/todays-image/milky-way-season-pics-2026/",
-      "summary": "Enjoy the beauty of our home galaxy in these images from the start of the Milky Way season, thanks to our talented EarthSky community! The post Milky Way season is back! See gorgeo",
-      "date": "2026-04-25T10:56:59Z",
-      "image": "https://earthsky.org/upl/2026/04/prinvevillemilkyway-Jeremy-Likness-Apr-18-2026-Oregon-e1776865335605.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-25T13:21:38Z"
-    },
-    {
-      "title": "The platypus is even weirder than thought, scientists discover",
-      "link": "https://phys.org/news/2026-03-platypus-weirder-thought-scientists.html",
-      "summary": "They already have the bill of a duck, the tail of a beaver, lay eggs like reptiles and have venom like snakes.",
-      "date": "2026-04-25T13:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-does-the-platypus.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-25T13:21:49Z"
     }
   ]
 }
