@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-03T15:56:29Z",
-  "updated_utc": "2026-05-03T15:56:29Z",
+  "updated": "2026-05-03T17:01:48Z",
+  "updated_utc": "2026-05-03T17:01:48Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Synthetic biology promised to rewrite life—with the death of its pioneer, J. Craig Venter, how close are scientists?",
+      "link": "https://phys.org/news/2026-05-synthetic-biology-rewrite-life-death.html",
+      "summary": "When scientist J. Craig Venter and his team announced in 2010 that they had created the first cell controlled by a fully synthetic genome, it marked a turning point in how scientis",
+      "date": "2026-05-03T17:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/synthetic-biology-prom.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-03T17:01:45Z"
+    },
     {
       "title": "How to conserve your dragon – and avoid losing Australia’s most imperilled reptile for a second time",
       "link": "https://www.theguardian.com/environment/2026/may/04/victorian-grassland-earless-dragon-melbourne-zoo-endangered-species-second-extinction",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-25T14:52:29Z"
-    },
-    {
-      "title": "'The push towards renewables is unstoppable because it's in a country's self-interest': Climate scientist Andy Reisinger on Trump, Iran, and the future of Earth",
-      "link": "https://www.livescience.com/planet-earth/climate-change/the-push-towards-renewables-is-unstoppable-because-its-in-a-countrys-self-interest-climate-scientist-andy-reisinger-on-trump-iran-and-the-future-of-earth",
-      "summary": "Once global warming peaks, it could take centuries to cool things back down. But we can bend the curve by cutting fossil fuel emissions now.",
-      "date": "2026-04-25T14:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/jwJfesZdHtafmRXq5Sb8Qf-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-25T14:52:31Z"
     }
   ]
 }
