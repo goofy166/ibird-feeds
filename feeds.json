@@ -1,8 +1,41 @@
 {
-  "updated": "2026-05-04T16:54:55Z",
-  "updated_utc": "2026-05-04T16:54:55Z",
+  "updated": "2026-05-04T18:22:20Z",
+  "updated_utc": "2026-05-04T18:22:20Z",
   "count": 500,
   "stories": [
+    {
+      "title": "300-year-old experiment could become world's best dark matter detector",
+      "link": "https://www.newscientist.com/article/2524958-300-year-old-experiment-could-become-worlds-best-dark-matter-detector/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "An update to an experiment run by Henry Cavendish in 1773 could be a cheaper and faster way to spot a potential dark matter particle – and may be 10,000 times more sensitive",
+      "date": "2026-05-04T13:00:54Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/01100908/SEI_295249397.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-04T18:22:15Z"
+    },
+    {
+      "title": "How 'digital twins' could help predict the fate of a forest",
+      "link": "https://phys.org/news/2026-05-digital-twins-fate-forest.html",
+      "summary": "In his office at Michigan State University, forestry professor David Carter shows off an image of a virtual forest on his laptop. It's not just any forest. It's a computerized repl",
+      "date": "2026-05-04T17:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-digital-twins-coul.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-04T18:22:17Z"
+    },
+    {
+      "title": "3 cruise ship passengers are dead, and hantavirus is the suspected culprit: What to know",
+      "link": "https://www.livescience.com/health/viruses-infections-disease/3-cruise-ship-passengers-are-dead-and-hantavirus-is-the-suspected-culprit-what-to-know",
+      "summary": "Three people have died and three more have fallen ill on a cruise ship in the Atlantic Ocean, and hantaviruses may be behind the cases.",
+      "date": "2026-05-04T17:42:12Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/qiuufYKXLMx33ekYRBv9g-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-04T18:22:18Z"
+    },
     {
       "title": "6 Sustainable Eco-Drive Watches for Grads and Dads",
       "link": "https://www.outsideonline.com/outdoor-gear/tools/6-sustainable-eco-drive-watches-for-grads-and-dads/",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-04-27T11:51:46Z"
-    },
-    {
-      "title": "100-year-old assumption about the universe may soon be overturned",
-      "link": "https://www.newscientist.com/article/2524208-100-year-old-assumption-about-the-universe-may-soon-be-overturned/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Physicists have long assumed that the universe is uniform at very large scales, but evidence is emerging this is wrong and suggests a way to resolve some of the biggest cosmologica",
-      "date": "2026-04-27T07:00:31Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/24140859/SEI_294451720.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-27T11:51:46Z"
-    },
-    {
-      "title": "Scientists have discovered the key to conserving the elegant spider-orchid",
-      "link": "https://phys.org/news/2026-04-scientists-key-elegant-spider-orchid.html",
-      "summary": "Scientists at Royal Botanic Gardens Victoria, the Swedish University of Agricultural Sciences, CSIRO Darwin Laboratories and La Trobe University have identified key ecological need",
-      "date": "2026-04-27T11:20:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-have-discov.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-27T11:51:48Z"
-    },
-    {
-      "title": "Botany's answer to Darwin's finches shows evolution in real time",
-      "link": "https://phys.org/news/2026-04-botany-darwin-finches-evolution-real.html",
-      "summary": "A new study reveals how a remarkable group of plants on the Galápagos Islands developed their diverse leaf shapes—offering unique insight into evolution at the genetic level. A lar",
-      "date": "2026-04-27T11:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/botanys-answer-to-darw.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-27T11:51:48Z"
     }
   ]
 }
