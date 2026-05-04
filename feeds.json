@@ -1,8 +1,41 @@
 {
-  "updated": "2026-05-04T06:50:11Z",
-  "updated_utc": "2026-05-04T06:50:11Z",
+  "updated": "2026-05-04T09:28:17Z",
+  "updated_utc": "2026-05-04T09:28:17Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Lasers, hawks and even guns haven’t solved the UK’s pigeon problem. There is a better way | Sydney Lobe",
+      "link": "https://www.theguardian.com/commentisfree/2026/may/04/uk-pigeon-problem-humane-solution-councils",
+      "summary": "Councils spend heavily on grisly yet ineffective methods. Why won’t they consider a proven, low-cost and humane strategy? By some estimates there are almost 3 million pigeons resid",
+      "date": "2026-05-04T07:00:17Z",
+      "image": "https://i.guim.co.uk/img/media/2aa47d565bdea1b8713588909fb72866a8744585/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7bec4da030a53f26507226b1631cd368",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-04T09:28:02Z"
+    },
+    {
+      "title": "Smart underwear detects lactose intolerance by tracking your farts",
+      "link": "https://www.newscientist.com/article/2525189-smart-underwear-detects-lactose-intolerance-by-tracking-your-farts/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A device you attach to your underwear reveals how often you really break wind – and it’s probably more frequently than you think",
+      "date": "2026-05-04T06:00:07Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/01160718/SEI_295127098.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-04T09:28:12Z"
+    },
+    {
+      "title": "Novel wheat hybrids increase resistance to major fungal disease by up to 70%",
+      "link": "https://phys.org/news/2026-05-wheat-hybrids-resistance-major-fungal.html",
+      "summary": "A new experimental study has identified a novel genetic locus in a common agricultural weed, Elymus repens, that provides significant resistance to the destructive fungal disease F",
+      "date": "2026-05-04T08:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2015/wheat.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-04T09:28:13Z"
+    },
     {
       "title": "Country diary: It’s hard to top a calling curlew | Nigel Brown",
       "link": "https://www.theguardian.com/environment/2026/may/04/country-diary-its-hard-to-top-a-calling-curlew",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-04-25T20:50:23Z"
-    },
-    {
-      "title": "More shearwaters are washing up dead on Australian beaches. It's not due to 'natural' causes",
-      "link": "https://phys.org/news/2026-04-shearwaters-dead-australian-beaches-due.html",
-      "summary": "You might know the short-tailed shearwater and sable shearwater by the common name \"muttonbirds.\" These two species of seabird breed on islands off southeastern Australia. Both und",
-      "date": "2026-04-25T20:30:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/short-tailed-shearwate.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-25T20:50:35Z"
-    },
-    {
-      "title": "Before dinosaurs vanished, a hamster-sized mammal was already shaping what survived next on the Pacific Coast",
-      "link": "https://phys.org/news/2026-04-dinosaurs-hamster-sized-mammal-survived.html",
-      "summary": "Mammals and dinosaurs coexisted on Earth until a catastrophic event 66 million years ago killed 75% of life on the planet. Despite the devastation, some animals survived, including",
-      "date": "2026-04-25T18:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-discover-t.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-25T19:05:03Z"
-    },
-    {
-      "title": "This life‑threatening bacterium's hidden motor just gave medicine an unexpected opening to fight back",
-      "link": "https://phys.org/news/2026-04-lifethreatening-bacterium-hidden-motor-gave.html",
-      "summary": "Scientists have mapped in unprecedented detail the structure of Vibrio bacteria, which can cause life-threatening infections linked to antibiotic resistance. The King's College Lon",
-      "date": "2026-04-25T16:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2016/vibriocholer.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-25T16:54:25Z"
     }
   ]
 }
