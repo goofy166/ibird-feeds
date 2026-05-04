@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-04T04:00:17Z",
-  "updated_utc": "2026-05-04T04:00:17Z",
+  "updated": "2026-05-04T06:50:11Z",
+  "updated_utc": "2026-05-04T06:50:11Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: It’s hard to top a calling curlew | Nigel Brown",
+      "link": "https://www.theguardian.com/environment/2026/may/04/country-diary-its-hard-to-top-a-calling-curlew",
+      "summary": "Ynys Môn (Anglesey): Their breeding numbers in Wales are so low they could be extinct here in a decade. That makes each sighting all the more precious The RSPB’s Cors Ddyga reserve",
+      "date": "2026-05-04T04:30:13Z",
+      "image": "https://i.guim.co.uk/img/media/430c88e539d3e905ec5903b8697e56ac2f7d3b25/599_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=37025d3bc9d93b40dc3941b61625d1f8",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-04T06:49:55Z"
+    },
     {
       "title": "Mount Everest’s Guiding Industry Suffered the First Death of the 2026 Season",
       "link": "https://www.outsideonline.com/outdoor-adventure/everest/mount-everest-2026-first-death/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-25T16:54:25Z"
-    },
-    {
-      "title": "The Trump administration wants to open precious East Coast forests to logging and mining",
-      "link": "https://www.livescience.com/planet-earth/the-trump-administration-wants-to-open-precious-east-coast-forests-to-logging-and-mining",
-      "summary": "The fight over the roadless rule has long focused on the West, but its repeal could fragment some of the last pristine forests in the eastern United States.",
-      "date": "2026-04-25T16:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/HCMNiBTQheRSfkz8oPXZ5M-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-25T16:54:26Z"
     }
   ]
 }
