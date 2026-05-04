@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-03T23:56:42Z",
-  "updated_utc": "2026-05-03T23:56:42Z",
+  "updated": "2026-05-04T04:00:17Z",
+  "updated_utc": "2026-05-04T04:00:17Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Mount Everest’s Guiding Industry Suffered the First Death of the 2026 Season",
+      "link": "https://www.outsideonline.com/outdoor-adventure/everest/mount-everest-2026-first-death/",
+      "summary": "A 52-year-old guide and mountain worker died while hiking from Gorak Shep to Base Camp, marking the first 2026 fatality for the Everest industry The post Mount Everest’s Guiding In",
+      "date": "2026-05-04T01:51:40Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/Shep1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-04T04:00:08Z"
+    },
     {
       "title": "UK's national soil database released as open-access repository",
       "link": "https://phys.org/news/2026-04-uk-national-soil-database-access.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-04-25T16:54:26Z"
-    },
-    {
-      "title": "The Ultimate Impatiens Flowers Growing Guide",
-      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/impatiens-flowers/",
-      "summary": "Impatiens flowers are beloved for shade, but downy mildew has taken a toll. Learn about disease-resistant varieties and impatiens care. The post The Ultimate Impatiens Flowers Grow",
-      "date": "2026-04-10T14:49:26Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/04/BigBounceImpatiens-e1775763255639.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-04-25T15:49:09Z"
     }
   ]
 }
