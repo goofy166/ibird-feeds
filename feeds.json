@@ -1,8 +1,107 @@
 {
-  "updated": "2026-05-04T11:57:36Z",
-  "updated_utc": "2026-05-04T11:57:36Z",
+  "updated": "2026-05-04T14:24:48Z",
+  "updated_utc": "2026-05-04T14:24:48Z",
   "count": 500,
   "stories": [
+    {
+      "title": "May 1 full moon is a Flower Moon and micromoon",
+      "link": "https://earthsky.org/moon-phases/may-full-moon/",
+      "summary": "The 1st May full moon happens on May 1. It'll look full on the nights before and after that, too. The 2nd May full moon - a Blue Moon - will fall on May 30-31. The post May 1 full ",
+      "date": "2026-05-01T11:49:12Z",
+      "image": "https://earthsky.org/upl/2026/04/May-1-2026-evening-full-moon.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-04T14:24:35Z"
+    },
+    {
+      "title": "A.I. Outperformed Doctors at Diagnosing Real-World E.R. Patients in a New Study. That Doesn't Mean Computers Will Replace Clinicians",
+      "link": "https://www.smithsonianmag.com/smart-news/ai-outperformed-doctors-at-diagnosing-real-world-er-patients-in-a-new-study-that-doesnt-mean-computers-will-replace-clinicians-180988660/",
+      "summary": "One of OpenAI's large language models did better than physicians in several experiments, hinting that A.I.-assisted emergency medical care could be around the corner",
+      "date": "2026-05-04T14:00:00Z",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/11/a7/11a750e6-c82c-4b27-8fdb-8a14f17be4fa/the_emergency_entrance_at_erlanger_western_carolina_hospital_in_peachtree_north_carolina.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-04T14:24:41Z"
+    },
+    {
+      "title": "Nebraska: Getting to the “Heart” of America’s Heartland",
+      "link": "https://www.smithsonianmag.com/sponsored/nebraska-getting-to-the-heart-of-americas-heartland-180988560/",
+      "summary": "From the crane migration along the Platte to the galleries of Omaha, quiet Nebraska reveals itself to the traveler willing to slow down",
+      "date": "2026-05-04T13:50:40Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/Sh4EDZx95QJWf_DBMp55Yc847AM=/420x240/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2b/61/2b619076-1579-4e95-9bfe-3c376fe0851e/header-nebraska.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-04T14:24:41Z"
+    },
+    {
+      "title": "Newly mapped brain networks link far-flung regions",
+      "link": "https://www.sciencenews.org/article/astrocytes-brain-networks-communicate",
+      "summary": "In mouse brains, star-shaped astrocytes form flexible networks that may offer another way for brain regions to communicate.",
+      "date": "2026-05-04T13:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/042726_LS_astrocyte_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-05-04T14:24:42Z"
+    },
+    {
+      "title": "Plants under stress switch from photosynthesis to protein cleanup, researchers show",
+      "link": "https://phys.org/news/2026-05-stress-photosynthesis-protein-cleanup.html",
+      "summary": "Plants are under constant stress due to pathogens, heat, or other environmental factors. Proteins can become damaged as a result and cell function is thrown off balance. Researcher",
+      "date": "2026-05-04T14:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-plants-rebalance-t.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-04T14:24:44Z"
+    },
+    {
+      "title": "The Big Bang of plant life: Discovery sheds light on how cells form walls",
+      "link": "https://phys.org/news/2026-05-big-life-discovery-cells-walls.html",
+      "summary": "Cell walls are a crucial structure of plant life, protecting cells from damage, giving plants shape, and containing energy-rich nutrients. And yet the process of how the walls begi",
+      "date": "2026-05-04T14:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-big-bang-of-plant.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-04T14:24:44Z"
+    },
+    {
+      "title": "Chromatin tracking reveals two motion modes that help control gene expression",
+      "link": "https://phys.org/news/2026-05-chromatin-tracking-reveals-motion-modes.html",
+      "summary": "Gene expression is controlled, in part, by the interactions between genes and regulatory elements located along the genome. Those interactions depend on the ability of chromatin—a ",
+      "date": "2026-05-04T13:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-chromatin-movement.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-04T14:24:44Z"
+    },
+    {
+      "title": "Live camel transportation improved by using food as an incentive in place of physical punishment",
+      "link": "https://phys.org/news/2026-05-camel-food-incentive-physical.html",
+      "summary": "Around the world, millions of camels are farmed for milk and meat while others are used in leisure activities like racing and riding. Yet the treatment of these animals as livestoc",
+      "date": "2026-05-04T12:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/live-camel-transportat.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-04T14:24:44Z"
+    },
+    {
+      "title": "Speed 'training' prepares bacteria for complex tasks, like munching plastics",
+      "link": "https://phys.org/news/2026-05-bacteria-complex-tasks-munching-plastics.html",
+      "summary": "Millions of tons of plastic waste accumulate in landfills and oceans every year. One promising response is to engineer microbes to break the plastic down into useful chemical build",
+      "date": "2026-05-04T12:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-unveil-a-fa-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-04T14:24:44Z"
+    },
     {
       "title": "Some Laughingthrushes of Baihualing, Yunnan, China",
       "link": "https://www.10000birds.com/some-laughingthrushes-of-baihualing-yunnan-china.htm?utm_source=rss&utm_medium=rss&utm_campaign=some-laughingthrushes-of-baihualing-yunnan-china",
@@ -5403,105 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-26T23:49:59Z"
-    },
-    {
-      "title": "AI-enhanced microscopy produces crisp, real-time video inside live cells",
-      "link": "https://phys.org/news/2026-04-ai-microscopy-crisp-real-video.html",
-      "summary": "Using artificial intelligence, engineers at the University of California San Diego have developed a new way to watch the inner workings of living cells in real time. The process bo",
-      "date": "2026-04-26T20:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-enhanced-microscopy.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-26T20:50:36Z"
-    },
-    {
-      "title": "Antarctica's sea ice suddenly started shrinking a decade ago — and deep-diving robots are revealing why",
-      "link": "https://www.livescience.com/planet-earth/climate-change/antarcticas-sea-ice-suddenly-started-shrinking-a-decade-ago-and-deep-diving-robots-are-revealing-why",
-      "summary": "A decade ago, southern sea ice suddenly and dramatically declined. Scientists say the culprit was a \"very violent release\" of deep, pent-up heat.",
-      "date": "2026-04-26T18:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/aAxfYbw6HJ4DCXQCqcRBmd-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-26T19:06:51Z"
-    },
-    {
-      "title": "Final steps taken before audacious plan to tow whale stranded in Germany to North Sea",
-      "link": "https://www.theguardian.com/world/2026/apr/26/final-steps-audacious-plan-tow-whale-stranded-germany-north-sea-timmy",
-      "summary": "Millionaire funded operation called ‘pure animal cruelty’ after environment minister sent threats on social media Final preparations are reportedly under way for a millionaire fund",
-      "date": "2026-04-26T16:46:05Z",
-      "image": "https://i.guim.co.uk/img/media/5de8e80e5fdf6c456a40fa6d64e00c06f12c8a47/0_0_2135_1709/master/2135.jpg?width=140&quality=85&auto=format&fit=max&s=f8cf96f004adc07d394593af7c884ddb",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-26T16:54:54Z"
-    },
-    {
-      "title": "Rare axolotl found under Welsh bridge probably an abandoned pet, say experts",
-      "link": "https://www.theguardian.com/environment/2026/apr/26/rare-axolotl-found-welsh-bridge-probably-abandoned-pet-experts",
-      "summary": "Craze for Mexican salamander as pets fuelled by Pokémon but inexperienced owners are often out of their depths The 15th-century Dipping Bridge over the River Ogwr (Ogmore) in the v",
-      "date": "2026-04-26T16:44:54Z",
-      "image": "https://i.guim.co.uk/img/media/d1886f80e813aea51353cc570f5f9b3f1fe100b6/158_0_1124_899/master/1124.jpg?width=140&quality=85&auto=format&fit=max&s=353b38f5b26bc69dcc7fb9c27b254115",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-26T16:54:54Z"
-    },
-    {
-      "title": "A British ban on imports of hunting trophies is long overdue | Letters",
-      "link": "https://www.theguardian.com/environment/2026/apr/26/a-british-ban-on-imports-of-hunting-trophies-is-long-overdue",
-      "summary": "Eduardo Gonçalves and Blair Patrick Schuyler respond to an article on the myth at the heart of trophy hunting Regarding Cal Flyn’s article ( On the trail with the hunters who belie",
-      "date": "2026-04-26T15:48:15Z",
-      "image": "https://i.guim.co.uk/img/media/8b8077262496f35c6140a05a1d01c677bcbed5a0/84_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=bcf43ba99aacb8419f9611d76f098244",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-26T15:51:20Z"
-    },
-    {
-      "title": "I Am a Full-Time Overlander. Here’s What It’s Really Like.",
-      "link": "https://www.outsideonline.com/adventure-travel/advice/overlanding-full-time-living-guide/",
-      "summary": "While vanlife is about the aesthetic, overlanding is about the adventure. Here's why 12 million people like me are trading paved roads for self-reliance and remote, off-grid landsc",
-      "date": "2026-04-26T12:21:59Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/DJI_0223.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-26T13:22:54Z"
-    },
-    {
-      "title": "Paris has successfully cut noise pollution, but urban birds still can't sing at their natural pitch",
-      "link": "https://phys.org/news/2026-04-paris-successfully-noise-pollution-urban.html",
-      "summary": "When Rachel Carson wrote the environmental classic \"Silent Spring\" in 1962, she warned that unchecked human impacts might create a silent future.",
-      "date": "2026-04-26T12:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/paris-has-successfully-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-26T13:22:59Z"
-    },
-    {
-      "title": "How likely are you to find a message in a bottle?",
-      "link": "https://www.livescience.com/physics-mathematics/mathematics/how-likely-are-you-to-find-a-message-in-a-bottle",
-      "summary": "Have you ever wondered how likely it is to find a message in a bottle, especially an old one? Let's do the math.",
-      "date": "2026-04-26T13:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/bSHFnyafsNZvLykkAEfmfL-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-26T13:23:00Z"
-    },
-    {
-      "title": "Astronomers just mapped one of the largest structures in the universe, long hidden behind the Milky Way's 'Zone of Avoidance'",
-      "link": "https://www.livescience.com/space/astronomy/astronomers-just-mapped-one-of-the-largest-structures-in-the-universe-long-hidden-behind-the-milky-ways-zone-of-avoidance",
-      "summary": "Scientists have mapped the extent of the Vela Supercluster for the first time, and determined that it is one of the largest structures in the universe.",
-      "date": "2026-04-26T12:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/x9u8go8UBwjg8GH6LiYATk-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-26T13:23:00Z"
     }
   ]
 }
