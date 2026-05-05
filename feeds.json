@@ -1,8 +1,140 @@
 {
-  "updated": "2026-05-05T21:09:54Z",
-  "updated_utc": "2026-05-05T21:09:54Z",
+  "updated": "2026-05-05T23:01:42Z",
+  "updated_utc": "2026-05-05T23:01:42Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Coyote swam 2 miles to Alcatraz Island, twice as far as biologists had thought",
+      "link": "https://www.mercurynews.com/2026/05/05/coyote-swam-angel-island-alcatraz/",
+      "summary": "It turns out the male coyote actually made an even longer swim from nearby Angel Island.",
+      "date": "Tue, 05 May 2026 19Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/05/Swimming_Coyote_Alcatraz_19287.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-05-05T23:01:31Z"
+    },
+    {
+      "title": "A Hiker Died on a Popular SoCal Trail. Experts Say the Route Is Safe If You Follow These Rules.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/mount-wilson-trail-death/",
+      "summary": "The falling death of a 66-year-old man on the Mount Wilson Trail prompted a warning from authorities. But experts say the route—which includes precipitous ledges and a fixed rope—i",
+      "date": "Tue, 05 May 2026 22Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/Hikers2.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-05T23:01:33Z"
+    },
+    {
+      "title": "A Deadly Outbreak of Hantavirus Has Stranded a Cruise Ship in the Atlantic Ocean. Here's What to Know About the Rare Contagion",
+      "link": "https://www.smithsonianmag.com/smart-news/a-deadly-outbreak-of-hantavirus-has-stranded-a-cruise-ship-in-the-atlantic-ocean-heres-what-to-know-about-the-rare-contagion-180988680/",
+      "summary": "Three people have died in association with the vessel, and health officials have identified a total of two confirmed cases and five suspected cases of the infection. The virus usua",
+      "date": "Tue, 05 May 2026 21Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/8Q1ijOoehwX4AdFI5ZKDDzkc_cY=/420x240/filters:focal(2100x1400:2101x1401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7d/16/7d16f9f8-0ec7-4fea-b772-ffd1b7f206e0/cruise-ship.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-05T23:01:35Z"
+    },
+    {
+      "title": "Singing mice puff up air sacs to make their sweet songs",
+      "link": "https://www.sciencenews.org/article/singing-mice-air-throat-sacs-songs",
+      "summary": "To serenade with their high-pitched songs, singing mice inflate a throat sac — a use for air sacs seemingly unknown in any other animal.",
+      "date": "Tue, 05 May 2026 23Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/050526_JB_singingmice_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-05-05T23:01:36Z"
+    },
+    {
+      "title": "Cryo-EM imaging reveals how the body stops bleeding",
+      "link": "https://phys.org/news/2026-05-cryo-em-imaging-reveals-body.html",
+      "summary": "For the first time, scientists at University of Leeds reveal a complex mechanism behind blood clotting. The findings, published in Science Advances, visualize a key component of bl",
+      "date": "2026-05-05T22:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-does-the-body-stop.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-05T23:01:38Z"
+    },
+    {
+      "title": "Giant squid among rare and elusive marine life detected off Western Australia's coast",
+      "link": "https://phys.org/news/2026-05-giant-squid-rare-elusive-marine.html",
+      "summary": "A Curtin University-led study has revealed the extraordinary biodiversity hidden in deep underwater canyons off Western Australia's Nyinggulu (Ningaloo) coast, ranging from species",
+      "date": "2026-05-05T22:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/giant-squid-among-rare.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-05T23:01:38Z"
+    },
+    {
+      "title": "Scientists map genetic switches on mosquito reproductive genes, advancing tools to fight disease",
+      "link": "https://phys.org/news/2026-05-scientists-genetic-mosquito-reproductive-genes.html",
+      "summary": "Scientists at Keele University have created the first detailed map of the genetic \"switches\" that control reproduction in disease-carrying insects such as Anopheles gambiae, the mo",
+      "date": "2026-05-05T22:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-map-genetic.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-05T23:01:38Z"
+    },
+    {
+      "title": "Almost all plant-based meat alternatives contain mycotoxins, new research finds",
+      "link": "https://phys.org/news/2026-05-based-meat-alternatives-mycotoxins.html",
+      "summary": "New research into plant-based food and drinks has found a prevalence of mycotoxins—naturally occurring poisonous compounds produced by fungi—in hundreds of vegetarian and vegan pro",
+      "date": "2026-05-05T21:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-finds-tha.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-05T23:01:38Z"
+    },
+    {
+      "title": "Biological invasions can cause severe animal suffering",
+      "link": "https://phys.org/news/2026-05-biological-invasions-severe-animal.html",
+      "summary": "Biological invasions occur when organisms such as animals and plants are introduced by people to regions of the world where they do not naturally occur. In these new locations, the",
+      "date": "2026-05-05T21:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/biological-invasions-c.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-05T23:01:38Z"
+    },
+    {
+      "title": "Digitizing microscope slides can uncover billions of fossils for natural history",
+      "link": "https://phys.org/news/2026-05-digitizing-microscope-uncover-billions-fossils.html",
+      "summary": "Approximately 145 million: That's the number of specimens—including plants, animals, minerals, and human artifacts—curators estimate are held in the Smithsonian National Museum of ",
+      "date": "2026-05-05T21:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/digitizing-microscope.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-05T23:01:38Z"
+    },
+    {
+      "title": "Watermelon super-pangenome paves the way for precision breeding",
+      "link": "https://phys.org/news/2026-05-watermelon-super-pangenome-paves-precision.html",
+      "summary": "Watermelon is a quintessential summertime fruit, evoking images of warm, sunny afternoons and cookouts with friends and family. You can easily picture its striped, green rind and p",
+      "date": "2026-05-05T21:10:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/super-powered-populati.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-05T23:01:38Z"
+    },
+    {
+      "title": "Both very low and very high heart rates may be linked to higher stroke risk, study says",
+      "link": "https://www.livescience.com/health/heart-circulation/both-very-low-and-very-high-heart-rates-may-be-linked-to-higher-stroke-risk-study-says",
+      "summary": "Both unusually low and high resting heart rates may be linked to an increased stroke risk, though more research is needed to confirm a causal relationship.",
+      "date": "Tue, 05 May 2026 22Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/APsxvZdDhc7Tamqfam63Wo-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-05T23:01:40Z"
+    },
     {
       "title": "Did Facial Recognition Find a Lost Portrait of Anne Boleyn? Scholars Debate Whether A.I. Solved or Merely Muddled an Art History Mystery",
       "link": "https://www.smithsonianmag.com/smart-news/did-facial-recognition-find-a-lost-portrait-of-anne-boleyn-scholars-debate-whether-ai-solved-or-merely-muddled-an-art-history-mystery-180988677/",
@@ -5370,138 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-28T16:59:07Z"
-    },
-    {
-      "title": "Data from Earth's most remote atoll show soil fungi are key to island regeneration",
-      "link": "https://phys.org/news/2026-04-earth-remote-atoll-soil-fungi.html",
-      "summary": "Palmyra Atoll, a remote, uninhabited speck of land, coral and sea halfway between Hawaii and American Samoa, is one of the healthiest, intact atolls on the planet—so ecologically s",
-      "date": "2026-04-28T15:00:17Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/data-from-earths-most.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-28T16:59:07Z"
-    },
-    {
-      "title": "Handle with care: Mobile microgrippers pick up cells in a pinch",
-      "link": "https://phys.org/news/2026-04-mobile-microgrippers-cells.html",
-      "summary": "In tissue engineering, the tiniest bit of improper force can harm a living culture. Spheroids—3D clumps of cells—can be used to model complex human tissues, because they can re-cre",
-      "date": "2026-04-28T15:00:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/handle-with-care-mobil.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-28T16:59:07Z"
-    },
-    {
-      "title": "Possums and gliders are pushing a native Australian bird to extinction. What can we do?",
-      "link": "https://phys.org/news/2026-04-possums-gliders-native-australian-bird.html",
-      "summary": "From brightly colored birds to the much-loved sugar glider, Australia's native animals are a sight to behold. The island continent is home to nearly 600,000 plants, animals and ins",
-      "date": "2026-04-28T15:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/possums-and-gliders-ar.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-28T16:59:07Z"
-    },
-    {
-      "title": "Drilling has begun at our sacred site Pe' Sla, setting a dangerous precedent for Indigenous lands across the country. It must be stopped.",
-      "link": "https://www.livescience.com/planet-earth/drilling-has-begun-at-our-sacred-site-pe-sla-setting-a-dangerous-precedent-for-indigenous-lands-across-the-country-it-must-be-stopped-opinion",
-      "summary": "Drilling in the 2-mile buffer zone of Pe' Sla, in the He Sapa (Black Hills) of South Dakota, shows even sacred lands protected by the U.S. government are not safe from the threat o",
-      "date": "Tue, 28 Apr 2026 16Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/4KDFtNmY7PXofERs7pqXyM-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-28T16:59:08Z"
-    },
-    {
-      "title": "What We Can All Learn From Sabastian Sawe’s Historic 1:59:30 Marathon",
-      "link": "https://www.outsideonline.com/culture/essays-culture/london-marathon-sabastian-sawe-sub-two-hour-reflection/",
-      "summary": "Sabastian Sawe did the unthinkable in London, running a sanctioned marathon in 1:59:30. For one middle-of-the-pack runner struggling with injury, sharing the course with history ch",
-      "date": "Tue, 28 Apr 2026 14Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/GettyImages-2273208536-scaled.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-28T14:33:12Z"
-    },
-    {
-      "title": "Scientists Found This Mysterious Golden Orb on the Seafloor Nearly Three Years Ago. Now, They Finally Know What It Is",
-      "link": "https://www.smithsonianmag.com/smart-news/scientists-found-this-mysterious-golden-orb-on-the-seafloor-nearly-three-years-ago-now-they-finally-know-what-it-is-180988624/",
-      "summary": "After a long, winding road of tests, researchers at the Smithsonian’s National Museum of Natural History and other institutions determined that the strange blob once attached a lar",
-      "date": "Tue, 28 Apr 2026 14Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/M6c6duSR_uKK-ZM3zsMU-nK-qyM=/420x240/filters:focal(2736x1824:2737x1825)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e0/e7/e0e7259c-b3c6-4123-8482-7d8cb289af4c/golden-orb.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-28T14:33:14Z"
-    },
-    {
-      "title": "Uranus has weird rings. Astronomers now know the source of two of them",
-      "link": "https://www.sciencenews.org/article/uranus-rings-origin-mu-moon-mab",
-      "summary": "The Nu ring seems to be fed by unknown rocky bodies, whereas the Mu ring appears rich in water ice and linked to the moon Mab.",
-      "date": "Tue, 28 Apr 2026 14Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/042226_RGA_Uranus_main.jpg?w=798",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-28T14:33:15Z"
-    },
-    {
-      "title": "Passive acoustic monitoring reveals new insights on foraging activity of Hector's dolphins",
-      "link": "https://phys.org/news/2026-04-passive-acoustic-reveals-insights-foraging.html",
-      "summary": "Monitoring the sounds of an endangered dolphin species may provide clues to ensuring their survival, a new University of Otago—Ōtākou Whakaihu Waka study shows. Published in the Ne",
-      "date": "2026-04-28T14:00:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/passive-acoustic-monit.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-28T14:33:17Z"
-    },
-    {
-      "title": "Research reveals why beavers are getting busy sooner in spring",
-      "link": "https://phys.org/news/2026-04-reveals-beavers-busy-sooner.html",
-      "summary": "A University of Alberta study has whittled down climate-related reasons beavers are emerging earlier onto the ice from their lodges in the spring—a shift that helps them store more",
-      "date": "2026-04-28T14:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-reveals-why-b.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-28T14:33:17Z"
-    },
-    {
-      "title": "Bowhead whale recovery reflects century-old whaling patterns",
-      "link": "https://phys.org/news/2026-04-bowhead-whale-recovery-century-whaling.html",
-      "summary": "An international study led by Adelaide University has found bowhead whale populations are recovering only in stocks where large areas of hazardous sea ice conditions limited devast",
-      "date": "2026-04-28T13:20:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bowhead-whale-recovery-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-28T14:33:17Z"
-    },
-    {
-      "title": "'He began to cry, and almost fell to the floor': The fluffy fossil that finally showed the world that birds are dinosaurs",
-      "link": "https://www.livescience.com/animals/dinosaurs/he-began-to-cry-and-almost-fell-to-the-floor-the-fluffy-fossil-that-finally-showed-the-world-that-birds-are-dinosaurs",
-      "summary": "In this excerpt from \"The Story of Birds\", author Steve Brusatte explores the moment where paleontologists realized they had critical evidence to show birds came from dinosaurs — a",
-      "date": "Tue, 28 Apr 2026 13Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/X6iomE9sZY5ANoaAJuE28S-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-28T14:33:19Z"
-    },
-    {
-      "title": "New data center will be partially powered by human brain cells for the first time",
-      "link": "https://www.livescience.com/technology/computing/new-data-center-will-be-partially-powered-by-human-brain-cells-for-the-first-time",
-      "summary": "A startup is experimenting with data centers powered by lab-grown human neurons, testing whether living cells can offer a more efficient alternative to traditional computing.",
-      "date": "Tue, 28 Apr 2026 12Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/M5y5d7fDXtGNg4225sCo7P-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-28T14:33:19Z"
     }
   ]
 }
