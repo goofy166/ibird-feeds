@@ -1,8 +1,63 @@
 {
-  "updated": "2026-05-04T22:10:07Z",
-  "updated_utc": "2026-05-04T22:10:07Z",
+  "updated": "2026-05-05T00:01:16Z",
+  "updated_utc": "2026-05-05T00:01:16Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Endangered whale protections may be delayed to 2035 under Trump-blacked plan",
+      "link": "https://www.mercurynews.com/2026/05/04/endangered-whale-protections-delays/",
+      "summary": "The sleek black whales' numbers have declined sharply in recent decades.",
+      "date": "2026-05-04T16:40:03Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/05/Right_Whale_Deaths_55854.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-05-05T00:01:06Z"
+    },
+    {
+      "title": "How did worms get in a Point Reyes birdbath after rainstorm?",
+      "link": "https://www.mercurynews.com/2026/04/27/how-did-worms-get-in-a-point-reyes-birdbath-after-rainstorm/",
+      "summary": "Fear of drowning, or of rodents, could be an explanation",
+      "date": "2026-04-27T13:30:46Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SJM-L-JOANCOL-0427-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-05-05T00:01:06Z"
+    },
+    {
+      "title": "Meet the Women Who Have Been Building the Cycling Industry All Along",
+      "link": "https://www.outsideonline.com/outdoor-adventure/biking/women-building-cycling-industry/",
+      "summary": "I met the women leaders building the bikes millions of people ride—and the sport millions of us love. Here is what they want you to know about changing the status quo. The post Mee",
+      "date": "2026-05-04T23:21:00Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/IMG_0372-scaled-1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-05T00:01:07Z"
+    },
+    {
+      "title": "Defender Service Awards: Driving Change Since 2021",
+      "link": "https://www.outsideonline.com/outdoor-adventure/defender-service-awards-driving-change-since-2021/",
+      "summary": "Since 2021, this game-changing program has awarded more than $1.5 million and 30 Defender vehicles enabling mission-driven nonprofits to achieve more—now it's your opportunity to h",
+      "date": "2026-05-04T23:07:07Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/Defender_featured_h.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-05T00:01:07Z"
+    },
+    {
+      "title": "Ahead of the 2026 Met Gala, the Metropolitan Museum of Art Introduced New Mannequins With Diverse Body Types Inspired by Real People",
+      "link": "https://www.smithsonianmag.com/smart-news/ahead-of-the-2026-met-gala-the-metropolitan-museum-of-art-introduced-new-mannequins-with-diverse-body-types-inspired-by-real-people-180988670/",
+      "summary": "The new \"Costume Art\" exhibition pairs artworks with garments, some of them displayed on custom mannequins constructed through 3D printing",
+      "date": "2026-05-04T22:16:16Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/TInBb2DHHuz5MTvEMDPSaVQyEKM=/420x240/filters:focal(960x640:961x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0c/61/0c615c54-25bc-4f97-833f-9d03a706cebc/metropolitan_museum_of_art.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-05T00:01:09Z"
+    },
     {
       "title": "The Eta Aquarid Meteor Shower Peaks This Week, but a Bright Moon Might Spoil the Show",
       "link": "https://www.smithsonianmag.com/smart-news/the-eta-aquarid-meteor-shower-peaks-this-week-but-a-bright-moon-might-spoil-the-show-180988669/",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-27T16:47:57Z"
-    },
-    {
-      "title": "More than two species? Scientists challenge taxonomy of two-toed sloths in Amazonia",
-      "link": "https://phys.org/news/2026-04-species-scientists-taxonomy-toed-sloths.html",
-      "summary": "A new study by scientists from the Leibniz Institute for Zoo and Wildlife Research (Leibniz-IZW) has revealed significant cryptic diversity within two-toed sloths (Choloepus) in Am",
-      "date": "2026-04-27T15:00:10Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/more-than-two-species.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-27T16:47:57Z"
-    },
-    {
-      "title": "Beer and cannabis could share 'sex switch,' study finds",
-      "link": "https://phys.org/news/2026-04-beer-cannabis-sex.html",
-      "summary": "Researchers at University College Dublin have identified a genetic \"switch\" that determines the sex of cannabis plants, and found the same system may exist in hops. The study, publ",
-      "date": "2026-04-27T14:40:11Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/hops.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-27T16:47:57Z"
-    },
-    {
-      "title": "An acoustic device helps reduce bycatch of endangered Black Sea porpoises",
-      "link": "https://phys.org/news/2026-04-acoustic-device-bycatch-endangered-black.html",
-      "summary": "The endangered Black Sea harbor porpoise (Phocoena phocoena relicta) is facing a critical fight for survival. As Europe's smallest marine mammal, this isolated population is being ",
-      "date": "2026-04-27T14:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-acoustic-device-hel.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-27T16:47:57Z"
-    },
-    {
-      "title": "Bacterial defense system builds DNA in unexpected new way to stop viruses",
-      "link": "https://phys.org/news/2026-04-bacterial-defense-dna-unexpected-viruses.html",
-      "summary": "Scientists at Stanford University have discovered that DRT3, a unique defense system found in bacteria, creates DNA to protect against viral infections. DRT3 is made up of two diff",
-      "date": "2026-04-27T14:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discovered.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-27T16:47:57Z"
-    },
-    {
-      "title": "Lake Superior’s wolves thriving as packs prey on moose, researchers say",
-      "link": "https://www.theguardian.com/us-news/2026/apr/27/lake-superior-wolf-moose-populations",
-      "summary": "2026 estimates for wolves on island highest since late 1970s but moose population declining dramatically Wolves on a remote island in Lake Superior appear to be thriving, but they ",
-      "date": "2026-04-27T12:02:10Z",
-      "image": "https://i.guim.co.uk/img/media/4d0057a62a8b4ae594e020dc1a0b9b380f552b87/502_0_2498_1999/master/2498.jpg?width=140&quality=85&auto=format&fit=max&s=9a4ecb3c5686242b1ad5c2d7c18b3ca6",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-27T14:16:01Z"
     }
   ]
 }
