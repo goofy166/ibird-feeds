@@ -1,8 +1,41 @@
 {
-  "updated": "2026-05-05T07:22:03Z",
-  "updated_utc": "2026-05-05T07:22:03Z",
+  "updated": "2026-05-05T10:09:10Z",
+  "updated_utc": "2026-05-05T10:09:10Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Man destined to get Alzheimer’s saved by accidental heat therapy",
+      "link": "https://www.newscientist.com/article/2524632-man-destined-to-get-alzheimers-saved-by-accidental-heat-therapy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Doug Whitney has a genetic mutation that means he should have developed Alzheimer’s disease decades ago, but his long-term work in hot engine rooms may have protected him in a simi",
+      "date": "Tue, 05 May 2026 08Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/01123431/SEI_295224202.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-05T10:09:05Z"
+    },
+    {
+      "title": "Nutrient imbalance may drive coral disease more than heat stress",
+      "link": "https://phys.org/news/2026-05-nutrient-imbalance-coral-disease-stress.html",
+      "summary": "Scientists led by the University of Southampton have revealed that an imbalance of nutrients in seawater can cause coral disease—possibly to a greater extent than that from heat st",
+      "date": "2026-05-05T09:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nutrient-imbalance-may.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-05T10:09:06Z"
+    },
+    {
+      "title": "Saving chocolate while restoring rainforests? Rock dust boosts soil nutrition and supports farmers",
+      "link": "https://phys.org/news/2026-05-chocolate-rainforests-boosts-soil-nutrition.html",
+      "summary": "Chocolate is the food of the gods. The name of the tree from which the confection originates, Theobroma cacao, combines the Greek words for god (theós) and food (brôma). This small",
+      "date": "2026-05-05T07:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/saving-chocolate-while.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-05T10:09:06Z"
+    },
     {
       "title": "Country diary: A butterfly haven of orange tips and holly blues  | Sara Hudston",
       "link": "https://www.theguardian.com/environment/2026/may/05/country-diary-orange-tips-and-holly-blues-thrive-in-a-butterfly-haven",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-04-27T16:47:49Z"
-    },
-    {
-      "title": "Palo Alto woman looking for ways to help monarch butterflies thrive",
-      "link": "https://www.mercurynews.com/2026/04/20/palo-alto-woman-looking-for-ways-to-help-monarch-butterflies-thrive/",
-      "summary": "Monarchs are in the midst of breeding and egg-laying season.",
-      "date": "2026-04-20T13:30:16Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SJM-L-JOANCOL-0420-01.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-04-27T16:47:49Z"
-    },
-    {
-      "title": "Discover a Year-Round Adventure Hub in Charlotte, North Carolina",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/discover-a-year-round-adventure-hub-in-charlotte-north-carolina/",
-      "summary": "With four perfect seasons, this Southern getaway is always the right destination The post Discover a Year-Round Adventure Hub in Charlotte, North Carolina appeared first on Outside",
-      "date": "2026-04-27T15:58:46Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/Charlotte_featured_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-27T16:47:51Z"
-    },
-    {
-      "title": "This Bone-Crunching Octopus Was Nearly the Size of a Semitruck and May Have Feasted on Giant Reptiles 100 Million Years Ago",
-      "link": "https://www.smithsonianmag.com/smart-news/this-bone-crunching-octopus-was-nearly-the-size-of-a-semitruck-and-may-have-feasted-on-giant-reptiles-100-million-years-ago-180988616/",
-      "summary": "The massive invertebrates may have been top predators, according to an analysis of their fossilized jaws. The work suggests that ancient oceans weren't completely ruled by spine-be",
-      "date": "2026-04-27T16:04:46Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/lZEPdjdwBXtUFFUaoELK0Dps34w=/420x240/filters:focal(1014x1284:1015x1285)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cf/ae/cfaed3d9-990a-41e9-9aac-5eef92bedee3/ancient-octopus.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-27T16:47:53Z"
     }
   ]
 }
