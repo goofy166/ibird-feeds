@@ -1,8 +1,107 @@
 {
-  "updated": "2026-05-06T20:40:45Z",
-  "updated_utc": "2026-05-06T20:40:45Z",
+  "updated": "2026-05-06T22:04:00Z",
+  "updated_utc": "2026-05-06T22:04:00Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Dating over 50 is probably on the rise – but we know little about it",
+      "link": "https://www.newscientist.com/article/2525520-dating-over-50-is-probably-on-the-rise-but-we-know-little-about-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Research into dating has until now almost exclusively focused on younger people, but we’re finally beginning to investigate how romance changes in later life",
+      "date": "2026-05-06T20:00:36Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/06141806/SEI_296011227.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-06T22:03:55Z"
+    },
+    {
+      "title": "Bronze Age Britons fashioned copper-mining tools out of old bones",
+      "link": "https://www.newscientist.com/article/2525361-bronze-age-britons-fashioned-copper-mining-tools-out-of-old-bones/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "An analysis of 150 artefacts from a site in Wales shows that the ancient practice of making tools out of bone persisted even after the advent of metal-working",
+      "date": "2026-05-06T18:00:21Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/06124337/SEI_295942708.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-06T22:03:55Z"
+    },
+    {
+      "title": "Gut bacteria reveal hidden evolutionary lineages tied to aging and disease",
+      "link": "https://phys.org/news/2026-05-gut-bacteria-reveal-hidden-evolutionary.html",
+      "summary": "The human gut harbors a complex ecosystem of trillions of microorganisms (the microbiome), which influences digestion, the immune system and metabolism. A research team led by the ",
+      "date": "2026-05-06T22:00:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gut-microbiome-landsca.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-06T22:03:56Z"
+    },
+    {
+      "title": "An experiment shows that yellow trout can grow larger than the wild strain",
+      "link": "https://phys.org/news/2026-05-yellow-trout-larger-wild-strain.html",
+      "summary": "An experiment conducted in the state of São Paulo, Brazil, has concluded that yellow trout can grow larger than the wild strain, which is the most commonly farmed phenotype of rain",
+      "date": "2026-05-06T22:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/in-an-experiment-yello.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-06T22:03:56Z"
+    },
+    {
+      "title": "Genetic 'bonus material' boosts gut bacterium's oxygen tolerance up to 1,000-fold",
+      "link": "https://phys.org/news/2026-05-genetic-bonus-material-boosts-gut.html",
+      "summary": "The bacterium Segatella copri is one of the most common inhabitants of the human gut. In their latest study, researchers at the Helmholtz Centre for Infection Research (HZI) have d",
+      "date": "2026-05-06T21:40:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genetic-bonus-material.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-06T22:03:56Z"
+    },
+    {
+      "title": "Membrane complex aids rock-eating microbes in converting carbon dioxide to biomass",
+      "link": "https://phys.org/news/2026-05-membrane-complex-aids-microbes-carbon.html",
+      "summary": "So-called rock-eating microorganisms obtain their energy to convert carbon dioxide (CO2) from inorganic sources and make up the vast majority of biomass producers. Using electron m",
+      "date": "2026-05-06T21:40:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/membrane-complex-aids.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-06T22:03:56Z"
+    },
+    {
+      "title": "Cool beans, smart roots: Special cell helps seedlings survive drought battered and nutrient poor soils",
+      "link": "https://phys.org/news/2026-05-cool-beans-smart-roots-special.html",
+      "summary": "Researchers have identified a previously unknown cell type hidden on the roots of common beans, a microscopic survival mechanism that could inform the development of more climate-r",
+      "date": "2026-05-06T21:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cool-beans-smart-roots-3.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-06T22:03:56Z"
+    },
+    {
+      "title": "Hybrid vein networks in tree leaves reveal a new model of biological design",
+      "link": "https://phys.org/news/2026-05-hybrid-vein-networks-tree-reveal.html",
+      "summary": "A leaf may appear to be one of the simplest structures in nature, thin, delicate and easily overlooked. At first glance, it seems far removed from the complex systems that scientis",
+      "date": "2026-05-06T21:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hybrid-vein-networks-i.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-06T22:03:56Z"
+    },
+    {
+      "title": "Nitrogen pollution identified as major driver of biodiversity loss in UK coastal waters",
+      "link": "https://phys.org/news/2026-05-nitrogen-pollution-major-driver-biodiversity.html",
+      "summary": "A new study of the British Isles' coastal ecosystems has revealed that nitrogen enrichment is significantly reducing the abundance and variety of marine life. The research, publish",
+      "date": "2026-05-06T21:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sea-snail.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-06T22:03:56Z"
+    },
     {
       "title": "Learn Bird Songs! 34 Common Species to Get You Started",
       "link": "https://www.allaboutbirds.org/news/learn-bird-songs-34-common-species/",
@@ -5403,105 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-04-29T15:21:35Z"
-    },
-    {
-      "title": "Extreme weather in 2025 drove record wildfire emissions in Europe",
-      "link": "https://www.newscientist.com/article/2524648-extreme-weather-in-2025-drove-record-wildfire-emissions-in-europe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Europe, the fastest-warming continent, saw unprecedented wildfires and heatwaves in 2025, including a three-week hot spell that hit 30°C inside the Arctic circle",
-      "date": "2026-04-29T10:53:56Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/29105154/SEI_295100919.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-29T15:21:35Z"
-    },
-    {
-      "title": "Gamblers are betting millions of dollars on measles outbreaks",
-      "link": "https://www.newscientist.com/article/2524510-gamblers-are-betting-millions-of-dollars-on-measles-outbreaks/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "People are increasingly placing bets that predict measles outbreaks in the US, which could help researchers modelling the spread of the disease",
-      "date": "Tue, 28 Apr 2026 17Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/27155540/SEI_294871761.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-29T15:21:35Z"
-    },
-    {
-      "title": "The 'tail' of the shrinking dog brain: Study reveals they began getting smaller 5,000 years ago",
-      "link": "https://phys.org/news/2026-04-tail-dog-brain-reveals-began.html",
-      "summary": "Dogs have long been known to have smaller brains than the wolves they descended from. But when they started to shrink has been a matter of some debate. New research published in th",
-      "date": "2026-04-29T15:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-tail-of-the-shrink.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-29T15:21:37Z"
-    },
-    {
-      "title": "AI discovery reveals DNA isn't locked away in cells after all",
-      "link": "https://phys.org/news/2026-04-ai-discovery-reveals-dna-isnt.html",
-      "summary": "Every cell in the human body squeezes over six feet of DNA into a minuscule speck invisible to the naked eye—like compressing a whole house into a single sugar cube. In order to fi",
-      "date": "2026-04-29T15:00:22Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-discovery-reveals-d.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-29T15:21:37Z"
-    },
-    {
-      "title": "The battle of the sexes in the egg: How early nuclear rivalry helps embryos develop properly",
-      "link": "https://phys.org/news/2026-04-sexes-egg-early-nuclear-rivalry.html",
-      "summary": "The sperm and the egg cell's nuclei compete for size directly after fertilization and this is necessary for proper embryonic development. A mouse study with Kobe University partici",
-      "date": "2026-04-29T15:00:15Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-battle-of-the-sexe.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-29T15:21:37Z"
-    },
-    {
-      "title": "'Ruthless predator' of red tide plankton reveals unusual bioluminescence",
-      "link": "https://phys.org/news/2026-04-ruthless-predator-red-tide-plankton.html",
-      "summary": "Scientists at UC San Diego's Scripps Institution of Oceanography have uncovered new insights into the bioluminescence of a unique species of marine plankton that feeds on other pla",
-      "date": "2026-04-29T13:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ruthless-predator-of-r.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-29T15:21:37Z"
-    },
-    {
-      "title": "New study details changing US irrigated agriculture, viability strategies",
-      "link": "https://phys.org/news/2026-04-irrigated-agriculture-viability-strategies.html",
-      "summary": "A new study by researchers at the Daugherty Water for Food Global Institute at the University of Nebraska offers a comprehensive national-scale assessment of irrigated agriculture ",
-      "date": "2026-04-29T13:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-details-chan.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-29T15:21:37Z"
-    },
-    {
-      "title": "No brain required: This is how the single-celled Stentor learns",
-      "link": "https://phys.org/news/2026-04-brain-required-celled-stentor.html",
-      "summary": "Scientists have known for more than a century that a single-celled organism with no nerve cells—much less a brain—can behave in ways that resemble learning. But those observations ",
-      "date": "2026-04-29T13:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/no-brain-required-this.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-29T15:21:37Z"
-    },
-    {
-      "title": "'I violated every principle I was given': AI agent deletes company's entire database in 9 seconds, then confesses",
-      "link": "https://www.livescience.com/technology/artificial-intelligence/i-violated-every-principle-i-was-given-ai-agent-deletes-companys-entire-database-in-9-seconds-then-confesses",
-      "summary": "An AI agent designed to speed up a company's coding instead wiped out its customer data in seconds, showing potential weaknesses in AI programming.",
-      "date": "2026-04-29T14:57:54Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/vsMHH8WBAeR9Hhuv4ZcZYX-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-29T15:21:38Z"
     }
   ]
 }
