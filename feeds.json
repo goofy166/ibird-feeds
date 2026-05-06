@@ -1,8 +1,52 @@
 {
-  "updated": "2026-05-06T22:04:00Z",
-  "updated_utc": "2026-05-06T22:04:00Z",
+  "updated": "2026-05-06T23:57:17Z",
+  "updated_utc": "2026-05-06T23:57:17Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Why 2026 Could Be One of the Worst Wildfire Seasons in Recent U.S. History",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/outdoor-adventure-environment-2026-wildfire-season-forecast-usfs-restructuring/",
+      "summary": "With 62 percent of the U.S. in drought and a massive Forest Service restructuring underway, experts like Riva Duncan warn of an unsustainable 2026 wildfire season. The post Why 202",
+      "date": "2026-05-06T23:18:29Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/GettyImages-76829460.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-06T23:57:08Z"
+    },
+    {
+      "title": "Rare footage of elusive sea-floor creatures and backward-swimming fish captured by compact video-acoustic system",
+      "link": "https://phys.org/news/2026-05-rare-footage-elusive-sea-floor.html",
+      "summary": "Arctic glacial fjords are hotspots of marine life, yet their seafloor environments remain some of the least explored regions on Earth. Their extreme remoteness and the technical ch",
+      "date": "2026-05-06T22:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rare-footage-of-elusiv.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-06T23:57:13Z"
+    },
+    {
+      "title": "Cold-triggered ion channel in bacteria may point to broader temperature-sensing mechanism",
+      "link": "https://phys.org/news/2026-05-cold-triggered-ion-channel-bacteria.html",
+      "summary": "All lifeforms need to continuously adapt to temperature changes to survive. Now, Weill Cornell Medicine investigators studying a bacterial protein have identified a new mechanism o",
+      "date": "2026-05-06T22:30:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-kind-of-cold-sen.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-06T23:57:13Z"
+    },
+    {
+      "title": "How higher temperatures can benefit (or devastate) bumble bee populations",
+      "link": "https://phys.org/news/2026-05-higher-temperatures-benefit-devastate-bumble.html",
+      "summary": "New research finds that higher temperatures can actually benefit some bumble bee species—particularly those that make subterranean nests. However, periods of extreme heat appear to",
+      "date": "2026-05-06T22:20:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-higher-temperature.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-06T23:57:13Z"
+    },
     {
       "title": "Dating over 50 is probably on the rise – but we know little about it",
       "link": "https://www.newscientist.com/article/2525520-dating-over-50-is-probably-on-the-rise-but-we-know-little-about-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-04-29T15:21:33Z"
-    },
-    {
-      "title": "Watch the First Known Video of a Sumatran Orangutan Crossing a Human-Made Wildlife Bridge in the Treetops",
-      "link": "https://www.smithsonianmag.com/smart-news/watch-the-first-known-video-of-a-sumatran-orangutan-crossing-a-human-made-wildlife-bridge-in-the-treetops-180988637/",
-      "summary": "A public road in Indonesia separates forests housing about 350 wild orangutans, among other animals. So, conservationists built several canopy bridges to prevent habitat fragmentat",
-      "date": "2026-04-29T14:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/KSbsFljmg6oh8RW0tHjA4AqoWdM=/420x240/filters:focal(929x717:930x718)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f4/4f/f44ff302-6a20-43aa-a93a-f1f3f31b0ea6/screenshot_2026-04-28_at_123916.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-29T15:21:33Z"
-    },
-    {
-      "title": "Seismic data captured the sound of awe during a solar eclipse",
-      "link": "https://www.sciencenews.org/article/seismic-data-awe-total-solar-eclipse",
-      "summary": "From the hush of people coming to a standstill to the reverberations of fans, seismic data can capture the ebbs and flows of human activity.",
-      "date": "2026-04-29T14:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/042726_MT_eclipse_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-29T15:21:34Z"
-    },
-    {
-      "title": "The chips in your phone are probably broken – and that's a good thing",
-      "link": "https://www.newscientist.com/article/2523909-the-chips-in-your-phone-are-probably-broken-and-thats-a-good-thing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Reports suggest that Apple is using defective chips originally destined for high-end devices to create its latest affordable laptop. Reusing partially broken chips is common practi",
-      "date": "2026-04-29T14:00:50Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/29092223/SEI_294984098.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-29T15:21:35Z"
-    },
-    {
-      "title": "Scorpions reinforce their claws and stingers with metals",
-      "link": "https://www.newscientist.com/article/2524699-scorpions-reinforce-their-claws-and-stingers-with-metals/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Many scorpion species use blends of iron, zinc and manganese to enhance the toughness of their deadly weaponry",
-      "date": "2026-04-29T12:18:32Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/29120358/SEI_295104510.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-29T15:21:35Z"
     }
   ]
 }
