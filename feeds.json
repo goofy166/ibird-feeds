@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-06T03:52:22Z",
-  "updated_utc": "2026-05-06T03:52:22Z",
+  "updated": "2026-05-06T06:37:44Z",
+  "updated_utc": "2026-05-06T06:37:44Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Space junk falls back to Earth faster as sunspot numbers climb",
+      "link": "https://www.sciencenews.org/article/space-debris-altitude-loss-increase",
+      "summary": "A new study links the sun's 11-year cycle to accelerated orbital loss, with debris falling faster once sunspot numbers near their cycle peak.",
+      "date": "2026-05-06T04:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/050526_CG_sunspots_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-05-06T06:37:38Z"
+    },
     {
       "title": "Thank you, David Attenborough, for 100 incredible years of life on Earth | Jess Harwood",
       "link": "https://www.theguardian.com/commentisfree/picture/2026/may/06/thank-you-david-attenborough-for-100-incredible-years-of-life-on-earth",
@@ -5487,17 +5498,6 @@
       "summary": "A new exhibition at the Fondation Louis Vuitton in Paris spotlights 300 of the sculptor's groundbreaking kinetic artworks, large-scale public sculptures, paintings, drawings and wi",
       "date": "Tue, 28 Apr 2026 16Z",
       "image": "https://th-thumbnailer.cdn-si-edu.com/OFD5yFuRUtgZPG1M1BeHzoC1fIQ=/420x240/filters:focal(1955x1526:1956x1527)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/65/88/65883d46-5e21-4cc7-8e44-249c6be57042/gettyimages-517244522.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-28T16:59:03Z"
-    },
-    {
-      "title": "Worried Your House Is Haunted? The Spooky Sensation Might Arise From a Surprisingly Simple Source",
-      "link": "https://www.smithsonianmag.com/smart-news/worried-your-house-is-haunted-the-spooky-sensation-might-arise-from-a-surprisingly-simple-source-180988622/",
-      "summary": "Infrasound—noise below the range of typical human hearing—from power, heating and mechanical systems within buildings can make people feel irritated and induce a stress response, a",
-      "date": "Tue, 28 Apr 2026 15Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/SuPcRXKVCVEem3elIoUFvnO8uVs=/420x240/filters:focal(3500x2000:3501x2001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3b/f1/3bf1a656-7a04-4e78-aefc-1219b0e8994b/spooky-noises.jpg",
       "name": "Smithsonian",
       "category": "insects",
       "color": 10,
