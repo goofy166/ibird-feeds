@@ -1,8 +1,63 @@
 {
-  "updated": "2026-05-05T23:01:42Z",
-  "updated_utc": "2026-05-05T23:01:42Z",
+  "updated": "2026-05-06T03:52:22Z",
+  "updated_utc": "2026-05-06T03:52:22Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Thank you, David Attenborough, for 100 incredible years of life on Earth | Jess Harwood",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/may/06/thank-you-david-attenborough-for-100-incredible-years-of-life-on-earth",
+      "summary": "As a kid I would do his voice, put on my dad’s work shirt and host my own nature documentaries in the backyard See more of Jess Harwood’s cartoons here Continue reading...",
+      "date": "2026-05-06T01:28:33Z",
+      "image": "https://i.guim.co.uk/img/media/28f4f76f7ae71be755da594d8175f4ea91a865a8/0_0_2048_1638/master/2048.jpg?width=140&quality=85&auto=format&fit=max&s=93156cebcabf7f34d3cd5e0165f03ca1",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-06T03:52:07Z"
+    },
+    {
+      "title": "Extinct relative of koalas discovered in Western Australia",
+      "link": "https://www.newscientist.com/article/2525306-extinct-relative-of-koalas-discovered-in-western-australia/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Fossils reveal that there were at least two kinds of koala when humans first arrived in Australia, but one died out about 30,000 years ago when the west of the continent dried out",
+      "date": "2026-05-06T00:01:10Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/05105417/SEI_295401926.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-06T03:52:17Z"
+    },
+    {
+      "title": "Male coyote swam 2 miles to Alcatraz Island, twice as far as biologists had expected",
+      "link": "https://phys.org/news/2026-05-male-coyote-swam-miles-alcatraz.html",
+      "summary": "A lone coyote stunned biologists and others when it paddled its way to remote Alcatraz Island earlier this year, a former federal prison in the San Francisco Bay surrounded by swif",
+      "date": "2026-05-05T23:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/male-coyote-swam-2-mil.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-06T03:52:18Z"
+    },
+    {
+      "title": "Carnivorous plants and wasps blur the line between friend and food",
+      "link": "https://phys.org/news/2026-05-carnivorous-wasps-blur-line-friend.html",
+      "summary": "Acid-filled pitchers complete with fangs. Labyrinthine chambers decorated with bristles. Leaves that snap shut in less than a second. Employing strategies like these, carnivorous p",
+      "date": "2026-05-05T23:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/carnivorous-plants-was.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-06T03:52:18Z"
+    },
+    {
+      "title": "A skull full of surprises: Discovering the evolutionary secrets of fish brains",
+      "link": "https://phys.org/news/2026-05-skull-full-evolutionary-secrets-fish.html",
+      "summary": "A new study in Proceedings of the Royal Society B reveals the surprising neurological landscape of fish brains. Harvard researchers map the internal structures of ray-finned fishes",
+      "date": "2026-05-05T23:10:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-skull-full-of-surpri-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-06T03:52:18Z"
+    },
     {
       "title": "Coyote swam 2 miles to Alcatraz Island, twice as far as biologists had thought",
       "link": "https://www.mercurynews.com/2026/05/05/coyote-swam-angel-island-alcatraz/",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-04-28T16:59:03Z"
-    },
-    {
-      "title": "These Young Innovators Have Created a 'Fitbit' to Predict Epileptic Seizures",
-      "link": "https://www.smithsonianmag.com/innovation/these-young-innovators-have-created-a-fitbit-to-predict-epileptic-seizures-180988630/",
-      "summary": "Truman Pierson and Christopher Fitz are developing behind-the-ear EEG patches and an accompanying app that issues an alert if the user is at high risk for a seizure in the next hou",
-      "date": "Tue, 28 Apr 2026 15Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/aVID-RFvdt3xxfWL8fip60PWF9w=/420x240/filters:focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/56/8c/568ca88c-abb5-4fbf-a032-e59874bd4b43/gettyimages-973895676.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-28T16:59:03Z"
-    },
-    {
-      "title": "From pet to pest: Research warns invasive goldfish are reshaping freshwater ecosystems",
-      "link": "https://phys.org/news/2026-04-pet-pest-invasive-goldfish-reshaping.html",
-      "summary": "A new peer-reviewed study conducted by researchers at The University of Toledo and University of Missouri provides some of the first rigorous experimental evidence that goldfish—on",
-      "date": "2026-04-28T16:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-pet-to-pest-resea.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-28T16:59:07Z"
-    },
-    {
-      "title": "Researchers discover new reproductive method that will improve cattle production",
-      "link": "https://phys.org/news/2026-04-reproductive-method-cattle-production.html",
-      "summary": "There are sure signs of spring on the Canadian Prairies—snow melting, pelicans splashing down in the South Saskatchewan River, and the sight of brand-new calves taking shaky first ",
-      "date": "2026-04-28T16:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-discover-n-4.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-28T16:59:07Z"
-    },
-    {
-      "title": "German rescuers launch new bid to free stranded whale",
-      "link": "https://phys.org/news/2026-04-german-rescuers-free-stranded-whale.html",
-      "summary": "German rescuers launched a fresh bid Tuesday to free a humpback whale stranded for a month off the country's coast, aiming to transport the cetacean to deeper waters in a barge.",
-      "date": "2026-04-28T16:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-entrepreneurs-are.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-28T16:59:07Z"
-    },
-    {
-      "title": "Most sunscreens harm corals. Here's what you can do",
-      "link": "https://phys.org/news/2026-04-sunscreens-corals.html",
-      "summary": "Every time you go for a swim, some of your sunscreen gets left behind. An estimated 25% of applied sunscreen washes off during recreational water activities, releasing some 5,000 t",
-      "date": "2026-04-28T15:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/most-sunscreens-harm-c.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-28T16:59:07Z"
     }
   ]
 }
