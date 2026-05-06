@@ -1,8 +1,140 @@
 {
-  "updated": "2026-05-06T18:24:47Z",
-  "updated_utc": "2026-05-06T18:24:47Z",
+  "updated": "2026-05-06T20:40:45Z",
+  "updated_utc": "2026-05-06T20:40:45Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Learn Bird Songs! 34 Common Species to Get You Started",
+      "link": "https://www.allaboutbirds.org/news/learn-bird-songs-34-common-species/",
+      "summary": "10 Common Bird Songs From Across North America Every week during spring, new birds are migrating back to your yard, neighborhood, and local parks. And once they return, they’ll let",
+      "date": "2026-05-06T18:38:11Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Psephotus_haematonotus_male.jpg",
+      "name": "All About Birds",
+      "category": "birds",
+      "color": 3,
+      "fetched_at": "2026-05-06T20:40:26Z"
+    },
+    {
+      "title": "Flying Drones Were Doing Valuable Work on Mount Everest. Then, Nepal Grounded Them.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/everest/nepal-everest-drone-cancel/",
+      "summary": "The government of Nepal recently canceled cargo drone operations on Everest, cutting off a valuable tool for guiding companies. The decision left politicians, outfitters, and the d",
+      "date": "2026-05-06T19:43:41Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/Airlift.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-06T20:40:35Z"
+    },
+    {
+      "title": "The 4 Best Women’s Travel Pants for Summer Vacations",
+      "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/womens-travel-pants/",
+      "summary": "For active summer travel, I need fancy sweats that keep up with me while staying stylish. These are my favorites. The post The 4 Best Women’s Travel Pants for Summer Vacations appe",
+      "date": "2026-05-06T18:39:19Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/travel_pants_h.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-06T20:40:35Z"
+    },
+    {
+      "title": "Deadly Brain-Eating Amoeba Detected in Yellowstone, Grand Teton, and Lake Mead",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/brain-eating-amoeba-yellowstone-grand-teton-lake-mead/",
+      "summary": "A 2026 study confirms Naegleria fowleri in popular national park hot springs and lakes. Here is what soakers need to know to stay safe. The post Deadly Brain-Eating Amoeba Detected",
+      "date": "2026-05-06T18:25:18Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/GettyImages-1189553026.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-06T20:40:35Z"
+    },
+    {
+      "title": "After World War II, This German Artist Turned the Art World Upside Down—Literally, by Inverting His Paintings",
+      "link": "https://www.smithsonianmag.com/smart-news/after-world-war-ii-this-german-artist-turned-the-art-world-upside-down-literally-by-inverting-his-paintings-180988689/",
+      "summary": "Georg Baselitz, the renowned painter who played with perspective and flipped canvases on their head, died recently at age 88",
+      "date": "2026-05-06T19:42:26Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/vtRwh63CCl7pFVoTpyseNcAMFLM=/420x240/filters:focal(720x432:721x433)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7f/0d/7f0d6d79-be5d-432b-af8e-b9c237e9394b/gb_m_2023_01_17_littkemann.webp",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-06T20:40:37Z"
+    },
+    {
+      "title": "New long-necked dinosaur found in Northeast Brazil was a close relative of a European species",
+      "link": "https://phys.org/news/2026-05-necked-dinosaur-northeast-brazil-european.html",
+      "summary": "A study published in the Journal of Systematic Palaeontology describes a new species of dinosaur discovered during construction of a road-rail terminal in the city of Davinópolis i",
+      "date": "2026-05-06T20:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-long-necked-dinosa.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-06T20:40:40Z"
+    },
+    {
+      "title": "Death-defying protein found in tardigrades preserves synthetic cells",
+      "link": "https://phys.org/news/2026-05-death-defying-protein-tardigrades-synthetic.html",
+      "summary": "A protein found only in microscopic tardigrades, one that allows them to survive extreme conditions like dehydration, can convey similar durability in synthetic cells, according to",
+      "date": "2026-05-06T20:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/death-defying-protein.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-06T20:40:40Z"
+    },
+    {
+      "title": "Green and yellow light guide newborn whitefish to safety—but warming waters cause issues",
+      "link": "https://phys.org/news/2026-05-green-yellow-newborn-whitefish-safety.html",
+      "summary": "How do minute fish larvae find their way in complex and dangerous environments? And what role do different light colors play in their journey? These questions have hardly been rese",
+      "date": "2026-05-06T20:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/guided-by-light-fish-l-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-06T20:40:40Z"
+    },
+    {
+      "title": "DNA-guided CRISPR flips gene editing script, opening a new path for precise diagnosis and antivirals",
+      "link": "https://phys.org/news/2026-05-dna-crispr-flips-gene-script.html",
+      "summary": "A research team led by Prof. Hsing I-Ming, Professor of the Department of Chemical and Biological Engineering (CBE) at The Hong Kong University of Science and Technology (HKUST), i",
+      "date": "2026-05-06T19:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dna-guided-crispr-flip.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-06T20:40:40Z"
+    },
+    {
+      "title": "Happy 100th birthday, David Attenborough! 13 surprising facts about the famous naturalist",
+      "link": "https://www.livescience.com/planet-earth/happy-100th-birthday-david-attenborough-13-surprising-facts-about-the-famous-naturalist",
+      "summary": "As Sir David Attenborough turns 100, here are 13 surprising facts about the beloved broadcaster and environmental advocate whose voice has shaped how generations see the natural wo",
+      "date": "2026-05-06T20:25:58Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/C57wt3oV3mFeLoAZqGxtm7-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-06T20:40:42Z"
+    },
+    {
+      "title": "The night sky could get three times brighter as new satellites launch — all but ruining the Vera C. Rubin Observatory's survey of the universe",
+      "link": "https://www.livescience.com/space/astronomy/the-night-sky-could-get-three-times-brighter-as-new-satellites-launch-all-but-ruining-the-vera-c-rubin-observatorys-survey-of-the-universe",
+      "summary": "Extremely bright satellites and megaconstellations could make the night sky up to three times brighter than it is now, a new study warns. This would seriously hinder astronomical i",
+      "date": "2026-05-06T18:35:56Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/q7DHdJs8wgi7afEWfK2Qu9-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-06T20:40:42Z"
+    },
+    {
+      "title": "New Study Eavesdrops on the Secret Lives of Birds",
+      "link": "https://www.birds.cornell.edu/home/study-eavesdrops-on-birds/",
+      "summary": "Cornell Lab of Ornithology Scientists Use Microphones to Identify How Birds Respond to Predators.",
+      "date": "2026-05-06T19:38:31Z",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-05-06T20:40:43Z"
+    },
     {
       "title": "The Thrasher That is No More",
       "link": "https://www.10000birds.com/the-thrasher-that-is-no-more.htm?utm_source=rss&utm_medium=rss&utm_campaign=the-thrasher-that-is-no-more",
@@ -5370,138 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-04-29T15:21:38Z"
-    },
-    {
-      "title": "Courtship Behaviours",
-      "link": "https://www.10000birds.com/courtship-behaviours.htm?utm_source=rss&utm_medium=rss&utm_campaign=courtship-behaviours",
-      "summary": "When most people think about birds courting, they imagine male birds singing and flaunting their bright, colourful plumage. But, there are many other ways to court a mate, which we",
-      "date": "2026-04-29T11:00:55Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/04/Mississippi_Sandhill_crane_32386964608.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-04-29T12:20:04Z"
-    },
-    {
-      "title": "Ask a Birder: How Many Bird Species Ever Existed?",
-      "link": "https://www.10000birds.com/ask-a-birder-how-many-bird-species-ever-existed.htm?utm_source=rss&utm_medium=rss&utm_campaign=ask-a-birder-how-many-bird-species-ever-existed",
-      "summary": "This is one of those questions serious ornithologists prefer to avoid. The fossil record is patchy, the assumptions are fragile, and the margin for error is vast.Still, people have",
-      "date": "2026-04-29T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/04/unnamed.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-04-29T12:20:04Z"
-    },
-    {
-      "title": "Timmy the whale rescue attempt begins off coast of Germany – in pictures",
-      "link": "https://www.theguardian.com/environment/gallery/2026/apr/29/timmy-the-whale-rescue-attempt-begins-germany-in-pictures",
-      "summary": "A rescue operation to transport a young male humpback to deeper waters in the North Sea after it became stranded in the Baltic Sea off Lübeck a month ago is under way. The whale’s ",
-      "date": "2026-04-29T11:01:45Z",
-      "image": "https://i.guim.co.uk/img/media/e9f7126a7d5401206d3be8791010fe7695999ed9/298_0_5287_4231/master/5287.jpg?width=140&quality=85&auto=format&fit=max&s=01c0a3fea31bee71d2d5fa4bd0cde0b6",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-29T12:20:10Z"
-    },
-    {
-      "title": "Euclid Space Warps: Help spot galaxies bending spacetime!",
-      "link": "https://earthsky.org/space/euclid-space-warps-help-spot-galaxies-bending-spacetime/",
-      "summary": "New citizen science project Space Warps lets you study new Euclid space telescope data to find galaxies bending the fabric of the universe. The post Euclid Space Warps: Help spot g",
-      "date": "2026-04-29T11:27:14Z",
-      "image": "https://earthsky.org/upl/2025/03/Euclid-first-observations-gravitational-lenses-ESA-NASA-CC-BY-4-e1742393082165.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-29T12:20:11Z"
-    },
-    {
-      "title": "What is a micromoon? We have 2 coming in May",
-      "link": "https://earthsky.org/astronomy-essentials/micromoon-definition-full-moon-apogee/",
-      "summary": "What is a micromoon? It's a full or new moon near its farthest from Earth for the month. Depending on your definition, 2026 has either 2 or 3 full micromoons. The post What is a mi",
-      "date": "2026-04-29T11:20:37Z",
-      "image": "https://earthsky.org/upl/2026/04/Supermoon-micromoon_Soumyadeep-Mukherjee_18-Dec2021-e1777291568597.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-29T12:20:11Z"
-    },
-    {
-      "title": "Could paranormal experiences be due to low-frequency sound?",
-      "link": "https://earthsky.org/human-world/paranormal-experiences-explained-infrasound/",
-      "summary": "Research shows people can't hear sounds at very low frequencies, yet they still respond to them. Could these sounds explain paranormal experiences? The post Could paranormal experi",
-      "date": "2026-04-29T11:06:54Z",
-      "image": "https://earthsky.org/upl/2026/04/person-inside-abandoned-buildling-vera-gorbunova-unsplash-e1777383267379.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-29T12:20:11Z"
-    },
-    {
-      "title": "Cancer Survivors Are Living Longer but Still Have Complex Needs. That's Why Doctors and Advocates Want Post-Treatment Care Plans",
-      "link": "https://www.smithsonianmag.com/science-nature/cancer-survivors-are-living-longer-but-still-have-complex-needs-thats-why-doctors-and-advocates-want-post-treatment-care-plans-180988629/",
-      "summary": "Survivors have a heightened risk of developing cardiovascular disease, pain, insomnia, psychosocial distress and new cancers. Many, patient advocates say, are not receiving adequat",
-      "date": "2026-04-29T11:30:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/9XqbLPQ3JZkaWMyhzRHSt6CS3JM=/420x240/filters:focal(1558x579:1559x580)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b5/ab/b5ab3cb2-e96d-480d-8b8b-deed80c4e7e2/gettyimages-1468266588.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-29T12:20:17Z"
-    },
-    {
-      "title": "How cells decide when to react could shape future treatments for cancer and fibrosis",
-      "link": "https://phys.org/news/2026-04-cells-react-future-treatments-cancer.html",
-      "summary": "Scientists have discovered how cells decide when to respond to physical forces, potentially opening new avenues for tackling diseases such as cancer and fibrosis.",
-      "date": "2026-04-29T11:33:25Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-cells-decide-when-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-29T12:20:21Z"
-    },
-    {
-      "title": "Radioactive imaging reveals ants' secret food networks",
-      "link": "https://phys.org/news/2026-04-radioactive-imaging-reveals-ants-secret.html",
-      "summary": "Researchers at the National Institutes for Quantum Science and Technology (QST) and the University of the Ryukyus have developed a new imaging method that makes it possible to see,",
-      "date": "2026-04-29T11:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/radioactive-imaging-re-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-29T12:20:21Z"
-    },
-    {
-      "title": "'It cuts both ways': Positive tipping points can restore wreaked ecosystems — we just need to trigger them, Earth system scientist Tim Lenton says",
-      "link": "https://www.livescience.com/planet-earth/it-cuts-both-ways-positive-tipping-points-can-restore-wreaked-ecosystems-we-just-need-to-trigger-them-earth-system-scientist-tim-lenton-says",
-      "summary": "Live Science spoke with Tim Lenton, founding director of the Global Systems Institute at the University of Exeter, about human actions that can trigger positive, self-propelling ch",
-      "date": "2026-04-29T10:53:49Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/HpM2Af5ZEBphXfVJonbybU-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-29T12:20:22Z"
-    },
-    {
-      "title": "Breakthrough in experimental light-powered quantum computers could mean scaling them up is now far more viable",
-      "link": "https://www.livescience.com/technology/quantum/breakthrough-in-experimental-light-powered-quantum-computers-could-mean-scaling-them-up-is-now-far-more-viable",
-      "summary": "Scientists have achieved a breakthrough by \"distilling\" light to eliminate the noise that prevents photonic quantum computers from scaling.",
-      "date": "2026-04-29T10:44:57Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/noR5fWMVUxXawQEHbxN29Z-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-29T12:20:22Z"
-    },
-    {
-      "title": "Isle Royale Is the Least Visited National Park in the Lower 48. Here’s Why It’s Worth the Trek.",
-      "link": "https://www.outsideonline.com/adventure-travel/national-parks/isle-royale-national-park-travel-guide/",
-      "summary": "In a world of overtourism, Isle Royale National Park's barrier to entry and seasonal access is its greatest selling point. This is the least-visited park in the lower 48 because it",
-      "date": "2026-04-29T09:00:10Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/Isle-Royale-National-Park-Serivce-.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-29T10:12:30Z"
     }
   ]
 }
