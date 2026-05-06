@@ -1,8 +1,96 @@
 {
-  "updated": "2026-05-06T09:31:41Z",
-  "updated_utc": "2026-05-06T09:31:41Z",
+  "updated": "2026-05-06T11:55:35Z",
+  "updated_utc": "2026-05-06T11:55:35Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Ask a Birder: Why Are Forest Birds So Much More Colorful Than Mediterranean Birds?",
+      "link": "https://www.10000birds.com/ask-a-birder-why-are-forest-birds-so-much-more-colorful-than-mediterranean-birds.htm?utm_source=rss&utm_medium=rss&utm_campaign=ask-a-birder-why-are-forest-birds-so-much-more-colorful-than-mediterranean-birds",
+      "summary": "The short answer is that they’re not always more colorful, but it is correct as a trend statement. And the main hypothesis explaining why is mostly about visibility, or more accura",
+      "date": "2026-05-06T11:00:00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/03/Ivory-breasted-Pitta_DSC6709_Halmahera-Jul-16-2024.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-05-06T11:55:15Z"
+    },
+    {
+      "title": "Goldfinch Nests: Everything You Need to Know",
+      "link": "https://www.birdsandblooms.com/birding/attracting-birds/bird-nesting/goldfinch-nest/",
+      "summary": "Get facts about goldfinch nests, including where and when the birds nest, how many eggs they lay, and what baby goldfinches eat. The post Goldfinch Nests: Everything You Need to Kn",
+      "date": "Tue, 28 Apr 2026 15Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/04/GettyImages-1646322133-scaled-e1777385394171.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-05-06T11:55:16Z"
+    },
+    {
+      "title": "From V2 rocket-scarred London to Ukraine: how nature thrives in bomb craters",
+      "link": "https://www.theguardian.com/environment/2026/may/06/london-to-ukraine-how-nature-is-thriving-in-bomb-craters",
+      "summary": "In the UK capital, Bomb Crater Pond is full of wildlife, while scientists studying land obliterated by recent Russian blasts 1,500 miles away have seen ‘how quickly nature begins t",
+      "date": "2026-05-06T10:00:05Z",
+      "image": "https://i.guim.co.uk/img/media/adc556e1ff9d4ae84366ab64e3084b0b8ce969f1/627_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c88515c39748d17852d4641b5cda3430",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-06T11:55:20Z"
+    },
+    {
+      "title": "Over 10,000 new exoplanet candidates revealed!",
+      "link": "https://earthsky.org/space/10000-new-exoplanet-candidates-tess/",
+      "summary": "Using data from the TESS space telescope, astronomers have discovered over 10,000 new exoplanet candidates. That's an unprecedented number for a single survey. The post Over 10,000",
+      "date": "2026-05-06T11:00:31Z",
+      "image": "https://earthsky.org/upl/2026/05/exoplanets-dozens-NASA.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-06T11:55:22Z"
+    },
+    {
+      "title": "Today in science: Neil Armstrong’s close call",
+      "link": "https://earthsky.org/space/this-date-in-science-neil-armstrongs-close-call/",
+      "summary": "On May 6, 1968, more than a year before he walked on the moon, Neil Armstrong narrowly escaped disaster during training. See Neil Armstrong's close call here. The post Today in sci",
+      "date": "2026-05-06T07:00:59Z",
+      "image": "https://earthsky.org/upl/2024/07/Neil_Armstrong-e1721411314611.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-06T11:55:22Z"
+    },
+    {
+      "title": "Nearly Half of Italy's Wolves Are Part Dog Now, Thanks to Hybridization. Is That a Threat to the Species?",
+      "link": "https://www.smithsonianmag.com/science-nature/nearly-half-of-italys-wolves-are-part-dog-now-thanks-to-hybridization-is-that-a-threat-to-the-species-180988682/",
+      "summary": "Wolf-dog hybrids are growing far more common in Italy, raising scientists’ concerns for the future of the wolves",
+      "date": "2026-05-06T11:30:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/9H0p03QE9djJ-pbFDs5uSNOpMVg=/420x240/filters:focal(1200x800:1201x801)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/21/cb/21cb1dbf-cc28-4fd8-a835-f13a16b01d5b/header-italian-wolf-hybrids.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-06T11:55:28Z"
+    },
+    {
+      "title": "Diagnostic dilemma: A woman turned black and blue weeks after starting a new medication",
+      "link": "https://www.livescience.com/health/medicine-drugs/diagnostic-dilemma-a-woman-turned-black-and-blue-weeks-after-starting-a-new-medication",
+      "summary": "A woman's sudden hyperpigmentation was a side effect of a medicine she was taking.",
+      "date": "2026-05-06T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/nDhLYtFYVHm5vzLjdPuyoD-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-06T11:55:33Z"
+    },
+    {
+      "title": "Clean hydrogen created from plastic waste using battery acid from old cars and solar power",
+      "link": "https://www.livescience.com/chemistry/clean-hydrogen-created-from-plastic-waste-using-battery-acid-from-old-cars-and-solar-power",
+      "summary": "Researchers turned hard-to-recycle plastic into hydrogen using battery acid. This circular upcycling system tackles multiple problematic waste streams at once, the scientists claim",
+      "date": "2026-05-06T09:42:55Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/thPsUf6py9wjAPmPyaPx8H-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-06T11:55:33Z"
+    },
     {
       "title": "Meet Omega Centauri, a giant globular star cluster",
       "link": "https://earthsky.org/clusters-nebulae-galaxies/omega-centauri-milky-ways-prize-star-cluster/",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-04-28T20:23:23Z"
-    },
-    {
-      "title": "How Many Bathtubs’ Worth of Water Does Yellowstone’s Old Faithful Erupt? Scientists Just Measured It.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/national-parks-yellowstone-old-faithful-water-volume-study/",
-      "summary": "Yellowstone’s Old Faithful is famous for its big eruptions, but how much water does it actually erupt? A new USGS study now has an answer. The post How Many Bathtubs’ Worth of Wate",
-      "date": "Tue, 28 Apr 2026 17Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/GettyImages-528903275.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-28T18:45:32Z"
-    },
-    {
-      "title": "11 Best Marathon Racing Shoes for Every Type of Runner",
-      "link": "https://www.outsideonline.com/outdoor-gear/run/best-marathon-racing-shoes/",
-      "summary": "The right marathon shoe can boost your performance and make the race more enjoyable. The post 11 Best Marathon Racing Shoes for Every Type of Runner appeared first on Outside Onlin",
-      "date": "Tue, 28 Apr 2026 17Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/marathon_racing_2026_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-28T18:45:32Z"
-    },
-    {
-      "title": "People are betting on measles outbreaks – and that might be useful",
-      "link": "https://www.newscientist.com/article/2524510-people-are-betting-on-measles-outbreaks-and-that-might-be-useful/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Millions of dollars are being spent on wagers predicting measles outbreaks in the US, which could help researchers modelling the spread of the disease",
-      "date": "Tue, 28 Apr 2026 17Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/27155540/SEI_294871761.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-28T18:45:36Z"
-    },
-    {
-      "title": "Is consciousness more fundamental to reality than quantum physics?",
-      "link": "https://www.newscientist.com/article/2523209-is-consciousness-more-fundamental-to-reality-than-quantum-physics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "The idea that everything that exists can be built from the bottom up has long held sway among physicists. Now, a new kind of science is under construction that centres conscious ex",
-      "date": "Tue, 28 Apr 2026 17Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/23142211/SEI_294321403.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-28T18:45:36Z"
-    },
-    {
-      "title": "Humanoid robots may be about to break the 100-metre sprint record",
-      "link": "https://www.newscientist.com/article/2523906-humanoid-robots-may-be-about-to-break-the-100-metre-sprint-record/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Robots can now run a half-marathon faster than humans and are rapidly homing in on the 100-metre sprint record. But why are companies so keen to create speedy robots that have no o",
-      "date": "Tue, 28 Apr 2026 15Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/27145622/SEI_294881851.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-28T18:45:36Z"
-    },
-    {
-      "title": "Humidity and heat are killers for tropical birds: Waxbill and hornbill studies highlight the dangers",
-      "link": "https://phys.org/news/2026-04-humidity-killers-tropical-birds-waxbill.html",
-      "summary": "Humans are not the only species negatively affected by increasingly hot and humid conditions. Intense heat waves sometimes kill large numbers of wild animals. Eastern Australia's g",
-      "date": "2026-04-28T18:40:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/waxbill.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-28T18:45:37Z"
-    },
-    {
-      "title": "Urban agriculture could supply about 28% of Europe's vegetable demand",
-      "link": "https://phys.org/news/2026-04-urban-agriculture-europe-vegetable-demand.html",
-      "summary": "A new study, conducted by researchers from the Netherlands and Germany, estimates that urban agriculture in European cities could produce up to 20 million tons of vegetables annual",
-      "date": "2026-04-28T18:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/urban-agriculture-coul.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-28T18:45:37Z"
-    },
-    {
-      "title": "Stick-on gel delivers drugs directly to plants to clear infections quickly",
-      "link": "https://phys.org/news/2026-04-gel-drugs-infections-quickly.html",
-      "summary": "A stick-on gel for plants could one day offer a simple, safe and targeted way to treat diseases and pests. Engineers at the University of California San Diego have developed an adh",
-      "date": "2026-04-28T17:40:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/stick-on-gel-offers-ne-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-28T18:45:37Z"
     }
   ]
 }
