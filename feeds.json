@@ -1,8 +1,107 @@
 {
-  "updated": "2026-05-06T11:55:35Z",
-  "updated_utc": "2026-05-06T11:55:35Z",
+  "updated": "2026-05-06T14:34:11Z",
+  "updated_utc": "2026-05-06T14:34:11Z",
   "count": 500,
   "stories": [
+    {
+      "title": "'Lord of the Flies' Comes to Television for the First Time in a New Miniseries. In the 1950s, the Now-Famous Novel Almost Never Got Published",
+      "link": "https://www.smithsonianmag.com/smart-news/new-miniseries-brings-lord-of-the-flies-to-television-for-the-first-time-in-the-1950s-the-now-famous-novel-almost-never-got-published-180988684/",
+      "summary": "Publishers rejected the original manuscript for \"Lord of the Flies\" many times, yet the story still sparks a buzz today. Author William Golding later won the Nobel Prize in Literat",
+      "date": "2026-05-06T14:07:48Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/JsLLtCFEstgLKf8YmjowCC8kXeM=/420x240/filters:focal(2171x1468:2172x1469)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/63/48/6348fa01-e140-4203-b569-59a4cc995a43/william.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-06T14:34:03Z"
+    },
+    {
+      "title": "Timmy the Whale Was Released into the North Sea After Being Stranded Off the German Coast For Weeks. Was That the Right Call?",
+      "link": "https://www.smithsonianmag.com/smart-news/timmy-the-whale-was-released-into-the-sea-after-being-stranded-off-the-german-coast-for-weeks-was-that-the-right-call-180988679/",
+      "summary": "The humpback whale first entered shallow water at the end of March, but its health deteriorated over the past few weeks. Experts have criticized efforts to rescue the animal, which",
+      "date": "2026-05-06T13:13:56Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/xqxFqkc6mVFsNJ_Ov-TXG2vld2M=/420x240/filters:focal(4037x2307:4038x2308)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3b/92/3b92d16f-a042-4bd9-af56-d18391dbfd61/whale-rescue.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-06T14:34:03Z"
+    },
+    {
+      "title": "Everyone Remembers Paul Revere's Midnight Ride. But His Forgotten Race to Secure a Trove of Documents Reveals How Government Records Helped Win the War",
+      "link": "https://www.smithsonianmag.com/history/everyone-remembers-paul-reveres-midnight-ride-but-his-forgotten-race-to-secure-a-trove-of-documents-reveals-how-government-records-helped-win-the-war-180988648/",
+      "summary": "During the American Revolution, both the British and the patriots fought to keep sensitive papers out of enemy hands",
+      "date": "2026-05-06T12:30:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/9wr9hKlJwcMl4Su4qhkPZ6Ed5zA=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4e/62/4e621332-1314-497b-867e-a9c8c22e8519/government-documents.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-06T14:34:03Z"
+    },
+    {
+      "title": "Neandertals used rhinoceros teeth as tools",
+      "link": "https://www.sciencenews.org/article/rhino-teeth-neandertal-tool",
+      "summary": "Finds at sites in Spain and France suggest that Neandertals used the teeth of ancient rhinos for heavy-duty fabrication.",
+      "date": "2026-05-06T13:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/042426_JB_rhino_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-05-06T14:34:05Z"
+    },
+    {
+      "title": "Robin Wall Kimmerer's Braiding Sweetgrass is still an essential read",
+      "link": "https://www.newscientist.com/article/2525391-robin-wall-kimmerers-braiding-sweetgrass-is-still-an-essential-read/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "This 2013 book by an Indigenous botanist is a quietly urgent act of healing that forces Western science to look at the world in a different way",
+      "date": "2026-05-06T12:00:37Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/06100721/SEI_295930179.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-06T14:34:07Z"
+    },
+    {
+      "title": "Read the winner of this year’s Young Science Writer Award",
+      "link": "https://www.newscientist.com/article/2524987-read-the-winner-of-this-years-young-science-writer-award/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Prize-winning young writer Hasset Kifle, 17, explores how the world of super-competitive running is being transformed by so-called “super shoes” – and what cost this will have on t",
+      "date": "2026-05-06T10:00:12Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/30143907/sei294035293.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-06T14:34:07Z"
+    },
+    {
+      "title": "Man destined for Alzheimer's may have been saved by accidental therapy",
+      "link": "https://www.newscientist.com/article/2524632-man-destined-for-alzheimers-may-have-been-saved-by-accidental-therapy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Doug Whitney has a genetic mutation that means he should have developed Alzheimer’s disease decades ago, but his long-term work in hot engine rooms may have protected him in a simi",
+      "date": "Tue, 05 May 2026 08Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/01123431/SEI_295224202.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-06T14:34:07Z"
+    },
+    {
+      "title": "OpenBind's first data and model release marks a milestone for AI enabled drug discovery",
+      "link": "https://phys.org/news/2026-05-openbind-milestone-ai-enabled-drug.html",
+      "summary": "The UK-led OpenBind initiative has reached a major milestone with the release of its first publicly available dataset and predictive AI model, a groundbreaking step toward accelera",
+      "date": "2026-05-06T11:58:25Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/openbinds-first-data-a.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-06T14:34:08Z"
+    },
+    {
+      "title": "Quantum battery charges in a quadrillionth of a second with a laser — larger prototypes could last for years after charging for just a minute",
+      "link": "https://www.livescience.com/technology/engineering/quantum-battery-charges-in-a-quadrillionth-of-a-second-with-a-laser-larger-prototypes-could-last-for-years-after-charging-for-just-a-minute",
+      "summary": "Quantum batteries can be charged remotely and could allow for far better energy density than conventional batteries used in devices today.",
+      "date": "2026-05-06T14:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/eY4bomvnGbxK7LrAUWrX5L-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-06T14:34:09Z"
+    },
     {
       "title": "Ask a Birder: Why Are Forest Birds So Much More Colorful Than Mediterranean Birds?",
       "link": "https://www.10000birds.com/ask-a-birder-why-are-forest-birds-so-much-more-colorful-than-mediterranean-birds.htm?utm_source=rss&utm_medium=rss&utm_campaign=ask-a-birder-why-are-forest-birds-so-much-more-colorful-than-mediterranean-birds",
@@ -5403,105 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-04-28T20:23:18Z"
-    },
-    {
-      "title": "Stained by Nicotine and Cocoa Powder, These Edvard Munch Paintings Hung in a Chocolate Factory Cafeteria for a Century. Now, They're Going on Public Display for the First Time",
-      "link": "https://www.smithsonianmag.com/smart-news/edvard-munchs-lesser-known-chocolate-factory-friezes-head-to-exhibition-in-norway-180988634/",
-      "summary": "Three decades after \"The Scream,\" the Norwegian artist painted scenes of daily life for the Freia chocolate factory. The artworks will be on display in his namesake museum in Oslo ",
-      "date": "Tue, 28 Apr 2026 18Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/Js4wzGl1d-UXSJiZq65Z2cRRDs4=/420x240/filters:focal(700x347:701x348)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/37/c8/37c8b0a6-9511-4d41-9cf9-f58491a83ab4/girls-watering-flowers.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-28T20:23:18Z"
-    },
-    {
-      "title": "Can ‘extinct’ volcanoes still erupt? A Greek peak holds surprising clues",
-      "link": "https://www.sciencenews.org/article/extinct-volcanoes-erupt",
-      "summary": "Tiny crystals suggest extinct volcanoes could still grow underground, a finding that could reshape how scientists assess eruption risk.",
-      "date": "Tue, 28 Apr 2026 19Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/042726_SW_volcano_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-04-28T20:23:19Z"
-    },
-    {
-      "title": "Zinc–redox crosstalk: A new key to cellular protein quality control",
-      "link": "https://phys.org/news/2026-04-zincredox-crosstalk-key-cellular-protein.html",
-      "summary": "Zinc is an essential trace element that controls myriad biological processes. The delicate balance of its concentration in the body is critical; both deficiency and excess are link",
-      "date": "2026-04-28T20:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/zinc-redox-crosstalk-a.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-28T20:23:22Z"
-    },
-    {
-      "title": "Tiny DNA fragments, big agricultural insights: New genomic approach helps improve crop resilience",
-      "link": "https://phys.org/news/2026-04-tiny-dna-fragments-big-agricultural.html",
-      "summary": "The genes that could help the world's crops survive drought, heat, and disease probably already exist. But much of this genetic diversity remains hidden within ancient plant variet",
-      "date": "2026-04-28T19:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-dna-fragments-big.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-28T20:23:22Z"
-    },
-    {
-      "title": "Light pollution alters food webs along riverbanks, finds study",
-      "link": "https://phys.org/news/2026-04-pollution-food-webs-riverbanks.html",
-      "summary": "Artificial light at night not only alters the landscape, but also profoundly disrupts natural ecosystems. A recent study by the RPTU University Kaiserslautern-Landau shows that lig",
-      "date": "2026-04-28T19:20:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/light-pollution-alters.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-28T20:23:22Z"
-    },
-    {
-      "title": "Why the dawn chorus sounds different from place to place",
-      "link": "https://phys.org/news/2026-04-dawn-chorus.html",
-      "summary": "Each May, nature lovers get out of bed early to experience the seasonal wonder of birds singing, as the sun rises above the horizon to take part in International Dawn Chorus Day.",
-      "date": "2026-04-28T19:00:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dawn.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-28T20:23:22Z"
-    },
-    {
-      "title": "1,900-year-old souvenir cup featuring Hadrian's Wall and Roman forts discovered in Spain",
-      "link": "https://www.livescience.com/archaeology/romans/1-900-year-old-souvenir-cup-featuring-hadrians-wall-and-roman-forts-discovered-in-spain",
-      "summary": "Archaeologists think a broken bronze cup found in Spain was made for a soldier as a memento of his time stationed at Hadrian's Wall in England.",
-      "date": "Tue, 28 Apr 2026 20Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/utyvfJzzRATdvF85nmiwKW-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-28T20:23:23Z"
-    },
-    {
-      "title": "New AI algorithms are 95% better at showing how the universe changes over time",
-      "link": "https://www.livescience.com/space/cosmology/new-ai-algorithms-are-95-percent-better-at-showing-how-the-universe-changes-over-time",
-      "summary": "A squad of new AI algorithms called GAME could help astrophysicists take a more accurate reading of the universe's changing behavior, a new study suggests.",
-      "date": "Tue, 28 Apr 2026 18Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/K8sdTsTEZJVi6KLpDNTVGK-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-28T20:23:23Z"
-    },
-    {
-      "title": "Preeclampsia could be treated with 'blood filtering' therapy, early study hints",
-      "link": "https://www.livescience.com/health/reproductive-health/preeclampsia-could-be-treated-with-blood-filtering-therapy-early-study-hints",
-      "summary": "A blood-filtering therapy for preeclampsia is safe for pregnant patients and their babies, according to a new pilot study.",
-      "date": "Tue, 28 Apr 2026 18Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/78JTQNSrEuAN2WJM6w8sPP-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-28T20:23:23Z"
     }
   ]
 }
