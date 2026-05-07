@@ -1,8 +1,85 @@
 {
-  "updated": "2026-05-07T16:58:39Z",
-  "updated_utc": "2026-05-07T16:58:39Z",
+  "updated": "2026-05-07T18:53:13Z",
+  "updated_utc": "2026-05-07T18:53:13Z",
   "count": 500,
   "stories": [
+    {
+      "title": "If You See Black Mold on Milkweed, This Is What It Means",
+      "link": "https://www.birdsandblooms.com/gardening/gardening-basics/black-sooty-mold/",
+      "summary": "If you see black mold on a milkweed plant, you probably wonder if the plant is diseased or dying. Find out what is causing the this problem. The post If You See Black Mold on Milkw",
+      "date": "Thu, 07 May 2026 17Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/05/GettyImages-2250321154-e1778170644461.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-05-07T18:52:53Z"
+    },
+    {
+      "title": "Sir David Attenborough 'overwhelmed' by 100th birthday greetings – audio",
+      "link": "https://www.theguardian.com/tv-and-radio/video/2026/may/07/sir-david-attenborough-overwhelmed-by-100th-birthday-greetings-audio",
+      "summary": "Sir David Attenborough has released an audio message thanking the public for the flood of goodwill messages sent in the run-up to his 100th birthday. The veteran broadcaster said h",
+      "date": "2026-05-07T18:06:01Z",
+      "image": "https://i.guim.co.uk/img/media/a39166d7dc5cc189ffd9974155a81268b57864f4/355_0_3576_2860/master/3576.jpg?width=140&quality=85&auto=format&fit=max&s=f3427f38390f099e7ce9dd386345070b",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-07T18:52:57Z"
+    },
+    {
+      "title": "A grapefruit-sized quantum device mapped Earth’s magnetic field from space",
+      "link": "https://www.sciencenews.org/article/quantum-earth-magnetic-field-space",
+      "summary": "On the International Space Station, a cube holding a diamond-based sensor revealed the potential for quantum magnetometers.",
+      "date": "Thu, 07 May 2026 17Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/050626_EC_magnometer_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-05-07T18:53:07Z"
+    },
+    {
+      "title": "Trafficked pangolin DNA reveals hotspots of illegal wildlife trade",
+      "link": "https://phys.org/news/2026-05-trafficked-pangolin-dna-reveals-hotspots.html",
+      "summary": "Small samples of DNA can reveal hotspots and trade routes in the illegal wildlife trade, according to a study published in the open-access journal PLOS Biology by Sean Heighton and",
+      "date": "2026-05-07T18:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/trafficked-pangolin-dn-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-07T18:53:09Z"
+    },
+    {
+      "title": "Why plant extinctions may rise by 2100 even if species keep shifting ranges",
+      "link": "https://phys.org/news/2026-05-extinctions-species-shifting-ranges.html",
+      "summary": "No matter how fast a species under threat can move, escape can only be successful if the new destination can meet its needs. An ecological modeling study from the University of Cal",
+      "date": "2026-05-07T18:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-projects-plant-e.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-07T18:53:09Z"
+    },
+    {
+      "title": "Scientists unlock fungi's secret chemistry, offering a greener path to crop protection",
+      "link": "https://phys.org/news/2026-05-scientists-fungi-secret-chemistry-greener.html",
+      "summary": "Pesky pests can wreak havoc on plants by chewing leaves, boring into stems, and sucking sap from trees. Beyond the direct damage, they also spread harmful bacteria, viruses, and fu",
+      "date": "2026-05-07T17:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-are-unlock.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-07T18:53:09Z"
+    },
+    {
+      "title": "Watch NASA's Curiosity rover 'struggle' to remove a rock that got stuck on its robotic arm for nearly a week",
+      "link": "https://www.livescience.com/space/mars/watch-nasas-curiosity-rover-struggle-to-remove-a-rock-that-got-stuck-on-its-robotic-arm-for-nearly-a-week",
+      "summary": "New footage shows NASA's Curiosity rover tilting, rotating and vibrating its robotic arm as mission scientists tried to remove a rock that became stuck on a drill for six days.",
+      "date": "Thu, 07 May 2026 17Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ewSEtvxiKza2JbM65fMm4a-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-07T18:53:10Z"
+    },
     {
       "title": "Birds-of-Paradise Project Sound",
       "link": "https://www.allaboutbirds.org/news/birds-of-paradise-project-sound/",
@@ -5425,83 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-04-30T14:16:23Z"
-    },
-    {
-      "title": "We have figured out a new way to send messages into the past",
-      "link": "https://www.newscientist.com/article/2524371-we-have-figured-out-a-new-way-to-send-messages-into-the-past/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A technique inspired by the film Interstellar suggests a new way of communicating backwards in time, but it could help improve conventional communication systems as well",
-      "date": "Thu, 30 Apr 2026 11Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/29161742/SEI_295121003.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-30T14:16:25Z"
-    },
-    {
-      "title": "Thought-provoking photographs capture what it feels like to have ADHD",
-      "link": "https://www.newscientist.com/article/2523950-thought-provoking-photographs-capture-what-it-feels-like-to-have-adhd/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "These unusual images were created by visual artist Daniel Regan by submerging Polaroid photographs in his ADHD medication, to represent his experiences with the condition through a",
-      "date": "2026-04-29T18:00:07Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/22151817/sei294178721.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-30T14:16:25Z"
-    },
-    {
-      "title": "'The detectors never stopped beeping!' Nearly 3,000 coins discovered in field are Norway's largest Viking hoard on record",
-      "link": "https://www.livescience.com/archaeology/vikings/the-detectors-never-stopped-beeping-nearly-3-000-coins-discovered-in-field-are-norways-largest-viking-hoard-on-record",
-      "summary": "A Viking Age hoard of nearly 3,000 coins is the largest hoard of its kind ever found in Norway.",
-      "date": "Thu, 30 Apr 2026 12Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/KFxtFLGNgALGMQJiNBQGCZ-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-30T14:16:28Z"
-    },
-    {
-      "title": "Photometrics AI Integrates Data from Bird Migration Forecasts to Automatically Dim Streetlights to Protect Birds",
-      "link": "https://www.birds.cornell.edu/home/photometrics-ai-uses-bird-data-to-adjust-streetlights/",
-      "summary": "New lighting system uses BirdCast data to enable real-time lighting adjustments during peak migration periods to reduce bird collisions with buildings.",
-      "date": "Tue, 10 Feb 2026 19Z",
-      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-04-30T14:16:29Z"
-    },
-    {
-      "title": "Scientists Just Mapped the Family Tree of 11,000+ Bird Species—And You Can Explore It",
-      "link": "https://www.birds.cornell.edu/home/scientists-map-interactive-avian-tree-of-life/",
-      "summary": "The new illustrated Birds of the World Phylogeny Explorer by the Cornell Lab of Ornithology lets users trace any bird's lineage, compare species relationships, and explore major ev",
-      "date": "2026-01-28T14:39:09Z",
-      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-04-30T14:16:29Z"
-    },
-    {
-      "title": "Demotivational Posters for Birds (XXIX)",
-      "link": "https://www.10000birds.com/demotivational-posters-for-birds-xxix.htm?utm_source=rss&utm_medium=rss&utm_campaign=demotivational-posters-for-birds-xxix",
-      "summary": "Social interaction is generally considered beneficial, though the evidence is mixed. Birds gather, disperse, and occasionally cooperate, often without clear outcome. Some degree of",
-      "date": "Thu, 30 Apr 2026 11Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/03/Picture4-2.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-04-30T11:44:58Z"
-    },
-    {
-      "title": "Ten Birds That Look Like They Were Designed by a Committee",
-      "link": "https://www.10000birds.com/ten-birds-that-look-like-they-were-designed-by-a-committee.htm?utm_source=rss&utm_medium=rss&utm_campaign=ten-birds-that-look-like-they-were-designed-by-a-committee",
-      "summary": "“The best committee is a committee of three, with two absent,” is a quote commonly attributed to Winston Churchill. Evolution, unfortunately, did not always follow this advice — an",
-      "date": "Thu, 30 Apr 2026 11Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/03/Standardwing_DSC0710_Halmahera-Jul-18-2024.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-04-30T11:44:58Z"
     }
   ]
 }
