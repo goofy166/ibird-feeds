@@ -1,8 +1,162 @@
 {
-  "updated": "2026-05-07T20:20:40Z",
-  "updated_utc": "2026-05-07T20:20:40Z",
+  "updated": "2026-05-07T22:09:42Z",
+  "updated_utc": "2026-05-07T22:09:42Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘Help save Willy’: Rep. Liccardo introduces bill to implement ‘whale desk’ in San Francisco Bay",
+      "link": "https://www.mercurynews.com/2026/04/23/whale-deaths-san-francisco-bay-liccardo/",
+      "summary": "The bill comes in response to a spike in whale deaths in the Bay, which have reached their highest levels since whaling times.",
+      "date": "Thu, 23 Apr 2026 11Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2019/05/SJM-L-WHALE-0507-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-05-07T22:09:31Z"
+    },
+    {
+      "title": "Meet 'Gabi,' the Robot That Just Became a Monk at a Buddhist Temple in South Korea. It’s the Latest Robot to Take Up Religious Practice",
+      "link": "https://www.smithsonianmag.com/smart-news/meet-gabi-the-new-robot-monk-at-a-buddhist-temple-in-south-korea-its-the-latest-robot-to-take-up-religious-practice-180988695/",
+      "summary": "The humanoid promised to obey humans, save energy and treat other robots peacefully. South Korean Buddhist leaders recently have started to embrace artificial intelligence",
+      "date": "Thu, 07 May 2026 21Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/FWWM_pPuP0BINNKeelkhe4ggOWA=/420x240/filters:focal(3793x2529:3794x2530)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fb/ac/fbac2f50-d0d9-4fff-a844-d7e98c6cf9fd/ap_robot_monk.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-07T22:09:34Z"
+    },
+    {
+      "title": "Hantavirus outbreak will not cause a covid-style pandemic, says WHO",
+      "link": "https://www.newscientist.com/article/2525761-hantavirus-outbreak-will-not-cause-a-covid-style-pandemic-says-who/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The World Health Organization sought to quell worldwide fears over the hantavirus outbreak on the cruise ship MV Hondius and reassure the public that the risk of widespread transmi",
+      "date": "Thu, 07 May 2026 17Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/07162741/SEI_296148458.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-07T22:09:37Z"
+    },
+    {
+      "title": "Scientists uncover hidden parasite diversity in barb fish from the Sea of Galilee",
+      "link": "https://phys.org/news/2026-05-scientists-uncover-hidden-parasite-diversity.html",
+      "summary": "When most people think about biodiversity in lakes and rivers, they imagine fish, plants, or perhaps birds and amphibians. But beneath the surface exists another world that often g",
+      "date": "2026-05-07T22:00:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-uncover-hid-7.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-07T22:09:38Z"
+    },
+    {
+      "title": "Pilot whales are already 'shouting' at full volume, but one busy waterway is pushing them to the edge",
+      "link": "https://phys.org/news/2026-05-whales-shouting-full-volume-busy.html",
+      "summary": "With over 60,000 ships passing through the Strait of Gibraltar each year, this stretch between the Atlantic and Mediterranean is one of the busiest waterways on the planet. This na",
+      "date": "2026-05-07T22:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pilot-whale.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-07T22:09:38Z"
+    },
+    {
+      "title": "How soil bacteria help plants defend themselves against disease",
+      "link": "https://phys.org/news/2026-05-soil-bacteria-defend-disease.html",
+      "summary": "A study led by researchers at the University of Liège reveals the mechanism by which surfactin, a molecule produced by beneficial soil bacteria, activates plants' immune defenses. ",
+      "date": "2026-05-07T21:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-soil-bacteria-help.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-07T22:09:38Z"
+    },
+    {
+      "title": "Ultrasound waves rupture COVID-19 and flu viruses without damaging cells",
+      "link": "https://phys.org/news/2026-05-ultrasound-rupture-covid-flu-viruses.html",
+      "summary": "Researchers at the University of São Paulo (USP) in Brazil have discovered that high-frequency ultrasound waves similar to those used in medical exams can eliminate viruses such as",
+      "date": "2026-05-07T21:20:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrasound-waves-ruptu.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-07T22:09:38Z"
+    },
+    {
+      "title": "A targeted 'off switch' in a plant's egg cell speeds up the breeding process",
+      "link": "https://phys.org/news/2026-05-egg-cell.html",
+      "summary": "An international research team led by the IPK Leibniz Institute has succeeded in generating haploids in the model plant Arabidopsis thaliana very efficiently. This process involves",
+      "date": "2026-05-07T21:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-targeted-off-switch.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-07T22:09:38Z"
+    },
+    {
+      "title": "Gaming monkeys' curiosity: Japanese macaques actively explore moderately uncertain stimuli",
+      "link": "https://phys.org/news/2026-05-gaming-monkeys-curiosity-japanese-macaques.html",
+      "summary": "The intrinsic information-seeking impulse we call curiosity is independent of extrinsic rewards, such as food or mating opportunities. Curiosity is purely the pursuit of understand",
+      "date": "2026-05-07T20:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gaming-monkeys-curiosi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-07T22:09:38Z"
+    },
+    {
+      "title": "A Cattle Farm in Alabama Draws Birders for a Spectacle of Kites",
+      "link": "https://www.birds.cornell.edu/home/a-cattle-farm-in-alabama-draws-birders-for-a-spectacle-of-kites/",
+      "summary": "",
+      "date": "Tue, 24 Mar 2026 13Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Firefly_in_the_night.jpg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-05-07T22:09:40Z"
+    },
+    {
+      "title": "Tracking the Very Large, Very Elusive Star of Papua’s Forests: the Northern Cassowary",
+      "link": "https://www.birds.cornell.edu/home/tracking-the-very-large-very-elusive-star-of-papuas-forests-the-northern-cassowary/",
+      "summary": "",
+      "date": "Tue, 24 Mar 2026 13Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Apis_mellifera_flying.jpg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-05-07T22:09:40Z"
+    },
+    {
+      "title": "Study reveals new technique to identify individual night-flying birds for the first time",
+      "link": "https://www.birds.cornell.edu/home/new-tech-to-id-night-migrating-birds/",
+      "summary": "Using thermal imaging and digital photography, researchers can now spot and identify birds that migrate silently through the night sky—a method that could reveal new insights into ",
+      "date": "2026-03-06T15:33:00Z",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-05-07T22:09:40Z"
+    },
+    {
+      "title": "Academic Books, Book Chapters And Papers In Conference Proceedings",
+      "link": "https://www.birds.cornell.edu/home/academic-books-book-chapters-and-papers-in-conference-proceedings/",
+      "summary": "Books Dhondt AA. 2012. Interspecific competition in birds. Oxford University Press. Clobert J, E Danchin, AA Dhondt, and J Nichols (eds). 2001. Dispersal. Oxford University Press. ",
+      "date": "Thu, 19 Feb 2026 16Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Common_European_Bumblebee.jpg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-05-07T22:09:40Z"
+    },
+    {
+      "title": "New Research Forecasts the Impacts of Fire on Birds",
+      "link": "https://www.birds.cornell.edu/home/forecasting-impacts-of-fire-on-birds/",
+      "summary": "Where will severe fires threaten the most birds in the future? New research identifies where future high-severity fires threaten biodiversity hotspots in the western United States",
+      "date": "2026-02-18T18:17:27Z",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-05-07T22:09:40Z"
+    },
     {
       "title": "The Best Butterfly Plants for Shade Gardens",
       "link": "https://www.birdsandblooms.com/gardening/attracting-butterflies/butterfly-plants-shade/",
@@ -5348,160 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-04-30T16:25:40Z"
-    },
-    {
-      "title": "Western US wildfires less frequent but more massive",
-      "link": "https://earthsky.org/earth/western-us-wildfires-less-frequent-more-massive/",
-      "summary": "A look at western US wildfires over the past 30 years shows they are becoming less frequent, but fires that pop up are also larger and more damaging. The post Western US wildfires ",
-      "date": "Thu, 30 Apr 2026 15Z",
-      "image": "https://earthsky.org/upl/2026/04/photo-on-CA-coast-Jan-2025-CAL-Fire.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-30T16:25:46Z"
-    },
-    {
-      "title": "Forget National Parks, Geoparks Are the Most Underrated Hiking Spots on Earth.",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/why-unesco-global-geoparks-belong-on-everyones-to-hike-list/",
-      "summary": "While national parks often separate people from the land, UNESCO Global Geoparks celebrate the relationship between human culture and the earth’s rarest geological phenomena. Here'",
-      "date": "Thu, 30 Apr 2026 14Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/GettyImages-1007858284.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-30T16:25:51Z"
-    },
-    {
-      "title": "Researchers Discovered a Lost Copy of the Oldest English Poem, Composed by an Illiterate Cowherd More Than 1,300 Years Ago",
-      "link": "https://www.smithsonianmag.com/smart-news/researchers-discovered-a-lost-copy-of-the-oldest-english-poem-composed-by-an-illiterate-cowherd-more-than-1300-years-ago-180988644/",
-      "summary": "This version of \"Caedmon’s Hymn\" shows how Old English evolved. It also features early use of a punctuation mark that readers of English take for granted today—the period—but not i",
-      "date": "Thu, 30 Apr 2026 15Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/16KpATQwcmGJqpb_05YbOKQGoq8=/420x240/filters:focal(700x473:701x474)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/58/6e/586e3da3-218d-4646-a79f-793985fefe2d/urn_cambridgeorg_id_binary-alt_20260421095508-78443-optimisedimage-png-s3033367925100127_fig1.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-30T16:25:53Z"
-    },
-    {
-      "title": "This Man Fled Pompeii as Mount Vesuvius Erupted. Archaeologists Found Him 2,000 Years Later, Holding a Bowl to Protect His Head and a Lamp to Light His Way",
-      "link": "https://www.smithsonianmag.com/smart-news/this-man-fled-pompeii-as-mount-vesuvius-erupted-archaeologists-found-him-2000-years-later-holding-a-bowl-to-protect-his-head-and-a-lamp-to-light-his-way-180988647/",
-      "summary": "Recent excavations revealed two skeletons just outside the ancient city's walls. Researchers also created an A.I.-generated reconstruction of one of the victim's harrowing final mo",
-      "date": "Thu, 30 Apr 2026 15Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/7nzg6akWDrhltR3Xk9x_Qje_Tn4=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5b/c2/5bc22219-6374-4fbe-a242-dc668eb479b8/skeleton.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-30T16:25:53Z"
-    },
-    {
-      "title": "Doubts cast over 'wild' claim that magnetic control can turn on genes",
-      "link": "https://www.newscientist.com/article/2524432-doubts-cast-over-wild-claim-that-magnetic-control-can-turn-on-genes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Researchers in South Korea say they have made a major advance by turning on genes with an electromagnetic signal, but critics say the claims are implausible and the paper is flawed",
-      "date": "Thu, 30 Apr 2026 13Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/29112522/SEI_294981319.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-30T16:25:55Z"
-    },
-    {
-      "title": "The best new science fiction books of May 2026",
-      "link": "https://www.newscientist.com/article/2524887-the-best-new-science-fiction-books-of-may-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "New science fiction from big names including Ann Leckie, Alan Moore and Martha Wells are just some of the exciting crop of titles out this month",
-      "date": "Thu, 30 Apr 2026 13Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/30101226/sei295127048.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-30T16:25:55Z"
-    },
-    {
-      "title": "The rich but complicated legacy of genome pioneer Craig Venter",
-      "link": "https://www.newscientist.com/article/2524928-the-rich-but-complicated-legacy-of-genome-pioneer-craig-venter/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Craig Venter has died aged 79. He was at the forefront of sequencing the human genome and of synthetic biology, but divided opinion in how he went about it",
-      "date": "Thu, 30 Apr 2026 12Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/30114801/SEI_295220527.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-30T16:25:55Z"
-    },
-    {
-      "title": "Biomarkers help crack the code on saving more equine lives",
-      "link": "https://phys.org/news/2026-04-biomarkers-code-equine.html",
-      "summary": "In human and animal medicine, biomarkers are used in several ways, including to diagnose, predict, or monitor health issues. Human health care consumers are familiar with biomarker",
-      "date": "2026-04-30T15:40:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/biomarkers-help-crack.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-30T16:25:57Z"
-    },
-    {
-      "title": "A hidden food boom across Central Africa is pushing wildlife and rural diets toward a precarious edge",
-      "link": "https://phys.org/news/2026-04-hidden-food-boom-central-africa.html",
-      "summary": "The total annual biomass of wild meat consumed across Central Africa has increased from an estimated 0.73 million metric tons in 2000 to 1.10 million metric tons in 2022. This incr",
-      "date": "2026-04-30T15:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/more-people-are-eating.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-30T16:25:57Z"
-    },
-    {
-      "title": "Captured mid-reaction, RNA polymerase reveals universal blueprint for gene transcription",
-      "link": "https://phys.org/news/2026-04-captured-mid-reaction-rna-polymerase.html",
-      "summary": "The enzyme RNA polymerase (RNAP) carries out transcription, copying DNA into RNA. It's the first step in gene expression, and a process fundamental to all life. But the inner worki",
-      "date": "2026-04-30T15:00:17Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/rna.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-30T16:25:57Z"
-    },
-    {
-      "title": "Water molecules found to actively drive gene transcription process",
-      "link": "https://phys.org/news/2026-04-molecules-gene-transcription.html",
-      "summary": "Researchers have uncovered a previously hidden layer of complexity in how genes are activated, showing that water molecules play a direct and essential role in one of the most fund",
-      "date": "2026-04-30T15:00:14Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-alert-water-m.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-30T16:25:57Z"
-    },
-    {
-      "title": "How mass extinctions helped termites become essential engineers of today's tropical ecosystems",
-      "link": "https://phys.org/news/2026-04-mass-extinctions-termites-essential-today.html",
-      "summary": "Tropical ecosystems rely on the infrastructure provided by termites. These insects supply plants with vital nutrients by breaking down organic waste, bringing water to the roots by",
-      "date": "2026-04-30T15:00:11Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/innovation-and-ecologi.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-30T16:25:57Z"
-    },
-    {
-      "title": "Hidden in the headlines: New study uses local news to assess wildlife poaching in Romania",
-      "link": "https://phys.org/news/2026-04-hidden-headlines-local-news-wildlife.html",
-      "summary": "Graceful, brown-eyed, and a staple of local folklore, the roe deer is one of Romania's most iconic forest dwellers. But behind the serene image of these animals lies a hidden crisi",
-      "date": "2026-04-30T14:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-in-the-headline-3.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-30T16:25:57Z"
-    },
-    {
-      "title": "A silent robot shadows sperm whales by listening to their clicks",
-      "link": "https://phys.org/news/2026-04-silent-robot-shadows-sperm-whales.html",
-      "summary": "An autonomous underwater glider is giving us a new and effective way to track sperm whales by tuning into their clicks and silently following them. To study these large oceanic pre",
-      "date": "2026-04-30T14:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-autonomous-underwat.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-30T16:25:57Z"
     }
   ]
 }
