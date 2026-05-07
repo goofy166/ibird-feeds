@@ -1,8 +1,162 @@
 {
-  "updated": "2026-05-07T14:35:43Z",
-  "updated_utc": "2026-05-07T14:35:43Z",
+  "updated": "2026-05-07T16:58:39Z",
+  "updated_utc": "2026-05-07T16:58:39Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Birds-of-Paradise Project Sound",
+      "link": "https://www.allaboutbirds.org/news/birds-of-paradise-project-sound/",
+      "summary": "",
+      "date": "Tue, 07 Apr 2026 16Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Goldfinch_on_a_branch.jpg",
+      "name": "All About Birds",
+      "category": "birds",
+      "color": 3,
+      "fetched_at": "2026-05-07T16:58:21Z"
+    },
+    {
+      "title": "Top-tier fun can be had on the buses | Brief letters",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/may/07/top-tier-fun-can-be-had-on-the-buses",
+      "summary": "Ways to enjoy life | Butterfly sightings | Cutting speed limits | Bad actors | Rejecting the ‘old age’ label At nearly 75, I have to sit on the front seat at the top of the bus lik",
+      "date": "2026-05-07T16:31:12Z",
+      "image": "https://i.guim.co.uk/img/media/b23a9c7389e7e3f2034568de851f7e68e33a09b2/0_573_2437_1949/master/2437.jpg?width=140&quality=85&auto=format&fit=max&s=660ace6d73e367a7b1d3f873fc9181af",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-07T16:58:24Z"
+    },
+    {
+      "title": "Dean Karnazes Is Still Running Big Miles at Age 63. Here’s How He Does It.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/dean-karnazes-interview/",
+      "summary": "Dean Karnazes discusses the backstory of his 50/50/50 stunt, what ultrarunning looked like in the nineties, and the attitude that keeps him logging big miles in his sixties. The po",
+      "date": "Thu, 07 May 2026 14Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/dean-karnazes-cliff.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-07T16:58:30Z"
+    },
+    {
+      "title": "FDA-Approved At-Home Brain Stimulation Device Aims to Treat Depression by Changing Patients’ Brain Excitability",
+      "link": "https://www.smithsonianmag.com/smart-news/fda-approved-at-home-brain-stimulation-device-aims-to-treat-depression-by-changing-patients-brain-excitability-180988654/",
+      "summary": "The treatment consists of a Bluetooth headset that patients can connect to an app on their smartphones. It could mark a revolution in mental health medicine",
+      "date": "Thu, 07 May 2026 16Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/Sf58eMGUyKU8AkYvw5IbF5Ajv2g=/420x240/filters:focal(1024x527:1025x528)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c8/d6/c8d6699e-0188-4ee6-a654-f236f2780443/641631361_1226154729692759_7280491192302152950_n.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-07T16:58:32Z"
+    },
+    {
+      "title": "Chonkers the Massive Sea Lion Drew Crowds to San Francisco's Famed Pier 39. Then, a New Chunky Showstopper Stole His Identity",
+      "link": "https://www.smithsonianmag.com/smart-news/chonkers-the-massive-sea-lion-drew-crowds-to-san-franciscos-famed-pier-39-then-a-new-chunky-showstopper-stole-his-identity-180988691/",
+      "summary": "The Steller sea lion was an unusual visitor to the pier, which usually hosts smaller California sea lions. However, he may have moved on days ago, during which a humongous member o",
+      "date": "Thu, 07 May 2026 16Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/R9TD4mEoUD48dmsdHmJKHuSDvUE=/420x240/filters:focal(1500x1000:1501x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f4/7d/f47d0d63-560a-41fd-be7e-6aa65009bf34/chonkers-real.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-07T16:58:32Z"
+    },
+    {
+      "title": "25 people learned to fly with virtual wings. Here’s how the brain changed",
+      "link": "https://www.sciencenews.org/article/virtual-wings-brain-changes",
+      "summary": "A new study shows learning to fly in virtual reality with virtual wings can reshape the brain, making it treat wings more like body parts.",
+      "date": "Thu, 07 May 2026 15Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/041326_TH_virtualflying_social2.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-05-07T16:58:33Z"
+    },
+    {
+      "title": "Coffee's mood-boosting effects aren't just down to caffeine",
+      "link": "https://www.newscientist.com/article/2525685-coffees-mood-boosting-effects-arent-just-down-to-caffeine/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A comprehensive study exploring coffee’s physiological effects finds that some of its benefits are down to polyphenols and their influence on gut bacteria",
+      "date": "Thu, 07 May 2026 16Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/07110510/SEI_296013396.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-07T16:58:34Z"
+    },
+    {
+      "title": "Where has the deadly hantavirus come from and how does it spread?",
+      "link": "https://www.newscientist.com/article/2525328-where-has-the-deadly-hantavirus-come-from-and-how-does-it-spread/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Three passengers on the cruise ship MV Hondius have died due to an outbreak of hantavirus, a rare illness transmitted by rodents",
+      "date": "Tue, 05 May 2026 14Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/05124254/SEI_295910206.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-07T16:58:34Z"
+    },
+    {
+      "title": "How cells 'back up' DNA replication to survive severe damage",
+      "link": "https://phys.org/news/2026-05-cells-dna-replication-survive-severe.html",
+      "summary": "Every time a cell divides, it must copy its DNA with extraordinary precision. But this process is constantly challenged by DNA damage. Among the most dangerous lesions are DNA inte",
+      "date": "2026-05-07T16:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-reveal-how-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-07T16:58:35Z"
+    },
+    {
+      "title": "How evolution sculpts the facial shapes of birds and mammals",
+      "link": "https://phys.org/news/2026-05-evolution-sculpts-facial-birds-mammals.html",
+      "summary": "Shapes of beaks and snouts come in an extraordinary range of forms, reflecting adaptations to different lifestyles and environments. Yet beneath this diversity lies a paradox: acro",
+      "date": "2026-05-07T16:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-evolution-sculpts.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-07T16:58:35Z"
+    },
+    {
+      "title": "Ancient sea fossils indicate millipede and centipede ancestors evolved their legs while still underwater",
+      "link": "https://phys.org/news/2026-05-ancient-sea-fossils-millipede-centipede.html",
+      "summary": "The myriapoda group of arthropods includes the many-legged centipedes and millipedes that most people are familiar with. Although myriapods are all terrestrial creatures, researche",
+      "date": "2026-05-07T14:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-fossils-indica-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-07T16:58:35Z"
+    },
+    {
+      "title": "Gold sword scabbard discovered under toppled tree in Norway was likely 'sacrificed' by an elite warrior 1,500 years ago",
+      "link": "https://www.livescience.com/archaeology/gold-sword-scabbard-discovered-under-toppled-tree-in-norway-was-likely-sacrificed-by-an-elite-warrior-1-500-years-ago",
+      "summary": "A hiker poked into a hole in the ground and discovered a rare gold scabbard ornament from Norway's Migration period.",
+      "date": "Thu, 07 May 2026 16Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/z2BaQ5udLWfqHJGhfnTryE-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-07T16:58:36Z"
+    },
+    {
+      "title": "More doomed Franklin expedition sailors identified, revealing clues about how they tried to find safety",
+      "link": "https://www.livescience.com/archaeology/more-doomed-franklin-expedition-sailors-identified-revealing-clues-about-how-they-tried-to-find-safety",
+      "summary": "DNA from living descendants of relatives have allowed four members of the ill-fated Franklin expedition to be identified.",
+      "date": "Thu, 07 May 2026 15Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/GNUB2CAPcnsMgzK8kfsqCH-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-07T16:58:36Z"
+    },
+    {
+      "title": "Hantavirus cruise LIVE: Five confirmed cases of linked to cruise ship outbreak, according to WHO briefing",
+      "link": "https://www.livescience.com/health/live/hantivirus-cruise-thursday-may-7",
+      "summary": "Thursday, May 7, 2026: The latest news and updates on the hantavirus cluster associated with the MV Hondius. The cruise ship is on course to arrive in Spain on Saturday while healt",
+      "date": "Thu, 07 May 2026 15Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/GtHwhTNNbhiRJd2ewTjuAh-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-07T16:58:36Z"
+    },
     {
       "title": "8 Garden Caterpillars That You Should Never Kill",
       "link": "https://www.birdsandblooms.com/gardening/garden-bugs/garden-caterpillars/",
@@ -5348,160 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-04-30T11:44:58Z"
-    },
-    {
-      "title": "Protecting lions and people: the biologist dedicated to tackling human-wildlife conflict",
-      "link": "https://www.theguardian.com/environment/2026/apr/30/lion-wild-animals-livestock-moreangels-mbizah-human-wildlife-conflict-aoe",
-      "summary": "Moreangels Mbizah has blazed a trail in Zimbabwe as the first black African woman to found a conservation organisation in the country The turning point for Moreangels Mbizah came i",
-      "date": "2026-04-30T10:00:14Z",
-      "image": "https://i.guim.co.uk/img/media/3a3c38235fa85ded36d7be4a4c5da74d12b65688/0_7_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=38b6eab9b3232f89fe03c85a40b3a1c5",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-30T11:45:03Z"
-    },
-    {
-      "title": "Falcon rocket will hit the moon on August 5",
-      "link": "https://earthsky.org/space/falcon-rocket-will-hit-the-moon-august-5/",
-      "summary": "A Falcon 9 rocket will hit the moon on August 5, 2026. How fast will it be going? Will we be able to see it? Answers and more here. The post Falcon rocket will hit the moon on Augu",
-      "date": "Thu, 30 Apr 2026 11Z",
-      "image": "https://earthsky.org/upl/2026/04/Falcon-9-impact-with-moon-Aug-5-2026-Bill-Gray.png",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-30T11:45:05Z"
-    },
-    {
-      "title": "5 amazing places to see migrating birds in spring",
-      "link": "https://earthsky.org/earth/5-amazing-places-to-see-migrating-birds-in-spring/",
-      "summary": "Birding during spring migration season can be particularly rewarding. Here are 5 amazing places to see migrating birds this spring. The post 5 amazing places to see migrating birds",
-      "date": "Thu, 30 Apr 2026 11Z",
-      "image": "https://earthsky.org/upl/2026/04/usfws-sandhill-cranes-descend-large-800px.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-30T11:45:05Z"
-    },
-    {
-      "title": "Universal Design Is Quietly Becoming the Future of Outdoor Gear",
-      "link": "https://www.outsideonline.com/outdoor-gear/camping/universal-design-outdoor-gear-trends/",
-      "summary": "Explore the latest trend in universal design and adaptive outdoor gear from top brands like The North Face, Nike, and Adidas. The post Universal Design Is Quietly Becoming the Futu",
-      "date": "Thu, 30 Apr 2026 09Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/IMG_3046.MOV.00_03_47_38.Still002.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-30T11:45:10Z"
-    },
-    {
-      "title": "Is an AI version of Mark Zuckerberg – or any boss – a good plan?",
-      "link": "https://www.newscientist.com/article/mg27035932-100-is-an-ai-version-of-mark-zuckerberg-or-any-boss-a-good-plan/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Feedback has learned that, according to reports, Meta is building an AI version of Mark Zuckerberg to interact with staff. Feedback hopes this doesn't become a trend",
-      "date": "2026-04-29T18:00:00Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/28112931/SEI_294981848.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-04-30T11:45:14Z"
-    },
-    {
-      "title": "Assessing the impact of drones on whale sharks",
-      "link": "https://phys.org/news/2026-04-impact-drones-whale-sharks.html",
-      "summary": "In recent years, using drones for wildlife research has proven to be a valuable tool in collecting data for population surveys, observing behavior and measuring animals' physical d",
-      "date": "2026-04-30T11:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/assessing-the-impact-o.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-30T11:45:15Z"
-    },
-    {
-      "title": "Replacing nitrogen with organic fertilizer found to improve soil and crops",
-      "link": "https://phys.org/news/2026-04-nitrogen-fertilizer-soil-crops.html",
-      "summary": "A new collaborative study from The University of Western Australia has found that partially replacing synthetic nitrogen fertilizer with low amounts of organic components can impro",
-      "date": "2026-04-30T11:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/fertilizer.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-30T11:45:15Z"
-    },
-    {
-      "title": "ZWO Seestar S30 Pro smart telescope review",
-      "link": "https://www.livescience.com/products/optics/zwo-seestar-s30-pro-smart-telescope-review",
-      "summary": "This portable smart telescope makes capturing deep-sky images from a backyard easy, but it’s the telelscope’s advanced features that truly impress.",
-      "date": "Thu, 30 Apr 2026 11Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/GYifVNmT7SZC5XYgP29ECC-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-30T11:45:17Z"
-    },
-    {
-      "title": "'Two lives hang in the balance': Risky surgery in the womb saved baby from deadly disorder at just 25 weeks gestation",
-      "link": "https://www.livescience.com/health/reproductive-health/two-lives-hang-in-the-balance-risky-surgery-in-the-womb-saved-baby-from-deadly-disorder-at-just-25-weeks-gestation",
-      "summary": "To save a baby with a rare lung disorder, doctors performed a surgery while he remained half-in and half-out of the womb.",
-      "date": "Thu, 30 Apr 2026 11Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/cdDvHehwBjvUwdEAmFfeA4-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-30T11:45:17Z"
-    },
-    {
-      "title": "Google AI breakthrough means chatbots use six times less memory during conversations without compromising performance",
-      "link": "https://www.livescience.com/technology/artificial-intelligence/google-ai-breakthrough-means-chatbots-use-six-times-less-memory-during-conversations-without-compromising-performance",
-      "summary": "A compression algorithm like TurboQuant turns the data in the AI's working memory into a smaller, more efficient form.",
-      "date": "Thu, 30 Apr 2026 10Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/SVVW2qwa8repmGd9JkHppi-1280-80.gif",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-30T11:45:17Z"
-    },
-    {
-      "title": "Hercules is between 2 bright stars: Vega and Arcturus",
-      "link": "https://earthsky.org/tonight/two-stars-lead-to-constellation-hercules/",
-      "summary": "The bright stars Arcturus and Vega can help you find the constellation Hercules and its Keystone asterism. Hercules is home to 2 fabulous globular clusters. The post Hercules is be",
-      "date": "Thu, 30 Apr 2026 09Z",
-      "image": "https://earthsky.org/upl/2019/04/constellation-hercules-between-vega-and-arcturus.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-04-30T09:21:25Z"
-    },
-    {
-      "title": "3 Strength Exercises to Prevent Muscle Loss on GLP-1s",
-      "link": "https://www.outsideonline.com/health/training-performance/exercises-prevent-glp1-muscle-loss/",
-      "summary": "A weight management doctor and exercise physiologist share three strength exercises to prevent GLP-1 muscle loss. The post 3 Strength Exercises to Prevent Muscle Loss on GLP-1s app",
-      "date": "Thu, 30 Apr 2026 09Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/exercises-prevent-muscle-loss-glp1s.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-30T09:21:30Z"
-    },
-    {
-      "title": "Buried in soil, a 100-million-year-old bacterial toxin could reshape pest control and antibiotic discovery",
-      "link": "https://phys.org/news/2026-04-soil-million-year-bacterial-toxin.html",
-      "summary": "In every backyard, park, and playground on Earth, the ground is teeming with a type of bacteria called Streptomyces—one of the most abundant organisms on the planet. While these di",
-      "date": "2026-04-30T09:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/agriculture-soil.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-30T09:21:35Z"
-    },
-    {
-      "title": "RSPB cautiously welcomes slight increase in UK nightingale population",
-      "link": "https://www.theguardian.com/environment/2026/apr/30/rspb-cautiously-welcomes-slight-increase-in-uk-nightingale-population",
-      "summary": "Elusive nightingale ‘doing well’ at Northward Hill, Kent, but experts cite concerns around loss of habitat The dawn chorus at RSPB Northward Hill in Kent is a riot of sound: the me",
-      "date": "2026-04-30T05:00:08Z",
-      "image": "https://i.guim.co.uk/img/media/a1848d80fa5cf928483d1cfe979d39db470368e2/520_0_5468_4375/master/5468.jpg?width=140&quality=85&auto=format&fit=max&s=c9b3f84f5b5321397705cbc7f61f3537",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-04-30T06:33:24Z"
     }
   ]
 }
