@@ -1,8 +1,107 @@
 {
-  "updated": "2026-05-07T06:45:51Z",
-  "updated_utc": "2026-05-07T06:45:51Z",
+  "updated": "2026-05-07T09:41:31Z",
+  "updated_utc": "2026-05-07T09:41:31Z",
   "count": 500,
   "stories": [
+    {
+      "title": "For Earth Day, Berkeley is showing a Wild & Scenic Film Festival",
+      "link": "https://www.mercurynews.com/2026/04/22/for-earth-day-berkeley-is-showing-a-wild-scenic-film-festival/",
+      "summary": "The lineup of short movies deals with California honeybees, mountain biking and edible-plant foraging.",
+      "date": "2026-04-22T14:30:00Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SJM-L-GOODTIMES-0422-03.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-05-07T09:41:20Z"
+    },
+    {
+      "title": "Is There a Good Way to Visit Our National Parks in 2026? It’s Complicated.",
+      "link": "https://www.outsideonline.com/adventure-travel/national-parks/national-park-overcrowding-funding-dilemma-2026/",
+      "summary": "The same record-breaking crowds that are ruining the experience at places like Yellowstone and Yosemite may be the only thing keeping them protected from budget cuts and developmen",
+      "date": "Thu, 07 May 2026 09Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/GettyImages-2232927983.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-07T09:41:21Z"
+    },
+    {
+      "title": "From War Rations to the Ultimate Outdoor Adventure Food Hack—Sardines Are Making a Comeback",
+      "link": "https://www.outsideonline.com/health/nutrition/sardines-trending-outdoor-snack/",
+      "summary": "Once a wartime necessity, sardines are now a wellness trend. A longevity expert and a dietitian explain why they're the best adventure food. The post From War Rations to the Ultima",
+      "date": "Thu, 07 May 2026 09Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/sardines-health-history-outdoors.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-07T09:41:21Z"
+    },
+    {
+      "title": "What to read this week: the excellent Beyond Belief by Helen Pearson",
+      "link": "https://www.newscientist.com/article/mg27035940-700-what-to-read-this-week-the-excellent-beyond-belief-by-helen-pearson/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Solving society's problems with evidence is a work in progress, argues a must-read new book. The process is surprisingly new – and riddled with complexities, finds Michael Marshall",
+      "date": "2026-05-06T18:00:00Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/01094055/SEI_295000159.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-07T09:41:25Z"
+    },
+    {
+      "title": "Less nostalgia, more pain: scientists study 1763 Eurovision songs",
+      "link": "https://www.newscientist.com/article/mg27035941-100-less-nostalgia-more-pain-scientists-study-1763-eurovision-songs/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Feedback discovers that the prevailing themes of Eurovision songs may come and go, but the urge to win stays the same.",
+      "date": "2026-05-06T18:00:00Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/05134800/SEI_295919559.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-07T09:41:25Z"
+    },
+    {
+      "title": "What to read this week: The 21st Century Brain by Hannah Critchlow",
+      "link": "https://www.newscientist.com/article/mg27035930-200-what-to-read-this-week-the-21st-century-brain-by-hannah-critchlow/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Our brains need to adapt quickly to meet the challenges of our digital world, but a rigorous new book by a neuroscientist brings hope that we can do it, says Graham Lawton",
+      "date": "2026-04-29T18:00:00Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/24151201/SEI_294030818.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-07T09:41:25Z"
+    },
+    {
+      "title": "Pressure from individual particles measured for the first time",
+      "link": "https://www.newscientist.com/article/2525386-pressure-from-individual-particles-measured-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A device made using a tiny bead floating in a beam of light can measure extremely small pressures and could help find a mysterious kind of neutrino",
+      "date": "Thu, 07 May 2026 07Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/06163247/SEI_2960232631.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-07T09:41:25Z"
+    },
+    {
+      "title": "Troubled waters: Jakarta battles deadly, invasive suckerfish",
+      "link": "https://phys.org/news/2026-05-jakarta-deadly-invasive-suckerfish.html",
+      "summary": "Mounds of slimy carcasses pile up on a riverbank in Jakarta where authorities are fighting an uphill battle against a fast-breeding invasive fish flourishing in Java island's heavi",
+      "date": "2026-05-07T07:44:26Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/he-sapu-sapu-are-caugh.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-07T09:41:27Z"
+    },
+    {
+      "title": "New water battery could last until the 24th century — and it can be safely discarded in the environment",
+      "link": "https://www.livescience.com/technology/engineering/new-water-battery-could-last-until-the-24th-century-and-it-can-be-safely-discarded-in-the-environment",
+      "summary": "With no toxic elements to dispose of, the new aqueous battery design could dramatically improve the safety and longevity of battery energy-storage systems.",
+      "date": "Thu, 07 May 2026 08Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/NxWc8jRvBsvJdxMB9v38Pi-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-07T09:41:28Z"
+    },
     {
       "title": "Birds of New York: Top 20 with Pictures",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/birds-of-new-york-top-20-with-pictures/",
@@ -5403,105 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-04-29T19:46:38Z"
-    },
-    {
-      "title": "AI drug target platform pairs prediction with benchmarking to improve early discovery",
-      "link": "https://phys.org/news/2026-04-ai-drug-platform-pairs-benchmarking.html",
-      "summary": "Insilico Medicine, a clinical-stage biotechnology company powered by generative artificial intelligence (AI), today announced advancements to its unified AI framework for drug targ",
-      "date": "2026-04-29T19:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-driven-target-disco.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-29T19:46:39Z"
-    },
-    {
-      "title": "Puerto Rico's forests recovered in unexpected ways post-Hurricane Maria, research finds",
-      "link": "https://phys.org/news/2026-04-puerto-rico-forests-recovered-unexpected.html",
-      "summary": "When Hurricane Maria made its ferocious landfall on the U.S. territory of Puerto Rico in September 2017, the loss extended beyond several thousand human lives: The damage to the is",
-      "date": "2026-04-29T19:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/puerto-ricos-forests-r-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-29T19:46:39Z"
-    },
-    {
-      "title": "Revolving doors and efficient engines: How proteins escape a molecular tangle",
-      "link": "https://phys.org/news/2026-04-revolving-doors-efficient-proteins-molecular.html",
-      "summary": "Trying to untangle a knot in a mess of strings can be frustrating and time-consuming. But not so for molecular machines—molecules that convert chemical energy into mechanical work ",
-      "date": "2026-04-29T19:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/revolving-doors-and-ef-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-29T19:46:39Z"
-    },
-    {
-      "title": "Online game uncovers why tiger stripes work best in sunshine and tall grass",
-      "link": "https://phys.org/news/2026-04-online-game-uncovers-tiger-stripes.html",
-      "summary": "Scientists have used an online game to discover the secrets of animal camouflage—such as why tigers have stripes. The study, by the universities of Exeter and Bristol, reveals that",
-      "date": "2026-04-29T18:00:15Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/online-game-reveals-se-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-29T19:46:39Z"
-    },
-    {
-      "title": "English farmers increased their sustainability between 2010 and 2021, new study reports",
-      "link": "https://phys.org/news/2026-04-english-farmers-sustainability.html",
-      "summary": "English farmers shrank their environmental footprint between 2010 and 2021, with decreases in several key areas, including greenhouse gas emissions, fertilizer overuse and cattle p",
-      "date": "2026-04-29T18:00:13Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/english-farmers-increa.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-29T19:46:39Z"
-    },
-    {
-      "title": "Environmental DNA in NYC's East River reveals clues about nearby human and animal residents",
-      "link": "https://phys.org/news/2026-04-environmental-dna-nyc-east-river.html",
-      "summary": "Sequencing environmental DNA—or eDNA—from the East River in New York City can effectively monitor human diets and local wildlife, as well as the river's fish populations, report Ma",
-      "date": "2026-04-29T18:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/environmental-dna-in-n.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-29T19:46:39Z"
-    },
-    {
-      "title": "Early data links Wegovy to risk of 'eye stroke' — here's what to know",
-      "link": "https://www.livescience.com/health/medicine-drugs/early-data-links-wegovy-to-risk-of-eye-stroke-heres-what-to-know",
-      "summary": "A rare form of vision loss has been linked to certain GLP-1s, but more so to Wegovy than to other weight-loss drugs in this class. Should you worry?",
-      "date": "2026-04-29T19:15:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/C4sCAEWgTVh6zktLbDF876-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-29T19:46:40Z"
-    },
-    {
-      "title": "'We can no longer ignore diseases in the deep human past': Malaria influenced early humans' migrations across Africa, study suggests",
-      "link": "https://www.livescience.com/archaeology/human-evolution/we-can-no-longer-ignore-diseases-in-the-deep-human-past-malaria-influenced-early-humans-migrations-across-africa-study-suggests",
-      "summary": "Prehistoric humans in Africa may have avoided areas infested with malaria-spreading mosquitoes, a new study suggests.",
-      "date": "2026-04-29T18:41:23Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/eVXZsuWZxPnDEJZA5E7vnJ-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-04-29T19:46:40Z"
-    },
-    {
-      "title": "How to Use BirdCast Maps and Dashboard to See Your Local Migration in Detail",
-      "link": "https://www.allaboutbirds.org/news/heres-how-to-use-the-new-migration-forecast-tools-from-birdcast/",
-      "summary": "Updated April 2026. Originally published online April 2018 and printed in the Spring 2019 issue of Living Bird magazine. Subscribe now. Migration is the best time to be a birdwatch",
-      "date": "2026-04-15T09:11:00Z",
-      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2022/04/Birdcast-banner1.png",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-04-29T17:44:21Z"
     }
   ]
 }
