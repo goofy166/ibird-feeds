@@ -1,8 +1,96 @@
 {
-  "updated": "2026-05-08T16:25:20Z",
-  "updated_utc": "2026-05-08T16:25:20Z",
+  "updated": "2026-05-08T18:16:09Z",
+  "updated_utc": "2026-05-08T18:16:09Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Chonkers is the huge, cuddle-seeking celebrity that San Francisco craves",
+      "link": "https://www.mercurynews.com/2026/04/30/chonkers-is-the-huge-cuddle-seeking-celebrity-that-san-francisco-craves/",
+      "summary": "A Steller sea lion that's been hanging out at Pier 39 has become an unexpected sensation.",
+      "date": "Thu, 30 Apr 2026 18Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SJM-L-CHONKERS-0501-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-05-08T18:15:59Z"
+    },
+    {
+      "title": "Mysterious Green Rocks Discovered in a Remote Cave in Spain Might Be Signs of Prehistoric People Working With Copper",
+      "link": "https://www.smithsonianmag.com/smart-news/mysterious-green-rocks-discovered-in-a-remote-cave-in-spain-might-be-signs-of-prehistoric-people-working-with-copper-180988706/",
+      "summary": "The find challenges assumptions that people in the region thousands of years ago did not spend much time at high altitudes",
+      "date": "2026-05-08T17:42:41Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/4jUvLfYPGHa1rsuB1YzvykMe6nU=/420x240/filters:focal(456x304:457x305)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c0/e7/c0e753b1-0749-4eb9-8aa1-d5e9c21a523c/photo_6_2.webp",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-08T18:16:02Z"
+    },
+    {
+      "title": "If wings came before flight, what were they for?",
+      "link": "https://www.sciencenews.org/article/wings-flight-evolution-insects-dinosaur",
+      "summary": "Scientists use simulated dinosaurs to trigger real insect brains and test how wings originally evolved.",
+      "date": "2026-05-08T17:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/050126_LB_dinosaurfeathers_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-05-08T18:16:03Z"
+    },
+    {
+      "title": "Plants evolved distinct functions for two forms of a fundamental signaling molecule, study shows",
+      "link": "https://phys.org/news/2026-05-evolved-distinct-functions-fundamental-molecule.html",
+      "summary": "The molecule cAMP, which plays essential roles in mammalian cells, is less well understood in plants. In a new Science Advances paper, researchers from the Institute of Science and",
+      "date": "2026-05-08T18:00:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/plant-stress-and-uniqu-3.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-08T18:16:06Z"
+    },
+    {
+      "title": "Metamorphosis in newts proves costly, with one sex paying a heavier price",
+      "link": "https://phys.org/news/2026-05-metamorphosis-newts-sex-paying-heavier.html",
+      "summary": "Metamorphosis, that profound transformation enabling certain animals to shift between habitats such as from an aquatic to a terrestrial environment, is generally viewed in terms of",
+      "date": "2026-05-08T17:40:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-cost-of-metamorpho.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-08T18:16:06Z"
+    },
+    {
+      "title": "Scientists split gentoo penguins into four species, one totally new to science",
+      "link": "https://phys.org/news/2026-05-scientists-gentoo-penguins-species-totally.html",
+      "summary": "The four-foot-tall Emperor penguin of Antarctica may be the most iconic member of this unique family of birds, but 17 other species of penguins populate the Southern Hemisphere, ma",
+      "date": "2026-05-08T17:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-split-gento.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-08T18:16:06Z"
+    },
+    {
+      "title": "Some gene therapies no longer require clinical trials, thanks to new FDA rule. Is this safe, and who will it help?",
+      "link": "https://www.livescience.com/health/some-gene-therapies-no-longer-require-clinical-trials-thanks-to-new-fda-rule-is-this-safe-and-who-will-it-help",
+      "summary": "The FDA is launching a new framework to deliver tailor-made gene therapies to people with rare genetic disorders. Discussions about whom to treat and how to monitor patients are on",
+      "date": "2026-05-08T16:45:50Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/EArXmTDdPMSFTCmYiwFD5X-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-08T18:16:07Z"
+    },
+    {
+      "title": "US government declassifies nearly 200 UAP files, including strange sightings from Apollo astronauts",
+      "link": "https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts",
+      "summary": "The Department of Defense just declassified more than 160 documents, images and recordings related to UFO/UAP sightings dating back to before the Apollo era.",
+      "date": "2026-05-08T16:40:31Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/UofeZSvHgwuQ4oNHPNmF2Y-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-08T18:16:07Z"
+    },
     {
       "title": "Moroccan adventure – I",
       "link": "https://www.10000birds.com/moroccan-adventure-i.htm?utm_source=rss&utm_medium=rss&utm_campaign=moroccan-adventure-i",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-05-01T17:05:40Z"
-    },
-    {
-      "title": "Dead Bodies Filled a Mass Grave When the First Plague Pandemic Struck This Early Medieval City. New Research Explores the Identity of the Victims",
-      "link": "https://www.smithsonianmag.com/smart-news/dead-bodies-filled-a-mass-grave-when-the-first-pandemic-struck-this-early-medieval-city-new-research-explores-the-identity-of-the-victims-180988652/",
-      "summary": "Researchers analyzed isotopes and DNA in the teeth of remains found in a mass grave from the Plague of Justinian, which swept through the Byzantine Empire",
-      "date": "2026-05-01T15:29:01Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/TX0aMMBk-yzB3ooufYg7M5ZNgIw=/420x240/filters:focal(1050x700:1051x701)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fd/69/fd694a51-a979-4bd9-9b19-9e76d220e052/tooth_from_the_jerash_architectural_site_credit-_greg_ocorry_crowe_fau_2.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-01T17:05:40Z"
-    },
-    {
-      "title": "This Is the Largest, Most Detailed 3D Map of the Universe. It'll Help Astronomers Investigate a Cosmic Mystery: Dark Energy",
-      "link": "https://www.smithsonianmag.com/smart-news/this-is-the-largest-most-detailed-3d-map-of-the-universe-itll-help-astronomers-investigate-a-cosmic-mystery-dark-energy-180988643/",
-      "summary": "The Dark Energy Spectroscopic Instrument spent five years observing the sky from Arizona. Now, researchers have a trove of data to study how the universe has evolved over billions ",
-      "date": "2026-05-01T15:21:22Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/hIHukFIFTazPIKBuCYlA1zv0rU4=/420x240/filters:focal(350x350:351x351)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/04/9e/049e0ee6-495d-4cd0-a377-73294df00543/desi-map.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-01T17:05:40Z"
-    },
-    {
-      "title": "How Do You Lift a 30,000-Pound Mast From a Warship Built a Record-Breaking 261 Years Ago? With a Really, Really Big Crane",
-      "link": "https://www.smithsonianmag.com/smart-news/how-do-you-lift-a-30000-pound-mast-from-a-warship-built-a-record-breaking-261-years-ago-with-a-really-really-big-crane-180988658/",
-      "summary": "HMS \"Victory\" served in the American Revolution, the French Revolutionary Wars and the Napoleonic Wars. It's the world’s oldest warship still in commission—but it's in desperate ne",
-      "date": "2026-05-01T15:00:20Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/4HNNJODLDlMyA85cSE7nvGjD8sc=/420x240/filters:focal(2540x1669:2541x1670)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3b/c1/3bc1adef-d741-4d14-8708-60fe906a1999/gettyimages-83350896.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-01T17:05:40Z"
-    },
-    {
-      "title": "Celebrate America’s 250th birthday at a new state flower exhibit",
-      "link": "https://www.sciencenews.org/article/america-250-state-flower-exhibit",
-      "summary": "Stop and smell America’s state flowers at the U.S. Botanic Garden in Washington, D.C., open now through October 12, 2026.",
-      "date": "2026-05-01T16:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/042826_stateflowers_review_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-05-01T17:05:41Z"
-    },
-    {
-      "title": "NHS England rushes to hide software over AI hacking fears",
-      "link": "https://www.newscientist.com/article/2524962-nhs-england-rushes-to-hide-software-over-ai-hacking-fears/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "National Health Service rules state that all software created with public money should be publicly available, but fears of computer-hacking AI models like Mythos have prompted a ch",
-      "date": "2026-05-01T12:32:04Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/01120542/SEI_295369747.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-05-01T17:05:43Z"
-    },
-    {
-      "title": "The 4 biggest myths about hydration, according to an expert",
-      "link": "https://www.newscientist.com/article/2523919-the-4-biggest-myths-about-hydration-according-to-an-expert/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Should you really be drinking eight glasses of water a day? What about reaching for a sports drink after exercise? Physiologist Tamara Hew-Butler is here to bust these hydration my",
-      "date": "2026-05-01T12:00:28Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/22145431/SEI_294175153.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-05-01T17:05:43Z"
-    },
-    {
-      "title": "Bigger, faster, but still outfoxed: How prey escape predators",
-      "link": "https://phys.org/news/2026-05-bigger-faster-outfoxed-prey-predators.html",
-      "summary": "Predators are typically larger, faster, and more powerful than the animals they hunt. Yet in nature, most attacks fail. A new study published in the Proceedings of the National Aca",
-      "date": "2026-05-01T17:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/running-rabbit.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-01T17:05:44Z"
-    },
-    {
-      "title": "How genetic information helps cells resist chaos and stay alive",
-      "link": "https://phys.org/news/2026-05-genetic-cells-resist-chaos-stay.html",
-      "summary": "A Moffitt Cancer Center researcher has introduced a new model that addresses one of biology's most fundamental questions: How does genetic information keep living systems organized",
-      "date": "2026-05-01T16:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-genetic-informatio.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-01T17:05:44Z"
     }
   ]
 }
