@@ -1,8 +1,63 @@
 {
-  "updated": "2026-05-08T08:26:04Z",
-  "updated_utc": "2026-05-08T08:26:04Z",
+  "updated": "2026-05-08T10:44:31Z",
+  "updated_utc": "2026-05-08T10:44:31Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘The greatest ambassador for life on Earth’: Tributes paid to David Attenborough on his 100th birthday",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/may/08/david-attenborough-100th-birthday",
+      "summary": "Naturalist says he has been ‘overwhelmed by greetings’ as milestone is marked with event at Royal Albert Hall David Attenborough said he had been “completely overwhelmed by birthda",
+      "date": "2026-05-07T23:52:48Z",
+      "image": "https://i.guim.co.uk/img/media/1008788659b7ebe3578cf826b057e7043f56c622/2077_68_1159_927/master/1159.jpg?width=140&quality=85&auto=format&fit=max&s=5e7a5ee6716fea0d2a5e66f16df89209",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-08T10:44:16Z"
+    },
+    {
+      "title": "2025 Alaska megatsunami shows need for warning system",
+      "link": "https://earthsky.org/earth/2025-alaska-megatsunami-shows-need-for-warning-system/",
+      "summary": "A 2025 Alaska megatsunami sent a 1,580-foot wave of water up a fjord. It revealed the need for a landslide-triggered tsunami warning system. The post 2025 Alaska megatsunami shows ",
+      "date": "2026-05-08T10:05:36Z",
+      "image": "https://images.theconversation.com/files/733562/original/file-20260501-57-b4g9d.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-08T10:44:17Z"
+    },
+    {
+      "title": "Live quantum network test in New York overcomes 2 key hurdles in creating an 'unhackable' internet",
+      "link": "https://www.livescience.com/technology/quantum/live-quantum-network-test-in-new-york-overcomes-2-key-hurdles-in-creating-an-unhackable-internet",
+      "summary": "Scientists tested a live quantum internet between three locations across New York, inching closer to an unhackable internet.",
+      "date": "2026-05-08T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Uinsg6AbTizJVFPWS3HrKF-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-08T10:44:28Z"
+    },
+    {
+      "title": "Mangroves clean up $8.7 billion of nitrogen pollution every year, study finds",
+      "link": "https://www.livescience.com/planet-earth/plants/mangroves-clean-up-usd8-7-billion-of-nitrogen-pollution-every-year-study-finds",
+      "summary": "New research suggests mangroves remove 960,000 tons per year of nitrogen from global water systems, a figure that could rise to more than 5.5 million tons annually if conditions we",
+      "date": "2026-05-08T09:40:23Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/j5JecaRnnqCSUZ2d5Efc8c-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-08T10:44:28Z"
+    },
+    {
+      "title": "Hantavirus cruise LIVE: Cruise passengers monitored in several US states as CDC sets lowest emergency response",
+      "link": "https://www.livescience.com/health/live/hantivirus-cruise-friday-may-8",
+      "summary": "Friday, May 8, 2026: The latest news and updates on the hantavirus cluster associated with the MV Hondius. The cruise ship is on course to arrive in Spain on Sunday.",
+      "date": "Thu, 07 May 2026 15Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/TEGPx3i4BnRw8CoabU7E9c-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-08T10:44:28Z"
+    },
     {
       "title": "Week in wildlife: a chonky sea lion, amorous toads and an adorable gosling",
       "link": "https://www.theguardian.com/environment/gallery/2026/may/08/week-in-wildlife-a-chonky-sea-lion-amorous-toads-and-an-adorable-gosling",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-04-30T23:57:37Z"
-    },
-    {
-      "title": "Drivers help study road-trip mystery: what became of bug splats?",
-      "link": "https://phys.org/news/2026-04-drivers-road-mystery-bug-splats.html",
-      "summary": "Long an emblem of the summer road trip, squashed bugs on the car have become less numerous over the years, many people say—causing concern about the health of the world's insect po",
-      "date": "2026-04-30T22:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-sepia-dun-mayfly-lep.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-30T23:57:37Z"
-    },
-    {
-      "title": "How temperature swings impact the growth of young songbirds",
-      "link": "https://phys.org/news/2026-04-temperature-impact-growth-young-songbirds.html",
-      "summary": "Climate change threatens to cause increasingly extreme and variable temperature swings, affecting everything from urban infrastructure to global food supplies. In the animal kingdo",
-      "date": "2026-04-30T22:30:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-temperature-swings.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-04-30T23:57:37Z"
-    },
-    {
-      "title": "How to Use Spectrograms to Learn Details of Bird Songs",
-      "link": "https://www.allaboutbirds.org/news/how-to-use-spectrograms-learn-bird-songs/",
-      "summary": "Bird songs and calls can be hard to learn—they’re so intricate, and they go by so fast. That’s why ornithologists use spectrograms—visualizations that allow you to see the shape of",
-      "date": "2026-04-08T21:00:45Z",
-      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/03/Indigo-Bunting-Emily-Tallo-Illinois-639396909-1280x720.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-04-30T22:02:20Z"
-    },
-    {
-      "title": "Basic Parts of a Bird Song: Rhythm, Repetition, Pitch, and Tone",
-      "link": "https://www.allaboutbirds.org/news/parts-bird-song-rhythm-repetition-pitch-tone/",
-      "summary": "When you first listen to a dawn chorus in full swing, the sheer onslaught of bird song can be overwhelming. How does anyone start to pick apart the chirps, whistles, ... Read more ",
-      "date": "2026-04-08T20:58:35Z",
-      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/04/Nashville-Warbler-Shailesh-Pinto-Michigan-268052371_banner.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-04-30T22:02:20Z"
-    },
-    {
-      "title": "There Are Two GLP-1 Side Effects Your Doctor Doesn’t Know About, and They Can Affect Your Workouts",
-      "link": "https://www.outsideonline.com/health/training-performance/glp1-unknown-side-effects-reddit-study/",
-      "summary": "A study in Nature Health revealed unknown GLP-1 side effects posted on Reddit. The lead author and doctors explain how they impact exercise. The post There Are Two GLP-1 Side Effec",
-      "date": "Thu, 30 Apr 2026 20Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/glp-1-side-effects-reddit.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-04-30T22:02:29Z"
     }
   ]
 }
