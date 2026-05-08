@@ -1,8 +1,41 @@
 {
-  "updated": "2026-05-07T22:09:42Z",
-  "updated_utc": "2026-05-07T22:09:42Z",
+  "updated": "2026-05-08T00:00:59Z",
+  "updated_utc": "2026-05-08T00:00:59Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Report: Facebook is main tool for criminals selling endangered wild animals",
+      "link": "https://www.mercurynews.com/2026/05/07/facebookfacebook-criminals-selling-endangered-wild-animals-wildlife-illegal-trade/",
+      "summary": "Report cites 'loss of irreplaceable species such as elephants for their ivory, rhinos for their horns, pangolins for their scales, and countless parrots, primates, small mammals an",
+      "date": "Thu, 07 May 2026 22Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/05/SJM-L-FACEWILD-0508-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-05-08T00:00:49Z"
+    },
+    {
+      "title": "AI tool unifies fragmented cell maps into spatial atlases across tissues",
+      "link": "https://phys.org/news/2026-05-ai-tool-fragmented-cell-spatial.html",
+      "summary": "A new computational method could dramatically accelerate efforts to map the body's cells in space, according to a study published in Nature Genetics. Spatial multi-omics technologi",
+      "date": "2026-05-07T23:40:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-tool-collects-biol-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-08T00:00:56Z"
+    },
+    {
+      "title": "From pantry to pest control: Garlic kills the mood for mosquitoes as well",
+      "link": "https://phys.org/news/2026-05-pantry-pest-garlic-mood-mosquitoes.html",
+      "summary": "Garlic is not a substance that most people consider an aphrodisiac. It turns out that mosquitoes agree. In fact, a new Yale study finds that garlic also functions as a de facto bir",
+      "date": "2026-05-07T23:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-pantry-to-pest-co.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-08T00:00:56Z"
+    },
     {
       "title": "‘Help save Willy’: Rep. Liccardo introduces bill to implement ‘whale desk’ in San Francisco Bay",
       "link": "https://www.mercurynews.com/2026/04/23/whale-deaths-san-francisco-bay-liccardo/",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-04-30T18:16:19Z"
-    },
-    {
-      "title": "Warblers in New Hampshire’s Forests Have Found an Ideal Way to Divvy Up Territories",
-      "link": "https://www.birds.cornell.edu/home/warblers-in-new-hampshires-forests-have-found-an-ideal-way-to-divvy-up-territories/",
-      "summary": "",
-      "date": "Tue, 24 Mar 2026 13Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Apis_mellifera_flying.jpg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-04-30T18:16:21Z"
-    },
-    {
-      "title": "Top 10 Low-Maintenance Shrubs to Boost Your Curb Appeal",
-      "link": "https://www.birdsandblooms.com/gardening/top-10-lists-for-gardeners/low-maintenance-shrubs/",
-      "summary": "Beautify your landscape without a lot of work. Add value to your home with these visually dynamic, low-maintenance shrubs. The post Top 10 Low-Maintenance Shrubs to Boost Your Curb",
-      "date": "Thu, 30 Apr 2026 15Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/04/Screenshot-2026-04-30-at-10.18.37-AM-e1777562443166.png?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-04-30T16:25:40Z"
-    },
-    {
-      "title": "2026 Birds & Blooms National Nature Photography Awards (#346) Official Rules",
-      "link": "https://www.birdsandblooms.com/2026-birds-blooms-national-nature-photography-awards-346-official-rules/",
-      "summary": "NO PURCHASE OR PAYMENT OF ANY KIND IS NECESSARY TO ENTER OR WIN. PURCHASE WILL NOT IMPROVE AN ENTRY’S CHANCE The post 2026 Birds & Blooms National Nature Photography Awards (#346) ",
-      "date": "Thu, 23 Apr 2026 11Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2020/05/cropped-512px_cube_hbird.jpg?resize=32,32",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-04-30T16:25:40Z"
     }
   ]
 }
