@@ -1,8 +1,96 @@
 {
-  "updated": "2026-05-08T18:16:09Z",
-  "updated_utc": "2026-05-08T18:16:09Z",
+  "updated": "2026-05-08T20:11:06Z",
+  "updated_utc": "2026-05-08T20:11:06Z",
   "count": 500,
   "stories": [
+    {
+      "title": "King Charles features in surprise birthday tribute to David Attenborough",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/may/08/king-charles-birthday-tribute-film-david-attenborough-100",
+      "summary": "Whimsical film shows relay of animals carrying centennial card from Balmoral Castle to naturalist in London King Charles has featured in a surprise birthday tribute to David Attenb",
+      "date": "2026-05-08T19:50:36Z",
+      "image": "https://i.guim.co.uk/img/media/1667a85413b4ee6298df76de4bdb9625389a0b90/2727_0_10800_8640/master/10800.jpg?width=140&quality=85&auto=format&fit=max&s=8f3a47f9bd7c293e9d5ab55649ed2792",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-08T20:10:51Z"
+    },
+    {
+      "title": "The Simple Way to Make Your Expensive Camping Tent Last a Lifetime",
+      "link": "https://www.outsideonline.com/outdoor-gear/camping/tent-care-maintenance/",
+      "summary": "A tent is an investment. Here’s how to make it last forever. The post The Simple Way to Make Your Expensive Camping Tent Last a Lifetime appeared first on Outside Online .",
+      "date": "2026-05-08T19:50:41Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/how-to-care-tent.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-08T20:10:57Z"
+    },
+    {
+      "title": "Working at Everest Base Camp Is Dangerous. Here’s Why I Can’t Stop.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/everest/mount-everest-worker-salary-risks/",
+      "summary": "Every year, dozens of local Sherpa work as porters and staffers at Everest Base Camp. Here’s what the work is really like. The post Working at Everest Base Camp Is Dangerous. Here’",
+      "date": "2026-05-08T18:28:27Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/sherpa-basecmap.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-08T20:10:57Z"
+    },
+    {
+      "title": "A Hiker in Norway Found an Elite Warrior’s Golden Sword Ornament. It Was Likely a Sacrifice to the Gods Made During a Time of Turmoil",
+      "link": "https://www.smithsonianmag.com/smart-news/a-hiker-in-norway-found-an-elite-warriors-golden-sword-ornament-it-was-likely-a-sacrifice-to-the-gods-made-during-a-time-of-turmoil-180988707/",
+      "summary": "Volcanic eruptions, climate change, crop failures, famine and plague all may have swept through Norway in the sixth century C.E., putting pressure on leaders and their communities",
+      "date": "2026-05-08T19:45:58Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/HjVtqUDH-LImCnj1HpaBLCvqoK8=/420x240/filters:focal(480x361:481x362)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7a/95/7a9596fe-af20-4bb7-b140-58d90344d167/ea605d01-7b8a-421c-a84b-888c8314c157-w_960.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-08T20:10:59Z"
+    },
+    {
+      "title": "A Century Ago, an Explorer and His Pilot Claimed to Be the First People to Fly Over the North Pole. Here’s Why Experts Doubt That Achievement",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/a-century-ago-an-explorer-and-his-pilot-claimed-to-be-the-first-people-to-fly-over-the-north-pole-heres-why-experts-doubt-that-achievement-180988712/",
+      "summary": "While the success of Richard Byrd and Floyd Bennett’s polar flight has been disputed, the former went on to accomplish expeditions in Antarctica",
+      "date": "2026-05-08T19:05:25Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/tWevC8DAOZp1UdB8GJd8Q2hfqDU=/420x240/filters:focal(2008x1454:2009x1455)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6b/27/6b27db13-9ae6-45d8-add2-9465e22e2193/gettyimages-515511956.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-08T20:10:59Z"
+    },
+    {
+      "title": "East Africa Might Break Off From the Continent Sooner Than Scientists Thought—and a New Ocean May Fill the Gap",
+      "link": "https://www.smithsonianmag.com/smart-news/east-africa-might-break-off-from-the-continent-sooner-than-scientists-thought-and-a-new-ocean-may-fill-the-gap-180988659/",
+      "summary": "A new study suggests that a rift in Kenya and Ethiopia has reached a critical stage in the split-up process, and that water may flood it in a few million years",
+      "date": "2026-05-08T18:48:52Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/1lXhtxK6-lFZ_ZKJ5wP9uCwBoz8=/420x240/filters:focal(1632x1228:1633x1229)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/10/f6/10f628fb-da94-4154-bf9f-23b023a5a08f/great_rift_valley_7513007728.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-08T20:10:59Z"
+    },
+    {
+      "title": "US government releases huge batch of UFO files",
+      "link": "https://www.newscientist.com/article/2525984-us-government-releases-huge-batch-of-ufo-files/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The US Department of Defense has released hundreds of documents and photographs related to UFOs, some of which have been declassified, in the first of many drops to come",
+      "date": "2026-05-08T18:33:13Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/08182415/SEI_296278853.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-08T20:11:01Z"
+    },
+    {
+      "title": "Doubling their genomes may have helped plants survive mass extinctions",
+      "link": "https://www.newscientist.com/article/2525806-doubling-their-genomes-may-have-helped-plants-survive-mass-extinctions/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Many flowering plants have duplicated genomes, which could have helped them evolve to deal with extreme stress in times of environmental upheaval",
+      "date": "2026-05-08T16:00:20Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/08115151/SEI_296247078.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-08T20:11:01Z"
+    },
     {
       "title": "Chonkers is the huge, cuddle-seeking celebrity that San Francisco craves",
       "link": "https://www.mercurynews.com/2026/04/30/chonkers-is-the-huge-cuddle-seeking-celebrity-that-san-francisco-craves/",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-05-01T19:22:24Z"
-    },
-    {
-      "title": "2026 will be the hottest year on record, leading scientist predicts",
-      "link": "https://www.newscientist.com/article/2525229-2026-will-be-the-hottest-year-on-record-leading-scientist-predicts/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "The second half of this year will almost certainly see the start of an El Niño phase that could lead to extreme heat across much of the globe, and James Hansen expects that to make",
-      "date": "2026-05-01T17:24:54Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/01171936/SEI_295409134.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-05-01T19:22:26Z"
-    },
-    {
-      "title": "Stealth switch in tuberculosis enzyme could open route to drug-resistant treatment",
-      "link": "https://phys.org/news/2026-05-stealth-tuberculosis-enzyme-route-drug.html",
-      "summary": "Recent research published in Communications Biology marks an advance in structural biology by enhancing understanding of protein regulation mechanisms in Mycobacterium tuberculosis",
-      "date": "2026-05-01T19:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/landmark-achievement-o.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-01T19:22:27Z"
-    },
-    {
-      "title": "How photosynthetic bacteria pass light along: Two major energy pathways identified",
-      "link": "https://phys.org/news/2026-05-photosynthetic-bacteria-major-energy-pathways.html",
-      "summary": "RIKEN researchers have found out how light energy harvested by pigments besides chlorophyll is transferred to the molecular site where photosynthesis occurs in cyanobacteria. The w",
-      "date": "2026-05-01T18:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-energy-is-transfer.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-01T19:22:27Z"
-    },
-    {
-      "title": "The way a cell fails to divide after copying its DNA can determine its fate",
-      "link": "https://phys.org/news/2026-05-cell-dna-fate.html",
-      "summary": "Cell division is one of the most fundamental and complex processes underpinning life. In human cells, thousands of molecules coordinate with one another in highly precise steps, al",
-      "date": "2026-05-01T17:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-a-cell-doubles-its.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-01T19:22:27Z"
-    },
-    {
-      "title": "Our greatest songster?",
-      "link": "https://www.10000birds.com/our-greatest-songster.htm?utm_source=rss&utm_medium=rss&utm_campaign=our-greatest-songster",
-      "summary": "LISTEN to a Nightingale, singing solo at 3am on a May morning, and you can understand why no other bird has inspired more poets, writers and romantics.",
-      "date": "2026-05-01T15:59:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/04/P4231875.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-05-01T17:05:28Z"
-    },
-    {
-      "title": "Doug Allan obituary",
-      "link": "https://www.theguardian.com/environment/2026/may/01/doug-allan-obituary",
-      "summary": "Wildlife cameraman for landmark BBC documentaries including The Blue Planet and Planet Earth, who was admired for his bravery and resilience in extreme environments Filming polar b",
-      "date": "2026-05-01T16:11:03Z",
-      "image": "https://i.guim.co.uk/img/media/b0a9f20240a9694b9161ae3472381a55ddb3f644/398_0_4160_3328/master/4160.jpg?width=140&quality=85&auto=format&fit=max&s=f0b2a8f87a7eb92def9927b6efc88e42",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-05-01T17:05:33Z"
-    },
-    {
-      "title": "How the Classic American Game of Twister Went From Risqué to Record-Breaking",
-      "link": "https://www.smithsonianmag.com/innovation/how-the-classic-american-game-of-twister-went-from-risque-to-record-breaking-180988656/",
-      "summary": "Sixty years ago, Johnny Carson and Eva Gabor played Twister on the “Tonight Show,” and the public took it as permission to buy the controversial game",
-      "date": "2026-05-01T16:00:30Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/44K7qJo86QeAYhX5hJRlxRfKdiA=/420x240/filters:focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/91/c2/91c2a5a4-e232-4a2c-99f6-418786f23df5/gettyimages-871614594.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-01T17:05:40Z"
-    },
-    {
-      "title": "These 15 Majestic Photographs Showcase the Beauty of the Great Lakes and Will Make You Fall in Love With the Natural Wonders",
-      "link": "https://www.smithsonianmag.com/travel/these-15-majestic-photos-showcase-inherent-beauty-great-lakes-will-make-fall-love-natural-wonders-180988655/",
-      "summary": "The images of Lakes Huron, Erie, Superior, Michigan and Ontario are pulled from submissions to the Smithsonian Magazine Photo Contest",
-      "date": "2026-05-01T15:44:29Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/9gTaNuL4dqM5b_hjmwPKf7RrAUk=/420x240/filters:focal(1704x779:1705x780)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/26/a8/26a8b975-94d1-4112-9e1a-cad937fbeb1f/26144e81-a549-462a-8181-37ddf69a9b08.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-01T17:05:40Z"
     }
   ]
 }
