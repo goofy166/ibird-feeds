@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-08T06:55:46Z",
-  "updated_utc": "2026-05-08T06:55:46Z",
+  "updated": "2026-05-08T08:26:04Z",
+  "updated_utc": "2026-05-08T08:26:04Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Week in wildlife: a chonky sea lion, amorous toads and an adorable gosling",
+      "link": "https://www.theguardian.com/environment/gallery/2026/may/08/week-in-wildlife-a-chonky-sea-lion-amorous-toads-and-an-adorable-gosling",
+      "summary": "This week’s best wildlife photographs from around the world Continue reading...",
+      "date": "2026-05-08T07:00:38Z",
+      "image": "https://i.guim.co.uk/img/media/8131a42a15eb21e8dedaacb33e622b2b488a8cd1/307_0_3065_2452/master/3065.jpg?width=140&quality=85&auto=format&fit=max&s=3e6b394bb4e97b61f72f3e3e3ca7ed03",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-08T08:25:49Z"
+    },
     {
       "title": "Owls in Washington State: 15 Owls with Pictures for You to Identify",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/owls-in-washington-state-15-owls-with-pictures-for-you-to-identify/",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-04-30T22:02:29Z"
-    },
-    {
-      "title": "Alexander the Great’s (Marble) Head Turned Up in New York. U.S. Officials Say It Was Stolen—and Just Sent It Back to Italy",
-      "link": "https://www.smithsonianmag.com/smart-news/alexander-the-greats-marble-head-turned-up-in-new-york-us-officials-say-it-was-stolen-and-just-sent-it-back-to-italy-180988650/",
-      "summary": "As part of a longstanding effort to help Italy track down its missing treasures, the U.S. returned hundreds of ancient archaeological finds this week",
-      "date": "Thu, 30 Apr 2026 20Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/sOsSKfyU_Ut-_78x0SEadcMnPow=/420x240/filters:focal(800x533:801x534)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7c/27/7c27000f-bf69-492b-87ac-a255247b8779/tpc_29aprile_foto_mic_03.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-04-30T22:02:31Z"
     }
   ]
 }
