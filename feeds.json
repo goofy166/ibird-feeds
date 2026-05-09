@@ -1,8 +1,41 @@
 {
-  "updated": "2026-05-09T21:54:35Z",
-  "updated_utc": "2026-05-09T21:54:35Z",
+  "updated": "2026-05-09T22:55:44Z",
+  "updated_utc": "2026-05-09T22:55:44Z",
   "count": 500,
   "stories": [
+    {
+      "title": "What Are the Best Tools for Bird Watching: The Ultimate Guide",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/what-are-the-best-tools-for-bird-watching-the-ultimate-guide/",
+      "summary": "Bird watching is one of the most interesting activities for many people. And according to some U.S. Fish and Wildlife Service statistics, about 45 million Americans enjoy … Read Mo",
+      "date": "2026-05-09T22:49:29Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2024/08/Boy-holing-binoculars-768x512-1.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-05-09T22:55:22Z"
+    },
+    {
+      "title": "Baby Blue Jay Bird: All The Life Stages including Pictures",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/baby-blue-jay-bird-all-the-life-stages-including-pictures-2/",
+      "summary": "The Blue Jay (Cyanocitta Cristata) is a breed of large songbird commonly found throughout North America. Blue Jays are the most colorful of all corvids … Read More \"Baby Blue Jay B",
+      "date": "2026-05-09T22:44:38Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/01/blue-jay-birdforum-scaled.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-05-09T22:55:22Z"
+    },
+    {
+      "title": "More than half of 480 ducks rescued from California sanctuary went to a livestock company",
+      "link": "https://www.mercurynews.com/2026/04/25/more-than-half-of-480-ducks-rescued-from-anza-sanctuary-went-to-a-livestock-company/",
+      "summary": "The Riverside County Department of Animal Services is under fire from animal activists for its handling of nearly 500 ducks surrendered last week by an animal rescue in Anza.",
+      "date": "2026-04-25T11:00:06Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/RPE-L-DUCKS2-0415.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-05-09T22:55:34Z"
+    },
     {
       "title": "How river DNA can track fish, frogs, fungi and human feces all at once",
       "link": "https://phys.org/news/2026-05-river-dna-track-fish-frogs.html",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-05-03T19:11:00Z"
-    },
-    {
-      "title": "Synthetic biology promised to rewrite life—with the death of its pioneer, J. Craig Venter, how close are scientists?",
-      "link": "https://phys.org/news/2026-05-synthetic-biology-rewrite-life-death.html",
-      "summary": "When scientist J. Craig Venter and his team announced in 2010 that they had created the first cell controlled by a fully synthetic genome, it marked a turning point in how scientis",
-      "date": "2026-05-03T17:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/synthetic-biology-prom.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-03T17:01:45Z"
-    },
-    {
-      "title": "How to conserve your dragon – and avoid losing Australia’s most imperilled reptile for a second time",
-      "link": "https://www.theguardian.com/environment/2026/may/04/victorian-grassland-earless-dragon-melbourne-zoo-endangered-species-second-extinction",
-      "summary": "Melbourne zoo’s new breeding centre hopes to safeguard the future of the critically endangered Victorian grassland earless dragon Sign up for climate and environment editor Adam Mo",
-      "date": "2026-05-03T15:00:05Z",
-      "image": "https://i.guim.co.uk/img/media/13984943428293d5aeaf3198e8847005c985c5a2/348_0_4068_3254/master/4068.jpg?width=140&quality=85&auto=format&fit=max&s=abe1ec26974975f45f41b057bb8b3700",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-05-03T15:56:10Z"
-    },
-    {
-      "title": "How a newly discovered organelle could help reduce cow methane emissions",
-      "link": "https://phys.org/news/2026-05-newly-organelle-cow-methane-emissions.html",
-      "summary": "When cows burp, they send a substantial amount of methane gas into the air, which makes them a leading contributor to greenhouse gas emissions. According to research published in t",
-      "date": "2026-05-03T15:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-a-newly-discovered.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-03T15:56:21Z"
     }
   ]
 }
