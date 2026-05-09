@@ -1,8 +1,30 @@
 {
-  "updated": "2026-05-09T15:00:20Z",
-  "updated_utc": "2026-05-09T15:00:20Z",
+  "updated": "2026-05-09T16:03:58Z",
+  "updated_utc": "2026-05-09T16:03:58Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A Poem for a Carolina Chickadee",
+      "link": "https://www.10000birds.com/a-poem-for-a-carolina-chickadee.htm?utm_source=rss&utm_medium=rss&utm_campaign=a-poem-for-a-carolina-chickadee",
+      "summary": "“I could watch a chickadee all day,” my friend says. Same. We agree they are bouncy, as they inspect our feeders. Living 238 miles apart, but united in our birding game.",
+      "date": "2026-05-09T16:03:11Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/05/anne773-carolina-chickadee-2501531-scaled.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-05-09T16:03:37Z"
+    },
+    {
+      "title": "There has been a sudden increase in the rate of sea level rise",
+      "link": "https://www.newscientist.com/article/2525773-there-has-been-a-sudden-increase-in-the-rate-of-sea-level-rise/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Satellite measurements show that in the early 2010s sea level rise suddenly accelerated to a rate of 4.1 millimetres per year, possibly in response to an increase in the rate of gl",
+      "date": "2026-05-08T14:08:55Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/08105108/SEI_296164023.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-09T16:03:53Z"
+    },
     {
       "title": "Record ocean heat off California coast echoes ‘The Blob,’ killing seabirds and reshaping weather outlook",
       "link": "https://www.mercurynews.com/2026/05/03/return-of-the-blob-how-a-record-ocean-heat-wave-could-affect-californias-weather-and-wildlife-this-summer/",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-05-03T13:38:59Z"
-    },
-    {
-      "title": "Archaeologists recreate Pompeii victim using AI technology",
-      "link": "https://earthsky.org/human-world/pompeii-victim-image-ai-in-archeology/",
-      "summary": "Archaeologists have used AI technology to recreate a Pompeii victim. The man fled the volcano while trying to protect his head with a terracotta bowl. The post Archaeologists recre",
-      "date": "2026-05-03T12:00:07Z",
-      "image": "https://earthsky.org/upl/2026/04/Foto-Vittime-San-Paolino-e-ricostruzione-IA-1-e1777466932301.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-05-03T13:38:59Z"
-    },
-    {
-      "title": "Nest‑building chimpanzees seem to anticipate future weather",
-      "link": "https://phys.org/news/2026-04-nestbuilding-chimpanzees-future-weather.html",
-      "summary": "Every evening, as they move from place to place through the forest, chimpanzees stop to build a nest—most often in a tree—to sleep in. Using a selection of branches, leaves and twi",
-      "date": "2026-05-03T12:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chimp.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-03T13:39:10Z"
     }
   ]
 }
