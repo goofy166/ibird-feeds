@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-08T22:05:02Z",
-  "updated_utc": "2026-05-08T22:05:02Z",
+  "updated": "2026-05-09T00:01:54Z",
+  "updated_utc": "2026-05-09T00:01:54Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Invasive species discovered at drinking water treatment plants in San Jose",
+      "link": "https://www.mercurynews.com/2026/05/08/invasive-species-discovered-at-drinking-water-treatment-plants-in-san-jose/",
+      "summary": "Fast-spreading hardy mussels from China, already in Delta and spreading across California, could cost millions to control",
+      "date": "2026-05-08T22:26:17Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/05/SJM-L-MUSSELS-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-05-09T00:01:44Z"
+    },
     {
       "title": "The Best Car Camping Gear, Gadgets, and Accessories of 2026",
       "link": "https://www.outsideonline.com/outdoor-gear/camping/best-camping-accessories/",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-05-01T19:22:17Z"
-    },
-    {
-      "title": "Six Decades Ago, a Boy Stole Medieval Tiles From an English Monastery. He Just Returned the Illicit Souvenirs",
-      "link": "https://www.smithsonianmag.com/smart-news/six-decades-ago-a-boy-stole-medieval-tiles-from-an-english-monastery-he-just-returned-the-illicit-souvenirs-180988663/",
-      "summary": "A ghoulish face and a graceful dragon decorate the broken clay tiles from the late 13th century or early 14th century. They were found tucked in an old toffee tin",
-      "date": "2026-05-01T18:39:46Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/P1udB4i85hE8UP4_yNh-onOIFaQ=/420x240/filters:focal(2886x1924:2887x1925)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/41/1a/411a6e6c-c7fb-4c76-9ecf-ab68073ce49f/the_medieval_floor_tiles_were_kept_hidden_for_60_years_in_an_old_tin_credit_english_heritage.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-01T19:22:24Z"
     }
   ]
 }
