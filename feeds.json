@@ -1,8 +1,30 @@
 {
-  "updated": "2026-05-09T19:15:48Z",
-  "updated_utc": "2026-05-09T19:15:48Z",
+  "updated": "2026-05-09T20:54:26Z",
+  "updated_utc": "2026-05-09T20:54:26Z",
   "count": 500,
   "stories": [
+    {
+      "title": "'Ghost of the forest' returns to Kenya as conservationists reintroduce rare antelope into the wild",
+      "link": "https://phys.org/news/2026-05-ghost-forest-kenya-conservationists-reintroduce.html",
+      "summary": "The mountain bongo has become the \"ghost of the forest,\" hard to spot amid the dense shrubs due to its ability to camouflage.",
+      "date": "2026-05-09T20:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ghost-of-the-forest-re.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-09T20:54:23Z"
+    },
+    {
+      "title": "CRISPR safeguard changes how engineered microbes can be controlled",
+      "link": "https://phys.org/news/2026-05-crispr-safeguard-microbes.html",
+      "summary": "Engineered microorganisms are widely used in industrial biotechnology and biopharmaceutical applications, including the production of biofuels, sustainable chemicals, and therapeut",
+      "date": "2026-05-09T20:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/snu-professor-sangwoo.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-09T20:54:23Z"
+    },
     {
       "title": "Bee more specific: New radar tech could improve identification and tracking of key pollinators",
       "link": "https://phys.org/news/2026-05-bee-specific-radar-tech-identification.html",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-05-03T14:56:29Z"
-    },
-    {
-      "title": "New imaging method maps reversed DNA replication forks in single cells",
-      "link": "https://phys.org/news/2026-04-imaging-method-reversed-dna-replication.html",
-      "summary": "Researchers at The University of Texas MD Anderson Cancer Center have developed a new imaging method, known as RF-SIRF, that quantitatively detects and maps reversed DNA replicatio",
-      "date": "2026-05-03T14:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/imaging-tool-reveals-n.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-03T14:56:36Z"
-    },
-    {
-      "title": "'Sacrifice zones' around critical mineral mines are rife with pollution, child workers and birth defects",
-      "link": "https://www.livescience.com/planet-earth/sacrifice-zones-around-critical-mineral-mines-are-rife-with-pollution-child-workers-and-birth-defects",
-      "summary": "The race to mine critical minerals for AI and clean energy is creating 'sacrifice zones' that harm water and health of world's poor.",
-      "date": "2026-05-03T14:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/qHY2gugHaoDjqpg77sVNPh-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-03T14:56:37Z"
     }
   ]
 }
