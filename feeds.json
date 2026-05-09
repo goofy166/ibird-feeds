@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-09T16:03:58Z",
-  "updated_utc": "2026-05-09T16:03:58Z",
+  "updated": "2026-05-09T17:55:47Z",
+  "updated_utc": "2026-05-09T17:55:47Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Bee more specific: New radar tech could improve identification and tracking of key pollinators",
+      "link": "https://phys.org/news/2026-05-bee-specific-radar-tech-identification.html",
+      "summary": "Scientists from Trinity and Technical University of Denmark have developed a new radar-based technique that could address a critical gap in global conservation efforts, by transfor",
+      "date": "2026-05-09T17:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/buff-tailed-bumblebee.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-05-09T17:55:43Z"
+    },
     {
       "title": "A Poem for a Carolina Chickadee",
       "link": "https://www.10000birds.com/a-poem-for-a-carolina-chickadee.htm?utm_source=rss&utm_medium=rss&utm_campaign=a-poem-for-a-carolina-chickadee",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-05-03T14:56:37Z"
-    },
-    {
-      "title": "See the best deep-sky photos of April 2026",
-      "link": "https://earthsky.org/todays-image/deep-sky-photos-april-2026/",
-      "summary": "Enjoy this gallery of deep-sky photos for April 2026 from our EarthSky community. If you have a great photo to share, we'd love to see it! The post See the best deep-sky photos of ",
-      "date": "2026-05-03T12:00:41Z",
-      "image": "https://earthsky.org/upl/2026/04/Steven-Bellavia_Supernova-SN2026kid-in-galaxy-NGC5907-in-Draco_Smithfield-VA_2026-apr-29-e1777577335389.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-05-03T13:38:59Z"
     }
   ]
 }
