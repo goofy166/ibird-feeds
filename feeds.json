@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-09T23:57:24Z",
-  "updated_utc": "2026-05-09T23:57:24Z",
+  "updated": "2026-05-10T04:05:51Z",
+  "updated_utc": "2026-05-10T04:05:51Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Researchers develop a biodegradable wash that can remove pesticides and keep fruit fresh longer",
+      "link": "https://phys.org/news/2026-05-biodegradable-pesticides-fruit-fresh-longer.html",
+      "summary": "Many grocery shoppers know the routine: bring fruit and vegetables home, rinse them, dry them and hope they stay fresh long enough to be eaten. But fresh produce is delicate. Grape",
+      "date": "2026-05-10T00:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/we-developed-a-biodegr.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-10T04:05:47Z"
+    },
     {
       "title": "Birds of Maryland: Top 16 with Pictures",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/birds-of-maryland-top-16-with-pictures/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-05-04T11:57:32Z"
-    },
-    {
-      "title": "Centuries-old Christian Nubian murals inspire gorgeous fashion reconstructions",
-      "link": "https://www.livescience.com/archaeology/centuries-old-christian-nubian-murals-inspire-gorgeous-fashion-reconstructions",
-      "summary": "Stunning clothes from medieval Christian Nubia have been re-created and put on models, whose performance brought onlookers to tears.",
-      "date": "2026-05-04T11:05:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/9Gf2E9uExpSniRemfqADj9-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-04T11:57:33Z"
     }
   ]
 }
