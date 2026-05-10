@@ -1,8 +1,52 @@
 {
-  "updated": "2026-05-10T07:29:04Z",
-  "updated_utc": "2026-05-10T07:29:04Z",
+  "updated": "2026-05-10T09:44:22Z",
+  "updated_utc": "2026-05-10T09:44:22Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Will the Blaze Star explode in 2026? How to see it",
+      "link": "https://earthsky.org/space/blaze-star-nova-corona-borealis-how-to-see-it/",
+      "summary": "We're still waiting for the Blaze Star to go nova! Will it happen in 2026? Here's how to find Corona Borealis so you're ready when this star goes kablooey. The post Will the Blaze ",
+      "date": "2026-05-10T09:30:56Z",
+      "image": "https://earthsky.org/upl/2025/02/BlazeStarChrisHarvey-600.gif",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-10T09:44:08Z"
+    },
+    {
+      "title": "A State-by-State Guide to an Iconic Road Trip Along the Oregon Trail",
+      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/oregon-trail-road-trip-outdoor-history-guide/",
+      "summary": "An adventurous road trip along the Oregon National Historic Trail reveals treeless plains, remote mountains, river gorges, national park units, and eye-opening lessons about Indige",
+      "date": "2026-05-10T09:03:47Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/mike-car.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-10T09:44:13Z"
+    },
+    {
+      "title": "Tiny 'metajets' could use light to steer sails for interstellar travel",
+      "link": "https://www.newscientist.com/article/2525802-tiny-metajets-could-use-light-to-steer-sails-for-interstellar-travel/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Minuscule silicon wafers propelled by lasers could be used to steer light sails, helping them travel beyond the solar system",
+      "date": "2026-05-10T07:00:11Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/08160316/SEI_296276168.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-10T09:44:17Z"
+    },
+    {
+      "title": "Are we more closely related to cats or dogs?",
+      "link": "https://www.livescience.com/animals/cats/are-we-more-closely-related-to-cats-or-dogs",
+      "summary": "The answer of whether humans are more closely related to cats or dogs depends on how you look at the question.",
+      "date": "2026-05-10T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/zvo9aJzdb2h2HrAKwcz8HD-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-10T09:44:19Z"
+    },
     {
       "title": "Start of a new, niche addiction. Pelagics…",
       "link": "https://www.10000birds.com/start-of-a-new-niche-addiction-pelagics.htm?utm_source=rss&utm_medium=rss&utm_campaign=start-of-a-new-niche-addiction-pelagics",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-05-04T11:57:31Z"
-    },
-    {
-      "title": "Prebiotic chewing gum could be helpful for gum disease",
-      "link": "https://www.newscientist.com/article/2524950-prebiotic-chewing-gum-could-be-helpful-for-gum-disease/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A small trial found that chewing gum containing nitrate can ease the symptoms of gum disease by favouring the growth of beneficial mouth bacteria",
-      "date": "2026-05-04T10:00:45Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/30145253/SEI_295246738.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-05-04T11:57:31Z"
-    },
-    {
-      "title": "Long covid reveals the harm of one-size-fits-all medical treatment",
-      "link": "https://www.newscientist.com/article/mg27035932-200-long-covid-reveals-the-harm-of-one-size-fits-all-medical-treatment/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "While exercise and diet are frequently recommended as a universal way to improve your health, some conditions require more careful treatment",
-      "date": "2026-04-29T18:00:00Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/28131431/SEI_294991522.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-05-04T11:57:31Z"
-    },
-    {
-      "title": "Scientists use lasers to determine the age of sharks",
-      "link": "https://phys.org/news/2026-05-scientists-lasers-age-sharks.html",
-      "summary": "Not many scientific studies sound like a Bond film, but ours really does involve lasers, sharks and doctors (of research, not the evil kind).",
-      "date": "2026-05-04T11:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-use-lasers.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-04T11:57:32Z"
-    },
-    {
-      "title": "Nocturnal migratory birds follow rhythm of the moon, study shows",
-      "link": "https://phys.org/news/2026-05-nocturnal-migratory-birds-rhythm-moon.html",
-      "summary": "Moonlight determines when the red-necked nightjar feeds, migrates and raises its young. A groundbreaking long-term study from Lund University shows how the migratory bird's entire ",
-      "date": "2026-05-04T11:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nightjar.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-04T11:57:32Z"
     }
   ]
 }
