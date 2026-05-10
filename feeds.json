@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-10T17:03:36Z",
-  "updated_utc": "2026-05-10T17:03:36Z",
+  "updated": "2026-05-10T19:15:39Z",
+  "updated_utc": "2026-05-10T19:15:39Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Self‑destructive behavior among Hermann's tortoises on a Macedonian island is leading to 'demographic suicide'",
+      "link": "https://phys.org/news/2026-05-selfdestructive-behavior-hermann-tortoises-macedonian.html",
+      "summary": "On the strictly protected island of Golem Grad in North Macedonia, the tortoises are destroying their own population. During prolonged courtship, aggressive males are exhausting th",
+      "date": "2026-05-10T18:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/selfdestructive-behavi-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-10T19:15:36Z"
+    },
     {
       "title": "Under mushroom caps, 17-plus bacterial species help drive stubborn blotch disease",
       "link": "https://phys.org/news/2026-05-mushroom-caps-bacterial-species-stubborn.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-05-04T16:54:51Z"
-    },
-    {
-      "title": "May 1 full moon is a Flower Moon and micromoon",
-      "link": "https://earthsky.org/moon-phases/may-full-moon/",
-      "summary": "The 1st May full moon happens on May 1. It'll look full on the nights before and after that, too. The 2nd May full moon - a Blue Moon - will fall on May 30-31. The post May 1 full ",
-      "date": "2026-05-01T11:49:12Z",
-      "image": "https://earthsky.org/upl/2026/04/May-1-2026-evening-full-moon.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-05-04T14:24:35Z"
     }
   ]
 }
