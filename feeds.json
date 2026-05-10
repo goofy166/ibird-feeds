@@ -1,8 +1,30 @@
 {
-  "updated": "2026-05-10T04:05:51Z",
-  "updated_utc": "2026-05-10T04:05:51Z",
+  "updated": "2026-05-10T07:29:04Z",
+  "updated_utc": "2026-05-10T07:29:04Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Start of a new, niche addiction. Pelagics…",
+      "link": "https://www.10000birds.com/start-of-a-new-niche-addiction-pelagics.htm?utm_source=rss&utm_medium=rss&utm_campaign=start-of-a-new-niche-addiction-pelagics",
+      "summary": "After quite a long period of absence I am back! Good to be writing for 10.000 Birds again, excited to share some stories, hope you enjoy them! I am currently based in Perth, Wester",
+      "date": "2026-05-10T05:00:20Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/05/IMG_5377-scaled.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-05-10T07:28:45Z"
+    },
+    {
+      "title": "Newborns to silverbacks: counting mountain gorillas in Uganda – in pictures",
+      "link": "https://www.theguardian.com/environment/gallery/2026/may/10/gorillas-census-counting-numbers-uganda-bwindi-impenetrable-national-park-aoe",
+      "summary": "National Geographic photographer and WWF ambassador Jasper Doest joined conservation teams during the latest mountain gorilla census in Bwindi Impenetrable national park, taking pi",
+      "date": "2026-05-10T06:00:18Z",
+      "image": "https://i.guim.co.uk/img/media/5d38f05d4213bb10ba2b2390d7b0c02c5e3a0497/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=d4a50c80737539c4b8a400a17384533c",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-10T07:28:50Z"
+    },
     {
       "title": "Researchers develop a biodegradable wash that can remove pesticides and keep fruit fresh longer",
       "link": "https://phys.org/news/2026-05-biodegradable-pesticides-fruit-fresh-longer.html",
@@ -5476,28 +5498,6 @@
       "summary": "Moonlight determines when the red-necked nightjar feeds, migrates and raises its young. A groundbreaking long-term study from Lund University shows how the migratory bird's entire ",
       "date": "2026-05-04T11:40:01Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nightjar.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-04T11:57:32Z"
-    },
-    {
-      "title": "A simple filter swap could advance marine eDNA biomonitoring",
-      "link": "https://phys.org/news/2026-05-simple-filter-swap-advance-marine.html",
-      "summary": "Researchers at Aarhus University have demonstrated that a simple adjustment to water filtration methods can dramatically improve the detection of marine animal DNA when using advan",
-      "date": "2026-05-04T11:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-simple-filter-swap-c.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-04T11:57:32Z"
-    },
-    {
-      "title": "Digging deeper: How to protect pets from the New World screwworm",
-      "link": "https://phys.org/news/2026-05-deeper-pets-world-screwworm.html",
-      "summary": "Pet owners may be diligent about routine care, but even a minor wound can put animals at risk for dangerous parasites. One parasite that poses a potential threat is the New World s",
-      "date": "2026-05-04T11:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pet-dog-1.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
