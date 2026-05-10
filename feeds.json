@@ -1,8 +1,30 @@
 {
-  "updated": "2026-05-10T15:01:02Z",
-  "updated_utc": "2026-05-10T15:01:02Z",
+  "updated": "2026-05-10T17:03:36Z",
+  "updated_utc": "2026-05-10T17:03:36Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Under mushroom caps, 17-plus bacterial species help drive stubborn blotch disease",
+      "link": "https://phys.org/news/2026-05-mushroom-caps-bacterial-species-stubborn.html",
+      "summary": "A University of Florida study has made a key discovery in understanding a disease that for over a century has plagued the white button mushroom—a nutrient-dense vegetable that is v",
+      "date": "2026-05-10T17:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dna-analyses-uncover-w.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-10T17:03:32Z"
+    },
+    {
+      "title": "'More than 100 million years of evolution': How snakes evolved and lost their legs",
+      "link": "https://www.livescience.com/animals/snakes/more-than-100-million-years-of-evolution-how-snakes-evolved-and-lost-their-legs",
+      "summary": "Huge snakes, tiny snakes, poisonous snakes and constrictor snakes, snakes that slither, burrow or swim: New fossils and modern technology are tracing serpent origins",
+      "date": "2026-05-10T15:05:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ukZWXEFQV54gHZGwN8NDWg-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-10T17:03:33Z"
+    },
     {
       "title": "A Mount Everest Climber From Nepal Died in the Khumbu Icefall",
       "link": "https://www.outsideonline.com/outdoor-adventure/everest/mount-everest-ghimire-death/",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-05-04T14:24:35Z"
-    },
-    {
-      "title": "A.I. Outperformed Doctors at Diagnosing Real-World E.R. Patients in a New Study. That Doesn't Mean Computers Will Replace Clinicians",
-      "link": "https://www.smithsonianmag.com/smart-news/ai-outperformed-doctors-at-diagnosing-real-world-er-patients-in-a-new-study-that-doesnt-mean-computers-will-replace-clinicians-180988660/",
-      "summary": "One of OpenAI's large language models did better than physicians in several experiments, hinting that A.I.-assisted emergency medical care could be around the corner",
-      "date": "2026-05-04T14:00:00Z",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/11/a7/11a750e6-c82c-4b27-8fdb-8a14f17be4fa/the_emergency_entrance_at_erlanger_western_carolina_hospital_in_peachtree_north_carolina.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-04T14:24:41Z"
-    },
-    {
-      "title": "Nebraska: Getting to the “Heart” of America’s Heartland",
-      "link": "https://www.smithsonianmag.com/sponsored/nebraska-getting-to-the-heart-of-americas-heartland-180988560/",
-      "summary": "From the crane migration along the Platte to the galleries of Omaha, quiet Nebraska reveals itself to the traveler willing to slow down",
-      "date": "2026-05-04T13:50:40Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/Sh4EDZx95QJWf_DBMp55Yc847AM=/420x240/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2b/61/2b619076-1579-4e95-9bfe-3c376fe0851e/header-nebraska.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-04T14:24:41Z"
     }
   ]
 }
