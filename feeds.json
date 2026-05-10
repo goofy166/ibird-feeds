@@ -1,8 +1,30 @@
 {
-  "updated": "2026-05-10T13:45:30Z",
-  "updated_utc": "2026-05-10T13:45:30Z",
+  "updated": "2026-05-10T15:01:02Z",
+  "updated_utc": "2026-05-10T15:01:02Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A Mount Everest Climber From Nepal Died in the Khumbu Icefall",
+      "link": "https://www.outsideonline.com/outdoor-adventure/everest/mount-everest-ghimire-death/",
+      "summary": "Bijaya Ghimire, a high-altitude worker from Nepal, collapsed and died while ascending the Khumbu Icefall. Reports suggest Ghimire broke caste barriers in Nepal’s climbing community",
+      "date": "2026-05-10T14:39:21Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/Ghimire1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-10T15:00:54Z"
+    },
+    {
+      "title": "More polar bears are approaching human sites as the climate warms, and it's not just the skinny ones",
+      "link": "https://www.livescience.com/animals/bears/more-polar-bears-are-approaching-human-sites-as-the-climate-warms-and-its-not-just-the-skinny-ones",
+      "summary": "It's not just thinner bears that are coming ashore as the climate warms.",
+      "date": "2026-05-10T14:10:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/uUvGVEZxxfBQ4sLw2dJoYY-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-10T15:01:00Z"
+    },
     {
       "title": "Which organisms are most beneficial to humans without us realising?",
       "link": "https://www.theguardian.com/lifeandstyle/2026/may/10/which-organisms-are-most-beneficial-to-humans-without-us-realising",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-05-04T14:24:41Z"
-    },
-    {
-      "title": "Newly mapped brain networks link far-flung regions",
-      "link": "https://www.sciencenews.org/article/astrocytes-brain-networks-communicate",
-      "summary": "In mouse brains, star-shaped astrocytes form flexible networks that may offer another way for brain regions to communicate.",
-      "date": "2026-05-04T13:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/042726_LS_astrocyte_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-05-04T14:24:42Z"
-    },
-    {
-      "title": "Plants under stress switch from photosynthesis to protein cleanup, researchers show",
-      "link": "https://phys.org/news/2026-05-stress-photosynthesis-protein-cleanup.html",
-      "summary": "Plants are under constant stress due to pathogens, heat, or other environmental factors. Proteins can become damaged as a result and cell function is thrown off balance. Researcher",
-      "date": "2026-05-04T14:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-plants-rebalance-t.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-04T14:24:44Z"
     }
   ]
 }
