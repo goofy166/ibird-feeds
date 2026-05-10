@@ -1,8 +1,41 @@
 {
-  "updated": "2026-05-10T11:05:04Z",
-  "updated_utc": "2026-05-10T11:05:04Z",
+  "updated": "2026-05-10T13:45:30Z",
+  "updated_utc": "2026-05-10T13:45:30Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Which organisms are most beneficial to humans without us realising?",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/may/10/which-organisms-are-most-beneficial-to-humans-without-us-realising",
+      "summary": "The long-running series in which readers answer other readers’ questions on subjects ranging from trivial flights of fancy to profound scientific and philosophical concepts This we",
+      "date": "2026-05-10T13:00:26Z",
+      "image": "https://i.guim.co.uk/img/media/d84a0d35cce21e43ea0b68a915b0613b8fba0f1d/91_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=ce174d812ebe4fbb3838620164b5b962",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-10T13:45:15Z"
+    },
+    {
+      "title": "Pentagon UFO files released: Views from the moon and more",
+      "link": "https://earthsky.org/human-world/pentagon-ufo-files-uap-views-from-moon-nasa/",
+      "summary": "On May 8, 2026, the U.S. Pentagon released its 1st batch of Pentagon UFO files. They include some from Apollo moon missions 11, 12 and 17. The post Pentagon UFO files released: Vie",
+      "date": "2026-05-10T12:00:47Z",
+      "image": "https://earthsky.org/upl/2026/05/Apollo-12-UAP-November-1969.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-10T13:45:16Z"
+    },
+    {
+      "title": "Reading genetic activity from living cells without destroying them",
+      "link": "https://phys.org/news/2026-05-genetic-cells-destroying.html",
+      "summary": "Until now, studying the genetic processes in cells required destroying them—making it impossible to observe these processes over extended periods of time. A team from the Technical",
+      "date": "2026-05-10T12:30:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reading-genetic-activi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-10T13:45:26Z"
+    },
     {
       "title": "Three Photos: Home Range",
       "link": "https://www.10000birds.com/three-photos-home-range.htm?utm_source=rss&utm_medium=rss&utm_campaign=three-photos-home-range",
@@ -5465,39 +5498,6 @@
       "summary": "Plants are under constant stress due to pathogens, heat, or other environmental factors. Proteins can become damaged as a result and cell function is thrown off balance. Researcher",
       "date": "2026-05-04T14:20:04Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-plants-rebalance-t.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-04T14:24:44Z"
-    },
-    {
-      "title": "The Big Bang of plant life: Discovery sheds light on how cells form walls",
-      "link": "https://phys.org/news/2026-05-big-life-discovery-cells-walls.html",
-      "summary": "Cell walls are a crucial structure of plant life, protecting cells from damage, giving plants shape, and containing energy-rich nutrients. And yet the process of how the walls begi",
-      "date": "2026-05-04T14:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-big-bang-of-plant.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-04T14:24:44Z"
-    },
-    {
-      "title": "Chromatin tracking reveals two motion modes that help control gene expression",
-      "link": "https://phys.org/news/2026-05-chromatin-tracking-reveals-motion-modes.html",
-      "summary": "Gene expression is controlled, in part, by the interactions between genes and regulatory elements located along the genome. Those interactions depend on the ability of chromatin—a ",
-      "date": "2026-05-04T13:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-chromatin-movement.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-04T14:24:44Z"
-    },
-    {
-      "title": "Live camel transportation improved by using food as an incentive in place of physical punishment",
-      "link": "https://phys.org/news/2026-05-camel-food-incentive-physical.html",
-      "summary": "Around the world, millions of camels are farmed for milk and meat while others are used in leisure activities like racing and riding. Yet the treatment of these animals as livestoc",
-      "date": "2026-05-04T12:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/live-camel-transportat.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
