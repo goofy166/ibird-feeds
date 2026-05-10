@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-10T20:57:51Z",
-  "updated_utc": "2026-05-10T20:57:51Z",
+  "updated": "2026-05-10T21:57:48Z",
+  "updated_utc": "2026-05-10T21:57:48Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Pirouetting and gaping: mysterious whale behaviour documented as humpback migration begins",
+      "link": "https://www.theguardian.com/environment/2026/may/11/pirouetting-humpback-whales-mysterious-behaviour-migration",
+      "summary": "With the help of citizen scientists, researchers studying rare humpback ‘jaw-gaping’ believe the move could be a social display Follow our Australia news live blog for latest updat",
+      "date": "2026-05-10T15:00:29Z",
+      "image": "https://i.guim.co.uk/img/media/c79db95306a37a17fafa10ea60b44c6cfcfe6d37/229_0_2290_1832/master/2290.jpg?width=140&quality=85&auto=format&fit=max&s=a3bf7a2148f95d1ce2c2d483d97c2ecb",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-10T21:57:33Z"
+    },
     {
       "title": "Self‑destructive behavior among Hermann's tortoises on a Macedonian island is leading to 'demographic suicide'",
       "link": "https://phys.org/news/2026-05-selfdestructive-behavior-hermann-tortoises-macedonian.html",
@@ -5487,17 +5498,6 @@
       "summary": "A Hiroshima-University-led research team has discovered a key gene responsible for the initiation of gemma development, acting as a \"master switch\" to start asexual reproduction (c",
       "date": "2026-05-04T15:00:13Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-plants-make-copies.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-04T16:54:51Z"
-    },
-    {
-      "title": "Scientists uncover beetle transport system for newly identified 'towering' nematodes",
-      "link": "https://phys.org/news/2026-05-scientists-uncover-beetle-newly-towering.html",
-      "summary": "In 2025, Konstanz scientists looked very closely at rotting fruit in local orchards, and observed what no one had before—worms, hundreds of them, twisting skyward into self-assembl",
-      "date": "2026-05-04T15:00:12Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/beetles-are-likely-dis.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
