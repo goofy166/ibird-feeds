@@ -1,8 +1,30 @@
 {
-  "updated": "2026-05-11T05:02:08Z",
-  "updated_utc": "2026-05-11T05:02:08Z",
+  "updated": "2026-05-11T09:55:31Z",
+  "updated_utc": "2026-05-11T09:55:31Z",
   "count": 500,
   "stories": [
+    {
+      "title": "7 Functional Fitness Exercises to Help You Move More Efficiently on Outdoor Adventures",
+      "link": "https://www.outsideonline.com/health/training-performance/functional-fitness-outdoor-athletes/",
+      "summary": "A personal trainer and outdoor enthusiast shares the best exercises to protect your joints, move faster, and improve balance when you're hiking, running, or backpacking. The post 7",
+      "date": "2026-05-11T09:00:27Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/hiker-functional-fitness.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-11T09:55:22Z"
+    },
+    {
+      "title": "War‑driven sea detours are reshaping shipping routes, putting whales off South Africa in sudden peril",
+      "link": "https://phys.org/news/2026-05-wardriven-sea-detours-reshaping-shipping.html",
+      "summary": "Conflicts in the Middle East are increasing dangers for whales off South Africa by shifting sea traffic into their habitats and heightening the risks of collision, researchers told",
+      "date": "2026-05-11T08:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-southern-right-whale.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-11T09:55:27Z"
+    },
     {
       "title": "Country diary: Nesting mallard, owl and woodcock – this is the ‘human shield’ effect | Susie White",
       "link": "https://www.theguardian.com/environment/2026/may/11/country-diary-nesting-mallard-owl-and-woodcock-this-is-the-human-shield-effect",
@@ -5480,28 +5502,6 @@
       "category": "birds",
       "color": 3,
       "fetched_at": "2026-05-04T20:22:06Z"
-    },
-    {
-      "title": "The Whooper Highway",
-      "link": "https://www.allaboutbirds.org/news/the-whooper-highway/",
-      "summary": "",
-      "date": "2026-05-04T19:51:03Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Juvenile_Raggiana_Bird-of-Paradise.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-05-04T20:22:06Z"
-    },
-    {
-      "title": "TikTokers Are Freezing Their Shoes in Ice and Skiing on Grass. So We Had to Try It.",
-      "link": "https://www.outsideonline.com/culture/books-media/how-to-try-the-ice-shoe-trend/",
-      "summary": "A new viral trend takes warm-weather sledding to a ridiculous, freezing extreme. Here is what you need to know to try it safely in your own backyard. The post TikTokers Are Freezin",
-      "date": "2026-05-04T20:12:23Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/carter-ice-shoe-skiing.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-04T20:22:15Z"
     }
   ]
 }
