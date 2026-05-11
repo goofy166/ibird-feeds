@@ -1,8 +1,41 @@
 {
-  "updated": "2026-05-11T00:03:37Z",
-  "updated_utc": "2026-05-11T00:03:37Z",
+  "updated": "2026-05-11T05:02:08Z",
+  "updated_utc": "2026-05-11T05:02:08Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: Nesting mallard, owl and woodcock – this is the ‘human shield’ effect | Susie White",
+      "link": "https://www.theguardian.com/environment/2026/may/11/country-diary-nesting-mallard-owl-and-woodcock-this-is-the-human-shield-effect",
+      "summary": "Allendale, Northumberland: Once again, wildlife has made a home in our garden, in part because they feel safe here A big moon is cresting the Scots pine as I sit at an upstairs win",
+      "date": "2026-05-11T04:30:45Z",
+      "image": "https://i.guim.co.uk/img/media/78eb51c09770788f9cddeedded92bdc2ef016ea8/82_0_1630_1304/master/1630.jpg?width=140&quality=85&auto=format&fit=max&s=5a41009ee268989cbc512d705447c85f",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-11T05:01:53Z"
+    },
+    {
+      "title": "A lost ancient script reveals how writing as we know it really began",
+      "link": "https://www.newscientist.com/article/2524042-a-lost-ancient-script-reveals-how-writing-as-we-know-it-really-began/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A long-overlooked writing system from 5000 years ago is still largely undeciphered, but could mark the moment humans first represented their speech with written words",
+      "date": "2026-05-04T16:00:56Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/01154619/sei295391508.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-11T05:02:03Z"
+    },
+    {
+      "title": "Q&A: How jellyfish bycatch could be a valuable collagen source for cosmetics and biotech",
+      "link": "https://phys.org/news/2026-05-qa-jellyfish-bycatch-valuable-collagen.html",
+      "summary": "Dr. Ainara Ballesteros is a Juan de la Cierva postdoctoral researcher at the Institute of Environment and Marine Science Research at the Catholic University of Valencia, where she ",
+      "date": "2026-05-11T04:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-jellyfish-bycatch.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-11T05:02:04Z"
+    },
     {
       "title": "Hawks in Georgia",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/hawks-in-georgia/",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-05-04T20:22:15Z"
-    },
-    {
-      "title": "The Creator of 'Star Wars' Loves Art That Tells a Story. Peek at the Collection of George Lucas’ New Museum Before It Opens This Fall",
-      "link": "https://www.smithsonianmag.com/smart-news/the-creator-of-star-wars-loves-art-that-tells-a-story-peek-at-george-lucas-collection-before-his-new-museum-opens-this-fall-in-los-angeles-180988668/",
-      "summary": "Adventure, comics, childhood, love and everyday life are among the dozens of themes that will guide the curation of the new Lucas Museum of Narrative Art in Los Angeles",
-      "date": "2026-05-04T20:11:24Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/Gd2p81iRn2ZMdHW7BJqxkTyji5M=/420x240/filters:focal(666x441:667x442)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fa/18/fa18cab5-5768-422e-90e3-0928a399b74e/screenshot_2026-05-04_41305_pm.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-04T20:22:17Z"
-    },
-    {
-      "title": "Astronomers Discover 27 Potential Planets Each Orbiting Two Stars, Just Like the Fictional Tatooine in 'Star Wars'",
-      "link": "https://www.smithsonianmag.com/smart-news/astronomers-discover-27-potential-planets-each-orbiting-two-stars-just-like-the-fictional-tatooine-in-star-wars-180988667/",
-      "summary": "The findings could more than double our current database of worlds that loop around binary star systems. But researchers need to analyze more data before they can officially celebr",
-      "date": "2026-05-04T19:24:48Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/b8AdekQU_lVyiGrrYjqxKSC1cXI=/420x240/filters:focal(640x427:641x428)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/66/13/661361f1-6fe9-481e-bb16-d6e6e207118d/tatooine.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-04T20:22:17Z"
-    },
-    {
-      "title": "This Souvenir Bowl May Have Commemorated an Ancient Roman Soldier's Service at Hadrian's Wall. It Was Discovered on a Spanish Farm 1,900 Years Later",
-      "link": "https://www.smithsonianmag.com/smart-news/this-souvenir-bowl-may-have-commemorated-an-ancient-roman-soldiers-service-at-hadrians-wall-it-was-discovered-on-a-spanish-farm-1900-years-later-180988665/",
-      "summary": "The artifact is decorated with an illustration of the defensive fortification in northern England, but it was unearthed some 1,200 miles away. A new study suggests the design refle",
-      "date": "2026-05-04T18:23:56Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/OWA5mNeZuTfN8rTvS_grrh_19v0=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/af/14/af14e946-6b7d-47a8-9fc9-ed16ba47a5c8/bowl.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-04T20:22:17Z"
     }
   ]
 }
