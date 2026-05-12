@@ -1,8 +1,74 @@
 {
-  "updated": "2026-05-11T23:02:09Z",
-  "updated_utc": "2026-05-11T23:02:09Z",
+  "updated": "2026-05-12T03:55:01Z",
+  "updated_utc": "2026-05-12T03:55:01Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Uruguay – Profile for Birders",
+      "link": "https://www.10000birds.com/uruguay-profile-for-birders.htm?utm_source=rss&utm_medium=rss&utm_campaign=uruguay-profile-for-birders",
+      "summary": "Highlights Uruguay is a remarkable crossroads of biodiversity. Within just 600 km from end to end, an exceptional range of habitats converges, including Atlantic Forest, Chaco wood",
+      "date": "Tue, 12 May 2026 03Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/04/Departments_of_Uruguay_map.png",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-05-12T03:54:39Z"
+    },
+    {
+      "title": "Birds of prey in South Africa are in trouble—a study analyzes data from 16 years of road counts",
+      "link": "https://phys.org/news/2026-05-birds-prey-south-africa-years.html",
+      "summary": "Birds of prey and vultures (raptors) play a vital role in ecosystems, both as top predators and key scavengers. However, compared to many other bird species, raptor populations are",
+      "date": "2026-05-12T03:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/birds-of-prey-in-south.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-12T03:54:57Z"
+    },
+    {
+      "title": "Generative AI may significantly reduce the number of animal experiments",
+      "link": "https://phys.org/news/2026-05-generative-ai-significantly-animal.html",
+      "summary": "In early phases of drug development, new active substances are tested in animals—alongside numerous other experimental methods. Researchers face a dilemma: on the one hand, for eth",
+      "date": "2026-05-12T01:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/generative-ai-can-sign.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-12T03:54:57Z"
+    },
+    {
+      "title": "Why prescribed fire often fails: Scorched invasive shrubs can resprout instead of die",
+      "link": "https://phys.org/news/2026-05-invasive-shrubs-resprout-die.html",
+      "summary": "Invasive woody plants present a major ecological challenge in eastern U.S. forests by outcompeting native species and spreading quickly, forming dense thickets that crowd out nativ",
+      "date": "2026-05-12T00:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scorched-shrubs-sprout.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-12T03:54:57Z"
+    },
+    {
+      "title": "Pet loss is difficult for people—what about for other pets?",
+      "link": "https://phys.org/news/2026-05-pet-loss-difficult-people-pets.html",
+      "summary": "I recently lost one of my cocker spaniels, Bobbi. She was fit, healthy and active, but had a catastrophic diagnosis of oral melanoma two months before I had to make the decision th",
+      "date": "2026-05-12T00:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pet-dogs.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-12T03:54:57Z"
+    },
+    {
+      "title": "Brazilian microfossils interpreted as animal traces are actually algae and bacteria, research reveals",
+      "link": "https://phys.org/news/2026-05-brazilian-microfossils-animal-algae-bacteria.html",
+      "summary": "A reexamination of microfossils found in the Brazilian state of Mato Grosso do Sul shows that the marks previously interpreted as traces of worms or other small oceanic animals are",
+      "date": "2026-05-11T23:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/microfossils-interpret.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-12T03:54:57Z"
+    },
     {
       "title": "9 ways to experience Big Sur now that Highway 1 is fully open",
       "link": "https://www.mercurynews.com/2026/04/27/big-sur-highway-1-road-trip/",
@@ -5436,72 +5502,6 @@
       "category": "birds",
       "color": 0,
       "fetched_at": "2026-05-05T19:45:33Z"
-    },
-    {
-      "title": "Sustainable sushi: How to forage uni from California’s coastal tide pools",
-      "link": "https://www.mercurynews.com/2026/04/20/how-to-forage-uni-california-earth-day/",
-      "summary": "Peer into the water at the tide pools along the Sonoma Coast, and you'll see what appears to be an alien invasion of bright purple, spiky balls the size and shape of hacky sacks.",
-      "date": "2026-04-20T16:24:07Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SJM-L-UNI-0419-02.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-05-05T19:45:45Z"
-    },
-    {
-      "title": "Cancer Is Somehow Rare in the Heart. Turns Out, the Organ's Rhythmic Beat Might Keep the Disease at Bay, a Mouse Study Finds",
-      "link": "https://www.smithsonianmag.com/smart-news/cancer-is-somehow-rare-in-the-heart-turns-out-the-organs-rhythmic-beat-might-keep-the-disease-at-bay-a-mouse-study-finds-180988666/",
-      "summary": "Less than 1 percent of cancers start in the heart, and disease that begins elsewhere seldom spreads to the blood-pumping organ. New research suggests mechanical force might have a ",
-      "date": "Tue, 05 May 2026 18Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/JXU0W4CyXBxRathh6r0QlJeRhwU=/420x240/filters:focal(1024x1024:1025x1025)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b9/8e/b98eaa94-9820-41d0-8358-24d1f2b925b8/zacchigna0326-2048x2048.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-05T19:45:49Z"
-    },
-    {
-      "title": "In the Ancient World, This Pigment Was Worth More Than Gold. Archaeologists Discovered It Buried With Babies in Roman Coffins",
-      "link": "https://www.smithsonianmag.com/smart-news/in-the-ancient-world-this-pigment-was-worth-more-than-gold-archaeologists-discovered-it-buried-with-babies-in-roman-coffins-180988678/",
-      "summary": "A funerary custom in Roman Yorkshire of pouring liquid gypsum over bodies before burial preserved traces of Tyrian purple",
-      "date": "Tue, 05 May 2026 18Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/8ISwzkAN5EvKnfrdVnsdXoPIo40=/420x240/filters:focal(500x376:501x377)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b7/d4/b7d4f81e-3b57-44c9-a512-8200cdba35fb/seeing-dead-1000.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-05T19:45:49Z"
-    },
-    {
-      "title": "Tiny eggs may explain why ammonites vanished while nautiloids survived asteroid aftermath",
-      "link": "https://phys.org/news/2026-05-tiny-eggs-ammonites-nautiloids-survived.html",
-      "summary": "Some of the most beautiful creatures to grace the ancient seas, the ammonites, disappeared in the end-Cretaceous mass extinction that finished off the dinosaurs 65.5 million years ",
-      "date": "2026-05-05T19:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/another-clue-in-an-ext.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-05T19:45:53Z"
-    },
-    {
-      "title": "As sargassum floods Florida beaches, researchers uncover new use as food-grade ingredient",
-      "link": "https://phys.org/news/2026-05-sargassum-florida-beaches-uncover-food.html",
-      "summary": "As record-breaking amounts of sargassum seaweed drift toward Florida's shores, researchers at Florida International University are exploring how the coastal nuisance could become a",
-      "date": "2026-05-05T19:20:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/sargassum-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-05T19:45:53Z"
-    },
-    {
-      "title": "A chemical failsafe can save crops from disease without crushing growth",
-      "link": "https://phys.org/news/2026-05-chemical-failsafe-crops-disease-growth.html",
-      "summary": "Salicylic acid, the active molecule in aspirin and some acne medications, is a hormone in plants that is essential for immunity, but it's a double-edged sword: Too much can cause a",
-      "date": "2026-05-05T18:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-plants-regulate-sa.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-05T19:45:53Z"
     }
   ]
 }
