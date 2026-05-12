@@ -1,8 +1,96 @@
 {
-  "updated": "2026-05-12T06:42:32Z",
-  "updated_utc": "2026-05-12T06:42:32Z",
+  "updated": "2026-05-12T09:46:11Z",
+  "updated_utc": "2026-05-12T09:46:11Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘Six lanes of tarmac and vehicles doing 70mph’: can ‘green bridges’ help animals cross the UK’s motorways in safety?",
+      "link": "https://www.theguardian.com/environment/2026/may/12/cockrow-green-bridge-wildlife-road-crossings-aoe",
+      "summary": "Cockrow Bridge in Surrey will open in the coming weeks to provide wildlife, including lizards and insects, with the ability to move between fragmented habitats When James Herd move",
+      "date": "2026-05-12T09:00:43Z",
+      "image": "https://i.guim.co.uk/img/media/21125c63c66c7c48038369138f536bf6534538c6/2205_799_3151_2522/master/3151.jpg?width=140&quality=85&auto=format&fit=max&s=4d30359d4ccf6c6f0d811380d3171df9",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-12T09:45:56Z"
+    },
+    {
+      "title": "The New Podcast ‘What to Carry, What to Burn’ Will Change How You See Survival",
+      "link": "https://www.outsideonline.com/culture/books-media/what-to-carry-what-to-burn-podcast/",
+      "summary": "The dogledder and author just launched a new podcast that dives deep into some of the most harrowing survival tales, starting with the legendary Ada Blackjack. The post The New Pod",
+      "date": "Tue, 12 May 2026 09Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/braverman-and-dogs.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-12T09:46:03Z"
+    },
+    {
+      "title": "Sweden Has a Network of Secret Cabins—And You Can Stay in Them for Free",
+      "link": "https://www.outsideonline.com/adventure-travel/destinations/europe/how-to-stay-in-free-cabins-sweden/",
+      "summary": "A unique national tradition of public access lets you sleep in more than 200 remote cabins at no cost for one night. From 19th-century cottages to mountain huts, here is how to fin",
+      "date": "Tue, 12 May 2026 09Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/GettyImages-1161379264-Sweden-Cabin.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-12T09:46:03Z"
+    },
+    {
+      "title": "A new tectonic plate boundary could be forming in southern Africa",
+      "link": "https://www.newscientist.com/article/2526136-a-new-tectonic-plate-boundary-could-be-forming-in-southern-africa/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Gases collected from boiling mineral springs in Zambia contain the chemical signature of having come directly from the Earth’s mantle, a sign of a rupture in the tectonic plates an",
+      "date": "Tue, 12 May 2026 06Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/11141859/SEI_296636348.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-12T09:46:06Z"
+    },
+    {
+      "title": "Dengue outpaces virus-blocking mosquitoes in Brazil",
+      "link": "https://phys.org/news/2026-05-dengue-outpaces-virus-blocking-mosquitoes.html",
+      "summary": "Brazilian scientist Luciano Moreira tenderly handles a glass box of swarming mosquitoes infected with a bacterium that blocks the transmission of dengue.",
+      "date": "2026-05-12T09:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/view-of-aedes-aegypti.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-12T09:46:07Z"
+    },
+    {
+      "title": "Why are some people mosquito magnets? Clues are emerging",
+      "link": "https://phys.org/news/2026-05-people-mosquito-magnets-clues-emerging.html",
+      "summary": "Ever felt like mosquitoes bite you while ignoring everyone else? Scientists are now making progress in deciphering the complex chemical cocktail that makes particular people more e",
+      "date": "2026-05-12T09:09:51Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/drunk-beer-lately-that.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-12T09:46:07Z"
+    },
+    {
+      "title": "Ancient bacterial toolkit links human gut health to ocean carbon cycling",
+      "link": "https://phys.org/news/2026-05-ancient-bacterial-toolkit-links-human.html",
+      "summary": "Our gut is colonized by legions of bacteria, which supply us with essential nutrients and support our health. Among them are Akkermansia bacteria, which might be helpful in the man",
+      "date": "2026-05-12T08:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-bacteria-that-shap-3.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-12T09:46:07Z"
+    },
+    {
+      "title": "'The name was inaccurate': PCOS gets a new name after years-long effort",
+      "link": "https://www.livescience.com/health/reproductive-health/the-name-was-inaccurate-pcos-gets-a-new-name-after-years-long-effort",
+      "summary": "Polycystic ovary syndrome, or PCOS, has just been given a new name that experts say better reflects the nature of the condition.",
+      "date": "Tue, 12 May 2026 09Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/wRm6EgzPpP6LdH8o2ESai6-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-12T09:46:09Z"
+    },
     {
       "title": "Uruguay – Profile for Birders",
       "link": "https://www.10000birds.com/uruguay-profile-for-birders.htm?utm_source=rss&utm_medium=rss&utm_campaign=uruguay-profile-for-birders",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-05-05T21:09:51Z"
-    },
-    {
-      "title": "What Do Birds Eat?",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/what-do-birds-eat/",
-      "summary": "Birds are among the most diverse animals on Earth. From tiny hummingbirds that weigh less than a coin to towering ostriches taller than a person, … Read More \"What Do Birds Eat?\"",
-      "date": "2026-04-27T23:11:08Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/03/Finch-2.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-05T19:45:33Z"
-    },
-    {
-      "title": "Birds with the Largest Wingspan",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/birds-with-the-largest-wingspan/",
-      "summary": "When a truly big bird passes overhead, people stop talking. Conversations pause, heads tilt back, and for a moment everyone watches the sky. Wings stretch … Read More \"Birds with t",
-      "date": "2026-04-27T23:06:02Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/03/Gibson_s-Wandering-Albatross-94.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-05T19:45:33Z"
-    },
-    {
-      "title": "Birds with Long Tails",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/birds-with-long-tails/",
-      "summary": "A long tail can turn an ordinary bird into something unforgettable. Whether it streams behind like a ribbon, opens into an elaborate fan, or flicks … Read More \"Birds with Long Tai",
-      "date": "2026-04-27T23:05:24Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/03/Ribbon-tailed-Astrapia.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-05T19:45:33Z"
-    },
-    {
-      "title": "Black Birds with Red Wings",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/black-birds-with-red-wings/",
-      "summary": "Across wetlands, grasslands, forests, and even city parks, few sights are as striking as a black bird flashing red on its wings. That sudden burst … Read More \"Black Birds with Red",
-      "date": "2026-04-27T23:04:53Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/03/Tricolored-Blackbird.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-05T19:45:33Z"
-    },
-    {
-      "title": "Black Birds with Blue Heads",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/black-birds-with-blue-heads/",
-      "summary": "At first glance, a bird that looks black might seem simple in color, almost stark. But pause a moment longer, let the light shift, and … Read More \"Black Birds with Blue Heads\"",
-      "date": "2026-04-27T23:03:56Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/03/Common-Grackle.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-05T19:45:33Z"
-    },
-    {
-      "title": "Blue Birds with Orange Chests",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/blue-birds-with-orange-chests/",
-      "summary": "Few sights in nature feel as instantly uplifting as a flash of blue wings paired with a warm orange chest. This striking color combination seems … Read More \"Blue Birds with Orange",
-      "date": "2026-04-27T23:02:44Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/03/Eastern-Bluebird.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-05T19:45:33Z"
-    },
-    {
-      "title": "Can Birds Smell?",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/can-birds-smell/",
-      "summary": "For a long time, people believed birds could hardly smell at all. Because many species rely so heavily on vision and hearing, scientists once assumed … Read More \"Can Birds Smell?\"",
-      "date": "2026-04-27T23:02:13Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/03/Crow.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-05T19:45:33Z"
-    },
-    {
-      "title": "Do Birds Have Teeth?",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/do-birds-have-teeth/",
-      "summary": "If you’ve ever watched a sparrow cracking seeds or a pelican gulping down a fish whole, you might have wondered: do birds have teeth? The … Read More \"Do Birds Have Teeth?\"",
-      "date": "2026-04-27T23:01:06Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/03/Australian-Pelican-21.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-05T19:45:33Z"
     }
   ]
 }
