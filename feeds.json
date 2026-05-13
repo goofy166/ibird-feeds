@@ -1,8 +1,41 @@
 {
-  "updated": "2026-05-13T00:08:02Z",
-  "updated_utc": "2026-05-13T00:08:02Z",
+  "updated": "2026-05-13T04:53:51Z",
+  "updated_utc": "2026-05-13T04:53:51Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Top 10 Annual Flowers and Plants to Grow in Shade",
+      "link": "https://www.birdsandblooms.com/gardening/top-10-lists-for-gardeners/annual-flowers-shade/",
+      "summary": "Struggling with shade? Here are 10 of the our favorite bold and beautiful annual flowers to grow in shade gardens. The post Top 10 Annual Flowers and Plants to Grow in Shade appear",
+      "date": "Tue, 28 Apr 2026 18Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/04/endless_illumination_tag_0-e1777394406640.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-05-13T04:53:31Z"
+    },
+    {
+      "title": "Smuggled in syringes: how Nairobi became a nexus for the black market in giant harvester ants",
+      "link": "https://www.theguardian.com/environment/ng-interactive/2026/may/13/smuggled-illegal-global-trade-giant-harvester-ants-kenya-asia-europe",
+      "summary": "Court cases in Kenya point to a growing market for ants as exotic pets in Asia and Europe that has implications for conservation and biosecurity In the biblical text Book of Prover",
+      "date": "2026-05-13T02:00:16Z",
+      "image": "https://i.guim.co.uk/img/media/88f7fb875f287b024c2a91f828e752e77950744c/617_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=7a0bd3b3f807c211ebaf6ac3cd407446",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-13T04:53:35Z"
+    },
+    {
+      "title": "New Study Eavesdrops on the Secret Lives of Birds",
+      "link": "https://www.birds.cornell.edu/home/study-eavesdrops-on-birds/",
+      "summary": "Cornell Lab of Ornithology Scientists Use Microphones to Identify How Birds Respond to Predators.",
+      "date": "2026-05-06T19:38:31Z",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-05-13T04:53:50Z"
+    },
     {
       "title": "Don’t reach for the bug spray: scientists find insects may feel pain after crickets nurse sore antenna",
       "link": "https://www.theguardian.com/science/2026/may/13/insects-feel-pain-research",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-05-06T20:40:40Z"
-    },
-    {
-      "title": "Green and yellow light guide newborn whitefish to safety—but warming waters cause issues",
-      "link": "https://phys.org/news/2026-05-green-yellow-newborn-whitefish-safety.html",
-      "summary": "How do minute fish larvae find their way in complex and dangerous environments? And what role do different light colors play in their journey? These questions have hardly been rese",
-      "date": "2026-05-06T20:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/guided-by-light-fish-l-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-06T20:40:40Z"
-    },
-    {
-      "title": "DNA-guided CRISPR flips gene editing script, opening a new path for precise diagnosis and antivirals",
-      "link": "https://phys.org/news/2026-05-dna-crispr-flips-gene-script.html",
-      "summary": "A research team led by Prof. Hsing I-Ming, Professor of the Department of Chemical and Biological Engineering (CBE) at The Hong Kong University of Science and Technology (HKUST), i",
-      "date": "2026-05-06T19:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dna-guided-crispr-flip.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-06T20:40:40Z"
-    },
-    {
-      "title": "Happy 100th birthday, David Attenborough! 13 surprising facts about the famous naturalist",
-      "link": "https://www.livescience.com/planet-earth/happy-100th-birthday-david-attenborough-13-surprising-facts-about-the-famous-naturalist",
-      "summary": "As Sir David Attenborough turns 100, here are 13 surprising facts about the beloved broadcaster and environmental advocate whose voice has shaped how generations see the natural wo",
-      "date": "2026-05-06T20:25:58Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/C57wt3oV3mFeLoAZqGxtm7-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-06T20:40:42Z"
     }
   ]
 }
