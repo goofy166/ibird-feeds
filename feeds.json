@@ -1,8 +1,63 @@
 {
-  "updated": "2026-05-13T07:55:44Z",
-  "updated_utc": "2026-05-13T07:55:44Z",
+  "updated": "2026-05-13T10:37:54Z",
+  "updated_utc": "2026-05-13T10:37:54Z",
   "count": 500,
   "stories": [
+    {
+      "title": "I Used to Be a Ramp Skeptic. Then I Went Foraging in the Catskills.",
+      "link": "https://www.outsideonline.com/culture/essays-culture/catskills-foraging-ramps-debruce-spring-travel/",
+      "summary": "Ramps are the darling of the culinary world and the cliché of every spring menu. Our writer headed to the DeBruce in the Catskills to see if the \"wild leek\" actually lives up to th",
+      "date": "2026-05-13T10:00:26Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/OpenRamp_2400x1350.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-13T10:37:45Z"
+    },
+    {
+      "title": "Meet the Viral PCT Hiker Paying for Her Trip with OnlyFans",
+      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/kamryn-renae-pct-hiker-onlyfans/",
+      "summary": "Kamryn Renae's Instagram account exploded after she began posting flirty videos from the PCT, clad in pink booty shorts and matching nail polish. She knows what she is doing. The p",
+      "date": "2026-05-13T09:30:31Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/Kamryn-Kirkham.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-13T10:37:45Z"
+    },
+    {
+      "title": "A rare sanctuary in Congo looks after baby bonobos away from poaching threat",
+      "link": "https://phys.org/news/2026-05-rare-sanctuary-congo-baby-bonobos.html",
+      "summary": "Micheline Nzonzi cradled a small and sleepy bonobo, an orphan whose life she will try to save over the next three years or so.",
+      "date": "2026-05-13T08:19:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-rare-sanctuary-in-co.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-13T10:37:51Z"
+    },
+    {
+      "title": "Diagnostic dilemma: An infant's brown eyes turned indigo after COVID antiviral treatment",
+      "link": "https://www.livescience.com/health/medicine-drugs/diagnostic-dilemma-an-infants-brown-eyes-turned-indigo-after-covid-antiviral-treatment",
+      "summary": "In a visually striking medical case, a baby's eyes changed color while he was receiving care in a hospital.",
+      "date": "2026-05-13T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/iMoxH2aVUSKt9LcRLMqyBN-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-13T10:37:52Z"
+    },
+    {
+      "title": "AI self-replication hacks 'no longer purely theoretical,' study finds —‬ ‪but experts say it's too soon to panic",
+      "link": "https://www.livescience.com/technology/artificial-intelligence/ai-self-replication-hacks-no-longer-purely-theoretical-study-finds-but-experts-say-its-too-soon-to-panic",
+      "summary": "Researchers say AI models can now replicate themselves across vulnerable systems, but experts warn the real threat is not rogue machine intelligence but cybercriminals weaponizing ",
+      "date": "2026-05-13T09:30:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/G9LCJFeM88HJio2nATiwVV-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-13T10:37:52Z"
+    },
     {
       "title": "Killer Whale review – watery peril horror turns captive orca into angry BFF-threatener",
       "link": "https://www.theguardian.com/film/2026/may/13/killer-whale-review-ocean-peril-horror",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-05-06T22:03:56Z"
-    },
-    {
-      "title": "Nitrogen pollution identified as major driver of biodiversity loss in UK coastal waters",
-      "link": "https://phys.org/news/2026-05-nitrogen-pollution-major-driver-biodiversity.html",
-      "summary": "A new study of the British Isles' coastal ecosystems has revealed that nitrogen enrichment is significantly reducing the abundance and variety of marine life. The research, publish",
-      "date": "2026-05-06T21:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sea-snail.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-06T22:03:56Z"
-    },
-    {
-      "title": "Learn Bird Songs! 34 Common Species to Get You Started",
-      "link": "https://www.allaboutbirds.org/news/learn-bird-songs-34-common-species/",
-      "summary": "10 Common Bird Songs From Across North America Every week during spring, new birds are migrating back to your yard, neighborhood, and local parks. And once they return, they’ll let",
-      "date": "2026-05-06T18:38:11Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Psephotus_haematonotus_male.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-05-06T20:40:26Z"
-    },
-    {
-      "title": "Flying Drones Were Doing Valuable Work on Mount Everest. Then, Nepal Grounded Them.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/everest/nepal-everest-drone-cancel/",
-      "summary": "The government of Nepal recently canceled cargo drone operations on Everest, cutting off a valuable tool for guiding companies. The decision left politicians, outfitters, and the d",
-      "date": "2026-05-06T19:43:41Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/Airlift.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-06T20:40:35Z"
-    },
-    {
-      "title": "The 4 Best Women’s Travel Pants for Summer Vacations",
-      "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/womens-travel-pants/",
-      "summary": "For active summer travel, I need fancy sweats that keep up with me while staying stylish. These are my favorites. The post The 4 Best Women’s Travel Pants for Summer Vacations appe",
-      "date": "2026-05-06T18:39:19Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/travel_pants_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-06T20:40:35Z"
-    },
-    {
-      "title": "Deadly Brain-Eating Amoeba Detected in Yellowstone, Grand Teton, and Lake Mead",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/brain-eating-amoeba-yellowstone-grand-teton-lake-mead/",
-      "summary": "A 2026 study confirms Naegleria fowleri in popular national park hot springs and lakes. Here is what soakers need to know to stay safe. The post Deadly Brain-Eating Amoeba Detected",
-      "date": "2026-05-06T18:25:18Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/GettyImages-1189553026.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-06T20:40:35Z"
     }
   ]
 }
