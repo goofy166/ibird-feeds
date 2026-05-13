@@ -1,8 +1,41 @@
 {
-  "updated": "2026-05-13T04:53:51Z",
-  "updated_utc": "2026-05-13T04:53:51Z",
+  "updated": "2026-05-13T07:55:44Z",
+  "updated_utc": "2026-05-13T07:55:44Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Killer Whale review – watery peril horror turns captive orca into angry BFF-threatener",
+      "link": "https://www.theguardian.com/film/2026/may/13/killer-whale-review-ocean-peril-horror",
+      "summary": "When two BBFs on vacay decide to break into a water park with a dishy guy, there are a limited number of jump scares waiting for them Sharks have had plenty of airtime in horror/th",
+      "date": "2026-05-13T06:00:22Z",
+      "image": "https://i.guim.co.uk/img/media/9fe5c797b3809dd1fa87952832a04e214cc2ac7a/982_0_2176_1742/master/2176.jpg?width=140&quality=85&auto=format&fit=max&s=3a0f7722f0130997bd6a196862539f3f",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-13T07:55:30Z"
+    },
+    {
+      "title": "Birdwatch: missing breakfast to meet a copperback quail-thrush in Australia",
+      "link": "https://www.theguardian.com/environment/2026/may/13/birdwatch-missing-breakfast-to-meet-a-copperback-quail-thrush-in-australia",
+      "summary": "First we heard its call, then a large, plump bird materialised beneath a bush, walking purposefully towards us Few things beat breakfast in the bush. We were in the Mallee forest n",
+      "date": "2026-05-13T05:00:20Z",
+      "image": "https://i.guim.co.uk/img/media/9e171696556a8b96f12aa226f4826c4ab2c5a483/516_300_4794_3836/master/4794.jpg?width=140&quality=85&auto=format&fit=max&s=bec130b23de65eec113901bf0baa36fc",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-13T07:55:30Z"
+    },
+    {
+      "title": "Ten years on, the Nagoya Protocol on sharing genetic resources is still confusing scientists—guidance now available",
+      "link": "https://phys.org/news/2026-05-ten-years-nagoya-protocol-genetic.html",
+      "summary": "More than a decade after the Nagoya Protocol, which aims to fairly share the benefits of utilizing genetic resources, became law, microbiologists and other scientists still face pr",
+      "date": "2026-05-13T05:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ten-years-on-the-nagoy.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-13T07:55:41Z"
+    },
     {
       "title": "Top 10 Annual Flowers and Plants to Grow in Shade",
       "link": "https://www.birdsandblooms.com/gardening/top-10-lists-for-gardeners/annual-flowers-shade/",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-05-06T20:40:35Z"
-    },
-    {
-      "title": "After World War II, This German Artist Turned the Art World Upside Down—Literally, by Inverting His Paintings",
-      "link": "https://www.smithsonianmag.com/smart-news/after-world-war-ii-this-german-artist-turned-the-art-world-upside-down-literally-by-inverting-his-paintings-180988689/",
-      "summary": "Georg Baselitz, the renowned painter who played with perspective and flipped canvases on their head, died recently at age 88",
-      "date": "2026-05-06T19:42:26Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/vtRwh63CCl7pFVoTpyseNcAMFLM=/420x240/filters:focal(720x432:721x433)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7f/0d/7f0d6d79-be5d-432b-af8e-b9c237e9394b/gb_m_2023_01_17_littkemann.webp",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-06T20:40:37Z"
-    },
-    {
-      "title": "New long-necked dinosaur found in Northeast Brazil was a close relative of a European species",
-      "link": "https://phys.org/news/2026-05-necked-dinosaur-northeast-brazil-european.html",
-      "summary": "A study published in the Journal of Systematic Palaeontology describes a new species of dinosaur discovered during construction of a road-rail terminal in the city of Davinópolis i",
-      "date": "2026-05-06T20:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-long-necked-dinosa.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-06T20:40:40Z"
-    },
-    {
-      "title": "Death-defying protein found in tardigrades preserves synthetic cells",
-      "link": "https://phys.org/news/2026-05-death-defying-protein-tardigrades-synthetic.html",
-      "summary": "A protein found only in microscopic tardigrades, one that allows them to survive extreme conditions like dehydration, can convey similar durability in synthetic cells, according to",
-      "date": "2026-05-06T20:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/death-defying-protein.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-06T20:40:40Z"
     }
   ]
 }
