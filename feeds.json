@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-13T21:41:05Z",
-  "updated_utc": "2026-05-13T21:41:05Z",
+  "updated": "2026-05-13T23:12:54Z",
+  "updated_utc": "2026-05-13T23:12:54Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Long-overlooked gene for deglycosylating enzyme in fish embryo identified",
+      "link": "https://phys.org/news/2026-05-overlooked-gene-deglycosylating-enzyme-fish.html",
+      "summary": "RIKEN researchers have determined the molecular structure of an enzyme that occurs in fish. This could shed light on molecular processes in a wide range of marine organisms. The wo",
+      "date": "2026-05-13T22:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/long-overlooked-gene-f.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-13T23:12:50Z"
+    },
     {
       "title": "How to Use BirdCast Maps and Dashboard to See Your Local Migration in Detail",
       "link": "https://www.allaboutbirds.org/news/heres-how-to-use-the-new-migration-forecast-tools-from-birdcast/",
@@ -5491,17 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-05-07T14:35:25Z"
-    },
-    {
-      "title": "Why are scorpion stings so painful? Metal stingers!",
-      "link": "https://earthsky.org/earth/why-are-scorpion-stings-painful-metal-stingers-and-pincers/",
-      "summary": "Metal-tipped stingers and pincers could explain why scorpion stings and pinches are so painful. A new study has explored this amazing feature in more detail. The post Why are scorp",
-      "date": "Thu, 07 May 2026 08Z",
-      "image": "https://earthsky.org/upl/2026/05/Parabuthus_granulatus-van-Huyssteen-inaturalist.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-05-07T14:35:30Z"
     }
   ]
 }
