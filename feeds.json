@@ -1,8 +1,162 @@
 {
-  "updated": "2026-05-13T10:37:54Z",
-  "updated_utc": "2026-05-13T10:37:54Z",
+  "updated": "2026-05-13T13:22:34Z",
+  "updated_utc": "2026-05-13T13:22:34Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Bird Trivia",
+      "link": "https://www.10000birds.com/bird-trivia.htm?utm_source=rss&utm_medium=rss&utm_campaign=bird-trivia",
+      "summary": "In our household, we love trivia. We look forward to the trivia column in our local newspaper each Sunday and eagerly participate in trivia contests. My husband is the trivia quizm",
+      "date": "2026-05-13T11:00:32Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/05/Cartoon-Cardinal.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-05-13T13:22:14Z"
+    },
+    {
+      "title": "Unmasking Inspiration: A Blackpoll’s Surprise Rescue Mission",
+      "link": "https://www.10000birds.com/unmasking-inspiration-a-blackpolls-surprise-rescue-mission.htm?utm_source=rss&utm_medium=rss&utm_campaign=unmasking-inspiration-a-blackpolls-surprise-rescue-mission",
+      "summary": "The spring migration along the USA’s eastern coast seems to be slow in starting this year. At least for us on the mid-Atlantic Outer Banks we are seeing more shorebirds than warble",
+      "date": "2026-05-13T11:00:00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/05/Blackpoll-Warber-4b-2026-May-11-MAHs-HOUSE-US-NC-36.18782-75.75329-Dare-North-Carolina-US-1-of-1.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-05-13T13:22:14Z"
+    },
+    {
+      "title": "Ask a Bird Guide: Which bird book has been most useful to you in real life—and why?",
+      "link": "https://www.10000birds.com/ask-a-bird-guide-which-bird-book-has-been-most-useful-to-you-in-real-life-and-why.htm?utm_source=rss&utm_medium=rss&utm_campaign=ask-a-bird-guide-which-bird-book-has-been-most-useful-to-you-in-real-life-and-why",
+      "summary": "We sent out another list of questions to bird guides who have already been profiled on 10,000 Birds. In the first edition of this second series, we ask Which bird book has been the",
+      "date": "2026-05-13T11:00:00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/05/Black-crowned-Night-Heron_DSC6337-Nanhui-Jul-2017.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-05-13T13:22:14Z"
+    },
+    {
+      "title": "Learn Bird Songs! 34 Common Species to Get You Started",
+      "link": "https://www.allaboutbirds.org/news/learn-bird-songs-34-common-species/",
+      "summary": "10 Common Bird Songs From Across North America Every week during spring, new birds are migrating back to your yard, neighborhood, and local parks. And once they return, they’ll let",
+      "date": "2026-05-06T18:38:11Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Juvenile_Raggiana_Bird-of-Paradise.jpg",
+      "name": "All About Birds",
+      "category": "birds",
+      "color": 3,
+      "fetched_at": "2026-05-13T13:22:16Z"
+    },
+    {
+      "title": "Will Pluto become a planet again? The ongoing debate",
+      "link": "https://earthsky.org/space/will-pluto-become-a-planet-again-the-ongoing-debate/",
+      "summary": "Will Pluto become a planet again, or remain a dwarf planet under current definitions? Scientists still disagree nearly 2 decades after its reclassification. The post Will Pluto bec",
+      "date": "2026-05-13T12:00:09Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/RedFoxInSnow.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-13T13:22:21Z"
+    },
+    {
+      "title": "Brown dwarf population doubles to more than 6,000",
+      "link": "https://earthsky.org/space/brown-dwarf-population-doubles-more-than-6000/",
+      "summary": "Volunteers combing through years of space images have made discoveries that double the brown dwarf population. And you can join in the search! The post Brown dwarf population doubl",
+      "date": "2026-05-13T11:24:24Z",
+      "image": "https://earthsky.org/upl/2026/05/BrownDwarf_art-William-Pendrill-Backyardworlds-NASA-e1778193543882.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-13T13:22:21Z"
+    },
+    {
+      "title": "When the asteroid killed the dinosaurs: Blow-by-blow account",
+      "link": "https://earthsky.org/earth/when-the-asteroid-killed-the-dinosaurs-blow-by-blow-account/",
+      "summary": "What happened when the asteroid killed the dinosaurs some 66 million years ago? Read a blow-by-blow account of what the dinosaurs underwent. The post When the asteroid killed the d",
+      "date": "2026-05-13T11:00:08Z",
+      "image": "https://earthsky.org/upl/2025/02/dinosaurs-meteor-Earth-Geralt-Pixabay-e1738855253590.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-13T13:22:21Z"
+    },
+    {
+      "title": "The Best Backpacking Gear Under $100",
+      "link": "https://www.outsideonline.com/outdoor-gear/camping/backpacking-gear-under-100/",
+      "summary": "These 17 pieces of essential backpacking gear, each priced under $100, help you hit the trail without hitting overdraft limits. The post The Best Backpacking Gear Under $100 appear",
+      "date": "2026-05-13T10:31:02Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/backpacking-gear-under-100-feature.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-13T13:22:25Z"
+    },
+    {
+      "title": "How 'Seabird Sue' Blends Art and Science to Attract Birds Back to Lost Habitat",
+      "link": "https://www.smithsonianmag.com/innovation/how-seabird-sue-blends-art-and-science-to-attract-birds-back-to-lost-habitat-180988724/",
+      "summary": "For the past decade, Sue Schubel has been making detailed decoys of terns, puffins and other seabirds to entice real ones to restored or new homes",
+      "date": "2026-05-13T12:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/NMfK-SO8vsxZyXad3oj93THyx60=/420x240/filters:focal(1200x800:1201x801)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/69/d3/69d39088-9d98-41fa-b7d4-e121bed64976/header-bird-decoys.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-13T13:22:27Z"
+    },
+    {
+      "title": "New rules confirm public has a right to see how UK government uses AI",
+      "link": "https://www.newscientist.com/article/2526397-new-rules-confirm-public-has-a-right-to-see-how-uk-government-uses-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Government departments and other public bodies in the UK must consider requests to release information about AI-produced content, regulators have confirmed. The move follows a succ",
+      "date": "2026-05-13T12:00:25Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/13102324/SEI_296756725.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-13T13:22:29Z"
+    },
+    {
+      "title": "The stability paradox: How do organisms change shape over the course of evolution?",
+      "link": "https://phys.org/news/2026-05-stability-paradox-evolution.html",
+      "summary": "Researchers at the Technion have discovered how changes in genetic regulatory sequences can lead to alterations in the form and structure of animals—even when genetic regulatory sy",
+      "date": "2026-05-13T13:16:16Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-stability-paradox.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-13T13:22:30Z"
+    },
+    {
+      "title": "For veterinarians in training, AI helps instructors improve feedback",
+      "link": "https://phys.org/news/2026-05-veterinarians-ai-instructors-feedback.html",
+      "summary": "When third-year veterinary students at Cummings School of Veterinary Medicine at Tufts University step into the operating room to undertake their inaugural surgery, the energy in t",
+      "date": "2026-05-13T13:10:39Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/for-veterinarians-in-t-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-13T13:22:30Z"
+    },
+    {
+      "title": "How the world's missing beetles could save the rainforest",
+      "link": "https://phys.org/news/2026-05-world-beetles-rainforest.html",
+      "summary": "Describing new species can take decades. But scientists are working to identify new ways to speed up our understanding of this hidden biodiversity. By looking at the genetic data o",
+      "date": "2026-05-13T12:36:50Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-the-worlds-missing.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-13T13:22:30Z"
+    },
+    {
+      "title": "Strange 500-million-year-old marine fossils reveal a feeding strategy that still shapes oceans today",
+      "link": "https://phys.org/news/2026-05-strange-million-year-marine-fossils.html",
+      "summary": "More than 500 million years ago, during what is known as the Cambrian period, the seas and oceans on Earth were filled with a myriad of marine animals, many of which have now becom",
+      "date": "2026-05-13T12:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-insight-into-the-f.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-13T13:22:30Z"
+    },
     {
       "title": "I Used to Be a Ramp Skeptic. Then I Went Foraging in the Catskills.",
       "link": "https://www.outsideonline.com/culture/essays-culture/catskills-foraging-ramps-debruce-spring-travel/",
@@ -5348,160 +5502,6 @@
       "category": "birds",
       "color": 0,
       "fetched_at": "2026-05-07T03:55:54Z"
-    },
-    {
-      "title": "Hummingbirds in North Carolina: Top 11 You Can Spot with Pictures",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/hummingbirds-in-north-carolina-top-11-you-can-spot-with-pictures/",
-      "summary": "North Carolina is known for its beautiful beaches and breathtaking mountains. It’s also where the first air flight ever took place. In addition to its beautiful landscape, there ar",
-      "date": "Thu, 07 May 2026 03Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/08/How-Far-Can-Hummingbirds-See.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-07T03:55:54Z"
-    },
-    {
-      "title": "How Long Do Hawks Stay in One Area?",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/how-long-do-hawks-stay-in-one-area/",
-      "summary": "If you’re interested in the behavior and habits of hawks, then this article is for you. Whether you’re a backyard birder who’s trying to keep … Read More \"How Long Do Hawks Stay in",
-      "date": "Thu, 07 May 2026 03Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/10/Cooper_s-Hawk-By-lwolfartist.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-07T03:55:54Z"
-    },
-    {
-      "title": "Why 2026 Could Be One of the Worst Wildfire Seasons in Recent U.S. History",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/outdoor-adventure-environment-2026-wildfire-season-forecast-usfs-restructuring/",
-      "summary": "With 62 percent of the U.S. in drought and a massive Forest Service restructuring underway, experts like Riva Duncan warn of an unsustainable 2026 wildfire season. The post Why 202",
-      "date": "2026-05-06T23:18:29Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/GettyImages-76829460.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-06T23:57:08Z"
-    },
-    {
-      "title": "Rare footage of elusive sea-floor creatures and backward-swimming fish captured by compact video-acoustic system",
-      "link": "https://phys.org/news/2026-05-rare-footage-elusive-sea-floor.html",
-      "summary": "Arctic glacial fjords are hotspots of marine life, yet their seafloor environments remain some of the least explored regions on Earth. Their extreme remoteness and the technical ch",
-      "date": "2026-05-06T22:50:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rare-footage-of-elusiv.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-06T23:57:13Z"
-    },
-    {
-      "title": "Cold-triggered ion channel in bacteria may point to broader temperature-sensing mechanism",
-      "link": "https://phys.org/news/2026-05-cold-triggered-ion-channel-bacteria.html",
-      "summary": "All lifeforms need to continuously adapt to temperature changes to survive. Now, Weill Cornell Medicine investigators studying a bacterial protein have identified a new mechanism o",
-      "date": "2026-05-06T22:30:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-kind-of-cold-sen.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-06T23:57:13Z"
-    },
-    {
-      "title": "How higher temperatures can benefit (or devastate) bumble bee populations",
-      "link": "https://phys.org/news/2026-05-higher-temperatures-benefit-devastate-bumble.html",
-      "summary": "New research finds that higher temperatures can actually benefit some bumble bee species—particularly those that make subterranean nests. However, periods of extreme heat appear to",
-      "date": "2026-05-06T22:20:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-higher-temperature.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-06T23:57:13Z"
-    },
-    {
-      "title": "Dating over 50 is probably on the rise – but we know little about it",
-      "link": "https://www.newscientist.com/article/2525520-dating-over-50-is-probably-on-the-rise-but-we-know-little-about-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Research into dating has until now almost exclusively focused on younger people, but we’re finally beginning to investigate how romance changes in later life",
-      "date": "2026-05-06T20:00:36Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/06141806/SEI_296011227.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-05-06T22:03:55Z"
-    },
-    {
-      "title": "Bronze Age Britons fashioned copper-mining tools out of old bones",
-      "link": "https://www.newscientist.com/article/2525361-bronze-age-britons-fashioned-copper-mining-tools-out-of-old-bones/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "An analysis of 150 artefacts from a site in Wales shows that the ancient practice of making tools out of bone persisted even after the advent of metal-working",
-      "date": "2026-05-06T18:00:21Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/06124337/SEI_295942708.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-05-06T22:03:55Z"
-    },
-    {
-      "title": "Gut bacteria reveal hidden evolutionary lineages tied to aging and disease",
-      "link": "https://phys.org/news/2026-05-gut-bacteria-reveal-hidden-evolutionary.html",
-      "summary": "The human gut harbors a complex ecosystem of trillions of microorganisms (the microbiome), which influences digestion, the immune system and metabolism. A research team led by the ",
-      "date": "2026-05-06T22:00:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gut-microbiome-landsca.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-06T22:03:56Z"
-    },
-    {
-      "title": "An experiment shows that yellow trout can grow larger than the wild strain",
-      "link": "https://phys.org/news/2026-05-yellow-trout-larger-wild-strain.html",
-      "summary": "An experiment conducted in the state of São Paulo, Brazil, has concluded that yellow trout can grow larger than the wild strain, which is the most commonly farmed phenotype of rain",
-      "date": "2026-05-06T22:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/in-an-experiment-yello.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-06T22:03:56Z"
-    },
-    {
-      "title": "Genetic 'bonus material' boosts gut bacterium's oxygen tolerance up to 1,000-fold",
-      "link": "https://phys.org/news/2026-05-genetic-bonus-material-boosts-gut.html",
-      "summary": "The bacterium Segatella copri is one of the most common inhabitants of the human gut. In their latest study, researchers at the Helmholtz Centre for Infection Research (HZI) have d",
-      "date": "2026-05-06T21:40:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genetic-bonus-material.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-06T22:03:56Z"
-    },
-    {
-      "title": "Membrane complex aids rock-eating microbes in converting carbon dioxide to biomass",
-      "link": "https://phys.org/news/2026-05-membrane-complex-aids-microbes-carbon.html",
-      "summary": "So-called rock-eating microorganisms obtain their energy to convert carbon dioxide (CO2) from inorganic sources and make up the vast majority of biomass producers. Using electron m",
-      "date": "2026-05-06T21:40:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/membrane-complex-aids.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-06T22:03:56Z"
-    },
-    {
-      "title": "Cool beans, smart roots: Special cell helps seedlings survive drought battered and nutrient poor soils",
-      "link": "https://phys.org/news/2026-05-cool-beans-smart-roots-special.html",
-      "summary": "Researchers have identified a previously unknown cell type hidden on the roots of common beans, a microscopic survival mechanism that could inform the development of more climate-r",
-      "date": "2026-05-06T21:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cool-beans-smart-roots-3.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-06T22:03:56Z"
-    },
-    {
-      "title": "Hybrid vein networks in tree leaves reveal a new model of biological design",
-      "link": "https://phys.org/news/2026-05-hybrid-vein-networks-tree-reveal.html",
-      "summary": "A leaf may appear to be one of the simplest structures in nature, thin, delicate and easily overlooked. At first glance, it seems far removed from the complex systems that scientis",
-      "date": "2026-05-06T21:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hybrid-vein-networks-i.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-06T22:03:56Z"
     }
   ]
 }
