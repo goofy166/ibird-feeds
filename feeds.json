@@ -1,8 +1,151 @@
 {
-  "updated": "2026-05-14T12:58:37Z",
-  "updated_utc": "2026-05-14T12:58:37Z",
+  "updated": "2026-05-14T15:27:27Z",
+  "updated_utc": "2026-05-14T15:27:27Z",
   "count": 500,
   "stories": [
+    {
+      "title": "If You See Black Mold on Milkweed, This Is What It Means",
+      "link": "https://www.birdsandblooms.com/gardening/gardening-basics/black-sooty-mold/",
+      "summary": "If you see black mold on a milkweed plant, you probably wonder if the plant is diseased or dying. Find out what is causing the this problem. The post If You See Black Mold on Milkw",
+      "date": "Thu, 07 May 2026 17Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/05/GettyImages-2250321154-e1778170644461.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-05-14T15:27:08Z"
+    },
+    {
+      "title": "Fetuses Can 'Catch' Yawns From Their Mothers While Still in the Womb, New Research Suggests",
+      "link": "https://www.smithsonianmag.com/smart-news/fetuses-can-catch-yawns-from-their-mothers-while-still-in-the-womb-new-research-suggests-180988735/",
+      "summary": "Yawning is considered a social behavior. While fetuses were known to yawn, scientists weren't sure if it was a self-contained reflex or if they could somehow detect cues from their",
+      "date": "Thu, 14 May 2026 14Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/JqxquEoA7OLqWr_l2FbrQ7Q3w9s=/420x240/filters:focal(2592x1728:2593x1729)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ca/62/ca62b500-d1be-4c87-90fe-080c2b54c721/tung256-yawn-2073293.jpg",
+      "name": "Smithsonian",
+      "category": "butterflies",
+      "color": 10,
+      "fetched_at": "2026-05-14T15:27:20Z"
+    },
+    {
+      "title": "AI can take the friction out of life, but some effort can be good",
+      "link": "https://www.sciencenews.org/article/ai-removes-friction-effort-balance-good",
+      "summary": "Technologies, including chatbots, promise to make life easier. But removing the friction, or effort involved in thinking, has costs.",
+      "date": "Thu, 14 May 2026 15Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/050626_SG_frictionmaxxing_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-05-14T15:27:21Z"
+    },
+    {
+      "title": "Female rats like a different kind of tickling than males",
+      "link": "https://www.sciencenews.org/article/rats-tickling-preference-happiness",
+      "summary": "Female rats prefer gentler tickling, a finding that could reshape animal happiness research.",
+      "date": "Thu, 14 May 2026 13Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/050626_HT_tickling_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-05-14T15:27:21Z"
+    },
+    {
+      "title": "Will burying dead trees after a wildfire keep their carbon locked up?",
+      "link": "https://www.newscientist.com/article/2526532-will-burying-dead-trees-after-a-wildfire-keep-their-carbon-locked-up/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Partially burnt trees still standing after a wildfire are typically felled and burned, but a US start-up claims burying them instead will trap the carbon underground for centuries",
+      "date": "Thu, 14 May 2026 15Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/14110638/SEI_296967081.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-14T15:27:23Z"
+    },
+    {
+      "title": "Rebooting stem cells builds aged muscles and assists injury recovery",
+      "link": "https://www.newscientist.com/article/2526626-rebooting-stem-cells-builds-aged-muscles-and-assists-injury-recovery/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Muscle stem cells, which are crucial for building new muscle, don’t work as well as we get older, but giving them an artificial boost could rejuvenate them",
+      "date": "Thu, 14 May 2026 11Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/14113307/SEI_297085070.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-14T15:27:23Z"
+    },
+    {
+      "title": "3 things you need to know about quantum computers, from an expert",
+      "link": "https://www.newscientist.com/article/2526072-3-things-you-need-to-know-about-quantum-computers-from-an-expert/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "What use is a quantum computer? Perhaps both more and less than you think, according to quantum computing expert Shayan Majidy",
+      "date": "Thu, 14 May 2026 13Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/11121906/SEI_296641886.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-14T15:27:23Z"
+    },
+    {
+      "title": "Autonomous underwater robot discovers hidden coral reef 'hotspots'",
+      "link": "https://phys.org/news/2026-05-autonomous-underwater-robot-hidden-coral.html",
+      "summary": "Researchers have developed an autonomous system for seeking out and mapping hotspots of biodiversity on coral reefs with unprecedented precision, offering a powerful new tool for s",
+      "date": "2026-05-14T15:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/autonomous-underwater.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-14T15:27:24Z"
+    },
+    {
+      "title": "Machine-learning method maps the uncertainty of biodiversity scenarios: The Bigfoot connection",
+      "link": "https://phys.org/news/2026-05-machine-method-uncertainty-biodiversity-scenarios.html",
+      "summary": "To effectively protect biodiversity in an era of climate change, ecologists first have to know where animal and plant species are located and then be able to predict what habitats ",
+      "date": "2026-05-14T14:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bigfoot.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-14T15:27:24Z"
+    },
+    {
+      "title": "Hairy new fish species discovered in the Great Barrier Reef",
+      "link": "https://phys.org/news/2026-05-hairy-fish-species-great-barrier.html",
+      "summary": "Swimming among the corals of the Great Barrier Reef is a fish that could be a doppelganger for the famous Sesame Street character Mr. Snuffleupagus. This bright orange-red, hairy, ",
+      "date": "2026-05-14T13:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hairy-new-fish-species-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-14T15:27:24Z"
+    },
+    {
+      "title": "High-status Roman woman was buried in a lead coffin with jet hairpins and exotic resins, archaeologists find",
+      "link": "https://www.livescience.com/archaeology/romans/high-status-roman-woman-was-buried-in-a-lead-coffin-with-jet-hairpins-and-exotic-resins-archaeologists-find",
+      "summary": "A burial of an elite Roman-era woman who appears to have been buried with exotic resins has been discovered in Colchester.",
+      "date": "Thu, 14 May 2026 14Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/KnTjzZWpyFKi7qNKsCWBBT-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-14T15:27:25Z"
+    },
+    {
+      "title": "Photometrics AI Integrates Data from Bird Migration Forecasts to Automatically Dim Streetlights to Protect Birds",
+      "link": "https://www.birds.cornell.edu/home/photometrics-ai-uses-bird-data-to-adjust-streetlights/",
+      "summary": "New lighting system uses BirdCast data to enable real-time lighting adjustments during peak migration periods to reduce bird collisions with buildings.",
+      "date": "Tue, 10 Feb 2026 19Z",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-05-14T15:27:26Z"
+    },
+    {
+      "title": "Scientists Just Mapped the Family Tree of 11,000+ Bird Species—And You Can Explore It",
+      "link": "https://www.birds.cornell.edu/home/scientists-map-interactive-avian-tree-of-life/",
+      "summary": "The new illustrated Birds of the World Phylogeny Explorer by the Cornell Lab of Ornithology lets users trace any bird's lineage, compare species relationships, and explore major ev",
+      "date": "2026-01-28T14:39:09Z",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-05-14T15:27:26Z"
+    },
     {
       "title": "The Brief Brilliance of the Lazuli Bunting",
       "link": "https://www.10000birds.com/the-brief-brilliance-of-the-lazuli-bunting.htm?utm_source=rss&utm_medium=rss&utm_campaign=the-brief-brilliance-of-the-lazuli-bunting",
@@ -5359,149 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-05-07T22:09:37Z"
-    },
-    {
-      "title": "Scientists uncover hidden parasite diversity in barb fish from the Sea of Galilee",
-      "link": "https://phys.org/news/2026-05-scientists-uncover-hidden-parasite-diversity.html",
-      "summary": "When most people think about biodiversity in lakes and rivers, they imagine fish, plants, or perhaps birds and amphibians. But beneath the surface exists another world that often g",
-      "date": "2026-05-07T22:00:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-uncover-hid-7.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-07T22:09:38Z"
-    },
-    {
-      "title": "Pilot whales are already 'shouting' at full volume, but one busy waterway is pushing them to the edge",
-      "link": "https://phys.org/news/2026-05-whales-shouting-full-volume-busy.html",
-      "summary": "With over 60,000 ships passing through the Strait of Gibraltar each year, this stretch between the Atlantic and Mediterranean is one of the busiest waterways on the planet. This na",
-      "date": "2026-05-07T22:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pilot-whale.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-07T22:09:38Z"
-    },
-    {
-      "title": "How soil bacteria help plants defend themselves against disease",
-      "link": "https://phys.org/news/2026-05-soil-bacteria-defend-disease.html",
-      "summary": "A study led by researchers at the University of Liège reveals the mechanism by which surfactin, a molecule produced by beneficial soil bacteria, activates plants' immune defenses. ",
-      "date": "2026-05-07T21:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-soil-bacteria-help.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-07T22:09:38Z"
-    },
-    {
-      "title": "Ultrasound waves rupture COVID-19 and flu viruses without damaging cells",
-      "link": "https://phys.org/news/2026-05-ultrasound-rupture-covid-flu-viruses.html",
-      "summary": "Researchers at the University of São Paulo (USP) in Brazil have discovered that high-frequency ultrasound waves similar to those used in medical exams can eliminate viruses such as",
-      "date": "2026-05-07T21:20:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrasound-waves-ruptu.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-07T22:09:38Z"
-    },
-    {
-      "title": "A targeted 'off switch' in a plant's egg cell speeds up the breeding process",
-      "link": "https://phys.org/news/2026-05-egg-cell.html",
-      "summary": "An international research team led by the IPK Leibniz Institute has succeeded in generating haploids in the model plant Arabidopsis thaliana very efficiently. This process involves",
-      "date": "2026-05-07T21:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-targeted-off-switch.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-07T22:09:38Z"
-    },
-    {
-      "title": "Gaming monkeys' curiosity: Japanese macaques actively explore moderately uncertain stimuli",
-      "link": "https://phys.org/news/2026-05-gaming-monkeys-curiosity-japanese-macaques.html",
-      "summary": "The intrinsic information-seeking impulse we call curiosity is independent of extrinsic rewards, such as food or mating opportunities. Curiosity is purely the pursuit of understand",
-      "date": "2026-05-07T20:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gaming-monkeys-curiosi.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-07T22:09:38Z"
-    },
-    {
-      "title": "A Cattle Farm in Alabama Draws Birders for a Spectacle of Kites",
-      "link": "https://www.birds.cornell.edu/home/a-cattle-farm-in-alabama-draws-birders-for-a-spectacle-of-kites/",
-      "summary": "",
-      "date": "Tue, 24 Mar 2026 13Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Firefly_in_the_night.jpg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-05-07T22:09:40Z"
-    },
-    {
-      "title": "Tracking the Very Large, Very Elusive Star of Papua’s Forests: the Northern Cassowary",
-      "link": "https://www.birds.cornell.edu/home/tracking-the-very-large-very-elusive-star-of-papuas-forests-the-northern-cassowary/",
-      "summary": "",
-      "date": "Tue, 24 Mar 2026 13Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Apis_mellifera_flying.jpg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-05-07T22:09:40Z"
-    },
-    {
-      "title": "Study reveals new technique to identify individual night-flying birds for the first time",
-      "link": "https://www.birds.cornell.edu/home/new-tech-to-id-night-migrating-birds/",
-      "summary": "Using thermal imaging and digital photography, researchers can now spot and identify birds that migrate silently through the night sky—a method that could reveal new insights into ",
-      "date": "2026-03-06T15:33:00Z",
-      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-05-07T22:09:40Z"
-    },
-    {
-      "title": "Academic Books, Book Chapters And Papers In Conference Proceedings",
-      "link": "https://www.birds.cornell.edu/home/academic-books-book-chapters-and-papers-in-conference-proceedings/",
-      "summary": "Books Dhondt AA. 2012. Interspecific competition in birds. Oxford University Press. Clobert J, E Danchin, AA Dhondt, and J Nichols (eds). 2001. Dispersal. Oxford University Press. ",
-      "date": "Thu, 19 Feb 2026 16Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Common_European_Bumblebee.jpg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-05-07T22:09:40Z"
-    },
-    {
-      "title": "New Research Forecasts the Impacts of Fire on Birds",
-      "link": "https://www.birds.cornell.edu/home/forecasting-impacts-of-fire-on-birds/",
-      "summary": "Where will severe fires threaten the most birds in the future? New research identifies where future high-severity fires threaten biodiversity hotspots in the western United States",
-      "date": "2026-02-18T18:17:27Z",
-      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-05-07T22:09:40Z"
-    },
-    {
-      "title": "The Best Butterfly Plants for Shade Gardens",
-      "link": "https://www.birdsandblooms.com/gardening/attracting-butterflies/butterfly-plants-shade/",
-      "summary": "Want to attract more butterflies to your shade garden? Start with our expert's list of the best shade plants for butterflies. The post The Best Butterfly Plants for Shade Gardens a",
-      "date": "Thu, 07 May 2026 19Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/05/shutterstock_1311423623-e1778178949605.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-05-07T20:20:20Z"
-    },
-    {
-      "title": "A Yellowstone Grizzly Had a Fierce Standoff with a Wolf Pack. It Was Caught on Video.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/wildlife-grizzly-bear-wolf-yellowstone-video/",
-      "summary": "Watch grizzlies and wolves battle over a carcass in Yellowstone. An expert breaks down the rare footage and the science behind these apex predator face-offs. The post A Yellowstone",
-      "date": "Thu, 07 May 2026 19Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/GettyImages-532803193.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-07T20:20:30Z"
     }
   ]
 }
