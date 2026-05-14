@@ -1,8 +1,41 @@
 {
-  "updated": "2026-05-14T04:02:12Z",
-  "updated_utc": "2026-05-14T04:02:12Z",
+  "updated": "2026-05-14T07:48:41Z",
+  "updated_utc": "2026-05-14T07:48:41Z",
   "count": 500,
   "stories": [
+    {
+      "title": "8 Garden Caterpillars That You Should Never Kill",
+      "link": "https://www.birdsandblooms.com/gardening/garden-bugs/garden-caterpillars/",
+      "summary": "These garden caterpillars are friends, not foes! See which caterpillars won't hurt you or your plants, and how to identify the future moths and butterflies. The post 8 Garden Cater",
+      "date": "2026-04-29T20:09:15Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/04/353717156_1_Ethan_Hardwick_BNB_PC_2023-e1777482690923.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-05-14T07:48:20Z"
+    },
+    {
+      "title": "Top 10 Drought-Tolerant Annuals That Love Hot, Dry Summers",
+      "link": "https://www.birdsandblooms.com/gardening/top-10-lists-for-gardeners/drought-tolerant-annuals/",
+      "summary": "No rain in the forecast? No problem! Try these drought tolerant annuals that you can grow all summer, either in garden beds or in containers. The post Top 10 Drought-Tolerant Annua",
+      "date": "2026-04-29T18:42:23Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/04/251053578_1_Teresa_Fortney_BNB_BYPC2020-e1777477311526.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-05-14T07:48:20Z"
+    },
+    {
+      "title": "Country diary: This weary traveller has escaped the hunter’s gun | Sarah Lambert",
+      "link": "https://www.theguardian.com/environment/2026/may/14/country-diary-this-weary-traveller-has-escaped-the-hunters-gun",
+      "summary": "Maxey Cut, Cambridgeshire: There’s so much precious wildlife around this old flood-relief channel including sea trout and eels. But I’ve come to hear the purr of the turtle dove Th",
+      "date": "2026-05-14T04:30:16Z",
+      "image": "https://i.guim.co.uk/img/media/040288e1d709fc8c23ee8c56128db5a0fcac9d3f/71_0_1299_1039/master/1299.jpg?width=140&quality=85&auto=format&fit=max&s=260b7f41759c869a5c076189d65d37db",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-14T07:48:27Z"
+    },
     {
       "title": "Choughs reappear at Tintagel Castle in Cornwall after decades of absence",
       "link": "https://www.theguardian.com/environment/2026/may/14/choughs-reappear-tintagel-castle-cornwall-king-arthur",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-05-07T16:58:35Z"
-    },
-    {
-      "title": "Ancient sea fossils indicate millipede and centipede ancestors evolved their legs while still underwater",
-      "link": "https://phys.org/news/2026-05-ancient-sea-fossils-millipede-centipede.html",
-      "summary": "The myriapoda group of arthropods includes the many-legged centipedes and millipedes that most people are familiar with. Although myriapods are all terrestrial creatures, researche",
-      "date": "2026-05-07T14:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-fossils-indica-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-07T16:58:35Z"
-    },
-    {
-      "title": "Gold sword scabbard discovered under toppled tree in Norway was likely 'sacrificed' by an elite warrior 1,500 years ago",
-      "link": "https://www.livescience.com/archaeology/gold-sword-scabbard-discovered-under-toppled-tree-in-norway-was-likely-sacrificed-by-an-elite-warrior-1-500-years-ago",
-      "summary": "A hiker poked into a hole in the ground and discovered a rare gold scabbard ornament from Norway's Migration period.",
-      "date": "Thu, 07 May 2026 16Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/z2BaQ5udLWfqHJGhfnTryE-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-07T16:58:36Z"
-    },
-    {
-      "title": "More doomed Franklin expedition sailors identified, revealing clues about how they tried to find safety",
-      "link": "https://www.livescience.com/archaeology/more-doomed-franklin-expedition-sailors-identified-revealing-clues-about-how-they-tried-to-find-safety",
-      "summary": "DNA from living descendants of relatives have allowed four members of the ill-fated Franklin expedition to be identified.",
-      "date": "Thu, 07 May 2026 15Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/GNUB2CAPcnsMgzK8kfsqCH-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-07T16:58:36Z"
     }
   ]
 }
