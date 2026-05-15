@@ -1,8 +1,63 @@
 {
-  "updated": "2026-05-15T00:02:52Z",
-  "updated_utc": "2026-05-15T00:02:52Z",
+  "updated": "2026-05-15T04:56:04Z",
+  "updated_utc": "2026-05-15T04:56:04Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: Charmed once again by the unscrupulous cuckoo | Mary Montague",
+      "link": "https://www.theguardian.com/environment/2026/may/15/country-diary-charmed-once-again-by-the-unscrupulous-cuckoo",
+      "summary": "Murlough Nature Reserve, Dundrum, County Down: Its arrival signals the start of summer, and another cycle of its extraordinary breeding method Sheltered from the Irish Sea by the t",
+      "date": "2026-05-15T04:30:27Z",
+      "image": "https://i.guim.co.uk/img/media/cc79e3cd71c316833326f54e17b614f5ceba435a/554_0_5616_4492/master/5616.jpg?width=140&quality=85&auto=format&fit=max&s=e3e4d23048932538bf628daef059424b",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-15T04:55:48Z"
+    },
+    {
+      "title": "US miner under further investigation after destroying WA habitat of black cockatoos, quokkas and numbats",
+      "link": "https://www.theguardian.com/australia-news/2026/may/15/alcoa-investigated-destroying-australia-wa-habitat-black-cockatoos-quokkas-numbats",
+      "summary": "Pressure grows on Alcoa over strip-mining of Western Australian jarrah forest, which also threatens Perth’s water supply Get our breaking news email , free app or daily news podcas",
+      "date": "2026-05-15T04:11:00Z",
+      "image": "https://i.guim.co.uk/img/media/6194b206a52e9f5456a548da0d3035458c683113/178_0_846_677/master/846.jpg?width=140&quality=85&auto=format&fit=max&s=58c567cfb23619c570d64f37c06117dd",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-15T04:55:48Z"
+    },
+    {
+      "title": "‘Touch the earth lightly’: the Australian home that floats above the landscape",
+      "link": "https://www.theguardian.com/environment/2026/may/15/australian-home-that-floats-above-the-landscape-glenn-murcutt-lynne-eastaway",
+      "summary": "Artist owner of iconic stilt-mounted 1980s Ball-Eastaway House near Sydney prepares to pass on custodianship The house teaches you things, Lynne Eastaway says. Today, a choir of ci",
+      "date": "2026-05-15T02:00:24Z",
+      "image": "https://i.guim.co.uk/img/media/c398fb982cfca98fa6b845f10c31e65483e9556d/325_0_4612_3691/master/4612.jpg?width=140&quality=85&auto=format&fit=max&s=81b79a1affde188ca36ca42a9642149e",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-15T04:55:48Z"
+    },
+    {
+      "title": "How ion channels inside cells manipulate the cytoskeleton",
+      "link": "https://phys.org/news/2026-05-ion-channels-cells-cytoskeleton.html",
+      "summary": "Microglia, the immune cells that protect the brain, are thought to maintain a healthy brain environment by removing unwanted substances through dynamic remodeling of the actin cyto",
+      "date": "2026-05-15T01:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ion-channels-inside-ce.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-15T04:56:00Z"
+    },
+    {
+      "title": "Soil also suffers from heat waves: Organic waste boosts its tolerance to 50°C",
+      "link": "https://phys.org/news/2026-05-soil-boosts-tolerance-50c.html",
+      "summary": "The successive heat waves that sweep across southern Spain in summer have harmful effects on the entire community that lives there, from humans to the microbes that inhabit the soi",
+      "date": "2026-05-15T00:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/soil-also-suffers-from.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-15T04:56:00Z"
+    },
     {
       "title": "The 'silent' invasion of a widespread freshwater jellyfish across Europe",
       "link": "https://phys.org/news/2026-05-silent-invasion-widespread-freshwater-jellyfish.html",
@@ -5447,61 +5502,6 @@
       "category": "birds",
       "color": 3,
       "fetched_at": "2026-05-08T12:14:36Z"
-    },
-    {
-      "title": "Surprise! Tiny world with an atmosphere in outer solar system",
-      "link": "https://earthsky.org/space/tiny-world-with-an-atmosphere-outer-solar-system-tno-2002-xv93/",
-      "summary": "Researchers have found that outer solar system object 2002 XV93 is a tiny world with an atmosphere. How does such a small object have an atmosphere? The post Surprise! Tiny world w",
-      "date": "2026-05-08T11:45:58Z",
-      "image": "https://earthsky.org/upl/2026/05/TNO-passing-in-front-of-star-artist-illustration-NAOJ-May-5-2026.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-05-08T12:14:41Z"
-    },
-    {
-      "title": "Do birds have accents? Regional differences in birdsong",
-      "link": "https://earthsky.org/earth/do-birds-have-accents-regional-differences-in-birdsong/",
-      "summary": "Do birds have accents? Yes. From individual to geographical variation, here's why birds of the same species don't always sound the same. The post Do birds have accents? Regional di",
-      "date": "2026-05-08T11:35:23Z",
-      "image": "https://earthsky.org/upl/2025/04/singing-great-tit-birds-wikipedia-e1778233983831.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-05-08T12:14:41Z"
-    },
-    {
-      "title": "Von Kármán vortices are mesmerizing, swirling clouds",
-      "link": "https://earthsky.org/earth/these-are-von-karman-vortices/",
-      "summary": "See von Kármán vortices - mesmerizing, swirling pattern of clouds - in these satellite images. These clouds form when the wind hits a barrier like a mountain. The post Von Kármán v",
-      "date": "2026-05-08T10:55:17Z",
-      "image": "https://earthsky.org/upl/2026/05/von-Karman-vortices.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-05-08T12:14:41Z"
-    },
-    {
-      "title": "Neanderthal 'kneeprint' found next to mysterious stalagmite circle",
-      "link": "https://www.newscientist.com/article/2525539-neanderthal-kneeprint-found-next-to-mysterious-stalagmite-circle/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "An impression made in clay around 175,000 years ago could be a kneeprint left by one of the builders of a strange stalagmite circle found deep inside Bruniquel cave in south-west F",
-      "date": "2026-05-08T10:11:57Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/07134803/SEI_296031949.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-05-08T12:14:51Z"
-    },
-    {
-      "title": "New Scientist recommends Attenborough documentary Making Life on Earth",
-      "link": "https://www.newscientist.com/article/2524041-new-scientist-recommends-attenborough-documentary-making-life-on-earth/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "The books, TV, games and more that New Scientist staff have enjoyed this week",
-      "date": "2026-05-06T18:00:38Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/23102630/sei294296307.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-05-08T12:14:51Z"
     }
   ]
 }
