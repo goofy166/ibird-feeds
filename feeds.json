@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-14T22:16:24Z",
-  "updated_utc": "2026-05-14T22:16:24Z",
+  "updated": "2026-05-15T00:02:52Z",
+  "updated_utc": "2026-05-15T00:02:52Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The 'silent' invasion of a widespread freshwater jellyfish across Europe",
+      "link": "https://phys.org/news/2026-05-silent-invasion-widespread-freshwater-jellyfish.html",
+      "summary": "A new study published in the journal People and Nature reveals a significant gap in public awareness regarding one of the world's most widespread invasive species: the freshwater j",
+      "date": "2026-05-15T00:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/silent-invasion-of-a-w.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-15T00:02:48Z"
+    },
     {
       "title": "So Many Ways to Moab",
       "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/so-many-ways-to-moab/",
@@ -5487,17 +5498,6 @@
       "summary": "The books, TV, games and more that New Scientist staff have enjoyed this week",
       "date": "2026-05-06T18:00:38Z",
       "image": "https://images.newscientist.com/wp-content/uploads/2026/04/23102630/sei294296307.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-05-08T12:14:51Z"
-    },
-    {
-      "title": "The mathematician who doesn’t exist",
-      "link": "https://www.newscientist.com/article/2525614-the-mathematician-who-doesnt-exist/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A secret society of French mathematicians has been revolutionising the field of mathematics under a pseudonym for nearly a century. Columnist Jacob Aron finds that this mythic coll",
-      "date": "2026-05-08T09:00:34Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/06191520/SEI_296032634.jpg",
       "name": "New Scientist",
       "category": "insects",
       "color": 12,
