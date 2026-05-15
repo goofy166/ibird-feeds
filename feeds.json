@@ -1,8 +1,85 @@
 {
-  "updated": "2026-05-15T16:55:27Z",
-  "updated_utc": "2026-05-15T16:55:27Z",
+  "updated": "2026-05-15T18:25:50Z",
+  "updated_utc": "2026-05-15T18:25:50Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Chonkers is the huge, cuddle-seeking celebrity that San Francisco craves",
+      "link": "https://www.mercurynews.com/2026/04/30/chonkers-is-the-huge-cuddle-seeking-celebrity-that-san-francisco-craves/",
+      "summary": "A Steller sea lion that's been hanging out at Pier 39 has become an unexpected sensation.",
+      "date": "Thu, 30 Apr 2026 18Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SJM-L-CHONKERS-0501-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-05-15T18:25:39Z"
+    },
+    {
+      "title": "Crabs’ sideways walk may have evolved just once",
+      "link": "https://www.sciencenews.org/article/crab-sideways-walk-evolved-once",
+      "summary": "A study of 50 crab species in Japan traces the iconic sideways walk to a single ancestor, suggesting the trait drove the group's remarkable diversity.",
+      "date": "2026-05-15T17:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/050826_SB_crabwalk_social.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-05-15T18:25:44Z"
+    },
+    {
+      "title": "Single-molecule RNA mapping may reveal how shape shifts steer health and disease",
+      "link": "https://phys.org/news/2026-05-molecule-rna-reveal-shifts-health.html",
+      "summary": "Researchers from A*STAR Genome Institute of Singapore (A*STAR GIS) have developed a new method to study individual RNA molecules and reveal how their structures influence gene regu",
+      "date": "2026-05-15T18:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/astar-scientists-devel.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-15T18:25:46Z"
+    },
+    {
+      "title": "Climate warming causes bleaching in key Arctic lichen, study finds",
+      "link": "https://phys.org/news/2026-05-climate-key-arctic-lichen.html",
+      "summary": "Long-term climate warming is causing a bleaching effect in a key Arctic lichen species, according to new research led by researchers in the School of GeoSciences and British Antarc",
+      "date": "2026-05-15T17:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-warming-causes.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-15T18:25:46Z"
+    },
+    {
+      "title": "Implantable bacteria can now be safely contained, clearing a major hurdle for fighting infection and cancer",
+      "link": "https://phys.org/news/2026-05-implantable-bacteria-safely-major-hurdle.html",
+      "summary": "Researchers have long known that bacteria could potentially be used to deliver therapeutic drugs inside the human body. However, safely and successfully carrying out such a feat in",
+      "date": "2026-05-15T17:01:47Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-overcome-m.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-15T18:25:46Z"
+    },
+    {
+      "title": "Why is almost everyone right-handed? The answer may lie in how we learned to walk",
+      "link": "https://phys.org/news/2026-05-why-is-almost-everyone-right.html",
+      "summary": "It is one of the strangest puzzles in human evolution. About 90% of people across every human culture favor their right hand—with no other primate species showing a population-leve",
+      "date": "2026-05-15T17:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-is-almost-everyone-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-15T18:25:46Z"
+    },
+    {
+      "title": "Researchers identify enzyme that prevents chromosome breaks during DNA copying",
+      "link": "https://phys.org/news/2026-05-enzyme-chromosome-dna.html",
+      "summary": "Researchers at The University of Texas Medical Branch (UTMB) have identified how a key enzyme called ATR protects DNA from breaking when cells copy damaged genetic material, a disc",
+      "date": "2026-05-15T17:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/dna.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-15T18:25:46Z"
+    },
     {
       "title": "Moroccan adventure II",
       "link": "https://www.10000birds.com/moroccan-adventure-ii.htm?utm_source=rss&utm_medium=rss&utm_campaign=moroccan-adventure-ii",
@@ -5425,83 +5502,6 @@
       "category": "birds",
       "color": 0,
       "fetched_at": "2026-05-09T04:28:32Z"
-    },
-    {
-      "title": "Best Compact Binoculars for Birding: The Ultimate Guide",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/best-compact-binoculars-for-birding-the-ultimate-guide/",
-      "summary": "If you’re into birdwatching, you know that investing in suitable binoculars will greatly impact the time you spend in nature. You need lightweight and compact … Read More \"Best Com",
-      "date": "2026-05-09T00:49:53Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/05/Swarovski-EL-8x32-Binoculars.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-09T04:28:32Z"
-    },
-    {
-      "title": "Pregnancy Changes Mothers' Brains. These Recent Discoveries Are Showing Us How",
-      "link": "https://www.smithsonianmag.com/science-nature/pregnancy-changes-mothers-brains-these-recent-discoveries-are-showing-us-how-180988713/",
-      "summary": "“Baby brain” isn’t the deficit it’s stereotyped to be, research suggests. Neural adaptations during pregnancy can prime soon-to-be-moms to become more attuned to their children and",
-      "date": "2026-05-09T00:23:25Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/R2Xqb0os_Kerd03Xiap2nd4TVyM=/420x240/filters:focal(566x364:567x365)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/75/68/7568516e-b516-4e5b-ab9b-971e270277af/gettyimages-2268670039.jpg",
-      "name": "Smithsonian",
-      "category": "butterflies",
-      "color": 10,
-      "fetched_at": "2026-05-09T04:28:48Z"
-    },
-    {
-      "title": "Invasive species discovered at drinking water treatment plants in San Jose",
-      "link": "https://www.mercurynews.com/2026/05/08/invasive-species-discovered-at-drinking-water-treatment-plants-in-san-jose/",
-      "summary": "Fast-spreading hardy mussels from China, already in Delta and spreading across California, could cost millions to control",
-      "date": "2026-05-08T22:26:17Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/05/SJM-L-MUSSELS-01.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-05-09T00:01:44Z"
-    },
-    {
-      "title": "The Best Car Camping Gear, Gadgets, and Accessories of 2026",
-      "link": "https://www.outsideonline.com/outdoor-gear/camping/best-camping-accessories/",
-      "summary": "Bags, tools, and little extras to make camp feel like your home away from home The post The Best Car Camping Gear, Gadgets, and Accessories of 2026 appeared first on Outside Online",
-      "date": "2026-05-08T20:37:50Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2023/05/car-camping-gear-sgg23_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-08T22:04:53Z"
-    },
-    {
-      "title": "Why Did This Wealthy Scotsman Pay a Jeweler to Wrap His Teeth in Gold Wire Hundreds of Years Ago?",
-      "link": "https://www.smithsonianmag.com/smart-news/why-did-this-wealthy-scotsman-pay-a-jeweler-to-wrap-his-teeth-in-gold-wire-hundreds-of-years-ago-180988709/",
-      "summary": "What an early example of a dental bridge reveals about health, wealth and social values in the late medieval and early modern world",
-      "date": "2026-05-08T21:32:24Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/NGAXQsdB6tY00BlNXoDfcDWOWzA=/420x240/filters:focal(583x389:584x390)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b7/0a/b70a6d21-a815-45a6-ac69-cd72058ea54b/41415_2025_9107_fig1_html_1.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-08T22:04:55Z"
-    },
-    {
-      "title": "King Charles features in surprise birthday tribute to David Attenborough",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/may/08/king-charles-birthday-tribute-film-david-attenborough-100",
-      "summary": "Whimsical film shows relay of animals carrying centennial card from Balmoral Castle to naturalist in London King Charles has featured in a surprise birthday tribute to David Attenb",
-      "date": "2026-05-08T19:50:36Z",
-      "image": "https://i.guim.co.uk/img/media/1667a85413b4ee6298df76de4bdb9625389a0b90/2727_0_10800_8640/master/10800.jpg?width=140&quality=85&auto=format&fit=max&s=8f3a47f9bd7c293e9d5ab55649ed2792",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-05-08T20:10:51Z"
-    },
-    {
-      "title": "The Simple Way to Make Your Expensive Camping Tent Last a Lifetime",
-      "link": "https://www.outsideonline.com/outdoor-gear/camping/tent-care-maintenance/",
-      "summary": "A tent is an investment. Here’s how to make it last forever. The post The Simple Way to Make Your Expensive Camping Tent Last a Lifetime appeared first on Outside Online .",
-      "date": "2026-05-08T19:50:41Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/how-to-care-tent.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-08T20:10:57Z"
     }
   ]
 }
