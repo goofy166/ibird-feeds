@@ -1,8 +1,41 @@
 {
-  "updated": "2026-05-15T04:56:04Z",
-  "updated_utc": "2026-05-15T04:56:04Z",
+  "updated": "2026-05-15T08:09:26Z",
+  "updated_utc": "2026-05-15T08:09:26Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Week in wildlife: super-rare bongos, ducks on parade and Marmalade the Thames seal",
+      "link": "https://www.theguardian.com/environment/gallery/2026/may/15/week-in-wildlife-super-rare-bongos-ducks-on-parade-and-marmalade-the-thames-seal",
+      "summary": "This week’s best wildlife photographs from around the world Continue reading...",
+      "date": "2026-05-15T07:41:28Z",
+      "image": "https://i.guim.co.uk/img/media/d81e46231c90d67f0e22b30568c66b4ee1916f98/804_0_6134_4910/master/6134.jpg?width=140&quality=85&auto=format&fit=max&s=5b9450d8cdf007ccca967529b87f0188",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-15T08:09:10Z"
+    },
+    {
+      "title": "Britons to vote in inaugural contest to find nation’s favourite butterfly",
+      "link": "https://www.theguardian.com/environment/2026/may/15/britain-vote-contest-find-nation-favourite-butterfly",
+      "summary": "Butterfly Conservation poll is open until 7 June with choice of 60 species from small tortoiseshells to purple emperors Will it be the rapidly disappearing former garden favourite,",
+      "date": "2026-05-15T05:00:27Z",
+      "image": "https://i.guim.co.uk/img/media/7e552e6e278e483231a3d9bcbe31d8416ccf6b08/17_40_1709_1367/master/1709.jpg?width=140&quality=85&auto=format&fit=max&s=15f656a0e4664eeef9b4abee93a79d7c",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-15T08:09:10Z"
+    },
+    {
+      "title": "Baily’s beads seen during a solar eclipse today in 1836",
+      "link": "https://earthsky.org/space/this-date-in-science-bailys-beads-discovered/",
+      "summary": "May 15, 1836: Francis Baily, an English astronomer, saw light shining through lunar ridges during an eclipse of the sun. These are now known as Baily's beads. The post Baily’s bead",
+      "date": "2026-05-15T06:42:25Z",
+      "image": "https://earthsky.org/upl/2013/05/bailys-beads-Fred-Espenak-1999.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-15T08:09:12Z"
+    },
     {
       "title": "Country diary: Charmed once again by the unscrupulous cuckoo | Mary Montague",
       "link": "https://www.theguardian.com/environment/2026/may/15/country-diary-charmed-once-again-by-the-unscrupulous-cuckoo",
@@ -5469,39 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-05-08T12:14:34Z"
-    },
-    {
-      "title": "Species Spotlight: Scarlet Finch",
-      "link": "https://www.10000birds.com/species-spotlight-scarlet-finch.htm?utm_source=rss&utm_medium=rss&utm_campaign=species-spotlight-scarlet-finch",
-      "summary": "For reasons not entirely clear to me (and most likely completely obscure to any readers of this post), seeing the Scarlet Finch at Baihualing, Yunnan, reminded me of a song by a no",
-      "date": "2026-05-08T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/03/Scarlet-Finch_DSC6261_Baihualing-Yunnan-Mar-09-2026.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-05-08T12:14:34Z"
-    },
-    {
-      "title": "How to Use Spectrograms to Learn Details of Bird Songs",
-      "link": "https://www.allaboutbirds.org/news/how-to-use-spectrograms-learn-bird-songs/",
-      "summary": "Bird songs and calls can be hard to learn—they’re so intricate, and they go by so fast. That’s why ornithologists use spectrograms—visualizations that allow you to see the shape of",
-      "date": "2026-04-08T21:00:45Z",
-      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/03/Indigo-Bunting-Emily-Tallo-Illinois-639396909-1280x720.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-05-08T12:14:36Z"
-    },
-    {
-      "title": "Basic Parts of a Bird Song: Rhythm, Repetition, Pitch, and Tone",
-      "link": "https://www.allaboutbirds.org/news/parts-bird-song-rhythm-repetition-pitch-tone/",
-      "summary": "When you first listen to a dawn chorus in full swing, the sheer onslaught of bird song can be overwhelming. How does anyone start to pick apart the chirps, whistles, ... Read more ",
-      "date": "2026-04-08T20:58:35Z",
-      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/04/Nashville-Warbler-Shailesh-Pinto-Michigan-268052371_banner.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-05-08T12:14:36Z"
     }
   ]
 }
