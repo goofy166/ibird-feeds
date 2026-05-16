@@ -1,8 +1,52 @@
 {
-  "updated": "2026-05-16T15:03:59Z",
-  "updated_utc": "2026-05-16T15:03:59Z",
+  "updated": "2026-05-16T17:07:13Z",
+  "updated_utc": "2026-05-16T17:07:13Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Sun news: Solar wind arrived and arrived strong last night",
+      "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+      "summary": "Sun news for May 16, 2026. The expected G2 geomagnetic storm arrived as solar winds increased to high levels. Storming might continue this weekend. The post Sun news: Solar wind ar",
+      "date": "2026-05-16T10:55:53Z",
+      "image": "https://earthsky.org/upl/2026/05/May-16-26-Aurora-forecast-oval.-ezgif.com-video-to-webp-converter.webp",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-16T17:07:00Z"
+    },
+    {
+      "title": "Visible planets and night sky guide for May",
+      "link": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
+      "summary": "Visible planets and night sky guide. Watch for Venus and Jupiter, both shining in the west in the evening sky. They're getting closer together, day by day. The post Visible planets",
+      "date": "2026-05-16T08:13:08Z",
+      "image": "https://earthsky.org/upl/2026/05/Jupiter-Venus-May-2026-a.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-16T17:07:00Z"
+    },
+    {
+      "title": "Common cancer protein may be therapeutic target, study finds",
+      "link": "https://phys.org/news/2026-05-common-cancer-protein-therapeutic.html",
+      "summary": "A protein doctors routinely use to measure how aggressively tumors are growing may also help prevent the chromosome errors that drive cancer, new research by academics at Brunel Un",
+      "date": "2026-05-16T17:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/-common-cancer-protein.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-16T17:07:10Z"
+    },
+    {
+      "title": "Why some water fleas suddenly grow helmets: Key receptors reveal how predator warnings trigger defense",
+      "link": "https://phys.org/news/2026-05-fleas-suddenly-helmets-key-receptors.html",
+      "summary": "Daphnia, commonly known as water fleas, are tiny crustaceans that live in freshwater ponds and lakes. When they sense predators in their surroundings, these small organisms can swi",
+      "date": "2026-05-16T16:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-tiny-water-fleas-d-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-16T17:07:10Z"
+    },
     {
       "title": "The Canoe in the Forest",
       "link": "https://hakaimagazine.com/features/the-canoe-in-the-forest/",
@@ -5454,50 +5498,6 @@
       "summary": "Hummingbirds are tiny, but strong. These birds are more commonly found in North and South America, with the latter having the most extensive variety anywhere … Read More \"Hummingbi",
       "date": "2026-05-09T07:38:14Z",
       "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/03/Costas-hummingbird-by-K.lee_-600x601.jpeg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-09T09:25:59Z"
-    },
-    {
-      "title": "Best Weather for Bird Watching: See The Most Birds",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/best-weather-for-bird-watching-see-the-most-birds/",
-      "summary": "If you are a newcomer to the world of these feathered friends, the answer to the question, ‘what is the best weather for birdwatching?’ might … Read More \"Best Weather for Bird Wat",
-      "date": "2026-05-09T07:35:51Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2024/08/Hawk-in-the-rain-850x620-1.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-09T09:25:59Z"
-    },
-    {
-      "title": "What Do Baby Woodpeckers Eat?",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/what-do-baby-woodpeckers-eat-2/",
-      "summary": "While it’s illegal to keep woodpeckers as pets, this doesn’t mean you can’t help if you find one that’s still a baby, injured, or sick. … Read More \"What Do Baby Woodpeckers Eat?\"",
-      "date": "2026-05-09T07:33:18Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/07/red-bellied-woodpecker-by-Mykola-Swarnyk.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-09T09:25:59Z"
-    },
-    {
-      "title": "Hummingbirds in Virginia: 9 Species with Pictures for You to Identify",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/hummingbirds-in-virginia-9-species-with-pictures-for-you-to-identify/",
-      "summary": "It’s always a joy to spot a colorful hummingbird. Hummingbirds are fascinating, and there’s always something new to learn about them. Despite their small size, … Read More \"Humming",
-      "date": "2026-05-09T07:31:04Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/07/Rivolis-Hummingbird-by-Bernard-Gagnon.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-09T09:25:59Z"
-    },
-    {
-      "title": "How to Thread a Binocular Strap: The Complete Guide",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/how-to-thread-a-binocular-strap-the-complete-guide/",
-      "summary": "Learning how to thread a binocular strap is a simple process that you can carry out, although it requires you to pay attention to a … Read More \"How to Thread a Binocular Strap: Th",
-      "date": "2026-05-09T07:28:26Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/07/3-amazing-Prime-Day-binocular-deals-for-birders-hikers-and-wildlife-watchers.jpg",
       "name": "BWatching Daily",
       "category": "birds",
       "color": 0,
