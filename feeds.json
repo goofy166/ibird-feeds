@@ -1,8 +1,52 @@
 {
-  "updated": "2026-05-16T11:57:42Z",
-  "updated_utc": "2026-05-16T11:57:42Z",
+  "updated": "2026-05-16T13:52:26Z",
+  "updated_utc": "2026-05-16T13:52:26Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Peacock ‘invasion’ of Italian seaside town ruffles feathers",
+      "link": "https://www.theguardian.com/world/2026/may/16/peacock-italy-punta-marina-tensions",
+      "summary": "With Punta Marina residents loving or loathing the incomers, ‘peacock rangers’ have been appointed to defuse tensions Federico Bruni was sitting on a bench, eating a piadina romagn",
+      "date": "2026-05-16T12:00:08Z",
+      "image": "https://i.guim.co.uk/img/media/77cc4d3fafd7461bdf0da9ae1d9c5bc9d37d54ca/1019_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=a72bc160dfe87b603a5821a2297ab6bd",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-16T13:52:09Z"
+    },
+    {
+      "title": "Caviar Pizzas, New Money, and the Death of an Ancient Fish",
+      "link": "https://hakaimagazine.com/features/caviar-pizzas-new-money-and-the-death-of-an-ancient-fish/",
+      "summary": "I am sitting at a slick Manhattan waterfront restaurant on the banks of the East River, New York City, trying to decide why I find the caviar pizza on the menu so disturbing. Jonat",
+      "date": "Tue, 10 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-21st-century-sturgeon.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-05-16T13:52:12Z"
+    },
+    {
+      "title": "The Destructive Legacy of Failed Aquaculture",
+      "link": "https://hakaimagazine.com/news/the-destructive-legacy-of-failed-aquaculture/",
+      "summary": "Aquaculture is big business in Canada. In 2023, open-net-pen salmon farming in British Columbia alone produced 50,000 tonnes of fish worth just over US $350-million. But on June 30",
+      "date": "2024-12-06T08:01:14Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-aquaculture-cleanup.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-05-16T13:52:12Z"
+    },
+    {
+      "title": "Conjuring the Lost Land Beneath the North Sea",
+      "link": "https://hakaimagazine.com/features/conjuring-the-lost-land-beneath-the-north-sea/",
+      "summary": "The North Sea is a hard place to love. It’s not the cold, or the silty gray-brown waters that seem to suck the brightness out of the sky that make it unappealing, it’s what people ",
+      "date": "Thu, 05 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-doggerland.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-05-16T13:52:12Z"
+    },
     {
       "title": "Australian Magpies in Victoria",
       "link": "https://www.10000birds.com/australian-magpies-in-victoria-2.htm?utm_source=rss&utm_medium=rss&utm_campaign=australian-magpies-in-victoria-2",
@@ -5458,50 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-05-09T09:26:09Z"
-    },
-    {
-      "title": "The Canoe in the Forest",
-      "link": "https://hakaimagazine.com/features/the-canoe-in-the-forest/",
-      "summary": "When I first see the canoe, in May, it takes a moment to distinguish the long, shapely slab of cedar from the patch of earth that has spent more than a century trying to reclaim it",
-      "date": "Thu, 19 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-haida-canoe.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-05-09T09:26:10Z"
-    },
-    {
-      "title": "What’s Next for Deep-Sea Mining?",
-      "link": "https://hakaimagazine.com/news/whats-next-for-deep-sea-mining/",
-      "summary": "Earlier this year, Leticia Carvalho, a Brazilian oceanographer and environmental policy expert, took the helm of the International Seabed Authority (ISA) as secretary general. The ",
-      "date": "2024-12-18T08:01:59Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-deep-sea-mining-1.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-05-09T09:26:10Z"
-    },
-    {
-      "title": "The Personal Toll of Canada’s Broken Fishing Promises",
-      "link": "https://hakaimagazine.com/features/the-personal-toll-of-canadas-broken-fishing-promises/",
-      "summary": "August 29, 2020, dawned clear over southwest Nova Scotia. In the cabin of his lobster boat, the Mystique Lady, Matthew Cope was chatting with the other members of his crew as they ",
-      "date": "Tue, 17 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-matt-cope-moderate-livelihood.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-05-09T09:26:10Z"
-    },
-    {
-      "title": "To Speak the Language of the Land",
-      "link": "https://hakaimagazine.com/features/to-speak-the-language-of-the-land/",
-      "summary": "Nearly 200 of us cram into Tarāwhai, a traditional wooden Māori meeting house, under the gaze of the ancestors and deities carved into the posts and walls. We’re here in the home o",
-      "date": "Thu, 12 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-maori-language-and-place.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-05-09T09:26:10Z"
     }
   ]
 }
