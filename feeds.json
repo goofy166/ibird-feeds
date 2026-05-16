@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-16T21:58:53Z",
-  "updated_utc": "2026-05-16T21:58:53Z",
+  "updated": "2026-05-16T23:00:24Z",
+  "updated_utc": "2026-05-16T23:00:24Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Shell-shocked: California man arrested for attempting to traffic wild turtles",
+      "link": "https://www.theguardian.com/us-news/2026/may/16/california-turtle-trafficking",
+      "summary": "Donald Do allegedly sought to export 292 loggerhead musk turtles under the false claim they had been captive-bred A California man, who received a federal permit to export turtles ",
+      "date": "2026-05-16T22:21:53Z",
+      "image": "https://i.guim.co.uk/img/media/052ca34f8493e772d17e6a90569a3dd1d1c16e3a/127_0_5750_4601/master/5750.jpg?width=140&quality=85&auto=format&fit=max&s=8ea80a74f016b49fb4393269fad42050",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-16T23:00:09Z"
+    },
     {
       "title": "Hidden small RNA in cholera bacterium helps determine whether it can infect humans",
       "link": "https://phys.org/news/2026-05-hidden-small-rna-cholera-bacterium.html",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 7,
       "fetched_at": "2026-05-09T11:03:11Z"
-    },
-    {
-      "title": "How to Avoid Shin Pain When You Run",
-      "link": "https://www.outsideonline.com/health/training-performance/shin-pain-running-causes-treatment/",
-      "summary": "An expert-backed blueprint to treating shin pain—and exercises to prevent it from coming back. The post How to Avoid Shin Pain When You Run appeared first on Outside Online .",
-      "date": "2026-05-09T09:31:59Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/running-shin-pain.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-09T11:03:14Z"
     }
   ]
 }
