@@ -1,8 +1,85 @@
 {
-  "updated": "2026-05-16T13:52:26Z",
-  "updated_utc": "2026-05-16T13:52:26Z",
+  "updated": "2026-05-16T15:03:59Z",
+  "updated_utc": "2026-05-16T15:03:59Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Canoe in the Forest",
+      "link": "https://hakaimagazine.com/features/the-canoe-in-the-forest/",
+      "summary": "When I first see the canoe, in May, it takes a moment to distinguish the long, shapely slab of cedar from the patch of earth that has spent more than a century trying to reclaim it",
+      "date": "Thu, 19 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-haida-canoe.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-05-16T15:03:47Z"
+    },
+    {
+      "title": "What’s Next for Deep-Sea Mining?",
+      "link": "https://hakaimagazine.com/news/whats-next-for-deep-sea-mining/",
+      "summary": "Earlier this year, Leticia Carvalho, a Brazilian oceanographer and environmental policy expert, took the helm of the International Seabed Authority (ISA) as secretary general. The ",
+      "date": "2024-12-18T08:01:59Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-deep-sea-mining-1.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-05-16T15:03:47Z"
+    },
+    {
+      "title": "The Personal Toll of Canada’s Broken Fishing Promises",
+      "link": "https://hakaimagazine.com/features/the-personal-toll-of-canadas-broken-fishing-promises/",
+      "summary": "August 29, 2020, dawned clear over southwest Nova Scotia. In the cabin of his lobster boat, the Mystique Lady, Matthew Cope was chatting with the other members of his crew as they ",
+      "date": "Tue, 17 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-matt-cope-moderate-livelihood.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-05-16T15:03:47Z"
+    },
+    {
+      "title": "To Speak the Language of the Land",
+      "link": "https://hakaimagazine.com/features/to-speak-the-language-of-the-land/",
+      "summary": "Nearly 200 of us cram into Tarāwhai, a traditional wooden Māori meeting house, under the gaze of the ancestors and deities carved into the posts and walls. We’re here in the home o",
+      "date": "Thu, 12 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-maori-language-and-place.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-05-16T15:03:47Z"
+    },
+    {
+      "title": "Lobster embryo microbiomes remain resilient in future ocean conditions, sequencing reveals",
+      "link": "https://phys.org/news/2026-05-lobster-embryo-microbiomes-resilient-future.html",
+      "summary": "As ocean temperatures rise and marine ecosystems change, scientists are working to understand how valuable species like the American lobster will respond. New research from William",
+      "date": "2026-05-16T14:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/newly-discovered-micro.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-16T15:03:56Z"
+    },
+    {
+      "title": "8-year-old African American boy from Colonial Maryland found buried with white Colonists, and it's unclear if he was enslaved",
+      "link": "https://www.livescience.com/archaeology/americas/8-year-old-african-american-boy-from-colonial-maryland-found-buried-with-white-colonists-and-its-unclear-if-he-was-enslaved",
+      "summary": "A 17th-century cemetery from Colonial Maryland held the remains of an 8-year-old boy with majority African ancestry, as well as two indentured servants.",
+      "date": "2026-05-16T15:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/KJe8VpBP6dNq62M6J8LnM-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-16T15:03:57Z"
+    },
+    {
+      "title": "What counts as 'close contact'? Why the risk of hantavirus transmission is tricky to define",
+      "link": "https://www.livescience.com/health/viruses-infections-disease/what-counts-as-close-contact-why-the-risk-of-hantavirus-transmission-is-tricky-to-define",
+      "summary": "Health officials have said the Andes virus implicated in the cruise ship outbreak spreads via \"close contact.\" Live Science spoke to experts about what that means.",
+      "date": "2026-05-16T14:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/VnN9r8yo2hp6T4uWK6Rbym-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-16T15:03:57Z"
+    },
     {
       "title": "Peacock ‘invasion’ of Italian seaside town ruffles feathers",
       "link": "https://www.theguardian.com/world/2026/may/16/peacock-italy-punta-marina-tensions",
@@ -5425,83 +5502,6 @@
       "category": "birds",
       "color": 0,
       "fetched_at": "2026-05-09T09:25:59Z"
-    },
-    {
-      "title": "How Much Does a Trained Hawk Cost? Know the Facts",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/how-much-does-a-trained-hawk-cost-know-the-facts-2/",
-      "summary": "There are a number of stages of training a hawk, from ‘imprinting’ with a chick to training a bird to fly from the wrist, all … Read More \"How Much Does a Trained Hawk Cost? Know t",
-      "date": "2026-05-09T07:26:41Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/03/Harris-Hawk.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-09T09:25:59Z"
-    },
-    {
-      "title": "Golden Eagle Vs Bald Eagle: Key Differences",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/golden-eagle-vs-bald-eagle-key-differences/",
-      "summary": "Eagles are a very recognizable species of bird and are often associated with the US, but there actually various different types of eagles. A lot … Read More \"Golden Eagle Vs Bald E",
-      "date": "2026-05-09T07:24:04Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/05/bald-eagle-by-Mathew-Schwartz-1.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-09T09:25:59Z"
-    },
-    {
-      "title": "Owls in Maine: 11 Most Common Owls with Pictures for You to Identify",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/owls-in-maine-11-most-common-owls-with-pictures-for-you-to-identify/",
-      "summary": "Maine has many remarkable tourist attractions. One of the main ones is the extent of wildlife in the state. Many owl species call Maine home. … Read More \"Owls in Maine: 11 Most Co",
-      "date": "2026-05-09T07:22:35Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2014/12/Northern-Hawk-Owl20141209IMG_6724_1.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-09T09:25:59Z"
-    },
-    {
-      "title": "How to Get a Robin to Come to You: Step by Step Guide",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/how-to-get-a-robin-to-come-to-you-step-by-step-guide/",
-      "summary": "Nothing is more cheerful than seeing a beautiful robin singing in your yard. The orange-breasted songbird is easily one of the most popular backyard birds … Read More \"How to Get a",
-      "date": "2026-05-09T07:20:11Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/05/Robin-by-Jay-Brand.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-09T09:25:59Z"
-    },
-    {
-      "title": "Common Songbirds of the Pacific Northwest: Complete Guide",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/common-songbirds-of-the-pacific-northwest-complete-guide/",
-      "summary": "Birds that fall under the order Passeriformes are considered songbirds, and are often referred to as “passerines.” About 4,000 species fall under this category, and most caged … Re",
-      "date": "2026-05-09T07:18:15Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/03/white-crowned-sparrow-by-Wolfgang-Wander.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-09T09:25:59Z"
-    },
-    {
-      "title": "Visible planets and night sky guide for May",
-      "link": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
-      "summary": "Visible planets and night sky guide. Tomorrow before dawn, look for the 3rd quarter moon among the stars of Capricornus the Sea-goat. The post Visible planets and night sky guide f",
-      "date": "2026-05-08T11:35:08Z",
-      "image": "https://earthsky.org/upl/2026/05/Jupiter-Venus-May-2026-a.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-05-09T09:26:09Z"
-    },
-    {
-      "title": "Sun news: Returning powerhouse active region shows its nose",
-      "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-      "summary": "Sun news for May 8, 2026: M2.6 flare fires from the far side! Powerhouse AR4419 may be returning. M-flare odds jump to 45%. X-flare odds at 10%. The post Sun news: Returning powerh",
-      "date": "2026-05-08T11:00:53Z",
-      "image": "https://earthsky.org/upl/2026/05/NASA-SDO_sun-in-visible-light_2026-may-09_0545UTC_labels-e1778308655366.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-05-09T09:26:09Z"
     }
   ]
 }
