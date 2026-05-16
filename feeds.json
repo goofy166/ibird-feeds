@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-16T20:58:47Z",
-  "updated_utc": "2026-05-16T20:58:47Z",
+  "updated": "2026-05-16T21:58:53Z",
+  "updated_utc": "2026-05-16T21:58:53Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Hidden small RNA in cholera bacterium helps determine whether it can infect humans",
+      "link": "https://phys.org/news/2026-05-hidden-small-rna-cholera-bacterium.html",
+      "summary": "Scientists from St. Jude Children's Research Hospital have uncovered what gives Vibrio cholerae, the bacterium that causes cholera, the ability to colonize the human gut. The resea",
+      "date": "2026-05-16T21:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-small-rna-deter.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-16T21:58:49Z"
+    },
     {
       "title": "Timmy the whale confirmed dead by Danish authorities",
       "link": "https://www.theguardian.com/environment/2026/may/16/timmy-the-whale-confirmed-dead-by-danish-authorities",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-05-09T11:03:14Z"
-    },
-    {
-      "title": "A vast dam across the Bering Strait could stop the AMOC collapsing",
-      "link": "https://www.newscientist.com/article/2525888-a-vast-dam-across-the-bering-strait-could-stop-the-amoc-collapsing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "If a key ocean current collapses it could plunge northern Europe into a big freeze. Now researchers are weighing up a drastic intervention – building a 130-kilometre-wide dam betwe",
-      "date": "2026-05-09T07:00:42Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/08143032/SEI_296254441.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-05-09T11:03:19Z"
     }
   ]
 }
