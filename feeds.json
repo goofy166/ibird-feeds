@@ -1,8 +1,52 @@
 {
-  "updated": "2026-05-17T15:04:14Z",
-  "updated_utc": "2026-05-17T15:04:14Z",
+  "updated": "2026-05-17T17:05:46Z",
+  "updated_utc": "2026-05-17T17:05:46Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Bird Friendly Certification: 8 Requirements Coffee Farms Need to Satisify",
+      "link": "https://birdwatchinghq.com/bird-friendly-certification-requirements-for-coffee-farms/",
+      "summary": "In the world of coffee certifications, there’s one that soars above the rest—literally. The Smithsonian Bird Friendly certification is the gold standard when it comes to protecting",
+      "date": "2025-10-20T17:51:25Z",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/bird_friendly_logo_2-1024x1024.webp",
+      "name": "BWatching HQ",
+      "category": "birds",
+      "color": 4,
+      "fetched_at": "2026-05-17T17:05:28Z"
+    },
+    {
+      "title": "Harpy Eagles: 17 Fascinating Facts About the Canopy’s King",
+      "link": "https://birdwatchinghq.com/harpy-eagle-facts/",
+      "summary": "Honestly, Harpy Eagles are one of the coolest birds around. They are the rulers of the rainforest skies and are as intriguing as they are awe-inspiring. Keep reading, and you will ",
+      "date": "2025-10-19T17:49:35Z",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/harpy_eagle_double_crest_of_feathers-1.jpg",
+      "name": "BWatching HQ",
+      "category": "birds",
+      "color": 4,
+      "fetched_at": "2026-05-17T17:05:28Z"
+    },
+    {
+      "title": "10 Things You Can Do to Help Birds",
+      "link": "https://birdwatchinghq.com/how-to-help-birds/",
+      "summary": "Let me give you a staggering and sobering number: Since 1970, 2.9 billion birds have disappeared from North America. Yes, you read that correctly. Almost 25% of the total number of",
+      "date": "2025-10-18T17:47:14Z",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/red_winged_blackbirds_declining.jpg",
+      "name": "BWatching HQ",
+      "category": "birds",
+      "color": 4,
+      "fetched_at": "2026-05-17T17:05:28Z"
+    },
+    {
+      "title": "Record ocean heat off California coast echoes ‘The Blob,’ killing seabirds and reshaping weather outlook",
+      "link": "https://www.mercurynews.com/2026/05/03/return-of-the-blob-how-a-record-ocean-heat-wave-could-affect-californias-weather-and-wildlife-this-summer/",
+      "summary": "Historically warm waters in 2014 caused strandings of malnourished birds, sea lions along beaches, worsened drought",
+      "date": "2026-05-03T11:00:28Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SJM-OCEANHEAT-0502-4.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-05-17T17:05:34Z"
+    },
     {
       "title": "Scarlet Tanager Species Spotlight: 10 Interesting Facts!",
       "link": "https://birdwatchinghq.com/scarlet-tanager-interesting-facts/",
@@ -5458,50 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-05-09T22:55:34Z"
-    },
-    {
-      "title": "How river DNA can track fish, frogs, fungi and human feces all at once",
-      "link": "https://phys.org/news/2026-05-river-dna-track-fish-frogs.html",
-      "summary": "A single scoop of water from an Irish river has revealed evidence not only of Ireland's only frog species—as expected—but also signs of the dreaded B. dendrobatidis fungus, marking",
-      "date": "2026-05-09T21:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-river-dna-can-trac.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-09T21:54:32Z"
-    },
-    {
-      "title": "'Ghost of the forest' returns to Kenya as conservationists reintroduce rare antelope into the wild",
-      "link": "https://phys.org/news/2026-05-ghost-forest-kenya-conservationists-reintroduce.html",
-      "summary": "The mountain bongo has become the \"ghost of the forest,\" hard to spot amid the dense shrubs due to its ability to camouflage.",
-      "date": "2026-05-09T20:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ghost-of-the-forest-re.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-09T20:54:23Z"
-    },
-    {
-      "title": "CRISPR safeguard changes how engineered microbes can be controlled",
-      "link": "https://phys.org/news/2026-05-crispr-safeguard-microbes.html",
-      "summary": "Engineered microorganisms are widely used in industrial biotechnology and biopharmaceutical applications, including the production of biofuels, sustainable chemicals, and therapeut",
-      "date": "2026-05-09T20:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/snu-professor-sangwoo.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-09T20:54:23Z"
-    },
-    {
-      "title": "Bee more specific: New radar tech could improve identification and tracking of key pollinators",
-      "link": "https://phys.org/news/2026-05-bee-specific-radar-tech-identification.html",
-      "summary": "Scientists from Trinity and Technical University of Denmark have developed a new radar-based technique that could address a critical gap in global conservation efforts, by transfor",
-      "date": "2026-05-09T17:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/buff-tailed-bumblebee.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-05-09T17:55:43Z"
     }
   ]
 }
