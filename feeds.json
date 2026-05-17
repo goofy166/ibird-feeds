@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-17T07:39:16Z",
-  "updated_utc": "2026-05-17T07:39:16Z",
+  "updated": "2026-05-17T09:54:19Z",
+  "updated_utc": "2026-05-17T09:54:19Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Why aren't brain transplants possible?",
+      "link": "https://www.livescience.com/health/neuroscience/why-arent-brain-transplants-possible",
+      "summary": "Lining up donor and recipient nerves for a potential brain transplant is one thing. Getting them to communicate is another.",
+      "date": "2026-05-17T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/WJW5vQ8oJZ9UxWbJSAYBV6-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-17T09:54:16Z"
+    },
     {
       "title": "Shell-shocked: California man arrested for attempting to traffic wild turtles",
       "link": "https://www.theguardian.com/us-news/2026/may/16/california-turtle-trafficking",
@@ -5487,17 +5498,6 @@
       "summary": "When a ship wrecks on an unfamiliar coastline, an already desperate situation is all the more dire. Blinded by the night, and lost, the captain and crew of the Puritan, a four-mast",
       "date": "Tue, 24 Dec 2024 08Z",
       "image": "https://hakaimagazine.com/wp-content/uploads/header-first-first-responder.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-05-09T11:03:11Z"
-    },
-    {
-      "title": "How, Exactly, Could Deep-Sea Mining Benefit All of Humanity?",
-      "link": "https://hakaimagazine.com/news/how-exactly-could-deep-sea-mining-benefit-all-of-humanity/",
-      "summary": "When Arvid Pardo, a Maltese diplomat, took the floor at the United Nations General Assembly in New York in 1967 and began speaking at length on international law, the room was spar",
-      "date": "2024-12-20T08:01:54Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-benefit-of-humanity.jpg",
       "name": "Hakai",
       "category": "wildlife",
       "color": 7,
