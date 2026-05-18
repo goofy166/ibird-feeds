@@ -1,8 +1,151 @@
 {
-  "updated": "2026-05-18T14:36:03Z",
-  "updated_utc": "2026-05-18T14:36:03Z",
+  "updated": "2026-05-18T17:33:40Z",
+  "updated_utc": "2026-05-18T17:33:40Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Outside’s Summer 2026 Issue and the People Rebuilding America’s Outdoors for Everyone",
+      "link": "https://www.outsideonline.com/culture/essays-culture/outside-summer-2026-ed-letter/",
+      "summary": "The thread running through our summer 2026 issue is about who's been left out and who's working to make sure they're welcomed. The post Outside’s Summer 2026 Issue and the People R",
+      "date": "2026-05-18T15:57:01Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/OM0226_BTLEdLetter_001-copy.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-18T17:33:31Z"
+    },
+    {
+      "title": "The Best Running Shirts for Men (Summer 2026): Tested in the Lab and on the Streets",
+      "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/best-running-shirts-for-men/",
+      "summary": "We’ve been testing the latest men’s running shirts for month to find the coolest and most comfortable. The post The Best Running Shirts for Men (Summer 2026): Tested in the Lab and",
+      "date": "2026-05-18T14:35:00Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/mens_run_shirt_Presniakov_h.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-18T17:33:31Z"
+    },
+    {
+      "title": "Can Insects Feel Pain? New Research Suggests That Crickets Do",
+      "link": "https://www.smithsonianmag.com/smart-news/can-insects-feel-pain-new-research-suggests-that-crickets-do-180988752/",
+      "summary": "Used for food, feed and research, the critters are among the most widely farmed bugs. The study authors say humans should work to reduce harm in insect farming, handling and experi",
+      "date": "2026-05-18T16:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/2-EhsXirE5I8eXl3bGCa3OZpRn4=/420x240/filters:focal(1920x1262:1921x1263)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/69/d1/69d17471-2355-4e87-864a-7fe11e6d6ae8/acheta_domesticus_common_house_cricket.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-18T17:33:33Z"
+    },
+    {
+      "title": "These Colorful Contemporary Artworks Just Joined the Hirshhorn Museum as the D.C. Landmark Celebrated Its 50th Anniversary",
+      "link": "https://www.smithsonianmag.com/smart-news/these-colorful-contemporary-artworks-just-joined-the-hirshhorn-museum-as-the-dc-landmark-celebrated-its-50th-anniversary-180988749/",
+      "summary": "The museum is also preparing to reopen its redesigned sculpture garden, featuring new works from eight artists, this fall",
+      "date": "2026-05-18T15:00:18Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/NYQbn2raqietDF45rO_x1O-psWs=/420x240/filters:focal(1500x1114:1501x1115)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4f/d9/4fd96151-3ef3-4c0e-8e3e-69837df15e84/mickalene_thomas.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-18T17:33:33Z"
+    },
+    {
+      "title": "Meet ‘Snuffleupagus,’ a newfound fish sporting shaggy camouflage",
+      "link": "https://www.sciencenews.org/article/new-fish-sesame-street-snuffleupagus",
+      "summary": "Found near Australia, Solenostomus snuffleupagus is a shaggy swimmer that closely resembles Mr. Snuffleupagus from Sesame Street .",
+      "date": "2026-05-18T17:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/051526_JB_snuffleupagus_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-05-18T17:33:34Z"
+    },
+    {
+      "title": "After Dobbs, miscarriage care looked different in states with abortion bans",
+      "link": "https://www.sciencenews.org/article/dobbs-miscarriage-abortion-ban-states",
+      "summary": "States with abortion bans are trending away from evidence-based miscarriage treatment that includes mifepristone, compared with states without bans.",
+      "date": "2026-05-18T15:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/051526_AC_miscarriages_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-05-18T17:33:34Z"
+    },
+    {
+      "title": "The ‘doomsday’ glacier’s giant ice shelf is about to break away",
+      "link": "https://www.newscientist.com/article/2526826-the-doomsday-glaciers-giant-ice-shelf-is-about-to-break-away/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The floating ice shelf of world’s widest glacier – Thwaites glacier in Antarctica – is detaching, with worrying implications for global sea-level rise",
+      "date": "2026-05-18T10:00:26Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/15160725/SEI_297309628.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-18T17:33:35Z"
+    },
+    {
+      "title": "A fungal disease and climate change threaten Colorado's prized peaches",
+      "link": "https://phys.org/news/2026-05-fungal-disease-climate-threaten-colorado.html",
+      "summary": "In western Colorado, home to the treasured Palisade peach, cytospora canker is one of the most economically consequential fungal diseases faced by growers.",
+      "date": "2026-05-18T17:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/peach-tree.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-18T17:33:36Z"
+    },
+    {
+      "title": "Overfishing hits 11 of 12 Bahamian seafood staples, 73 years of catch data show",
+      "link": "https://phys.org/news/2026-05-overfishing-bahamian-seafood-staples-years.html",
+      "summary": "Most of the Bahamas' signature seafood stocks are being fished harder than the sea can replace them, according to a new paper led by Sea Around Us researchers and published in Fron",
+      "date": "2026-05-18T16:28:44Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/caribbean-spiny-lobste.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-18T17:33:36Z"
+    },
+    {
+      "title": "Corn diseases cost farmers $13.8 billion from 2020 to 2023",
+      "link": "https://phys.org/news/2026-05-corn-diseases-farmers-billion.html",
+      "summary": "According to a new multiyear analysis led by plant disease specialists from across the United States and Ontario, Canada, corn diseases cost farmers an estimated $13.8 billion USD ",
+      "date": "2026-05-18T16:07:34Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/corn-disease.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-18T17:33:36Z"
+    },
+    {
+      "title": "Dust reveals 54 viruses in buildings, pointing to new outbreak warning tool",
+      "link": "https://phys.org/news/2026-05-reveals-viruses-outbreak-tool.html",
+      "summary": "Gathering dust from buildings may hold promise as a more efficient way to track viral outbreaks in indoor settings, according to a new study published in Building and Environment b",
+      "date": "2026-05-18T15:39:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sweeping-up-dust-to-de.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-18T17:33:36Z"
+    },
+    {
+      "title": "Toxic metals in Hudson River striped bass decreased over decades, study shows",
+      "link": "https://phys.org/news/2026-05-toxic-metals-hudson-river-striped.html",
+      "summary": "Striped bass are a popular and often human-consumed commercial and recreational game fish. Trace elements or metals essential for life are in these fish and other eatable fish, as ",
+      "date": "2026-05-18T15:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-shows-toxic-meta.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-18T17:33:36Z"
+    },
+    {
+      "title": "A smelly dog breath breakthrough: Plant-based spray tackles odor and harmful oral microbes",
+      "link": "https://phys.org/news/2026-05-smelly-dog-breakthrough-based-spray.html",
+      "summary": "Pet owners love their dogs but may not always love the smell of their breath. Because this bad odor can signal oral disease, veterinary clinics will prescribe daily toothbrushing, ",
+      "date": "2026-05-18T15:00:15Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dog-kiss.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-18T17:33:36Z"
+    },
     {
       "title": "Cormorant:  A Cultural History of Greed and Prejudice (a review)",
       "link": "https://www.10000birds.com/cormorant-a-cultural-history-of-greed-and-prejudice-a-review.htm?utm_source=rss&utm_medium=rss&utm_campaign=cormorant-a-cultural-history-of-greed-and-prejudice-a-review",
@@ -5359,149 +5502,6 @@
       "category": "birds",
       "color": 0,
       "fetched_at": "2026-05-11T00:03:13Z"
-    },
-    {
-      "title": "Owls in Virginia: 8 Stunning Nighttime Predators for You to See",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/owls-in-virginia-8-stunning-nighttime-predators-for-you-to-see/",
-      "summary": "The state of Virginia houses eight gorgeous species of owls. Some appear in just about every region of the state—like Great Horned Owls and Barn … Read More \"Owls in Virginia: 8 St",
-      "date": "2026-05-10T23:10:49Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/11/snowy-owls-in-chicago-5-scaled.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-11T00:03:13Z"
-    },
-    {
-      "title": "How to keep Ants off Hummingbird Feeders: 12 Tips to get Ants out of Hummingbird Feeders",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/how-to-keep-ants-off-hummingbird-feeders-12-tips-to-get-ants-out-of-hummingbird-feeders/",
-      "summary": "One of the greatest pleasures for hummingbird lovers is seeing the birds roaming around their feeders. However, this image can be ruined by something as … Read More \"How to keep An",
-      "date": "2026-05-10T22:58:16Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/05/Hummingbird-Feeder-BOLITE-Glass.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-10T22:59:50Z"
-    },
-    {
-      "title": "Owls in Michigan: Top 11 That Live in The Great Lakes State",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/owls-in-michigan-top-11-that-live-in-the-great-lakes-state/",
-      "summary": "Michigan is home to nearly 20 million forestland acres, making it the closest thing to heaven for owls. More than half of its land is … Read More \"Owls in Michigan: Top 11 That Liv",
-      "date": "2026-05-10T22:56:17Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2013/11/Long-eared-Owl-11.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-10T22:59:50Z"
-    },
-    {
-      "title": "Owls in Ohio: 8 Species with Pictures to Spot in the Buckeye State",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/owls-in-ohio-8-species-with-pictures-to-spot-in-the-buckeye-state/",
-      "summary": "Ohio provides the perfect habitat for predatory birds, thanks to its vast forestlands and 40,000 miles of water streams. That’s why bird-watching is a must … Read More \"Owls in Ohi",
-      "date": "2026-05-10T22:53:52Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2024/08/Brent-Barnes-short-eared-owl-850x620-1.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-10T22:59:50Z"
-    },
-    {
-      "title": "What do Baby Birds Eat?",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/what-do-baby-birds-eat/",
-      "summary": "The short answer is easy. Baby birds eat whatever their parents eat. However, it is actually a little more complex than that. Some birds change … Read More \"What do Baby Birds Eat?",
-      "date": "2026-05-10T22:51:26Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/08/coot-with-chicks-by-Charles-J.-Sharp.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-10T22:59:50Z"
-    },
-    {
-      "title": "Do Blue Jays Migrate?",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/do-blue-jays-migrate/",
-      "summary": "The Blue Jay is a beautiful and iconic bird that can be found in many parts of North America. Birdwatchers worldwide are fascinated by these … Read More \"Do Blue Jays Migrate?\"",
-      "date": "2026-05-10T22:48:41Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/05/Blue-Jay-by.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-10T22:59:50Z"
-    },
-    {
-      "title": "What Do Robins Eat in the Winter?",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/what-do-robins-eat-in-the-winter/",
-      "summary": "American Robins are among the most common songbirds in the United States. Their striking features make them a sight to behold. One of the most … Read More \"What Do Robins Eat in th",
-      "date": "2026-05-10T22:47:18Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/05/Robin-by-Jay-Brand.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-10T22:59:50Z"
-    },
-    {
-      "title": "Pirouetting and gaping: mysterious whale behaviour documented as humpback migration begins",
-      "link": "https://www.theguardian.com/environment/2026/may/11/pirouetting-humpback-whales-mysterious-behaviour-migration",
-      "summary": "With the help of citizen scientists, researchers studying rare humpback ‘jaw-gaping’ believe the move could be a social display Follow our Australia news live blog for latest updat",
-      "date": "2026-05-10T15:00:29Z",
-      "image": "https://i.guim.co.uk/img/media/c79db95306a37a17fafa10ea60b44c6cfcfe6d37/229_0_2290_1832/master/2290.jpg?width=140&quality=85&auto=format&fit=max&s=a3bf7a2148f95d1ce2c2d483d97c2ecb",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-05-10T21:57:33Z"
-    },
-    {
-      "title": "Self‑destructive behavior among Hermann's tortoises on a Macedonian island is leading to 'demographic suicide'",
-      "link": "https://phys.org/news/2026-05-selfdestructive-behavior-hermann-tortoises-macedonian.html",
-      "summary": "On the strictly protected island of Golem Grad in North Macedonia, the tortoises are destroying their own population. During prolonged courtship, aggressive males are exhausting th",
-      "date": "2026-05-10T18:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/selfdestructive-behavi-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-10T19:15:36Z"
-    },
-    {
-      "title": "Under mushroom caps, 17-plus bacterial species help drive stubborn blotch disease",
-      "link": "https://phys.org/news/2026-05-mushroom-caps-bacterial-species-stubborn.html",
-      "summary": "A University of Florida study has made a key discovery in understanding a disease that for over a century has plagued the white button mushroom—a nutrient-dense vegetable that is v",
-      "date": "2026-05-10T17:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dna-analyses-uncover-w.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-10T17:03:32Z"
-    },
-    {
-      "title": "'More than 100 million years of evolution': How snakes evolved and lost their legs",
-      "link": "https://www.livescience.com/animals/snakes/more-than-100-million-years-of-evolution-how-snakes-evolved-and-lost-their-legs",
-      "summary": "Huge snakes, tiny snakes, poisonous snakes and constrictor snakes, snakes that slither, burrow or swim: New fossils and modern technology are tracing serpent origins",
-      "date": "2026-05-10T15:05:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ukZWXEFQV54gHZGwN8NDWg-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-10T17:03:33Z"
-    },
-    {
-      "title": "A Mount Everest Climber From Nepal Died in the Khumbu Icefall",
-      "link": "https://www.outsideonline.com/outdoor-adventure/everest/mount-everest-ghimire-death/",
-      "summary": "Bijaya Ghimire, a high-altitude worker from Nepal, collapsed and died while ascending the Khumbu Icefall. Reports suggest Ghimire broke caste barriers in Nepal’s climbing community",
-      "date": "2026-05-10T14:39:21Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/Ghimire1.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-10T15:00:54Z"
-    },
-    {
-      "title": "More polar bears are approaching human sites as the climate warms, and it's not just the skinny ones",
-      "link": "https://www.livescience.com/animals/bears/more-polar-bears-are-approaching-human-sites-as-the-climate-warms-and-its-not-just-the-skinny-ones",
-      "summary": "It's not just thinner bears that are coming ashore as the climate warms.",
-      "date": "2026-05-10T14:10:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/uUvGVEZxxfBQ4sLw2dJoYY-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-10T15:01:00Z"
     }
   ]
 }
