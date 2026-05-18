@@ -1,8 +1,41 @@
 {
-  "updated": "2026-05-18T00:06:01Z",
-  "updated_utc": "2026-05-18T00:06:01Z",
+  "updated": "2026-05-18T05:12:09Z",
+  "updated_utc": "2026-05-18T05:12:09Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: A bug bacchanalia on an old lime tree | Kate Blincoe",
+      "link": "https://www.theguardian.com/environment/2026/may/18/country-diary-a-bug-bacchanalia-on-an-old-lime-tree",
+      "summary": "Caistor St Edmund, Norfolk: Firebugs congregate in large numbers to feast and mate – and this is the first time we’ve known their revelry on the farm At this time of year the farm ",
+      "date": "2026-05-18T04:30:58Z",
+      "image": "https://i.guim.co.uk/img/media/8363725e550e4f54507f933745d2ea7812f44392/252_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=0693e6b3101b44361fbd2151b5820bb8",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-18T05:11:55Z"
+    },
+    {
+      "title": "Australia’s ‘green Wall Street’ is failing to launch. Threatened species deserve better than the nature repair market | Euan Ritchie and Yung En Chee",
+      "link": "https://www.theguardian.com/commentisfree/2026/may/18/australias-green-wall-street-is-failing-to-launch-threatened-species-deserve-better-than-the-nature-repair-market",
+      "summary": "One must ask why Labor is so comfortable continuing to ignore the wishes of the vast majority of voters Anthony Albanese’s government swept to power in 2022 and, among many promise",
+      "date": "2026-05-18T02:24:31Z",
+      "image": "https://i.guim.co.uk/img/media/ab08476ad2b4dea5d23bf67d3f85596aec60c897/535_283_1656_1325/master/1656.jpg?width=140&quality=85&auto=format&fit=max&s=5775bb745a689c4a739d218039946001",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-18T05:11:55Z"
+    },
+    {
+      "title": "Fluorescent RNA sensor gets 10 times more sensitive for water safety",
+      "link": "https://phys.org/news/2026-05-fluorescent-rna-sensor-sensitive-safety.html",
+      "summary": "Water is largely tasteless to humans. But to the microbial world, it is anything but. Bacteria that live in contaminated environments have spent millions of years evolving exquisit",
+      "date": "2026-05-18T00:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2015/water.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-18T05:12:05Z"
+    },
     {
       "title": "Bird Friendly Certification: 8 Requirements Coffee Farms Need to Satisify",
       "link": "https://birdwatchinghq.com/bird-friendly-certification-requirements-for-coffee-farms/",
@@ -5469,39 +5502,6 @@
       "category": "birds",
       "color": 0,
       "fetched_at": "2026-05-09T23:57:01Z"
-    },
-    {
-      "title": "What Are the Best Tools for Bird Watching: The Ultimate Guide",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/what-are-the-best-tools-for-bird-watching-the-ultimate-guide/",
-      "summary": "Bird watching is one of the most interesting activities for many people. And according to some U.S. Fish and Wildlife Service statistics, about 45 million Americans enjoy … Read Mo",
-      "date": "2026-05-09T22:49:29Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2024/08/Boy-holing-binoculars-768x512-1.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-09T22:55:22Z"
-    },
-    {
-      "title": "Baby Blue Jay Bird: All The Life Stages including Pictures",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/baby-blue-jay-bird-all-the-life-stages-including-pictures-2/",
-      "summary": "The Blue Jay (Cyanocitta Cristata) is a breed of large songbird commonly found throughout North America. Blue Jays are the most colorful of all corvids … Read More \"Baby Blue Jay B",
-      "date": "2026-05-09T22:44:38Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/01/blue-jay-birdforum-scaled.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-05-09T22:55:22Z"
-    },
-    {
-      "title": "More than half of 480 ducks rescued from California sanctuary went to a livestock company",
-      "link": "https://www.mercurynews.com/2026/04/25/more-than-half-of-480-ducks-rescued-from-anza-sanctuary-went-to-a-livestock-company/",
-      "summary": "The Riverside County Department of Animal Services is under fire from animal activists for its handling of nearly 500 ducks surrendered last week by an animal rescue in Anza.",
-      "date": "2026-04-25T11:00:06Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/RPE-L-DUCKS2-0415.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-05-09T22:55:34Z"
     }
   ]
 }
