@@ -1,8 +1,96 @@
 {
-  "updated": "2026-05-19T04:15:16Z",
-  "updated_utc": "2026-05-19T04:15:16Z",
+  "updated": "2026-05-19T08:34:09Z",
+  "updated_utc": "2026-05-19T08:34:09Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Lights Out for Birds – Animated Short",
+      "link": "https://www.allaboutbirds.org/news/lights-out-for-birds-animated-short/",
+      "summary": "Animated Short about Birds",
+      "date": "2026-05-04T20:00:13Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Eopsaltria_australis_-_Mogo_Campground.jpg",
+      "name": "All About Birds",
+      "category": "birds",
+      "color": 3,
+      "fetched_at": "2026-05-19T08:33:52Z"
+    },
+    {
+      "title": "Treat Glass by Day, Dim Lights at Night. Help Prevent Bird Collisions!",
+      "link": "https://www.allaboutbirds.org/news/treat-glass-by-day-dim-lights-at-night-help-prevent-bird-collisions/",
+      "summary": "",
+      "date": "2026-05-04T19:56:48Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Eopsaltria_australis_-_Mogo_Campground.jpg",
+      "name": "All About Birds",
+      "category": "birds",
+      "color": 3,
+      "fetched_at": "2026-05-19T08:33:52Z"
+    },
+    {
+      "title": "High levels of toxic ‘forever chemicals’ found off coast of southern England",
+      "link": "https://www.theguardian.com/environment/2026/may/19/toxic-pfa-forever-chemicals-channel-southern-england-solent",
+      "summary": "Study of Channel finds levels of toxic Pfas in Solent at 13 times safe limits in some places, with much coming from treated sewage Scientists have found high levels of toxic Pfas, ",
+      "date": "2026-05-19T06:00:04Z",
+      "image": "https://i.guim.co.uk/img/media/651da897183e80f87d43debe275697d10e5c9b3e/672_0_6142_4912/master/6142.jpg?width=140&quality=85&auto=format&fit=max&s=6fe8f78f61bdbeb3829a51c3bf7df728",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-19T08:33:54Z"
+    },
+    {
+      "title": "Country diary: A truly golden spring for buttercups and dandelions | Mark Cocker",
+      "link": "https://www.theguardian.com/environment/2026/may/19/country-diary-a-truly-sunny-spring-for-buttercups-and-dandelions",
+      "summary": "Snitterton, Derbyshire: I’ve had some glorious early mornings admiring the abundance of these much-loved flowers This spring has specialised in very specific kinds of abundance. In",
+      "date": "2026-05-19T04:30:00Z",
+      "image": "https://i.guim.co.uk/img/media/a642d57bd7e2b3de5fc32f63db9f0f30ae4a8810/356_0_3549_2841/master/3549.jpg?width=140&quality=85&auto=format&fit=max&s=5a8e92c9f8150edd73a1d5d264247853",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-19T08:33:54Z"
+    },
+    {
+      "title": "Find the Keystone in Hercules, and the Hercules Cluster M13",
+      "link": "https://earthsky.org/tonight/vega-guide-star-to-the-keystone-and-hercules-star-cluster/",
+      "summary": "Let the bright star Vega guide you to a famous star pattern in Hercules - called the Keystone - and then to the Hercules cluster, aka M13. The post Find the Keystone in Hercules, a",
+      "date": "Tue, 19 May 2026 07Z",
+      "image": "https://earthsky.org/upl/2019/04/constellation-hercules-between-vega-and-arcturus.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-19T08:33:55Z"
+    },
+    {
+      "title": "Argentine scientists lay first traps in hantavirus hunt",
+      "link": "https://phys.org/news/2026-05-argentine-scientists-lay-hantavirus.html",
+      "summary": "Scientists attempting to determine whether or not hantavirus is present in Argentina's Ushuaia on Monday laid the very first traps to catch rodents potentially carrying the disease",
+      "date": "2026-05-19T08:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-team-of-scientists-i.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-19T08:34:06Z"
+    },
+    {
+      "title": "As bee population collapses, US apiarists fear research cuts",
+      "link": "https://phys.org/news/2026-05-bee-population-collapses-apiarists.html",
+      "summary": "In a lot behind a disused West Virginia gas station at the foot of the Appalachian Mountains, Roy Funkhouser is surrounded by about a dozen beekeepers and countless buzzing bees.",
+      "date": "2026-05-19T08:10:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/us-beekeepers-lost-mor.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-19T08:34:06Z"
+    },
+    {
+      "title": "Bright-blue 'potash ponds' shine alongside a dark-green river in Utah — Earth from space",
+      "link": "https://www.livescience.com/planet-earth/bright-blue-potash-ponds-shine-alongside-a-dark-green-river-in-utah-earth-from-space",
+      "summary": "A 2017 astronaut photo shows two sets of solar evaporation ponds alongside the Colorado River. The stripy structures are used to refine potassium chloride, or \"potash,\" which is mi",
+      "date": "Tue, 19 May 2026 07Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/sBUNNWSfsvrQkDrGfLUgGB-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-19T08:34:07Z"
+    },
     {
       "title": "‘Should we leave them to die?’ The battle over how to save orangutans from the curse of palm oil",
       "link": "https://www.theguardian.com/news/2026/may/19/should-we-leave-them-to-die-the-battle-over-how-to-save-orangutans-from-the-curse-of-palm-oil",
@@ -5414,94 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-05-11T19:02:44Z"
-    },
-    {
-      "title": "How did worms get in a Point Reyes birdbath after rainstorm?",
-      "link": "https://www.mercurynews.com/2026/04/27/how-did-worms-get-in-a-point-reyes-birdbath-after-rainstorm/",
-      "summary": "Fear of drowning, or of rodents, could be an explanation",
-      "date": "2026-04-27T13:30:46Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SJM-L-JOANCOL-0427-01.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-05-11T19:02:44Z"
-    },
-    {
-      "title": "Never Just a Hike",
-      "link": "https://www.outsideonline.com/outdoor-adventure/never-just-a-hike/",
-      "summary": "If you thought hiking was boring, you’ve been following the wrong trail The post Never Just a Hike appeared first on Outside Online .",
-      "date": "2026-05-11T18:21:53Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/TNF_SS26_Hike_Wind_InSitu_Wong_0466-1-scaled-e1778521465174.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-11T19:02:46Z"
-    },
-    {
-      "title": "In 1969, the Beatles Played One Final Show. Their Makeshift Rooftop Stage in London Will Soon Become a Museum",
-      "link": "https://www.smithsonianmag.com/smart-news/in-1969-the-beatles-played-one-final-show-their-makeshift-rooftop-stage-in-london-will-soon-become-a-museum-180988714/",
-      "summary": "Visitors to 3 Savile Row will be able to see a recreation of the basement recording studio where the Beatles worked on their final album \"Let It Be\" and stand on the roof where the",
-      "date": "2026-05-11T18:40:37Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/VhhRWAtScgh0rmt4XWyYdcHIE20=/420x240/filters:focal(1794x1419:1795x1420)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/67/d7/67d7f865-5832-4edd-8674-e72e1566ef4a/beatles.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-11T19:02:48Z"
-    },
-    {
-      "title": "This High Schooler Developed an A.I. Tool to Diagnose Autism and ADHD Using the Retina",
-      "link": "https://www.smithsonianmag.com/innovation/this-high-schooler-developed-an-ai-tool-to-diagnose-autism-and-adhd-using-the-retina-180988694/",
-      "summary": "Edward Kang’s RetinaMind analyzes patients’ retinal images and accurately diagnoses neurodevelopmental disorders 89 percent of the time",
-      "date": "2026-05-11T16:22:20Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/NkJ0QCRHDzQwIVHss0AiZ2ysOV8=/420x240/filters:focal(1000x667:1001x668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/44/a5/44a5970b-e8d9-42c1-a967-4d292e0358e1/20260308_kang_edward_project_0004_ae.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-11T19:02:48Z"
-    },
-    {
-      "title": "Astronomers may have found a record-breaking pair of black holes",
-      "link": "https://www.sciencenews.org/article/largest-pair-black-holes-collision",
-      "summary": "At some 60 billion times the mass of the sun, this dark void could be home to a pair of black holes that are due for a cosmic collision.",
-      "date": "2026-05-11T17:30:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/050626_MJG_blackholepair_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-05-11T19:02:49Z"
-    },
-    {
-      "title": "Huge study of ancient British DNA reveals only minor Roman influence",
-      "link": "https://www.newscientist.com/article/2525923-huge-study-of-ancient-british-dna-reveals-only-minor-roman-influence/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Genetic analysis of 1039 people buried in Britain between the Bronze Age and the Norman conquest highlights the impact of the Romans, Anglo-Saxons and Vikings on the island’s ances",
-      "date": "2026-05-11T12:00:50Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/08160452/SEI_296279252.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-05-11T19:02:50Z"
-    },
-    {
-      "title": "How the Atlantic herring adapted to the brackish water of the Baltic Sea",
-      "link": "https://phys.org/news/2026-05-atlantic-herring-brackish-baltic-sea.html",
-      "summary": "When the Atlantic herring colonized the Baltic Sea thousands of years ago, it needed to adapt to the low salinity. Genes with a vital role in the functioning of sperm, eggs and emb",
-      "date": "2026-05-11T19:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-the-atlantic-herri.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-11T19:02:51Z"
-    },
-    {
-      "title": "New research highlights how wildfires are harming fish",
-      "link": "https://phys.org/news/2026-05-highlights-wildfires-fish.html",
-      "summary": "As we transition into spring, wildfires are on the minds of many Canadians. In fact, wildfires have already started in some parts of the country.",
-      "date": "2026-05-11T18:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-highlight-3.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-11T19:02:51Z"
     }
   ]
 }
