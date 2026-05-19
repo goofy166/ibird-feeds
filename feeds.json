@@ -1,8 +1,107 @@
 {
-  "updated": "2026-05-18T23:12:15Z",
-  "updated_utc": "2026-05-18T23:12:15Z",
+  "updated": "2026-05-19T04:15:16Z",
+  "updated_utc": "2026-05-19T04:15:16Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘Should we leave them to die?’ The battle over how to save orangutans from the curse of palm oil",
+      "link": "https://www.theguardian.com/news/2026/may/19/should-we-leave-them-to-die-the-battle-over-how-to-save-orangutans-from-the-curse-of-palm-oil",
+      "summary": "As new settlers clear their forest habitat, the apes are coming into conflict with humans. But simply moving them to another part of the forest may not be the answer The banana ski",
+      "date": "2026-05-19T04:00:00Z",
+      "image": "https://i.guim.co.uk/img/media/382da4ac09e833712fb7ed8754ace34cdc4510e4/187_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=e42c10f2a2e76b263b35290a713d6129",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-19T04:15:00Z"
+    },
+    {
+      "title": "Mystery of the ancient giant stone jars of Laos may have been solved",
+      "link": "https://www.newscientist.com/article/2527089-mystery-of-the-ancient-giant-stone-jars-of-laos-may-have-been-solved/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "In central Laos, the landscape is littered with enormous stone jars, some 3 metres high, and we may be closer to understanding how and when they were used",
+      "date": "Tue, 19 May 2026 01Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2024/04/17102106/new-scientist-social-meta-image.png",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-19T04:15:11Z"
+    },
+    {
+      "title": "Urban life makes animals bolder, more aggressive across 133 species, analysis finds",
+      "link": "https://phys.org/news/2026-05-urban-life-animals-bolder-aggressive.html",
+      "summary": "A global analysis has found that urban animals are bolder and more aggressive, exploratory and active than their rural counterparts. The findings are published in the Journal of An",
+      "date": "2026-05-19T04:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/city-mouse-brave.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-19T04:15:12Z"
+    },
+    {
+      "title": "DNA floating in seawater is now enough to let scientists monitor the health of America's dolphin populations",
+      "link": "https://phys.org/news/2026-05-dna-seawater-scientists-health-america.html",
+      "summary": "DNA is everywhere in the world's oceans—not only packaged inside cells from skin, scales, mucus, feces, and blood, but also floating freely. Sequencing such \"environmental DNA\" (eD",
+      "date": "2026-05-19T04:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dna-floating-in-seawat-4.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-19T04:15:12Z"
+    },
+    {
+      "title": "Cryo-EM reveals the structural basis of functional diversity in alcohol oxidase isozymes",
+      "link": "https://phys.org/news/2026-05-cryo-em-reveals-basis-functional.html",
+      "summary": "As the global push toward a carbon-neutral society accelerates, understanding how microorganisms metabolize methanol with high efficiency has become increasingly critical. At the U",
+      "date": "2026-05-19T02:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cryo-em-reveals-the-st.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-19T04:15:12Z"
+    },
+    {
+      "title": "Hidden algae diversity emerges in wheat fields across spring, summer and autumn",
+      "link": "https://phys.org/news/2026-05-hidden-algae-diversity-emerges-wheat.html",
+      "summary": "Intensive agriculture poses a significant threat to global biodiversity. However, one aspect of biodiversity in farmland is little studied: algae. Most people have seen algae growi",
+      "date": "2026-05-19T01:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/revealing-hidden-diver.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-19T04:15:12Z"
+    },
+    {
+      "title": "Microbes for health: New way to feel 'at one' with nature",
+      "link": "https://phys.org/news/2026-05-microbes-health-nature.html",
+      "summary": "Can you imagine feeling good about your body being home to trillions of bacteria and viruses—as well as life-giving \"invisible friend\" microbes in the air, soil and water? Before y",
+      "date": "2026-05-19T00:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/microbes-for-health-ne.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-19T04:15:12Z"
+    },
+    {
+      "title": "Bioengineers condense protein engineering and testing to a single day",
+      "link": "https://phys.org/news/2026-05-bioengineers-condense-protein-day.html",
+      "summary": "Proteins are critical to life—and to industry. There are countless proteins that could be engineered to treat and even cure serious diseases and cellular dysfunctions. Industrial a",
+      "date": "2026-05-18T23:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/protein-engineering-an-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-19T04:15:12Z"
+    },
+    {
+      "title": "Phase-contrast microtomography reveals vascular colonization of tomato roots by Fusarium oxysporum",
+      "link": "https://phys.org/news/2026-05-phase-contrast-microtomography-reveals-vascular.html",
+      "summary": "Soil-borne fungal pathogens are responsible for major agricultural losses worldwide, yet the way they invade and spread inside plant roots is still not fully understood. One of the",
+      "date": "2026-05-18T23:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/phase-contrast-microto.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-19T04:15:12Z"
+    },
     {
       "title": "A ‘jar’ jammed with human bones may solve Laos’ ‘Plain of Jars’ mystery",
       "link": "https://www.sciencenews.org/article/jar-human-bones-solve-laos-mystery",
@@ -5403,105 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-05-11T19:02:51Z"
-    },
-    {
-      "title": "A roadmap for safer, explainable protein-design AI",
-      "link": "https://phys.org/news/2026-05-roadmap-safer-protein-ai.html",
-      "summary": "Protein language models are artificial intelligence tools which help engineer proteins with useful properties, including completely new structures never seen before in nature.",
-      "date": "2026-05-11T17:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-roadmap-for-safer-ex.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-11T19:02:51Z"
-    },
-    {
-      "title": "The birds and the babies: Humans and zebra finches have a similar technique for learning to speak",
-      "link": "https://phys.org/news/2026-05-birds-babies-humans-zebra-finches.html",
-      "summary": "We are all born completely helpless, with little of the knowledge and skills we will need to survive as adults. Even our ability to communicate is almost entirely learned from our ",
-      "date": "2026-05-11T17:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-birds-and-the-babi.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-11T19:02:51Z"
-    },
-    {
-      "title": "Meet the mosquito terminator—a spider that likes us and eats our enemies",
-      "link": "https://phys.org/news/2026-05-mosquito-terminator-spider-enemies.html",
-      "summary": "As a child, the mere glimpse of a spider used to send me screaming and running for cover. I was convinced that spiders were my enemies. I thought they were out to get me.",
-      "date": "2026-05-11T17:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/meet-the-mosquito-term.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-11T19:02:51Z"
-    },
-    {
-      "title": "Fresh brew, harsh bite: Coffee's bitter edge finally comes into full molecular view",
-      "link": "https://phys.org/news/2026-05-fresh-brew-harsh-coffee-bitter.html",
-      "summary": "Have you ever wondered why freshly brewed coffee smells so delicious, but tastes bitter? New research from the University of North Carolina School of Medicine has revealed the mole",
-      "date": "2026-05-11T16:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/freshly-brewed-coffee.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-11T19:02:51Z"
-    },
-    {
-      "title": "Lights Out for Birds – Animated Short",
-      "link": "https://www.allaboutbirds.org/news/lights-out-for-birds-animated-short/",
-      "summary": "Animated Short about Birds",
-      "date": "2026-05-04T20:00:13Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Psephotus_haematonotus_male.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-05-11T16:08:12Z"
-    },
-    {
-      "title": "Treat Glass by Day, Dim Lights at Night. Help Prevent Bird Collisions!",
-      "link": "https://www.allaboutbirds.org/news/treat-glass-by-day-dim-lights-at-night-help-prevent-bird-collisions/",
-      "summary": "",
-      "date": "2026-05-04T19:56:48Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Goldfinch_on_a_branch.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-05-11T16:08:12Z"
-    },
-    {
-      "title": "Through the Lens: Snow Goose Migration",
-      "link": "https://www.allaboutbirds.org/news/through-the-lens-snow-goose-migration/",
-      "summary": "",
-      "date": "2026-05-04T19:53:21Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Goldfinch_on_a_branch.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-05-11T16:08:12Z"
-    },
-    {
-      "title": "XTRATUF Builds on Its Legacy of Performance in the Toughest Environments",
-      "link": "https://www.outsideonline.com/outdoor-gear/water-sports-gear/xtratuf-builds-on-its-legacy-of-performance-in-the-toughest-environments/",
-      "summary": "The new Ankle Deck Boot Pro incorporates elements of the trusted Legacy Boot The post XTRATUF Builds on Its Legacy of Performance in the Toughest Environments appeared first on Out",
-      "date": "2026-05-11T15:57:18Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/250817_ATO_XT_Alaska_Product_XMATD100_00192-e1777387925997.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-11T16:08:21Z"
-    },
-    {
-      "title": "Is This North America’s Best Summer Getaway?",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/is-this-north-americas-best-summer-getaway/",
-      "summary": "Whistler has a well-deserved reputation for winter adventure, but Canada’s premier mountain resort might just be even better after the snow melts The post Is This North America’s B",
-      "date": "2026-05-11T15:40:31Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/227611-scaled.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-11T16:08:21Z"
     }
   ]
 }
