@@ -1,8 +1,52 @@
 {
-  "updated": "2026-05-19T23:12:16Z",
-  "updated_utc": "2026-05-19T23:12:16Z",
+  "updated": "2026-05-20T04:16:15Z",
+  "updated_utc": "2026-05-20T04:16:15Z",
   "count": 500,
   "stories": [
+    {
+      "title": "We may finally know why dinosaurs like T. rex evolved tiny arms",
+      "link": "https://www.newscientist.com/article/2527282-we-may-finally-know-why-dinosaurs-like-t-rex-evolved-tiny-arms/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Five different groups of predatory dinosaurs independently evolved disproportionately small arms, and it seems they did so because their heads became so large and powerful",
+      "date": "2026-05-20T00:01:19Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/19135210/SEI_297982870.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-20T04:16:11Z"
+    },
+    {
+      "title": "AI-driven framework enables precise prediction of RNA splicing and isoform usage",
+      "link": "https://phys.org/news/2026-05-ai-driven-framework-enables-precise.html",
+      "summary": "RNA is the means of translating the genetic code embedded in DNA into proteins, which serve as enzymes, transporters, signaling molecules, receptors, structural components, regulat",
+      "date": "2026-05-20T00:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-driven-framework-en.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-20T04:16:12Z"
+    },
+    {
+      "title": "Birds clap in the dark to flirt: Nightjars reveal a hidden language of sound",
+      "link": "https://phys.org/news/2026-05-birds-dark-flirt-nightjars-reveal.html",
+      "summary": "Some birds sing to attract a mate. Others dance or display colorful feathers. But in the moonlit forests and shrublands of northern Argentina, one bird courts romance by snapping i",
+      "date": "2026-05-19T23:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nightjar.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-20T04:16:12Z"
+    },
+    {
+      "title": "SIRT6 protein could protect against age-related breakdown in chromatin, possibly help reverse aging",
+      "link": "https://phys.org/news/2026-05-sirt6-protein-age-breakdown-chromatin.html",
+      "summary": "Researchers at Bar-Ilan University have successfully restored youthful patterns of DNA organization in the livers of old mice, reversing key molecular features associated with agin",
+      "date": "2026-05-19T23:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bar-ilan-university-re.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-20T04:16:12Z"
+    },
     {
       "title": "Twenty-two years and 15,000km later: fluke discovery sets new record for humpback whale journey",
       "link": "https://www.theguardian.com/environment/2026/may/20/humpback-whale-journey-15000km-brazil-hervey-bay-australia",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-05-12T18:07:08Z"
-    },
-    {
-      "title": "Can cloud seeding save us from water bankruptcy?",
-      "link": "https://www.newscientist.com/article/2524831-can-cloud-seeding-save-us-from-water-bankruptcy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "We’ve long tried to control the weather by engineering rainfall. Now such cloud-seeding efforts are escalating, creating conflict between countries and stoking conspiracy theories.",
-      "date": "Tue, 12 May 2026 17Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/29171350/SEI_294901464.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-05-12T18:07:11Z"
-    },
-    {
-      "title": "Carbon credits are flawed, but they can still help save forests",
-      "link": "https://www.newscientist.com/article/2525921-carbon-credits-are-flawed-but-they-can-still-help-save-forests/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Carbon credits bought by companies to offset their emissions really have reduced deforestation, but not by as much as credit developers claim, according to a rigorous analysis",
-      "date": "Tue, 12 May 2026 13Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/08165146/SEI_296284849.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-05-12T18:07:11Z"
-    },
-    {
-      "title": "Africa has the world's greatest genetic diversity, yet it's missing from research: We're filling the gap",
-      "link": "https://phys.org/news/2026-05-africa-world-greatest-genetic-diversity.html",
-      "summary": "Throughout history, most of the world's genomic research has relied on DNA data from people of European ancestry.",
-      "date": "2026-05-12T18:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/population-5.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-12T18:07:12Z"
-    },
-    {
-      "title": "How invading cancer cells grip and rip their way into new tissues",
-      "link": "https://phys.org/news/2026-05-invading-cancer-cells-rip-tissues.html",
-      "summary": "Researchers from the National University of Singapore (NUS) have discovered that cancer cells do not simply push through surrounding tissues to spread, but instead actively grip on",
-      "date": "2026-05-12T18:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cancer-cells-grip-and.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-12T18:07:12Z"
     }
   ]
 }
