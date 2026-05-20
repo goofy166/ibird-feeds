@@ -1,8 +1,173 @@
 {
-  "updated": "2026-05-20T18:25:53Z",
-  "updated_utc": "2026-05-20T18:25:53Z",
+  "updated": "2026-05-20T21:03:19Z",
+  "updated_utc": "2026-05-20T21:03:19Z",
   "count": 500,
   "stories": [
+    {
+      "title": "11 Most Popular Perennial Flowers for Your Garden",
+      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/popular-perennial-flowers/",
+      "summary": "Want to grow a perennial garden but not sure where to start? These popular perennial flowers are beloved by gardeners for a reason! The post 11 Most Popular Perennial Flowers for Y",
+      "date": "2026-05-20T19:28:04Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/05/BNBbyc19_judy-evans.jpg?fit=700,1024",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-05-20T21:03:00Z"
+    },
+    {
+      "title": "Learn Bird Songs! 34 Common Species to Get You Started",
+      "link": "https://www.allaboutbirds.org/news/learn-bird-songs-34-common-species/",
+      "summary": "10 Common Bird Songs From Across North America Every week during spring, new birds are migrating back to your yard, neighborhood, and local parks. And once they return, they’ll let",
+      "date": "2026-05-06T18:38:11Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Psephotus_haematonotus_male.jpg",
+      "name": "All About Birds",
+      "category": "birds",
+      "color": 3,
+      "fetched_at": "2026-05-20T21:03:01Z"
+    },
+    {
+      "title": "San Francisco turns to AI to save whales from ship strikes as deaths soar",
+      "link": "https://www.theguardian.com/environment/2026/may/20/san-francisco-bay-ai-whales",
+      "summary": "Climate change is pushing starving grey whales to San Francisco Bay, where ship strikes led to 40% of 21 deaths Ferries, cargo ships and tankers cut through choppy waters in the Sa",
+      "date": "2026-05-20T18:43:41Z",
+      "image": "https://i.guim.co.uk/img/media/d98e7f552376ffff076448b69da87cf0077948c6/557_656_4182_3344/master/4182.jpg?width=140&quality=85&auto=format&fit=max&s=98333272e4cc9f0c406976b29888f16c",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-20T21:03:04Z"
+    },
+    {
+      "title": "From a Medieval Latrine in Germany, Archaeologists Extracted a Pristine Leather Notebook That Preserved Latin Cursive for Centuries",
+      "link": "https://www.smithsonianmag.com/smart-news/from-a-medieval-latrine-in-germany-archaeologists-extracted-a-pristine-leather-notebook-that-preserved-latin-cursive-for-centuries-180988771/",
+      "summary": "The writing in the booklet suggests it belonged to an upper-class merchant, who may have had a mishap while using the toilet 800 years ago",
+      "date": "2026-05-20T19:11:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/O6mfKIU3PeOIEHwjsg1OEGV_ssY=/420x240/filters:focal(900x600:901x601)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/19/fb/19fb5134-3672-4430-a414-e93a74af2312/112598.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-20T21:03:12Z"
+    },
+    {
+      "title": "Gentoo Penguins Are Actually Four Different Species, Scientists Say, Revealing They're Not Quite 'Winners' of Climate Change After All",
+      "link": "https://www.smithsonianmag.com/smart-news/gentoo-penguins-may-actually-be-four-different-species-scientists-say-revealing-theyre-not-quite-winners-of-climate-change-after-all-180988769/",
+      "summary": "A new study indicates that the adaptable birds evolved into distinct lineages as isolated populations shifted to match their environmental conditions over time. The work has implic",
+      "date": "2026-05-20T19:09:30Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/-_1NKdYlan9FCCkmQnDg7_BxtDo=/420x240/filters:focal(512x385:513x386)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/30/42/3042503e-dfcf-4a2c-b22f-296f24058194/16054445089_141edf5e98_o.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-20T21:03:12Z"
+    },
+    {
+      "title": "The mysterious reason why women get hotter from age 18 to 42",
+      "link": "https://www.newscientist.com/article/2527312-the-mysterious-reason-why-women-get-hotter-from-age-18-to-42/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Women experience a steady rise in body temperature from their teens to midlife, which may be useful for monitoring ageing and overall health",
+      "date": "2026-05-20T19:00:46Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/20141055/SEI_298135780.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-20T21:03:14Z"
+    },
+    {
+      "title": "Can we harness quantum effects to create a new kind of healthcare?",
+      "link": "https://www.newscientist.com/article/2525755-can-we-harness-quantum-effects-to-create-a-new-kind-of-healthcare/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Experiments hint that quantum mechanisms are vital to the machinery of life. Now researchers are exploring if these effects help to explain the success of an array of puzzling heal",
+      "date": "2026-05-20T18:00:42Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/13151828/SEI_2962447431.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-20T21:03:14Z"
+    },
+    {
+      "title": "We could generate hydrogen from rocks while storing CO2 in them",
+      "link": "https://www.newscientist.com/article/2527336-we-could-generate-hydrogen-from-rocks-while-storing-co2-in-them/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Storing carbon dioxide in rocks while producing hydrogen from them - and perhaps even geothermal power too - could be a double win on the climate front, and several groups are tryi",
+      "date": "2026-05-20T17:00:32Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/20180241/SEI_298186375.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-20T21:03:14Z"
+    },
+    {
+      "title": "Extreme weather events may leave rivers unable to rebound",
+      "link": "https://phys.org/news/2026-05-extreme-weather-events-rivers-unable.html",
+      "summary": "Severe droughts, intense floods, and heat waves are pushing river ecosystems beyond their natural limits of resilience. A review of data on river systems across several continents ",
+      "date": "2026-05-20T21:00:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/extreme-weather-events-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-20T21:03:15Z"
+    },
+    {
+      "title": "Dominant fish face higher microplastic risk than subordinates in social groups",
+      "link": "https://phys.org/news/2026-05-dominant-fish-higher-microplastic-subordinates.html",
+      "summary": "Fish who display dominant traits are more at risk of consuming microplastic pollution than others in their social group, according to new research. The study, led by the University",
+      "date": "2026-05-20T20:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dominant-fish-are-more.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-20T21:03:15Z"
+    },
+    {
+      "title": "Scientists solve 50-year mystery of plant immunity by unlocking debneyol's blueprint",
+      "link": "https://phys.org/news/2026-05-scientists-year-mystery-immunity-debneyol.html",
+      "summary": "In a silent war that has raged for millions of years, plants have evolved a sophisticated chemical arsenal to fight back against invading pathogens. Now, a team of researchers from",
+      "date": "2026-05-20T19:40:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-solve-50-ye.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-20T21:03:15Z"
+    },
+    {
+      "title": "Fragility found in a high value shark population",
+      "link": "https://phys.org/news/2026-05-fragility-high-shark-population.html",
+      "summary": "The vulnerability of a shark population to losing even small numbers to fishing has been highlighted by researchers from the University of Chester and partners in the Philippines u",
+      "date": "2026-05-20T19:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-reveals-fragilit.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-20T21:03:15Z"
+    },
+    {
+      "title": "Paper calls for biologists to rethink how they analyze the impact of climate",
+      "link": "https://phys.org/news/2026-05-paper-biologists-rethink-impact-climate.html",
+      "summary": "A new paper calls for ecologists and evolutionary biologists to consider how organisms experience climate rather than how weather stations record it when doing climate–biology rese",
+      "date": "2026-05-20T19:00:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/paper-calls-for-biolog.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-20T21:03:15Z"
+    },
+    {
+      "title": "129,000 years of crocodiles: What we know about Australasia's ancient apex predators",
+      "link": "https://phys.org/news/2026-05-years-crocodiles-australasia-ancient-apex.html",
+      "summary": "The sight of a saltwater crocodile basking on a mudbank is one of the most iconic and intimidating images of northern Australia. Yet the crocodiles that inhabit the region today ar",
+      "date": "2026-05-20T18:40:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/129000-years-of-crocod.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-20T21:03:15Z"
+    },
+    {
+      "title": "Scurvy-plagued whalers' remains discovered at 'Corpse Point' in Svalbard",
+      "link": "https://www.livescience.com/archaeology/scurvy-plagued-whalers-remains-discovered-at-corpse-point-in-svalbard",
+      "summary": "Skeletons of early modern whalers reveal widespread scurvy, pipe smoking and heavy physical labor.",
+      "date": "2026-05-20T19:43:13Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/bpKB4QJh29ogPPmXPNeNKj-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-20T21:03:16Z"
+    },
     {
       "title": "Mike Salisbury obituary",
       "link": "https://www.theguardian.com/tv-and-radio/2026/may/20/mike-salisbury-obituary",
@@ -5337,171 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-05-13T19:04:18Z"
-    },
-    {
-      "title": "Bee magnetism appears far more widespread than expected across 120 species",
-      "link": "https://phys.org/news/2026-05-bee-magnetism-widespread-species.html",
-      "summary": "As married research professors at the University of Tennessee, Knoxville, Dustin Gilbert and Anne Murray often discuss their work once they get home each night. Their fields of stu",
-      "date": "2026-05-13T16:27:47Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/studying-the-magnetism-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-13T19:04:18Z"
-    },
-    {
-      "title": "SpaceX prepares to launch next-generation Starship, the tallest and most powerful rocket ever built",
-      "link": "https://www.livescience.com/space/space-exploration/spacex-prepares-to-launch-next-generation-starship-the-tallest-and-most-powerful-rocket-ever-built",
-      "summary": "Starship V3's maiden spaceflight is scheduled for next week as SpaceX prepares to launch the tallest and most powerful rocket ever built.",
-      "date": "2026-05-13T18:54:11Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/LM69YSwMsHyGoCJUQJh3uc-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-13T19:04:19Z"
-    },
-    {
-      "title": "'We're less prepared for contagious pathogens': The US has degraded its ability to track and squash outbreaks, Emory epidemiologist says",
-      "link": "https://www.livescience.com/health/viruses-infections-disease/were-less-prepared-for-contagious-pathogens-the-us-has-degraded-its-ability-to-track-and-squash-outbreaks-emory-epidemiologist-says",
-      "summary": "Live Science spoke with a leading epidemiologist from Emory University about her impressions of how the hantavirus outbreak is being managed in the U.S.",
-      "date": "2026-05-13T18:50:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/mvnB2VggBXadYTRJArhJXb-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-13T19:04:19Z"
-    },
-    {
-      "title": "'Exceptional' drilled tooth reveals Neanderthals practiced dentistry in Siberia 60,000 years ago",
-      "link": "https://www.livescience.com/archaeology/neanderthals/exceptional-drilled-tooth-reveals-neanderthals-practiced-dentistry-in-siberia-60-000-years-ago",
-      "summary": "A hole found in a 60,000-year-old Neanderthal tooth was likely made by a stone drill, making the discovery the oldest evidence of intentional dentistry to date.",
-      "date": "2026-05-13T18:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/pSTSpKKPBWWifYneUkdmv-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-13T19:04:19Z"
-    },
-    {
-      "title": "The Milky Way ate a galaxy called Loki, and scientists think they found its bones",
-      "link": "https://www.livescience.com/space/astronomy/the-milky-way-ate-a-galaxy-called-loki-and-scientists-think-they-found-its-bones",
-      "summary": "Astronomers have identified a group of ancient stars that may be the remnants of a dwarf galaxy named Loki that merged with the Milky Way more than 10 billion years ago.",
-      "date": "2026-05-13T17:20:13Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/qDSj82S57waSHHTx9Fpg9V-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-13T19:04:19Z"
-    },
-    {
-      "title": "Bugleweed (Ajuga) Care and Growing Tips",
-      "link": "https://www.birdsandblooms.com/gardening/shade-gardening/bugleweed/",
-      "summary": "Learn how to grow flowering bugleweed, a shade-loving ground cover plant with dark foliage and blue or purple blooms. The post Bugleweed (Ajuga) Care and Growing Tips appeared firs",
-      "date": "2026-05-13T15:54:26Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/05/WGAjugaReptans_Black-Scallop.jpg?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-05-13T16:26:45Z"
-    },
-    {
-      "title": "Yorkshire’s WallFest launched to protect crumbling boundary wall of ‘world’s first nature reserve’",
-      "link": "https://www.theguardian.com/environment/2026/may/13/yorkshire-wallfest-wall-world-first-nature-reserve-charles-waterton",
-      "summary": "Pioneering environmentalist Charles Waterton enclosed his parkland and lake near Wakefield in the 1820s Over four years in the 1820s, Charles Waterton built a 9ft-high, 3-mile-long",
-      "date": "2026-05-13T14:00:03Z",
-      "image": "https://i.guim.co.uk/img/media/6da92a10975525b7f5c855d2c6c699858c77f619/87_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=ffb71b018d73bc18063a67a247fa75ee",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-05-13T16:26:49Z"
-    },
-    {
-      "title": "Is This North America’s Best Summer Getaway?",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/is-this-north-americas-best-summer-getaway-2/",
-      "summary": "Whistler has a well-deserved reputation for winter adventure, but Canada’s premier mountain resort might just be even better after the snow melts The post Is This North America’s B",
-      "date": "2026-05-13T15:33:40Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/227611-scaled.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-13T16:26:56Z"
-    },
-    {
-      "title": "These Marine Algae Glow When Waves Disturb Them. Their Bioluminescence Could Power Electricity-Free Lamps of the Future",
-      "link": "https://www.smithsonianmag.com/smart-news/these-marine-algae-glow-when-waves-disturb-them-their-bioluminescence-could-power-electricity-free-lamps-of-the-future-180988721/",
-      "summary": "The single-celled organisms usually shimmer for mere milliseconds, but researchers figured out how to sustain their illumination. The technology could one day be used to light robo",
-      "date": "2026-05-13T15:43:33Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/ISKstgaJl2NTvMHQZQJEooUcZPI=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/75/41/7541498c-b336-4ab9-a9d5-6e7ffd5c6d19/algae.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-13T16:26:58Z"
-    },
-    {
-      "title": "Wolves Are Thriving at Michigan's Isle Royale National Park, Reaching Their Highest Numbers in Almost 50 Years, New Data Suggests",
-      "link": "https://www.smithsonianmag.com/smart-news/wolves-are-thriving-at-michigans-isle-royale-national-park-reaching-their-highest-numbers-in-almost-50-years-new-data-suggests-180988727/",
-      "summary": "Scientists estimate that 37 of the animals are now roaming the rugged archipelago, which has contributed to the dwindling moose population. But the predators and prey might be near",
-      "date": "2026-05-13T14:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/YnGj5XaMm_qNgRE1xHI6aYxGTmI=/420x240/filters:focal(600x269:601x270)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/23/6e/236e1b18-e870-4f5d-b0be-64b22e986618/wolves-on-beach-credit-rolf-peterson-banner1200.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-13T16:26:58Z"
-    },
-    {
-      "title": "To get string theory, you need only four physics assumptions",
-      "link": "https://www.sciencenews.org/article/string-theory-assumptions-bootstrap",
-      "summary": "Tenets of quantum mechanics and special relativity, among other theoretical ideas, lead inexorably to string theory.",
-      "date": "2026-05-13T16:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/051126_EC_stringtheory_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-05-13T16:26:59Z"
-    },
-    {
-      "title": "The crust under Africa is thinning in a way that hasn’t been seen before",
-      "link": "https://www.sciencenews.org/article/africa-crust-thinning-continental-break",
-      "summary": "Africa’s Turkana Rift Zone, a hotbed of hominin fossils, is caught in the act of “necking,\" a critical transition toward continental breakup.",
-      "date": "2026-05-13T14:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/050526_KK_necking_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-05-13T16:26:59Z"
-    },
-    {
-      "title": "Bottom trawling is scraping oceans of wildlife",
-      "link": "https://phys.org/news/2026-05-bottom-trawling-oceans-wildlife.html",
-      "summary": "Bottom trawlers extract one-quarter of the world's fisheries catches by weight and raise significant ecological, economic and social concerns. Given that, you'd think there would b",
-      "date": "2026-05-13T16:13:45Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/trawling.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-13T16:27:01Z"
-    },
-    {
-      "title": "Beluga calls deciphered to bolster conservation efforts",
-      "link": "https://phys.org/news/2026-05-beluga-deciphered-bolster-efforts.html",
-      "summary": "Alaska's Cook Inlet was home to nearly 1,300 beluga whales in the late 1970s, but today the population hovers around 300. Despite almost two decades of recovery work, the whales ar",
-      "date": "2026-05-13T15:55:41Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-decipher-b.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-13T16:27:01Z"
-    },
-    {
-      "title": "A marine-inspired sunscreen ingredient made by E. coli",
-      "link": "https://phys.org/news/2026-05-marine-sunscreen-ingredient-coli.html",
-      "summary": "How do fish survive relentless sunlight in the open waters without getting burned? They make their own natural sunscreen—and now, humans could be one step closer to using it too.",
-      "date": "2026-05-13T15:00:27Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-marine-inspired-suns.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-13T16:27:01Z"
     }
   ]
 }
