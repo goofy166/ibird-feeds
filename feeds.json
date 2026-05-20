@@ -1,8 +1,30 @@
 {
-  "updated": "2026-05-20T04:16:15Z",
-  "updated_utc": "2026-05-20T04:16:15Z",
+  "updated": "2026-05-20T08:32:15Z",
+  "updated_utc": "2026-05-20T08:32:15Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: The mayhem and mystery of inland gulls | Derek Niemann",
+      "link": "https://www.theguardian.com/environment/2026/may/20/country-diary-the-mayhem-and-mystery-of-inland-gulls",
+      "summary": "Frome, Somerset: Thirty miles from shore, they drift up the hill, dominate the church and fill the sky. But they still carry the whiff of salty air As summer approaches, the pirate",
+      "date": "2026-05-20T04:30:22Z",
+      "image": "https://i.guim.co.uk/img/media/edf7917f58b780ad0e17fa04657cd830dad05c78/0_0_3561_2849/master/3561.jpg?width=140&quality=85&auto=format&fit=max&s=18c804b89c4eea86e80e94f65f1b4ff8",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-20T08:32:00Z"
+    },
+    {
+      "title": "Glowing fungi expose final enzyme that could make bioluminescent tools more efficient",
+      "link": "https://phys.org/news/2026-05-fungi-expose-enzyme-bioluminescent-tools.html",
+      "summary": "Like fireflies and many deep-sea creatures, certain fungi can naturally emit light through bioluminescence pathways in which specialized enzymes convert chemical energy into visibl",
+      "date": "2026-05-20T07:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/glowing-fungi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-20T08:32:11Z"
+    },
     {
       "title": "We may finally know why dinosaurs like T. rex evolved tiny arms",
       "link": "https://www.newscientist.com/article/2527282-we-may-finally-know-why-dinosaurs-like-t-rex-evolved-tiny-arms/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-05-12T18:07:05Z"
-    },
-    {
-      "title": "River Ahmad Was Nearly Killed by the Taliban. Now She’s Climbing Mount Everest.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/everest/river-ahmad-everest/",
-      "summary": "River Ahmad survived a Taliban massacre as a teenager. Now, she’s climbing Mount Everest to inspire other Afghan women to chase their dreams. The post River Ahmad Was Nearly Killed",
-      "date": "Tue, 12 May 2026 17Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/River1.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-12T18:07:07Z"
-    },
-    {
-      "title": "Microplastics Are Swirling Around in the Atmosphere, Where They Might Be Contributing to Climate Change",
-      "link": "https://www.smithsonianmag.com/smart-news/microplastics-are-swirling-around-in-the-atmosphere-where-they-might-be-contributing-to-climate-change-180988704/",
-      "summary": "Airborne plastic particles, particularly colorful ones, absorb more sunlight than they reflect, which can heat the surrounding air, according to a new study",
-      "date": "Tue, 12 May 2026 16Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/jUailcRsdcPg8Ht-BYgHu0MGy3A=/420x240/filters:focal(2736x1824:2737x1825)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a9/fd/a9fd7ea5-3d6d-4ffd-ac92-09ac7e3f4c6f/microplastics.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-12T18:07:08Z"
     }
   ]
 }
