@@ -1,8 +1,52 @@
 {
-  "updated": "2026-05-21T04:24:21Z",
-  "updated_utc": "2026-05-21T04:24:21Z",
+  "updated": "2026-05-21T08:39:12Z",
+  "updated_utc": "2026-05-21T08:39:12Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Flyways Birds Use to Migrate Across Continents",
+      "link": "https://www.allaboutbirds.org/news/the-flyways-birds-use-to-migrate-across-continents/",
+      "summary": "Hundreds of millions of birds make long-distance migrations each year, often crossing continents and even oceans along their way. So it’s only natural that they take similar routes",
+      "date": "2026-05-13T16:53:18Z",
+      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/05/map4-1280x642.png",
+      "name": "All About Birds",
+      "category": "birds",
+      "color": 3,
+      "fetched_at": "2026-05-21T08:38:54Z"
+    },
+    {
+      "title": "Migratory bird numbers fall in Britain despite last year’s warm spring",
+      "link": "https://www.theguardian.com/news/2026/may/21/weather-bird-numbers-fall-britain-despite-warm-spring",
+      "summary": "British Trust for Ornithology says 2025 breeding season was especially disastrous for warbler species After a mild, wet and stormy winter in the UK, spring 2025 was one of the warm",
+      "date": "2026-05-21T05:00:03Z",
+      "image": "https://i.guim.co.uk/img/media/d587092328a5dc877b624282d1783c0c7980766d/262_0_2603_2083/master/2603.jpg?width=140&quality=85&auto=format&fit=max&s=30f61d54551d13231910b61fe97ecad3",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-21T08:38:57Z"
+    },
+    {
+      "title": "Toxic chemicals in pet flea treatments harming wildlife, UK study warns",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/may/21/toxic-chemicals-in-pet-flea-treatments-harming-wildlife-uk-study-warns",
+      "summary": "Flea treatment chemicals fipronil and imidacloprid also implicated in lower cognitive scores in children with autism Toxic chemicals found in pet flea treatment are devastating wil",
+      "date": "2026-05-21T05:00:02Z",
+      "image": "https://i.guim.co.uk/img/media/cb1d12c0517809ab0f2d268804cd1ee06d1f4cdf/126_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=8e051ee38771b85eb0188ee256684a92",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-21T08:38:57Z"
+    },
+    {
+      "title": "25+ Must-See Memorial Day Deals for Outdoor Enthusiasts",
+      "link": "https://www.outsideonline.com/outdoor-gear/memorial-day-sales-2026/",
+      "summary": "Our penny-pinching, spec-scrutinizing outdoor gear editors sifted through hundreds of pages to bring you over 30 deals from 9 Memorial Day sales. The post 25+ Must-See Memorial Day",
+      "date": "Thu, 21 May 2026 08Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/memorial-day-sales-featured.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-21T08:39:03Z"
+    },
     {
       "title": "May 9th, 2026 – Global Big Day",
       "link": "https://www.10000birds.com/may-9th-2026-global-big-day.htm",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-05-13T21:41:02Z"
-    },
-    {
-      "title": "Precision DNA editing targets root cause of severe childhood epilepsy in preclinical study",
-      "link": "https://phys.org/news/2026-05-precision-dna-root-severe-childhood.html",
-      "summary": "Gene editing can repair a DNA error in mice that causes Dravet syndrome, a rare, incurable, and potentially deadly form of childhood epilepsy. After the edit, the mice have far few",
-      "date": "2026-05-13T19:22:14Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/precision-dna-editing.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-13T21:41:02Z"
-    },
-    {
-      "title": "A new method for improving ecological monitoring in intermittent rivers",
-      "link": "https://phys.org/news/2026-05-method-ecological-intermittent-rivers.html",
-      "summary": "Current indices for assessing the biological status and quality of rivers are designed to study perennial rivers, so they are not suitable for temporary rivers. This is because the",
-      "date": "2026-05-13T19:20:28Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-method-for-impro.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-13T21:41:02Z"
-    },
-    {
-      "title": "Bald Eagle Nests: The Largest Bird Nests in North America",
-      "link": "https://www.birdsandblooms.com/birding/attracting-birds/bird-nesting/bald-eagle-nest/",
-      "summary": "Learn about bald eagle nesting habits, from how and where to spot the large nests to why they return to the same nest every year. The post Bald Eagle Nests: The Largest Bird Nests ",
-      "date": "2026-04-29T14:39:27Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2021/08/BNBbyc17_tonya-sharp.jpg?fit=700,683",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-05-13T19:04:01Z"
-    },
-    {
-      "title": "Navigation: How Birds Find Their Way When They Migrate",
-      "link": "https://www.allaboutbirds.org/news/the-basics-migration-navigation/",
-      "summary": "Updated May 2026; first published April 2008. Twice a year billions of birds take to the skies as they migrate to and from their summer and winter homes (or breeding ... Read more ",
-      "date": "2026-05-13T17:50:00Z",
-      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2008/04/650726543-White-crowned-Sparrow-Keith-Kennedy-California-1280x593.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-05-13T19:04:02Z"
     }
   ]
 }
