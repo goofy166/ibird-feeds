@@ -1,8 +1,162 @@
 {
-  "updated": "2026-05-22T17:14:54Z",
-  "updated_utc": "2026-05-22T17:14:54Z",
+  "updated": "2026-05-22T19:59:18Z",
+  "updated_utc": "2026-05-22T19:59:18Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Federally protected bird’s nest holds up sale of Ford truck in Kansas",
+      "link": "https://www.theguardian.com/us-news/2026/may/22/kansas-bird-nest-truck",
+      "summary": "A robin built a nest on a Ford-F-250’s tire and laid its eggs in it; a law prohibits removing it while inhabited by bird brood A truck sold by a Kansas dealership cannot be taken f",
+      "date": "2026-05-22T19:03:07Z",
+      "image": "https://i.guim.co.uk/img/media/c9e972eb2d494c4a9c713a7b5550f0fa9efcae1f/0_503_1536_1229/master/1536.jpg?width=140&quality=85&auto=format&fit=max&s=ad95c6dcdf71df9bc3461b683effe424",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-22T19:59:03Z"
+    },
+    {
+      "title": "Ancient Egyptian Engineering Choices Helped the Great Pyramid of Giza Survive Earthquakes, New Research Finds",
+      "link": "https://www.smithsonianmag.com/smart-news/ancient-egyptian-engineering-choices-helped-the-great-pyramid-of-giza-survive-earthquakes-new-research-finds-180988790/",
+      "summary": "Researchers measured vibrations inside and around the pyramid to learn that the structure is surprisingly resilient against seismic tremors",
+      "date": "2026-05-22T18:25:17Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/SKzl8HJmIlZmpy1q1Q0dqV9qkyI=/420x240/filters:focal(1000x571:1001x572)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/95/46/95462742-4ad2-4a56-a3fa-e167942d4cf8/great_pyramid_of_giza_-_pyramid_of_khufu.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-22T19:59:11Z"
+    },
+    {
+      "title": "Faye Emerson Became the ‘First Lady of Television’ During the Medium’s Early Days. But Her Groundbreaking Success as a Late-Night Host Is Largely Forgotten Today",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/faye-emerson-became-the-first-lady-of-television-during-the-mediums-early-days-but-her-groundbreaking-success-as-a-late-night-host-is-largely-forgotten-today-180988786/",
+      "summary": "She rose to fame in the mid-20th century with “The Faye Emerson Show” on CBS, interviewing luminaries and speaking directly to viewers",
+      "date": "2026-05-22T18:08:45Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/_bTLg1ioo-j3m1ep_SaYpZ66z2A=/420x240/filters:focal(1950x2043:1951x2044)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/92/3b/923b410a-898a-4120-bd32-66ee0f394879/gettyimages-1352888016.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-22T19:59:11Z"
+    },
+    {
+      "title": "This Pill Can Prevent You From Getting Covid-19 After Exposure to the Disease-Causing Virus, According to a Clinical Trial",
+      "link": "https://www.smithsonianmag.com/smart-news/this-pill-can-prevent-you-from-getting-covid-19-after-exposure-to-thedisease-causing-virus-according-to-a-clinical-trial-180988784/",
+      "summary": "The drug showed promising results in an international study involving nearly 2,400 participants, and the U.S. Food and Drug Administration is expected to make an approval decision ",
+      "date": "2026-05-22T17:53:43Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/GRTgSYpWn1_UpLjR6N28agG4ZDk=/420x240/filters:focal(2520x1680:2521x1681)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/67/56/67563fd5-38a2-4417-8a95-6a379e8de36f/covid-test.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-22T19:59:11Z"
+    },
+    {
+      "title": "Experimental mRNA vaccine may protect against multiple Ebola viruses",
+      "link": "https://www.newscientist.com/article/2527731-experimental-mrna-vaccine-may-protect-against-multiple-ebola-viruses/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Tests with rodents suggest an mRNA vaccine in development offers protection against three strains of Ebola virus, including the one behind the current crisis",
+      "date": "2026-05-22T17:00:37Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/22161140/SEI_298454963.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-22T19:59:14Z"
+    },
+    {
+      "title": "Photos reveal unexpected details from the world's first atomic test",
+      "link": "https://www.newscientist.com/article/2526891-photos-reveal-unexpected-details-from-the-worlds-first-atomic-test/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Previously classified photos and documents show the scientific work that went into the world's first atomic test in 1945 – a test that, just weeks later, would see nuclear bombs dr",
+      "date": "2026-05-20T18:00:56Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/15145448/sei296652976-1.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-22T19:59:14Z"
+    },
+    {
+      "title": "Political anger affects the body differently to other forms of anger",
+      "link": "https://www.newscientist.com/article/2527614-political-anger-affects-the-body-differently-to-other-forms-of-anger/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "We all feel emotions like anger and disgust from time to time, but they seem to cause stronger bodily sensations when they're politically induced",
+      "date": "2026-05-22T14:00:13Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/22112813/SEI_298342671.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-22T19:59:14Z"
+    },
+    {
+      "title": "Scientists discover thriving hard-substrate fauna in Oceania's deep sea",
+      "link": "https://phys.org/news/2026-05-scientists-hard-substrate-fauna-oceania.html",
+      "summary": "In the crushing darkness of the hadal zone—deep ocean trenches plunging 6,000 m to nearly 11,000 m—scientists have uncovered a hidden community. A study published in Science on May",
+      "date": "2026-05-22T19:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-th-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-22T19:59:15Z"
+    },
+    {
+      "title": "South China Sea coral reefs reveal carbon stores rivaling mangroves and seagrasses",
+      "link": "https://phys.org/news/2026-05-south-china-sea-coral-reefs.html",
+      "summary": "A collaborative research team has revealed the long-overlooked carbon storage potential of coral reef ecosystems and how reef-dwelling fish, corals, and surface sediments jointly s",
+      "date": "2026-05-22T18:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hkust-researchers-reve-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-22T19:59:15Z"
+    },
+    {
+      "title": "Second ribosome binding site helps explain how tetracyclines work",
+      "link": "https://phys.org/news/2026-05-ribosome-site-tetracyclines.html",
+      "summary": "For decades, doctors have widely used tetracyclines for conditions ranging from acne to tick-borne illnesses. Using high-resolution imaging technology, researchers in the laborator",
+      "date": "2026-05-22T18:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-tetracyclines-work.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-22T19:59:15Z"
+    },
+    {
+      "title": "Key switch controlling soil fungi symbiosis could solve a longstanding agricultural problem",
+      "link": "https://phys.org/news/2026-05-key-soil-fungi-symbiosis-longstanding.html",
+      "summary": "Over the course of evolution, plants have developed an elegant strategy to counteract a lack of phosphate in the soil—they form symbiotic relationships with soil fungi. These mycor",
+      "date": "2026-05-22T18:00:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/less-fertilizer-throug.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-22T19:59:15Z"
+    },
+    {
+      "title": "Ocean acidification is ruining reef fishes' social lives, study finds",
+      "link": "https://phys.org/news/2026-05-ocean-acidification-reef-fishes-social.html",
+      "summary": "A new study from Adelaide University has found that when ocean acidification makes reef habitat less complex, the fish living there gather in smaller shoals that offer less social ",
+      "date": "2026-05-22T17:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/reef.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-22T19:59:15Z"
+    },
+    {
+      "title": "Sequential antibiotic strategy can weaken dangerous pathogens",
+      "link": "https://phys.org/news/2026-05-sequential-antibiotic-strategy-weaken-dangerous.html",
+      "summary": "A research team from Kiel University has demonstrated which specific cellular mechanisms lead to the targeted weakening of bacterial pathogens, thereby increasing the effectiveness",
+      "date": "2026-05-22T17:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-approach-to-weak.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-22T19:59:15Z"
+    },
+    {
+      "title": "Landmark finding that showed brains of kids with ADHD mature later was actually a mirage in the data, new research finds",
+      "link": "https://www.livescience.com/health/neuroscience/landmark-finding-that-showed-brains-of-kids-with-adhd-mature-later-was-actually-a-mirage-in-the-data-new-research-finds",
+      "summary": "A \"foundational\" study found that the brains of children with ADHD matured later, but that finding was likely a mirage tied to issues with how the children were followed over time.",
+      "date": "2026-05-22T18:15:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/D5M9e5F7fGqMtk4VAaNjBb-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-22T19:59:16Z"
+    },
     {
       "title": "Into the Sahara – Moroccan adventure III",
       "link": "https://www.10000birds.com/into-the-sahara-moroccan-adventure-iii.htm",
@@ -5348,160 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-05-15T16:55:20Z"
-    },
-    {
-      "title": "New, Rare Dove Hatchlings Are a 'Source of Hope' for the Extinct-in-the-Wild Birds and a Step Forward in the Ambitious Project to Save Them",
-      "link": "https://www.smithsonianmag.com/smart-news/new-rare-dove-hatchlings-are-a-source-of-hope-for-the-extinct-in-the-wild-birds-and-a-step-forward-in-the-ambitious-project-to-save-them-180988730/",
-      "summary": "The Socorro dove has not been recorded in the wild since 1972, but that could change within only a few years, conservationists say, thanks to a long-term reintroduction effort",
-      "date": "2026-05-15T15:07:38Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/Gq3wbX-WHJ68P196aVzRU3O6w3U=/420x240/filters:focal(1125x750:1126x751)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3a/ce/3acec639-421c-4dc1-9741-d9e9ca341d9f/socorro_dove_photo_4.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-15T16:55:20Z"
-    },
-    {
-      "title": "Our understanding of Charles Darwin continues to evolve",
-      "link": "https://www.sciencenews.org/article/charles-darwin-new-biography-evolution",
-      "summary": "Historian Janet Browne’s Darwin: A Biography lifts the curtain on the private life of Charles Darwin, one of science’s most controversial pioneers.",
-      "date": "2026-05-15T15:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/0626_reviews_darwin_cover.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-05-15T16:55:21Z"
-    },
-    {
-      "title": "Cleaning up air pollution could weaken vital AMOC ocean current",
-      "link": "https://www.newscientist.com/article/2526785-cleaning-up-air-pollution-could-weaken-vital-amoc-ocean-current/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Global warming already threatens to destabilise the Atlantic Meridional Overturning Circulation, and new research shows that regional clean-air policies could reduce its strength f",
-      "date": "2026-05-15T14:40:36Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/15100314/SEI_297088920.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-05-15T16:55:23Z"
-    },
-    {
-      "title": "Bacterial energy enzyme reveals dual-trigger sodium pump mechanism, offering antibiotic clues",
-      "link": "https://phys.org/news/2026-05-bacterial-energy-enzyme-reveals-dual.html",
-      "summary": "The Na+-NQR enzyme is vital for energy production in pathogenic bacteria like the one that causes cholera, making it a highly promising target for new antibiotics. Researchers comb",
-      "date": "2026-05-15T16:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-and-supercomputer-s.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-15T16:55:24Z"
-    },
-    {
-      "title": "Q&A: Evolution may reshape how urban forests, wetlands and reefs protect cities",
-      "link": "https://phys.org/news/2026-05-qa-evolution-reshape-urban-forests.html",
-      "summary": "Over the past decade, cities around the world have increasingly turned to nature-based infrastructure to become more resilient in the face of a changing climate. Urban forests prov",
-      "date": "2026-05-15T15:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/qa-how-evolution-influ.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-15T16:55:24Z"
-    },
-    {
-      "title": "'The biggest El Niño event since the 1870s': 'Super' El Niño is now the most likely scenario by the end of this year ‪—‬ and the humanitarian cost could be huge",
-      "link": "https://www.livescience.com/planet-earth/weather/the-biggest-el-nino-event-since-the-1870s-super-el-nino-is-now-the-most-likely-scenario-by-the-end-of-this-year-and-the-humanitarian-cost-could-be-huge",
-      "summary": "A \"very strong\" El Niño is now the most probable scenario for the October-to-February period.",
-      "date": "2026-05-15T16:33:41Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/wv98ASLhR22QP6SwePmDPB-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-15T16:55:25Z"
-    },
-    {
-      "title": "AI chatbots are turbocharging violence against women and girls: We urgently need to regulate them",
-      "link": "https://www.livescience.com/technology/artificial-intelligence/ai-chatbots-are-turbo-charging-violence-against-women-and-girls-we-urgently-need-to-regulate-them-opinion",
-      "summary": "AI chatbots normalize sexual violence, initiate unwanted sexual conversations and offer personalized stalking advice because of how they're designed. Their makers need to be held a",
-      "date": "2026-05-15T15:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/82k36vJazM24YgAd8aQgxa-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-15T16:55:25Z"
-    },
-    {
-      "title": "Meet 12 “Stopover” Birds to See During Spring and Fall Migration",
-      "link": "https://www.allaboutbirds.org/news/meet-12-stopover-birds-to-see-during-spring-and-fall-migration/",
-      "summary": "Spring migration means the return of familiar summertime birds. But that’s not all—look closely and you’ll also find birds that are only passing through. They’ll stop for a few day",
-      "date": "2026-05-15T13:35:48Z",
-      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2021/08/Blackburnian-Warbler-Sunil-Thirkannad-575931761-fe.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-05-15T14:25:20Z"
-    },
-    {
-      "title": "The Basics of Bird Migration: How, Why, When, and Where",
-      "link": "https://www.allaboutbirds.org/news/the-basics-how-why-and-where-of-bird-migration/",
-      "summary": "Latest update April 2026; originally published January 2007. Lots of animals, from whales to wildebeest, make long annual migrations. But birds do it in the most spectacular fashio",
-      "date": "2026-05-13T19:26:00Z",
-      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2017/04/Baltimore_Oriole_migratio-illustration-Virginia_Greene-FI-1280x960.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-05-15T14:25:20Z"
-    },
-    {
-      "title": "Stardust in Antarctica shows Earth crossed a supernova cloud",
-      "link": "https://earthsky.org/space/stardust-in-antarctica-earth-crossed-supernova-cloud/",
-      "summary": "Stardust in Antarctica reveals the presence of an element that is not naturally made on Earth. But it is created in supernovas. Read more about the evidence. The post Stardust in A",
-      "date": "2026-05-15T11:39:28Z",
-      "image": "https://earthsky.org/upl/2026/05/nearest-stars-hydrogen-cloud-galaxymap-GAIA-e1778840868775.png",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-05-15T14:25:24Z"
-    },
-    {
-      "title": "Go Here, Not There: 5 Less-Crowded Alternatives to the Most Popular National Parks",
-      "link": "https://www.outsideonline.com/adventure-travel/national-parks/less-crowded-alternatives-to-the-most-popular-national-parks-2/",
-      "summary": "Looking to avoid the crowds at Zion or the Smokies? Our national park columnist shares the intel on overlooked parks that rival the most popular spots. The post Go Here, Not There:",
-      "date": "2026-05-15T13:53:56Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/Capitol-Reef-Getty.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-15T14:25:29Z"
-    },
-    {
-      "title": "The Best Car Awning Is The One That’s Easiest to Set Up",
-      "link": "https://www.outsideonline.com/outdoor-gear/cars-trucks/car-awning-kammok-crosswing-review/",
-      "summary": "The Kammok Crosswing is a retractable awning for cars and trucks that deploys in five seconds flat—no poles, no guy lines, no excuses not to use it. The post The Best Car Awning Is",
-      "date": "2026-05-15T12:00:54Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/Kammok-Crosswing-Car-Awning-Feature_Averill.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-15T14:25:29Z"
-    },
-    {
-      "title": "A Man Spotted Strange-Looking Rocks Near a Pond in Thailand. They Turned Out to Be the Bones of a Massive New Dinosaur Species",
-      "link": "https://www.smithsonianmag.com/smart-news/a-man-spotted-strange-looking-rocks-near-a-pond-in-thailand-they-turned-out-to-be-the-bones-of-a-massive-new-dinosaur-species-180988744/",
-      "summary": "Paleontologists have dubbed the long-necked, plant-eating creature \"Nagatitan chaiyaphumensis.\" It's the 14th named dinosaur from Thailand, and it might be the biggest one ever fou",
-      "date": "2026-05-15T14:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/i1WrO2_VPO7SEaBdT7imvEBuVJA=/420x240/filters:focal(1500x971:1501x972)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/01/d9/01d9b22d-789f-4ae0-b206-3b10cc9f6b70/nagatitan_artistic_illustration_shrunk.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-15T14:25:31Z"
-    },
-    {
-      "title": "Neanderthals Got Cavities, Too—and New Research Suggests They Drilled Into Their Teeth to Treat Them, Just Like Modern Dentists",
-      "link": "https://www.smithsonianmag.com/smart-news/neanderthals-got-cavities-too-and-new-research-suggests-they-drilled-into-their-teeth-to-treat-them-just-like-modern-dentists-180988746/",
-      "summary": "Researchers unearthed a 59,000-year-old Neanderthal molar that shows signs of dental surgery, a discovery that pushes back the earliest evidence of dental work by roughly 45,000 ye",
-      "date": "2026-05-15T13:34:41Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/GhWIKnszq2kVcBFDpCd9tl_PnJo=/420x240/filters:focal(2234x1553:2235x1554)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/20/b1/20b1125a-9a86-4f98-8bf8-f28c77a64bc7/pexels-karola-g-6627315.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-15T14:25:31Z"
     }
   ]
 }
