@@ -1,8 +1,63 @@
 {
-  "updated": "2026-05-21T23:09:46Z",
-  "updated_utc": "2026-05-21T23:09:46Z",
+  "updated": "2026-05-22T04:19:14Z",
+  "updated_utc": "2026-05-22T04:19:14Z",
   "count": 500,
   "stories": [
+    {
+      "title": "On the trail with the hunters who believe shooting big game can save Africa’s wildlife – podcast",
+      "link": "https://www.theguardian.com/news/audio/2026/may/22/on-the-trail-with-the-hunters-who-believe-shooting-big-game-can-save-africas-wildlife-podcast",
+      "summary": "One way to pay for wildlife conservation is to allow the rich to bag a few animals for high prices. But critics see this approach as an exercise in neocolonialism Written and read ",
+      "date": "2026-05-22T04:00:48Z",
+      "image": "https://i.guim.co.uk/img/media/c6651b18826d09f5e7bc6a5e2bcf8535bcabbc32/186_0_2682_2145/master/2682.jpg?width=140&quality=85&auto=format&fit=max&s=e1b04136a8188e46001604b8210519ab",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-22T04:18:59Z"
+    },
+    {
+      "title": "Seagrass found to produce new genetic individuals rather than clone itself, offering hope for 'underwater meadows'",
+      "link": "https://phys.org/news/2026-05-seagrass-genetic-individuals-clone-underwater.html",
+      "summary": "In many underwater ecosystems, seagrass meadows act as a food source, a safe haven, and an ecological lynchpin. But until now, very little was known about how these plants reproduc",
+      "date": "2026-05-22T04:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seagrass-found-to-give-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-22T04:19:10Z"
+    },
+    {
+      "title": "'Seed Transfer Zones' could help restore vast areas of degraded land in Brazil",
+      "link": "https://phys.org/news/2026-05-seed-zones-vast-areas-degraded.html",
+      "summary": "A new study divides Brazil into 48 zones, each defined by its climate and soil conditions. Restoration projects can use these zones to identify which native seeds are best suited t",
+      "date": "2026-05-22T03:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seed-transfer-zones-wi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-22T04:19:10Z"
+    },
+    {
+      "title": "Researchers transform paper sludge into valuable biofuels",
+      "link": "https://phys.org/news/2026-05-paper-sludge-valuable-biofuels.html",
+      "summary": "Researchers have demonstrated that different types of paper industry sludge, typically treated as a low-value waste, can be transformed into a high-yield renewable biofuel. The stu",
+      "date": "2026-05-22T02:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/paper-sludge-could-be.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-22T04:19:10Z"
+    },
+    {
+      "title": "A Cattle Farm in Alabama Draws Birders for a Spectacle of Kites",
+      "link": "https://www.birds.cornell.edu/home/a-cattle-farm-in-alabama-draws-birders-for-a-spectacle-of-kites/",
+      "summary": "",
+      "date": "Tue, 24 Mar 2026 13Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/GrasshopperSpirit.jpg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-05-22T04:19:13Z"
+    },
     {
       "title": "There Were Record Crowds on Mount Everest’s Summit This Week but No Deaths",
       "link": "https://www.outsideonline.com/outdoor-adventure/everest/there-were-record-crowds-on-mount-everests-summit-this-week-but-no-deaths/",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-05-14T20:39:48Z"
-    },
-    {
-      "title": "Warblers in New Hampshire’s Forests Have Found an Ideal Way to Divvy Up Territories",
-      "link": "https://www.birds.cornell.edu/home/warblers-in-new-hampshires-forests-have-found-an-ideal-way-to-divvy-up-territories/",
-      "summary": "",
-      "date": "Tue, 24 Mar 2026 13Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bombus_pensylvanicus_foraging.jpg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-05-14T20:39:50Z"
-    },
-    {
-      "title": "Ash-Throated Flycatcher Bird Identification",
-      "link": "https://www.birdsandblooms.com/birding/bird-species/songbirds/ash-throated-flycatcher/",
-      "summary": "Learn what an ash-throated flycatcher looks like and where to spot one. Also learn what the bird eats and where it builds a nest. The post Ash-Throated Flycatcher Bird Identificati",
-      "date": "Thu, 14 May 2026 16Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/05/BNBbyc18_ray-carroll.jpg?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-05-14T18:01:23Z"
-    },
-    {
-      "title": "The Best Butterfly Plants for Shade Gardens",
-      "link": "https://www.birdsandblooms.com/gardening/attracting-butterflies/butterfly-plants-shade/",
-      "summary": "Want to attract more butterflies to your shade garden? Start with our expert's list of the best shade plants for butterflies. The post The Best Butterfly Plants for Shade Gardens a",
-      "date": "Thu, 07 May 2026 19Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/05/shutterstock_1311423623-e1778178949605.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-05-14T18:01:23Z"
-    },
-    {
-      "title": "Why Stepping Outside Is Essential",
-      "link": "https://www.outsideonline.com/culture/active-families/why-stepping-outside-is-essential/",
-      "summary": "Shawn Gorman, the great-grandson of Leon Leonwood (“L.L.”) Bean and chairman of his family’s company, shares the benefits of going “off-the-grid” The post Why Stepping Outside Is E",
-      "date": "Thu, 14 May 2026 16Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/Lander-Comp-960px-1.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-14T18:01:34Z"
-    },
-    {
-      "title": "Could Building a Dam Across the Bering Strait Save the Planet From Some Effects of Climate Change?",
-      "link": "https://www.smithsonianmag.com/smart-news/could-building-a-dam-across-the-bering-straight-save-the-planet-from-some-effects-of-climate-change-180988725/",
-      "summary": "A preliminary study suggests that blocking off the waterway between Russia and Alaska could help the survival of a key system of ocean currents. But there could be potential unseen",
-      "date": "Thu, 14 May 2026 16Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/t1YciqElJPGAUcR_STXbFFYEef8=/420x240/filters:focal(800x556:801x557)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/83/30/8330d810-e85e-4661-a777-b2fa57e7cbb4/lc8084013-0142015168lgn00_b432beringstraitcropsmall.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-14T18:01:36Z"
     }
   ]
 }
