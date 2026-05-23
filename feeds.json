@@ -1,8 +1,63 @@
 {
-  "updated": "2026-05-23T11:18:47Z",
-  "updated_utc": "2026-05-23T11:18:47Z",
+  "updated": "2026-05-23T13:53:43Z",
+  "updated_utc": "2026-05-23T13:53:43Z",
   "count": 500,
   "stories": [
+    {
+      "title": "6 Poisonous Caterpillars You Should Never Touch",
+      "link": "https://www.birdsandblooms.com/gardening/garden-bugs/poisonous-caterpillars/",
+      "summary": "No matter how furry or fuzzy they look, it's best to leave irritating, poisonous caterpillars alone. Learn which caterpillars to avoid. The post 6 Poisonous Caterpillars You Should",
+      "date": "2026-05-15T19:44:26Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/05/GettyImages-1189665788-scaled-e1778790603596.jpg?fit=700,708",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-05-23T13:53:25Z"
+    },
+    {
+      "title": "Invasive species discovered at drinking water treatment plants in San Jose",
+      "link": "https://www.mercurynews.com/2026/05/08/invasive-species-discovered-at-drinking-water-treatment-plants-in-san-jose/",
+      "summary": "Fast-spreading hardy mussels from China, already in Delta and spreading across California, could cost millions to control",
+      "date": "2026-05-08T22:26:17Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/05/SJM-L-MUSSELS-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-05-23T13:53:33Z"
+    },
+    {
+      "title": "De‑extinction company says it's made an artificial egg—if true, it could help save living species",
+      "link": "https://phys.org/news/2026-05-deextinction-company-artificial-egg-true.html",
+      "summary": "Today's announcement by Texas-based de-extinction company Colossal Biosciences about a successful hatching of chicks from an artificial egg would represent a major innovation, if t",
+      "date": "2026-05-23T13:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/egg-in-hand.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-23T13:53:40Z"
+    },
+    {
+      "title": "New AI system uses cameras and thermal sensors to steer ships clear of gray whales in the San Francisco Bay",
+      "link": "https://phys.org/news/2026-05-ai-cameras-thermal-sensors-ships.html",
+      "summary": "Researchers from UC Santa Barbara's Benioff Ocean Science Laboratory (BOSL) and local partners in San Francisco have unveiled new technology in their ongoing efforts to prevent wha",
+      "date": "2026-05-23T12:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-ai-system-uses-cam.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-23T13:53:40Z"
+    },
+    {
+      "title": "Emergence of new cavefish species challenges evolutionary dead-end idea",
+      "link": "https://phys.org/news/2026-05-emergence-cavefish-species-evolutionary-dead.html",
+      "summary": "A new Yale study identifies a distinct species of eyeless cavefish, a discovery that challenges long-held conventional wisdom that caves and other subterranean ecosystems are evolu",
+      "date": "2026-05-23T12:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/underground-evolution.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-23T13:53:40Z"
+    },
     {
       "title": "Birdlife on Amazonian River Beaches",
       "link": "https://www.10000birds.com/birdlife-on-amazonian-river-beaches.htm",
@@ -5447,61 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-05-16T10:22:02Z"
-    },
-    {
-      "title": "Student-built system unlocks fully autonomous electroporation for 96- and 384-well workflows",
-      "link": "https://phys.org/news/2026-05-student-built-fully-autonomous-electroporation.html",
-      "summary": "Inside the California NanoSystems Institute at UCLA, where some of the most advanced and technical automated infrastructure on campus resides, two students saw an opportunity hidin",
-      "date": "2026-05-16T09:03:58Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-bottleneck-to-bre.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-16T10:22:07Z"
-    },
-    {
-      "title": "Newly discovered, blue-whale-size asteroid will fly super close to Earth Monday — and you can watch it live",
-      "link": "https://www.livescience.com/space/asteroids/asteroid-2026-jh2",
-      "summary": "Newly spotted asteroid 2026 JH2, which could be up to 115 feet wide, will fly past Earth closer than some satellites on Monday (May 18). The close approach will be visible to starg",
-      "date": "2026-05-16T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/MASCaeTc62D9j4z68tureA-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-16T10:22:08Z"
-    },
-    {
-      "title": "Can people catch infections from plants?",
-      "link": "https://www.livescience.com/health/can-people-catch-infections-from-plants",
-      "summary": "Catching diseases from plants may not just be the domain of science fiction.",
-      "date": "2026-05-16T09:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/SdHo4BXhSM28mEgNHaUBTn-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-16T10:22:08Z"
-    },
-    {
-      "title": "Country diary: A solid ball of bees, right in front of me – what a stroke of luck | Michael White",
-      "link": "https://www.theguardian.com/environment/2026/may/16/country-diary-a-solid-ball-of-bees-right-in-front-of-me-what-a-stroke-of-luck",
-      "summary": "Cranbrook, Kent: The swarm has gathered in a plum tree, looking for a new home. And I have just the place There comes this moment in May when I’m still anticipating the fresh green",
-      "date": "2026-05-16T04:30:01Z",
-      "image": "https://i.guim.co.uk/img/media/ace14b4de703212a1f0b9e578e54dce4bb18e6be/94_0_2835_2268/master/2835.jpg?width=140&quality=85&auto=format&fit=max&s=dc83f6eda394624e37bd833ee3ec26b2",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-05-16T06:28:53Z"
-    },
-    {
-      "title": "RNA's first letter may shape antiviral alarms, with A outpacing G",
-      "link": "https://phys.org/news/2026-05-rna-letter-antiviral-alarms-outpacing.html",
-      "summary": "Researchers at the International Institute of Molecular and Cell Biology in Warsaw (IIMCB), led by Prof. Gracjan Michlewski, have shown that a subtle difference at the very beginni",
-      "date": "2026-05-15T22:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/small-change-in-rna-bi.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-15T23:59:20Z"
     }
   ]
 }
