@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-23T19:21:58Z",
-  "updated_utc": "2026-05-23T19:21:58Z",
+  "updated": "2026-05-23T21:02:02Z",
+  "updated_utc": "2026-05-23T21:02:02Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Tiny fossils found in 1.7-billion‑year‑old mud yield clues to the evolution of complex life",
+      "link": "https://phys.org/news/2026-05-tiny-fossils-billionyearold-mud-yield.html",
+      "summary": "Stored in an open-air warehouse in tropical Darwin, Australia, are dozens of trays containing cylindrical cores of rock. They are from drill holes bored hundreds of meters below th",
+      "date": "2026-05-23T21:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-fossils-found-in-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-23T21:01:58Z"
+    },
     {
       "title": "'The Silence of the Lambs' introduced the world to forensic entomology—but how much has changed since?",
       "link": "https://phys.org/news/2026-05-silence-lambs-world-forensic-entomology.html",
@@ -5491,17 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-05-16T11:57:21Z"
-    },
-    {
-      "title": "The Feds Are Coming After Grand-Staircase Escalante. Critics Say the Monument Is on the “Chopping Block.”",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/grand-staircase-escalante-cra-threat-explained/",
-      "summary": "More than 150 scientists are urging Congress to reject an unprecedented use of the CRA that threatens the Grand Staircase-Escalante National Monument. The post The Feds Are Coming ",
-      "date": "2026-05-16T10:46:42Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/GettyImages-507916864.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-16T11:57:33Z"
     }
   ]
 }
