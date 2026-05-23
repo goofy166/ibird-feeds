@@ -1,8 +1,30 @@
 {
-  "updated": "2026-05-23T13:53:43Z",
-  "updated_utc": "2026-05-23T13:53:43Z",
+  "updated": "2026-05-23T15:08:48Z",
+  "updated_utc": "2026-05-23T15:08:48Z",
   "count": 500,
   "stories": [
+    {
+      "title": "DNA sequencing is rewriting our understanding of historic outbreaks, but it can't tell the whole story",
+      "link": "https://www.livescience.com/health/genetics/dna-sequencing-is-rewriting-our-understanding-of-historic-outbreaks-but-it-cant-tell-the-whole-story",
+      "summary": "Techniques for analyzing DNA have advanced, enabling scientists to better understand disease outbreaks throughout history.",
+      "date": "2026-05-23T14:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/fi59g7YnCsrNZvq3XsXA6N-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-23T15:08:46Z"
+    },
+    {
+      "title": "AI-generated images are making it impossible to distinguish truth from fiction. We need laws and AI watermarks to protect our shared reality.",
+      "link": "https://www.livescience.com/technology/artificial-intelligence/ai-generated-images-are-making-it-impossible-to-distinguish-truth-from-fiction-we-need-laws-and-ai-watermarks-to-protect-our-shared-reality-opinion",
+      "summary": "Generative AI is destroying the baseline assumption that photographs bear some causal connection to reality. That's bad news for democracy.",
+      "date": "2026-05-23T14:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/TdfBsQPvADWq5dALgB7ugQ-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-23T15:08:46Z"
+    },
     {
       "title": "6 Poisonous Caterpillars You Should Never Touch",
       "link": "https://www.birdsandblooms.com/gardening/garden-bugs/poisonous-caterpillars/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-05-16T11:57:39Z"
-    },
-    {
-      "title": "Florida tightens rules on capturing giant manta rays but stops short of full ban",
-      "link": "https://www.theguardian.com/us-news/2026/may/16/florida-giant-manta-rays-capture-rules",
-      "summary": "Move follows upsetting viral video of ray being manhandled into unmarked boat in Florida waters last year Wildlife officials in Florida will continue to allow threatened giant mant",
-      "date": "2026-05-16T10:00:07Z",
-      "image": "https://i.guim.co.uk/img/media/e7562ae64d4095c87453363eed77e22fde16eb1d/1039_0_4922_3938/master/4922.jpg?width=140&quality=85&auto=format&fit=max&s=42c904c69b298cdc526740c12a1406ce",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-05-16T10:21:56Z"
-    },
-    {
-      "title": "Climbing Mount Everest Has Gotten Easier. But It’s Still A Punishing Challenge.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/everest/mount-everest-is-hard/",
-      "summary": "Sure, advancements in technology, techniques, and guiding practices have made Mount Everest easier than in the days of Tenzing Norgay and Edmund Hillary. Experts explain why reachi",
-      "date": "2026-05-16T09:49:13Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/Everest122.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-16T10:22:02Z"
     }
   ]
 }
