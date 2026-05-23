@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-23T06:40:58Z",
-  "updated_utc": "2026-05-23T06:40:58Z",
+  "updated": "2026-05-23T09:07:24Z",
+  "updated_utc": "2026-05-23T09:07:24Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How hot is Earth's core?",
+      "link": "https://www.livescience.com/planet-earth/geology/how-hot-is-earths-core",
+      "summary": "What's the temperature in Earth's core, and how did we figure that out?",
+      "date": "2026-05-23T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/kyHNKK6WXav9adfyE6vaTk-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-23T09:07:22Z"
+    },
     {
       "title": "Birding with Insight: Cornell Lab Tools for Better Birding",
       "link": "https://www.allaboutbirds.org/news/insight-better-birding-tools/",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-05-15T20:19:20Z"
-    },
-    {
-      "title": "First test of CO2 removal with green sand finds no harm to marine life",
-      "link": "https://www.newscientist.com/article/2526197-first-test-of-co2-removal-with-green-sand-finds-no-harm-to-marine-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Adding olivine to the ocean could remove CO2 from the atmosphere, and a pilot project in New York state found no signs of adverse effects on seafloor organisms",
-      "date": "2026-05-15T15:41:05Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/15143329/SEI_297296285.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-05-15T20:19:24Z"
     }
   ]
 }
