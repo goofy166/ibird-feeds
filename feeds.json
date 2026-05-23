@@ -1,8 +1,41 @@
 {
-  "updated": "2026-05-23T17:11:46Z",
-  "updated_utc": "2026-05-23T17:11:46Z",
+  "updated": "2026-05-23T19:21:58Z",
+  "updated_utc": "2026-05-23T19:21:58Z",
   "count": 500,
   "stories": [
+    {
+      "title": "'The Silence of the Lambs' introduced the world to forensic entomology—but how much has changed since?",
+      "link": "https://phys.org/news/2026-05-silence-lambs-world-forensic-entomology.html",
+      "summary": "In the early 1990s, crime-loving television audiences could choose mainly between cozy, fictional detective series such as Columbo and Murder, She Wrote. The US docuseries Unsolved",
+      "date": "2026-05-23T19:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/forensic-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-23T19:21:55Z"
+    },
+    {
+      "title": "Ancient tooth proteins suggest Homo erectus may have left a genetic legacy in people today",
+      "link": "https://phys.org/news/2026-05-ancient-tooth-proteins-homo-erectus.html",
+      "summary": "For most of the 20th century, the model of human origins was a tree: with the trunk dividing into branches, and then twigs. Each species of human relative (hominin) was a neat, sin",
+      "date": "2026-05-23T18:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-tooth-proteins.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-23T19:21:55Z"
+    },
+    {
+      "title": "Honeybees reveal Weber's law in flight when choosing paths",
+      "link": "https://phys.org/news/2026-05-honeybees-reveal-weber-law-flight.html",
+      "summary": "Honeybees are among the widely studied insects, due to their sophisticated, hierarchical social organization and their essential ecological role. Bees can move swiftly in natural e",
+      "date": "2026-05-23T17:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-honeybees-choose-p-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-23T19:21:55Z"
+    },
     {
       "title": "DNA sequencing is rewriting our understanding of historic outbreaks, but it can't tell the whole story",
       "link": "https://www.livescience.com/health/genetics/dna-sequencing-is-rewriting-our-understanding-of-historic-outbreaks-but-it-cant-tell-the-whole-story",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-05-16T11:57:33Z"
-    },
-    {
-      "title": "Himalayan wolf-dog hybrids emerge as a threat to wolves and people",
-      "link": "https://www.newscientist.com/article/2526663-himalayan-wolf-dog-hybrids-emerge-as-a-threat-to-wolves-and-people/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "In Ladakh, Himalayan wolves are increasingly breeding with feral dogs, giving rise to a new animal known as khipshang that could injure humans and outcompete other carnivores",
-      "date": "2026-05-16T08:00:50Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/14114152/SEI_296961254.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-05-16T11:57:37Z"
-    },
-    {
-      "title": "New Scientist recommends a smart new account of human exceptionalism",
-      "link": "https://www.newscientist.com/article/mg27035950-400-new-scientist-recommends-a-smart-new-account-of-human-exceptionalism/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Why did humans decide they weren't like other animals, or animals at all? Has this exceptionalism twisted us out of shape? Michael Bond's book Animate offers a page-turning account",
-      "date": "2026-05-13T18:00:00Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/11100317/SEI_295913877.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-05-16T11:57:37Z"
-    },
-    {
-      "title": "Science news this week: PCOS has a new name, Neanderthals were the world's oldest dentists, and the first nuclear bomb explosion spawned an 'alien' crystal",
-      "link": "https://www.livescience.com/health/science-news-this-week-pcos-has-a-new-name-neanderthals-were-the-worlds-oldest-dentists-and-the-first-nuclear-bomb-explosion-spawned-an-alien-crystal",
-      "summary": "May 16, 2026: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend.",
-      "date": "2026-05-16T11:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/xqZURoLEB9wSCph75GYEKP-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-16T11:57:39Z"
     }
   ]
 }
