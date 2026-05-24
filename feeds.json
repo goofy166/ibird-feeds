@@ -1,8 +1,30 @@
 {
-  "updated": "2026-05-24T16:07:58Z",
-  "updated_utc": "2026-05-24T16:07:58Z",
+  "updated": "2026-05-24T18:03:52Z",
+  "updated_utc": "2026-05-24T18:03:52Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How, Exactly, Could Deep-Sea Mining Benefit All of Humanity?",
+      "link": "https://hakaimagazine.com/news/how-exactly-could-deep-sea-mining-benefit-all-of-humanity/",
+      "summary": "When Arvid Pardo, a Maltese diplomat, took the floor at the United Nations General Assembly in New York in 1967 and began speaking at length on international law, the room was spar",
+      "date": "2024-12-20T08:01:54Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-benefit-of-humanity.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-05-24T18:03:40Z"
+    },
+    {
+      "title": "Gold-coated optical fiber rapidly gathers microscopic targets for faster, more sensitive detection",
+      "link": "https://phys.org/news/2026-05-gold-coated-optical-fiber-rapidly.html",
+      "summary": "Osaka Metropolitan University researchers have developed a light-driven technique that quickly amasses thousands of bacteria into a single spot, boosting detection speed and sensit",
+      "date": "2026-05-24T17:00:11Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gold-coated-optical-fi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-24T18:03:49Z"
+    },
     {
       "title": "Sun news:  New region arrives, fires 16 flares!",
       "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
@@ -5480,28 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-05-17T11:16:08Z"
-    },
-    {
-      "title": "Birding Brochure English, Part 9: Mixed Flocks",
-      "link": "https://www.10000birds.com/birding-brochure-english-part-9-mixed-flocks.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-brochure-english-part-9-mixed-flocks",
-      "summary": "Mixed flocks are a staple of tropical birding and are usually described with enthusiasm. We hope to encounter several active mixed flocks, providing exciting birding opportunities.",
-      "date": "2026-05-17T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/03/Blue-winged-Minla_DSC6486_Baihualing-Yunnan-Mar-17-2026.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-05-17T11:16:08Z"
-    },
-    {
-      "title": "Which moon phase is best for stargazing? That depends.",
-      "link": "https://earthsky.org/tonight/what-moon-phase-is-best-for-stargazing/",
-      "summary": "Which moon phase is best for stargazing? Most astronomers would tell you that the best moon is no moon. But it depends on what you want to see. The post Which moon phase is best fo",
-      "date": "2026-05-17T10:10:24Z",
-      "image": "https://earthsky.org/upl/2025/04/Milky-Way-Ossama-Fathy-St-Catherine-Egypt-Apr-4-2025-e1744806136793.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-05-17T11:16:15Z"
     }
   ]
 }
