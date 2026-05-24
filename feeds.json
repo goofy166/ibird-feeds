@@ -1,8 +1,41 @@
 {
-  "updated": "2026-05-24T14:40:42Z",
-  "updated_utc": "2026-05-24T14:40:42Z",
+  "updated": "2026-05-24T16:07:58Z",
+  "updated_utc": "2026-05-24T16:07:58Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Sun news:  New region arrives, fires 16 flares!",
+      "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+      "summary": "Sun news for May 24, 2026: Newcomer AR4446 fires 16 C-class flares on arrival! More complexity may be hidden. A coronal hole stream may arrive on May 26. The post Sun news: New reg",
+      "date": "2026-05-24T10:00:53Z",
+      "image": "https://earthsky.org/upl/2026/05/ManyFlares-AR4446-May-23-24-2026-SDO-304-211-131-800x800.webp",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-24T16:07:44Z"
+    },
+    {
+      "title": "Catapult the cow! 6 medieval castles that were never conquered",
+      "link": "https://www.livescience.com/archaeology/catapult-the-cow-medieval-castles-that-were-never-conquered",
+      "summary": "Many medieval castles were formidable stone fortifications. Live Science takes a look at six that were never conquered.",
+      "date": "2026-05-24T15:05:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/LpH2KDHygKyqUDDHAecC8L-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-24T16:07:55Z"
+    },
+    {
+      "title": "'We can identify these really early, before the clinical diagnosis': Epigenetic markers may help explain why Native Hawaiians are aging faster",
+      "link": "https://www.livescience.com/health/genetics/we-can-identify-these-really-early-before-the-clinical-diagnosis-epigenetics-may-help-explain-why-native-hawaiians-are-aging-faster",
+      "summary": "Live Science spoke with Alika Maunakea, an Native Hawaiian epigeneticist, about how epigenetics underpins health disparities between Native Hawaiians and others in Hawaii.",
+      "date": "2026-05-24T15:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/vszhFzi4g6r4ghf5docRJX-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-24T16:07:55Z"
+    },
     {
       "title": "2nd batch of Pentagon UAP files: Over 50 videos to watch",
       "link": "https://earthsky.org/human-world/2nd-batch-pentagon-uap-files-uap-ufos/",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-05-17T11:16:15Z"
-    },
-    {
-      "title": "How, Exactly, Could Deep-Sea Mining Benefit All of Humanity?",
-      "link": "https://hakaimagazine.com/news/how-exactly-could-deep-sea-mining-benefit-all-of-humanity/",
-      "summary": "When Arvid Pardo, a Maltese diplomat, took the floor at the United Nations General Assembly in New York in 1967 and began speaking at length on international law, the room was spar",
-      "date": "2024-12-20T08:01:54Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-benefit-of-humanity.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-05-17T11:16:16Z"
-    },
-    {
-      "title": "Webb and Hubble sink deep into the dazzling Whirlpool Galaxy — Space photo of the week",
-      "link": "https://www.livescience.com/space/astronomy/webb-and-hubble-sink-deep-into-the-dazzling-whirlpool-galaxy-space-photo-of-the-week",
-      "summary": "A striking new image of the Whirlpool Galaxy is helping astronomers solve one of the biggest mysteries in star formation.",
-      "date": "2026-05-17T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ywihR5XinavhRt8YsdsMa5-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-17T11:16:25Z"
-    },
-    {
-      "title": "Why aren't brain transplants possible?",
-      "link": "https://www.livescience.com/health/neuroscience/why-arent-brain-transplants-possible",
-      "summary": "Lining up donor and recipient nerves for a potential brain transplant is one thing. Getting them to communicate is another.",
-      "date": "2026-05-17T09:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/WJW5vQ8oJZ9UxWbJSAYBV6-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-17T09:54:16Z"
     }
   ]
 }
