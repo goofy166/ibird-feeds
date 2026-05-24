@@ -1,8 +1,52 @@
 {
-  "updated": "2026-05-24T08:40:37Z",
-  "updated_utc": "2026-05-24T08:40:37Z",
+  "updated": "2026-05-24T10:46:41Z",
+  "updated_utc": "2026-05-24T10:46:41Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘Bringing the boys back home’: how mountain bongos Maue, Fitz, Kudu and Bon64 made their way back to Kenya",
+      "link": "https://www.theguardian.com/environment/2026/may/24/bringing-the-boys-back-home-how-mountain-bongos-maue-fitz-kudu-and-bon64-made-their-way-back-to-kenya",
+      "summary": "Staff at the Mount Kenya Wildlife Conservancy are overseeing the repatriation of ‘the shiest antelope’ from western zoos to their native east African country “We are bringing the b",
+      "date": "2026-05-24T09:00:52Z",
+      "image": "https://i.guim.co.uk/img/media/f7534800275d91dc03512d5d669b230c1de105a9/379_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=c9cbae48900aaf0c4f1bcc61b5c24b38",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-24T10:46:27Z"
+    },
+    {
+      "title": "Meet Crux, the constellation of the Southern Cross",
+      "link": "https://earthsky.org/constellations/crux-the-southern-cross-jewel-box/",
+      "summary": "Crux, the constellation of the Southern Cross, is a hallmark of southern skies and contains the open cluster known as the Jewel Box. The post Meet Crux, the constellation of the So",
+      "date": "2026-05-24T10:38:05Z",
+      "image": "https://earthsky.org/upl/2022/04/Crux-Southern-Cross-e1650936040498.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-24T10:46:28Z"
+    },
+    {
+      "title": "NASA spacecraft beams back blue images of Mars on its way to a metal asteroid — Space photo of the week",
+      "link": "https://www.livescience.com/space/mars/nasa-spacecraft-beams-back-blue-images-of-mars-on-its-way-to-a-metal-asteroid-space-photo-of-the-week",
+      "summary": "On its way to a metal asteroid, NASA's Psyche probe tested its cameras as it got a gravity assist from the Red Planet.",
+      "date": "2026-05-24T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/oP6PgUHy8tsZUqK3gYPUMf-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-24T10:46:39Z"
+    },
+    {
+      "title": "How did animals survive the asteroid that killed the dinosaurs?",
+      "link": "https://www.livescience.com/animals/how-did-animals-survive-the-asteroid-that-killed-the-dinosaurs",
+      "summary": "It helped to have a number of features to aid survival following the end-Cretaceous mass extinction.",
+      "date": "2026-05-24T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Ay6wmt56364egL2kEKdpK7-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-24T10:46:39Z"
+    },
     {
       "title": "Oops!",
       "link": "https://www.10000birds.com/oops.htm",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-05-16T15:03:57Z"
-    },
-    {
-      "title": "Peacock ‘invasion’ of Italian seaside town ruffles feathers",
-      "link": "https://www.theguardian.com/world/2026/may/16/peacock-italy-punta-marina-tensions",
-      "summary": "With Punta Marina residents loving or loathing the incomers, ‘peacock rangers’ have been appointed to defuse tensions Federico Bruni was sitting on a bench, eating a piadina romagn",
-      "date": "2026-05-16T12:00:08Z",
-      "image": "https://i.guim.co.uk/img/media/77cc4d3fafd7461bdf0da9ae1d9c5bc9d37d54ca/1019_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=a72bc160dfe87b603a5821a2297ab6bd",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-05-16T13:52:09Z"
-    },
-    {
-      "title": "Caviar Pizzas, New Money, and the Death of an Ancient Fish",
-      "link": "https://hakaimagazine.com/features/caviar-pizzas-new-money-and-the-death-of-an-ancient-fish/",
-      "summary": "I am sitting at a slick Manhattan waterfront restaurant on the banks of the East River, New York City, trying to decide why I find the caviar pizza on the menu so disturbing. Jonat",
-      "date": "Tue, 10 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-21st-century-sturgeon.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-05-16T13:52:12Z"
-    },
-    {
-      "title": "The Destructive Legacy of Failed Aquaculture",
-      "link": "https://hakaimagazine.com/news/the-destructive-legacy-of-failed-aquaculture/",
-      "summary": "Aquaculture is big business in Canada. In 2023, open-net-pen salmon farming in British Columbia alone produced 50,000 tonnes of fish worth just over US $350-million. But on June 30",
-      "date": "2024-12-06T08:01:14Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-aquaculture-cleanup.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-05-16T13:52:12Z"
-    },
-    {
-      "title": "Conjuring the Lost Land Beneath the North Sea",
-      "link": "https://hakaimagazine.com/features/conjuring-the-lost-land-beneath-the-north-sea/",
-      "summary": "The North Sea is a hard place to love. It’s not the cold, or the silty gray-brown waters that seem to suck the brightness out of the sky that make it unappealing, it’s what people ",
-      "date": "Thu, 05 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-doggerland.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-05-16T13:52:12Z"
     }
   ]
 }
