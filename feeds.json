@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-24T05:07:16Z",
-  "updated_utc": "2026-05-24T05:07:16Z",
+  "updated": "2026-05-24T08:40:37Z",
+  "updated_utc": "2026-05-24T08:40:37Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Oops!",
+      "link": "https://www.10000birds.com/oops.htm",
+      "summary": "It’s 5 in the morning, and my phone wakes me with an incessant noise. Was I to go out birding? No, it’s the editor-in-chief of our internationally acclaimed website. Where is your ",
+      "date": "2026-05-24T07:25:03Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/05/IMG_5944-scaled.jpeg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-05-24T08:40:16Z"
+    },
     {
       "title": "Early locust warning systems are key to minimizing natural disasters, returning up to 680 times investment",
       "link": "https://phys.org/news/2026-05-early-locust-key-minimizing-natural.html",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 7,
       "fetched_at": "2026-05-16T13:52:12Z"
-    },
-    {
-      "title": "Australian Magpies in Victoria",
-      "link": "https://www.10000birds.com/australian-magpies-in-victoria-2.htm?utm_source=rss&utm_medium=rss&utm_campaign=australian-magpies-in-victoria-2",
-      "summary": "This post is republished in our “From the Archives” series, featuring highlights of our vast back catalogue of more than 10,000 birding-related posts published over the last 15 yea",
-      "date": "2026-05-16T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/Australian-Magpie-Victoria-6.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-05-16T11:57:21Z"
     }
   ]
 }
