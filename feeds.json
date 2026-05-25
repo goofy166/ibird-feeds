@@ -1,8 +1,30 @@
 {
-  "updated": "2026-05-25T19:51:46Z",
-  "updated_utc": "2026-05-25T19:51:46Z",
+  "updated": "2026-05-25T21:17:18Z",
+  "updated_utc": "2026-05-25T21:17:18Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Blue Moon – and smallest moon of 2026 – on May 30-31",
+      "link": "https://earthsky.org/astronomy-essentials/when-is-the-next-blue-moon/",
+      "summary": "There's a full Blue Moon overnight on May 30-31, 2026. A Blue Moon is the 2nd of 2 full moons in a calendar month or the 3rd of 4 full moons in a single season. The post Blue Moon ",
+      "date": "2026-05-25T20:15:57Z",
+      "image": "https://earthsky.org/upl/2026/04/2026-May-30-Moon-E.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-25T21:17:04Z"
+    },
+    {
+      "title": "How cells identify and silence unwanted jumping genes",
+      "link": "https://phys.org/news/2026-05-cells-silence-unwanted-genes.html",
+      "summary": "Transposons, DNA sequences that can self-replicate and move (jump) throughout the genome, are widespread and can affect cell survival if left unchecked. Cells control these \"jumpin",
+      "date": "2026-05-25T20:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-uncovers-how-cel.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-25T21:17:15Z"
+    },
     {
       "title": "Bird Friendly Certification: 8 Requirements Coffee Farms Need to Satisify",
       "link": "https://birdwatchinghq.com/bird-friendly-certification-requirements-for-coffee-farms/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-05-18T14:35:55Z"
-    },
-    {
-      "title": "Never-ending storms make for good plot twists. Could they plague Earth?",
-      "link": "https://www.sciencenews.org/article/never-ending-thunderstorms-earth-zelda",
-      "summary": "While the thunderstorms in The Legend of Zelda defy physics, plenty of places on Earth experience extreme weather.",
-      "date": "2026-05-18T13:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/0626_tech-fic.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-05-18T14:35:56Z"
-    },
-    {
-      "title": "The 3 things you need to know about protein, according to an expert",
-      "link": "https://www.newscientist.com/article/2526684-the-3-things-you-need-to-know-about-protein-according-to-an-expert/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Why have so many people become fixated on protein? Donald Layman is one of the people behind the research showing the benefits of getting more protein in your diet, but he thinks t",
-      "date": "2026-05-18T14:00:57Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/14133110/SEI_297108755.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-05-18T14:35:58Z"
     }
   ]
 }
