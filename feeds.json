@@ -1,8 +1,85 @@
 {
-  "updated": "2026-05-25T05:25:45Z",
-  "updated_utc": "2026-05-25T05:25:45Z",
+  "updated": "2026-05-25T10:24:19Z",
+  "updated_utc": "2026-05-25T10:24:19Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A magpie can recognise you – and four other fun facts about Australia’s most often-spotted bird",
+      "link": "https://www.theguardian.com/environment/2026/may/25/birdlife-australia-aussie-bird-count-magpie-five-fun-facts",
+      "summary": "The feathered friend was recorded in half of the 153,000 surveys in BirdLife Australia’s Aussie Bird Count The Australian magpie has again topped the charts in BirdLife Australia’s",
+      "date": "2026-05-25T07:43:36Z",
+      "image": "https://i.guim.co.uk/img/media/cbb2795b32f488540dbe45950f7efeb631aea298/330_0_2165_1733/master/2165.jpg?width=140&quality=85&auto=format&fit=max&s=2d2d5b51b755ecb675955fb363781453",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-25T10:24:04Z"
+    },
+    {
+      "title": "Mars astronauts may do laundry by blasting clothes with a plasma beam",
+      "link": "https://www.newscientist.com/article/2527768-mars-astronauts-may-do-laundry-by-blasting-clothes-with-a-plasma-beam/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "There is currently no good way for astronauts in space to do laundry, but researchers may have finally come up with one: a bright purple jet of microbe-killing plasma",
+      "date": "2026-05-25T09:00:14Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/22191957/SEI_298492705.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-25T10:24:14Z"
+    },
+    {
+      "title": "Why your brain needs plenty of “Aha!” moments",
+      "link": "https://www.newscientist.com/article/2527590-why-your-brain-needs-plenty-of-aha-moments/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "In the age of AI, instant answers to our questions are readily available. But columnist Helen Thomson finds that continuing to encourage those delicious flashes of insight that com",
+      "date": "2026-05-25T09:00:12Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/22201229/SEI_298455942.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-25T10:24:14Z"
+    },
+    {
+      "title": "The Southwest's drought is shrinking wildlife's suitable habitat, with predators hit hardest",
+      "link": "https://phys.org/news/2026-05-southwest-drought-wildlife-suitable-habitat.html",
+      "summary": "As people in the United States are coping with historic drought conditions, the country's wildlife is also facing problems because of the extreme aridity. Herbivores, omnivores, an",
+      "date": "2026-05-25T09:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/cougar.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-25T10:24:16Z"
+    },
+    {
+      "title": "The solar system's largest moon may be heating up — offering clues to its mysterious origins",
+      "link": "https://www.livescience.com/space/jupiter/the-solar-systems-largest-moon-may-be-heating-up-offering-clues-to-its-mysterious-origins",
+      "summary": "The largest moon in the solar system — Jupiter’s Ganymede — has a unique and inexplicable magnetic field. New research could finally explain it: the moon is heating up.",
+      "date": "2026-05-25T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/3SX2ZwEbtjns3smbHwtAgF-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-25T10:24:17Z"
+    },
+    {
+      "title": "Bead net funerary shroud: A 2,500-year-old beaded veil from Egypt depicting the deceased's transformation into Osiris",
+      "link": "https://www.livescience.com/archaeology/ancient-egyptians/bead-net-funerary-shroud-a-2-500-year-old-beaded-veil-from-egypt-depicting-the-deceaseds-transformation-into-osiris",
+      "summary": "This funerary shroud was made from thousands of multicolored beads and woven to represent a human face and a large scarab beetle.",
+      "date": "2026-05-25T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/uczKyYaFyUjuAaNdrUGNpN-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-25T10:24:17Z"
+    },
+    {
+      "title": "Scientists trained an AI model using an IBM quantum computer — and it answered questions correctly that the base model couldn't",
+      "link": "https://www.livescience.com/technology/quantum/scientists-trained-an-ai-model-using-an-ibm-quantum-computer-and-it-answered-questions-correctly-that-the-base-model-couldnt",
+      "summary": "When running an AI model through a quantum computer, scientists have increased accuracy by only adding a relatively small number of parameters.",
+      "date": "2026-05-25T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/TiqyDik2AjDPiJH82ST9qR-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-25T10:24:17Z"
+    },
     {
       "title": "Half of UK adults say they spend less than three hours a week outside in nature",
       "link": "https://www.theguardian.com/environment/2026/may/25/half-of-uk-adults-say-they-spend-less-than-three-hours-a-week-outside-in-nature",
@@ -5425,83 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-05-17T15:04:11Z"
-    },
-    {
-      "title": "40 Types of Rabbit-Resistant Plants You Can Grow (2026)",
-      "link": "https://birdwatchinghq.com/rabbit-resistant-plants/",
-      "summary": "“Where did all my flowers go?!” I’ve asked myself this question more than once, and usually, the answer can be summed up with one word -> rabbits! These creatures are adorable but ",
-      "date": "2024-04-24T19:32:31Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2020/06/rabbits-eating-clover.jpg",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-05-17T13:48:24Z"
-    },
-    {
-      "title": "Readers reply: Which organisms are most beneficial to humans without us realising?",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/may/17/readers-reply-which-organisms-are-most-beneficial-to-humans-without-us-realising",
-      "summary": "The long-running series in which readers answer other readers’ questions on subjects ranging from trivial flights of fancy to profound scientific and philosophical concepts This we",
-      "date": "2026-05-17T13:00:41Z",
-      "image": "https://i.guim.co.uk/img/media/6fe6ce8ce3ca44c628fd10968407dbee605c174a/288_0_4691_3754/master/4691.jpg?width=140&quality=85&auto=format&fit=max&s=f5a8318bb14e44cee6b661e84eeb07a9",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-05-17T13:48:26Z"
-    },
-    {
-      "title": "Severe weather, tornadoes possible Sunday and Monday",
-      "link": "https://earthsky.org/earth/severe-weather-tornadoes-possible-sunday-and-monday-may-2026/",
-      "summary": "Severe weather, tornadoes are possible across parts of the U.S. Sunday and Monday, May 17 and 18, 2026. Plus large hail, damaging wind gusts. The post Severe weather, tornadoes pos",
-      "date": "2026-05-17T12:00:57Z",
-      "image": "https://earthsky.org/upl/2023/03/Evolution_of_a_Tornado-Jason-Weingart-Wikimedia-e1680017261105.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-05-17T13:48:27Z"
-    },
-    {
-      "title": "Venus-Jupiter conjunction in June: Start watching now!",
-      "link": "https://earthsky.org/tonight/venus-jupiter-conjunction-june-2026-charts-how-to-see/",
-      "summary": "Get ready for a spectacular Venus-Jupiter conjunction! You can already start watching the planets now after sunset. The big event happens on June 8 and 9. The post Venus-Jupiter co",
-      "date": "2026-05-17T12:00:29Z",
-      "image": "https://earthsky.org/upl/2026/05/Venus-Jupiter-Mercury-jun8-and-9-2026-WOW.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-05-17T13:48:27Z"
-    },
-    {
-      "title": "So Long, and Thanks for All the Fish",
-      "link": "https://hakaimagazine.com/article-short/so-long-and-thanks-for-all-the-fish/",
-      "summary": "We started Hakai Magazine over 10 years ago because the ocean and its coastlines needed a voice. No other outlet was exclusively covering issues at the interface of sea and land—or",
-      "date": "2024-12-27T08:05:43Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-so-long-and-thanks-for-all-the-fish.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-05-17T13:48:29Z"
-    },
-    {
-      "title": "The First First Responders",
-      "link": "https://hakaimagazine.com/features/the-first-first-responders/",
-      "summary": "When a ship wrecks on an unfamiliar coastline, an already desperate situation is all the more dire. Blinded by the night, and lost, the captain and crew of the Puritan, a four-mast",
-      "date": "Tue, 24 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-first-first-responder.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-05-17T13:48:29Z"
-    },
-    {
-      "title": "A Rare White Loon Chick Has Surfaced in Montana, and the Photos Are Stunning",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/rare-white-leucistic-loon-montana/",
-      "summary": "Wildlife photographer Tony Gangemi captured images of a rare leucistic loon chick an alpine lake in Montana. The post A Rare White Loon Chick Has Surfaced in Montana, and the Photo",
-      "date": "2026-05-17T12:04:38Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/Tony-gangemi-Loon26.jpeg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-17T13:48:32Z"
     }
   ]
 }
