@@ -1,8 +1,30 @@
 {
-  "updated": "2026-05-25T21:17:18Z",
-  "updated_utc": "2026-05-25T21:17:18Z",
+  "updated": "2026-05-25T23:13:36Z",
+  "updated_utc": "2026-05-25T23:13:36Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Four decades of overlooked data reveal the hidden amphipod diversity of Italian seas",
+      "link": "https://phys.org/news/2026-05-decades-overlooked-reveal-hidden-amphipod.html",
+      "summary": "What if some of the most important clues about marine biodiversity were already collected but never fully shared? That's the question that motivated a study, published in Biodivers",
+      "date": "2026-05-25T21:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/four-decades-of-overlo-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-25T23:13:32Z"
+    },
+    {
+      "title": "Toxic plant on Ming dynasty-era surgical tools may be world’s oldest chemical evidence of topical anesthetic",
+      "link": "https://www.livescience.com/archaeology/ancient-china/toxic-plant-on-ming-dynasty-era-surgical-tools-may-be-worlds-oldest-chemical-evidence-of-topical-anesthetic",
+      "summary": "An analysis of residue on centuries-old surgical tools reveals the use of a toxic anesthetic in Ming dynasty-era Chinese medicine.",
+      "date": "2026-05-25T23:01:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/CyUBtdxyyNCwaTMvh7KpxR-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-25T23:13:33Z"
+    },
     {
       "title": "Blue Moon – and smallest moon of 2026 – on May 30-31",
       "link": "https://earthsky.org/astronomy-essentials/when-is-the-next-blue-moon/",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-05-18T14:35:53Z"
-    },
-    {
-      "title": "Humpback Whales Sometimes Hold Their Mouths Open for No Clear Reason. Tourists Are Helping Scientists Understand the Rare Behavior",
-      "link": "https://www.smithsonianmag.com/smart-news/humpback-whales-sometimes-hold-their-mouths-open-for-no-clear-reason-tourists-are-helping-scientists-understand-the-rare-behavior-180988743/",
-      "summary": "A trove of photos and videos gathered from social media has helped researchers propose a few possible reasons for the seldom documented action, called \"gaping,\" including communica",
-      "date": "2026-05-18T14:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/g9hH4WPGY7EdzQXnu5BfC2nzNQM=/420x240/filters:focal(350x200:351x201)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/17/15/1715973c-8cc5-4c32-8abb-35c063bf0302/gaping.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-18T14:35:55Z"
-    },
-    {
-      "title": "How a Revolutionary Cancer Treatment Could Reset the Immune Systems of Patients With Autoimmune Diseases",
-      "link": "https://www.smithsonianmag.com/innovation/how-a-revolutionary-cancer-treatment-could-reset-the-immune-systems-of-patients-with-autoimmune-diseases-180988753/",
-      "summary": "Researchers are testing CAR T-cell therapy as a treatment for lupus, Graves’ disease and other conditions in which the body’s defenses go rogue",
-      "date": "2026-05-18T12:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/5RczTL7miEOmXHGF-IgRw9wvaF4=/420x240/filters:focal(1065x705:1066x706)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c9/7c/c97c9b91-6589-4534-998a-0b07bdf880f8/gettyimages-2266922202.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-18T14:35:55Z"
     }
   ]
 }
