@@ -1,8 +1,85 @@
 {
-  "updated": "2026-05-26T21:52:43Z",
-  "updated_utc": "2026-05-26T21:52:43Z",
+  "updated": "2026-05-26T23:16:01Z",
+  "updated_utc": "2026-05-26T23:16:01Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Hawks in Georgia",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/hawks-in-georgia/",
+      "summary": "Is a goshawk the same as a hawk? What is a Buteo? How many hawks are there in Georgia? Well, in this article we try … Read More \"Hawks in Georgia\"",
+      "date": "2026-05-10T23:40:55Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/07/red-tailed-hawk-by-Susan-Kirby.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-05-26T23:15:39Z"
+    },
+    {
+      "title": "Brown Birds with an Orange Chest",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/brown-birds-with-an-orange-chest/",
+      "summary": "Today, my goal is to find 10 species of birds that are brown with an orange chest. I can only think of a couple offhand … Read More \"Brown Birds with an Orange Chest\"",
+      "date": "2026-05-10T23:37:10Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/05/American-Robin-vs-European-Robin.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-05-26T23:15:39Z"
+    },
+    {
+      "title": "Woodpeckers in Maryland: Top 8 Species with Pictures",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/woodpeckers-in-maryland-top-8-species-with-pictures/",
+      "summary": "There are many species of woodpeckers in the United States. They’re known for their colorful plumage and playful attitude. As the fifth greenest state, Maryland has the … Read More",
+      "date": "2026-05-10T23:34:23Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/05/Hairy-Woodpecker-by-Cephas.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-05-26T23:15:39Z"
+    },
+    {
+      "title": "What’s causing the big swarms of tiny orange butterflies in the Bay Area?",
+      "link": "https://www.mercurynews.com/2026/05/26/whats-causing-the-big-swarms-of-tiny-orange-butterflies-in-the-bay-area/",
+      "summary": "California tortoiseshell butterflies are booming in parks and backyards this month",
+      "date": "Tue, 26 May 2026 22Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/05/SJM-L-BUTTERFLY-02.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-05-26T23:15:51Z"
+    },
+    {
+      "title": "Heat stress linked to higher koala hospitalizations and deaths above 27 C",
+      "link": "https://phys.org/news/2026-05-stress-linked-higher-koala-hospitalizations.html",
+      "summary": "New research from the University of Sydney has provided the first associative link between heat stress and koala mortality. Published in Biology Letters, the results highlight how ",
+      "date": "2026-05-26T23:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/koala-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-26T23:15:57Z"
+    },
+    {
+      "title": "190,000 baby trees in 25 years: Seedling census offers clues to what the future might hold for Michigan forests",
+      "link": "https://phys.org/news/2026-05-baby-trees-years-seedling-census.html",
+      "summary": "The history of a forest might be measured by the trunks and branches looming overhead. But for some researchers at Michigan State University, a forest's future lies in what's growi",
+      "date": "2026-05-26T23:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/190000-baby-trees-in-2-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-26T23:15:57Z"
+    },
+    {
+      "title": "Discovery of furtivovirus advances understanding of giant virus evolution",
+      "link": "https://phys.org/news/2026-05-discovery-furtivovirus-advances-giant-virus.html",
+      "summary": "In evolutionary biology, all life on Earth is theoretically part of a single phylogenetic tree, indicating common ancestry. This model suggests that every living organism can be tr",
+      "date": "2026-05-26T22:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/discovery-of-furtivovi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-26T23:15:57Z"
+    },
     {
       "title": "How to Attract Goldfinches in Winter: The Complete Guide",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/how-to-attract-goldfinches-in-winter-the-complete-guide/",
@@ -5425,83 +5502,6 @@
       "category": "birds",
       "color": 3,
       "fetched_at": "2026-05-19T08:33:52Z"
-    },
-    {
-      "title": "High levels of toxic ‘forever chemicals’ found off coast of southern England",
-      "link": "https://www.theguardian.com/environment/2026/may/19/toxic-pfa-forever-chemicals-channel-southern-england-solent",
-      "summary": "Study of Channel finds levels of toxic Pfas in Solent at 13 times safe limits in some places, with much coming from treated sewage Scientists have found high levels of toxic Pfas, ",
-      "date": "2026-05-19T06:00:04Z",
-      "image": "https://i.guim.co.uk/img/media/651da897183e80f87d43debe275697d10e5c9b3e/672_0_6142_4912/master/6142.jpg?width=140&quality=85&auto=format&fit=max&s=6fe8f78f61bdbeb3829a51c3bf7df728",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-05-19T08:33:54Z"
-    },
-    {
-      "title": "Country diary: A truly golden spring for buttercups and dandelions | Mark Cocker",
-      "link": "https://www.theguardian.com/environment/2026/may/19/country-diary-a-truly-sunny-spring-for-buttercups-and-dandelions",
-      "summary": "Snitterton, Derbyshire: I’ve had some glorious early mornings admiring the abundance of these much-loved flowers This spring has specialised in very specific kinds of abundance. In",
-      "date": "2026-05-19T04:30:00Z",
-      "image": "https://i.guim.co.uk/img/media/a642d57bd7e2b3de5fc32f63db9f0f30ae4a8810/356_0_3549_2841/master/3549.jpg?width=140&quality=85&auto=format&fit=max&s=5a8e92c9f8150edd73a1d5d264247853",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-05-19T08:33:54Z"
-    },
-    {
-      "title": "Find the Keystone in Hercules, and the Hercules Cluster M13",
-      "link": "https://earthsky.org/tonight/vega-guide-star-to-the-keystone-and-hercules-star-cluster/",
-      "summary": "Let the bright star Vega guide you to a famous star pattern in Hercules - called the Keystone - and then to the Hercules cluster, aka M13. The post Find the Keystone in Hercules, a",
-      "date": "Tue, 19 May 2026 07Z",
-      "image": "https://earthsky.org/upl/2019/04/constellation-hercules-between-vega-and-arcturus.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-05-19T08:33:55Z"
-    },
-    {
-      "title": "Argentine scientists lay first traps in hantavirus hunt",
-      "link": "https://phys.org/news/2026-05-argentine-scientists-lay-hantavirus.html",
-      "summary": "Scientists attempting to determine whether or not hantavirus is present in Argentina's Ushuaia on Monday laid the very first traps to catch rodents potentially carrying the disease",
-      "date": "2026-05-19T08:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-team-of-scientists-i.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-19T08:34:06Z"
-    },
-    {
-      "title": "As bee population collapses, US apiarists fear research cuts",
-      "link": "https://phys.org/news/2026-05-bee-population-collapses-apiarists.html",
-      "summary": "In a lot behind a disused West Virginia gas station at the foot of the Appalachian Mountains, Roy Funkhouser is surrounded by about a dozen beekeepers and countless buzzing bees.",
-      "date": "2026-05-19T08:10:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/us-beekeepers-lost-mor.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-19T08:34:06Z"
-    },
-    {
-      "title": "Bright-blue 'potash ponds' shine alongside a dark-green river in Utah — Earth from space",
-      "link": "https://www.livescience.com/planet-earth/bright-blue-potash-ponds-shine-alongside-a-dark-green-river-in-utah-earth-from-space",
-      "summary": "A 2017 astronaut photo shows two sets of solar evaporation ponds alongside the Colorado River. The stripy structures are used to refine potassium chloride, or \"potash,\" which is mi",
-      "date": "Tue, 19 May 2026 07Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/sBUNNWSfsvrQkDrGfLUgGB-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-19T08:34:07Z"
-    },
-    {
-      "title": "‘Should we leave them to die?’ The battle over how to save orangutans from the curse of palm oil",
-      "link": "https://www.theguardian.com/news/2026/may/19/should-we-leave-them-to-die-the-battle-over-how-to-save-orangutans-from-the-curse-of-palm-oil",
-      "summary": "As new settlers clear their forest habitat, the apes are coming into conflict with humans. But simply moving them to another part of the forest may not be the answer The banana ski",
-      "date": "2026-05-19T04:00:00Z",
-      "image": "https://i.guim.co.uk/img/media/382da4ac09e833712fb7ed8754ace34cdc4510e4/187_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=e42c10f2a2e76b263b35290a713d6129",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-05-19T04:15:00Z"
     }
   ]
 }
