@@ -1,8 +1,30 @@
 {
-  "updated": "2026-05-25T23:13:36Z",
-  "updated_utc": "2026-05-25T23:13:36Z",
+  "updated": "2026-05-26T04:15:33Z",
+  "updated_utc": "2026-05-26T04:15:33Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Torrent Ducks at the Intag Valley in Ecuador",
+      "link": "https://www.10000birds.com/torrent-ducks-at-the-intag-valley-in-ecuador.htm",
+      "summary": "By Andrea Trigueros The first bird Andrea ever really noticed was a Turquoise-browed Motmot that would frequent her backyard in El Salvador, often perched still except for its long",
+      "date": "Tue, 26 May 2026 00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/05/20260315-DSC_9545.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-05-26T04:15:13Z"
+    },
+    {
+      "title": "Rattlesnakes among most vulnerable to fungal disease and parasitic lung infection",
+      "link": "https://phys.org/news/2026-05-rattlesnakes-vulnerable-fungal-disease-parasitic.html",
+      "summary": "Snakes are threatened with extinction in many places around the globe. Disease, often caused by parasites or fungi, is thought to be one of the key factors alongside habitat destru",
+      "date": "2026-05-26T04:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rattlesnakes-among-mos.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-26T04:15:29Z"
+    },
     {
       "title": "Four decades of overlooked data reveal the hidden amphipod diversity of Italian seas",
       "link": "https://phys.org/news/2026-05-decades-overlooked-reveal-hidden-amphipod.html",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-05-18T14:35:48Z"
-    },
-    {
-      "title": "Providing water for visiting wildlife not the best idea in the long run",
-      "link": "https://www.mercurynews.com/2026/05/18/providing-water-for-visiting-wildlife-not-the-best-idea-in-the-long-run/",
-      "summary": "Backyards in residential neighborhoods are not a safe place for wild animals to reside.",
-      "date": "2026-05-18T13:30:58Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/05/SJM-L-JOANCOL-0518-01.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-05-18T14:35:52Z"
-    },
-    {
-      "title": "The 9 Best Camping Mattresses and Sleeping Pads of 2026",
-      "link": "https://www.outsideonline.com/outdoor-gear/camping/the-best-sleeping-pads/",
-      "summary": "These tester-approved sleeping pads and camp beds put comfort first—and put even the most restless sleepers into deep slumbers. The post The 9 Best Camping Mattresses and Sleeping ",
-      "date": "2026-05-18T11:47:29Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2025/08/Zempire-Monstabed_Tim-Rechetniak-and-Jenna-Shlachter-1.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-18T14:35:53Z"
     }
   ]
 }
