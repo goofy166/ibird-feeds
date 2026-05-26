@@ -1,8 +1,30 @@
 {
-  "updated": "2026-05-26T04:15:33Z",
-  "updated_utc": "2026-05-26T04:15:33Z",
+  "updated": "2026-05-26T08:37:41Z",
+  "updated_utc": "2026-05-26T08:37:41Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: A jaw-dropping bounty of wildlife – and a reminder of what Britain has lost | Amy-Jane Beer",
+      "link": "https://www.theguardian.com/environment/2026/may/26/country-diary-a-jaw-dropping-bounty-of-wildlife-and-a-reminder-of-what-britain-has-lost",
+      "summary": "Biebrza marshes, Poland: It’s not just the abundance of elks, orchids and eagles that sets the mind racing, it’s the wild interactions between the ‘exotic’ and the familiar Have I ",
+      "date": "2026-05-26T04:30:44Z",
+      "image": "https://i.guim.co.uk/img/media/cc46835d3b2b520cd09dbc6a5febd522a2ef1e2a/324_0_3240_2592/master/3240.jpg?width=140&quality=85&auto=format&fit=max&s=cc25fb35783de8e963c05b1baf9c5bcc",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-26T08:37:26Z"
+    },
+    {
+      "title": "Providing water for visiting wildlife not the best idea in the long run",
+      "link": "https://www.mercurynews.com/2026/05/18/providing-water-for-visiting-wildlife-not-the-best-idea-in-the-long-run/",
+      "summary": "Backyards in residential neighborhoods are not a safe place for wild animals to reside.",
+      "date": "2026-05-18T13:30:58Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/05/SJM-L-JOANCOL-0518-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-05-26T08:37:30Z"
+    },
     {
       "title": "Torrent Ducks at the Intag Valley in Ecuador",
       "link": "https://www.10000birds.com/torrent-ducks-at-the-intag-valley-in-ecuador.htm",
@@ -5480,28 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-05-18T14:35:41Z"
-    },
-    {
-      "title": "Signs of ‘feeding’ ritual at dingo burial site shed new light on bond between First Nations people and canines",
-      "link": "https://www.theguardian.com/science/2026/may/19/dingo-burial-site-first-nations-people-relationship-to-animals",
-      "summary": "Never documented archaeologically before, evidence points to First Nations people caring for and nursing the animal Get our breaking news email , free app or daily news podcast The",
-      "date": "2026-05-18T14:01:49Z",
-      "image": "https://i.guim.co.uk/img/media/7fef4223e3684427188374586c52fe5486fdbe2c/126_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=1a5c3651aa9653c8d353b00002cf48cb",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-05-18T14:35:47Z"
-    },
-    {
-      "title": "The binturong is a strange mammal that smells like popcorn",
-      "link": "https://earthsky.org/earth/the-binturong-is-a-strange-mammal-that-smells-like-popcorn/",
-      "summary": "The binturong is a strange mammal that smells like popcorn, lives high in the trees and quietly helps tropical forests grow. The post The binturong is a strange mammal that smells ",
-      "date": "2026-05-18T07:00:29Z",
-      "image": "https://earthsky.org/upl/2026/05/Binturong-resting_Kristin-Faye-Pexels-scaled-e1778841531231.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-05-18T14:35:48Z"
     }
   ]
 }
