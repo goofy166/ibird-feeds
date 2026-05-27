@@ -1,8 +1,74 @@
 {
-  "updated": "2026-05-26T23:16:01Z",
-  "updated_utc": "2026-05-26T23:16:01Z",
+  "updated": "2026-05-27T04:38:31Z",
+  "updated_utc": "2026-05-27T04:38:31Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: Perilous puffins and a plucky underdog | Mya Bambrick",
+      "link": "https://www.theguardian.com/environment/2026/may/27/country-diary-perilous-puffins-and-a-plucky-underdog",
+      "summary": "Swanage, Dorset: While the seabirds here make the headlines, my eye is drawn to the unassuming rock pipit and its accelerating song It’s a stunning evening for a walk at Durlston C",
+      "date": "2026-05-27T04:30:17Z",
+      "image": "https://i.guim.co.uk/img/media/91d0626913889e839cc9a5494aa7fe73c367eb8e/768_366_2538_2030/master/2538.jpg?width=140&quality=85&auto=format&fit=max&s=d3d1d822ad8c64aedecd34afa2be30db",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-27T04:38:15Z"
+    },
+    {
+      "title": "A Mount Hood Climber Was Trapped Beneath an 16,000-Pound Boulder. It Took a Masterclass in Technical Rescue to Save Him.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/climbing/mount-hood-climber-rescue-boulder/",
+      "summary": "A climber on Oregon's Mount Hood survived being pinned by an 8-ton boulder near Timberline Lodge. Inside the miraculous, elite technical rescue. The post A Mount Hood Climber Was T",
+      "date": "Tue, 26 May 2026 23Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/Copy-of-Copy-of-Untitled-Design.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-27T04:38:22Z"
+    },
+    {
+      "title": "Thousands of sheep and cows die in trucks and saleyards every year. They need better protection",
+      "link": "https://phys.org/news/2026-05-thousands-sheep-cows-die-trucks.html",
+      "summary": "When a semi-trailer burst into flames on a highway in northern New South Wales, it wasn't only the driver who had to flee for his life.",
+      "date": "2026-05-27T01:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/thousands-of-sheep-and.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-27T04:38:27Z"
+    },
+    {
+      "title": "Red shift: Study gauges salamanders' sprint speed as connected to their color",
+      "link": "https://phys.org/news/2026-05-red-shift-gauges-salamanders-sprint.html",
+      "summary": "If the eastern red-backed salamander has an equivalent of Usain Bolt, Sophia Zaslow is determined to find it. Since her undergraduate years, the Binghamton University doctoral stud",
+      "date": "2026-05-27T00:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/red-shift-study-gauges.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-27T04:38:27Z"
+    },
+    {
+      "title": "Canadian Rockies study shows that spruce trees adapt to rugged peaks and boreal flatlands in a similar way",
+      "link": "https://phys.org/news/2026-05-canadian-rockies-spruce-trees-rugged.html",
+      "summary": "If you look at the trees as you're driving on the Trans-Canada Highway toward Banff National Park, you will see Englemann spruce on the cooler, wetter northeast-facing slopes of th",
+      "date": "2026-05-27T00:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/canadian-rockies-study.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-27T04:38:27Z"
+    },
+    {
+      "title": "Entanglement injuries cause prolonged suffering for whales and dolphins—early intervention is crucial",
+      "link": "https://phys.org/news/2026-05-entanglement-injuries-prolonged-whales-dolphins.html",
+      "summary": "When a humpback whale became entangled in a craypot line off Kaikōura last week, witnesses described it thrashing in distress for ten minutes before eventually freeing itself.",
+      "date": "2026-05-26T23:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/entanglement-injuries.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-27T04:38:27Z"
+    },
     {
       "title": "Hawks in Georgia",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/hawks-in-georgia/",
@@ -5436,72 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-05-19T12:17:04Z"
-    },
-    {
-      "title": "Bats create 'silent frequency zones' to detect prey in noisy flight, researchers reveal",
-      "link": "https://phys.org/news/2026-05-silent-frequency-zones-prey-noisy.html",
-      "summary": "Sound plays an important role for many animals, helping them navigate and hunt. Echolocation is the ability of animals like bats and dolphins to locate objects by emitting sound wa",
-      "date": "2026-05-19T09:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-bats-suppress-back-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-19T12:17:04Z"
-    },
-    {
-      "title": "Celestron Outland X 10x25 binocular review",
-      "link": "https://www.livescience.com/products/optics/celestron-outland-x-10x25-binocular-review",
-      "summary": "A rugged, waterproof and fog-proof pair of binoculars for budget-conscious outdoor enthusiasts who just want to get a bit closer to the action",
-      "date": "Tue, 19 May 2026 11Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/dcqeiwAAfBhRDBDDkzjqpR-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-19T12:17:06Z"
-    },
-    {
-      "title": "World's first 'native' color lidar will let robots and self-driving cars map the world in full color 3D",
-      "link": "https://www.livescience.com/technology/electric-vehicles/worlds-first-native-color-lidar-will-let-robots-and-self-driving-cars-map-the-world-in-full-color-3d",
-      "summary": "Ouster has launched the Rev8 set of lidar sensors that function as both a camera and a 3D mapping sensor at the same time. Its engineers say these are the first devices of their ki",
-      "date": "Tue, 19 May 2026 09Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/EqdkCY8hKcszyQ69QthEjg-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-19T12:17:06Z"
-    },
-    {
-      "title": "Global warming is accelerating 5,000 times faster than rice can evolve",
-      "link": "https://www.livescience.com/planet-earth/global-warming-is-accelerating-5-000-times-faster-than-rice-can-evolve",
-      "summary": "A new study finds that climate change is creating environments where humans have never successfully cultivated rice before.",
-      "date": "Tue, 19 May 2026 09Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/KFhGPKwGN3ynRn2h9MhCJX-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-19T12:17:06Z"
-    },
-    {
-      "title": "Lights Out for Birds – Animated Short",
-      "link": "https://www.allaboutbirds.org/news/lights-out-for-birds-animated-short/",
-      "summary": "Animated Short about Birds",
-      "date": "2026-05-04T20:00:13Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Eopsaltria_australis_-_Mogo_Campground.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-05-19T08:33:52Z"
-    },
-    {
-      "title": "Treat Glass by Day, Dim Lights at Night. Help Prevent Bird Collisions!",
-      "link": "https://www.allaboutbirds.org/news/treat-glass-by-day-dim-lights-at-night-help-prevent-bird-collisions/",
-      "summary": "",
-      "date": "2026-05-04T19:56:48Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Eopsaltria_australis_-_Mogo_Campground.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-05-19T08:33:52Z"
     }
   ]
 }
