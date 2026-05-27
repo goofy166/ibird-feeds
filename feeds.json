@@ -1,8 +1,63 @@
 {
-  "updated": "2026-05-27T04:38:31Z",
-  "updated_utc": "2026-05-27T04:38:31Z",
+  "updated": "2026-05-27T08:43:15Z",
+  "updated_utc": "2026-05-27T08:43:15Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Lights Out for Birds – Animated Short",
+      "link": "https://www.allaboutbirds.org/news/lights-out-for-birds-animated-short/",
+      "summary": "Animated Short about Birds",
+      "date": "2026-05-04T20:00:13Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Eopsaltria_australis_-_Mogo_Campground.jpg",
+      "name": "All About Birds",
+      "category": "birds",
+      "color": 3,
+      "fetched_at": "2026-05-27T08:42:57Z"
+    },
+    {
+      "title": "Treat Glass by Day, Dim Lights at Night. Help Prevent Bird Collisions!",
+      "link": "https://www.allaboutbirds.org/news/treat-glass-by-day-dim-lights-at-night-help-prevent-bird-collisions/",
+      "summary": "",
+      "date": "2026-05-04T19:56:48Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Phalacrocorax_carbo_-Wexford%2C_Ireland-8.jpg",
+      "name": "All About Birds",
+      "category": "birds",
+      "color": 3,
+      "fetched_at": "2026-05-27T08:42:57Z"
+    },
+    {
+      "title": "Blossoming among spoil heaps: how 1,000 years of lead mining gave birth to banks of pansies and pennycress",
+      "link": "https://www.theguardian.com/environment/2026/may/27/blossoming-spoil-heaps-plants-metallophytes-heavy-metal-aoe",
+      "summary": "Calaminarian grassland is a rare habitat where plants thrive in soils contaminated by heavy metals. But should these toxic meadows be protected or allowed to fade away? At first, t",
+      "date": "2026-05-27T08:00:21Z",
+      "image": "https://i.guim.co.uk/img/media/0b6d02c90f5fb5f29038e3f23c10ce078ca0e3a3/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=f58982c1de62620e403701b19b7332e6",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-27T08:42:59Z"
+    },
+    {
+      "title": "Australia needs a national animal. No, not the kangaroo... the dingo! | First Dog on the Moon",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/may/27/australia-needs-a-national-animal-no-not-the-kangaroo-the-dingo",
+      "summary": "Everyone loves dingoes and if they don’t they should Sign up here to get an email whenever First Dog cartoons are published Get all your needs met at the First Dog shop if what you",
+      "date": "2026-05-27T06:08:18Z",
+      "image": "https://i.guim.co.uk/img/media/911da48e90edc597f52e503a8ab32885058b56b7/0_0_802_642/master/802.jpg?width=140&quality=85&auto=format&fit=max&s=c195e8aa1a571fd2bdaf8cfe3cb74938",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-27T08:42:59Z"
+    },
+    {
+      "title": "Love birds: twice-extinct parakeet gets lifeline from randy pair",
+      "link": "https://phys.org/news/2026-05-birds-extinct-parakeet-lifeline-randy.html",
+      "summary": "One of the world's rarest parakeets has seen its numbers surge thanks to a pair of super breeders now responsible for more than 10% of the total population.",
+      "date": "2026-05-27T08:27:53Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-new-zealand-native.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-27T08:43:11Z"
+    },
     {
       "title": "Country diary: Perilous puffins and a plucky underdog | Mya Bambrick",
       "link": "https://www.theguardian.com/environment/2026/may/27/country-diary-perilous-puffins-and-a-plucky-underdog",
@@ -5447,61 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-05-19T12:16:59Z"
-    },
-    {
-      "title": "The 1963 Birmingham Church Bombing Killed Four Young Black Girls. But They Weren't the Only Victims of Racial Violence in the City That Day",
-      "link": "https://www.smithsonianmag.com/history/the-1963-birmingham-church-bombing-killed-four-young-black-girls-but-they-werent-the-only-victims-of-racial-violence-in-the-city-that-day-180988729/",
-      "summary": "Hours after the attack, a police officer shot 16-year-old Johnny Robinson in the back. Then, a white teenager mortally injured 13-year-old Virgil Ware as he rode on the handlebars ",
-      "date": "Tue, 19 May 2026 12Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/lMxdk7YJ8XxCsNToVOAs0chUBKI=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/86/e8/86e816e8-60b4-4dca-b414-e77d942e7531/birmingham.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-19T12:17:01Z"
-    },
-    {
-      "title": "Odd “butterfly” molecule could lead to new parts of the quantum realm",
-      "link": "https://www.newscientist.com/article/2526616-odd-butterfly-molecule-could-lead-to-new-parts-of-the-quantum-realm/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "An exotic new molecule is shaped like a butterfly, complete with \"wings\" made from electrons. The discovery could provide a gateway to completely new parts of the quantum realm",
-      "date": "Tue, 19 May 2026 11Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/15150911/SEI_297270529.jpg",
-      "name": "New Scientist",
-      "category": "butterflies",
-      "color": 12,
-      "fetched_at": "2026-05-19T12:17:03Z"
-    },
-    {
-      "title": "The future of robot armies is here – and it’s not what you think",
-      "link": "https://www.newscientist.com/article/2527125-the-future-of-robot-armies-is-here-and-its-not-what-you-think/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Robots are becoming more a part of our lives every year, and worries about a robot army rising up have long plagued the technology. But columnist Annalee Newitz talks to nanobot re",
-      "date": "Tue, 19 May 2026 10Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/18155012/SEI_297313245.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-05-19T12:17:03Z"
-    },
-    {
-      "title": "Fish can pass PFAS safety limits one chemical at a time, but cocktail effects reveal a bigger unseen risk",
-      "link": "https://phys.org/news/2026-05-fish-pfas-safety-limits-chemical.html",
-      "summary": "Per and polyfluoroalkyl substances (PFAS), often called \"forever chemicals,\" are now found almost everywhere scientists look. They have been detected in rivers, oceans, wildlife, f",
-      "date": "2026-05-19T11:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/school-of-fish.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-19T12:17:04Z"
-    },
-    {
-      "title": "Seabird world shrinks as oceans warm, forcing longer flights to survive",
-      "link": "https://phys.org/news/2026-05-seabird-world-oceans-longer-flights.html",
-      "summary": "Seabirds such as albatrosses and petrels are retreating into smaller areas of ocean and traveling further to find new places to live as the climate warms. Scientists from the Unive",
-      "date": "2026-05-19T09:00:12Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/albatross.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-19T12:17:04Z"
     }
   ]
 }
