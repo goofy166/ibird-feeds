@@ -1,8 +1,140 @@
 {
-  "updated": "2026-05-28T21:13:03Z",
-  "updated_utc": "2026-05-28T21:13:03Z",
+  "updated": "2026-05-28T23:23:43Z",
+  "updated_utc": "2026-05-28T23:23:43Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Rwanda’s Birdlife",
+      "link": "https://www.10000birds.com/rwandas-birdlife.htm",
+      "summary": "By Jacques Habimana Jacques is a passionate bird guide with strong experience guiding visitors through Rwanda’s diverse birding destinations. He can be reached at hajasjacques@gmai",
+      "date": "Thu, 28 May 2026 23Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/05/8619706864_14d566646c_c.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-05-28T23:23:23Z"
+    },
+    {
+      "title": "Learn Bird Songs! 34 Common Species to Get You Started",
+      "link": "https://www.allaboutbirds.org/news/learn-bird-songs-34-common-species/",
+      "summary": "10 Common Bird Songs From Across North America Every week during spring, new birds are migrating back to your yard, neighborhood, and local parks. And once they return, they’ll let",
+      "date": "2026-05-06T18:38:11Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Eopsaltria_australis_-_Mogo_Campground.jpg",
+      "name": "All About Birds",
+      "category": "birds",
+      "color": 3,
+      "fetched_at": "2026-05-28T23:23:26Z"
+    },
+    {
+      "title": "Mathematical AI helps researchers crack 50-year-old problem",
+      "link": "https://www.newscientist.com/article/2528290-mathematical-ai-helps-researchers-crack-50-year-old-problem/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "After an AI from OpenAI found a trick to solve an 80-year-old conjecture from Paul Erdős, mathematicians have borrowed the same technique to solve another important problem",
+      "date": "Thu, 28 May 2026 17Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/28142543/SEI_299236955.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-28T23:23:38Z"
+    },
+    {
+      "title": "Heron-like, fish-eating dinosaur from 70 million years ago discovered in Argentina",
+      "link": "https://phys.org/news/2026-05-heron-fish-dinosaur-million-years.html",
+      "summary": "A new raptor-like dinosaur from some 70 million years ago that ate fish and behaved like modern herons has been unearthed from southern Patagonia. The new species, which has been n",
+      "date": "2026-05-28T23:10:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/heron-like-fish-eating.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-28T23:23:39Z"
+    },
+    {
+      "title": "AI and drones can help improve early warning systems for Vibrio bacteria in the Baltic Sea",
+      "link": "https://phys.org/news/2026-05-ai-drones-early-vibrio-bacteria.html",
+      "summary": "The presence of the marine bacterium Vibrio vulnificus, which is potentially dangerous to humans, can now be predicted up to five weeks in advance in the Baltic Sea using artificia",
+      "date": "2026-05-28T23:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-and-drones-can-help.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-28T23:23:39Z"
+    },
+    {
+      "title": "Ammonia levels in urine could serve as marker for chronic kidney disease in dogs",
+      "link": "https://phys.org/news/2026-05-ammonia-urine-marker-chronic-kidney.html",
+      "summary": "Dogs with lower urine ammonia-to-creatinine ratios (UACR) may suffer from faster progression of kidney disease and higher fatality rates, according to new research from North Carol",
+      "date": "2026-05-28T22:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/golden-retriever.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-28T23:23:39Z"
+    },
+    {
+      "title": "Nitrogen-fixing genes moved into new bacterial strains, opening path beyond fertilizer",
+      "link": "https://phys.org/news/2026-05-nitrogen-genes-bacterial-strains-path.html",
+      "summary": "Most major crops, such as wheat and corn, require expensive nitrogen fertilizer to flourish. But what if bacteria could help those plants draw nitrogen from the atmosphere, as peas",
+      "date": "2026-05-28T22:30:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wsu-team-transfers-nit.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-28T23:23:39Z"
+    },
+    {
+      "title": "Genetically engineering cyanobacteria for the production of sulfated polysaccharide",
+      "link": "https://phys.org/news/2026-05-genetically-cyanobacteria-production-sulfated-polysaccharide.html",
+      "summary": "Biomolecules are naturally occurring molecules that form the basis of living systems. They are widely used in the production of a diverse range of materials. One such widely used b",
+      "date": "2026-05-28T22:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genetic-engineering-of.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-28T23:23:39Z"
+    },
+    {
+      "title": "How do you know a bowhead whale is feeding? It's all in the way it moves, shows study",
+      "link": "https://phys.org/news/2026-05-bowhead-whale.html",
+      "summary": "For years, scientists studying bowhead whales have relied on a simple idea: if a whale makes a long, square or U-shaped dive, it's feeding time. A new study demonstrates that assum",
+      "date": "2026-05-28T22:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-do-you-know-a-bowh.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-28T23:23:39Z"
+    },
+    {
+      "title": "Plants exhibit remarkable tolerance to protein translation errors",
+      "link": "https://phys.org/news/2026-05-remarkable-tolerance-protein-errors.html",
+      "summary": "The precise synthesis of proteins is considered essential for cellular function. Now, a team led by LMU biologists Dr. Benjamin Brandt and Professor Hans-Henning Kunz has demonstra",
+      "date": "2026-05-28T22:10:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/plants-exhibit-remarka.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-28T23:23:39Z"
+    },
+    {
+      "title": "Human-linked foraging reshapes dolphin social networks in Florida over decades",
+      "link": "https://phys.org/news/2026-05-human-linked-foraging-reshapes-dolphin.html",
+      "summary": "Wild dolphins are known for their complex social lives, but new research shows those social networks can be influenced by human activity.",
+      "date": "2026-05-28T22:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-shows-hum.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-28T23:23:39Z"
+    },
+    {
+      "title": "Oceanic regime shifts affect subarctic moth communities—impacts divide species into winners and losers",
+      "link": "https://phys.org/news/2026-05-oceanic-regime-shifts-affect-subarctic.html",
+      "summary": "Regime shifts in the Atlantic Ocean, which have subsequently affected the Baltic Sea, are also impacting moths in Lapland, according to a new study conducted at the University of T",
+      "date": "2026-05-28T21:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oceanic-regime-shifts.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-05-28T23:23:39Z"
+    },
     {
       "title": "Why Car Glamping Is a Practical Alternative to an Expensive RV",
       "link": "https://www.outsideonline.com/adventure-travel/advice/car-camping-vs-van-life/",
@@ -5370,138 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-05-21T08:39:03Z"
-    },
-    {
-      "title": "May 9th, 2026 – Global Big Day",
-      "link": "https://www.10000birds.com/may-9th-2026-global-big-day.htm",
-      "summary": "The Global Big Day (GBD) is a beloved tradition for us and I am so glad that 10,000 Birds writers have come together for a team! Our podcast has had a team for 5 or 6 years now and",
-      "date": "Thu, 21 May 2026 03Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/05/tanagers_1.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-05-21T04:24:01Z"
-    },
-    {
-      "title": "Wood Thrush – A Poem",
-      "link": "https://www.10000birds.com/wood-thrush-in-georgia-a-poem.htm",
-      "summary": "I keep a Wood Thrush in my purse;an embroidered patch,the size of two quarters,affixed to a worn ID card.My little supporterof migratory life. There’s no doubt I heard Wood Thrusha",
-      "date": "2026-05-20T13:21:37Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/05/Hylocichla_mustelina_3zz.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-05-21T04:24:01Z"
-    },
-    {
-      "title": "Ask a Bird Guide: What is the least obvious trick that actually works when finding birds?",
-      "link": "https://www.10000birds.com/ask-a-bird-guide-what-is-the-least-obvious-trick-that-actually-works-when-finding-birds.htm",
-      "summary": "We sent out another list of questions to bird guides who have already been profiled on 10,000 Birds. In the second edition of this second series, we ask What is the least obvious t",
-      "date": "2026-05-20T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/05/Black-faced-Bunting_DSC0040-Nanhui-Nov-2017.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-05-21T04:24:01Z"
-    },
-    {
-      "title": "Birding around Izumi, Japan",
-      "link": "https://www.10000birds.com/birding-around-izumi-japan.htm",
-      "summary": "When we had a pre-trip meeting with our guide to discuss the best birding experience for us in Japan, he suggested we might be interested in adding a few extra days to bird on the ",
-      "date": "Tue, 19 May 2026 11Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/05/White-naped-Crane-2.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-05-21T04:24:01Z"
-    },
-    {
-      "title": "Bird Guides of the World: Kyle Gebhart, Lafayette, IN, USA",
-      "link": "https://www.10000birds.com/bird-guides-of-the-world-kyle-gebhart-lafayette-in-usa.htm",
-      "summary": "What is your favorite bird species? Ever since I first saw it at the Sax Zim Bog years ago, the Great Gray Owl has been my absolute favorite bird. Owls have always fascinated me, a",
-      "date": "Tue, 19 May 2026 11Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/03/Kyle.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-05-21T04:24:01Z"
-    },
-    {
-      "title": "Cormorant:  A Cultural History of Greed and Prejudice (a review)",
-      "link": "https://www.10000birds.com/cormorant-a-cultural-history-of-greed-and-prejudice-a-review.htm",
-      "summary": "Close reading is sometimes considered the special province of English professors and other poetry devotees. It is a kind of clever sleuthing that can make sense, for example, of a ",
-      "date": "2026-05-18T12:18:21Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/05/cormorant-cover-3.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-05-21T04:24:01Z"
-    },
-    {
-      "title": "Species Spotlight: Blue-capped Kingfisher",
-      "link": "https://www.10000birds.com/species-spotlight-blue-capped-kingfisher.htm",
-      "summary": "This is one of the many magical tropical kingfishers of South-east Asia, and the reason why many US birders are suicidal, given their own lack of such species. Here is my usual “no",
-      "date": "2026-05-18T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/05/ASC7806_Maputi-NR-Mindanao-Apr-17-2026.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-05-21T04:24:01Z"
-    },
-    {
-      "title": "Birding Lodges of the World: Birds and Breakfast, Costa Rica",
-      "link": "https://www.10000birds.com/birding-lodges-of-the-world-birds-and-breakfast-costa-rica.htm",
-      "summary": "Which bird species do you think is the biggest attraction to visitors of your lodge (please only name one species)? White-collared Manakin What is the name of your lodge, and since",
-      "date": "2026-05-18T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/03/Lodge_.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-05-21T04:24:01Z"
-    },
-    {
-      "title": "Who reports wildlife the most? 300,000 citizen science records uncover participation bias",
-      "link": "https://phys.org/news/2026-05-wildlife-citizen-science-uncover-bias.html",
-      "summary": "In recent years, citizen science methodology has gained significant momentum and is becoming increasingly important in large-scale ecological and conservation research. By involvin",
-      "date": "2026-05-21T04:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/where-do-citizen-scien.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-21T04:24:17Z"
-    },
-    {
-      "title": "New research offers practical biosecurity tools to limit poultry disease spread",
-      "link": "https://phys.org/news/2026-05-biosecurity-tools-limit-poultry-disease.html",
-      "summary": "New research from a Texas A&M College of Agriculture and Life Sciences doctoral graduate could help producers better protect poultry flocks from disease outbreaks while reducing co",
-      "date": "2026-05-21T00:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/poultry-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-21T04:24:17Z"
-    },
-    {
-      "title": "Bugleweed (Ajuga) Care and Growing Tips",
-      "link": "https://www.birdsandblooms.com/gardening/shade-gardening/bugleweed/",
-      "summary": "Learn how to grow flowering bugleweed, a shade-loving ground cover plant with dark foliage and blue or purple blooms. The post Bugleweed (Ajuga) Care and Growing Tips appeared firs",
-      "date": "2026-05-13T15:54:26Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/05/WGAjugaReptans_Black-Scallop.jpg?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-05-20T23:19:22Z"
-    },
-    {
-      "title": "How Did Your Lawmakers Vote on Public Lands? This New Map Tracks Every Member of Congress.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/congressional-public-lands-scorecard/",
-      "summary": "Want to know if your politicians are protecting America's public lands or gutting them? Use this new interactive scorecard map to check their records before you vote. The post How ",
-      "date": "2026-05-20T22:41:33Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/GettyImages-1155543683.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-20T23:19:33Z"
     }
   ]
 }
