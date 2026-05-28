@@ -1,8 +1,41 @@
 {
-  "updated": "2026-05-28T00:05:36Z",
-  "updated_utc": "2026-05-28T00:05:36Z",
+  "updated": "2026-05-28T05:14:42Z",
+  "updated_utc": "2026-05-28T05:14:42Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Serrania de Perija – Profile for Birders",
+      "link": "https://www.10000birds.com/serrania-de-perija-profile-for-birders.htm",
+      "summary": "Highlights The Ultimate Frontier of Endemism: Because it is an isolated northern extension of the Eastern Andes, Perijá acts as an ecological island. It holds a dense concentration",
+      "date": "Thu, 28 May 2026 01Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/05/Screenshot-2026-05-28-074549.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-05-28T05:14:22Z"
+    },
+    {
+      "title": "What is killing Sumatra’s elephants? The battle to save one of our rarest animals",
+      "link": "https://www.theguardian.com/environment/2026/may/28/elephants-deaths-spur-move-for-sanctuary-in-indonesia-aoe",
+      "summary": "Investigators are still searching for what caused the recent deaths of a mother and her calf, but conservationists say the animal’s shrinking habitat may be the first place to look",
+      "date": "2026-05-28T05:00:55Z",
+      "image": "https://i.guim.co.uk/img/media/6f7df96cb63301e5c1ae9b1792290863d5431112/283_0_1281_1025/master/1281.jpg?width=140&quality=85&auto=format&fit=max&s=df827ab602e10ee83359bd62bf58ad50",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-28T05:14:27Z"
+    },
+    {
+      "title": "Country diary: Mayday, mayday … the heatwave is killing the swallow chicks | Kate Blincoe",
+      "link": "https://www.theguardian.com/environment/2026/may/28/country-diary-mayday-mayday-the-heatwave-is-killing-the-swallow-chicks",
+      "summary": "Caistor St Edmund, Norfolk: Adult swallows travel across the world to breed in Britain’s supposedly temperate climate. Instead, this week’s temperatures have been deadly Mouth gapi",
+      "date": "2026-05-28T04:30:54Z",
+      "image": "https://i.guim.co.uk/img/media/dfed48cd930a20779af0b902940ce0b088156927/252_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=9f6f8bcf1a8225e04183eb5030915dff",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-28T05:14:27Z"
+    },
     {
       "title": "Expanded susceptibility and transmission in circulating avian influenza viruses reshape wild bird mortality",
       "link": "https://phys.org/news/2026-05-susceptibility-transmission-circulating-avian-influenza.html",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-05-20T11:54:06Z"
-    },
-    {
-      "title": "Constellations and signs: What’s the difference?",
-      "link": "https://earthsky.org/astronomy-essentials/the-difference-between-signs-and-constellations/",
-      "summary": "What is the difference between the signs of the zodiac and the constellations of the zodiac? Astronomer Guy Ottewell illustrates and discusses this difference. The post Constellati",
-      "date": "2026-05-20T07:00:13Z",
-      "image": "https://earthsky.org/upl/2026/05/Sun-entering-Gemini-2026-Guy-Ottewell.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-05-20T11:54:06Z"
-    },
-    {
-      "title": "I Was Attacked by a Grizzly Bear. Here’s What It Was Like.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/surviving-grizzly-bear-attack-anders-broste/",
-      "summary": "A gripping first-person account of surviving a grizzly bear attack, what went wrong in the backcountry, and the brutal reality of wilderness survival. The post I Was Attacked by a ",
-      "date": "2026-05-20T10:34:47Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/IMG_3670-preview.jpeg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-20T11:54:11Z"
-    },
-    {
-      "title": "After 32 Ascents of Mount Everest, Kami Rita Sherpa Has Learned a Lot About the Peak and the People Who Flock to It",
-      "link": "https://www.outsideonline.com/outdoor-adventure/everest/kami-rita-sherpa-everest/",
-      "summary": "We recently sat down with Kami Rita Sherpa, the record holder for most ascents of Mount Everest. He shares his thoughts on the mountain’s sacred reputation, the growth of the climb",
-      "date": "2026-05-20T09:49:54Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/KamiRita.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-20T11:54:11Z"
     }
   ]
 }
