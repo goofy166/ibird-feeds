@@ -1,8 +1,52 @@
 {
-  "updated": "2026-05-27T22:02:30Z",
-  "updated_utc": "2026-05-27T22:02:30Z",
+  "updated": "2026-05-28T00:05:36Z",
+  "updated_utc": "2026-05-28T00:05:36Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Expanded susceptibility and transmission in circulating avian influenza viruses reshape wild bird mortality",
+      "link": "https://phys.org/news/2026-05-susceptibility-transmission-circulating-avian-influenza.html",
+      "summary": "Johanna Harvey, an assistant professor of wildlife disease ecology at the University of Rhode Island, has described bird flu in public presentations as a quiet virus with loud cons",
+      "date": "2026-05-27T23:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/of-feathers-and-flu-id.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-28T00:05:32Z"
+    },
+    {
+      "title": "Newly discovered 'thunder' of Atlantic sturgeons inspires awe",
+      "link": "https://phys.org/news/2026-05-newly-thunder-atlantic-sturgeons-awe.html",
+      "summary": "When a team of researchers recorded a low thundering underneath the surface of the Hudson River, they thought they were hearing the muffled rumble of trains. A closer look and list",
+      "date": "2026-05-27T23:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/newly-discovered-thund.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-28T00:05:32Z"
+    },
+    {
+      "title": "Monkey see, monkey do: Study sheds light on cooperative decision-making",
+      "link": "https://phys.org/news/2026-05-monkey-cooperative-decision.html",
+      "summary": "The old \"monkey see, monkey do\" adage may rest on some neuroscientific evidence, finds a new Yale study. To examine how the primate brain facilitates cooperative behavior among ind",
+      "date": "2026-05-27T22:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/marmoset.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-28T00:05:32Z"
+    },
+    {
+      "title": "DNA 'nicks' make for safer, more precise genetic analysis",
+      "link": "https://phys.org/news/2026-05-dna-nicks-safer-precise-genetic.html",
+      "summary": "Researchers at Cornell University have developed a safer and more precise way to study how genes function in living tissues by refining a recently developed CRISPR-based genetic te",
+      "date": "2026-05-27T22:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dna-editing.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-28T00:05:32Z"
+    },
     {
       "title": "How to Help Monarchs: Do’s and Don’ts to Support Butterflies",
       "link": "https://www.birdsandblooms.com/gardening/attracting-butterflies/how-to-help-monarchs/",
@@ -5458,50 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-05-20T11:54:11Z"
-    },
-    {
-      "title": "How face-building genes get ready early: Genome folding may prime crucial DNA switches",
-      "link": "https://phys.org/news/2026-05-genes-ready-early-genome-prime.html",
-      "summary": "Early in development, a group of migrating cells called cranial neural crest cells go on to form many different parts of the face, including the nose, jaw, ears, and throat. To bui",
-      "date": "2026-05-20T11:40:10Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ear-hair.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-20T11:54:16Z"
-    },
-    {
-      "title": "Naturally occurring soil fungi could boost rice yields while reducing reliance on synthetic fertilizers",
-      "link": "https://phys.org/news/2026-05-naturally-soil-fungi-boost-rice.html",
-      "summary": "Field trials in India show that bio-fertilizers containing naturally occurring soil fungi enhance growth in rice plants. This may offer a pathway to reducing farmers' reliance on s",
-      "date": "2026-05-20T11:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rice-farmer.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-20T11:54:16Z"
-    },
-    {
-      "title": "Argentine researchers collect rodents for hantavirus tests",
-      "link": "https://phys.org/news/2026-05-argentine-rodents-hantavirus.html",
-      "summary": "Argentine scientists on Tuesday began collecting rodents in the woods around Ushuaia to search for carriers of hantavirus in the area from which the virus-stricken MV Hondius set s",
-      "date": "2026-05-20T11:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hantavirus-4.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-20T11:54:16Z"
-    },
-    {
-      "title": "Zoo reaches historic milestone for Puerto Rican crested toad conservation efforts with more than 12,000 tadpoles",
-      "link": "https://phys.org/news/2026-05-zoo-historic-milestone-puerto-rican.html",
-      "summary": "Behind the scenes at Brookfield Zoo Chicago, a record-breaking conservation milestone is helping secure the future of one of the world's most imperiled amphibians. Months of meticu",
-      "date": "2026-05-20T11:15:54Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/brookfield-zoo-chicago.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-20T11:54:16Z"
     }
   ]
 }
