@@ -1,8 +1,41 @@
 {
-  "updated": "2026-05-29T19:36:06Z",
-  "updated_utc": "2026-05-29T19:36:06Z",
+  "updated": "2026-05-29T21:58:43Z",
+  "updated_utc": "2026-05-29T21:58:43Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Four Rare Guam Kingfisher Chicks Hatch at Virginia Facility, Making an 'Incredibly Valuable' Addition to the Small Population of Extinct-in-the-Wild Birds",
+      "link": "https://www.smithsonianmag.com/smart-news/four-rare-guam-kingfisher-chicks-hatch-at-virginia-facility-making-an-incredibly-valuable-addition-to-the-small-population-of-extinct-in-the-wild-birds-180988863/",
+      "summary": "The species, also known as the sihek, was wiped out from its native Guam and kept alive in captivity. Conservationists released some birds on Palmyra Atoll in 2024, and they have b",
+      "date": "2026-05-29T21:00:41Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/GUvXiF4Z-dSONsei2R7ljsoWLs8=/420x240/filters:focal(1024x634:1025x635)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f9/a4/f9a4af17-b326-4f00-8d64-92966468f938/705306451_1423631536459186_5155291432592042996_n.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-29T21:58:36Z"
+    },
+    {
+      "title": "These 600-Year-Old Chinese Surgical Instruments Are Coated in an Early Local Anesthetic—Carefully Extracted From a Poisonous Plant",
+      "link": "https://www.smithsonianmag.com/smart-news/these-600-year-old-chinese-surgical-instruments-are-coated-in-an-early-local-anestheticcarefully-extracted-from-a-poisonous-plant-180988865/",
+      "summary": "Researchers say the numbing agent splashed onto iron scissors and tweezers during a procedure. They were found in a Ming dynasty doctor's tomb",
+      "date": "2026-05-29T20:15:09Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/dbAweNjolD733IkrXXwMKLJuGOI=/420x240/filters:focal(527x351:528x352)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3e/bf/3ebf98af-8965-4b65-9f71-b6da84137f8f/urn_cambridgeorg_id_binary-alt_20260513195241-44146-optimisedimage-png-s0003598x26103470_fig1.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-05-29T21:58:36Z"
+    },
+    {
+      "title": "Fish-microbe partnership may influence ocean health by making carbon-trapping minerals",
+      "link": "https://phys.org/news/2026-05-fish-microbe-partnership-ocean-health.html",
+      "summary": "New research reveals a potential link between the gut microbes of a fish and global ocean processes, offering new insight into how marine ecosystems help regulate ocean chemistry a",
+      "date": "2026-05-29T19:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-suggests-fis.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-29T21:58:39Z"
+    },
     {
       "title": "Navigation: How Birds Find Their Way When They Migrate",
       "link": "https://www.allaboutbirds.org/news/the-basics-migration-navigation/",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-05-21T21:42:26Z"
-    },
-    {
-      "title": "Epic dreaming is leaving people exhausted and distressed",
-      "link": "https://www.newscientist.com/article/2527495-epic-dreaming-is-leaving-people-exhausted-and-distressed/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Some people experience vivid, incessant dreams that leave them feeling exhausted the next day, with researchers calling for this \"epic dreaming\" to be classed as a sleep disorder",
-      "date": "Thu, 21 May 2026 16Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/21104054/SEI_298172880.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-05-21T21:42:26Z"
-    },
-    {
-      "title": "Multiplexed method reveals protein energy landscapes across 10 domain families",
-      "link": "https://phys.org/news/2026-05-multiplexed-method-reveals-protein-energy.html",
-      "summary": "Northwestern Medicine scientists have developed a new experimental method to analyze conformational fluctuations in protein domains on a uniquely large scale, which may improve dat",
-      "date": "2026-05-21T21:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-experimental-metho.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-21T21:42:27Z"
-    },
-    {
-      "title": "Overpopulation can impair fertility. A new study explains why",
-      "link": "https://phys.org/news/2026-05-overpopulation-impair-fertility.html",
-      "summary": "Scientists have reported it for decades: overpopulation can impair reproduction. Crowded chickens lay fewer eggs. Crowded mice have smaller broods. In humans, several studies have ",
-      "date": "2026-05-21T21:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/overpopulation.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-21T21:42:27Z"
     }
   ]
 }
