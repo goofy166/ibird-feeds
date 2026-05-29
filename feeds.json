@@ -1,8 +1,41 @@
 {
-  "updated": "2026-05-28T23:23:43Z",
-  "updated_utc": "2026-05-28T23:23:43Z",
+  "updated": "2026-05-29T04:20:55Z",
+  "updated_utc": "2026-05-29T04:20:55Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Strange sonic boom rattles South Carolina",
+      "link": "https://earthsky.org/earth/sonic-boom-rattles-south-carolina-meteor-may-28-2026/",
+      "summary": "People in South Carolina heard a strange sonic boom on May 28, 2026, around 5:30 p.m. The USGS said it wasn't an earthquake. Could it have been a meteor? The post Strange sonic boo",
+      "date": "2026-05-29T00:28:20Z",
+      "image": "https://earthsky.org/upl/2026/05/sonic-boom-South-Carolina-May-28-2026-USGS.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-05-29T04:20:41Z"
+    },
+    {
+      "title": "Established farm-business ties may steer agri-start-up ideas toward smaller gains",
+      "link": "https://phys.org/news/2026-05-farm-business-agri-ideas-smaller.html",
+      "summary": "The Leibniz Center for Agricultural Landscape Research (ZALF), in collaboration with other academic institutions, has published a new study on start-ups in the agricultural sector ",
+      "date": "2026-05-29T01:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-on-agri-start-up.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-29T04:20:51Z"
+    },
+    {
+      "title": "How bacteria survive with almost no oxygen— and why blocking one enzyme could aid new antibiotics",
+      "link": "https://phys.org/news/2026-05-bacteria-survive-oxygen-blocking-enzyme.html",
+      "summary": "Researchers in Leiden have, for the first time, observed how a specialized enzyme helps bacteria stay alive when oxygen levels are low, and how that process can be blocked. The stu",
+      "date": "2026-05-28T23:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-bacteria-survive-w.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-29T04:20:51Z"
+    },
     {
       "title": "Rwanda’s Birdlife",
       "link": "https://www.10000birds.com/rwandas-birdlife.htm",
@@ -5469,39 +5502,6 @@
       "category": "birds",
       "color": 3,
       "fetched_at": "2026-05-21T08:38:54Z"
-    },
-    {
-      "title": "Migratory bird numbers fall in Britain despite last year’s warm spring",
-      "link": "https://www.theguardian.com/news/2026/may/21/weather-bird-numbers-fall-britain-despite-warm-spring",
-      "summary": "British Trust for Ornithology says 2025 breeding season was especially disastrous for warbler species After a mild, wet and stormy winter in the UK, spring 2025 was one of the warm",
-      "date": "2026-05-21T05:00:03Z",
-      "image": "https://i.guim.co.uk/img/media/d587092328a5dc877b624282d1783c0c7980766d/262_0_2603_2083/master/2603.jpg?width=140&quality=85&auto=format&fit=max&s=30f61d54551d13231910b61fe97ecad3",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-05-21T08:38:57Z"
-    },
-    {
-      "title": "Toxic chemicals in pet flea treatments harming wildlife, UK study warns",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/may/21/toxic-chemicals-in-pet-flea-treatments-harming-wildlife-uk-study-warns",
-      "summary": "Flea treatment chemicals fipronil and imidacloprid also implicated in lower cognitive scores in children with autism Toxic chemicals found in pet flea treatment are devastating wil",
-      "date": "2026-05-21T05:00:02Z",
-      "image": "https://i.guim.co.uk/img/media/cb1d12c0517809ab0f2d268804cd1ee06d1f4cdf/126_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=8e051ee38771b85eb0188ee256684a92",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-05-21T08:38:57Z"
-    },
-    {
-      "title": "25+ Must-See Memorial Day Deals for Outdoor Enthusiasts",
-      "link": "https://www.outsideonline.com/outdoor-gear/memorial-day-sales-2026/",
-      "summary": "Our penny-pinching, spec-scrutinizing outdoor gear editors sifted through hundreds of pages to bring you over 30 deals from 9 Memorial Day sales. The post 25+ Must-See Memorial Day",
-      "date": "Thu, 21 May 2026 08Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/memorial-day-sales-featured.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-21T08:39:03Z"
     }
   ]
 }
