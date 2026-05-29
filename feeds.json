@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-29T04:20:55Z",
-  "updated_utc": "2026-05-29T04:20:55Z",
+  "updated": "2026-05-29T08:47:57Z",
+  "updated_utc": "2026-05-29T08:47:57Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Glaciers in the 'roof of the world' have suddenly started melting",
+      "link": "https://www.newscientist.com/article/2528327-glaciers-in-the-roof-of-the-world-have-suddenly-started-melting/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Until recently, the Pamir mountains in central Asia have bucked the global melting trend, but in 2025, the region’s glaciers experienced a massive loss of ice due to extreme heat",
+      "date": "2026-05-29T06:00:19Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/28143745/SEI_299229850.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-29T08:47:52Z"
+    },
     {
       "title": "Strange sonic boom rattles South Carolina",
       "link": "https://earthsky.org/earth/sonic-boom-rattles-south-carolina-meteor-may-28-2026/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-05-21T12:22:50Z"
-    },
-    {
-      "title": "The Flyways Birds Use to Migrate Across Continents",
-      "link": "https://www.allaboutbirds.org/news/the-flyways-birds-use-to-migrate-across-continents/",
-      "summary": "Hundreds of millions of birds make long-distance migrations each year, often crossing continents and even oceans along their way. So it’s only natural that they take similar routes",
-      "date": "2026-05-13T16:53:18Z",
-      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/05/map4-1280x642.png",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-05-21T08:38:54Z"
     }
   ]
 }
