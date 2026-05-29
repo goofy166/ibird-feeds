@@ -1,8 +1,30 @@
 {
-  "updated": "2026-05-29T21:58:43Z",
-  "updated_utc": "2026-05-29T21:58:43Z",
+  "updated": "2026-05-29T23:24:18Z",
+  "updated_utc": "2026-05-29T23:24:18Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Three Climbers Are Dead in Denali National Park",
+      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/denali-3-climbers-dead/",
+      "summary": "Three climbers from Latvia are dead following a fall on Mount McKinley. The accident occurred on ‘the Autobahn,’ a treacherous section of the West Buttress route. The post Three Cl",
+      "date": "2026-05-29T22:41:34Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/Denali11.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-05-29T23:24:09Z"
+    },
+    {
+      "title": "Skeletal remains of Queen Elisenda, one of the most powerful rulers in medieval Europe, unearthed in Barcelona — along with several others who bore unexplained stab wounds",
+      "link": "https://www.livescience.com/archaeology/skeletal-remains-of-queen-elisenda-one-of-the-most-powerful-rulers-in-medieval-europe-unearthed-in-barcelona-along-with-several-others-who-bore-unexplained-stab-wounds",
+      "summary": "In honor of the 700th-anniversary founding of the Royal Monastery of Santa Maria Pedralbes in Barcelona, scientists opened eight 14th-century graves and studied the 25 people found",
+      "date": "2026-05-29T22:20:24Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/zEf9PNVUC3GCwbPADvNQEJ-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-29T23:24:15Z"
+    },
     {
       "title": "Four Rare Guam Kingfisher Chicks Hatch at Virginia Facility, Making an 'Incredibly Valuable' Addition to the Small Population of Extinct-in-the-Wild Birds",
       "link": "https://www.smithsonianmag.com/smart-news/four-rare-guam-kingfisher-chicks-hatch-at-virginia-facility-making-an-incredibly-valuable-addition-to-the-small-population-of-extinct-in-the-wild-birds-180988863/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-05-21T21:42:23Z"
-    },
-    {
-      "title": "Melting Mountain Ice Is Bringing Ancient Secrets to the Surface. Archaeologists Are Racing to Find the Artifacts Before They're Lost to Time",
-      "link": "https://www.smithsonianmag.com/science-nature/melting-mountain-ice-is-bringing-ancient-secrets-to-the-surface-archaeologists-are-racing-to-find-the-artifacts-before-theyre-lost-to-time-180988777/",
-      "summary": "In Norway’s highest mountains, experts are scouring perilous terrain for pieces of the past, long stored in mint condition in ice patches. As temperatures rise across the world, gl",
-      "date": "Thu, 21 May 2026 18Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/IXtfK2_NZYG__ENgWuwn9UTusO4=/420x240/filters:focal(1941x1109:1942x1110)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3c/d2/3cd2b9a5-04c9-4389-86c6-98a166569bc1/4.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-21T21:42:23Z"
-    },
-    {
-      "title": "Mathematicians stunned by AI's biggest breakthrough in mathematics yet",
-      "link": "https://www.newscientist.com/article/2527564-mathematicians-stunned-by-ais-biggest-breakthrough-in-mathematics-yet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Artificial intelligence built by OpenAI has cracked a decades-old conjecture by Paul Erdős, which mathematicians have hailed as a monumental moment for AI in mathematics",
-      "date": "Thu, 21 May 2026 17Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/21153951/SEI_298326537.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-05-21T21:42:26Z"
     }
   ]
 }
