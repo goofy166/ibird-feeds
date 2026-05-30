@@ -1,8 +1,118 @@
 {
-  "updated": "2026-05-30T12:07:42Z",
-  "updated_utc": "2026-05-30T12:07:42Z",
+  "updated": "2026-05-30T14:43:55Z",
+  "updated_utc": "2026-05-30T14:43:55Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Animal welfare violations swarm Miami zoo owned by ex-drug kingpin in Tiger King",
+      "link": "https://www.theguardian.com/us-news/2026/may/30/miami-zoo-violations-mario-tabraue-tiger-king",
+      "summary": "Endangered snow leopard had leg amputated and capybara died at Mario Tabraue’s controversial roadside facility An endangered clouded leopard had a leg amputated and a capybara died",
+      "date": "2026-05-30T13:00:19Z",
+      "image": "https://i.guim.co.uk/img/media/2b30c3448d8faaf0ef9d88924200688a0fda386b/285_0_1678_1344/master/1678.jpg?width=140&quality=85&auto=format&fit=max&s=fdfd5ee81534675ee43115c9c4735c5b",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-30T14:43:39Z"
+    },
+    {
+      "title": "The best new science-fiction books of June 2026",
+      "link": "https://www.newscientist.com/article/2528164-the-best-new-science-fiction-books-of-june-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "There is plenty of intriguing sci-fi on offer this month, whether it’s solar-powered cities from Adrian Tchaikovsky or a strange future from M. John Harrison",
+      "date": "2026-05-30T10:00:57Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/27161204/sei299040776.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-05-30T14:43:50Z"
+    },
+    {
+      "title": "These California wildflowers could save other plants",
+      "link": "https://phys.org/news/2026-05-california-wildflowers.html",
+      "summary": "As wildflowers go, the mountain jewelflower is demure, clever and quietly unbreakable. It has spread across many of California's iconic landscapes, from Sonoma wine country to the ",
+      "date": "2026-05-30T13:30:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/these-california-wildf.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-30T14:43:51Z"
+    },
+    {
+      "title": "Scientists got mouse eyes to perform photosynthesis ‪—‬ and no, they didn't turn green",
+      "link": "https://www.livescience.com/health/scientists-got-mouse-eyes-to-perform-photosynthesis-and-no-they-didnt-turn-green",
+      "summary": "Special eye drops containing photosynthetic machinery from spinach leaves have helped combat dry eye, a new mouse experiment reveals.",
+      "date": "2026-05-30T14:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/4bW8JYafkomU7qFFxApDkd-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-30T14:43:52Z"
+    },
+    {
+      "title": "Tracking the Very Large, Very Elusive Star of Papua’s Forests: the Northern Cassowary",
+      "link": "https://www.birds.cornell.edu/home/tracking-the-very-large-very-elusive-star-of-papuas-forests-the-northern-cassowary/",
+      "summary": "",
+      "date": "Tue, 24 Mar 2026 13Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Firefly_in_the_night.jpg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-05-30T14:43:54Z"
+    },
+    {
+      "title": "Study reveals new technique to identify individual night-flying birds for the first time",
+      "link": "https://www.birds.cornell.edu/home/new-tech-to-id-night-migrating-birds/",
+      "summary": "Using thermal imaging and digital photography, researchers can now spot and identify birds that migrate silently through the night sky—a method that could reveal new insights into ",
+      "date": "2026-03-06T15:33:00Z",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-05-30T14:43:54Z"
+    },
+    {
+      "title": "Academic Books, Book Chapters And Papers In Conference Proceedings",
+      "link": "https://www.birds.cornell.edu/home/academic-books-book-chapters-and-papers-in-conference-proceedings/",
+      "summary": "Books Dhondt AA. 2012. Interspecific competition in birds. Oxford University Press. Clobert J, E Danchin, AA Dhondt, and J Nichols (eds). 2001. Dispersal. Oxford University Press. ",
+      "date": "Thu, 19 Feb 2026 16Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Chrysopa_perla_2.jpg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-05-30T14:43:54Z"
+    },
+    {
+      "title": "New Research Forecasts the Impacts of Fire on Birds",
+      "link": "https://www.birds.cornell.edu/home/forecasting-impacts-of-fire-on-birds/",
+      "summary": "Where will severe fires threaten the most birds in the future? New research identifies where future high-severity fires threaten biodiversity hotspots in the western United States",
+      "date": "2026-02-18T18:17:27Z",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-05-30T14:43:54Z"
+    },
+    {
+      "title": "Photometrics AI Integrates Data from Bird Migration Forecasts to Automatically Dim Streetlights to Protect Birds",
+      "link": "https://www.birds.cornell.edu/home/photometrics-ai-uses-bird-data-to-adjust-streetlights/",
+      "summary": "New lighting system uses BirdCast data to enable real-time lighting adjustments during peak migration periods to reduce bird collisions with buildings.",
+      "date": "Tue, 10 Feb 2026 19Z",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-05-30T14:43:54Z"
+    },
+    {
+      "title": "Scientists Just Mapped the Family Tree of 11,000+ Bird Species—And You Can Explore It",
+      "link": "https://www.birds.cornell.edu/home/scientists-map-interactive-avian-tree-of-life/",
+      "summary": "The new illustrated Birds of the World Phylogeny Explorer by the Cornell Lab of Ornithology lets users trace any bird's lineage, compare species relationships, and explore major ev",
+      "date": "2026-01-28T14:39:09Z",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-05-30T14:43:54Z"
+    },
     {
       "title": "The Effects of Wildfires on Wildlife",
       "link": "https://www.10000birds.com/the-effects-of-wildfires-on-wildlife-2.htm",
@@ -5392,116 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-05-22T11:50:55Z"
-    },
-    {
-      "title": "One of Neptune's 16 moons is not like the others, James Webb telescope finds — and it could be key to fully understanding the solar system",
-      "link": "https://www.livescience.com/space/neptune/one-of-neptunes-16-moons-is-not-like-the-others-james-webb-telescope-finds-and-it-could-be-key-to-fully-understanding-the-solar-system",
-      "summary": "Neptune has a complicated life story, and its moon Nereid might be the only one left standing from the planet’s multibillion-year history.",
-      "date": "2026-05-22T10:30:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/zZWwhpTgzJWAHKd9dto6oj-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-22T11:50:56Z"
-    },
-    {
-      "title": "Ash-Throated Flycatcher Bird Identification",
-      "link": "https://www.birdsandblooms.com/birding/bird-species/songbirds/ash-throated-flycatcher/",
-      "summary": "Learn what an ash-throated flycatcher looks like and where to spot one. Also learn what the bird eats and where it builds a nest. The post Ash-Throated Flycatcher Bird Identificati",
-      "date": "Thu, 14 May 2026 16Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/05/BNBbyc18_ray-carroll.jpg?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-05-22T08:26:52Z"
-    },
-    {
-      "title": "The week in wildlife: a lurking leopard, a lucky fox and a wily coyote",
-      "link": "https://www.theguardian.com/environment/gallery/2026/may/22/the-week-in-wildlife-a-lurking-leopard-a-lucky-fox-and-a-wily-coyote",
-      "summary": "This week’s best wildlife photographs from around the world Continue reading...",
-      "date": "2026-05-22T07:00:52Z",
-      "image": "https://i.guim.co.uk/img/media/795fafeb943d5494383b8058c065c779787cdc19/385_0_2941_2353/master/2941.jpg?width=140&quality=85&auto=format&fit=max&s=142d235152ac00e62777da8a1f3d99ed",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-05-22T08:26:56Z"
-    },
-    {
-      "title": "Warblers in New Hampshire’s Forests Have Found an Ideal Way to Divvy Up Territories",
-      "link": "https://www.birds.cornell.edu/home/warblers-in-new-hampshires-forests-have-found-an-ideal-way-to-divvy-up-territories/",
-      "summary": "",
-      "date": "Tue, 24 Mar 2026 13Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Firefly_in_the_night.jpg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-05-22T08:27:11Z"
-    },
-    {
-      "title": "On the trail with the hunters who believe shooting big game can save Africa’s wildlife – podcast",
-      "link": "https://www.theguardian.com/news/audio/2026/may/22/on-the-trail-with-the-hunters-who-believe-shooting-big-game-can-save-africas-wildlife-podcast",
-      "summary": "One way to pay for wildlife conservation is to allow the rich to bag a few animals for high prices. But critics see this approach as an exercise in neocolonialism Written and read ",
-      "date": "2026-05-22T04:00:48Z",
-      "image": "https://i.guim.co.uk/img/media/c6651b18826d09f5e7bc6a5e2bcf8535bcabbc32/186_0_2682_2145/master/2682.jpg?width=140&quality=85&auto=format&fit=max&s=e1b04136a8188e46001604b8210519ab",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-05-22T04:18:59Z"
-    },
-    {
-      "title": "Seagrass found to produce new genetic individuals rather than clone itself, offering hope for 'underwater meadows'",
-      "link": "https://phys.org/news/2026-05-seagrass-genetic-individuals-clone-underwater.html",
-      "summary": "In many underwater ecosystems, seagrass meadows act as a food source, a safe haven, and an ecological lynchpin. But until now, very little was known about how these plants reproduc",
-      "date": "2026-05-22T04:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seagrass-found-to-give-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-22T04:19:10Z"
-    },
-    {
-      "title": "'Seed Transfer Zones' could help restore vast areas of degraded land in Brazil",
-      "link": "https://phys.org/news/2026-05-seed-zones-vast-areas-degraded.html",
-      "summary": "A new study divides Brazil into 48 zones, each defined by its climate and soil conditions. Restoration projects can use these zones to identify which native seeds are best suited t",
-      "date": "2026-05-22T03:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seed-transfer-zones-wi.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-22T04:19:10Z"
-    },
-    {
-      "title": "Researchers transform paper sludge into valuable biofuels",
-      "link": "https://phys.org/news/2026-05-paper-sludge-valuable-biofuels.html",
-      "summary": "Researchers have demonstrated that different types of paper industry sludge, typically treated as a low-value waste, can be transformed into a high-yield renewable biofuel. The stu",
-      "date": "2026-05-22T02:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/paper-sludge-could-be.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-22T04:19:10Z"
-    },
-    {
-      "title": "A Cattle Farm in Alabama Draws Birders for a Spectacle of Kites",
-      "link": "https://www.birds.cornell.edu/home/a-cattle-farm-in-alabama-draws-birders-for-a-spectacle-of-kites/",
-      "summary": "",
-      "date": "Tue, 24 Mar 2026 13Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/GrasshopperSpirit.jpg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-05-22T04:19:13Z"
-    },
-    {
-      "title": "There Were Record Crowds on Mount Everest’s Summit This Week but No Deaths",
-      "link": "https://www.outsideonline.com/outdoor-adventure/everest/there-were-record-crowds-on-mount-everests-summit-this-week-but-no-deaths/",
-      "summary": "There was a historically huge push to the top of Everest this week, but no reported deaths amid the summit bonanza. The post There Were Record Crowds on Mount Everest’s Summit This",
-      "date": "Thu, 21 May 2026 21Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/Climbers22.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-21T23:09:37Z"
     }
   ]
 }
