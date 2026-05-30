@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-30T04:06:12Z",
-  "updated_utc": "2026-05-30T04:06:12Z",
+  "updated": "2026-05-30T07:44:55Z",
+  "updated_utc": "2026-05-30T07:44:55Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘Nature’s soap opera’: how a wildlife artist’s nestboxes became a YouTube hit",
+      "link": "https://www.theguardian.com/environment/2026/may/30/wildlife-artist-robert-fuller-nestboxes-youtube",
+      "summary": "The births, fledgling flights and even first dates on Robert Fuller’s site are about to hit a million global subscribers Having enjoyed setting up bird boxes with his father as a c",
+      "date": "2026-05-30T05:00:12Z",
+      "image": "https://i.guim.co.uk/img/media/ac201c00e14f3e92c1cd23b41ad1b22295edced4/310_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=e553b051c83e61161bc0ead9498c839b",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-30T07:44:39Z"
+    },
     {
       "title": "Painting the growing season in the Maize Triangle",
       "link": "https://phys.org/news/2026-05-season-maize-triangle.html",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-05-21T21:42:22Z"
-    },
-    {
-      "title": "Neptune's Moon Nereid Might Be the Sole Intact Survivor of an Ancient Lunar Collision",
-      "link": "https://www.smithsonianmag.com/smart-news/neptunes-moon-nereid-might-be-the-sole-intact-survivor-of-an-ancient-lunar-collision-180988785/",
-      "summary": "A study suggests that the ice giant's largest moon, Triton, made a dramatic entrance to the Neptunian system long ago, kicking Nereid outward and destroying the planet's other orig",
-      "date": "Thu, 21 May 2026 20Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/ovW9PXzCjSDDOGwILumIvq6f5gs=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5d/cb/5dcb8462-81b9-4b5c-9348-ff319c096b60/neptune-main.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-21T21:42:23Z"
     }
   ]
 }
