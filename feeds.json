@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-29T23:24:18Z",
-  "updated_utc": "2026-05-29T23:24:18Z",
+  "updated": "2026-05-30T04:06:12Z",
+  "updated_utc": "2026-05-30T04:06:12Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Painting the growing season in the Maize Triangle",
+      "link": "https://phys.org/news/2026-05-season-maize-triangle.html",
+      "summary": "Radar data from an agricultural area in South Africa, shown in a vivid color palette, reveal crop types and how they changed during the Southern Hemisphere's growing season.",
+      "date": "2026-05-29T23:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/painting-the-growing-s.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-30T04:06:08Z"
+    },
     {
       "title": "Three Climbers Are Dead in Denali National Park",
       "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/denali-3-climbers-dead/",
@@ -5487,17 +5498,6 @@
       "summary": "A study suggests that the ice giant's largest moon, Triton, made a dramatic entrance to the Neptunian system long ago, kicking Nereid outward and destroying the planet's other orig",
       "date": "Thu, 21 May 2026 20Z",
       "image": "https://th-thumbnailer.cdn-si-edu.com/ovW9PXzCjSDDOGwILumIvq6f5gs=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5d/cb/5dcb8462-81b9-4b5c-9348-ff319c096b60/neptune-main.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-21T21:42:23Z"
-    },
-    {
-      "title": "The Oldest Bridge in Paris Was Swallowed Overnight by a Giant, Inflatable Cave in the Latest Artwork by the ‘French Banksy’",
-      "link": "https://www.smithsonianmag.com/smart-news/the-oldest-bridge-in-paris-was-swallowed-overnight-by-a-giant-inflatable-cave-in-latest-artwork-by-the-french-banksy-180988781/",
-      "summary": "French street artist JR chose the Pont Neuf bridge as the canvas for his latest larger-than-life art installation, created with audio accompaniment by a Daft Punk musician",
-      "date": "Thu, 21 May 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/EggXcu6_lREAVSfoBWvv65enXCE=/420x240/filters:focal(2684x1789:2685x1790)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/02/a8/02a8c2a4-618d-4b7a-b878-9c3554274260/bridge_1.jpg",
       "name": "Smithsonian",
       "category": "insects",
       "color": 10,
