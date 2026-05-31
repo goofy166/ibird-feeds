@@ -1,8 +1,30 @@
 {
-  "updated": "2026-05-31T14:02:33Z",
-  "updated_utc": "2026-05-31T14:02:33Z",
+  "updated": "2026-05-31T16:18:26Z",
+  "updated_utc": "2026-05-31T16:18:26Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Central Africa's wild meat dilemma: Why outright bans threaten food security for millions",
+      "link": "https://phys.org/news/2026-05-central-africa-wild-meat-dilemma.html",
+      "summary": "Millions of people in central Africa rely on wild meat for their nutrition, especially in rural areas around the Congo rainforest, the second largest tropical rainforest in the wor",
+      "date": "2026-05-31T14:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wild-meat.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-05-31T16:18:22Z"
+    },
+    {
+      "title": "'We were being bullied in our own home': How 'authoritarian' HOAs are contributing to the insect apocalypse",
+      "link": "https://www.livescience.com/animals/insects/we-were-being-bullied-in-our-own-home-how-authoritarian-hoas-are-contributing-to-the-insect-apocalypse",
+      "summary": "In the book \"Bitter Honey,\" writer and researcher Jennie Durant explores how industrial agriculture is destroying bees — and what can be done to stop them.",
+      "date": "2026-05-31T16:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/pjrKeVKpAxmateZHqDp3M4-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-05-31T16:18:23Z"
+    },
     {
       "title": "Could aliens visit Earth? Here are some challenges",
       "link": "https://earthsky.org/space/could-aliens-visit-earth-challenges-of-interstellar-spaceflight/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-05-22T14:54:11Z"
-    },
-    {
-      "title": "Belugas Can Recognize Themselves in Mirrors, Joining a Short List of Nonhuman Species That Show Signs of Self-Awareness",
-      "link": "https://www.smithsonianmag.com/smart-news/belugas-can-recognize-themselves-in-mirrors-joining-a-short-list-of-non-human-species-that-show-signs-of-self-awareness-180988783/",
-      "summary": "The researchers hope that this new understanding of cognition in the toothed whales will increase human empathy and concern for the animals, leading to more efforts to protect them",
-      "date": "2026-05-22T14:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/1l4_MseF7j05QQ2j-i40S6biKXA=/420x240/filters:focal(500x333:501x334)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a7/84/a7845c48-ed26-4e29-89c3-3e71ff7bf62b/beluga_whale_1_use_mildener_et_al-2_copy_2_png.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-22T14:54:11Z"
-    },
-    {
-      "title": "How house design can curb childhood illnesses in Africa",
-      "link": "https://www.sciencenews.org/article/house-design-malaria-diarrhea-africa",
-      "summary": "Experimental houses with screens, rainwater systems and ventilation reduced malaria, diarrhea and infections among children in Tanzania.",
-      "date": "2026-05-22T13:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/050826_TK_housing_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-05-22T14:54:12Z"
     }
   ]
 }
