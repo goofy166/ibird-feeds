@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-31T16:18:26Z",
-  "updated_utc": "2026-05-31T16:18:26Z",
+  "updated": "2026-05-31T18:09:14Z",
+  "updated_utc": "2026-05-31T18:09:14Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Wildlife-filled childhoods have been lost | Letters",
+      "link": "https://www.theguardian.com/environment/2026/may/31/born-in-1949-my-wildlife-filled-childhood-is-now-lost",
+      "summary": "As a child born in 1949, I watched hedgehogs, foxes, rabbits, hares, butterflies and weasels, writes Anne Geraghty . I feel privileged but unutterably sad that this has gone Amy-Ja",
+      "date": "2026-05-31T16:36:10Z",
+      "image": "https://i.guim.co.uk/img/media/62b3da8f6335e202971dec3754c5aba9c0adac98/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=2e93dafdd6b4e1423f32bb9a8b7a1c3a",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-05-31T18:08:58Z"
+    },
     {
       "title": "Central Africa's wild meat dilemma: Why outright bans threaten food security for millions",
       "link": "https://phys.org/news/2026-05-central-africa-wild-meat-dilemma.html",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-05-22T14:54:09Z"
-    },
-    {
-      "title": "Virginia's Civil Rights Trail: Six Historic Sites That Changed America",
-      "link": "https://www.smithsonianmag.com/sponsored/virginias-civil-rights-trail-six-historic-sites-that-changed-america-180988675/",
-      "summary": "Explore powerful sites along Virginia’s Civil Rights Trail where student activism, peaceful protest, and landmark legal battles helped reshape the nation’s fight for equality",
-      "date": "2026-05-22T14:03:35Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/rb6HaOLiAXin5KJnbEgcaKFuxtU=/420x240/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1d/14/1d14397d-dc46-4e5c-a18b-f2df64f22df9/cn25101501v_013.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-22T14:54:11Z"
     }
   ]
 }
