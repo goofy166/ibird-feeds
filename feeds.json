@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-31T20:17:40Z",
-  "updated_utc": "2026-05-31T20:17:40Z",
+  "updated": "2026-05-31T22:06:59Z",
+  "updated_utc": "2026-05-31T22:06:59Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Report: Facebook is main tool for criminals selling endangered wild animals",
+      "link": "https://www.mercurynews.com/2026/05/07/facebookfacebook-criminals-selling-endangered-wild-animals-wildlife-illegal-trade/",
+      "summary": "Report cites 'loss of irreplaceable species such as elephants for their ivory, rhinos for their horns, pangolins for their scales, and countless parrots, primates, small mammals an",
+      "date": "Thu, 07 May 2026 22Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/05/SJM-L-FACEWILD-0508-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-05-31T22:06:48Z"
+    },
     {
       "title": "Korean and French Culture Are Set to Rendezvous at a New Museum in Seoul for Modern and Contemporary Art",
       "link": "https://www.smithsonianmag.com/smart-news/korean-and-french-culture-are-set-to-rendezvous-at-a-new-museum-in-seoul-for-modern-and-contemporary-art-180988864/",
@@ -5491,17 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-05-22T14:53:58Z"
-    },
-    {
-      "title": "The Atlantic hurricane season forecast for 2026 is out!",
-      "link": "https://earthsky.org/earth/atlantic-hurricane-season-forecast-for-2026/",
-      "summary": "On May 21, 2026, NOAA came out with the forecast for the 2026 Atlantic hurricane season. The forecast calls for a below-average season. The post The Atlantic hurricane season forec",
-      "date": "2026-05-22T12:00:32Z",
-      "image": "https://earthsky.org/upl/2025/10/eye-of-hurricane-Melissa-Oct-28-2025-Sentinel-2-e1761756919519.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-05-22T14:54:04Z"
     }
   ]
 }
