@@ -1,8 +1,19 @@
 {
-  "updated": "2026-05-31T22:06:59Z",
-  "updated_utc": "2026-05-31T22:06:59Z",
+  "updated": "2026-06-01T00:11:44Z",
+  "updated_utc": "2026-06-01T00:11:44Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Parasitic fly 'sacrifices sight' after finding host, study shows",
+      "link": "https://phys.org/news/2026-05-parasitic-fly-sacrifices-sight-host.html",
+      "summary": "Deer keds—biting flies found across Europe, Asia, Africa and the Americas—use their eyes and flight to locate a host, typically deer, but occasionally humans or other mammals. Once",
+      "date": "2026-05-31T23:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/parasitic-fly-sacrific.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-01T00:11:40Z"
+    },
     {
       "title": "Report: Facebook is main tool for criminals selling endangered wild animals",
       "link": "https://www.mercurynews.com/2026/05/07/facebookfacebook-criminals-selling-endangered-wild-animals-wildlife-illegal-trade/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-05-22T17:14:52Z"
-    },
-    {
-      "title": "Q&A: TODAY’s Al Roker Talks Backyard Birding and Unexpected Feeder Guests",
-      "link": "https://www.birdsandblooms.com/birding/attracting-birds/feeding-birds/today-al-roker-birding/",
-      "summary": "The TODAY Show's Al Roker appreciates the birds in his backyard. Here's what he puts in his feeder, and why he loves nature. The post Q&A: TODAY’s Al Roker Talks Backyard Birding a",
-      "date": "2026-05-22T14:38:23Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/05/Al-Roker_Feature-Image_2026-scaled.jpg?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-05-22T14:53:58Z"
     }
   ]
 }
