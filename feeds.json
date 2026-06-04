@@ -1,8 +1,96 @@
 {
-  "updated": "2026-06-04T06:50:32Z",
-  "updated_utc": "2026-06-04T06:50:32Z",
+  "updated": "2026-06-04T10:41:46Z",
+  "updated_utc": "2026-06-04T10:41:46Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘To them a power line is a line of trees’: Costa Rica moves to protect howler monkeys from electrocution",
+      "link": "https://www.theguardian.com/environment/2026/jun/04/costa-rica-monkey-electrocution-power-line-court-ruling-animals-deforestation-aoe",
+      "summary": "Electric shock is one of the biggest causes of death among wildlife in the country but a court ruling is a first step to making power lines safe Peque, a small black howler monkey,",
+      "date": "2026-06-04T10:00:03Z",
+      "image": "https://i.guim.co.uk/img/media/ea4f02a06b247ce08b273c8c8d0ab8cc49ba14aa/243_0_1500_1201/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=230ea1ee38f6edfaedf91a05c198c142",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-04T10:41:31Z"
+    },
+    {
+      "title": "Protesters clash with police in Albania over Jared Kushner-backed luxury resort – video",
+      "link": "https://www.theguardian.com/world/video/2026/jun/04/protesters-clash-with-police-in-albania-over-jared-kushner-backed-luxury-resort-video",
+      "summary": "Protests in Albania over a proposed luxury resort backed by Jared Kushner , Donald Trump’s son-in-law, are expected to intensify after opponents rejected an offer from the country’",
+      "date": "2026-06-04T09:24:03Z",
+      "image": "https://i.guim.co.uk/img/media/946e5697da6b62f2a87d2eefd2d873052153e053/673_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=518a4e0e62b541ef375fa25909ce6ac7",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-04T10:41:31Z"
+    },
+    {
+      "title": "The constellation Norma is home to the Great Attractor",
+      "link": "https://earthsky.org/constellations/norma-the-great-attractor-constellations/",
+      "summary": "The constellation Norma lies in southern skies and is home to the Great Attractor, the Norma cluster and other deep-sky objects. The post The constellation Norma is home to the Gre",
+      "date": "Thu, 04 Jun 2026 08Z",
+      "image": "https://earthsky.org/upl/2022/06/Norma-Constellation.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-06-04T10:41:33Z"
+    },
+    {
+      "title": "Colorado’s Wolf Reintroduction Hasn’t Gone to Plan. Are These Cowboys Its Last Hope?",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/colorado-wolf-reintroduction-range-riders/",
+      "summary": "Range riders sleep with the cattle, roam all night on horseback, and track wolves across miles of open terrain. Some hail the return of the cowboy lifestyle—but not everyone is sol",
+      "date": "Thu, 04 Jun 2026 09Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/20260501_RangeRiders_0412.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-06-04T10:41:37Z"
+    },
+    {
+      "title": "Georgia O’Keeffe Ignored Advice to Mimic Great European Masters. Her Goal Instead Was to Be a Great American Painter",
+      "link": "https://www.smithsonianmag.com/arts-culture/georgia-okeefe-ignored-advice-mimic-great-european-masters-goal-instead-be-great-american-painter-180988804/",
+      "summary": "The genius of her work was in painting things as she saw them through her own eyes. So when she surrounded herself with beauty, her work reflected it",
+      "date": "Thu, 04 Jun 2026 10Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/gY4Jcz1vf87p7_sdOT2iBzZT1f4=/420x240/filters:focal(1500x1000:1501x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/bb/be/bbbe50cb-fdfb-47c3-aeba-0320817378dc/georgia_okeeffe.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-06-04T10:41:39Z"
+    },
+    {
+      "title": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue",
+      "link": "https://phys.org/news/2026-06-tools-hantavirus-limited-funding.html",
+      "summary": "When a rare but deadly rodent-borne virus struck passengers on a cruise ship and seemed to be spreading, there were no treatments for those who fell ill and no vaccines to protect ",
+      "date": "2026-06-04T09:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tools-to-fight-hantavi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-04T10:41:43Z"
+    },
+    {
+      "title": "Screwworm fly detected in Texas decades after cattle threat was largely eradicated in US",
+      "link": "https://phys.org/news/2026-06-screwworm-fly-texas-decades-cattle.html",
+      "summary": "The New World screwworm fly has reached south Texas, the U.S. Department of Agriculture confirmed Wednesday, the first time in decades that the parasite with flesh-eating larvae ha",
+      "date": "2026-06-04T08:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/screwworm-fly-detected.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-04T10:41:43Z"
+    },
+    {
+      "title": "Canadian government endorses a plan to move whales from shuttered Marineland park to US and Spain",
+      "link": "https://phys.org/news/2026-06-canadian-endorses-whales-shuttered-marineland.html",
+      "summary": "Canada's government endorsed a plan Wednesday to move the last remaining captive whales from a shuttered theme park in Ontario to aquariums in the United States and Spain—a plan th",
+      "date": "2026-06-04T08:34:53Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/canadian-government-en.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-04T10:41:43Z"
+    },
     {
       "title": "Country diary: A close-up view of a shimmering beauty | Sara Hudston",
       "link": "https://www.theguardian.com/environment/2026/jun/04/country-diary-a-close-up-view-of-a-shimmering-beauty",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-05-27T22:02:27Z"
-    },
-    {
-      "title": "7 Types of Plants in the Mint Family",
-      "link": "https://www.birdsandblooms.com/gardening/gardening-basics/plants-mint-family/",
-      "summary": "Learn about plants of the mint family in a wide range of varieties that pollinators — and people! — just can’t resist. The post 7 Types of Plants in the Mint Family appeared first ",
-      "date": "2026-05-27T18:48:58Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/05/GettyImages-1304240959-scaled-e1779902208853.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-05-27T19:29:24Z"
-    },
-    {
-      "title": "Top 10 Prettiest Zinnia Varieties to Grow",
-      "link": "https://www.birdsandblooms.com/gardening/top-10-lists-for-gardeners/zinnia-varieties/",
-      "summary": "From classics to exciting introductions, these zinnia varieties deliver all summer long. Here are the best zinnias to grow now. The post Top 10 Prettiest Zinnia Varieties to Grow a",
-      "date": "2026-05-27T18:12:58Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/05/357792170_1_Sherie_OConnor_BNB_PC_2023-e1779902141264.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-05-27T19:29:24Z"
-    },
-    {
-      "title": "Top 10 Low-Growing Perennial Flowers for the Front of the Bed",
-      "link": "https://www.birdsandblooms.com/gardening/top-10-lists-for-gardeners/low-growing-perennials-flowers/",
-      "summary": "These flowers are short and sweet! Low growing perennials stay petite but will fill your garden beds with beautiful blooms. The post Top 10 Low-Growing Perennial Flowers for the Fr",
-      "date": "2026-05-27T16:34:52Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/05/PWIcePlantdelospermafirespinner-e1779895443104.jpg?fit=700,705",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-05-27T19:29:24Z"
-    },
-    {
-      "title": "Meet Iris: The Oldest Nesting Osprey",
-      "link": "https://www.birdsandblooms.com/birding/bird-species/birds-of-prey/iris-osprey/",
-      "summary": "An online sensation, Iris the osprey has captured hearts as viewers remain glued to her nest camera. Here's why you should be watching. The post Meet Iris: The Oldest Nesting Ospre",
-      "date": "Tue, 19 May 2026 18Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/05/Screenshot-2026-05-18-at-2.13.46-PM-2-e1779203294504.png?fit=700,689",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-05-27T19:29:24Z"
-    },
-    {
-      "title": "Tourist accused of hurling rock at endangered Hawaiian seal was trying to protect sea turtles, lawyer says",
-      "link": "https://www.theguardian.com/us-news/2026/may/27/igor-lytvynchuk-rock-hawaiian-monk-seal",
-      "summary": "Igor Lytvynchuk is scheduled to appear in court on charges of harassing and attempting to harass a protected animal Sign up for the Breaking News US newsletter email The lawyer for",
-      "date": "2026-05-27T16:45:46Z",
-      "image": "https://i.guim.co.uk/img/media/3adc1b95ed873973f7ab3937218fc089e38c0fea/152_0_4591_3672/master/4591.jpg?width=140&quality=85&auto=format&fit=max&s=fde6a4bc0c50a39f492805ba52576801",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-05-27T19:29:28Z"
-    },
-    {
-      "title": "Daly City man accused of trying to illegally export protected turtles",
-      "link": "https://www.mercurynews.com/2026/05/19/daly-city-man-accused-of-trying-to-illegally-export-protected-turtles/",
-      "summary": "Prosecutors say Donald Do violated a federal law that prohibits international and domestic wildlife trafficking.",
-      "date": "Tue, 19 May 2026 12Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2016/08/20150714__MIJ-L-TURTLE-07142.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-05-27T19:29:33Z"
-    },
-    {
-      "title": "“One of Us Profoundly Misunderstood the Assignment.” Pattie Gonia Breaks Silence on Patagonia Lawsuit.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/pattie-gonia-patagonia-lawsuit-response/",
-      "summary": "Drag queen and climate activist Pattie Gonia breaks her silence on Patagonia’s trademark lawsuit, calling out the brand's leadership. The post “One of Us Profoundly Misunderstood t",
-      "date": "2026-05-27T18:00:35Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/Pattie-Gonia-by-Samuel-Crossley-04.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-27T19:29:35Z"
-    },
-    {
-      "title": "In 1776, Angry New Yorkers Tore Down a Statue of George III With a Revolutionary Fervor. A New Exhibition Lets You Do It, Too",
-      "link": "https://www.smithsonianmag.com/smart-news/in-1776-angry-new-yorkers-tore-down-a-statue-of-george-iii-with-a-revolutionary-fervor-a-new-exhibition-lets-you-do-it-too-180988830/",
-      "summary": "New York City played a pivotal role in the American Revolution. This museum brings the city's 18th-century history to life through artifacts, immersive environments and interactive",
-      "date": "2026-05-27T19:00:45Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/dCfbo377EgHS3XmCqqHLI_54iSs=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ce/e4/cee42b31-1ef5-4563-ab1e-e5c28b2cb708/george-iii-statue.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-27T19:29:37Z"
     }
   ]
 }
