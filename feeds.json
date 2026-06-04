@@ -1,8 +1,151 @@
 {
-  "updated": "2026-06-04T20:13:45Z",
-  "updated_utc": "2026-06-04T20:13:45Z",
+  "updated": "2026-06-04T22:25:24Z",
+  "updated_utc": "2026-06-04T22:25:24Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Mule deer already using incomplete $20m wildlife bridge in California",
+      "link": "https://www.theguardian.com/us-news/2026/jun/04/california-wildlife-bridge-mule-deer",
+      "summary": "Within the last few days, a camera trap caught images of three mule deer using structure for the first time A trio of mule deer have already scuttled across a not-quite-finished $2",
+      "date": "2026-06-04T20:42:43Z",
+      "image": "https://i.guim.co.uk/img/media/b7b33364ff0b943d7af3f336edee5e94dcddde1f/310_0_646_517/master/646.jpg?width=140&quality=85&auto=format&fit=max&s=d81fb3b92a3721a24da62c646cf5cc8c",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-04T22:25:09Z"
+    },
+    {
+      "title": "Life Lessons Learned from José Andrés at Outside Days",
+      "link": "https://www.outsideonline.com/culture/books-media/jose-andres-outside-days/",
+      "summary": "Celebrated chef and humanitarian José Andrés shared key life lessons at Outside Days on teamwork, survival, and why he thinks people who love the outdoors represent the best of hum",
+      "date": "Thu, 04 Jun 2026 21Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/Jose-Andres_Brad-Kaminski.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-06-04T22:25:15Z"
+    },
+    {
+      "title": "9 Father’s Day Gifts for Outdoorsy Dads",
+      "link": "https://www.outsideonline.com/outdoor-gear/9-fathers-day-gifts-for-outdoorsy-dads/",
+      "summary": "Gear, nutrition, and wellness solutions to help Dad live his best life The post 9 Father’s Day Gifts for Outdoorsy Dads appeared first on Outside Online .",
+      "date": "Thu, 04 Jun 2026 20Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/Alchemy_featured_h.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-06-04T22:25:15Z"
+    },
+    {
+      "title": "See the Rescued and Restored 'Alice in Wonderland' Mural Painted for Sick Children at a New York Hospital",
+      "link": "https://www.smithsonianmag.com/smart-news/see-the-rescued-and-restored-alice-in-wonderland-mural-painted-for-sick-children-at-a-new-york-hospital-180988898/",
+      "summary": "Abram Champanier’s \"Alice of Wonderland Visiting New York\" was a commission from the Federal Art Project, a New Deal program that championed American art in public spaces",
+      "date": "Thu, 04 Jun 2026 20Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/sxxjcYK-4tkucsajq_Kfkra2f44=/420x240/filters:focal(2822x1882:2823x1883)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b6/89/b689cb1d-2ffd-4782-858d-5d8b5d3f4f23/anotherwonderland_bradfarwell_08.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-06-04T22:25:17Z"
+    },
+    {
+      "title": "Deep-sea discovery uncovers new family of copepods near Greenland",
+      "link": "https://phys.org/news/2026-06-deep-sea-discovery-uncovers-family.html",
+      "summary": "An international research team, including Dr. Nancy Mercado Salas from the Leibniz Institute for the Analysis of Biodiversity Change (LIB), has described a new family of copepods (",
+      "date": "2026-06-04T22:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-diversity-in-th-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-04T22:25:20Z"
+    },
+    {
+      "title": "Novel synthetic biomolecule degrades disease-related proteins",
+      "link": "https://phys.org/news/2026-06-synthetic-biomolecule-degrades-disease-proteins.html",
+      "summary": "Northwestern Medicine scientists have developed a novel synthetic biomolecular condensate that can degrade intracellular disease-causing proteins, providing a framework for new the",
+      "date": "2026-06-04T21:40:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-synthetic-biomol.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-04T22:25:20Z"
+    },
+    {
+      "title": "Q&A: Why do telomeres shorten when a cell divides, and how does it affect human aging?",
+      "link": "https://phys.org/news/2026-06-qa-telomeres-shorten-cell-affect.html",
+      "summary": "In each cell of your body, DNA is stored in structures called chromosomes. When cells divide, these chromosomes are copied, but over time, the copying process degrades. After many ",
+      "date": "2026-06-04T21:20:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/chromosomes.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-04T22:25:20Z"
+    },
+    {
+      "title": "The best pollinators can drive evolutionary changes in flowers",
+      "link": "https://phys.org/news/2026-06-pollinators-evolutionary.html",
+      "summary": "A new study by plant biologists at the University of California, Santa Cruz, challenges a longstanding idea that stems from the large number of flowers in the mountains of Central ",
+      "date": "2026-06-04T21:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-best-pollinators-c.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-06-04T22:25:20Z"
+    },
+    {
+      "title": "Rare wild goats in Northumberland prove to be a genetically distinct breed",
+      "link": "https://phys.org/news/2026-06-rare-wild-goats-northumberland-genetically.html",
+      "summary": "New research shows Cheviot goats are one of the UK's most genetically distinct goat populations. Led by Newcastle University, this is the first genetic study to determine the ances",
+      "date": "2026-06-04T20:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rare-wild-goats-in-nor.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-04T22:25:20Z"
+    },
+    {
+      "title": "Fossil fishes buried in the desert reveal a missing chapter in marine history",
+      "link": "https://phys.org/news/2026-06-fossil-fishes-reveal-chapter-marine.html",
+      "summary": "When an asteroid struck Earth about 66 million years ago, it ended the age of dinosaurs and transformed life across the planet. The effects of that catastrophe are visible in the f",
+      "date": "2026-06-04T20:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fossil-fishes-buried-i.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-04T22:25:20Z"
+    },
+    {
+      "title": "Flesh-eating screwworm found in Texas cow. Are humans at risk?",
+      "link": "https://www.livescience.com/health/viruses-infections-disease/flesh-eating-screwworm-found-in-texas-cow-are-humans-at-risk",
+      "summary": "USDA announced the detection of a New World screwworm infection in a cow in Texas, marking the state's first confirmed case in decades.",
+      "date": "Thu, 04 Jun 2026 21Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/DWoHoZFXW9CKVBJtgUT7d8-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-04T22:25:21Z"
+    },
+    {
+      "title": "New Study Eavesdrops on the Secret Lives of Birds",
+      "link": "https://www.birds.cornell.edu/home/study-eavesdrops-on-birds/",
+      "summary": "Cornell Lab of Ornithology Scientists Use Microphones to Identify How Birds Respond to Predators.",
+      "date": "2026-05-06T19:38:31Z",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-06-04T22:25:23Z"
+    },
+    {
+      "title": "Discover the Hidden World of Bird Nests and Eggs with the Cornell Lab of Ornithology",
+      "link": "https://www.birds.cornell.edu/home/discover-bird-nests-and-eggs/",
+      "summary": "A Brand new self-paced, online course explores nests and eggs just in time for spring.",
+      "date": "2026-04-06T13:32:14Z",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-06-04T22:25:23Z"
+    },
     {
       "title": "‘They surprise me every time’: bees can use tools to solve problems, study finds",
       "link": "https://www.theguardian.com/environment/2026/jun/04/bees-use-tools-to-solve-problems-study-finds",
@@ -5359,149 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-05-28T21:12:56Z"
-    },
-    {
-      "title": "Giant, Destructive Hail Is Becoming More Common With Climate Change, Study Says",
-      "link": "https://www.smithsonianmag.com/smart-news/giant-destructive-hail-is-becoming-more-common-with-climate-change-study-says-180988849/",
-      "summary": "As the atmosphere warms, the potential for hail as large as a grapefruit is growing",
-      "date": "Thu, 28 May 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/JZoqC1vZ2nxPi9XgMwkBPnof7pE=/420x240/filters:focal(920x600:921x601)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ab/78/ab78606e-54ef-4d0e-9e81-fa74edfe8aab/granizo.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-28T21:12:56Z"
-    },
-    {
-      "title": "England's Most Famous Naked Giant Will Glow White Again, Thanks to Help From Hundreds of People Performing a Ritual of Restoration",
-      "link": "https://www.smithsonianmag.com/smart-news/englands-most-famous-naked-giant-will-glow-white-again-thanks-to-help-from-hundreds-of-people-performing-a-ritual-of-restoration-180988848/",
-      "summary": "The Cerne Abbas Giant, a 180-foot-tall geoglyph in southern England, is getting a new layer of chalk",
-      "date": "Thu, 28 May 2026 18Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/uZdJHnB2VbmXy5riH8Y234qveLs=/420x240/filters:focal(945x630:946x631)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0d/c7/0dc79ca1-f653-4bf1-ac84-780d9a9b806b/the_cerne_abbas_giant_is_part_of_a_wider_nationally_important_landscape___national_trust__j.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-28T21:12:56Z"
-    },
-    {
-      "title": "A 'Balrog' in the tunnels: Scientists discover a new cave cricket species on the tiny island of Kastellorizo, Greece",
-      "link": "https://phys.org/news/2026-05-balrog-tunnels-scientists-cave-cricket.html",
-      "summary": "Despite the intensity of modern exploration, the eastern Mediterranean continues to yield unexpected discoveries. On the small Greek island of Kastellorizo, researchers have docume",
-      "date": "2026-05-28T21:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-balrog-in-the-tunnel.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-28T21:12:59Z"
-    },
-    {
-      "title": "Turtles finally have a place in the tree of life thanks to an X‑ray study of South African fossils",
-      "link": "https://phys.org/news/2026-05-turtles-tree-life-xray-south.html",
-      "summary": "The origin of turtles has always been a bit of a puzzle for scientists who study the evolution of animals. To this day, where they fit in the tree of life remains a highly debated ",
-      "date": "2026-05-28T20:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/turtles-finally-have-a.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-28T21:12:59Z"
-    },
-    {
-      "title": "Crops predictably select growth boosting microbes regardless of soil type, study finds",
-      "link": "https://phys.org/news/2026-05-crops-growth-boosting-microbes-soil.html",
-      "summary": "A new study shows crop species, and not soil type, primarily determines the beneficial functions provided by root-associated microbes. In the study, soil obtained from across nine ",
-      "date": "2026-05-28T20:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/crop.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-28T21:12:59Z"
-    },
-    {
-      "title": "How farmers respond to climate-related risk",
-      "link": "https://phys.org/news/2026-05-farmers-climate.html",
-      "summary": "As climate change increases the frequency of drought, excessive rainfall, and other extreme weather events, farmers face growing uncertainty about crop production. Understanding ho",
-      "date": "2026-05-28T20:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-farmers-respond-to.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-28T21:12:59Z"
-    },
-    {
-      "title": "Improved embryo freezing technique could preserve endangered species",
-      "link": "https://phys.org/news/2026-05-embryo-technique-endangered-species.html",
-      "summary": "The current practice of freezing embryos—used to assist reproduction in humans or animals or to conserve endangered species—routinely causes ice to form within the cells, ripping t",
-      "date": "2026-05-28T19:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/improved-embryo-freezi.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-28T21:12:59Z"
-    },
-    {
-      "title": "Electrical pulses reverse aging in sea squirts, offering clues for extending human longevity",
-      "link": "https://phys.org/news/2026-05-electrical-pulses-reverse-aging-sea.html",
-      "summary": "A tiny sea creature might hold the secret to reversing the aging process. When treated with a brief series of electrical pulses, sea squirts experience dramatic and long-lasting he",
-      "date": "2026-05-28T18:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/seasquirt.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-28T21:12:59Z"
-    },
-    {
-      "title": "Scientists found the optimal robot body, and it has 20 legs ‪—‬ watch it scale walls and move through trees",
-      "link": "https://www.livescience.com/technology/robotics/scientists-found-the-optimal-robot-body-and-it-has-20-legs-watch-it-scale-walls-and-move-through-trees",
-      "summary": "A sea-urchin-like robot could offer a new blueprint for making more versatile robots, research suggests.",
-      "date": "Thu, 28 May 2026 21Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/oAyvNUfBh7uwVsPVVNgHGd-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-28T21:13:00Z"
-    },
-    {
-      "title": "Mosquitoes can become attracted to insect repellant, study suggests",
-      "link": "https://www.theguardian.com/environment/2026/may/28/deet-mosquito-spray-attract-insects-study-malaria-zika",
-      "summary": "The insect may learn to associate the chemical Deet with a ‘blood meal’, researchers say It is a spray used worldwide to protect humans from mosquito bites, but now research sugges",
-      "date": "2026-05-28T15:22:55Z",
-      "image": "https://i.guim.co.uk/img/media/a5e4e77aba6022ada43844288973647881406b0b/229_0_1505_1204/master/1505.jpg?width=140&quality=85&auto=format&fit=max&s=d40d718900c2590f5077a8086e949c6c",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-05-28T18:15:52Z"
-    },
-    {
-      "title": "SeaWorld San Diego changes shark story from apex predators to endangered species",
-      "link": "https://www.mercurynews.com/2026/05/20/seaworld-san-diego-changes-shark-story-from-apex-predators-to-endangered-species/",
-      "summary": "Shark Encounter aquarium exhibit reopens on May 22 after an eight-month refurbishment.",
-      "date": "2026-05-20T15:28:14Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/05/OCR-L-SEAWORLD-SHARKS-0519-05.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-05-28T18:15:56Z"
-    },
-    {
-      "title": "Sea otters: Our climate and habitat heroes",
-      "link": "https://www.mercurynews.com/2026/05/20/dan-haifley-ocean-currents-sea-otters-our-climate-and-habitat-heroes/",
-      "summary": "California sea otters maintain a warm body temperature in cold waters, which increases their energy demands to about three times that of a land-based animal the same size",
-      "date": "2026-05-20T11:15:00Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/05/STC-L-Haifley-col-0520.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-05-28T18:15:56Z"
-    },
-    {
-      "title": "Young Blue Crabs Have Been Mysteriously Dwindling in the Chesapeake Bay for Years. This Winter, They Saw a Boost in Numbers. What’s Driving These Trends?",
-      "link": "https://www.smithsonianmag.com/smart-news/young-blue-crabs-have-been-mysteriously-dwindling-in-the-chesapeake-bay-for-years-this-winter-they-saw-a-boost-in-numbers-whats-driving-these-trends-180988839/",
-      "summary": "A recent report detailed a 50 percent drop in juvenile Chesapeake blue crabs since 2010. Then, a survey found a surprising surge in the young crustaceans this year",
-      "date": "Thu, 28 May 2026 15Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/5eWbRnFh3jqbR4Z6yQc0Ip4Ll5g=/420x240/filters:focal(924x924:925x925)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/61/7d/617d598b-8668-4605-af88-11ec4c40b245/blue_crab_with_telemetry_tag.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-28T18:15:59Z"
     }
   ]
 }
