@@ -1,8 +1,30 @@
 {
-  "updated": "2026-06-05T00:16:09Z",
-  "updated_utc": "2026-06-05T00:16:09Z",
+  "updated": "2026-06-05T05:24:03Z",
+  "updated_utc": "2026-06-05T05:24:03Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: The ‘queen of trees’ is holding a secret | Elizabeth-Jane Burnett",
+      "link": "https://www.theguardian.com/environment/2026/jun/05/country-diary-the-queen-of-trees-is-holding-a-secret",
+      "summary": "Eggesford Forest, Devon: I thought I was alone in admiring a towering beech in the chilly wood, but I was not I breathe in the bluebells as a blackcap sings. At the crescendo, a fl",
+      "date": "2026-06-05T04:30:25Z",
+      "image": "https://i.guim.co.uk/img/media/960ef18a2ab80e3d7fa851efe3ccb2a098dc1c4f/150_11_1556_1245/master/1556.jpg?width=140&quality=85&auto=format&fit=max&s=1fd88e56a729af613fa442fa98719e93",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-05T05:23:47Z"
+    },
+    {
+      "title": "'The Heaven Sword' crowned as East Asia's tallest tree after a nearly decade-long search",
+      "link": "https://phys.org/news/2026-06-heaven-sword-crowned-east-asia.html",
+      "summary": "Taiwan, historically known as Formosa, holds a secret deep within its rugged interior: it is one of the rare locations on Earth capable of supporting \"giant\" trees—specimens that t",
+      "date": "2026-06-05T04:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/this-is-how-we-found-t.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-05T05:23:59Z"
+    },
     {
       "title": "SeaWorld San Diego changes shark story from apex predators to endangered species",
       "link": "https://www.mercurynews.com/2026/05/20/seaworld-san-diego-changes-shark-story-from-apex-predators-to-endangered-species/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-05-28T23:23:39Z"
-    },
-    {
-      "title": "Oceanic regime shifts affect subarctic moth communities—impacts divide species into winners and losers",
-      "link": "https://phys.org/news/2026-05-oceanic-regime-shifts-affect-subarctic.html",
-      "summary": "Regime shifts in the Atlantic Ocean, which have subsequently affected the Baltic Sea, are also impacting moths in Lapland, according to a new study conducted at the University of T",
-      "date": "2026-05-28T21:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oceanic-regime-shifts.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-05-28T23:23:39Z"
-    },
-    {
-      "title": "Why Car Glamping Is a Practical Alternative to an Expensive RV",
-      "link": "https://www.outsideonline.com/adventure-travel/advice/car-camping-vs-van-life/",
-      "summary": "With RV and camper van costs soaring, I upgraded my SUV vehicle for maximum comfort. Here's how to deck out your car for elevated camping without spending a fortune. The post Why C",
-      "date": "Thu, 28 May 2026 20Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/A-micro-RV-from-an-SUV.-Photo-by-Erik-Trinidad.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-28T21:12:54Z"
     }
   ]
 }
