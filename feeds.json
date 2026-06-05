@@ -1,8 +1,30 @@
 {
-  "updated": "2026-06-05T21:39:23Z",
-  "updated_utc": "2026-06-05T21:39:23Z",
+  "updated": "2026-06-05T23:16:43Z",
+  "updated_utc": "2026-06-05T23:16:43Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A Shipwreck 'Almost Beyond Belief' Stunned Archaeologists in Norway With Its Cargo of Intact Porcelain Dishes and Luxury Goods",
+      "link": "https://www.smithsonianmag.com/smart-news/a-shipwreck-almost-beyond-belief-stunned-archaeologists-in-norway-with-its-cargo-of-intact-porcelain-dishes-and-luxury-goods-180988910/",
+      "summary": "So far, archaeologists have recovered 40 artifacts from the discovery, an 18th-century shipwreck that likely will yield thousands more treasures",
+      "date": "2026-06-05T22:07:44Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/TGem1w0h4ZLikbJ-dAc2Ww45fzk=/420x240/filters:focal(500x338:501x339)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d3/8d/d38d210a-6ece-4f28-86b9-50537f708fe5/069eliatzbwuz.webp",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-06-05T23:16:35Z"
+    },
+    {
+      "title": "Are we getting to the point where it's safe to gene-edit babies?",
+      "link": "https://www.newscientist.com/article/2529355-are-we-getting-to-the-point-where-its-safe-to-gene-edit-babies/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A team in the US has reported promising results after using an improved form of CRISPR to gene-edit human embryos, but a major issue remains unsolved",
+      "date": "2026-06-05T20:11:08Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/05183609/SEI_300162347.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-05T23:16:38Z"
+    },
     {
       "title": "A Mystery Solved",
       "link": "https://www.10000birds.com/a-mystery-solved.htm?utm_source=rss&utm_medium=rss&utm_campaign=a-mystery-solved",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-05-29T21:58:39Z"
-    },
-    {
-      "title": "Navigation: How Birds Find Their Way When They Migrate",
-      "link": "https://www.allaboutbirds.org/news/the-basics-migration-navigation/",
-      "summary": "Updated May 2026; first published April 2008. Twice a year billions of birds take to the skies as they migrate to and from their summer and winter homes (or breeding ... Read more ",
-      "date": "2026-05-13T17:50:00Z",
-      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/05/650726543-White-crowned-Sparrow-Keith-Kennedy1.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-05-29T19:35:48Z"
-    },
-    {
-      "title": "Dartford warbler stages a comeback 60 years after almost vanishing",
-      "link": "https://www.theguardian.com/environment/2026/may/29/dartford-warbler-stages-a-comeback-60-years-after-almost-vanishing",
-      "summary": "Survey shows 44% increase on RSPB reserves of bird that almost became extinct in England in the 60s More than half a century after the Dartford warbler almost vanished from the Eng",
-      "date": "2026-05-29T17:32:17Z",
-      "image": "https://i.guim.co.uk/img/media/65c0a57818f89f370b7df3d6ae964c747be59e31/602_584_2369_1895/master/2369.jpg?width=140&quality=85&auto=format&fit=max&s=e966c4e09e0481cf8724789e1e1bd657",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-05-29T19:35:50Z"
     }
   ]
 }
