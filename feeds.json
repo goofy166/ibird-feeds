@@ -1,8 +1,41 @@
 {
-  "updated": "2026-06-06T07:50:15Z",
-  "updated_utc": "2026-06-06T07:50:15Z",
+  "updated": "2026-06-06T10:12:50Z",
+  "updated_utc": "2026-06-06T10:12:50Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Inside the Unconventional World of Goat Therapy, Where Talking Is Entirely Optional",
+      "link": "https://www.outsideonline.com/health/wellness/goat-therapy-benefits-mental-health/",
+      "summary": "At Blue Sky Farms, visitors pay $50 an hour to sit with baby goats for mental clarity. The unique experience highlights how animal-assisted therapy provides a rare space for people",
+      "date": "2026-06-06T09:37:48Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/blair-and-goats.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-06-06T10:12:42Z"
+    },
+    {
+      "title": "Wild Bison Return to the Outskirts of Chicago for the First Time in 200 Years",
+      "link": "https://www.outsideonline.com/adventure-travel/news-analysis/illinois-bison-burlington-prairie/",
+      "summary": "Sixty miles outside of downtown Chicago, wild bison have been brought back to the prairie for the first time in over 200 years. The post Wild Bison Return to the Outskirts of Chica",
+      "date": "2026-06-06T09:05:24Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/IMG_6148-1.jpeg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-06-06T10:12:42Z"
+    },
+    {
+      "title": "Why can't we figure out how strong gravity is?",
+      "link": "https://www.livescience.com/physics-mathematics/why-cant-we-figure-out-how-strong-gravity-is",
+      "summary": "Despite dozens of experiments over the years, scientists still don't have a precise measurement for gravity's strength. Why is that?",
+      "date": "2026-06-06T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/wTHU3C9ncX2HByU83am6ji-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-06T10:12:48Z"
+    },
     {
       "title": "Hong Kong – Profile for Birders",
       "link": "https://www.10000birds.com/hong-kong-profile-for-birders.htm?utm_source=rss&utm_medium=rss&utm_campaign=hong-kong-profile-for-birders",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-05-30T10:07:10Z"
-    },
-    {
-      "title": "Mountain Towns With Cabins You Can Actually Afford to Buy in 2026",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/affordable-mountain-towns/",
-      "summary": "You do not need millions to own a property near the trails. These five up-and-coming mountain towns offer scenic views and homes well below the national average. The post Mountain ",
-      "date": "2026-05-30T09:00:22Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/GettyImages-2251421888-2-scaled.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-05-30T10:07:17Z"
-    },
-    {
-      "title": "What is jetlag, and how can you avoid it?",
-      "link": "https://www.livescience.com/health/what-is-jetlag-and-how-can-you-avoid-it",
-      "summary": "Long-haul travelers often feel totally out of whack for several days after arriving at their destination. Jet lag is a natural phenomenon, but can it be prevented?",
-      "date": "2026-05-30T09:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/QRm2xT2zPfUP5DxGFz3yPR-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-30T10:07:23Z"
-    },
-    {
-      "title": "Blue Moon 2026: An extremely rare micromoon rises tonight",
-      "link": "https://www.livescience.com/space/blue-moon-2026-an-extremely-rare-micromoon-rises-tonight",
-      "summary": "A rare Blue Moon, the second full moon in May, will also be a \"micromoon\" near its farthest point from Earth.",
-      "date": "2026-05-30T08:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/72kcbiboEdRF2By7r5YvrG-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-30T10:07:23Z"
     }
   ]
 }
