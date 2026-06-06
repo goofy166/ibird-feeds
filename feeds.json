@@ -1,8 +1,41 @@
 {
-  "updated": "2026-06-05T23:16:43Z",
-  "updated_utc": "2026-06-05T23:16:43Z",
+  "updated": "2026-06-06T04:09:40Z",
+  "updated_utc": "2026-06-06T04:09:40Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Navigation: How Birds Find Their Way When They Migrate",
+      "link": "https://www.allaboutbirds.org/news/the-basics-migration-navigation/",
+      "summary": "Updated May 2026; first published April 2008. Twice a year billions of birds take to the skies as they migrate to and from their summer and winter homes (or breeding ... Read more ",
+      "date": "2026-05-13T17:50:00Z",
+      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/05/650726543-White-crowned-Sparrow-Keith-Kennedy1.jpg",
+      "name": "All About Birds",
+      "category": "birds",
+      "color": 3,
+      "fetched_at": "2026-06-06T04:09:21Z"
+    },
+    {
+      "title": "Scientists map more than 200 years of nature's progress",
+      "link": "https://phys.org/news/2026-06-scientists-years-nature.html",
+      "summary": "Armed with trail cameras, artificial intelligence, and a powerful national research network, scientists are revisiting Lewis and Clark's legendary journey to see how America's wild",
+      "date": "2026-06-06T02:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mizzou-helps-smithsoni.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-06T04:09:36Z"
+    },
+    {
+      "title": "Why do rival plants coexist? The secret is in the soil beneath the oaks",
+      "link": "https://phys.org/news/2026-06-rival-coexist-secret-soil-beneath.html",
+      "summary": "How can plants that compete for the same resources grow in the same area without one driving the other to extinction? Ecologists have been trying to answer this question for decade",
+      "date": "2026-06-06T00:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-do-rival-plants-co.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-06T04:09:36Z"
+    },
     {
       "title": "A Shipwreck 'Almost Beyond Belief' Stunned Archaeologists in Norway With Its Cargo of Intact Porcelain Dishes and Luxury Goods",
       "link": "https://www.smithsonianmag.com/smart-news/a-shipwreck-almost-beyond-belief-stunned-archaeologists-in-norway-with-its-cargo-of-intact-porcelain-dishes-and-luxury-goods-180988910/",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-05-29T23:24:15Z"
-    },
-    {
-      "title": "Four Rare Guam Kingfisher Chicks Hatch at Virginia Facility, Making an 'Incredibly Valuable' Addition to the Small Population of Extinct-in-the-Wild Birds",
-      "link": "https://www.smithsonianmag.com/smart-news/four-rare-guam-kingfisher-chicks-hatch-at-virginia-facility-making-an-incredibly-valuable-addition-to-the-small-population-of-extinct-in-the-wild-birds-180988863/",
-      "summary": "The species, also known as the sihek, was wiped out from its native Guam and kept alive in captivity. Conservationists released some birds on Palmyra Atoll in 2024, and they have b",
-      "date": "2026-05-29T21:00:41Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/GUvXiF4Z-dSONsei2R7ljsoWLs8=/420x240/filters:focal(1024x634:1025x635)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f9/a4/f9a4af17-b326-4f00-8d64-92966468f938/705306451_1423631536459186_5155291432592042996_n.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-29T21:58:36Z"
-    },
-    {
-      "title": "These 600-Year-Old Chinese Surgical Instruments Are Coated in an Early Local Anesthetic—Carefully Extracted From a Poisonous Plant",
-      "link": "https://www.smithsonianmag.com/smart-news/these-600-year-old-chinese-surgical-instruments-are-coated-in-an-early-local-anestheticcarefully-extracted-from-a-poisonous-plant-180988865/",
-      "summary": "Researchers say the numbing agent splashed onto iron scissors and tweezers during a procedure. They were found in a Ming dynasty doctor's tomb",
-      "date": "2026-05-29T20:15:09Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/dbAweNjolD733IkrXXwMKLJuGOI=/420x240/filters:focal(527x351:528x352)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3e/bf/3ebf98af-8965-4b65-9f71-b6da84137f8f/urn_cambridgeorg_id_binary-alt_20260513195241-44146-optimisedimage-png-s0003598x26103470_fig1.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-29T21:58:36Z"
-    },
-    {
-      "title": "Fish-microbe partnership may influence ocean health by making carbon-trapping minerals",
-      "link": "https://phys.org/news/2026-05-fish-microbe-partnership-ocean-health.html",
-      "summary": "New research reveals a potential link between the gut microbes of a fish and global ocean processes, offering new insight into how marine ecosystems help regulate ocean chemistry a",
-      "date": "2026-05-29T19:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-suggests-fis.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-29T21:58:39Z"
     }
   ]
 }
