@@ -1,8 +1,41 @@
 {
-  "updated": "2026-06-06T20:15:56Z",
-  "updated_utc": "2026-06-06T20:15:56Z",
+  "updated": "2026-06-06T22:10:36Z",
+  "updated_utc": "2026-06-06T22:10:36Z",
   "count": 500,
   "stories": [
+    {
+      "title": "120,000-year-old European fallow deer—tracing the loss of genetic diversity",
+      "link": "https://phys.org/news/2026-06-year-european-fallow-deer-loss.html",
+      "summary": "European fallow deer have faced a dramatic loss of genetic diversity since the last interglacial period. This was revealed by 120,000-year-old fossils from central Germany's Neumar",
+      "date": "2026-06-06T21:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/120000-year-old-europe.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-06T22:10:32Z"
+    },
+    {
+      "title": "Ever seen a cave cricket? Australia now has three new species of these spindly, spider-like creatures",
+      "link": "https://phys.org/news/2026-06-cave-cricket-australia-species-spindly.html",
+      "summary": "When you picture a cave, you probably think of an environment devoid of life. But for most caves on Earth, this couldn't be further from the truth.",
+      "date": "2026-06-06T21:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ever-seen-a-cave-crick.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-06T22:10:32Z"
+    },
+    {
+      "title": "Tracking the Very Large, Very Elusive Star of Papua’s Forests: the Northern Cassowary",
+      "link": "https://www.birds.cornell.edu/home/tracking-the-very-large-very-elusive-star-of-papuas-forests-the-northern-cassowary/",
+      "summary": "",
+      "date": "Tue, 24 Mar 2026 13Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Sympetrum_flaveolum_-_side_%28aka%29.jpg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-06-06T22:10:35Z"
+    },
     {
       "title": "Previously unknown detoxification pathway for chloromethane revealed",
       "link": "https://phys.org/news/2026-06-previously-unknown-detoxification-pathway-chloromethane.html",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-05-30T16:09:57Z"
-    },
-    {
-      "title": "Warblers in New Hampshire’s Forests Have Found an Ideal Way to Divvy Up Territories",
-      "link": "https://www.birds.cornell.edu/home/warblers-in-new-hampshires-forests-have-found-an-ideal-way-to-divvy-up-territories/",
-      "summary": "",
-      "date": "Tue, 24 Mar 2026 13Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Apis_mellifera_flying.jpg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-05-30T16:09:59Z"
-    },
-    {
-      "title": "A Cattle Farm in Alabama Draws Birders for a Spectacle of Kites",
-      "link": "https://www.birds.cornell.edu/home/a-cattle-farm-in-alabama-draws-birders-for-a-spectacle-of-kites/",
-      "summary": "",
-      "date": "Tue, 24 Mar 2026 13Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Apis_mellifera_flying.jpg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-05-30T16:09:59Z"
-    },
-    {
-      "title": "Animal welfare violations swarm Miami zoo owned by ex-drug kingpin in Tiger King",
-      "link": "https://www.theguardian.com/us-news/2026/may/30/miami-zoo-violations-mario-tabraue-tiger-king",
-      "summary": "Endangered snow leopard had leg amputated and capybara died at Mario Tabraue’s controversial roadside facility An endangered clouded leopard had a leg amputated and a capybara died",
-      "date": "2026-05-30T13:00:19Z",
-      "image": "https://i.guim.co.uk/img/media/2b30c3448d8faaf0ef9d88924200688a0fda386b/285_0_1678_1344/master/1678.jpg?width=140&quality=85&auto=format&fit=max&s=fdfd5ee81534675ee43115c9c4735c5b",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-05-30T14:43:39Z"
     }
   ]
 }
