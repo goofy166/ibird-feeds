@@ -1,8 +1,19 @@
 {
-  "updated": "2026-06-06T14:48:38Z",
-  "updated_utc": "2026-06-06T14:48:38Z",
+  "updated": "2026-06-06T16:13:22Z",
+  "updated_utc": "2026-06-06T16:13:22Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Scientists Just Mapped the Family Tree of 11,000+ Bird Species—And You Can Explore It",
+      "link": "https://www.birds.cornell.edu/home/scientists-map-interactive-avian-tree-of-life/",
+      "summary": "The new illustrated Birds of the World Phylogeny Explorer by the Cornell Lab of Ornithology lets users trace any bird's lineage, compare species relationships, and explore major ev",
+      "date": "2026-01-28T14:39:09Z",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-06-06T16:13:21Z"
+    },
     {
       "title": "ISS leak: Astronauts briefly shelter as leak worsens",
       "link": "https://earthsky.org/space/iss-leak-astronauts-briefly-shelter-updates/",
@@ -5486,17 +5497,6 @@
       "link": "https://www.birds.cornell.edu/home/forecasting-impacts-of-fire-on-birds/",
       "summary": "Where will severe fires threaten the most birds in the future? New research identifies where future high-severity fires threaten biodiversity hotspots in the western United States",
       "date": "2026-02-18T18:17:27Z",
-      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-05-30T14:43:54Z"
-    },
-    {
-      "title": "Photometrics AI Integrates Data from Bird Migration Forecasts to Automatically Dim Streetlights to Protect Birds",
-      "link": "https://www.birds.cornell.edu/home/photometrics-ai-uses-bird-data-to-adjust-streetlights/",
-      "summary": "New lighting system uses BirdCast data to enable real-time lighting adjustments during peak migration periods to reduce bird collisions with buildings.",
-      "date": "Tue, 10 Feb 2026 19Z",
       "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
       "name": "Cornell",
       "category": "insects",
