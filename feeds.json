@@ -1,8 +1,41 @@
 {
-  "updated": "2026-06-06T16:13:22Z",
-  "updated_utc": "2026-06-06T16:13:22Z",
+  "updated": "2026-06-06T18:14:07Z",
+  "updated_utc": "2026-06-06T18:14:07Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Sweet basil carbon dots show potential for sustainable agriculture",
+      "link": "https://phys.org/news/2026-06-sweet-basil-carbon-dots-potential.html",
+      "summary": "What if a common herb found in the kitchen could help farmers grow healthier crops? As the global population grows and agriculture faces increasing environmental challenges, scient",
+      "date": "2026-06-06T16:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/carbon-dots-from-culin.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-06T18:14:03Z"
+    },
+    {
+      "title": "Stupid hot: Heat waves cause cognitive changes in animals, making them more aggressive and unable to complete basic tasks",
+      "link": "https://www.livescience.com/animals/stupid-hot-heat-waves-cause-cognitive-changes-in-animals-making-them-more-aggressive-and-unable-to-complete-basic-tasks",
+      "summary": "As temperatures rise, some creatures pick fights while others struggle to learn. The consequences of these behavioral changes may ripple through ecosystems.",
+      "date": "2026-06-06T17:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/5NYVphhtq98kvfktAypFDo-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-06T18:14:04Z"
+    },
+    {
+      "title": "Photometrics AI Integrates Data from Bird Migration Forecasts to Automatically Dim Streetlights to Protect Birds",
+      "link": "https://www.birds.cornell.edu/home/photometrics-ai-uses-bird-data-to-adjust-streetlights/",
+      "summary": "New lighting system uses BirdCast data to enable real-time lighting adjustments during peak migration periods to reduce bird collisions with buildings.",
+      "date": "Tue, 10 Feb 2026 19Z",
+      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
+      "name": "Cornell",
+      "category": "insects",
+      "color": 15,
+      "fetched_at": "2026-06-06T18:14:06Z"
+    },
     {
       "title": "Scientists Just Mapped the Family Tree of 11,000+ Bird Species—And You Can Explore It",
       "link": "https://www.birds.cornell.edu/home/scientists-map-interactive-avian-tree-of-life/",
@@ -5465,39 +5498,6 @@
       "summary": "",
       "date": "Tue, 24 Mar 2026 13Z",
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Firefly_in_the_night.jpg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-05-30T14:43:54Z"
-    },
-    {
-      "title": "Study reveals new technique to identify individual night-flying birds for the first time",
-      "link": "https://www.birds.cornell.edu/home/new-tech-to-id-night-migrating-birds/",
-      "summary": "Using thermal imaging and digital photography, researchers can now spot and identify birds that migrate silently through the night sky—a method that could reveal new insights into ",
-      "date": "2026-03-06T15:33:00Z",
-      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-05-30T14:43:54Z"
-    },
-    {
-      "title": "Academic Books, Book Chapters And Papers In Conference Proceedings",
-      "link": "https://www.birds.cornell.edu/home/academic-books-book-chapters-and-papers-in-conference-proceedings/",
-      "summary": "Books Dhondt AA. 2012. Interspecific competition in birds. Oxford University Press. Clobert J, E Danchin, AA Dhondt, and J Nichols (eds). 2001. Dispersal. Oxford University Press. ",
-      "date": "Thu, 19 Feb 2026 16Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Chrysopa_perla_2.jpg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-05-30T14:43:54Z"
-    },
-    {
-      "title": "New Research Forecasts the Impacts of Fire on Birds",
-      "link": "https://www.birds.cornell.edu/home/forecasting-impacts-of-fire-on-birds/",
-      "summary": "Where will severe fires threaten the most birds in the future? New research identifies where future high-severity fires threaten biodiversity hotspots in the western United States",
-      "date": "2026-02-18T18:17:27Z",
-      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
       "name": "Cornell",
       "category": "insects",
       "color": 15,
