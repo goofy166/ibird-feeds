@@ -1,8 +1,30 @@
 {
-  "updated": "2026-06-07T14:10:32Z",
-  "updated_utc": "2026-06-07T14:10:32Z",
+  "updated": "2026-06-07T16:23:48Z",
+  "updated_utc": "2026-06-07T16:23:48Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The fight to save Australia’s ‘incredibly captivating’ endangered spiny crayfish",
+      "link": "https://www.theguardian.com/environment/2026/jun/08/australia-endangered-spiny-crayfish-protection",
+      "summary": "Global heating is destroying creeks the crayfish call home. They’re the canary in the coalmine for other species living in the delicate ecosystems Get our breaking news email , fre",
+      "date": "2026-06-07T15:00:03Z",
+      "image": "https://i.guim.co.uk/img/media/3f4b5164366fb7eaef4d1ba0d9e48bf3f96a4b2b/376_0_4172_3337/master/4172.jpg?width=140&quality=85&auto=format&fit=max&s=ebcbfc0bb51d8a5040a112d49fe52399",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-07T16:23:32Z"
+    },
+    {
+      "title": "AI cameras scan San Francisco Bay to help protect whales from deadly ship strikes",
+      "link": "https://www.mercurynews.com/2026/05/22/scientists-install-ai-powered-tech-in-san-francisco-bay-to-detect-gray-whales-reroute-boats/",
+      "summary": "The technology aims to mitigate deaths caused by boat strikes, which contributed to 40% of gray whales deaths in the bay last year.",
+      "date": "2026-05-22T11:15:14Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/05/SJM-L-WHALES-05XX-4.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-06-07T16:23:37Z"
+    },
     {
       "title": "Terahertz biophotonics: Understanding the path towards practical applications for biological imaging",
       "link": "https://phys.org/news/2026-06-terahertz-biophotonics-path-applications-biological.html",
@@ -5476,28 +5498,6 @@
       "summary": "Scientists say it’s unlikely aliens visit Earth anytime soon, because interstellar travel faces huge barriers of distance, energy and time. The post Could aliens visit Earth? Here ",
       "date": "2026-05-31T12:00:06Z",
       "image": "https://earthsky.org/upl/2026/05/alien-pointing-finger-shutterstock-scaled-e1780075341698.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-05-31T14:02:19Z"
-    },
-    {
-      "title": "Deneb is an incredibly distant star. But how do we know?",
-      "link": "https://earthsky.org/tonight/deneb-how-do-astronomers-know-distances-to-stars/",
-      "summary": "The star Deneb - part of the Summer Triangle - is one of the most distant stars you can see with your eye alone. But why don't we know its distance precisely? The post Deneb is an ",
-      "date": "2026-05-31T11:30:01Z",
-      "image": "https://earthsky.org/upl/2022/05/hertzsprung-russel-diagram-ESO-e1653404707357.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-05-31T14:02:19Z"
-    },
-    {
-      "title": "How cities can change the weather during storms",
-      "link": "https://earthsky.org/earth/how-cities-can-change-the-weather-storms-flooding/",
-      "summary": "Researchers looked at 22 years of data to discover how cities can change the weather. Certain storms intensify over cities, leading to more urban flooding. The post How cities can ",
-      "date": "2026-05-31T11:23:01Z",
-      "image": "https://earthsky.org/upl/2026/05/storm-NYC-Alexander-Krivenyshev-July-14-2023-e1779892012900.jpg",
       "name": "EarthSky",
       "category": "wildlife",
       "color": 6,
