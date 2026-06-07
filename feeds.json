@@ -1,8 +1,41 @@
 {
-  "updated": "2026-06-07T05:44:37Z",
-  "updated_utc": "2026-06-07T05:44:37Z",
+  "updated": "2026-06-07T09:27:53Z",
+  "updated_utc": "2026-06-07T09:27:53Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Tax-break trees: how woodland became a store of wealth for the rich",
+      "link": "https://www.theguardian.com/business/2026/jun/07/butterfly-blocking-tax-break-tree-scheme-wealthy-investors",
+      "summary": "Attempt to turn a stretch of the English-Scottish border into a commercial forest exposes threat to habitats from wealthy investors On the English-Scottish border a small species o",
+      "date": "2026-06-07T09:00:29Z",
+      "image": "https://i.guim.co.uk/img/media/0cd73d0c3554bdc625edc6d8aa4b1a1e6ba5cb6d/26_23_4464_3574/master/4464.jpg?width=140&quality=85&auto=format&fit=max&s=688192a76db5f00e09b8821fb0e950e0",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-07T09:27:38Z"
+    },
+    {
+      "title": "Fisher with a mission: first woman to chair Grayling Society wants to protect ‘lady of the stream’",
+      "link": "https://www.theguardian.com/environment/2026/jun/07/fisher-mission-first-woman-chair-grayling-society-protect-rivers",
+      "summary": "Marnie Lovejoy hopes to inspire other women to fish, protect England’s rivers and lift up the ‘beautiful’ grayling With its iridescent pink scales and elegant dorsal fin, the grayl",
+      "date": "2026-06-07T07:00:27Z",
+      "image": "https://i.guim.co.uk/img/media/2b394515acf4d89bc960e1560e43b2e96c9fcadc/466_1_3334_2669/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=addf1ec8bf5d7098472ea9bd8fd2a495",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-07T09:27:38Z"
+    },
+    {
+      "title": "What's the deepest cave in the world?",
+      "link": "https://www.livescience.com/planet-earth/whats-the-deepest-cave-in-the-world",
+      "summary": "There are two contenders for the world's deepest cave, and they're in the same mountain range.",
+      "date": "2026-06-07T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/CBDeCqXt6iyQUj3JmzMtFB-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-07T09:27:50Z"
+    },
     {
       "title": "Medieval pandemic left a hidden legacy in Europe's oldest trees",
       "link": "https://phys.org/news/2026-06-medieval-pandemic-left-hidden-legacy.html",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-05-31T11:05:06Z"
-    },
-    {
-      "title": "Can a single season have only 2 full moons?",
-      "link": "https://earthsky.org/astronomy-essentials/blue-moon-seasonal-definition-possible-2-full-moons-one-season/",
-      "summary": "We know it's possible to squeeze 4 full moons into a single season. But can a season have just 2 full moons? Turns out it can, but it is rare. The post Can a single season have onl",
-      "date": "2026-05-31T10:04:32Z",
-      "image": "https://earthsky.org/upl/2025/12/December-4-2025-Supermoon-Stephane-Picard-Canada-e1764942472819.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-05-31T11:05:06Z"
-    },
-    {
-      "title": "'Astonishing': James Webb telescope spots the most chemically primitive galaxy in the ancient universe",
-      "link": "https://www.livescience.com/space/astronomy/astonishing-james-webb-telescope-spots-the-most-chemically-primitive-galaxy-in-the-ancient-universe",
-      "summary": "The James Webb telescope peered into an ancient spot of light, and found it to be the most metal-poor galaxy in the early universe.",
-      "date": "2026-05-31T11:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/7p3PnGmVvHTQJAPepQL2jZ-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-31T11:05:17Z"
-    },
-    {
-      "title": "Astronomers gaze into the 'Crystal Ball Nebula' and see a vision of our dying sun — Space photo of the week",
-      "link": "https://www.livescience.com/space/astronomers-gaze-into-the-crystal-ball-nebula-and-see-a-vision-of-our-dying-sun-space-photo-of-the-week",
-      "summary": "The Crystal Ball Nebula has captivated astronomers for more than 200 years, and it offers a bittersweet glimpse of a dying star system similar to our own.",
-      "date": "2026-05-31T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/iGwsykdWHMEi48ms4f62Bg-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-05-31T11:05:17Z"
     }
   ]
 }
