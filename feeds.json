@@ -1,8 +1,41 @@
 {
-  "updated": "2026-06-07T11:55:30Z",
-  "updated_utc": "2026-06-07T11:55:30Z",
+  "updated": "2026-06-07T14:10:32Z",
+  "updated_utc": "2026-06-07T14:10:32Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Terahertz biophotonics: Understanding the path towards practical applications for biological imaging",
+      "link": "https://phys.org/news/2026-06-terahertz-biophotonics-path-applications-biological.html",
+      "summary": "Biophotonics is a multidisciplinary field that involves the development and application of light-based technologies to study, monitor and treat biological systems. The ability to d",
+      "date": "2026-06-07T13:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/terahertz-biophotonics.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-07T14:10:28Z"
+    },
+    {
+      "title": "AI could consume up 3% of world's electricity the UN warns",
+      "link": "https://www.livescience.com/technology/artificial-intelligence/ai-could-consume-up-3-percent-of-worlds-electricity-the-un-warns",
+      "summary": "AI could soon use more water than we need to drink, UN report finds.",
+      "date": "2026-06-07T14:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/VHk33oq7hRGDqxHMYHVvjR-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-07T14:10:30Z"
+    },
+    {
+      "title": "'Crystals' of space-time could be the origins of certain rare black holes, theoretical study hints",
+      "link": "https://www.livescience.com/space/black-holes/crystals-of-space-time-could-be-the-origins-of-certain-rare-black-holes-theoretical-study-hints",
+      "summary": "By taking general relativity into higher dimensions, a trio of physicists has proven that a mathematical pattern of ripples in space-time geometry could give rise to naked singular",
+      "date": "2026-06-07T13:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/mTA8ccv4s43eJRxWbGSDeS-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-07T14:10:30Z"
+    },
     {
       "title": "Birding Brochure English, Part 12: Connect with.",
       "link": "https://www.10000birds.com/birding-brochure-english-part-12-connect-with.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-brochure-english-part-12-connect-with",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-05-31T14:02:19Z"
-    },
-    {
-      "title": "AI cameras scan San Francisco Bay to help protect whales from deadly ship strikes",
-      "link": "https://www.mercurynews.com/2026/05/22/scientists-install-ai-powered-tech-in-san-francisco-bay-to-detect-gray-whales-reroute-boats/",
-      "summary": "The technology aims to mitigate deaths caused by boat strikes, which contributed to 40% of gray whales deaths in the bay last year.",
-      "date": "2026-05-22T11:15:14Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/05/SJM-L-WHALES-05XX-4.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-05-31T14:02:22Z"
-    },
-    {
-      "title": "A new pancreatic cancer pill may be a game changer for patients",
-      "link": "https://www.sciencenews.org/article/pancreatic-cancer-pill-daraxonrasib",
-      "summary": "Daraxonrasib, which nearly doubled patients' survival time, fights the disease in a new way. It bear-hugs a cancer protein that drives cell growth.",
-      "date": "2026-05-31T12:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/052926_MR_pancreaticcancer_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-05-31T14:02:27Z"
-    },
-    {
-      "title": "Why many fungicide-treated soybean seeds may boost harvests but not farm profits",
-      "link": "https://phys.org/news/2026-05-fungicide-soybean-seeds-boost-harvests.html",
-      "summary": "Many soybean farmers use seeds treated with fungicides to ward off disease, but the profits from these increased yields might not offset the cost of the treatment in most cases, ac",
-      "date": "2026-05-31T14:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/soybean.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-31T14:02:29Z"
     }
   ]
 }
