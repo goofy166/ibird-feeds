@@ -1,8 +1,19 @@
 {
-  "updated": "2026-06-07T16:23:48Z",
-  "updated_utc": "2026-06-07T16:23:48Z",
+  "updated": "2026-06-07T18:11:07Z",
+  "updated_utc": "2026-06-07T18:11:07Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Epigenetic changes can be inherited without changing DNA in animals",
+      "link": "https://phys.org/news/2026-06-epigenetic-inherited-dna-animals.html",
+      "summary": "Typically, the information encoded in DNA allows organisms to develop, function, and pass traits across generations. Yet DNA alone does not explain how genes are switched on and of",
+      "date": "2026-06-07T17:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/epigenetic-changes-can.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-07T18:11:04Z"
+    },
     {
       "title": "The fight to save Australia’s ‘incredibly captivating’ endangered spiny crayfish",
       "link": "https://www.theguardian.com/environment/2026/jun/08/australia-endangered-spiny-crayfish-protection",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-05-31T16:18:23Z"
-    },
-    {
-      "title": "Could aliens visit Earth? Here are some challenges",
-      "link": "https://earthsky.org/space/could-aliens-visit-earth-challenges-of-interstellar-spaceflight/",
-      "summary": "Scientists say it’s unlikely aliens visit Earth anytime soon, because interstellar travel faces huge barriers of distance, energy and time. The post Could aliens visit Earth? Here ",
-      "date": "2026-05-31T12:00:06Z",
-      "image": "https://earthsky.org/upl/2026/05/alien-pointing-finger-shutterstock-scaled-e1780075341698.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-05-31T14:02:19Z"
     }
   ]
 }
