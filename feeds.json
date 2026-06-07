@@ -1,8 +1,30 @@
 {
-  "updated": "2026-06-07T20:19:24Z",
-  "updated_utc": "2026-06-07T20:19:24Z",
+  "updated": "2026-06-07T22:11:54Z",
+  "updated_utc": "2026-06-07T22:11:54Z",
   "count": 500,
   "stories": [
+    {
+      "title": "'All-in-one' platform developed for multiple trait stacking in crops",
+      "link": "https://phys.org/news/2026-06-platform-multiple-trait-stacking-crops.html",
+      "summary": "A major goal of modern crop breeding is to efficiently combine multiple desirable traits by \"stacking\" the favorable gene variants (alleles) that contribute to those traits in a si",
+      "date": "2026-06-07T22:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/all-in-one-platform-de.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-07T22:11:50Z"
+    },
+    {
+      "title": "How gene swapping helped build the planet's decomposers",
+      "link": "https://phys.org/news/2026-06-gene-swapping-planet-decomposers.html",
+      "summary": "Decomposers are crucial for keeping Earth habitable, breaking down dead biomass and returning key nutrients, such as carbon, nitrogen and phosphorus, to the ecosystem. Most decompo",
+      "date": "2026-06-07T20:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wood-fungus.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-07T22:11:50Z"
+    },
     {
       "title": "Continuous stirring made early life-like RNA systems more extinction-prone, experiment shows",
       "link": "https://phys.org/news/2026-06-early-life-rna-extinction-prone.html",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-05-31T20:17:37Z"
-    },
-    {
-      "title": "Wildlife-filled childhoods have been lost | Letters",
-      "link": "https://www.theguardian.com/environment/2026/may/31/born-in-1949-my-wildlife-filled-childhood-is-now-lost",
-      "summary": "As a child born in 1949, I watched hedgehogs, foxes, rabbits, hares, butterflies and weasels, writes Anne Geraghty . I feel privileged but unutterably sad that this has gone Amy-Ja",
-      "date": "2026-05-31T16:36:10Z",
-      "image": "https://i.guim.co.uk/img/media/62b3da8f6335e202971dec3754c5aba9c0adac98/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=2e93dafdd6b4e1423f32bb9a8b7a1c3a",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-05-31T18:08:58Z"
-    },
-    {
-      "title": "Central Africa's wild meat dilemma: Why outright bans threaten food security for millions",
-      "link": "https://phys.org/news/2026-05-central-africa-wild-meat-dilemma.html",
-      "summary": "Millions of people in central Africa rely on wild meat for their nutrition, especially in rural areas around the Congo rainforest, the second largest tropical rainforest in the wor",
-      "date": "2026-05-31T14:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wild-meat.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-31T16:18:22Z"
     }
   ]
 }
