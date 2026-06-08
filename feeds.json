@@ -1,8 +1,63 @@
 {
-  "updated": "2026-06-08T00:17:36Z",
-  "updated_utc": "2026-06-08T00:17:36Z",
+  "updated": "2026-06-08T05:59:12Z",
+  "updated_utc": "2026-06-08T05:59:12Z",
   "count": 500,
   "stories": [
+    {
+      "title": "An Emotional Encounter with the Celestial Monarch",
+      "link": "https://www.10000birds.com/an-emotional-encounter-with-the-celestial-monarch.htm?utm_source=rss&utm_medium=rss&utm_campaign=an-emotional-encounter-with-the-celestial-monarch",
+      "summary": "By Matthew Kwan Matthew Kwan is a birder, bird guide, and wildlife photographer based in Hong Kong. He has been writing a birding blog ‘As the Crow Flies’ about birding in Hong Kon",
+      "date": "2026-06-08T05:21:33Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/06/Celestial-Monarch-1.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-06-08T05:58:51Z"
+    },
+    {
+      "title": "Belgrade area – Profile for Birders",
+      "link": "https://www.10000birds.com/belgrade-area-profile-for-birders.htm?utm_source=rss&utm_medium=rss&utm_campaign=belgrade-area-profile-for-birders",
+      "summary": "Highlights The number of bird species recorded in Serbia is 375+, with about 240 of them breeding in the country. At the moment, Serbia has 4 eBird hotspots with 200+ and 35 with m",
+      "date": "2026-06-08T05:21:10Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/06/Screenshot-407.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-06-08T05:58:51Z"
+    },
+    {
+      "title": "Japanese city shuts down nearly 100 schools after unprecedented bear sighting",
+      "link": "https://www.theguardian.com/world/2026/jun/08/utsunomiya-city-japan-bear-sighting-all-primary-secondary-schools-shut",
+      "summary": "Police and hunters in Utsunomiya, 100km north of the capital, resume their search for animal that is not usually seen so close to Tokyo A city in Japan has closed all its 94 primar",
+      "date": "2026-06-08T05:56:19Z",
+      "image": "https://i.guim.co.uk/img/media/e219265e5d50b76d4823e310589060ef1f31be53/277_0_2747_2198/master/2747.jpg?width=140&quality=85&auto=format&fit=max&s=addf7921af830ff173d1f5d5a8ddad5d",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-08T05:58:57Z"
+    },
+    {
+      "title": "Country diary 1951: A drowsy heat haze hangs over the fells",
+      "link": "https://www.theguardian.com/environment/2026/jun/08/country-diary-1951-a-drowsy-heat-haze-hangs-over-the-fells",
+      "summary": "11 June 1951 : The sheep look listless as they crop the drying grass, while dairy cows stand in the shade or wade belly deep in the lakes WESTMORLAND: High summer has come to the L",
+      "date": "2026-06-08T05:00:20Z",
+      "image": "https://i.guim.co.uk/img/media/db998df0f5a5e96509dc254642889f48102cebb5/720_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=bf774ef7e32ba310a5bb537a8d9588f5",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-08T05:58:57Z"
+    },
+    {
+      "title": "Solar panels on rewetted peatland could be a climate and nature win–win",
+      "link": "https://phys.org/news/2026-06-solar-panels-rewetted-peatland-climate.html",
+      "summary": "Researchers in Germany have found that solar panels on rewetted peatland provide a unique habitat for bird species along with generating green energy and potentially locking up car",
+      "date": "2026-06-08T04:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/solar-panels-on-rewett-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-08T05:59:09Z"
+    },
     {
       "title": "AI spots smuggled seahorses, shark fins and sea cucumbers with 92% accuracy",
       "link": "https://phys.org/news/2026-06-ai-smuggled-seahorses-shark-fins.html",
@@ -5447,61 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-06-01T06:10:11Z"
-    },
-    {
-      "title": "Biopolymer-based hydrogel formulations for improved seed coating performance",
-      "link": "https://phys.org/news/2026-05-biopolymer-based-hydrogel-seed-coating.html",
-      "summary": "As climate change, soil degradation, and water scarcity place growing pressure on agriculture, scientists are looking for new ways to help crops germinate and grow more efficiently",
-      "date": "2026-06-01T00:30:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/biopolymer-based-hydro.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-01T06:10:22Z"
-    },
-    {
-      "title": "Parasitic fly 'sacrifices sight' after finding host, study shows",
-      "link": "https://phys.org/news/2026-05-parasitic-fly-sacrifices-sight-host.html",
-      "summary": "Deer keds—biting flies found across Europe, Asia, Africa and the Americas—use their eyes and flight to locate a host, typically deer, but occasionally humans or other mammals. Once",
-      "date": "2026-05-31T23:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/parasitic-fly-sacrific.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-01T00:11:40Z"
-    },
-    {
-      "title": "Report: Facebook is main tool for criminals selling endangered wild animals",
-      "link": "https://www.mercurynews.com/2026/05/07/facebookfacebook-criminals-selling-endangered-wild-animals-wildlife-illegal-trade/",
-      "summary": "Report cites 'loss of irreplaceable species such as elephants for their ivory, rhinos for their horns, pangolins for their scales, and countless parrots, primates, small mammals an",
-      "date": "Thu, 07 May 2026 22Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/05/SJM-L-FACEWILD-0508-01.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-05-31T22:06:48Z"
-    },
-    {
-      "title": "Korean and French Culture Are Set to Rendezvous at a New Museum in Seoul for Modern and Contemporary Art",
-      "link": "https://www.smithsonianmag.com/smart-news/korean-and-french-culture-are-set-to-rendezvous-at-a-new-museum-in-seoul-for-modern-and-contemporary-art-180988864/",
-      "summary": "The Centre Pompidou Hanwha, the newest member of a growing global network of art museums, will debut with an exhibition on European cubism and Korean art",
-      "date": "2026-05-31T19:01:41Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/99McKVNTk_TGbI0iY2gwWyIZEW4=/420x240/filters:focal(1030x687:1031x688)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/40/75/40750f3b-8816-4928-b63c-3a880a6b2265/arch-highlight-2.webp",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-05-31T20:17:33Z"
-    },
-    {
-      "title": "Bacteria uncover distinct strategy to import rare sugar polymers, crystal structures show",
-      "link": "https://phys.org/news/2026-05-bacteria-uncover-distinct-strategy-import.html",
-      "summary": "Even though sugars are often framed as simple sources of energy, they also serve as structurally complex and functionally diverse molecules that mediate interactions between organi",
-      "date": "2026-05-31T20:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/recent-study-reveals-h.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-31T20:17:37Z"
     }
   ]
 }
