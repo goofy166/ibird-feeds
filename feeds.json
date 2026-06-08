@@ -1,8 +1,19 @@
 {
-  "updated": "2026-06-07T22:11:54Z",
-  "updated_utc": "2026-06-07T22:11:54Z",
+  "updated": "2026-06-08T00:17:36Z",
+  "updated_utc": "2026-06-08T00:17:36Z",
   "count": 500,
   "stories": [
+    {
+      "title": "AI spots smuggled seahorses, shark fins and sea cucumbers with 92% accuracy",
+      "link": "https://phys.org/news/2026-06-ai-smuggled-seahorses-shark-fins.html",
+      "summary": "When we think of wildlife trafficking, we might think of rhino horns or baby orangutans sold as pets—but the smuggling of sea creatures, a less well-known crime, is just as damagin",
+      "date": "2026-06-07T23:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/finding-nemo-ai-tech-c.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-08T00:17:32Z"
+    },
     {
       "title": "'All-in-one' platform developed for multiple trait stacking in crops",
       "link": "https://phys.org/news/2026-06-platform-multiple-trait-stacking-crops.html",
@@ -5487,17 +5498,6 @@
       "summary": "Even though sugars are often framed as simple sources of energy, they also serve as structurally complex and functionally diverse molecules that mediate interactions between organi",
       "date": "2026-05-31T20:00:03Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/recent-study-reveals-h.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-05-31T20:17:37Z"
-    },
-    {
-      "title": "Leaf forces help steer stomata as young plants grow, experiments reveal",
-      "link": "https://phys.org/news/2026-05-leaf-stomata-young-reveal.html",
-      "summary": "Scientists have uncovered how the interplay between cell shape and mechanical stress influences the orientation of stomata (microscopic pores on the leaf surface) during early plan",
-      "date": "2026-05-31T19:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mechanical-forces-and.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
