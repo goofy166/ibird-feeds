@@ -1,8 +1,162 @@
 {
-  "updated": "2026-06-09T19:22:57Z",
-  "updated_utc": "2026-06-09T19:22:57Z",
+  "updated": "2026-06-09T21:54:19Z",
+  "updated_utc": "2026-06-09T21:54:19Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Voters approve new parcel tax for open space in Santa Clara County",
+      "link": "https://www.mercurynews.com/2026/06/09/voters-approve-new-parcel-tax-for-open-space-in-santa-clara-county/",
+      "summary": "Measure D to raise $17 million a year for Open Space Authority; other environmental measures also pass",
+      "date": "Tue, 09 Jun 2026 20Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2023/10/SJM-L-GREEN-1011-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-06-09T21:54:09Z"
+    },
+    {
+      "title": "Lewis and Clark’s Dog Helped Usher In a New Era of Pet Ownership",
+      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/lewis-and-clark-seaman/",
+      "summary": "A new book on the famed expedition sheds light on the Newfoundland who accompanied the two explorers on their transcontinental journey The post Lewis and Clark’s Dog Helped Usher I",
+      "date": "Tue, 09 Jun 2026 20Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/Seaman1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-06-09T21:54:11Z"
+    },
+    {
+      "title": "How Brooks and The North Face Design With Elite Athletes to Build Better Gear",
+      "link": "https://www.outsideonline.com/outdoor-gear/built-better-carson-caprara/",
+      "summary": "Brooks product chief Carson Caprara recaps the Built Better panel at the Outside Days Industry Conference, explaining how feedback from elite athletes shapes the footwear available",
+      "date": "Tue, 09 Jun 2026 20Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/outside-built-better-panel-featured.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-06-09T21:54:11Z"
+    },
+    {
+      "title": "Is This Hiking?",
+      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/is-this-hiking/",
+      "summary": "Enough with plodding along a trail—time to put the wild back into hiking The post Is This Hiking? appeared first on Outside Online .",
+      "date": "Tue, 09 Jun 2026 19Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/TNF_SS26_Hike_Wind_InSitu_Wong_0279-scaled-e1780345965528.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-06-09T21:54:11Z"
+    },
+    {
+      "title": "Time to Reinvent Hiking",
+      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/time-to-reinvent-hiking/",
+      "summary": "Climb, play, float. Because there’s so much more to being outside than just putting one foot in front of the other. The post Time to Reinvent Hiking appeared first on Outside Onlin",
+      "date": "Tue, 09 Jun 2026 19Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/TNF_SS26_Hike_Wind_InSitu_Wong_0229-scaled-e1780344569100.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-06-09T21:54:11Z"
+    },
+    {
+      "title": "NASA Announces the Crew of Artemis 3, Four Astronauts Who Will 'Take Calculated Risks' in Low-Earth Orbit and Pave the Way for a Future Moon Landing",
+      "link": "https://www.smithsonianmag.com/smart-news/nasa-announces-the-crew-of-artemis-3-four-astronauts-who-will-take-calculated-risks-in-low-earth-orbit-and-pave-the-way-for-a-future-moon-landing-180988920/",
+      "summary": "The mission, expected to launch next year, will practice meeting and docking with lunar landers developed by SpaceX and Blue Origin",
+      "date": "Tue, 09 Jun 2026 20Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/tIZD-r6WumV5bVUCXKr0sh5Q2CU=/420x240/filters:focal(1905x1270:1906x1271)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/39/ba/39ba869c-5248-457c-9faf-ba882264fd25/gettyimages-2280120360.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-06-09T21:54:12Z"
+    },
+    {
+      "title": "This Rare, Intricate Brooch Represents the Roman Empire's Long, Disjointed Attempt to Conquer Scotland",
+      "link": "https://www.smithsonianmag.com/smart-news/this-rare-intricate-brooch-represents-the-roman-empires-long-disjointed-attempt-to-conquer-scotland-180988923/",
+      "summary": "The \"miniature masterpiece\" will go on display during an upcoming exhibition focused on the legacy Rome left in the highlands the empire dubbed Caledonia",
+      "date": "Tue, 09 Jun 2026 19Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/gTguyJ-UgpsdGlHK-W6xFaQPxlQ=/420x240/filters:focal(2290x1527:2291x1528)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/af/6d/af6da7db-7d7d-4fd2-ae59-3995ae59feb9/roman_brooch_discovered_near_pathhead_image__national_museums_scotland_3.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-06-09T21:54:12Z"
+    },
+    {
+      "title": "New warning system forecasts wildlife heat risk up to nine months ahead",
+      "link": "https://phys.org/news/2026-06-wildlife-months.html",
+      "summary": "An international group of scientists led by Josep M. Serra-Diaz, researcher at the Botanical Institute of Barcelona (IBB, CSIC-MCNB), has developed the first global early warning s",
+      "date": "2026-06-09T21:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-global-early-warni.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-09T21:54:16Z"
+    },
+    {
+      "title": "Breaking tunnel vision, imaging AI lifts fluorescence image restoration accuracy and speed",
+      "link": "https://phys.org/news/2026-06-tunnel-vision-imaging-ai-fluorescence.html",
+      "summary": "Recent years have witnessed great advances in applying deep learning to improve fluorescence microscopy imaging. However, enhancing the fidelity of image restoration networks and i",
+      "date": "2026-06-09T21:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lab-develops-a-generic.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-09T21:54:16Z"
+    },
+    {
+      "title": "Nature's 'master painters': Study reveals how damselflies break optical barriers to create saturated colors",
+      "link": "https://phys.org/news/2026-06-nature-master-painters-reveals-damselflies.html",
+      "summary": "Scientists at Ben-Gurion University of the Negev (BGU) have uncovered for the first time the \"ingenious\" biological strategies that allow blue-tailed damselflies to produce strikin",
+      "date": "2026-06-09T21:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/natures-master-painter-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-09T21:54:16Z"
+    },
+    {
+      "title": "Scientists uncover RNA's hidden role as protein chaperone",
+      "link": "https://phys.org/news/2026-06-scientists-uncover-rna-hidden-role.html",
+      "summary": "Proteins are how cells get work done. They carry out nearly every important cellular task, from ferrying messages to controlling which genes are turned on or off. And in order for ",
+      "date": "2026-06-09T20:40:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-uncover-rna.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-09T21:54:16Z"
+    },
+    {
+      "title": "eDNA metabarcoding evaluated for fish diversity assessment",
+      "link": "https://phys.org/news/2026-06-edna-metabarcoding-fish-diversity.html",
+      "summary": "Environmental DNA (eDNA) metabarcoding has emerged as a powerful tool for monitoring aquatic biodiversity, enabling researchers to identify fish species from traces of DNA found in",
+      "date": "2026-06-09T20:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/incheon-national-unive-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-09T21:54:16Z"
+    },
+    {
+      "title": "Zoned tourist vessel routes could curb invasive marine pests across Galápagos Islands",
+      "link": "https://phys.org/news/2026-06-zoned-tourist-vessel-routes-curb.html",
+      "summary": "New research from Edith Cowan University (ECU) has identified a smarter, more effective way to protect fragile marine ecosystems from invasive species—an approach with global relev",
+      "date": "2026-06-09T20:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-simple-fix-for-a-gro-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-09T21:54:16Z"
+    },
+    {
+      "title": "Wild bird eggs reveal pollutants' environmental footprints",
+      "link": "https://phys.org/news/2026-06-wild-bird-eggs-reveal-pollutants.html",
+      "summary": "Monitoring the eggs of wild birds like the bearded vulture and the imperial eagle over a decade reveals the accumulation and persistence of environmental pollutants in ecosystems. ",
+      "date": "2026-06-09T20:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bearded-vulture.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-09T21:54:16Z"
+    },
     {
       "title": "Sun news: Sun-stuff arrives, but disturbance only mild",
       "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
@@ -5348,160 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-06-02T23:54:02Z"
-    },
-    {
-      "title": "Tiny nest box change could help rare pygmy-possums after bushfires",
-      "link": "https://phys.org/news/2026-06-tiny-rare-pygmy-possums-bushfires.html",
-      "summary": "A 1-millimeter difference in the size of a nest box entrance could help rare little pygmy-possums recover after bushfire, according to new research by Adelaide University, Kangaroo",
-      "date": "2026-06-02T22:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-nest-box-change-c.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-02T23:54:02Z"
-    },
-    {
-      "title": "10 Things You Can Do to Help Birds",
-      "link": "https://birdwatchinghq.com/how-to-help-birds/",
-      "summary": "Let me give you a staggering and sobering number: Since 1970, 2.9 billion birds have disappeared from North America. Yes, you read that correctly. Almost 25% of the total number of",
-      "date": "2025-10-18T17:47:14Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/red_winged_blackbirds_declining.jpg",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-06-02T21:54:07Z"
-    },
-    {
-      "title": "Scarlet Tanager Species Spotlight: 10 Interesting Facts!",
-      "link": "https://birdwatchinghq.com/scarlet-tanager-interesting-facts/",
-      "summary": "Today, I want to introduce you to the Scarlet Tanager. Many people find it surprising that these BEAUTIFUL birds spend their summers breeding in North America. Once the weather sta",
-      "date": "2025-10-17T17:43:57Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/male_scarlet_tanager_2.jpg",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-06-02T21:54:07Z"
-    },
-    {
-      "title": "Gray Catbird Species Spotlight: 10 Interesting Facts!",
-      "link": "https://birdwatchinghq.com/gray-catbird-interesting-facts/",
-      "summary": "If you’ve ever heard a bird meow or seen a flash of sleek gray darting through a thicket, you might have seen the Gray Catbird. Equal parts mysterious and entertaining, these feath",
-      "date": "Thu, 16 Oct 2025 17Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/gray_catbird_1-1.jpg",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-06-02T21:54:07Z"
-    },
-    {
-      "title": "15 Birds You’re Helping Protect by Drinking Shade-Grown Coffee",
-      "link": "https://birdwatchinghq.com/birds-that-benefit-from-shade-grown-coffee-farms/",
-      "summary": "Shade-grown coffee farms are a lifeline for birds that depend on forest-like environments to survive. These farms preserve canopy cover, native trees, and layered vegetation, which",
-      "date": "2025-10-15T17:37:00Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/male_scarlet_tanager_2.jpg",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-06-02T21:54:07Z"
-    },
-    {
-      "title": "17 FUN Facts About Hummingbirds! (that will make you hum)",
-      "link": "https://birdwatchinghq.com/facts-about-hummingbirds/",
-      "summary": "Are you ready to learn some amazing facts about hummingbirds? Seriously, these tiny birds are some of the most interesting creatures in the world. And today, I’m listing some of th",
-      "date": "2025-07-20T13:35:58Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2022/05/hummingbird-facts-intro.png",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-06-02T21:54:07Z"
-    },
-    {
-      "title": "28 Common ANTS in North America! (2026)",
-      "link": "https://birdwatchinghq.com/ants-in-north-america/",
-      "summary": "There are hundreds of ant species that live in North America! Trying to list them all would be impossible. 🙂 Below are the most common and abundant types of ants, which are part of",
-      "date": "Thu, 13 Jun 2024 14Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2024/05/Dark-Rover-Ant-Brachymyrmex-patagonicus.png",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-06-02T21:54:07Z"
-    },
-    {
-      "title": "27 Grasshopper Species in North America! (2026)",
-      "link": "https://birdwatchinghq.com/grasshoppers-in-north-america/",
-      "summary": "An incredible amount of grasshopper species live in North America! Trying to list them all would be impossible. 🙂 So below, you will find the most common and abundant insects found",
-      "date": "2024-05-10T15:51:41Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2024/05/grasshoppers-intro.jpg",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-06-02T21:54:07Z"
-    },
-    {
-      "title": "40 Types of Rabbit-Resistant Plants You Can Grow (2026)",
-      "link": "https://birdwatchinghq.com/rabbit-resistant-plants/",
-      "summary": "“Where did all my flowers go?!” I’ve asked myself this question more than once, and usually, the answer can be summed up with one word -> rabbits! These creatures are adorable but ",
-      "date": "2024-04-24T19:32:31Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2020/06/rabbits-eating-clover.jpg",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-06-02T21:54:07Z"
-    },
-    {
-      "title": "So Long, and Thanks for All the Fish",
-      "link": "https://hakaimagazine.com/article-short/so-long-and-thanks-for-all-the-fish/",
-      "summary": "We started Hakai Magazine over 10 years ago because the ocean and its coastlines needed a voice. No other outlet was exclusively covering issues at the interface of sea and land—or",
-      "date": "2024-12-27T08:05:43Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-so-long-and-thanks-for-all-the-fish.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-06-02T21:54:11Z"
-    },
-    {
-      "title": "The First First Responders",
-      "link": "https://hakaimagazine.com/features/the-first-first-responders/",
-      "summary": "When a ship wrecks on an unfamiliar coastline, an already desperate situation is all the more dire. Blinded by the night, and lost, the captain and crew of the Puritan, a four-mast",
-      "date": "Tue, 24 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-first-first-responder.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-06-02T21:54:11Z"
-    },
-    {
-      "title": "How, Exactly, Could Deep-Sea Mining Benefit All of Humanity?",
-      "link": "https://hakaimagazine.com/news/how-exactly-could-deep-sea-mining-benefit-all-of-humanity/",
-      "summary": "When Arvid Pardo, a Maltese diplomat, took the floor at the United Nations General Assembly in New York in 1967 and began speaking at length on international law, the room was spar",
-      "date": "2024-12-20T08:01:54Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-benefit-of-humanity.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-06-02T21:54:11Z"
-    },
-    {
-      "title": "Unwanted spiders? Here’s how to gently get rid of them",
-      "link": "https://www.mercurynews.com/2026/05/25/unwanted-spiders-heres-how-to-gently-get-rid-of-them/",
-      "summary": "Spiders have a keen sense of smell, and there are several odors they don't like.",
-      "date": "2026-05-25T13:30:15Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/05/SJM-L-JOANCOL-COLA-0524-01.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-06-02T21:54:13Z"
-    },
-    {
-      "title": "The 2026 Outside Days Delivered More than a Few Emotional Moments",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/outside-days-recap/",
-      "summary": "Our features editor rocked out, laughed, and yeah, cried a bit during the four-day Outside Days and Outside Summit, held in Denver, Colorado The post The 2026 Outside Days Delivere",
-      "date": "Tue, 02 Jun 2026 21Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/Crowds.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-02T21:54:15Z"
     }
   ]
 }
