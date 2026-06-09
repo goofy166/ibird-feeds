@@ -1,8 +1,96 @@
 {
-  "updated": "2026-06-08T23:18:27Z",
-  "updated_utc": "2026-06-08T23:18:27Z",
+  "updated": "2026-06-09T04:13:13Z",
+  "updated_utc": "2026-06-09T04:13:13Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Blue mushrooms, shy trees and glowing seas: Beaker Street science photography prize – in pictures",
+      "link": "https://www.theguardian.com/science/gallery/2026/jun/09/beaker-street-science-photography-prize-tasmanian-museum-gallery-in-pictures",
+      "summary": "The 12 finalists will be exhibited at the Tasmanian Museum and Art Gallery during Beaker Street festival from 6 to 17 August, including images of newborn fish, a native wasp and sa",
+      "date": "2026-06-09T00:00:38Z",
+      "image": "https://i.guim.co.uk/img/media/580e223b2f1ec561e81535f3a18284067911cf8e/738_287_2826_2260/master/2826.jpg?width=140&quality=85&auto=format&fit=max&s=39947d5320457691dfcb389935dda734",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-09T04:12:58Z"
+    },
+    {
+      "title": "Koala population crash came before humans, genomic study reveals",
+      "link": "https://phys.org/news/2026-06-koala-population-humans-genomic-reveals.html",
+      "summary": "A genomic study has reshaped our understanding of the evolutionary history of the koala (Phascolarctos cinereus), revealing the iconic Australian marsupial experienced a severe pop",
+      "date": "2026-06-09T04:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/koala-population-crash-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-09T04:13:10Z"
+    },
+    {
+      "title": "Expedition to Antarctica advances research on potential melanoma treatment",
+      "link": "https://phys.org/news/2026-06-antarctica-advances-potential-melanoma-treatment.html",
+      "summary": "Deep beneath the icy waters surrounding Antarctica, a small marine organism may hold clues to a future cancer treatment. Researchers from USF recently returned from a six-week expe",
+      "date": "2026-06-09T02:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/usf-expedition-to-anta.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-09T04:13:10Z"
+    },
+    {
+      "title": "50 years of data reveals true extent of climate change impacts on kelp forests",
+      "link": "https://phys.org/news/2026-06-years-reveals-true-extent-climate.html",
+      "summary": "New research from the University of Victoria (UVic) has found that some kelp forests around Vancouver Island were disappearing far earlier than scientists previously thought, highl",
+      "date": "2026-06-09T01:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/50-years-of-data-revea.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-09T04:13:10Z"
+    },
+    {
+      "title": "Agricultural waste can be used to clean wastewater",
+      "link": "https://phys.org/news/2026-06-agricultural-wastewater.html",
+      "summary": "Water pollution caused by pharmaceuticals, pesticides and other organic contaminants is an increasing global issue, especially in regions with limited wastewater treatment infrastr",
+      "date": "2026-06-09T00:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/agricultural-waste-can.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-09T04:13:10Z"
+    },
+    {
+      "title": "They call it 'stupid hot' for a reason: Heat muddles animal brains",
+      "link": "https://phys.org/news/2026-06-stupid-hot-animal-brains.html",
+      "summary": "On a blazing hot day in South Africa, female southern pied babblers can't think straight. The medium-sized black-and-white birds are trying to get at tasty mealworms behind a see-t",
+      "date": "2026-06-09T00:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/they-call-it-stupid-ho-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-09T04:13:10Z"
+    },
+    {
+      "title": "How plants survive constant DNA damage: Newly identified repair protein protects growth-critical stem cells",
+      "link": "https://phys.org/news/2026-06-survive-constant-dna-newly-protein.html",
+      "summary": "Similar to the way DNA damage can contribute to human diseases such as cancer, it can also disrupt growth, development and survival in plants. Every day, plants endure environmenta",
+      "date": "2026-06-08T23:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-do-plants-survive.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-09T04:13:10Z"
+    },
+    {
+      "title": "River wildlife moves freely once dams are removed, but so too can invasive species",
+      "link": "https://phys.org/news/2026-06-river-wildlife-freely-invasive-species.html",
+      "summary": "Almost a quarter of all freshwater species are threatened with extinction. The removal of human-made barriers from rivers, such as dams and weirs, is a popular way to restore water",
+      "date": "2026-06-08T23:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dam.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-09T04:13:10Z"
+    },
     {
       "title": "Meet 12 “Stopover” Birds to See During Spring and Fall Migration",
       "link": "https://www.allaboutbirds.org/news/meet-12-stopover-birds-to-see-during-spring-and-fall-migration/",
@@ -5414,94 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-06-02T10:48:59Z"
-    },
-    {
-      "title": "June birthstone: Pearl, moonstone or alexandrite",
-      "link": "https://earthsky.org/human-world/june-birthstone-pearl-moonstone-alexandrite/",
-      "summary": "For June babies, for your June birthstone: choose pearl, moonstone or a alexandrite. The post June birthstone: Pearl, moonstone or alexandrite first appeared on EarthSky .",
-      "date": "Tue, 02 Jun 2026 08Z",
-      "image": "https://earthsky.org/upl/2021/09/Various_pearls-Masayuki-Kato-Wikipedia.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-06-02T10:48:59Z"
-    },
-    {
-      "title": "Caviar Pizzas, New Money, and the Death of an Ancient Fish",
-      "link": "https://hakaimagazine.com/features/caviar-pizzas-new-money-and-the-death-of-an-ancient-fish/",
-      "summary": "I am sitting at a slick Manhattan waterfront restaurant on the banks of the East River, New York City, trying to decide why I find the caviar pizza on the menu so disturbing. Jonat",
-      "date": "Tue, 10 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-21st-century-sturgeon.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-06-02T10:49:00Z"
-    },
-    {
-      "title": "The Destructive Legacy of Failed Aquaculture",
-      "link": "https://hakaimagazine.com/news/the-destructive-legacy-of-failed-aquaculture/",
-      "summary": "Aquaculture is big business in Canada. In 2023, open-net-pen salmon farming in British Columbia alone produced 50,000 tonnes of fish worth just over US $350-million. But on June 30",
-      "date": "2024-12-06T08:01:14Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-aquaculture-cleanup.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-06-02T10:49:00Z"
-    },
-    {
-      "title": "Conjuring the Lost Land Beneath the North Sea",
-      "link": "https://hakaimagazine.com/features/conjuring-the-lost-land-beneath-the-north-sea/",
-      "summary": "The North Sea is a hard place to love. It’s not the cold, or the silty gray-brown waters that seem to suck the brightness out of the sky that make it unappealing, it’s what people ",
-      "date": "Thu, 05 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-doggerland.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-06-02T10:49:00Z"
-    },
-    {
-      "title": "Cotopaxi’s First Hard-Sided Suitcase is Tough, Fun, and Best for Minimalists",
-      "link": "https://www.outsideonline.com/outdoor-gear/cotopaxi-coraza-review/",
-      "summary": "I love the smooth-rolling wheels and sturdy materials, but the latch closure and smaller dimensions are best suited to shorter trips. The post Cotopaxi’s First Hard-Sided Suitcase ",
-      "date": "Tue, 02 Jun 2026 09Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/feature_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-02T10:49:04Z"
-    },
-    {
-      "title": "My Honest Review of the New Sky View Tents Designed Specifically for Stargazing",
-      "link": "https://www.outsideonline.com/outdoor-gear/camping/sky-view-tents-stargazing-tent-review/",
-      "summary": "A regular tent forces you to choose between staying warm and looking at the night sky. This new design solves that problem with an internal rainfly and ultra-clear mesh. The post M",
-      "date": "Tue, 02 Jun 2026 09Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/Skyview-Tents.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-02T10:49:04Z"
-    },
-    {
-      "title": "'Animals were imprisoned in jails where humans were incarcerated': The bizarre trials of the Late Middle Ages — and surprising lack of criminal cats",
-      "link": "https://www.livescience.com/animals/animals-were-imprisoned-in-jails-where-humans-were-incarcerated-the-bizarre-trials-of-the-late-middle-ages-and-surprising-lack-of-criminal-cats",
-      "summary": "Animal trials took place across Europe from the Late Middle Ages until the end of the 18th century. In this excerpt from \"Cats: A History\", Rod Phillips explores this strange pract",
-      "date": "Tue, 02 Jun 2026 09Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/rgdJ63Tr7BchNB5jPJ2fU6-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-02T10:49:10Z"
-    },
-    {
-      "title": "Rusty, orange water 'bleeds' across brilliant Bolivian lagoon — Earth from space",
-      "link": "https://www.livescience.com/planet-earth/rusty-orange-water-bleeds-across-brilliant-bolivian-lagoon-earth-from-space",
-      "summary": "A 2015 astronaut photo shows dark-orange water that appears to bleed across the bright-white floor of a high-altitude salt lake in the Bolivian Andes.",
-      "date": "Tue, 02 Jun 2026 07Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/gqA4wQUzLeHsYMnGskG6nA-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-02T10:49:10Z"
     }
   ]
 }
