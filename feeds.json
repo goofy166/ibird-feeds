@@ -1,8 +1,41 @@
 {
-  "updated": "2026-06-10T04:24:34Z",
-  "updated_utc": "2026-06-10T04:24:34Z",
+  "updated": "2026-06-10T08:56:02Z",
+  "updated_utc": "2026-06-10T08:56:02Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Pollinators in peril: scientists reveal the hidden human health costs of the world’s disappearing bees",
+      "link": "https://www.theguardian.com/environment/2026/jun/10/pollinators-in-peril-scientists-reveal-the-hidden-human-health-costs-of-the-worlds-disappearing-bees-aoe",
+      "summary": "Crops and flowers rely on them for survival, but wild bees are declining – and crucial nutrients will go missing from our diets as a result There are few ways in and out of Nepal’s",
+      "date": "2026-06-10T08:00:15Z",
+      "image": "https://i.guim.co.uk/img/media/7ac4dbe5671a6a8f73e6aecd6190a851fe9b76fa/661_1011_1862_1490/master/1862.jpg?width=140&quality=85&auto=format&fit=max&s=f8f05599da93b3950c64eb1eea95969f",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-10T08:55:46Z"
+    },
+    {
+      "title": "Birdwatch: Going to the Galápagos for the gulls",
+      "link": "https://www.theguardian.com/environment/2026/jun/10/birdwatch-going-galapagos-for-gulls",
+      "summary": "While most visitors prefer the finches, tropicbirds and blue-footed boobies, some are drawn to less glamorous species Most visitors don’t come to the Galápagos for the gulls. With ",
+      "date": "2026-06-10T05:00:12Z",
+      "image": "https://i.guim.co.uk/img/media/acc5bac02d6e3a67667a2355110c25c4cdc9e612/0_532_4935_3948/master/4935.jpg?width=140&quality=85&auto=format&fit=max&s=79179f2e9043b1e49b4749b6b8405bda",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-10T08:55:46Z"
+    },
+    {
+      "title": "Robots are about to overtake armed soldiers as the deciders of war",
+      "link": "https://www.newscientist.com/article/2529267-robots-are-about-to-overtake-armed-soldiers-as-the-deciders-of-war/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Uncrewed ground vehicles have already been tested for defending the front line by the Ukrainian military. Despite their limitations, these remotely controlled robots could be the d",
+      "date": "2026-06-10T06:00:55Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/04163332/SEI_300060576.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-10T08:55:57Z"
+    },
     {
       "title": "Bird Friendly Certification: 8 Requirements Coffee Farms Need to Satisify",
       "link": "https://birdwatchinghq.com/bird-friendly-certification-requirements-for-coffee-farms/",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-06-03T10:01:46Z"
-    },
-    {
-      "title": "Big and Little Dippers in the northern sky on June evenings",
-      "link": "https://earthsky.org/tonight/big-and-little-dippers-on-june-evenings/",
-      "summary": "If you live in the Northern Hemisphere, look for the Big and Little Dippers in the north at nightfall on June evenings. The post Big and Little Dippers in the northern sky on June ",
-      "date": "2026-06-03T08:25:02Z",
-      "image": "https://earthsky.org/upl/2022/06/North-June.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-06-03T10:01:47Z"
-    },
-    {
-      "title": "The Mysterious Story of Moncacht-Apé, the Yazoo Explorer Who Walked Across America",
-      "link": "https://www.outsideonline.com/culture/essays-culture/moncacht-ape-indigenous-explorer/",
-      "summary": "A century before Lewis and Clark, a nearly forgotten Indigenous explorer reached the Pacific. Mike Bezemek unravels his mysterious journey. The post The Mysterious Story of Moncach",
-      "date": "2026-06-03T09:10:33Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/moncacht-ape-silhouette.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-03T10:01:52Z"
-    },
-    {
-      "title": "I’m a Local Guide. These Are the 7 Best Outdoor Activities to Do in Maine This Summer.",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/what-to-do-in-maine-this-summer/",
-      "summary": "Whether you’re traveling from out of state or you’re a Maine resident looking for the ultimate “staycation,” here’s what to do in Maine this summer. The post I’m a Local Guide. The",
-      "date": "2026-06-03T09:08:31Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/GettyImages-2225590514.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-03T10:01:52Z"
     }
   ]
 }
