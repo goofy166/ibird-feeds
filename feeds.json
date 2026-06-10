@@ -1,8 +1,85 @@
 {
-  "updated": "2026-06-09T23:22:39Z",
-  "updated_utc": "2026-06-09T23:22:39Z",
+  "updated": "2026-06-10T04:24:34Z",
+  "updated_utc": "2026-06-10T04:24:34Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Bird Friendly Certification: 8 Requirements Coffee Farms Need to Satisify",
+      "link": "https://birdwatchinghq.com/bird-friendly-certification-requirements-for-coffee-farms/",
+      "summary": "In the world of coffee certifications, there’s one that soars above the rest—literally. The Smithsonian Bird Friendly certification is the gold standard when it comes to protecting",
+      "date": "2025-10-20T17:51:25Z",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/bird_friendly_logo_2-1024x1024.webp",
+      "name": "BWatching HQ",
+      "category": "birds",
+      "color": 4,
+      "fetched_at": "2026-06-10T04:24:17Z"
+    },
+    {
+      "title": "Harpy Eagles: 17 Fascinating Facts About the Canopy’s King",
+      "link": "https://birdwatchinghq.com/harpy-eagle-facts/",
+      "summary": "Honestly, Harpy Eagles are one of the coolest birds around. They are the rulers of the rainforest skies and are as intriguing as they are awe-inspiring. Keep reading, and you will ",
+      "date": "2025-10-19T17:49:35Z",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/harpy_eagle_double_crest_of_feathers-1.jpg",
+      "name": "BWatching HQ",
+      "category": "birds",
+      "color": 4,
+      "fetched_at": "2026-06-10T04:24:17Z"
+    },
+    {
+      "title": "Bycatch has ‘shocking’ toll on British marine life, first-ever analysis reveals",
+      "link": "https://www.theguardian.com/environment/2026/jun/10/bycatch-toll-british-marine-life-analysis",
+      "summary": "Conservationists say cherished creatures such as whales, dolphins and seabirds are being killed in large numbers by fishing tackle Thousands of Britain’s most charismatic and prote",
+      "date": "2026-06-10T04:00:12Z",
+      "image": "https://i.guim.co.uk/img/media/6bb855d60552c50ad10d28ab6331c123a9ccc20c/322_0_5356_4286/master/5356.jpg?width=140&quality=85&auto=format&fit=max&s=cd9313c9b362119626754acb4b964341",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-10T04:24:19Z"
+    },
+    {
+      "title": "500 Years Ago, Leonardo da Vinci’s Notebook Was Cut Up and Separated. Now, the Inventor's Manuscripts and Drawings Are Reconstructed in an Online Archive",
+      "link": "https://www.smithsonianmag.com/smart-news/500-years-ago-da-vincis-notebook-was-cut-up-and-separated-now-the-inventors-manuscripts-and-drawings-are-reconstructed-in-an-online-archive-180988922/",
+      "summary": "A new tool developed by Museo Galileo researchers has restored 50 pages from fragments excised centuries ago",
+      "date": "2026-06-10T02:35:11Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/EZJBso5UESC1A-GSBSxz4pOQvZM=/420x240/filters:focal(386x302:387x303)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/73/8b/738b1da3-f749-44ab-8a50-9a962dedd43a/win01411.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-06-10T04:24:26Z"
+    },
+    {
+      "title": "Iron Age Britons may have removed the brains of the dead",
+      "link": "https://www.newscientist.com/article/2529799-iron-age-britons-may-have-removed-the-brains-of-the-dead/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Scrape marks inside a skull and sharpened limb bones in a set of remains found in Scotland may be evidence of unusual Iron Age funerary rituals",
+      "date": "2026-06-10T00:01:51Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2024/04/17102106/new-scientist-social-meta-image.png",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-10T04:24:28Z"
+    },
+    {
+      "title": "Study finds fishing bycatch does not attract lesser black-backed gulls out of wind farms",
+      "link": "https://phys.org/news/2026-06-fishing-bycatch-lesser-black-gulls.html",
+      "summary": "Lesser black-backed gulls from the colony on the Dutch island of Neeltje Jans appear to avoid the wind farm off the Zeeland coast, with the exception of some males. NIOZ ecologist ",
+      "date": "2026-06-10T03:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fishing-does-not-attra.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-10T04:24:29Z"
+    },
+    {
+      "title": "Survival of five million amphibians and reptiles displaced by construction in British Columbia may not be tracked",
+      "link": "https://phys.org/news/2026-06-survival-million-amphibians-reptiles-displaced.html",
+      "summary": "UBC researchers have found that more than five million amphibians and reptiles were displaced by development in British Columbia in just four years—and that there is no requirement",
+      "date": "2026-06-10T02:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ubc-study-5-million-am.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-10T04:24:29Z"
+    },
     {
       "title": "10 Things You Can Do to Help Birds",
       "link": "https://birdwatchinghq.com/how-to-help-birds/",
@@ -5425,83 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-06-03T10:01:52Z"
-    },
-    {
-      "title": "Genetically modified hookworms produce and deliver therapeutics",
-      "link": "https://phys.org/news/2026-06-genetically-hookworms-therapeutics.html",
-      "summary": "Hookworms, intestinal parasites that infect hundreds of millions of people in under-resourced tropical regions around the globe, have evolved to survive inside the human gut for ye",
-      "date": "2026-06-03T09:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genetically-modified-h-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-03T10:01:57Z"
-    },
-    {
-      "title": "Wading bird populations in the New York–New Jersey Harbor are in decline",
-      "link": "https://phys.org/news/2026-06-wading-bird-populations-yorknew-jersey.html",
-      "summary": "Urban estuaries can support thriving ecosystems despite bustling human activity. Noting that bird populations can serve as a key indicator of environmental health, researchers rece",
-      "date": "2026-06-03T07:10:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/black-crowned-night-he-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-03T10:01:57Z"
-    },
-    {
-      "title": "Diagnostic dilemma: Doctors couldn't explain why a boy was bleeding from his eyes, ears and nose",
-      "link": "https://www.livescience.com/health/diagnostic-dilemma-doctors-couldnt-explain-why-a-boy-was-bleeding-from-his-eyes-ears-and-nose",
-      "summary": "A case of a boy who bled from his eyes eventually led doctors to a diagnosis that has been reported fewer than 50 times in the medical literature.",
-      "date": "2026-06-03T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/oNoT4DuJf4aqcBxW2qCcTG-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-03T10:01:58Z"
-    },
-    {
-      "title": "'Totally counterintuitive': Scientists accidentally discover magnetic fields around 7 distant planets, opening new window in the search for life",
-      "link": "https://www.livescience.com/space/exoplanets/totally-counterintuitive-scientists-accidentally-discover-magnetic-fields-around-7-distant-planets-opening-new-window-in-the-search-for-life",
-      "summary": "Scientists accidentally discover magnetic fields around 7 distant planets",
-      "date": "2026-06-03T09:30:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/wVjqRcn5GSntyc7ucPSBsG-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-03T10:01:58Z"
-    },
-    {
-      "title": "Country diary: My family has lived near here for 300 years – no wonder it feels like home | Andrea Meanwell",
-      "link": "https://www.theguardian.com/environment/2026/jun/03/country-diary-my-family-has-lived-near-here-for-300-years-no-wonder-it-feels-like-home",
-      "summary": "Tebay, Cumbria: Some of my ancestors were fell pony hauliers and our farmhouse used to be a coaching inn. Might they have called in for a drink? There is always some waiting around",
-      "date": "2026-06-03T04:30:41Z",
-      "image": "https://i.guim.co.uk/img/media/5ce42323628eefc3f1999230d398d5e7afa0d7f4/50_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=7b6b5f5d1c8c625dfeec72716e87d6a6",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-03T04:59:26Z"
-    },
-    {
-      "title": "It’s harbor seal pup season in the Bay Area. Here’s how to be a good neighbor",
-      "link": "https://www.mercurynews.com/2026/05/26/its-harbor-seal-pup-season-heres-how-to-be-a-good-neighbor/",
-      "summary": "Spring and early summer are the busiest months of the year at the Marine Mammal Center. Our rescue hotline rings constantly, and our hospital in the Marin Headlands fills with pati",
-      "date": "Tue, 26 May 2026 12Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/05/MIJ-L-Tails-COL-0526-01.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-06-03T04:59:31Z"
-    },
-    {
-      "title": "Ötzi the Iceman’s remains yielded ‘viable’ yeasts in the lab",
-      "link": "https://www.sciencenews.org/article/otzi-iceman-viable-yeasts-microbiome",
-      "summary": "The cold-loving yeasts from Ötzi’s remains suggest the Iceman’s microbiome may not be completely frozen in time.",
-      "date": "2026-06-03T00:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/060226_TM_Otzi_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-06-03T04:59:35Z"
     }
   ]
 }
