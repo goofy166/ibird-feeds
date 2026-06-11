@@ -1,8 +1,151 @@
 {
-  "updated": "2026-06-10T22:11:16Z",
-  "updated_utc": "2026-06-10T22:11:16Z",
+  "updated": "2026-06-11T00:23:14Z",
+  "updated_utc": "2026-06-11T00:23:14Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Hawks in Georgia",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/hawks-in-georgia/",
+      "summary": "Is a goshawk the same as a hawk? What is a Buteo? How many hawks are there in Georgia? Well, in this article we try … Read More \"Hawks in Georgia\"",
+      "date": "2026-05-10T23:40:55Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/07/red-tailed-hawk-by-Susan-Kirby.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-06-11T00:22:52Z"
+    },
+    {
+      "title": "Brown Birds with an Orange Chest",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/brown-birds-with-an-orange-chest/",
+      "summary": "Today, my goal is to find 10 species of birds that are brown with an orange chest. I can only think of a couple offhand … Read More \"Brown Birds with an Orange Chest\"",
+      "date": "2026-05-10T23:37:10Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/05/American-Robin-vs-European-Robin.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-06-11T00:22:52Z"
+    },
+    {
+      "title": "Woodpeckers in Maryland: Top 8 Species with Pictures",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/woodpeckers-in-maryland-top-8-species-with-pictures/",
+      "summary": "There are many species of woodpeckers in the United States. They’re known for their colorful plumage and playful attitude. As the fifth greenest state, Maryland has the … Read More",
+      "date": "2026-05-10T23:34:23Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/05/Hairy-Woodpecker-by-Cephas.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-06-11T00:22:52Z"
+    },
+    {
+      "title": "Dahlia vs Zinnia Flowers: What’s the Difference?",
+      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/dahlia-vs-zinnia-flowers/",
+      "summary": "These two plants look similar — can you identify dahlia vs zinnia flowers? Learn the differences and which of these flowers is right for your garden. The post Dahlia vs Zinnia Flow",
+      "date": "2026-06-03T20:01:38Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/09_Pamela-Bruns_BBXsummer25-e1780511135377.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-06-11T00:22:55Z"
+    },
+    {
+      "title": "Trump administration land gift to SpaceX would hurt Texas habitat, lawsuit says",
+      "link": "https://www.theguardian.com/us-news/2026/jun/10/spacex-trump-administration-texas-land-swap",
+      "summary": "Environmental groups say exchange between US government and SpaceX would worsen ecological risks Sign up for the Breaking News US newsletter email Environmental groups on Wednesday",
+      "date": "2026-06-10T22:12:15Z",
+      "image": "https://i.guim.co.uk/img/media/4a068ffc8b96c7ea261d83869eb338adfce4fffd/326_0_3260_2608/master/3260.jpg?width=140&quality=85&auto=format&fit=max&s=4ca972cbdac5d8ba5a9a1caf417404aa",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-11T00:22:59Z"
+    },
+    {
+      "title": "Where humpbacks gather near Tokyo's remote islands could reshape whale watching and conservation",
+      "link": "https://phys.org/news/2026-06-humpbacks-tokyo-remote-islands-reshape.html",
+      "summary": "Humpback whales are one of the most popular species for whale watching. Since they are active close to the water's surface, groups of whale watchers can often see them breaching an",
+      "date": "2026-06-11T00:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/finding-the-best-habit.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-11T00:23:11Z"
+    },
+    {
+      "title": "Global rice production has nearly doubled over 50 years despite climate change",
+      "link": "https://phys.org/news/2026-06-global-rice-production-years-climate.html",
+      "summary": "Global rice production nearly doubled between the 1960s and the 2010s, despite the negative impacts of climate change, according to a new study from the University of Illinois Urba",
+      "date": "2026-06-10T23:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/global-rice-production.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-11T00:23:11Z"
+    },
+    {
+      "title": "P53's five-hour rhythm may let resonance target gene networks on command",
+      "link": "https://phys.org/news/2026-06-p53-hour-rhythm-resonance-gene.html",
+      "summary": "Can networks of genes be stimulated using resonance? Researchers at the Niels Bohr Institute are investigating whether the protein p53, which activates a range of different genes, ",
+      "date": "2026-06-10T23:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/p53s-five-hour-rhythm.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-11T00:23:11Z"
+    },
+    {
+      "title": "New methods make tracking individual bird species during migration possible",
+      "link": "https://phys.org/news/2026-06-methods-tracking-individual-bird-species.html",
+      "summary": "Researchers at Cornell Lab of Ornithology, University of Massachusetts and University of Illinois have developed breakthrough methods to track the migration of individual bird spec",
+      "date": "2026-06-10T23:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bird-band.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-11T00:23:11Z"
+    },
+    {
+      "title": "Wheat root compounds suppress soil microbes, helping retain nitrogen and cut emissions",
+      "link": "https://phys.org/news/2026-06-wheat-root-compounds-suppress-soil.html",
+      "summary": "On a quiet weekend morning in a greenhouse in Aarhus University Flakkebjerg, rows of wheat plants stand with their roots submerged in clear water. There is no soil, no buffer, no a",
+      "date": "2026-06-10T23:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-wheat-learns-to-p.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-11T00:23:11Z"
+    },
+    {
+      "title": "Custom protein binders zero in on near-identical disease targets with unprecedented selectivity",
+      "link": "https://phys.org/news/2026-06-custom-protein-binders-identical-disease.html",
+      "summary": "In the human body, the boundary between health and severe illness can be microscopic. For decades, molecular scientists have grappled with a frustrating biological reality: The pro",
+      "date": "2026-06-10T22:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-platform-rapidly-g-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-11T00:23:11Z"
+    },
+    {
+      "title": "Degradable sensors reveal hidden soil secrets after microbes nibble on them",
+      "link": "https://phys.org/news/2026-06-degradable-sensors-reveal-hidden-soil.html",
+      "summary": "New degradable sensors could reveal insights into the secret—yet essential—microscopic life in soil. The sensors, which are being developed by soil scientists at Lancaster Universi",
+      "date": "2026-06-10T22:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/degradable-sensors-rev.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-11T00:23:11Z"
+    },
+    {
+      "title": "Scientists discover 5 million-year-old whale graveyard stretching for hundreds of miles in the Indian Ocean",
+      "link": "https://www.livescience.com/animals/whales/scientists-discover-5-million-year-old-whale-graveyard-stretching-for-hundreds-of-miles-in-the-indian-ocean",
+      "summary": "Researchers have discovered a \"megasite\" of dead whales along with new species of marine life feasting on the corpses.",
+      "date": "2026-06-10T22:38:59Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZEf6CDbLkhcMVKEmKxVxw-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-11T00:23:12Z"
+    },
     {
       "title": "How to Attract Goldfinches in Winter: The Complete Guide",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/how-to-attract-goldfinches-in-winter-the-complete-guide/",
@@ -5359,149 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-06-04T14:08:28Z"
-    },
-    {
-      "title": "Majestic manta rays dive deep to survive storm events, data reveal",
-      "link": "https://phys.org/news/2026-06-majestic-manta-rays-deep-survive.html",
-      "summary": "New research led by the University of the Sunshine Coast has found that reef manta rays are diving deep in storm events to find food and stay alive. As World Environment Day is cel",
-      "date": "2026-06-04T13:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/mantaray.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-04T14:08:28Z"
-    },
-    {
-      "title": "Celestron StarSense Explorer LT 70AZ review",
-      "link": "https://www.livescience.com/technology/celestron-starsense-explorer-lt-70az-review",
-      "summary": "From lunar detail to planets and bright deep-sky objects, we test what the Celestron StarSense Explorer LT 70AZ can actually show beginners and kids.",
-      "date": "Thu, 04 Jun 2026 11Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/YUuacUHmQVmaGh9pbdjrLT-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-04T14:08:30Z"
-    },
-    {
-      "title": "‘To them a power line is a line of trees’: Costa Rica moves to protect howler monkeys from electrocution",
-      "link": "https://www.theguardian.com/environment/2026/jun/04/costa-rica-monkey-electrocution-power-line-court-ruling-animals-deforestation-aoe",
-      "summary": "Electric shock is one of the biggest causes of death among wildlife in the country but a court ruling is a first step to making power lines safe Peque, a small black howler monkey,",
-      "date": "2026-06-04T10:00:03Z",
-      "image": "https://i.guim.co.uk/img/media/ea4f02a06b247ce08b273c8c8d0ab8cc49ba14aa/243_0_1500_1201/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=230ea1ee38f6edfaedf91a05c198c142",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-04T10:41:31Z"
-    },
-    {
-      "title": "Protesters clash with police in Albania over Jared Kushner-backed luxury resort – video",
-      "link": "https://www.theguardian.com/world/video/2026/jun/04/protesters-clash-with-police-in-albania-over-jared-kushner-backed-luxury-resort-video",
-      "summary": "Protests in Albania over a proposed luxury resort backed by Jared Kushner , Donald Trump’s son-in-law, are expected to intensify after opponents rejected an offer from the country’",
-      "date": "2026-06-04T09:24:03Z",
-      "image": "https://i.guim.co.uk/img/media/946e5697da6b62f2a87d2eefd2d873052153e053/673_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=518a4e0e62b541ef375fa25909ce6ac7",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-04T10:41:31Z"
-    },
-    {
-      "title": "The constellation Norma is home to the Great Attractor",
-      "link": "https://earthsky.org/constellations/norma-the-great-attractor-constellations/",
-      "summary": "The constellation Norma lies in southern skies and is home to the Great Attractor, the Norma cluster and other deep-sky objects. The post The constellation Norma is home to the Gre",
-      "date": "Thu, 04 Jun 2026 08Z",
-      "image": "https://earthsky.org/upl/2022/06/Norma-Constellation.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-06-04T10:41:33Z"
-    },
-    {
-      "title": "Colorado’s Wolf Reintroduction Hasn’t Gone to Plan. Are These Cowboys Its Last Hope?",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/colorado-wolf-reintroduction-range-riders/",
-      "summary": "Range riders sleep with the cattle, roam all night on horseback, and track wolves across miles of open terrain. Some hail the return of the cowboy lifestyle—but not everyone is sol",
-      "date": "Thu, 04 Jun 2026 09Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/20260501_RangeRiders_0412.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-04T10:41:37Z"
-    },
-    {
-      "title": "Georgia O’Keeffe Ignored Advice to Mimic Great European Masters. Her Goal Instead Was to Be a Great American Painter",
-      "link": "https://www.smithsonianmag.com/arts-culture/georgia-okeefe-ignored-advice-mimic-great-european-masters-goal-instead-be-great-american-painter-180988804/",
-      "summary": "The genius of her work was in painting things as she saw them through her own eyes. So when she surrounded herself with beauty, her work reflected it",
-      "date": "Thu, 04 Jun 2026 10Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/gY4Jcz1vf87p7_sdOT2iBzZT1f4=/420x240/filters:focal(1500x1000:1501x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/bb/be/bbbe50cb-fdfb-47c3-aeba-0320817378dc/georgia_okeeffe.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-04T10:41:39Z"
-    },
-    {
-      "title": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue",
-      "link": "https://phys.org/news/2026-06-tools-hantavirus-limited-funding.html",
-      "summary": "When a rare but deadly rodent-borne virus struck passengers on a cruise ship and seemed to be spreading, there were no treatments for those who fell ill and no vaccines to protect ",
-      "date": "2026-06-04T09:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tools-to-fight-hantavi.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-04T10:41:43Z"
-    },
-    {
-      "title": "Screwworm fly detected in Texas decades after cattle threat was largely eradicated in US",
-      "link": "https://phys.org/news/2026-06-screwworm-fly-texas-decades-cattle.html",
-      "summary": "The New World screwworm fly has reached south Texas, the U.S. Department of Agriculture confirmed Wednesday, the first time in decades that the parasite with flesh-eating larvae ha",
-      "date": "2026-06-04T08:50:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/screwworm-fly-detected.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-04T10:41:43Z"
-    },
-    {
-      "title": "Canadian government endorses a plan to move whales from shuttered Marineland park to US and Spain",
-      "link": "https://phys.org/news/2026-06-canadian-endorses-whales-shuttered-marineland.html",
-      "summary": "Canada's government endorsed a plan Wednesday to move the last remaining captive whales from a shuttered theme park in Ontario to aquariums in the United States and Spain—a plan th",
-      "date": "2026-06-04T08:34:53Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/canadian-government-en.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-04T10:41:43Z"
-    },
-    {
-      "title": "Country diary: A close-up view of a shimmering beauty | Sara Hudston",
-      "link": "https://www.theguardian.com/environment/2026/jun/04/country-diary-a-close-up-view-of-a-shimmering-beauty",
-      "summary": "Bridport, Dorset: The female in my garden has been a glittering presence of late, but soon she will return to the river to breed The beautiful demoiselle ( Calopteryx virgo ) is ap",
-      "date": "2026-06-04T04:30:25Z",
-      "image": "https://i.guim.co.uk/img/media/8d8a7c665d9f921141c406036301c704379c2861/199_0_2726_2181/master/2726.jpg?width=140&quality=85&auto=format&fit=max&s=d15591e3b67c9b3d1144c8adb937064e",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-04T06:50:17Z"
-    },
-    {
-      "title": "This American Submarine Lost During WWII—Along With 83 Crew Members—Has Been Discovered in the Pacific Ocean",
-      "link": "https://www.smithsonianmag.com/smart-news/this-american-submarine-USS-Herring-lost-during-WWII-along-with-83-crew-members-has-been-discovered-in-the-pacific-ocean-180988895/",
-      "summary": "The honors-earning USS \"Herring\" sank in 1944 after taking down Japanese ships",
-      "date": "Thu, 04 Jun 2026 01Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/k7LJRAQhz9p6CPI1VqzGAJKOGY8=/420x240/filters:focal(640x518:641x519)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/03/1f/031f1c20-fb8c-45e8-964a-4ba82e2950d8/s-014-c01_1.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-04T06:50:25Z"
-    },
-    {
-      "title": "Moms' learned fear of snakes gets inherited by offspring in a critically endangered mouse, biologists discover",
-      "link": "https://phys.org/news/2026-06-moms-snakes-inherited-offspring-critically.html",
-      "summary": "Conservationists often raise the young of endangered species in captivity before releasing them into suitable habitats as adults. The benefits are obvious: survival to adulthood is",
-      "date": "2026-06-04T04:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/moms-learned-fear-of-s.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-04T06:50:28Z"
     }
   ]
 }
