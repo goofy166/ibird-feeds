@@ -1,8 +1,41 @@
 {
-  "updated": "2026-06-11T00:23:14Z",
-  "updated_utc": "2026-06-11T00:23:14Z",
+  "updated": "2026-06-11T05:58:40Z",
+  "updated_utc": "2026-06-11T05:58:40Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: A tiny orchid with mighty powers of deception | Oliver Southall",
+      "link": "https://www.theguardian.com/environment/2026/jun/11/country-diary-a-tiny-orchid-with-mighty-powers-of-deception",
+      "summary": "Wolstonbury Hill, West Sussex: The fly orchid looks like no fly I’ve ever seen – its target insect is a wasp. Even more strange is that neither I nor Charles Darwin have ever seen ",
+      "date": "2026-06-11T04:30:06Z",
+      "image": "https://i.guim.co.uk/img/media/2e4d4d06e152024262a939b064494702b47e76a7/432_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=12e48c6bf2dc909d717f31a7cae1bcbb",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-11T05:58:10Z"
+    },
+    {
+      "title": "Pathogenic fungus transmitted by domestic cat scratches is present in wild animals",
+      "link": "https://phys.org/news/2026-06-pathogenic-fungus-transmitted-domestic-cat.html",
+      "summary": "The fungus that causes sporotrichosis is typically transmitted among cats and results in serious lesions. Recently, it was found in the internal organs of wild animals. The study w",
+      "date": "2026-06-11T02:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pathogenic-fungus-tran-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-11T05:58:36Z"
+    },
+    {
+      "title": "Researchers develop a new anti-jellyfish floating buoy",
+      "link": "https://phys.org/news/2026-06-anti-jellyfish-buoy.html",
+      "summary": "Researchers from the Universitat Politècnica de València (UPV) and the University of Alicante have developed a new anti-jellyfish floating buoy that helps prevent these creatures f",
+      "date": "2026-06-11T02:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/jellyfish-in-ocean.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-11T05:58:36Z"
+    },
     {
       "title": "Hawks in Georgia",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/hawks-in-georgia/",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-06-04T14:08:27Z"
-    },
-    {
-      "title": "Is there a word for the Wiki page for the Ship of Theseus paradox?",
-      "link": "https://www.newscientist.com/article/mg27035973-300-is-there-a-word-for-the-wiki-page-for-the-ship-of-theseus-paradox/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Feedback has been flooded with answers (both correct and inspired) after wondering if there is a word for something that is an exemplar of the thing it describes.",
-      "date": "2026-05-27T18:00:00Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/26141139/SEI_299014632.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-04T14:08:27Z"
-    },
-    {
-      "title": "Hidden in plain sight: The race to discover new species before they're gone",
-      "link": "https://phys.org/news/2026-06-hidden-plain-sight-species-theyre.html",
-      "summary": "When most people imagine scientists discovering new species, they probably still picture an expedition into the unknown.",
-      "date": "2026-06-04T14:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-in-plain-sight.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-04T14:08:28Z"
-    },
-    {
-      "title": "Endangered basking sharks rely on the ocean twilight zone during long-distance migrations",
-      "link": "https://phys.org/news/2026-06-endangered-basking-sharks-ocean-twilight.html",
-      "summary": "Endangered basking sharks aren't fasting during long-distance migrations. A new study led by the Woods Hole Oceanographic Institution shows that they may be foraging along the way,",
-      "date": "2026-06-04T13:20:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/endangered-basking-sha.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-04T14:08:28Z"
     }
   ]
 }
