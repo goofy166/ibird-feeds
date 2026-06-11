@@ -1,8 +1,74 @@
 {
-  "updated": "2026-06-11T21:26:48Z",
-  "updated_utc": "2026-06-11T21:26:48Z",
+  "updated": "2026-06-11T23:43:57Z",
+  "updated_utc": "2026-06-11T23:43:57Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Natural history GCSE to teach teenagers to plant wildflower-friendly gardens",
+      "link": "https://www.theguardian.com/education/2026/jun/11/natural-history-gcse-to-teach-teenagers-to-plant-wildflower-friendly-gardens",
+      "summary": "Long-awaited course to examine human effects on natural world and explore everyday ways to aid biodiversity School pupils will learn how to plant a wildflower-friendly garden, acco",
+      "date": "2026-06-11T21:30:26Z",
+      "image": "https://i.guim.co.uk/img/media/3208376cec4df1507bafac8c5fbeb270b6692f6f/350_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=758e6c833d3124af848850a7df8fb08f",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-11T23:43:40Z"
+    },
+    {
+      "title": "Songs prep the brains of finches yet to hatch for a hot world",
+      "link": "https://www.sciencenews.org/article/songs-prep-unhatched-finches-hot-world",
+      "summary": "Adult finches make \"heat calls\" as the temperature rises. Exposure to the song prepares their unhatched young's brains for the heat.",
+      "date": "Thu, 11 Jun 2026 22Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/061126_JB_zebrafinch_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-06-11T23:43:50Z"
+    },
+    {
+      "title": "Why cells started sticking together could help explain how animals first evolved",
+      "link": "https://phys.org/news/2026-06-cells-animals-evolved.html",
+      "summary": "A recent study by Ruibao Li and Jennah Dharamshi published in Nature may help us understand the beginnings of animal evolution billions of years ago. These findings are the result ",
+      "date": "2026-06-11T22:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/-animal-evolution.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-11T23:43:53Z"
+    },
+    {
+      "title": "AI fast-forwards molecular simulations by 10,000-fold",
+      "link": "https://phys.org/news/2026-06-ai-fast-forwards-molecular-simulations.html",
+      "summary": "A new AI model has become so good at predicting how molecules evolve over time that, in the future, it could speed up the costly and time-consuming process of testing new drugs. In",
+      "date": "2026-06-11T22:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-fast-forwards-molec.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-11T23:43:53Z"
+    },
+    {
+      "title": "Parents' heat warning songs may prime zebra finch chicks for heat before they hatch",
+      "link": "https://phys.org/news/2026-06-parents-songs-prime-zebra-finch.html",
+      "summary": "Sealed within an eggshell, how can chicks prepare for the world into which they are about to hatch, with no obvious direct communication channel across the shell? Adult zebra finch",
+      "date": "2026-06-11T22:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/zebra-finches.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-11T23:43:53Z"
+    },
+    {
+      "title": "When seeds mislead, weeds succeed: Researchers uncover surprising ways weeds spread",
+      "link": "https://phys.org/news/2026-06-seeds-weeds-succeed-uncover-ways.html",
+      "summary": "Biologists have long thought that seed traits, such as the presence of wings, are the key to predicting in what way, and how far, weeds can disperse. Now, a trio of researchers has",
+      "date": "2026-06-11T21:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-seeds-mislead-wee.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-11T23:43:53Z"
+    },
     {
       "title": "How to Identify an Eastern Meadowlark",
       "link": "https://www.birdsandblooms.com/birding/bird-species/tanagers-and-blackbirds/eastern-meadowlark/",
@@ -5436,72 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-06-05T00:15:59Z"
-    },
-    {
-      "title": "Sea otters: Our climate and habitat heroes",
-      "link": "https://www.mercurynews.com/2026/05/20/dan-haifley-ocean-currents-sea-otters-our-climate-and-habitat-heroes/",
-      "summary": "California sea otters maintain a warm body temperature in cold waters, which increases their energy demands to about three times that of a land-based animal the same size",
-      "date": "2026-05-20T11:15:00Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/05/STC-L-Haifley-col-0520.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-06-05T00:15:59Z"
-    },
-    {
-      "title": "Rice–fish co-culturing could help curb schistosomiasis while increasing food production",
-      "link": "https://phys.org/news/2026-06-ricefish-culturing-curb-schistosomiasis-food.html",
-      "summary": "The chronic disease schistosomiasis wreaks havoc on more than 220 million people around the world, with the vast majority of cases being in sub-Saharan Africa. Despite decades of m",
-      "date": "2026-06-04T23:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ricefish-co-culturing.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-05T00:16:06Z"
-    },
-    {
-      "title": "New Velociraptor cousin was a '4-winged' dragon that hunted prey from the trees of ancient China, fossil find hints",
-      "link": "https://www.livescience.com/animals/dinosaurs/new-velociraptor-cousin-was-a-4-winged-dragon-that-hunted-prey-from-the-trees-of-ancient-china-fossil-find-hints",
-      "summary": "A new microraptor from Cretaceous China likely preyed on ancient birds.",
-      "date": "Thu, 04 Jun 2026 22Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/3U4p2JW2FviZ7rXXBmHdpa-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-05T00:16:07Z"
-    },
-    {
-      "title": "Mule deer already using incomplete $20m wildlife bridge in California",
-      "link": "https://www.theguardian.com/us-news/2026/jun/04/california-wildlife-bridge-mule-deer",
-      "summary": "Within the last few days, a camera trap caught images of three mule deer using structure for the first time A trio of mule deer have already scuttled across a not-quite-finished $2",
-      "date": "2026-06-04T20:42:43Z",
-      "image": "https://i.guim.co.uk/img/media/b7b33364ff0b943d7af3f336edee5e94dcddde1f/310_0_646_517/master/646.jpg?width=140&quality=85&auto=format&fit=max&s=d81fb3b92a3721a24da62c646cf5cc8c",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-04T22:25:09Z"
-    },
-    {
-      "title": "Life Lessons Learned from José Andrés at Outside Days",
-      "link": "https://www.outsideonline.com/culture/books-media/jose-andres-outside-days/",
-      "summary": "Celebrated chef and humanitarian José Andrés shared key life lessons at Outside Days on teamwork, survival, and why he thinks people who love the outdoors represent the best of hum",
-      "date": "Thu, 04 Jun 2026 21Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/Jose-Andres_Brad-Kaminski.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-04T22:25:15Z"
-    },
-    {
-      "title": "9 Father’s Day Gifts for Outdoorsy Dads",
-      "link": "https://www.outsideonline.com/outdoor-gear/9-fathers-day-gifts-for-outdoorsy-dads/",
-      "summary": "Gear, nutrition, and wellness solutions to help Dad live his best life The post 9 Father’s Day Gifts for Outdoorsy Dads appeared first on Outside Online .",
-      "date": "Thu, 04 Jun 2026 20Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/Alchemy_featured_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-04T22:25:15Z"
     }
   ]
 }
