@@ -1,8 +1,74 @@
 {
-  "updated": "2026-06-11T23:43:57Z",
-  "updated_utc": "2026-06-11T23:43:57Z",
+  "updated": "2026-06-12T04:49:35Z",
+  "updated_utc": "2026-06-12T04:49:35Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: The grisly beauty of an otter postmortem | Gwyneth Lewis",
+      "link": "https://www.theguardian.com/environment/2026/jun/12/country-diary-the-grisly-beauty-of-an-otter-postmortem",
+      "summary": "Cardiff: I still remember my first otter sighting, on a bog in the mid-90s. This, in a lab on a stainless steel table, is something else Otter No 4,888 was found at the side of the",
+      "date": "2026-06-12T04:30:34Z",
+      "image": "https://i.guim.co.uk/img/media/9e1d29d921bb2488508d6b072611fb3441697e4f/0_432_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=fcb99649d3d833b529762500be1832de",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-12T04:49:20Z"
+    },
+    {
+      "title": "Britain’s favourite butterfly revealed – and it’s a familiar backyard beauty",
+      "link": "https://www.theguardian.com/environment/2026/jun/12/britain-favourite-butterfly-revealed-garden-peacock",
+      "summary": "More than 20,000 votes cast in Butterfly Conservation’s poll of 60 native species to find nation’s favourite for first time The votes are in on Britain’s favourite butterfly, and i",
+      "date": "2026-06-12T04:00:36Z",
+      "image": "https://i.guim.co.uk/img/media/6d7d2471cc1faad0238c1dfeec10e4b136037d78/0_0_2175_1741/master/2175.jpg?width=140&quality=85&auto=format&fit=max&s=477eadc42d6bc6fd2f86b540bcde4af8",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-12T04:49:20Z"
+    },
+    {
+      "title": "‘Should we leave them to die?’ The battle over how to save orangutans from the curse of palm oil – podcast",
+      "link": "https://www.theguardian.com/news/audio/2026/jun/12/should-we-leave-them-to-die-the-battle-over-how-to-save-orangutans-from-the-curse-of-palm-oil-podcast",
+      "summary": "As new settlers clear their forest habitat, the apes are coming into conflict with humans. But simply moving them to another part of the forest may not be the answer By Sally Willi",
+      "date": "2026-06-12T04:00:36Z",
+      "image": "https://i.guim.co.uk/img/media/382da4ac09e833712fb7ed8754ace34cdc4510e4/538_0_2218_1775/master/2218.jpg?width=140&quality=85&auto=format&fit=max&s=0740536622b5b6e1fc2d85e702d2a901",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-12T04:49:20Z"
+    },
+    {
+      "title": "‘The birds will fly away’: can Albania’s flamingo revolution keep its wetlands free from Trumps and tourists?",
+      "link": "https://www.theguardian.com/world/2026/jun/12/albania-flamingos-wetlands-trump-tourists",
+      "summary": "A luxury resort backed by the US president’s family may be built on a wildlife-rich nature reserve in one of Europe’s poorest nations If the real estate dreams of a billionaire pol",
+      "date": "2026-06-12T04:00:34Z",
+      "image": "https://i.guim.co.uk/img/media/df35dcaf713ba315d7955a55d2990e4119c055ca/340_0_4171_3339/master/4171.jpg?width=140&quality=85&auto=format&fit=max&s=f1538feca90c50543f6b94ba6502d5d1",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-12T04:49:20Z"
+    },
+    {
+      "title": "Plants reveal hidden PFAS pollution that soils can miss, study finds",
+      "link": "https://phys.org/news/2026-06-reveal-hidden-pfas-pollution-soils.html",
+      "summary": "A new study has found that plants may reveal recent PFAS contamination linked to airborne deposition that can go undetected in soil analyses. Conducted in agricultural fields near ",
+      "date": "2026-06-12T00:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/plants-reveal-hidden-p.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-12T04:49:32Z"
+    },
+    {
+      "title": "Why restoring rivers isn't enough: New research shows fish are evolving in response to human-made rivers",
+      "link": "https://phys.org/news/2026-06-rivers-isnt-fish-evolving-response.html",
+      "summary": "This new international study is calling for a major rethink of how rivers are managed, arguing that fish are not just passive victims of environmental change but active participant",
+      "date": "2026-06-12T00:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-restoring-rivers-i-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-12T04:49:32Z"
+    },
     {
       "title": "Natural history GCSE to teach teenagers to plant wildflower-friendly gardens",
       "link": "https://www.theguardian.com/education/2026/jun/11/natural-history-gcse-to-teach-teenagers-to-plant-wildflower-friendly-gardens",
@@ -5436,72 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-06-05T10:04:59Z"
-    },
-    {
-      "title": "Dangerous livestock pest case confirmed in Texas",
-      "link": "https://phys.org/news/2026-06-dangerous-livestock-pest-case-texas.html",
-      "summary": "The United States said on Thursday that the New World screwworm (NWS) fly, a dangerous livestock pest whose flesh-eating larvae can kill cattle, has been detected in a calf in sout",
-      "date": "2026-06-05T08:50:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-us-screwworm-case-ha.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-05T10:05:04Z"
-    },
-    {
-      "title": "Australia seizes 100,000 cockroaches in bug-breeder bust",
-      "link": "https://phys.org/news/2026-06-australia-seizes-cockroaches-bug-breeder.html",
-      "summary": "Wildlife officers have busted an illegal cockroach-breeding operation in rural Australia, seizing a skin-crawling haul worth more than $100,000 on the black market for exotic bugs.",
-      "date": "2026-06-05T08:30:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-of-the-100000-cont.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-05T10:05:04Z"
-    },
-    {
-      "title": "'The best solution is to murder him in his sleep': AI can learn violent tendencies from each other despite zero references to violence in training data",
-      "link": "https://www.livescience.com/technology/artificial-intelligence/the-best-solution-is-to-murder-him-in-his-sleep-ai-can-learn-violent-tendencies-from-each-other-despite-zero-references-to-violence-in-training-data",
-      "summary": "Scientists found that AI models can inherit a taste for murder (or owls) from other models' training data.",
-      "date": "2026-06-05T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/yKaYMbrzkx8H5ybw5qRwBW-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-05T10:05:05Z"
-    },
-    {
-      "title": "Country diary: The ‘queen of trees’ is holding a secret | Elizabeth-Jane Burnett",
-      "link": "https://www.theguardian.com/environment/2026/jun/05/country-diary-the-queen-of-trees-is-holding-a-secret",
-      "summary": "Eggesford Forest, Devon: I thought I was alone in admiring a towering beech in the chilly wood, but I was not I breathe in the bluebells as a blackcap sings. At the crescendo, a fl",
-      "date": "2026-06-05T04:30:25Z",
-      "image": "https://i.guim.co.uk/img/media/960ef18a2ab80e3d7fa851efe3ccb2a098dc1c4f/150_11_1556_1245/master/1556.jpg?width=140&quality=85&auto=format&fit=max&s=1fd88e56a729af613fa442fa98719e93",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-05T05:23:47Z"
-    },
-    {
-      "title": "'The Heaven Sword' crowned as East Asia's tallest tree after a nearly decade-long search",
-      "link": "https://phys.org/news/2026-06-heaven-sword-crowned-east-asia.html",
-      "summary": "Taiwan, historically known as Formosa, holds a secret deep within its rugged interior: it is one of the rare locations on Earth capable of supporting \"giant\" trees—specimens that t",
-      "date": "2026-06-05T04:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/this-is-how-we-found-t.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-05T05:23:59Z"
-    },
-    {
-      "title": "SeaWorld San Diego changes shark story from apex predators to endangered species",
-      "link": "https://www.mercurynews.com/2026/05/20/seaworld-san-diego-changes-shark-story-from-apex-predators-to-endangered-species/",
-      "summary": "Shark Encounter aquarium exhibit reopens on May 22 after an eight-month refurbishment.",
-      "date": "2026-05-20T15:28:14Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/05/OCR-L-SEAWORLD-SHARKS-0519-05.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-06-05T00:15:59Z"
     }
   ]
 }
