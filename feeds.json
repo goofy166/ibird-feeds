@@ -1,8 +1,41 @@
 {
-  "updated": "2026-06-12T04:49:35Z",
-  "updated_utc": "2026-06-12T04:49:35Z",
+  "updated": "2026-06-12T09:05:33Z",
+  "updated_utc": "2026-06-12T09:05:33Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Week in wildlife: a squirrel with a splint, hungry hyenas and a great white shark",
+      "link": "https://www.theguardian.com/environment/gallery/2026/jun/12/week-in-wildlife-squirrel-hyenas-great-white-shark",
+      "summary": "This week’s best wildlife photographs from around the world Continue reading...",
+      "date": "2026-06-12T07:00:38Z",
+      "image": "https://i.guim.co.uk/img/media/813f85804fc4921753164eca82de0c3ff044f8c0/100_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=dc61c6c90f6bdae1c77f2b1b730979f3",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-12T09:05:18Z"
+    },
+    {
+      "title": "Cygnus the Swan flies along the Milky Way",
+      "link": "https://earthsky.org/constellations/cygnus-the-swan-milky-way/",
+      "summary": "Cygnus the Swan is a constellation that lies in front of the starlit band of the Milky Way. Its brightest star, Deneb, is part of the Summer Triangle. The post Cygnus the Swan flie",
+      "date": "2026-06-12T08:30:23Z",
+      "image": "https://earthsky.org/upl/2021/11/Cygnus-Constellation-e1636991421849.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-06-12T09:05:20Z"
+    },
+    {
+      "title": "Mercury is farthest from the sunset on June 15",
+      "link": "https://earthsky.org/tonight/mercury-after-sunset-greatest-elongation-east/",
+      "summary": "The innermost planet, Mercury, will be 18 degrees from the sun at greatest elongation at 18 UTC on February 19. Look for it shortly after sunset near Venus. The post Mercury is far",
+      "date": "2026-06-12T07:00:34Z",
+      "image": "https://earthsky.org/upl/2026/05/June-15-2026-Mercury-NH.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-06-12T09:05:20Z"
+    },
     {
       "title": "Country diary: The grisly beauty of an otter postmortem | Gwyneth Lewis",
       "link": "https://www.theguardian.com/environment/2026/jun/12/country-diary-the-grisly-beauty-of-an-otter-postmortem",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-06-05T10:04:54Z"
-    },
-    {
-      "title": "Arietids – most active daytime meteor shower – around June 10",
-      "link": "https://earthsky.org/astronomy-essentials/arietids-daytime-meteor-shower-peaks/",
-      "summary": "The Arietids - the most active daytime meteor shower - peak on the mornings around June 10. Watch for them before dawn while blocking out the light of the moon. The post Arietids –",
-      "date": "2026-06-05T06:45:01Z",
-      "image": "https://earthsky.org/upl/2022/06/Arieids-Radiant-Point-no-planets-800x798.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-06-05T10:04:54Z"
-    },
-    {
-      "title": "When in Doubt, Bark It Out: Why I Feel Safer With My Reactive Dog",
-      "link": "https://www.outsideonline.com/culture/essays-culture/reactive-dog-good-actually/",
-      "summary": "Bear or man, I let my dog vocalize her feelings about whomever is approaching us in the great outdoors. And I'm done apologizing. The post When in Doubt, Bark It Out: Why I Feel Sa",
-      "date": "2026-06-05T09:13:22Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/reactivedogled.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-05T10:04:59Z"
-    },
-    {
-      "title": "The Reality of Spending 42 Days in Isolation After Being Aboard the Deadly Hantavirus Cruise",
-      "link": "https://www.outsideonline.com/health/wellness/hantavirus-cruise-quarantine/",
-      "summary": "Travel influencer Jake Rosmarin talks to Outside about his quarantine experience after being aboard the hantavirus cruise, aka MV Hondius. The post The Reality of Spending 42 Days ",
-      "date": "2026-06-05T07:11:00Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/jake-rosmarin-mv-hondius.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-05T10:04:59Z"
     }
   ]
 }
