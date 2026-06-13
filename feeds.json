@@ -1,8 +1,30 @@
 {
-  "updated": "2026-06-12T23:26:09Z",
-  "updated_utc": "2026-06-12T23:26:09Z",
+  "updated": "2026-06-13T04:37:45Z",
+  "updated_utc": "2026-06-13T04:37:45Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: It’s a painted lady summer, the stuff of lepidopterists’ legend | Phil Gates",
+      "link": "https://www.theguardian.com/environment/2026/jun/13/country-diary-its-a-painted-lady-summer-the-stuff-of-lepidopterists-legend",
+      "summary": "Wolsingham, Weardale: These stunning butterflies are here in incredible numbers this year, yet what’s most remarkable is their multigenerational migration There’s a painted lady ba",
+      "date": "2026-06-13T04:30:04Z",
+      "image": "https://i.guim.co.uk/img/media/88e5b0c358912d2cbe60816b67eb9509c7012b8c/0_0_1419_1135/master/1419.jpg?width=140&quality=85&auto=format&fit=max&s=add306f915586b389a667ed4aaf9bc7c",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-13T04:37:30Z"
+    },
+    {
+      "title": "Lab-grown canine muscle cells offer solution for early therapeutic testing",
+      "link": "https://phys.org/news/2026-06-lab-grown-canine-muscle-cells.html",
+      "summary": "Before testing new therapies in animals, researchers now have a more efficient starting point—lab-grown canine muscle cells that can help identify what works and what doesn't.",
+      "date": "2026-06-13T02:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lab-grown-canine-muscl.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-13T04:37:42Z"
+    },
     {
       "title": "Ice Plant (Delosperma) Growing Guide",
       "link": "https://www.birdsandblooms.com/gardening/flower-gardening/ice-plant-delosperma/",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-06-05T21:39:14Z"
-    },
-    {
-      "title": "The Supermassive Black Hole at the Heart of Our Galaxy Seems to Be Blowing Wind—Just as Scientists Long Theorized",
-      "link": "https://www.smithsonianmag.com/smart-news/the-supermassive-black-hole-at-the-heart-of-our-galaxy-seems-to-be-blowing-wind-just-as-scientists-long-theorized-180988908/",
-      "summary": "Scientists have been searching for evidence of this breeze since the 1970s. They've seen intense wind from other black holes, but they've struggled to observe the one at the Milky ",
-      "date": "2026-06-05T19:34:01Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/FyFiESbwq_o7G9k7FlWGXEkQUME=/420x240/filters:focal(485x328:486x329)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f9/0c/f90caf9d-9b8b-4433-ba69-402d35b3fbc5/supermassive-black-hole1940__fitmaxwzk3mcw2ntbd.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-05T21:39:15Z"
-    },
-    {
-      "title": "This Basilica Has Been Rising Above Barcelona for 144 Years. With Its Central Tower Now Complete, Pope Leo XIV Prepares to Visit",
-      "link": "https://www.smithsonianmag.com/smartnews-arts-culture/sagrada-familia-basilica-has-been-rising-above-barcelona-for-144-years-with-its-central-tower-now-complete-pope-leo-XIV-prepares-to-visit-180988906/",
-      "summary": "When Antoni Gaudí dreamed up his ambitious vision for Sagrada Família, he knew he wouldn't live to see its completion. One hundred years after the architect's death, the tallest to",
-      "date": "2026-06-05T19:14:25Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/MEytX6l3vSY24I4nldA0aFJKJ0I=/420x240/filters:focal(480x334:481x335)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3a/c3/3ac3fb1d-9ded-4703-a22e-d8973a8d367d/sagrada.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-05T21:39:15Z"
     }
   ]
 }
