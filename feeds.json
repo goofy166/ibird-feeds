@@ -1,8 +1,41 @@
 {
-  "updated": "2026-06-13T16:21:35Z",
-  "updated_utc": "2026-06-13T16:21:35Z",
+  "updated": "2026-06-13T18:16:04Z",
+  "updated_utc": "2026-06-13T18:16:04Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Gee, whiz: elephant relieves itself on floor of Texas Republican convention",
+      "link": "https://www.theguardian.com/us-news/2026/jun/13/texas-elephant-republican-convention",
+      "summary": "Four-ton Paige, brought in as surprise for attenders, made gushing debut after governor finished keynote speech An African elephant weighing roughly 4 tons that was brought to the ",
+      "date": "2026-06-13T17:16:53Z",
+      "image": "https://i.guim.co.uk/img/media/c96be081b009e5ba2b1ae59b5348e16675be5aa6/695_0_7035_5628/master/7035.jpg?width=140&quality=85&auto=format&fit=max&s=5ceaf8eae4ec62aef9cac9c340d151c2",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-13T18:15:48Z"
+    },
+    {
+      "title": "CDC sleuthing helps decipher drug-resistant infection rise",
+      "link": "https://phys.org/news/2026-06-cdc-sleuthing-decipher-drug-resistant.html",
+      "summary": "Previous research from the Centers for Disease Control and Prevention (CDC) found that a dangerous variety of bacteria that cause drug-resistant infections, called NDM-producing ca",
+      "date": "2026-06-13T18:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/microscope-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-13T18:16:00Z"
+    },
+    {
+      "title": "New atlas reveals more about how the body's 'master gland' really works",
+      "link": "https://phys.org/news/2026-06-atlas-reveals-body-master-gland.html",
+      "summary": "A new study has created a detailed map of the pituitary gland, often called the body's \"master gland\" because it controls important functions such as growth, stress and reproductio",
+      "date": "2026-06-13T18:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-atlas-reveals-more-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-13T18:16:00Z"
+    },
     {
       "title": "Heat-surviving cyanobacteria switch to respiration when photosynthesis falters, 48-hour test reveals",
       "link": "https://phys.org/news/2026-06-surviving-cyanobacteria-respiration-photosynthesis-falters.html",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-06-06T12:10:44Z"
-    },
-    {
-      "title": "The Best Dog Beaches in America, According to Dogs",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/dog-friendly-beaches-2/",
-      "summary": "There's something special about a place where people and their dogs can relax, play, and experience the outdoors together. These seven destinations do it best. The post The Best Do",
-      "date": "2026-06-06T11:00:12Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/dog-beach.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-06T12:10:46Z"
-    },
-    {
-      "title": "US reports second case of dangerous livestock pest",
-      "link": "https://phys.org/news/2026-06-case-dangerous-livestock-pest.html",
-      "summary": "The US Department of Agriculture (USDA) said Friday it has detected a second case of a dangerous livestock pest whose flesh-eating larvae can kill cattle.",
-      "date": "2026-06-06T11:23:31Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/cattle.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-06T12:10:52Z"
-    },
-    {
-      "title": "Texas governor wants to speed up work on a fly-breeding factory to fight a cattle parasite",
-      "link": "https://phys.org/news/2026-06-texas-governor-fly-factory-cattle.html",
-      "summary": "Texas Gov. Greg Abbott expressed concern Friday that a new factory isn't expected to start breeding sterile New World screwworm flies for more than a year as a big part of the effo",
-      "date": "2026-06-06T11:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/texas-governor-wants-t.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-06T12:10:52Z"
     }
   ]
 }
