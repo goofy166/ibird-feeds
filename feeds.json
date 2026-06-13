@@ -1,8 +1,96 @@
 {
-  "updated": "2026-06-13T11:21:49Z",
-  "updated_utc": "2026-06-13T11:21:49Z",
+  "updated": "2026-06-13T14:17:16Z",
+  "updated_utc": "2026-06-13T14:17:16Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Identify and Attract a Hooded Oriole",
+      "link": "https://www.birdsandblooms.com/birding/bird-species/tanagers-and-blackbirds/hooded-oriole/",
+      "summary": "If you live in the Southwest, attract a hooded oriole to your backyard with oranges, sugar water and native nectar flowers. The post Identify and Attract a Hooded Oriole appeared f",
+      "date": "2026-05-29T14:07:17Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/05/275259059_1_Neil_Farrell_BNB_BYPC_2021.jpg?fit=700,1024",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-06-13T14:16:56Z"
+    },
+    {
+      "title": "Photos show East Bay man’s close encounter with gray whale on North Coast beach",
+      "link": "https://www.mercurynews.com/2026/06/05/photos-show-close-encounter-with-gray-whale-on-north-coast-beach/",
+      "summary": "An avid amateur nature photographer who was visiting the North Coast last month witnessed an unusual whale sighting and captured it in stunning photos.",
+      "date": "2026-06-05T19:00:44Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/TPD-L-graywhalemay2026-03-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-06-13T14:17:06Z"
+    },
+    {
+      "title": "Harmonic radar tags reveal how mosquitoes move through fields and parkland",
+      "link": "https://phys.org/news/2026-06-harmonic-radar-tags-reveal-mosquitoes.html",
+      "summary": "It's an insect everybody loves to hate. Pesky mosquitoes will be out in swarms as the weather warms up across the U.S.—and their bites aren't just itchy. They can transmit pathogen",
+      "date": "2026-06-13T13:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/harmonic-radar-tags-re.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-13T14:17:12Z"
+    },
+    {
+      "title": "The Ghosts of the Mediterranean: What a rare great white shark sighting could reveal about a changing ocean",
+      "link": "https://phys.org/news/2026-06-ghosts-mediterranean-rare-great-white.html",
+      "summary": "Headlines were made this week when scuba divers removing abandoned ghost nets from a shipwreck between Tunisia and Sicily filmed an adult great white shark. The footage quickly mad",
+      "date": "2026-06-13T12:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/great-white.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-13T14:17:12Z"
+    },
+    {
+      "title": "Engineering enzymes with potential against ALS and Parkinson's disease",
+      "link": "https://phys.org/news/2026-06-enzymes-potential-als-parkinson-disease.html",
+      "summary": "In an advance that could one day lead to new treatments for neurodegenerative diseases, Meredith Jackrel, an associate professor of chemistry in Arts & Sciences at Washington Unive",
+      "date": "2026-06-13T12:00:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/engineering-enzymes-wi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-13T14:17:12Z"
+    },
+    {
+      "title": "How you can stop your cat from bringing home unwelcome pathogens",
+      "link": "https://phys.org/news/2026-06-cat-home-unwelcome-pathogens.html",
+      "summary": "Pets form an important part of many people's lives, providing meaningful companionship. However, our pets can sometimes also be a source of unwelcome pathogens and diseases, partic",
+      "date": "2026-06-13T12:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cat-on-a-fence.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-13T14:17:12Z"
+    },
+    {
+      "title": "NASA's experimental X-59 jet breaks sound barrier for 1st time in step toward 'quiet supersonic' technology",
+      "link": "https://www.livescience.com/space/space-exploration/nasas-experimental-x-59-jet-breaks-sound-barrier-for-1st-time-in-step-toward-quiet-supersonic-technology",
+      "summary": "NASA and Lockheed Martin's experimental X-59 aircraft has broken the sound barrier, achieving a speed of Mach 1.1. The feat could set the stage for \"quiet\" supersonic flight.",
+      "date": "2026-06-13T13:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/b4nMNFNmjCiZU8geMusKpd-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-13T14:17:14Z"
+    },
+    {
+      "title": "'This might be the point of no return': Experts on the current measles outbreak and where we go from here",
+      "link": "https://www.livescience.com/health/viruses-infections-disease/this-might-be-the-point-of-no-return-experts-on-the-current-measles-outbreak-and-where-we-go-from-here",
+      "summary": "Live Science spoke with two authors of a \"progress report\" detailing America's ongoing measles outbreak.",
+      "date": "2026-06-13T12:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/XRpTfuRSojdUsPfKxAbEL7-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-13T14:17:14Z"
+    },
     {
       "title": "A Couple Hours at the Forest Park Waterhole",
       "link": "https://www.10000birds.com/a-couple-hours-at-the-forest-park-waterhole-2.htm?utm_source=rss&utm_medium=rss&utm_campaign=a-couple-hours-at-the-forest-park-waterhole-2",
@@ -5414,94 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-06-06T10:12:42Z"
-    },
-    {
-      "title": "Wild Bison Return to the Outskirts of Chicago for the First Time in 200 Years",
-      "link": "https://www.outsideonline.com/adventure-travel/news-analysis/illinois-bison-burlington-prairie/",
-      "summary": "Sixty miles outside of downtown Chicago, wild bison have been brought back to the prairie for the first time in over 200 years. The post Wild Bison Return to the Outskirts of Chica",
-      "date": "2026-06-06T09:05:24Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/IMG_6148-1.jpeg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-06T10:12:42Z"
-    },
-    {
-      "title": "Why can't we figure out how strong gravity is?",
-      "link": "https://www.livescience.com/physics-mathematics/why-cant-we-figure-out-how-strong-gravity-is",
-      "summary": "Despite dozens of experiments over the years, scientists still don't have a precise measurement for gravity's strength. Why is that?",
-      "date": "2026-06-06T09:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/wTHU3C9ncX2HByU83am6ji-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-06T10:12:48Z"
-    },
-    {
-      "title": "Hong Kong – Profile for Birders",
-      "link": "https://www.10000birds.com/hong-kong-profile-for-birders.htm?utm_source=rss&utm_medium=rss&utm_campaign=hong-kong-profile-for-birders",
-      "summary": "Highlights Being a metropolis for over 7.5 million people, Hong Kong is a vibrant city that offers visitors a unique experience of amazing infrastructure, great food, and culture. ",
-      "date": "2026-06-06T04:10:02Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/05/1280px-China_Hong_Kong_4_levels_localisation.svg_.png",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-06-06T07:49:54Z"
-    },
-    {
-      "title": "How the ‘Picasso of ponds’ went from shaping golf courses to making freshwater homes for wildlife",
-      "link": "https://www.theguardian.com/environment/2026/jun/06/picasso-of-ponds-wildlife-rewilding-habitats",
-      "summary": "Shaun Hancox has created scores of ponds for rewilding projects across Britain – and he says there’s a lot more to it than digging a hole He is known as “the Picasso of ponds” but ",
-      "date": "2026-06-06T07:00:03Z",
-      "image": "https://i.guim.co.uk/img/media/aaafc76afbb00b0e23d81ee3b3b9d10fdee15f11/767_286_7830_6267/master/7830.jpg?width=140&quality=85&auto=format&fit=max&s=b19da4a0dd73ba52d8136c9ae5f7a036",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-06T07:50:00Z"
-    },
-    {
-      "title": "Country diary: A plough, a haybale – who would live in a house like this? | Nicola Chester",
-      "link": "https://www.theguardian.com/environment/2026/jun/06/country-diary-a-plough-a-haybale-who-would-live-in-a-house-like-this",
-      "summary": "Hungerford, Berkshire: In a nearby farm, ever-resourceful birds and bees are getting creative with where they build their nests There are some unusual nesting spots being utilised ",
-      "date": "2026-06-06T07:00:04Z",
-      "image": "https://i.guim.co.uk/img/media/16b0c21f6a8de918ecbbf3e4106ec282759ca500/50_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=9d8d65b6e093729e86e8a30659e96da5",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-06T07:50:00Z"
-    },
-    {
-      "title": "Predator or prey? The confounding case of the missing sea eagle",
-      "link": "https://www.theguardian.com/news/ng-interactive/2026/jun/06/missing-white-tailed-sea-eagle-north-york-moors",
-      "summary": "The UK’s biggest bird of prey has been compared to a flying barn door. So how can one fitted with a satellite tracker disappear in prime grouse-shooting country? The six police off",
-      "date": "2026-06-06T05:00:01Z",
-      "image": "https://i.guim.co.uk/img/media/f7d542117903ea6ea026689076f5cf825a5eb2bd/0_65_1080_863/master/1080.jpg?width=140&quality=85&auto=format&fit=max&s=f4f7efd83fe44b0d00cccaf6c8777d16",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-06T07:50:00Z"
-    },
-    {
-      "title": "Navigation: How Birds Find Their Way When They Migrate",
-      "link": "https://www.allaboutbirds.org/news/the-basics-migration-navigation/",
-      "summary": "Updated May 2026; first published April 2008. Twice a year billions of birds take to the skies as they migrate to and from their summer and winter homes (or breeding ... Read more ",
-      "date": "2026-05-13T17:50:00Z",
-      "image": "https://www.allaboutbirds.org/news/wp-content/uploads/2026/05/650726543-White-crowned-Sparrow-Keith-Kennedy1.jpg",
-      "name": "All About Birds",
-      "category": "birds",
-      "color": 3,
-      "fetched_at": "2026-06-06T04:09:21Z"
-    },
-    {
-      "title": "Scientists map more than 200 years of nature's progress",
-      "link": "https://phys.org/news/2026-06-scientists-years-nature.html",
-      "summary": "Armed with trail cameras, artificial intelligence, and a powerful national research network, scientists are revisiting Lewis and Clark's legendary journey to see how America's wild",
-      "date": "2026-06-06T02:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mizzou-helps-smithsoni.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-06T04:09:36Z"
     }
   ]
 }
