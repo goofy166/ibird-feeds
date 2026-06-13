@@ -1,8 +1,41 @@
 {
-  "updated": "2026-06-13T20:21:34Z",
-  "updated_utc": "2026-06-13T20:21:34Z",
+  "updated": "2026-06-13T22:12:39Z",
+  "updated_utc": "2026-06-13T22:12:39Z",
   "count": 500,
   "stories": [
+    {
+      "title": "New leader takes the helm at the Monterey Bay Aquarium",
+      "link": "https://www.mercurynews.com/2026/06/06/new-leader-takes-the-helm-at-the-monterey-bay-aquarium/",
+      "summary": "Jenny Gray succeeds Julie Packard, the only CEO the famed ocean center has known since it opened in 1984",
+      "date": "2026-06-06T12:00:21Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/SJM-L-Jenny-Gray-Monterey-Bay-Aquarium-CEO-2026-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-06-13T22:12:30Z"
+    },
+    {
+      "title": "Could leaves help feed humanity after disaster?",
+      "link": "https://phys.org/news/2026-06-humanity-disaster.html",
+      "summary": "UC researchers are investigating whether leaf protein and sugar extracted from plant fiber could help sustain people if major global shocks disrupt food production. Te Whare Wānang",
+      "date": "2026-06-13T21:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-leaves-help-feed.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-13T22:12:36Z"
+    },
+    {
+      "title": "Dogs and humans are more alike than we thought, study finds",
+      "link": "https://phys.org/news/2026-06-dogs-humans-alike-thought.html",
+      "summary": "The same biological signals that help predict lifespan in humans also appear in dogs, according to new research from the Dog Aging Project—a finding that could help scientists bett",
+      "date": "2026-06-13T21:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/dog-owner.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-13T22:12:36Z"
+    },
     {
       "title": "‘Flamin’ cockatoos’ have lost much of their habitat to bushfires. Can the species survive?",
       "link": "https://www.theguardian.com/environment/ng-interactive/2026/jun/14/pink-cockatoos-bushfire-habitat-loss-wyperfeld-national-park-victoria",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-06-06T14:48:36Z"
-    },
-    {
-      "title": "OMG, So Cute!",
-      "link": "https://www.10000birds.com/omg-so-cute.htm?utm_source=rss&utm_medium=rss&utm_campaign=omg-so-cute",
-      "summary": "It is called kawaii – cute – a very Japanese cultural and anthropological phenomenon. What can the rest of the world offer in terms of cuteness? The New World is a lost cause, I’m ",
-      "date": "2026-06-06T11:00:36Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/05/d2901aba-33bc-4b6d-bb08-96c5f3e1d3de-1.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-06-06T12:10:33Z"
-    },
-    {
-      "title": "The Hummingbirds of Western Montana",
-      "link": "https://www.10000birds.com/the-hummingbirds-of-western-montana-2.htm?utm_source=rss&utm_medium=rss&utm_campaign=the-hummingbirds-of-western-montana-2",
-      "summary": "This post is republished in our “From the Archives” series, featuring highlights of our vast back catalogue of more than 10,000 birding-related posts published over the last 15 yea",
-      "date": "2026-06-06T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/Rufous-hummer.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-06-06T12:10:33Z"
-    },
-    {
-      "title": "Fieldwork Philosophy",
-      "link": "https://www.10000birds.com/fieldwork-philosophy.htm?utm_source=rss&utm_medium=rss&utm_campaign=fieldwork-philosophy",
-      "summary": "By Anton Schultz Anton Schultz is a bird guide at Birding Ecotours. He is based in South Africa and recently completed his honours degree in Zoology at the University of Pretoria, ",
-      "date": "2026-06-06T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/04/image-20.jpeg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-06-06T12:10:33Z"
     }
   ]
 }
