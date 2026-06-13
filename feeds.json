@@ -1,8 +1,19 @@
 {
-  "updated": "2026-06-13T18:16:04Z",
-  "updated_utc": "2026-06-13T18:16:04Z",
+  "updated": "2026-06-13T20:21:34Z",
+  "updated_utc": "2026-06-13T20:21:34Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘Flamin’ cockatoos’ have lost much of their habitat to bushfires. Can the species survive?",
+      "link": "https://www.theguardian.com/environment/ng-interactive/2026/jun/14/pink-cockatoos-bushfire-habitat-loss-wyperfeld-national-park-victoria",
+      "summary": "Two fires in 12 years wiped out all but a handful of the mature native pines in Victoria’s Wyperfeld national park, a key breeding ground for endangered pink cockatoos Get our brea",
+      "date": "2026-06-13T20:00:23Z",
+      "image": "https://i.guim.co.uk/img/media/7dc5f7c26028a1ca522afce657e167fffb16a0b8/0_1_3055_2442/master/3055.jpg?width=140&quality=85&auto=format&fit=max&s=2544b346873598d123b01e864d50f81a",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-13T20:21:20Z"
+    },
     {
       "title": "Gee, whiz: elephant relieves itself on floor of Texas Republican convention",
       "link": "https://www.theguardian.com/us-news/2026/jun/13/texas-elephant-republican-convention",
@@ -5491,17 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-06-06T12:10:33Z"
-    },
-    {
-      "title": "New leader takes the helm at the Monterey Bay Aquarium",
-      "link": "https://www.mercurynews.com/2026/06/06/new-leader-takes-the-helm-at-the-monterey-bay-aquarium/",
-      "summary": "Jenny Gray succeeds Julie Packard, the only CEO the famed ocean center has known since it opened in 1984",
-      "date": "2026-06-06T12:00:21Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/SJM-L-Jenny-Gray-Monterey-Bay-Aquarium-CEO-2026-01.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-06-06T12:10:44Z"
     }
   ]
 }
