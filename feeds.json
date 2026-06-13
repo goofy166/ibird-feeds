@@ -1,8 +1,19 @@
 {
-  "updated": "2026-06-13T04:37:45Z",
-  "updated_utc": "2026-06-13T04:37:45Z",
+  "updated": "2026-06-13T08:27:52Z",
+  "updated_utc": "2026-06-13T08:27:52Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Tropical heron spotted in UK for first time as more exotic birds arrive to thrill birdwatchers",
+      "link": "https://www.theguardian.com/environment/2026/jun/13/tropical-heron-spotted-first-time-uk-aoe",
+      "summary": "Appearance of a western reef heron in north Wales is unlikely to be the last, as heating temperatures mean species can survive Britain’s winter, say experts It is a tropical bird t",
+      "date": "2026-06-13T07:00:08Z",
+      "image": "https://i.guim.co.uk/img/media/33ff26392dc5eba422f0031d43f6c2dae2534b03/0_0_2683_2146/master/2683.jpg?width=140&quality=85&auto=format&fit=max&s=c8699a0cdb15d8d869210ccaf81496b6",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-13T08:27:37Z"
+    },
     {
       "title": "Country diary: It’s a painted lady summer, the stuff of lepidopterists’ legend | Phil Gates",
       "link": "https://www.theguardian.com/environment/2026/jun/13/country-diary-its-a-painted-lady-summer-the-stuff-of-lepidopterists-legend",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-06-05T21:39:12Z"
-    },
-    {
-      "title": "Colorado Crews Are Cleaning Up an “Abundance of Human Shit” at One of the State’s Most Popular Trails",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/colorado-blue-lakes-trail-human-poop/",
-      "summary": "Thousands of hikers flock to Colorado's stunning Blue Lakes every year. They're leaving behind a massive trail of human waste that crews are struggling to clean up. The post Colora",
-      "date": "2026-06-05T21:04:11Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/2025_07_21_NFF_BLUE_LAKES-460.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-05T21:39:14Z"
     }
   ]
 }
