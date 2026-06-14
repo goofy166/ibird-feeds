@@ -1,8 +1,30 @@
 {
-  "updated": "2026-06-14T17:26:34Z",
-  "updated_utc": "2026-06-14T17:26:34Z",
+  "updated": "2026-06-14T19:47:46Z",
+  "updated_utc": "2026-06-14T19:47:46Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Manakins' dazzling dances may owe their origins to an ancient diet shift",
+      "link": "https://phys.org/news/2026-06-manakins-dazzling-owe-ancient-diet.html",
+      "summary": "Few animals put on a show quite like manakins. In the rainforests of Central and South America, males of these small tropical birds, with strikingly bright plumage, often gather at",
+      "date": "2026-06-14T19:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/evolutionary-origins-o.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-14T19:47:43Z"
+    },
+    {
+      "title": "Plant diversity may explain why some caterpillars are fussy about their food",
+      "link": "https://phys.org/news/2026-06-diversity-caterpillars-fussy-food.html",
+      "summary": "Many insects will eat almost anything in their sight, such as certain beetles, grasshoppers and locusts, while others are remarkably picky eaters. For example, numerous insect herb",
+      "date": "2026-06-14T18:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/butterfly-caterpillar.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-06-14T19:47:43Z"
+    },
     {
       "title": "A 5.3-million‑year‑old whale graveyard has been found on the floor of the Indian Ocean",
       "link": "https://phys.org/news/2026-06-millionyearold-whale-graveyard-floor-indian.html",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-06-07T09:27:38Z"
-    },
-    {
-      "title": "Fisher with a mission: first woman to chair Grayling Society wants to protect ‘lady of the stream’",
-      "link": "https://www.theguardian.com/environment/2026/jun/07/fisher-mission-first-woman-chair-grayling-society-protect-rivers",
-      "summary": "Marnie Lovejoy hopes to inspire other women to fish, protect England’s rivers and lift up the ‘beautiful’ grayling With its iridescent pink scales and elegant dorsal fin, the grayl",
-      "date": "2026-06-07T07:00:27Z",
-      "image": "https://i.guim.co.uk/img/media/2b394515acf4d89bc960e1560e43b2e96c9fcadc/466_1_3334_2669/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=addf1ec8bf5d7098472ea9bd8fd2a495",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-07T09:27:38Z"
-    },
-    {
-      "title": "What's the deepest cave in the world?",
-      "link": "https://www.livescience.com/planet-earth/whats-the-deepest-cave-in-the-world",
-      "summary": "There are two contenders for the world's deepest cave, and they're in the same mountain range.",
-      "date": "2026-06-07T09:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/CBDeCqXt6iyQUj3JmzMtFB-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-07T09:27:50Z"
     }
   ]
 }
