@@ -1,8 +1,41 @@
 {
-  "updated": "2026-06-14T12:04:49Z",
-  "updated_utc": "2026-06-14T12:04:49Z",
+  "updated": "2026-06-14T15:11:12Z",
+  "updated_utc": "2026-06-14T15:11:12Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Standard tests do not always detect all gluten residues in barley beer",
+      "link": "https://phys.org/news/2026-06-standard-gluten-residues-barley-beer.html",
+      "summary": "Some barley beers labeled \"gluten-free\" contain small amounts of gluten residues that may trigger celiac disease but are not detected by the standard antibody-based tests currently",
+      "date": "2026-06-14T14:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/standard-tests-do-not.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-14T15:11:09Z"
+    },
+    {
+      "title": "Bow-Wow, Ding-Dong, Pooh-Pooh: Expert explains early theories of how human language evolved — and their silly names",
+      "link": "https://www.livescience.com/archaeology/bow-wow-ding-dong-pooh-pooh-expert-explains-early-theories-of-how-human-language-evolved-and-their-silly-names",
+      "summary": "There are many theories as to how human language first evolved. But none completely explains why it happened.",
+      "date": "2026-06-14T15:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/htnna8apaPGAEpd4eQ7wDG-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-14T15:11:10Z"
+    },
+    {
+      "title": "Famous child mummies in Andes may belong to kids who were sacrificed to 'ritually anchor' the Inca's presence as their empire expanded",
+      "link": "https://www.livescience.com/archaeology/americas/famous-child-mummies-in-andes-may-belong-to-kids-who-were-sacrificed-to-ritually-anchor-the-incas-presence-as-their-empire-expanded",
+      "summary": "An analysis of corn, cassava and coca plants discovered with sacrificed Inca children reveals they died during the reign of one of the last Inca emperors.",
+      "date": "2026-06-14T13:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/UuhGbzKq2uyz3SYSDGPj4-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-14T15:11:10Z"
+    },
     {
       "title": "Three Photos: Nests in Central Park, NY",
       "link": "https://www.10000birds.com/three-photos-nests-in-central-park-ny.htm?utm_source=rss&utm_medium=rss&utm_campaign=three-photos-nests-in-central-park-ny",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 15,
       "fetched_at": "2026-06-07T00:12:17Z"
-    },
-    {
-      "title": "A Cattle Farm in Alabama Draws Birders for a Spectacle of Kites",
-      "link": "https://www.birds.cornell.edu/home/a-cattle-farm-in-alabama-draws-birders-for-a-spectacle-of-kites/",
-      "summary": "",
-      "date": "Tue, 24 Mar 2026 13Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Argiope_aurantia_020.jpg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-06-07T00:12:17Z"
-    },
-    {
-      "title": "120,000-year-old European fallow deer—tracing the loss of genetic diversity",
-      "link": "https://phys.org/news/2026-06-year-european-fallow-deer-loss.html",
-      "summary": "European fallow deer have faced a dramatic loss of genetic diversity since the last interglacial period. This was revealed by 120,000-year-old fossils from central Germany's Neumar",
-      "date": "2026-06-06T21:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/120000-year-old-europe.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-06T22:10:32Z"
-    },
-    {
-      "title": "Ever seen a cave cricket? Australia now has three new species of these spindly, spider-like creatures",
-      "link": "https://phys.org/news/2026-06-cave-cricket-australia-species-spindly.html",
-      "summary": "When you picture a cave, you probably think of an environment devoid of life. But for most caves on Earth, this couldn't be further from the truth.",
-      "date": "2026-06-06T21:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ever-seen-a-cave-crick.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-06T22:10:32Z"
     }
   ]
 }
