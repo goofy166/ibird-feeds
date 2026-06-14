@@ -1,8 +1,30 @@
 {
-  "updated": "2026-06-14T15:11:12Z",
-  "updated_utc": "2026-06-14T15:11:12Z",
+  "updated": "2026-06-14T17:26:34Z",
+  "updated_utc": "2026-06-14T17:26:34Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A 5.3-million‑year‑old whale graveyard has been found on the floor of the Indian Ocean",
+      "link": "https://phys.org/news/2026-06-millionyearold-whale-graveyard-floor-indian.html",
+      "summary": "When a whale dies, a very special natural phenomenon can come alive. The carcass might float at the surface for some time, attracting sharks and other predators. As it becomes weat",
+      "date": "2026-06-14T17:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-53-millionyearold-wh.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-14T17:26:30Z"
+    },
+    {
+      "title": "Researchers publish first complete connectome of fruit fly brain and 'spinal cord'",
+      "link": "https://phys.org/news/2026-06-publish-connectome-fruit-fly-brain.html",
+      "summary": "In a first, a large, international team led by multiple labs at Harvard Medical School and Princeton University has published a complete wiring diagram of all the connections betwe",
+      "date": "2026-06-14T16:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-publish-fi-3.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-14T17:26:30Z"
+    },
     {
       "title": "Standard tests do not always detect all gluten residues in barley beer",
       "link": "https://phys.org/news/2026-06-standard-gluten-residues-barley-beer.html",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-06-07T09:27:50Z"
-    },
-    {
-      "title": "Medieval pandemic left a hidden legacy in Europe's oldest trees",
-      "link": "https://phys.org/news/2026-06-medieval-pandemic-left-hidden-legacy.html",
-      "summary": "A new study published in the Proceedings of the National Academy of Sciences demonstrates how radiocarbon dating can reveal the maximum lifespan of Mediterranean hardwoods, uncover",
-      "date": "2026-06-06T23:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/medieval-pandemic-left.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-07T00:12:14Z"
-    },
-    {
-      "title": "Warblers in New Hampshire’s Forests Have Found an Ideal Way to Divvy Up Territories",
-      "link": "https://www.birds.cornell.edu/home/warblers-in-new-hampshires-forests-have-found-an-ideal-way-to-divvy-up-territories/",
-      "summary": "",
-      "date": "Tue, 24 Mar 2026 13Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/GrasshopperSpirit.jpg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-06-07T00:12:17Z"
     }
   ]
 }
