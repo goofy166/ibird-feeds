@@ -1,8 +1,118 @@
 {
-  "updated": "2026-06-15T21:15:40Z",
-  "updated_utc": "2026-06-15T21:15:40Z",
+  "updated": "2026-06-15T23:52:55Z",
+  "updated_utc": "2026-06-15T23:52:55Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Two humpback whales found dead on Monterey Bay beaches may have been killed by toxic algae blooms",
+      "link": "https://www.mercurynews.com/2026/06/15/two-humpback-whales-found-dead-on-monterey-bay-beaches-may-have-been-killed-by-toxic-algae-blooms/",
+      "summary": "The animals washed up on Sunset State Beach and in Pacific Grove earlier this month.",
+      "date": "2026-06-15T22:53:32Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/SJM-L-WHALE-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-06-15T23:52:45Z"
+    },
+    {
+      "title": "Campbell woman seeing lots of cockroaches; she’s not alone",
+      "link": "https://www.mercurynews.com/2026/06/08/campbell-woman-seeing-lots-of-cockroaches-shes-not-alone/",
+      "summary": "Bay Area seeing more of the insects than usual this year",
+      "date": "2026-06-08T13:30:28Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/SJM-L-JOANCOL-0607-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-06-15T23:52:45Z"
+    },
+    {
+      "title": "A Museum of American Music—Headlined by Bruce Springsteen—Opened in New Jersey With Instruments, Lyrics and Clothes From Rock Stars and Pop Legends",
+      "link": "https://www.smithsonianmag.com/smart-news/a-museum-of-american-music-headlined-by-bruce-springsteen-opens-in-new-jersey-with-instruments-lyrics-and-clothes-from-rock-stars-and-pop-legends-180988958/",
+      "summary": "The Bruce Springsteen Center for American Music at Monmouth University, which houses the archives of its namesake Rock & Roll Hall of Fame inductee, welcomed its first visitors",
+      "date": "2026-06-15T21:13:43Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/liFLelhGJsikxnBQtpfshOs6VUM=/420x240/filters:focal(1009x672:1010x673)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/88/bd/88bd1cf7-5ec9-4256-a749-ddf8f2a623c5/720226781_1518412666746763_579952175086395446_n.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-06-15T23:52:48Z"
+    },
+    {
+      "title": "Understanding anorexia’s grip on the brain could unlock new therapies",
+      "link": "https://www.newscientist.com/article/2528588-understanding-anorexias-grip-on-the-brain-could-unlock-new-therapies/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "One-third of people with anorexia nervosa don’t recover and treatment has remained stagnant for years. Now we’re beginning to understand how the condition takes over the mind",
+      "date": "2026-06-08T14:00:41Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/02161105/SEI_299828365.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-15T23:52:51Z"
+    },
+    {
+      "title": "How plants rush energy to injured tissues to help them heal",
+      "link": "https://phys.org/news/2026-06-energy-tissues.html",
+      "summary": "A new study finds that plants respond to injury by actively redirecting sugars to damaged tissues, helping fuel the regeneration process. Using a fluorescent sensor to track sugar ",
+      "date": "2026-06-15T23:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-plants-rush-energy.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-15T23:52:52Z"
+    },
+    {
+      "title": "Digital tools reveal hidden extinctions as AI reshapes global conservation",
+      "link": "https://phys.org/news/2026-06-digital-tools-reveal-hidden-extinctions.html",
+      "summary": "In a seismic shift since Kew's inaugural State of the World report 10 years ago, the sixth State of the World's Plants and Fungi report, published June 16, 2026, brings together ex",
+      "date": "2026-06-15T23:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-and-digitisation-tr.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-15T23:52:52Z"
+    },
+    {
+      "title": "New imaging technique measures single scramblase proteins, revealing lipid transport rates",
+      "link": "https://phys.org/news/2026-06-imaging-technique-scramblase-proteins-revealing.html",
+      "summary": "A new single-protein analysis technique gives researchers an unprecedented ability to study proteins called scramblases, which have critical roles in biology. The development of th",
+      "date": "2026-06-15T22:40:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-tool-empowers-rese.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-15T23:52:52Z"
+    },
+    {
+      "title": "Only 10 viral particles cause H5N1 avian flu infection in cows",
+      "link": "https://phys.org/news/2026-06-viral-particles-h5n1-avian-flu.html",
+      "summary": "Just 10 viral particles of the H5N1 bird flu that caused hundreds of influenza outbreaks in U.S. dairy cattle can cause infection in cows, a new study shows. The research also hint",
+      "date": "2026-06-15T22:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/dairy-cows-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-15T23:52:52Z"
+    },
+    {
+      "title": "Plants reveal backup system for sensing and adapting to rising temperatures",
+      "link": "https://phys.org/news/2026-06-reveal-backup-temperatures.html",
+      "summary": "University of Mississippi researchers are studying how plants respond to heat at the molecular level, an important consideration for farmers, businesses and policymakers as global ",
+      "date": "2026-06-15T21:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-reveals-how-plan-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-15T23:52:52Z"
+    },
+    {
+      "title": "Lavish Roman villa discovered outside Rome's walls may have been frequented by Hadrian and Marcus Aurelius",
+      "link": "https://www.livescience.com/archaeology/romans/lavish-roman-villa-discovered-outside-romes-walls-may-have-been-frequented-by-hadrian-and-marcus-aurelius",
+      "summary": "The villa, which came to light because it was illegally excavated, was found in an area frequented two millennia ago by the emperors Hadrian, Antoninus Pius and Marcus Aurelius.",
+      "date": "2026-06-15T21:36:48Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/3MvRLbyHLu7G7vLPrD4VHN-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-15T23:52:53Z"
+    },
     {
       "title": "Outdoor Daredevil “Sketchy Andy” Lewis Dies in a BASE-Jumping Accident",
       "link": "https://www.outsideonline.com/outdoor-adventure/climbing/andy-lewis-dies-base-jumping-accident/",
@@ -5392,116 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-06-08T19:27:13Z"
-    },
-    {
-      "title": "Half the world's reservoirs could be clogged up with dirt by 2060",
-      "link": "https://www.newscientist.com/article/2529526-half-the-worlds-reservoirs-could-be-clogged-up-with-dirt-by-2060/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Each decade the world is losing over 7 per cent of its freshwater storage capacity to sediment build-up, according to an analysis of over half a million reservoirs",
-      "date": "2026-06-08T15:05:57Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/08124717/SEI_300622845.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-08T19:27:13Z"
-    },
-    {
-      "title": "Ribosome tunnel interactions reveal how bacteria can pause protein production",
-      "link": "https://phys.org/news/2026-06-ribosome-tunnel-interactions-reveal-bacteria.html",
-      "summary": "How do bacteria regulate the production of their proteins? Researchers at the University of Hamburg, in collaboration with international partners, have now demonstrated how small p",
-      "date": "2026-06-08T19:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-discover-n-10.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-08T19:27:14Z"
-    },
-    {
-      "title": "Recovered wild maize gene boosts crop protein without yield loss",
-      "link": "https://phys.org/news/2026-06-recovered-wild-maize-gene-boosts.html",
-      "summary": "Maize (Zea mays L.) plays an important role in global food security. During 9,000 years of maize domestication and breeding, however, protein content was not a major breeding targe",
-      "date": "2026-06-08T18:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-recover-hi.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-08T19:27:14Z"
-    },
-    {
-      "title": "What happens when the world's breadbaskets start failing simultaneously?",
-      "link": "https://phys.org/news/2026-06-world-breadbaskets-simultaneously.html",
-      "summary": "Agriculture today is a massive, globally interconnected industry. That interconnectivity has brought jobs and varied foods to people who might not otherwise be able to access them.",
-      "date": "2026-06-08T18:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/drought-farm.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-08T19:27:14Z"
-    },
-    {
-      "title": "Two decades of research shows Indonesia's coral reefs are heat tolerant—but only up to a point",
-      "link": "https://phys.org/news/2026-06-decades-indonesia-coral-reefs-tolerant.html",
-      "summary": "Indonesia is home to the world's largest and most biodiverse coral reef system, spanning more than 32,000 square kilometers across the archipelago. Just like what is happening glob",
-      "date": "2026-06-08T17:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-decades-of-researc.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-08T19:27:14Z"
-    },
-    {
-      "title": "Frozen rat chromosome springs back to life inside a mouse embryo",
-      "link": "https://phys.org/news/2026-06-frozen-rat-chromosome-life-mouse.html",
-      "summary": "Scientists in Japan have developed a rat-mouse hybrid embryo from a single frozen rat chromosome transplanted into a mouse egg cell. The achievement is proof that genetic material ",
-      "date": "2026-06-08T17:12:12Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oocytes.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-08T19:27:14Z"
-    },
-    {
-      "title": "Thanks to natural selection, Indigenous Andeans may digest potatoes better than anyone else in the world, study finds",
-      "link": "https://www.livescience.com/archaeology/americas/thanks-to-natural-selection-indigenous-andeans-may-digest-potatoes-better-than-anyone-else-in-the-world-study-finds",
-      "summary": "After domesticating potatoes 10,000 years ago, the ancient people of the Andes evolved to have more copies of a key gene involved in digesting starch.",
-      "date": "2026-06-08T16:54:23Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/JWmPg6CbULoz8s9gzZAhxL-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-08T19:27:15Z"
-    },
-    {
-      "title": "'A disease anywhere can be a disease everywhere tomorrow morning': Public health expert on Ebola and the threat of future outbreaks",
-      "link": "https://www.livescience.com/health/viruses-infections-disease/a-disease-anywhere-can-be-a-disease-everywhere-tomorrow-morning-public-health-expert-on-ebola-and-the-threat-of-future-outbreaks",
-      "summary": "Live Science spoke with Dr. Ali S. Khan, an epidemiologist and former assistant surgeon general of the U.S. Public Health Service, about the ongoing Ebola epidemic and the U.S.'s p",
-      "date": "2026-06-08T16:17:40Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/twjHdcMRyqMax4NvM4qkXV-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-08T19:27:15Z"
-    },
-    {
-      "title": "Sea ice loss in the Arctic has triggered a critical tipping point that's destroying the food chain",
-      "link": "https://www.livescience.com/planet-earth/arctic/sea-ice-loss-in-the-arctic-has-triggered-a-critical-tipping-point-thats-destroying-the-food-chain",
-      "summary": "Researchers say the Arctic Ocean crossed a biological tipping point in 2009, when nitrate levels in the water suddenly started dropping due to a drastic reduction in sea ice extent",
-      "date": "2026-06-08T16:16:42Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/kRzzT4dAmKK9afNFQcrAFf-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-08T19:27:15Z"
-    },
-    {
-      "title": "Call to phase out ‘inhumane’ guga hunt by working with Hebridean islanders",
-      "link": "https://www.theguardian.com/environment/2026/jun/08/call-phase-out-inhumane-guga-hunt-working-hebridean-islanders",
-      "summary": "Annual killing of infant gannets has been carried out on a remote Scottish island for at least 400 years Animal welfare campaigners have called for talks on phasing out the “inhuma",
-      "date": "2026-06-08T14:05:09Z",
-      "image": "https://i.guim.co.uk/img/media/7f117ecf717d5af68a644849db549497c03e52c0/876_274_4203_3363/master/4203.jpg?width=140&quality=85&auto=format&fit=max&s=7bb0338ad6eb77754af738962fa56bdd",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-08T16:09:23Z"
     }
   ]
 }
