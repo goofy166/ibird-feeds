@@ -1,8 +1,41 @@
 {
-  "updated": "2026-06-14T23:17:07Z",
-  "updated_utc": "2026-06-14T23:17:07Z",
+  "updated": "2026-06-15T05:12:27Z",
+  "updated_utc": "2026-06-15T05:12:27Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary 1906: A wood boring wasp captured in the coalpit",
+      "link": "https://www.theguardian.com/environment/2026/jun/15/country-diary-1906-wood-boring-wasp-captured-in-coalpit",
+      "summary": "21 June 1906 : Maggots attack sound wood and do considerable damage to pit-props An insect which was captured in a coalpit near Wigan has been sent to me. The son of the collier wh",
+      "date": "2026-06-15T05:00:02Z",
+      "image": "https://i.guim.co.uk/img/media/8a28c0368b5449d6a9690468154cc32132a20ed0/340_0_3396_2717/master/3396.jpg?width=140&quality=85&auto=format&fit=max&s=a18eddcacf891ccebd63785ef8ac82e7",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-15T05:12:12Z"
+    },
+    {
+      "title": "Country diary: Our island’s wandering wallabies come at a cost | Tim Earl",
+      "link": "https://www.theguardian.com/environment/2026/jun/15/country-diary-our-islands-wandering-wallabies-come-at-a-cost",
+      "summary": "Ballaugh, Isle of Man: As I discover, spotting one of these marsupials isn’t hard. The problem is how to manage them Walking through Ballaugh Curraghs, a marshland in the north of ",
+      "date": "2026-06-15T04:30:02Z",
+      "image": "https://i.guim.co.uk/img/media/b193342f8d21c20abbc79570731f4861ebfb1211/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=b126052c1db1114b313d2949f038a02e",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-15T05:12:12Z"
+    },
+    {
+      "title": "Devoted dads and citizen science: The evolution of parental care in harvestmen spiders is uncovered",
+      "link": "https://phys.org/news/2026-06-devoted-dads-citizen-science-evolution.html",
+      "summary": "Citizen science data from the popular platform iNaturalist has helped uncover the evolution of parental guarding behavior in harvestmen spiders, as shown in research published in t",
+      "date": "2026-06-15T03:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/devoted-dads-and-citiz.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-15T05:12:23Z"
+    },
     {
       "title": "Book Review: When the Forest Dreams by Andrea Ezerins",
       "link": "https://www.10000birds.com/book-review-when-the-forest-dreams-by-andrea-ezerins.htm?utm_source=rss&utm_medium=rss&utm_campaign=book-review-when-the-forest-dreams-by-andrea-ezerins",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-06-07T11:55:25Z"
-    },
-    {
-      "title": "First nonrepeating biological clock discovered in C. elegans guides growth",
-      "link": "https://phys.org/news/2026-06-nonrepeating-biological-clock-elegans-growth.html",
-      "summary": "Imagine a train parked at the station. Passengers climb aboard and find their seats. Conductors move up and down the aisles, checking tickets. But there's a problem—the engineer's ",
-      "date": "2026-06-07T10:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-our-biological-clo.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-07T11:55:26Z"
-    },
-    {
-      "title": "Hidden protein switch controls photosynthesis as light conditions change",
-      "link": "https://phys.org/news/2026-06-hidden-protein-photosynthesis-conditions.html",
-      "summary": "Scientists have discovered a previously unknown regulatory mechanism in plant photosynthesis in the unicellular green alga Chlamydomonas reinhardtii. It helps plants adapt to chang",
-      "date": "2026-06-07T09:50:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chlamydomonas-reinhard.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-07T11:55:26Z"
-    },
-    {
-      "title": "Kaleidoscopic meteorite could be a piece of a 'lost world' from the early solar system — Space photo of the week",
-      "link": "https://www.livescience.com/space/meteoroids/kaleidoscopic-meteorite-could-be-a-piece-of-a-lost-world-from-the-early-solar-system-space-photo-of-the-week",
-      "summary": "A rare meteorite found in the Sahara Desert may be evidence of a long-lost \"protoplanet\" that formed in the early solar system before being destroyed in a colossal collision, a new",
-      "date": "2026-06-07T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/5DSrtheVBN2GVKAz98mRxK-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-07T11:55:28Z"
     }
   ]
 }
