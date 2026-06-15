@@ -1,8 +1,162 @@
 {
-  "updated": "2026-06-15T17:58:12Z",
-  "updated_utc": "2026-06-15T17:58:12Z",
+  "updated": "2026-06-15T21:15:40Z",
+  "updated_utc": "2026-06-15T21:15:40Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Outdoor Daredevil “Sketchy Andy” Lewis Dies in a BASE-Jumping Accident",
+      "link": "https://www.outsideonline.com/outdoor-adventure/climbing/andy-lewis-dies-base-jumping-accident/",
+      "summary": "The legendary pioneer who revolutionized slacklining and pushed the absolute limits of human flight has died in a Moab BASE jumping accident. The post Outdoor Daredevil “Sketchy An",
+      "date": "2026-06-15T20:44:30Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/andy-lewis.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-06-15T21:15:32Z"
+    },
+    {
+      "title": "Adventure Everywhere",
+      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/adventure-everywhere/",
+      "summary": "The places where culture and adventure intersect and people who have found a way to blend the unruly with the refined The post Adventure Everywhere appeared first on Outside Online",
+      "date": "2026-06-15T19:44:44Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/morahan_visuals_outside_tv_kia_telluride_28828-scaled.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-06-15T21:15:32Z"
+    },
+    {
+      "title": "Venus Flytraps Snap Their Traps Shut in Less Than a Second. Scientists Say They've Discovered How the Predatory Plants Are So Fast",
+      "link": "https://www.smithsonianmag.com/smart-news/venus-flytraps-snap-their-traps-shut-in-less-than-a-second-scientists-say-theyve-discovered-how-the-predatory-plants-are-so-fast-180988949/",
+      "summary": "The walls of cells in the leaves' outer layer suddenly soften, allowing the structures to hinge into a closed position, according to a new study",
+      "date": "2026-06-15T20:06:21Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/5SEWUL0PpmQytNPYgUmkrqPfFls=/420x240/filters:focal(800x602:801x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/88/dc/88dc0a74-d191-4856-b6c4-8edf3441b18c/dionaea_muscipula_pt_20240516_063394.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-06-15T21:15:34Z"
+    },
+    {
+      "title": "With a Beam of Light, the New York City AIDS Memorial Honors the Nearly Forgotten Legacy of This Great American Sculptor",
+      "link": "https://www.smithsonianmag.com/smart-news/with-a-beam-of-light-the-new-york-city-aids-memorial-honors-the-nearly-forgotten-legacy-of-this-great-american-sculptor-180988956/",
+      "summary": "A new sculpture draws on materials and ideas from Scott Burton's artwork, which offered comfort in urban spaces. His final public series was a set of benches and lights on piers in",
+      "date": "2026-06-15T19:57:08Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/h4DP_r2Pm4hlpXCGreUFJiwWJ3U=/420x240/filters:focal(600x317:601x318)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3d/3f/3d3fa495-04f8-4dd5-8383-52a026411244/aids_memorial_horiz.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-06-15T21:15:34Z"
+    },
+    {
+      "title": "The North Atlantic’s ‘cold blob’ may signal a major current’s decline",
+      "link": "https://www.sciencenews.org/article/cold-blob-may-signal-current-decline",
+      "summary": "A cold blob of water in the North Atlantic points to a weakening of the Atlantic Meridional Overturning Circulation, researchers report.",
+      "date": "2026-06-15T19:16:49Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/061226_CG_coldblob_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-06-15T21:15:35Z"
+    },
+    {
+      "title": "Has the answer to life's origins been hiding in our cells all along?",
+      "link": "https://www.newscientist.com/article/2529162-has-the-answer-to-lifes-origins-been-hiding-in-our-cells-all-along/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The surprising discovery of mysterious blobs inside our cells is revolutionising our understanding of how life works, and how it got started",
+      "date": "2026-06-15T16:00:51Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/09181257/SEI_300624281.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-15T21:15:36Z"
+    },
+    {
+      "title": "Sperm have been made magnetic to allow IVF inside the body",
+      "link": "https://www.newscientist.com/article/2530334-sperm-have-been-made-magnetic-to-allow-ivf-inside-the-body/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "IVF could be done inside the body using sperm that have been magnetised, allowing them to be directed to an egg while getting around the need for invasive egg retrievals and embryo",
+      "date": "2026-06-15T16:00:35Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/15114732/SEI_301508107.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-15T21:15:36Z"
+    },
+    {
+      "title": "The social media ban is an experiment – here’s how it will be studied",
+      "link": "https://www.newscientist.com/article/2530341-the-social-media-ban-is-an-experiment-heres-how-it-will-be-studied/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Scientists have long grappled with how to measure the effect of social media on children. Now, the UK government has announced a total ban for everyone under 16, and researchers ar",
+      "date": "2026-06-15T15:59:29Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/15143250/SEI_301523787.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-15T21:15:36Z"
+    },
+    {
+      "title": "Inside the start-up aiming for a giant leap in robot intelligence",
+      "link": "https://www.newscientist.com/article/2530349-inside-the-start-up-aiming-for-a-giant-leap-in-robot-intelligence/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Physical Intelligence is drawing on the broad knowledge of large language models to help robots understand instructions and learn to carry out any task independently",
+      "date": "2026-06-15T14:50:40Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/15103718/SEI_301109304.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-15T21:15:36Z"
+    },
+    {
+      "title": "Are useful and error-free quantum computers only two years away?",
+      "link": "https://www.newscientist.com/article/2530326-are-useful-and-error-free-quantum-computers-only-two-years-away/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Quantum computing firm QuEra says it plans to make a fault-tolerant quantum computer and offer it to users through the cloud in 2028, which will require a real leap in engineering",
+      "date": "2026-06-15T14:00:37Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/15110211/SEI_301507625.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-15T21:15:36Z"
+    },
+    {
+      "title": "A waltz over evolutionary timescales: Why it's so hard for animals to invent a new mating dance",
+      "link": "https://phys.org/news/2026-06-waltz-evolutionary-timescales-hard-animals.html",
+      "summary": "\"Love makes fools of all of us,\" wrote 19th-century novelist William Makepeace Thackeray. A moment spent watching the pigeons at your local park suggests he was right: males with p",
+      "date": "2026-06-15T19:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-waltz-over-evolution-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-15T21:15:37Z"
+    },
+    {
+      "title": "Do shark culls keep people safe in the ocean? Here's what the science says",
+      "link": "https://phys.org/news/2026-06-shark-culls-people-safe-ocean.html",
+      "summary": "A young mother remains in hospital after being bitten by a shark at Coogee Beach in Sydney on Saturday morning. Leah Stewart, 35, was swimming about 30 meters (33 yards) offshore w",
+      "date": "2026-06-15T19:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/great-white-shark.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-06-15T21:15:37Z"
+    },
+    {
+      "title": "Predators on the move may link the evolution of species thousands of kilometers apart",
+      "link": "https://phys.org/news/2026-06-predators-link-evolution-species-thousands.html",
+      "summary": "Can a snake in Thailand influence the evolution of a snake in the Philippines even if the two species never cross paths? According to a new study, the answer may be yes. The resear",
+      "date": "2026-06-15T19:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/predators-on-the-move.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-15T21:15:37Z"
+    },
+    {
+      "title": "Atacama Desert’s center dried out 20 million years earlier than previously thought — before the Andes formed",
+      "link": "https://www.livescience.com/planet-earth/atacama-deserts-center-dried-out-20-million-years-earlier-than-previously-thought-before-the-andes-formed",
+      "summary": "Chile's Atacama Desert, which gets less than 5 millimeters (0.2 inches) of rainfall each year, started to form more than 40 million years ago ‪—‬ 20 million years before the Andes.",
+      "date": "2026-06-15T19:26:54Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/8R72oni4WBb4KXtWbcaTsR-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-15T21:15:38Z"
+    },
     {
       "title": "Critics say Trump’s opening of public lands to off-road vehicles is ‘reckless and nonsensical’",
       "link": "https://www.theguardian.com/us-news/2026/jun/15/trump-public-lands-wildlife-off-roading",
@@ -5348,160 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-06-08T16:09:23Z"
-    },
-    {
-      "title": "Arizona lake closes indefinitely to visitors after all of its fish die",
-      "link": "https://www.theguardian.com/us-news/2026/jun/08/san-carlos-lake-arizona-fish-kill",
-      "summary": "Wildlife department says drought conditions and water released from dam led to ‘major fish kill’ at San Carlos Lake Arizona officials have indefinitely closed a popular lake to vis",
-      "date": "2026-06-08T11:33:49Z",
-      "image": "https://i.guim.co.uk/img/media/1744290982027de4f57f3a8056fb5d25e039314e/78_0_1166_933/master/1166.jpg?width=140&quality=85&auto=format&fit=max&s=9f90c8c593fddb7a379e5bbfeea76ec5",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-08T16:09:23Z"
-    },
-    {
-      "title": "Campbell woman seeing lots of cockroaches; she’s not alone",
-      "link": "https://www.mercurynews.com/2026/06/08/campbell-woman-seeing-lots-of-cockroaches-shes-not-alone/",
-      "summary": "Bay Area seeing more of the insects than usual this year",
-      "date": "2026-06-08T13:30:28Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/SJM-L-JOANCOL-0607-01.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-06-08T16:09:27Z"
-    },
-    {
-      "title": "I’ve Been a Doping Control Officer for 35 Years. Here’s What It’s Like.",
-      "link": "https://www.outsideonline.com/culture/essays-culture/how-sports-drug-testing-works/",
-      "summary": "Anti-doping rules don’t work without round-the-clock enforcement—which means it’s someone’s job to drive around at all hours collecting pee. The post I’ve Been a Doping Control Off",
-      "date": "2026-06-08T15:20:59Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/doping-officer.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-08T16:09:28Z"
-    },
-    {
-      "title": "The Best Hybrid Swim Trunks for Men",
-      "link": "https://www.outsideonline.com/outdoor-gear/water-sports-gear/best-mens-swim-trunks/",
-      "summary": "We tested trunks in oceans, pools, gyms, yoga studios, and fancy dinners so you can buy one pair that can do it all. The post The Best Hybrid Swim Trunks for Men appeared first on ",
-      "date": "2026-06-08T14:22:00Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/hybrid-swim-shorts-featured.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-08T16:09:28Z"
-    },
-    {
-      "title": "These 4 Dogs Are Living the Dream",
-      "link": "https://www.outsideonline.com/culture/active-families/these-4-dogs-are-living-the-dream/",
-      "summary": "With the Halo Collar’s smart features and advanced technology, these families don’t need to choose between freedom and safety for their pups The post These 4 Dogs Are Living the Dr",
-      "date": "2026-06-08T14:00:02Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-12.59.21 PM.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-08T16:09:28Z"
-    },
-    {
-      "title": "The Best Father’s Day Gifts for the Outdoor Dad Who Has Everything",
-      "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/fathers-day-gifts-outdoor-dads-2026/",
-      "summary": "Twelve outdoor gifts for the dad who insists he's good on gear. The post The Best Father’s Day Gifts for the Outdoor Dad Who Has Everything appeared first on Outside Online .",
-      "date": "2026-06-08T12:00:04Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/Feature_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-08T16:09:28Z"
-    },
-    {
-      "title": "This Colorful Parrot Had Been Seen Only Once Over the Past Century. Birders Just Rediscovered It in an Unexplored Indonesian Forest",
-      "link": "https://www.smithsonianmag.com/smart-news/this-colorful-parakeet-had-been-seen-only-once-over-the-past-century-birders-just-rediscovered-it-in-an-unexplored-indonesian-forest-180988907/",
-      "summary": "First described in the 1920s from seven specimens, the blue-fronted lorikeet hadn't been spotted since 2014. Bird-watchers on a recent trek snapped photos of the rare bird and capt",
-      "date": "2026-06-08T14:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/91QRIf3eNry3UFPvX6Q6F_apn4c=/420x240/filters:focal(1491x994:1492x995)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4b/28/4b286dc7-77c6-465c-aec6-21168aa42dec/john_c_mittermeier_lorikeet_american_bird_conservancy.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-08T16:09:30Z"
-    },
-    {
-      "title": "Harriet Beecher Stowe Wrote a Work of Fiction That Seemed So Real That It Changed the History of the Country",
-      "link": "https://www.smithsonianmag.com/history/harriet-beecher-stowe-wrote-work-fiction-that-seemed-so-real-changed-history-country-180988826/",
-      "summary": "To fight against slavery, the author collected true stories then picked up a pen and distilled them into “Uncle Tom’s Cabin”",
-      "date": "2026-06-08T14:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/EKbq9422Hups4JBCOIVbjZaDixY=/420x240/filters:focal(392x517:393x518)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/43/82/4382b3b5-2176-425e-a008-36e9402de129/hb_stowe.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-08T16:09:30Z"
-    },
-    {
-      "title": "Among All the Great Things Benjamin Franklin Invented or Discovered, His Alter Egos Gave Him the Most Freedom",
-      "link": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
-      "summary": "Silence Dogood. Richard Saunders. Benevolus. Sidi Mehemet Ibrahim. All were pen names that allowed Franklin to say things he couldn’t have otherwise said",
-      "date": "2026-06-08T12:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/Zosz7r3SOtMGcqK5S9WTKo01M-I=/420x240/filters:focal(3510x2557:3511x2558)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/64/be/64befdea-c6ae-4172-a2e7-6ef3d902941f/benjamin_franklin_illustration.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-08T16:09:30Z"
-    },
-    {
-      "title": "This Basilica Has Been Rising Above Barcelona for 144 Years. With Its Central Tower Now Complete, Pope Leo XIV Prepares to Visit",
-      "link": "https://www.smithsonianmag.com/smart-news/sagrada-familia-basilica-has-been-rising-above-barcelona-for-144-years-with-its-central-tower-now-complete-pope-leo-XIV-prepares-to-visit-180988906/",
-      "summary": "When Antoni Gaudí dreamed up his ambitious vision for Sagrada Família, he knew he wouldn't live to see its completion. One hundred years after the architect's death, the tallest to",
-      "date": "2026-06-05T19:14:25Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/MEytX6l3vSY24I4nldA0aFJKJ0I=/420x240/filters:focal(480x334:481x335)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3a/c3/3ac3fb1d-9ded-4703-a22e-d8973a8d367d/sagrada.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-08T16:09:30Z"
-    },
-    {
-      "title": "A drug may help people on GLP-1 meds preserve muscle",
-      "link": "https://www.sciencenews.org/article/glp1-tirzepatide-muscle-lean-mass",
-      "summary": "In a clinical trial, an experimental antibody reduced lean-mass loss in people on a GLP-1 drug. Whether that improves health is unclear.",
-      "date": "2026-06-08T15:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/060526_MR_muscle_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-06-08T16:09:31Z"
-    },
-    {
-      "title": "AI cracked an Erdős math problem. Now experts want guardrails",
-      "link": "https://www.sciencenews.org/article/ai-guardrails-erdos-math-problem",
-      "summary": "The result is correct but challenges core norms of mathematics: checking proofs, crediting ideas and keeping research open to everyone.",
-      "date": "2026-06-08T13:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/060326_KH_AImath_mainsocial.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-06-08T16:09:31Z"
-    },
-    {
-      "title": "Understanding anorexia’s grip on the brain could unlock new therapies",
-      "link": "https://www.newscientist.com/article/2528588-understanding-anorexias-grip-on-the-brain-could-unlock-new-therapies/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "One-third of people with anorexia nervosa don’t recover and treatment has remained stagnant for years. Now we’re beginning to understand how the condition takes over the mind",
-      "date": "2026-06-08T14:00:41Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/02161105/SEI_299828365.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-08T16:09:33Z"
-    },
-    {
-      "title": "Unpicking endometriosis reveals how it affects more than the pelvis",
-      "link": "https://www.newscientist.com/article/2529403-unpicking-endometriosis-reveals-how-it-affects-more-than-the-pelvis/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Endometriosis is usually thought of as a gynaecological condition, but a huge study shows it has links with cholesterol levels, inflammation and an altered microbiome",
-      "date": "2026-06-08T12:00:22Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/08102659/SEI_300193685.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-08T16:09:33Z"
     }
   ]
 }
