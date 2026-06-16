@@ -1,8 +1,151 @@
 {
-  "updated": "2026-06-16T21:12:56Z",
-  "updated_utc": "2026-06-16T21:12:56Z",
+  "updated": "2026-06-16T23:40:47Z",
+  "updated_utc": "2026-06-16T23:40:47Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Personal Toll of Canada’s Broken Fishing Promises",
+      "link": "https://hakaimagazine.com/features/the-personal-toll-of-canadas-broken-fishing-promises/",
+      "summary": "August 29, 2020, dawned clear over southwest Nova Scotia. In the cabin of his lobster boat, the Mystique Lady, Matthew Cope was chatting with the other members of his crew as they ",
+      "date": "Tue, 17 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-matt-cope-moderate-livelihood.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-06-16T23:40:35Z"
+    },
+    {
+      "title": "To Speak the Language of the Land",
+      "link": "https://hakaimagazine.com/features/to-speak-the-language-of-the-land/",
+      "summary": "Nearly 200 of us cram into Tarāwhai, a traditional wooden Māori meeting house, under the gaze of the ancestors and deities carved into the posts and walls. We’re here in the home o",
+      "date": "Thu, 12 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-maori-language-and-place.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-06-16T23:40:35Z"
+    },
+    {
+      "title": "Juvenile humpback whale found dead on Santa Cruz County beach",
+      "link": "https://www.mercurynews.com/2026/06/09/watsonville-juvenile-humpback-whale-found-dead-on-sunset-state-beach/",
+      "summary": "A dead juvenile humpback whale was spotted on Sunset State Beach Friday. California State Parks buried the whale on the beach Sunday morning.",
+      "date": "Tue, 09 Jun 2026 13Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/STC-L-CHWHALESTRAND-0609-03.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-06-16T23:40:37Z"
+    },
+    {
+      "title": "Scientists Uncover New Clues About the Volcanic Origins of the Giant's Causeway, an Iconic Geologic Structure in Northern Ireland",
+      "link": "https://www.smithsonianmag.com/smart-news/scientists-uncover-new-clues-about-the-volcanic-origins-of-the-giants-causeway-an-iconic-geologic-structure-in-northern-ireland-180988967/",
+      "summary": "The UNESCO World Heritage Site, which features 40,000 near-perfect hexagonal columns, formed roughly 60 million years ago during a period of intense volcanic activity",
+      "date": "Tue, 16 Jun 2026 21Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/hBJ_EZZ-w3eihP66wforiBitUH8=/420x240/filters:focal(512x341:513x342)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/54/38/5438a68e-a14c-423f-a8fb-56667ad1b296/7329884194_80f658dacd_b.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-06-16T23:40:40Z"
+    },
+    {
+      "title": "Intensive nickel mining has transformed microbial biodiversity of Thio Lagoon in New Caledonia",
+      "link": "https://phys.org/news/2026-06-intensive-nickel-microbial-biodiversity-thio.html",
+      "summary": "A study carried out by scientists from Ifremer, IRD, the universities of Western Brittany (UBO) and Bordeaux, CNRS, and the University of Tartu (Estonia) reveals the impact of nick",
+      "date": "2026-06-16T23:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/intensive-nickel-minin.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-16T23:40:44Z"
+    },
+    {
+      "title": "Report reveals how digital tools are transforming biodiversity crisis response",
+      "link": "https://phys.org/news/2026-06-reveals-digital-tools-biodiversity-crisis.html",
+      "summary": "Scientists who study plant physiology and evolution have a new tool in their toolkit: a machine learning algorithm that can scan digital plant specimen collections and quickly meas",
+      "date": "2026-06-16T23:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-ai-10.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-16T23:40:44Z"
+    },
+    {
+      "title": "Cotton's roots traced to Yucatan Peninsula, where wild gene pool runs deepest",
+      "link": "https://phys.org/news/2026-06-cotton-roots-yucatan-peninsula-wild.html",
+      "summary": "There's nothing like this in nature, Jonathan Wendel said as he showed a visitor in his Bessey Hall office the long white puffs billowing from a cotton boll—the protective flower c",
+      "date": "2026-06-16T23:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cottons-roots-trace-to.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-16T23:40:44Z"
+    },
+    {
+      "title": "Santa Cruz trail study reveals how mountain lions and outdoor recreation can safely share spaces",
+      "link": "https://phys.org/news/2026-06-santa-cruz-trail-reveals-mountain.html",
+      "summary": "California's iconic Santa Cruz Mountains are an outdoor recreation wonderland. With a world-class network of hiking, mountain biking and equestrian trails, they draw millions of vi",
+      "date": "2026-06-16T23:10:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-reveals-how-m-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-16T23:40:44Z"
+    },
+    {
+      "title": "Cockatoos learn when touchscreen rewards 'die,' then apply rule to new contexts",
+      "link": "https://phys.org/news/2026-06-cockatoos-touchscreen-rewards-die-contexts.html",
+      "summary": "For humans, death is surrounded by culture, emotion, ritual and language. But the question can be framed in a much more basic way: What would an animal have to understand in order ",
+      "date": "2026-06-16T22:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-test-sensi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-16T23:40:44Z"
+    },
+    {
+      "title": "RNA barcoding approach reveals previously unknown virus–host relationships",
+      "link": "https://phys.org/news/2026-06-rna-barcoding-approach-reveals-previously.html",
+      "summary": "An interdisciplinary team of Rice University researchers has uncovered previously unknown relationships between bacteriophages—viruses that infect bacteria—and their bacterial host",
+      "date": "2026-06-16T22:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rna-barcoding-approach.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-16T23:40:44Z"
+    },
+    {
+      "title": "Why one famous predator shrank two ways: Fossils reveal distinct growth strategies in early Permian Dimetrodon",
+      "link": "https://phys.org/news/2026-06-famous-predator-shrank-ways-fossils.html",
+      "summary": "The sail-backed predator Dimetrodon is one of the most iconic animals of the early Permian—long before dinosaurs dominated Earth. Most known species of this early relative of mamma",
+      "date": "2026-06-16T22:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-to-grow-small-the.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-16T23:40:44Z"
+    },
+    {
+      "title": "Slaughter in the water: Can the Ramsar Convention protect African waterbirds?",
+      "link": "https://phys.org/news/2026-06-slaughter-ramsar-convention-african-waterbirds.html",
+      "summary": "The Ramsar Convention is the world's longest-standing international treaty for wetland and waterbird protection. Signed in Ramsar, Iran, in 1971, the Convention on Wetlands of Inte",
+      "date": "2026-06-16T21:40:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/slaughter-in-the-water.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-16T23:40:44Z"
+    },
+    {
+      "title": "Female chickadees seek cognitively skilled males for extra‑pair matings, study shows",
+      "link": "https://phys.org/news/2026-06-female-chickadees-cognitively-skilled-males.html",
+      "summary": "Female chickadees living in monogamous mating systems will proactively seek out males that have better cognitive skills than their nest mate, according to new findings.",
+      "date": "2026-06-16T21:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/female-chickadees-look.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-16T23:40:44Z"
+    },
     {
       "title": "Caviar Pizzas, New Money, and the Death of an Ancient Fish",
       "link": "https://hakaimagazine.com/features/caviar-pizzas-new-money-and-the-death-of-an-ancient-fish/",
@@ -5359,149 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-06-09T19:22:53Z"
-    },
-    {
-      "title": "How animals use leveling behaviors to put alphas in their place",
-      "link": "https://phys.org/news/2026-06-animals-behaviors-alphas.html",
-      "summary": "Inequality is not unique to human groups and societies. Individuals with relatively little power possess a variety of behavioral strategies to counterbalance or regulate power diff",
-      "date": "2026-06-09T19:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chimpanzee-group.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-09T19:22:53Z"
-    },
-    {
-      "title": "Farmed oysters may boost New York's dwindling wild populations",
-      "link": "https://phys.org/news/2026-06-farmed-oysters-boost-york-dwindling.html",
-      "summary": "Farmed oysters are mixing with and potentially adding to populations of wild oysters—a once-abundant species in New York's estuaries and rivers that has declined drastically over t",
-      "date": "2026-06-09T18:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/farmed-oysters-may-boo.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-09T19:22:53Z"
-    },
-    {
-      "title": "3 new Ebola vaccines are being fast-tracked amid the current outbreak — when could they be ready?",
-      "link": "https://www.livescience.com/health/medicine-drugs/3-new-ebola-vaccines-are-being-fast-tracked-amid-the-current-outbreak-when-could-they-be-ready",
-      "summary": "The Bundibugyo virus driving the current Ebola outbreak has no approved vaccine, but researchers are leveraging decades of vaccine innovation in an effort to change that.",
-      "date": "Tue, 09 Jun 2026 19Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/K3Fdn3YSdMyrCPFn9mgiM5-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-09T19:22:54Z"
-    },
-    {
-      "title": "What is PMOS (formerly PCOS)? What to know about the hormonal syndrome",
-      "link": "https://www.livescience.com/health/reproductive-health/what-is-pmos-formerly-pcos-what-to-know-about-the-hormonal-syndrome",
-      "summary": "Learn about the hormonal disorder polyendocrine metabolic ovarian syndrome (PMOS), formerly called polycystic ovary syndrome (PCOS).",
-      "date": "Tue, 09 Jun 2026 18Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/KCHKgMsLbGZkpKAqATmqW6-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-09T19:22:54Z"
-    },
-    {
-      "title": "2 giant 'super Earths' once orbited near Uranus and Neptune, messed up a bunch of moons, then vanished, new study hints",
-      "link": "https://www.livescience.com/space/planets/2-giant-super-earths-once-orbited-near-uranus-and-neptune-messed-up-a-bunch-of-moons-then-vanished-new-study-hints",
-      "summary": "Our solar system may have hosted up to six giant planets in its first hundred million years, a new study suggests. The findings paint a more crowded picture of the early outer sola",
-      "date": "Tue, 09 Jun 2026 17Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/qwR2iSkbRFXzXXAj8GiWCj-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-09T19:22:54Z"
-    },
-    {
-      "title": "China unveils first-of-its-kind 'dual-core' quantum computer — its makers say it improves stability and efficiency",
-      "link": "https://www.livescience.com/technology/quantum/china-unveils-world-first-dual-core-quantum-computer-its-makers-say-it-improves-stability-and-efficiency",
-      "summary": "A new Chinese quantum computing system pairs two independent neutral-atom arrays in one processor, aiming to boost stability, efficiency and scalability.",
-      "date": "Tue, 09 Jun 2026 17Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/MbeULk54Qb6qp29HZH8cdV-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-09T19:22:54Z"
-    },
-    {
-      "title": "Artemis III crew revealed: NASA announces astronauts for 'one of history's most complex missions'",
-      "link": "https://www.livescience.com/space/space-exploration/artemis-iii-crew-revealed-nasa-announces-astronauts-for-one-of-historys-most-complex-missions",
-      "summary": "NASA's Artemis III crew has been revealed. The astronauts will launch into low Earth orbit next year to test docking with commercial lunar landers being developed by SpaceX and Blu",
-      "date": "Tue, 09 Jun 2026 16Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/j639UkYfmAyU9m9sapFxSc-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-09T19:22:54Z"
-    },
-    {
-      "title": "Can You Identify Who’s Singing? BirdWise Launches Sound ID Quiz to Build Birding-by-Ear Skills",
-      "link": "https://www.birds.cornell.edu/home/build-birding-by-ear-skills-with-birdwise/",
-      "summary": "Just in time for summer vacation. Learn to identify the birds you will hear singing on your next trip.",
-      "date": "Tue, 09 Jun 2026 15Z",
-      "image": "https://www.birds.cornell.edu/home/wp-content/uploads/2025/02/YellowBelliedSapsucker_StevenHunter.jpeg",
-      "name": "Cornell",
-      "category": "insects",
-      "color": 15,
-      "fetched_at": "2026-06-09T19:22:55Z"
-    },
-    {
-      "title": "Light as a Feather: A KidLit Bird Book Review",
-      "link": "https://www.10000birds.com/light-as-a-feather-a-kidlit-bird-book-review.htm?utm_source=rss&utm_medium=rss&utm_campaign=light-as-a-feather-a-kidlit-bird-book-review",
-      "summary": "Light as a Feather: A KidLit Bird Book Review Will Hillenbrand’s book Light as a Feather holds love in each bird’s illustration: a hidden heart. The book was originally inspired by",
-      "date": "Tue, 09 Jun 2026 13Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-4.16.36-PM.png",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-06-09T16:09:00Z"
-    },
-    {
-      "title": "‘Osprey cam’ streams life of nesting seabirds perched at tip of 55 metre-long Queensland rainforest canopy crane",
-      "link": "https://www.theguardian.com/australia-news/2026/jun/10/osprey-cam-streams-nesting-seabirds-queensland-rainforest-canopy-crane",
-      "summary": "Researchers believe the same pair of birds have been mating and nesting in the unusual spot in the Daintree Rainforest for 15 consecutive years Get our breaking news email , free a",
-      "date": "2026-06-09T15:00:02Z",
-      "image": "https://i.guim.co.uk/img/media/a59382f7f3ac103d6116eb99356d4801e7ca189c/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=da9602e59e023212a57010db4b147392",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-09T16:09:06Z"
-    },
-    {
-      "title": "Visible planets and night sky guide for June",
-      "link": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
-      "summary": "Visible planets and night sky guide. Look for brilliant Venus and bright Jupiter very close together in the west after sunset. The post Visible planets and night sky guide for June",
-      "date": "Tue, 09 Jun 2026 11Z",
-      "image": "https://earthsky.org/upl/2026/05/2026-Venus-Jup-Merc-Jun-9-square.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-06-09T16:09:07Z"
-    },
-    {
-      "title": "The Canoe in the Forest",
-      "link": "https://hakaimagazine.com/features/the-canoe-in-the-forest/",
-      "summary": "When I first see the canoe, in May, it takes a moment to distinguish the long, shapely slab of cedar from the patch of earth that has spent more than a century trying to reclaim it",
-      "date": "Thu, 19 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-haida-canoe.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-06-09T16:09:08Z"
-    },
-    {
-      "title": "What’s Next for Deep-Sea Mining?",
-      "link": "https://hakaimagazine.com/news/whats-next-for-deep-sea-mining/",
-      "summary": "Earlier this year, Leticia Carvalho, a Brazilian oceanographer and environmental policy expert, took the helm of the International Seabed Authority (ISA) as secretary general. The ",
-      "date": "2024-12-18T08:01:59Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-deep-sea-mining-1.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-06-09T16:09:08Z"
     }
   ]
 }
