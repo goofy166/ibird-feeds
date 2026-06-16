@@ -1,8 +1,19 @@
 {
-  "updated": "2026-06-15T23:52:55Z",
-  "updated_utc": "2026-06-15T23:52:55Z",
+  "updated": "2026-06-16T05:18:49Z",
+  "updated_utc": "2026-06-16T05:18:49Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Fungal highways are vast, yet hidden underground—new study",
+      "link": "https://phys.org/news/2026-06-fungal-highways-vast-hidden-underground.html",
+      "summary": "Beneath our feet lie some of the largest living organisms on Earth. Fungi are mostly invisible and largely overlooked, but they help sustain the ecosystems and food systems that we",
+      "date": "2026-06-16T00:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fungal-highways-are-va.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-16T05:18:46Z"
+    },
     {
       "title": "Two humpback whales found dead on Monterey Bay beaches may have been killed by toxic algae blooms",
       "link": "https://www.mercurynews.com/2026/06/15/two-humpback-whales-found-dead-on-monterey-bay-beaches-may-have-been-killed-by-toxic-algae-blooms/",
@@ -5487,17 +5498,6 @@
       "summary": "A diverse range of bird species has been recorded at a solar park on rewetted peatland in Germany, suggesting that combining energy generation with habitat restoration could benefi",
       "date": "2026-06-08T18:00:11Z",
       "image": "https://images.newscientist.com/wp-content/uploads/2026/06/08164415/SEI_300616366.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-08T19:27:13Z"
-    },
-    {
-      "title": "Can Apple and Google stop children from sharing explicit images?",
-      "link": "https://www.newscientist.com/article/2529562-can-apple-and-google-stop-children-from-sharing-explicit-images/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "UK Prime Minister Keir Starmer has warned tech firms, including Apple and Google, that they must voluntarily implement tools to stop children sharing explicit images, but experts w",
-      "date": "2026-06-08T17:02:52Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/08165437/SEI_300641453.jpg",
       "name": "New Scientist",
       "category": "insects",
       "color": 12,
