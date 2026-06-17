@@ -1,8 +1,85 @@
 {
-  "updated": "2026-06-16T23:40:47Z",
-  "updated_utc": "2026-06-16T23:40:47Z",
+  "updated": "2026-06-17T04:57:54Z",
+  "updated_utc": "2026-06-17T04:57:54Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Visible planets and night sky guide for June",
+      "link": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
+      "summary": "Visible planets and night sky guide. This evening, shortly after sunset, look for the young moon near brilliant Venus, bright Jupiter and elusive Mercury. The post Visible planets ",
+      "date": "Tue, 16 Jun 2026 08Z",
+      "image": "https://earthsky.org/upl/2026/05/2026-June-16-Moon-C.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-06-17T04:57:40Z"
+    },
+    {
+      "title": "The Canoe in the Forest",
+      "link": "https://hakaimagazine.com/features/the-canoe-in-the-forest/",
+      "summary": "When I first see the canoe, in May, it takes a moment to distinguish the long, shapely slab of cedar from the patch of earth that has spent more than a century trying to reclaim it",
+      "date": "Thu, 19 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-haida-canoe.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-06-17T04:57:41Z"
+    },
+    {
+      "title": "What’s Next for Deep-Sea Mining?",
+      "link": "https://hakaimagazine.com/news/whats-next-for-deep-sea-mining/",
+      "summary": "Earlier this year, Leticia Carvalho, a Brazilian oceanographer and environmental policy expert, took the helm of the International Seabed Authority (ISA) as secretary general. The ",
+      "date": "2024-12-18T08:01:59Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-deep-sea-mining-1.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-06-17T04:57:41Z"
+    },
+    {
+      "title": "Even morphologically similar pollinators carry distinct pollen assemblages",
+      "link": "https://phys.org/news/2026-06-morphologically-similar-pollinators-distinct-pollen.html",
+      "summary": "The body size, morphology and associated behavioral traits of flower-visiting insects strongly influence the quantity of pollen they transport. Thus, pollinators with similar appea",
+      "date": "2026-06-17T02:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/even-morphologically-s.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-06-17T04:57:50Z"
+    },
+    {
+      "title": "Dark biodiversity helps solve Darwin's 160-year-old puzzle",
+      "link": "https://phys.org/news/2026-06-dark-biodiversity-darwin-year-puzzle.html",
+      "summary": "An international research team, which included University of Tartu visiting doctoral student Wen-Gang Zhang and Professor of Botany Meelis Pärtel, has found a new solution to one o",
+      "date": "2026-06-17T01:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wild-animal.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-17T04:57:50Z"
+    },
+    {
+      "title": "Ultrasound unlocks protein from cauliflower waste and could add value to existing crops",
+      "link": "https://phys.org/news/2026-06-ultrasound-protein-cauliflower-crops.html",
+      "summary": "An RMIT University innovation uses ultrasound to extract leaf protein from discarded cauliflower leaves, identifying a potential new use for vegetable scraps. The process could hel",
+      "date": "2026-06-17T01:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrasound-unlocks-pro-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-17T04:57:50Z"
+    },
+    {
+      "title": "Rethinking plant photoprotection: New insights into antenna protein CP26",
+      "link": "https://phys.org/news/2026-06-rethinking-photoprotection-insights-antenna-protein.html",
+      "summary": "Plants must carefully strike a balance between harvesting sunlight to fuel photosynthesis and protecting themselves from light damage. Part of this balancing act is performed by an",
+      "date": "2026-06-17T00:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rethinking-plant-photo.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-17T04:57:50Z"
+    },
     {
       "title": "The Personal Toll of Canada’s Broken Fishing Promises",
       "link": "https://hakaimagazine.com/features/the-personal-toll-of-canadas-broken-fishing-promises/",
@@ -5425,83 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-06-09T19:22:47Z"
-    },
-    {
-      "title": "The Best Water Shoes for River Hikes, Slot Canyons, and Rowdy Rapids",
-      "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/best-water-shoes/",
-      "summary": "From technical river sandals to water sneakers you'd wear to dinner, our crew of guides and gear testers put 25 pairs through 12 bodies of water to find the best. The post The Best",
-      "date": "Tue, 09 Jun 2026 15Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/Teva-Hydratrek-Fairwind_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-09T19:22:48Z"
-    },
-    {
-      "title": "People Across Cultures Find Women's Faces to Be More Attractive Than Men's, a New Study Suggests",
-      "link": "https://www.smithsonianmag.com/smart-news/people-across-cultures-find-womens-faces-to-be-more-attractive-than-mens-a-new-study-suggests-180988914/",
-      "summary": "In many species of wild animals, males have flashier features than females to help them attract mates. But scientists have long noticed that humans seem to be an exception, with wo",
-      "date": "Tue, 09 Jun 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/RMczGbFeDqsQkKfSQAyJNICHz5c=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/87/3f/873fdf6a-37c3-4547-87af-aafd9f1dd950/smithsonian_feature_images_10.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-09T19:22:50Z"
-    },
-    {
-      "title": "'Cute Little Guy': Scientists Discover a Tiny Blue Species of Octopus by the Galápagos Islands",
-      "link": "https://www.smithsonianmag.com/smart-news/cute-little-guy-scientists-discover-a-tiny-blue-species-of-octopus-by-the-galapagos-islands-180988919/",
-      "summary": "The palm-size creature was spotted and collected during a research expedition more than a decade ago, but scientists have just identified it as a previously undescribed species",
-      "date": "Tue, 09 Jun 2026 18Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/uzgckjsSoezOX1HoFN-vn1T52iw=/420x240/filters:focal(561x401:562x402)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5d/4d/5d4d74c8-ad77-4fbc-8eba-a7ae619b9a4c/1779215358-blue_octopus_cdf.webp",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-09T19:22:50Z"
-    },
-    {
-      "title": "Frozen squirrel scat preserves ancient DNA from hundreds of species",
-      "link": "https://www.newscientist.com/article/2529635-frozen-squirrel-scat-preserves-ancient-dna-from-hundreds-of-species/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A complex ecosystem of woolly mammoths, bison, horses and big cats has been elucidated by studying the faeces of small rodents that probably ate the bigger animals",
-      "date": "Tue, 09 Jun 2026 17Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/09093104/SEI_300630476.jpg",
-      "name": "New Scientist",
-      "category": "butterflies",
-      "color": 12,
-      "fetched_at": "2026-06-09T19:22:52Z"
-    },
-    {
-      "title": "The last-ditch plan to save coral reefs from utter destruction",
-      "link": "https://www.newscientist.com/article/2528456-the-last-ditch-plan-to-save-coral-reefs-from-utter-destruction/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Bleaching has devastated reefs around the world, raising fears of an irreversible shift. Yet new interventions have revealed that corals can be remarkably resilient if we can give ",
-      "date": "Tue, 09 Jun 2026 17Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/29113805/SEI_299111894.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-09T19:22:52Z"
-    },
-    {
-      "title": "Why we should all take quantum physics extremely personally",
-      "link": "https://www.newscientist.com/article/2529183-why-we-should-all-take-quantum-physics-extremely-personally/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Physics is considered a cold, hard science – but it will transform your life if you view it with a bit more subjectivity, says Karmela Padavic-Callaghan",
-      "date": "Tue, 09 Jun 2026 09Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/04113938/SEI_299933702.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-09T19:22:52Z"
-    },
-    {
-      "title": "AI in nature conservation: Powerful tool or dangerous shortcut?",
-      "link": "https://phys.org/news/2026-06-ai-nature-powerful-tool-dangerous.html",
-      "summary": "Conservationists analyze overwhelming volumes of ecological data in their work. For example, they might need to process decades of weather data or the movements of millions of inse",
-      "date": "2026-06-09T19:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cape-gannets-colony.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-09T19:22:53Z"
     }
   ]
 }
