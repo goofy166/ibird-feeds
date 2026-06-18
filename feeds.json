@@ -1,8 +1,74 @@
 {
-  "updated": "2026-06-18T00:21:21Z",
-  "updated_utc": "2026-06-18T00:21:21Z",
+  "updated": "2026-06-18T06:02:04Z",
+  "updated_utc": "2026-06-18T06:02:04Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Weatherwatch: UK’s migrant waders feel the effects of a changing Arctic",
+      "link": "https://www.theguardian.com/news/2026/jun/18/weatherwatch-uk-migrant-waders-effects-changing-arctic",
+      "summary": "Warmer winters and springs are drying out wetlands and the birds are missing out on an abundance of insects to eat When we think of spring migrant birds, it is easy to focus on son",
+      "date": "2026-06-18T05:00:03Z",
+      "image": "https://i.guim.co.uk/img/media/2d2255c3dfc057a35b2151403af7413642476a19/1352_805_3260_2609/master/3260.jpg?width=140&quality=85&auto=format&fit=max&s=0a41b82c48498e78d5d83a025ee43d28",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-18T06:01:50Z"
+    },
+    {
+      "title": "More than 13,000 seal pups die on remote Australian island amid bird flu outbreak",
+      "link": "https://www.theguardian.com/environment/2026/jun/18/more-than-13000-seal-pups-die-on-remote-australian-island-amid-bird-flu-outbreak",
+      "summary": "Testing confirms spread of deadly H5N1 virus on the subantarctic Heard Island, about 4,000km south-west of Perth Follow our Australia news live blog for latest updates Get our brea",
+      "date": "2026-06-18T04:51:04Z",
+      "image": "https://i.guim.co.uk/img/media/6e156e320ffebe0fbec017c0e818487ef32adf50/184_301_3373_2699/master/3373.jpg?width=140&quality=85&auto=format&fit=max&s=7d304685cab18f51dec27dc627eafc4c",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-18T06:01:50Z"
+    },
+    {
+      "title": "Ancient monument may have been an early Stonehenge prototype",
+      "link": "https://www.newscientist.com/article/2530818-ancient-monument-may-have-been-an-early-stonehenge-prototype/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Archaeologists have discovered traces of a wooden structure built 5000 years ago, 5 kilometres from Stonehenge, which appears to have been an even older monument for marking the su",
+      "date": "Thu, 18 Jun 2026 01Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/17155023/SEI_301789845.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-18T06:02:00Z"
+    },
+    {
+      "title": "No young women have died of cervical cancer in England for years",
+      "link": "https://www.newscientist.com/article/2530733-no-young-women-have-died-of-cervical-cancer-in-england-for-years/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "We already know the vaccine against human papillomavirus, or HPV, greatly reduces infections and cases of cervical cancer, and now we have the first evidence it prevents deaths too",
+      "date": "Thu, 18 Jun 2026 00Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/17170243/SEI_301798894.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-18T06:02:00Z"
+    },
+    {
+      "title": "Study analyzes buyers' assumptions about carpal chips in Thoroughbred yearlings",
+      "link": "https://phys.org/news/2026-06-buyers-assumptions-carpal-chips-thoroughbred.html",
+      "summary": "See the vet reports during any yearling sale and you'll hear it—a ripple of concern when a veterinarian flags a bone chip on a radiograph of the horse's leg. Buyers often step away",
+      "date": "2026-06-18T02:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/horse-running-with-rid.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-18T06:02:01Z"
+    },
+    {
+      "title": "New study maps the peanut genome in its entirety",
+      "link": "https://phys.org/news/2026-06-peanut-genome-entirety.html",
+      "summary": "Peanuts are an important staple crop for many people around the world. As well as being delicious as smooth or crunchy peanut butter, their seeds are high in healthy fats and prote",
+      "date": "2026-06-18T01:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/peanut.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-18T06:02:01Z"
+    },
     {
       "title": "9 Drought-Resistant Perennials for Dry Soil",
       "link": "https://www.birdsandblooms.com/gardening/drought-tolerant-gardening/drought-resistant-perennials/",
@@ -5436,72 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-06-10T19:41:25Z"
-    },
-    {
-      "title": "Earth’s stratosphere is a mysterious superhighway for microbes",
-      "link": "https://www.sciencenews.org/article/earth-stratosphere-life-microbes",
-      "summary": "Well-known microbes that grow on our crops, our gardens, even our skin have been found thriving at two to three times the flying height of a commercial jetliner.",
-      "date": "2026-06-10T17:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/0726_stratosphere_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-06-10T19:41:26Z"
-    },
-    {
-      "title": "Wolves seen hunting European bison in rare camera-trap recording",
-      "link": "https://www.newscientist.com/article/2529929-wolves-seen-hunting-european-bison-in-rare-camera-trap-recording/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Europe’s largest land animal, the bison, is thought to be relatively unthreatened by predators, but footage from Białowieża Primaeval Forest in Poland shows it does face attacks fr",
-      "date": "2026-06-10T16:39:59Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/10141014/SEI_300740774.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-10T19:41:28Z"
-    },
-    {
-      "title": "Millions of fossil whale bones found in deep-ocean ‘necropolis’",
-      "link": "https://www.newscientist.com/article/2529864-millions-of-fossil-whale-bones-found-in-deep-ocean-necropolis/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Researchers diving 7 kilometres deep in a crewed submersible have discovered a vast collection of whale bones, including fossils up to 5 million years old and species new to scienc",
-      "date": "2026-06-10T16:00:37Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/10112743/SEI_300827211.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-10T19:41:28Z"
-    },
-    {
-      "title": "Hundreds of new moons are revealing our solar system's violent history",
-      "link": "https://www.newscientist.com/article/2527870-hundreds-of-new-moons-are-revealing-our-solar-systems-violent-history/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "The outer solar system once seemed like a quiet backwater. But a glut of tiny, strange moons with unruly orbits are coming into view, revealing hints of a surprising past – and the",
-      "date": "2026-06-10T16:00:31Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/29132331/SEI_299345026.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-10T19:41:28Z"
-    },
-    {
-      "title": "A nuclear war between India and Pakistan could destroy the ozone layer",
-      "link": "https://www.newscientist.com/article/2529589-a-nuclear-war-between-india-and-pakistan-could-destroy-the-ozone-layer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Climate models suggest a small nuclear war in the tropics would do even more damage to the ozone layer than a larger nuclear war in more northerly latitudes, increasing exposure to",
-      "date": "2026-06-10T14:28:35Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/09104110/SEI_300642957.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-10T19:41:28Z"
-    },
-    {
-      "title": "Fully autonomous drones have killed human soldiers for the first time",
-      "link": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A senior figure in the Ukrainian defence industry told New Scientist that a test took place two years ago involving fully autonomous drones set to destroy anything in a given area,",
-      "date": "2026-06-10T13:00:23Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/10104553/SEI_300076919.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-10T19:41:28Z"
     }
   ]
 }
