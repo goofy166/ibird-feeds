@@ -1,8 +1,96 @@
 {
-  "updated": "2026-06-17T22:48:35Z",
-  "updated_utc": "2026-06-17T22:48:35Z",
+  "updated": "2026-06-18T00:21:21Z",
+  "updated_utc": "2026-06-18T00:21:21Z",
   "count": 500,
   "stories": [
+    {
+      "title": "9 Drought-Resistant Perennials for Dry Soil",
+      "link": "https://www.birdsandblooms.com/gardening/drought-tolerant-gardening/drought-resistant-perennials/",
+      "summary": "Garden soil looking dry? Not a rain shower in sight? These drought-resistant perennials don't mind and will thrive in summer. The post 9 Drought-Resistant Perennials for Dry Soil a",
+      "date": "2026-06-10T16:31:27Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2022/07/Color-Guard-Adams-Needle-pot-teal-e1781105584233.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-06-18T00:21:01Z"
+    },
+    {
+      "title": "California man survives bear attack while hiking in Montana national park",
+      "link": "https://www.mercurynews.com/2026/06/10/san-diego-man-survives-bear-attack-while-hiking-in-montana-national-park/",
+      "summary": "Both bones in Crago's forearm were broken by the bear's bite, but he said other hikers saved his life.",
+      "date": "2026-06-10T12:48:28Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/SUT-L-BEAR-ATTACK-0610-02.jpeg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-06-18T00:21:10Z"
+    },
+    {
+      "title": "Chilling the body with drugs could limit brain damage from stroke",
+      "link": "https://www.newscientist.com/article/2530657-chilling-the-body-with-drugs-could-limit-brain-damage-from-stroke/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Putting brain cells into a hibernation-like state via drugs that cool down core body temperature may help to preserve them following a stroke",
+      "date": "2026-06-17T19:00:21Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/17140720/SEI_301771301.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-18T00:21:15Z"
+    },
+    {
+      "title": "Like humans, great apes think differently from each other",
+      "link": "https://phys.org/news/2026-06-humans-great-apes-differently.html",
+      "summary": "For decades, scientists have been studying the cognition of great apes to understand how our own complex cognitive abilities evolved. Much of the research is based on the idea that",
+      "date": "2026-06-18T00:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/greatapes.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-18T00:21:17Z"
+    },
+    {
+      "title": "Hidden mitochondrial genes emerge as mealybugs encode two genes on one DNA stretch",
+      "link": "https://phys.org/news/2026-06-hidden-mitochondrial-genes-emerge-mealybugs.html",
+      "summary": "What if a single sentence could carry two completely different meanings, one when read forward and another when read backward? In a new study, researchers at Arizona State Universi",
+      "date": "2026-06-17T23:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/8-dna.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-18T00:21:17Z"
+    },
+    {
+      "title": "Q&A: Why so many whales are in Vancouver waters—and how to (legally) spot them",
+      "link": "https://phys.org/news/2026-06-qa-whales-vancouver-legally.html",
+      "summary": "If you've noticed more whales visiting local waters, you're not imagining it: Vancouver's gargantuan guests are here thanks to the season, great grub and conservation successes, re",
+      "date": "2026-06-17T23:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-so-many-whales-are.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-18T00:21:17Z"
+    },
+    {
+      "title": "Comb jelly embryos reveal embryonic signaling center shared across early animal evolution",
+      "link": "https://phys.org/news/2026-06-jelly-embryos-reveal-embryonic-center.html",
+      "summary": "In order for vertebrate embryos to develop their body axes, they require what is known as an embryonic signaling center. This group of cells provides the instructions that determin",
+      "date": "2026-06-17T23:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-genetic-blueprint.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-18T00:21:17Z"
+    },
+    {
+      "title": "'This was a pioneering achievement': Stone Age people put up posts to observe the solstices near Stonehenge long before the stones of sacred site were placed",
+      "link": "https://www.livescience.com/archaeology/this-was-a-pioneering-achievement-stone-age-people-put-up-posts-to-observe-the-solstices-near-stonehenge-long-before-the-stones-of-sacred-site-were-placed",
+      "summary": "The discovery of two ancient holes at Stonehenge suggests people placed posts there to help observe the summer and winter solstices around 5,000 years ago.",
+      "date": "2026-06-17T23:01:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/exQTpAaeqhEHLCTEdV8iGn-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-18T00:21:18Z"
+    },
     {
       "title": "Hidden Tunnels Dating Back to Henry VIII's Reign Were Discovered at This English Boarding School, Where the King Once Lived",
       "link": "https://www.smithsonianmag.com/smart-news/hidden-tunnels-dating-back-to-henry-viiis-reign-were-discovered-at-english-boarding-school-New-Hall-School-where-the-king-once-lived-180988965/",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-06-10T19:41:28Z"
-    },
-    {
-      "title": "How bacteria organize themselves to 'hitchhike' across large distances",
-      "link": "https://phys.org/news/2026-06-bacteria-hitchhike-large-distances.html",
-      "summary": "While scientists have studied how bacteria move toward food using a chemical radar known as chemotaxis, they have only watched single species swim in isolated environments over dis",
-      "date": "2026-06-10T19:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sewage-pipes.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-10T19:41:29Z"
-    },
-    {
-      "title": "Farmers in a national park are turning down lights at night to help wildlife. It could be good for crops too",
-      "link": "https://phys.org/news/2026-06-farmers-national-night-wildlife-good.html",
-      "summary": "Growing evidence suggests that excessive outdoor lighting at night may be harming wildlife.",
-      "date": "2026-06-10T18:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/light-pollution.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-10T19:41:29Z"
-    },
-    {
-      "title": "More sustainable agriculture: Recycled fertilizers could be part of the solution",
-      "link": "https://phys.org/news/2026-06-sustainable-agriculture-recycled-fertilizers-solution.html",
-      "summary": "Researchers have uncovered new insights into how phosphorus from recycled materials moves through soil—offering guidance to support more sustainable fertilizer use. Phosphorus is a",
-      "date": "2026-06-10T18:00:11Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/fertilizer.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-10T19:41:29Z"
-    },
-    {
-      "title": "Dead organisms have a lasting ecological legacy, new research shows",
-      "link": "https://phys.org/news/2026-06-dead-ecological-legacy.html",
-      "summary": "Trees, grasses, corals, and oysters are foundational to the structure of an ecosystem while they are alive. But new research led by the Cooperative Institute for Research in Enviro",
-      "date": "2026-06-10T18:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dead-organisms-have-a.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-10T19:41:29Z"
-    },
-    {
-      "title": "Secret life of adult whitebait revealed by new research",
-      "link": "https://phys.org/news/2026-06-secret-life-adult-whitebait-revealed.html",
-      "summary": "Te Whare Wānanga o Waitaha | University of Canterbury (UC) School of Biological Sciences researcher Dr. Ben Crichton has studied kōkopu—whitebait species that can live for 10 years",
-      "date": "2026-06-10T17:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/secret-life-of-adult-w.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-10T19:41:29Z"
-    },
-    {
-      "title": "One storm pushed world's rarest great ape closer to extinction in Sumatra",
-      "link": "https://phys.org/news/2026-06-climate-fueled-storm-decimated-world.html",
-      "summary": "Climate change-fueled landslides wiped out nearly one in 10 remaining members of the world's rarest great ape species on Indonesia's Sumatra island, scientists said Wednesday.",
-      "date": "2026-06-10T16:51:18Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tapanuli-orangutan.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-10T19:41:29Z"
-    },
-    {
-      "title": "See the 'crawling,' ball-shaped robot that rolled around the moon during Japan's historic first landing",
-      "link": "https://www.livescience.com/space/space-exploration/see-the-crawling-ball-shaped-rover-that-rolled-around-the-moon-during-japans-historic-first-landing",
-      "summary": "A morphable moon robot operated for 100 minutes in 2024, allowing investigators to get images of an upside-down spacecraft on the lunar surface.",
-      "date": "2026-06-10T18:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ivuvdNm4RZsfrMbNyqTbxP-1280-80.gif",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-10T19:41:30Z"
-    },
-    {
-      "title": "In a first, scientists translated an entire viral genome so a quantum computer could read and analyze it",
-      "link": "https://www.livescience.com/technology/quantum/in-a-first-scientists-translated-an-entire-viral-genome-so-a-quantum-computer-could-read-and-analyze-it",
-      "summary": "Scientists have uploaded a viral genome to a quantum computer, marking an important step for the future of quantum-enabled advancements in biology.",
-      "date": "2026-06-10T17:20:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/UqT5WenZj2SSjawAvmzFvH-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-10T19:41:30Z"
     }
   ]
 }
