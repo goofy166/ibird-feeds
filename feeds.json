@@ -1,8 +1,129 @@
 {
-  "updated": "2026-06-19T10:50:56Z",
-  "updated_utc": "2026-06-19T10:50:56Z",
+  "updated": "2026-06-19T14:16:31Z",
+  "updated_utc": "2026-06-19T14:16:31Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Read a book? Join a club? Stare at a wall? Social media alternatives for under-16s",
+      "link": "https://www.theguardian.com/media/2026/jun/19/social-media-alternatives-under-16s-uk-government-ban",
+      "summary": "Amid UK government proposals for a ban, experts discuss what other activities might really serve children well When a Lancashire schoolgirl was asked what she would do if the propo",
+      "date": "2026-06-19T13:20:40Z",
+      "image": "https://i.guim.co.uk/img/media/9cad43ee181d29a7367e1731dd1f3836eeed7ad3/243_0_4514_3610/master/4514.jpg?width=140&quality=85&auto=format&fit=max&s=00cad0863e61661b0ef812537a97ca5a",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-19T14:16:16Z"
+    },
+    {
+      "title": "34 dust devils on Mars in 1 shot! Can you spot them all?",
+      "link": "https://earthsky.org/todays-image/34-dust-devils-on-mars-in-1-shot/",
+      "summary": "The Mars Express orbiter caught this view of the red planet, which is peppered with whirlwinds. Can you spot the 34 dust devils on Mars in this 1 shot? The post 34 dust devils on M",
+      "date": "2026-06-19T11:48:38Z",
+      "image": "https://earthsky.org/upl/2026/06/22-crop-Dust_devils_Mars_Express_visits_Mamers_Valles_on_Mars_pillars_ESA-e1781805161270.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-06-19T14:16:18Z"
+    },
+    {
+      "title": "Yes, You Should Put Bug Spray on Your Dog—But the Wrong Kind Can Be Deadly",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/safe-bug-spray-for-dogs/",
+      "summary": "Protecting your dog from ticks and mosquitoes is crucial, but ordinary human bug sprays can be toxic. Here’s what to know this summer. The post Yes, You Should Put Bug Spray on You",
+      "date": "2026-06-19T11:09:14Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/GettyImages-1507966465.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-06-19T14:16:22Z"
+    },
+    {
+      "title": "Can prebiotics, probiotics or postbiotics help your ageing microbiome?",
+      "link": "https://www.newscientist.com/article/2530917-can-prebiotics-probiotics-or-postbiotics-help-your-ageing-microbiome/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The disruption of your gut microbiome is a major consequence, and possible cause, of ageing. Columnist Graham Lawton looks into recent trials examining whether it can be replenishe",
+      "date": "2026-06-19T09:00:28Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/17213539/SEI_301521634.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-19T14:16:26Z"
+    },
+    {
+      "title": "Almost the whole of Japan moved eastward after 2011 earthquake",
+      "link": "https://www.newscientist.com/article/2531001-almost-the-whole-of-japan-moved-eastward-after-2011-earthquake/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "An extremely unusual tectonic movement took place 15 minutes after the Tohoku earthquake in 2011, causing almost the whole of Japan to move 5 millimetres to the east",
+      "date": "Thu, 18 Jun 2026 20Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/18134353/SEI_301924247.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-19T14:16:26Z"
+    },
+    {
+      "title": "How animals communicate to work together across species boundaries",
+      "link": "https://phys.org/news/2026-06-animals-communicate-species-boundaries.html",
+      "summary": "An international team of researchers have published a new review in Animal Behavior revealing how communication enables cooperation between different animal species. The review, ti",
+      "date": "2026-06-19T14:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-animals-communicat.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-19T14:16:28Z"
+    },
+    {
+      "title": "Student makes first recorded sighting of a microwhip scorpion in the Daintree Rainforest",
+      "link": "https://phys.org/news/2026-06-student-sighting-microwhip-scorpion-daintree.html",
+      "summary": "A James Cook University Ph.D. student's late-night solo survey has led to the first recorded sighting of a microwhip scorpion in the Daintree Rainforest. JCU entomologist and taxon",
+      "date": "2026-06-19T13:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/student-makes-first-re.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-19T14:16:28Z"
+    },
+    {
+      "title": "Small forest fragments can protect more birds when the surrounding landscape is more helpful",
+      "link": "https://phys.org/news/2026-06-small-forest-fragments-birds-landscape.html",
+      "summary": "Larger areas contain more species. This is one of the most ironclad laws of ecology, which explains why large natural areas usually receive higher priority in conservation strategi",
+      "date": "2026-06-19T13:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/patch-of-trees-from-ab.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-19T14:16:28Z"
+    },
+    {
+      "title": "Microbes destroyed an ancient pterosaur's wingbone, then preserved it for 100 million years",
+      "link": "https://phys.org/news/2026-06-microbes-destroyed-ancient-pterosaur-wingbone.html",
+      "summary": "More than 100 million years ago, a flying reptile called a pterosaur flew over the oceans hunting squid and fish.",
+      "date": "2026-06-19T12:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/microbes-destroyed-an.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-19T14:16:28Z"
+    },
+    {
+      "title": "New research finds major gaps between EU anti-deforestation rules and realities on the ground in Brazil",
+      "link": "https://phys.org/news/2026-06-major-gaps-eu-anti-deforestation.html",
+      "summary": "The U.K. could face significant challenges if it follows the European Union's lead and introduces tougher restrictions on imports linked to deforestation, according to new research",
+      "date": "2026-06-19T12:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cattle-in-brazil.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-19T14:16:28Z"
+    },
+    {
+      "title": "Estrogen levels in both the male and female brain may shape memory's resilience in face of stress",
+      "link": "https://www.livescience.com/health/neuroscience/estrogen-levels-in-both-the-male-and-female-brain-may-shape-memorys-resilience-in-face-of-stress",
+      "summary": "Traumatic experiences can cause memory problems, and estrogen may be a key factor that shapes the brain's resilience against such stressors, a mouse study finds.",
+      "date": "2026-06-19T10:49:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/M8dUGfSCoqoi5258p68mgM-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-19T14:16:29Z"
+    },
     {
       "title": "Mainland Australia’s first suspected case of deadly H5N1 investigated after seabird tests positive for bird flu",
       "link": "https://www.theguardian.com/australia-news/2026/jun/19/australia-bird-flu-deadly-h5n1-first-suspected-case-wa",
@@ -5381,127 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-06-11T21:26:43Z"
-    },
-    {
-      "title": "'Selection shadow' may explain why longer lives bring more age-related disease",
-      "link": "https://phys.org/news/2026-06-shadow-longer-age-disease.html",
-      "summary": "A review article now published in Nature Reviews Genetics brings together evolutionary theory, comparative genomics and large-scale human genetics to explain why we age and why agi",
-      "date": "2026-06-11T21:00:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ageing-in-the-selectio.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-11T21:26:45Z"
-    },
-    {
-      "title": "Genomes from Oceania offer new clues to human evolution",
-      "link": "https://phys.org/news/2026-06-genomes-oceania-clues-human-evolution.html",
-      "summary": "A new Yale-led study provides one of the most detailed and comprehensive analyses to date of genetic variation in human populations in Oceania, filling a major gap in representatio",
-      "date": "2026-06-11T20:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genomes-from-oceania-o.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-11T21:26:45Z"
-    },
-    {
-      "title": "How bacteria use acetyl coenzyme as a building block in the formation of cells",
-      "link": "https://phys.org/news/2026-06-bacteria-acetyl-coenzyme-block-formation.html",
-      "summary": "Researchers at the University of Greifswald have discovered a new mechanism by which bacteria such as Bacillus subtilis can regulate the production of the central metabolic molecul",
-      "date": "2026-06-11T20:20:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-bacteria-use-acety-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-11T21:26:45Z"
-    },
-    {
-      "title": "Silent prions reveal new cross-species chronic wasting disease risk in lab tests",
-      "link": "https://phys.org/news/2026-06-silent-prions-reveal-species-chronic.html",
-      "summary": "Chronic wasting disease (CWD) is generally associated with animals. But a new study by researchers from the University of Calgary and international collaborators explored the poten",
-      "date": "2026-06-11T20:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-explores-pot.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-11T21:26:45Z"
-    },
-    {
-      "title": "Salmonella genomes reveal 45 previously unknown toxins in foodborne bacteria",
-      "link": "https://phys.org/news/2026-06-salmonella-genomes-reveal-previously-unknown.html",
-      "summary": "Researchers at the University of São Paulo (USP) in Brazil have discovered 45 new toxins produced by Salmonella bacteria, some of which are associated with foodborne infections. Th",
-      "date": "2026-06-11T19:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/salmonella-genomes-rev.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-11T21:26:45Z"
-    },
-    {
-      "title": "Sharks, seals, hunters, tourists: How wildlife‑human interactions matter for conservation",
-      "link": "https://phys.org/news/2026-06-sharks-hunters-tourists-wildlifehuman-interactions.html",
-      "summary": "Our relationships with wildlife are dynamic. They can change rapidly and unexpectedly.",
-      "date": "2026-06-11T19:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/seals.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-11T21:26:45Z"
-    },
-    {
-      "title": "Ancient squirrel poop from Arctic permafrost contains DNA from mammoths, bison, horses and big cats",
-      "link": "https://www.livescience.com/animals/ancient-squirrel-poop-from-arctic-permafrost-contains-dna-from-mammoths-bison-horses-and-big-cats",
-      "summary": "Prehistoric squirrel droppings were analyzed and found to contain genetic material of numerous ice-age beasts, plants, microbes and fungi.",
-      "date": "Thu, 11 Jun 2026 20Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/HCYmoyfgBKc85xknmmfXpV-1280-80.jpg",
-      "name": "Live Science",
-      "category": "butterflies",
-      "color": 14,
-      "fetched_at": "2026-06-11T21:26:46Z"
-    },
-    {
-      "title": "Earth's underground fungal network is so massive, it would span 10% of the Milky Way, map reveals",
-      "link": "https://www.livescience.com/planet-earth/plants/earths-underground-fungal-network-is-so-massive-it-would-span-10-percent-of-the-milky-way-map-reveals",
-      "summary": "The first global map of subterranean fungi networks reveals how massive its reach is worldwide.",
-      "date": "Thu, 11 Jun 2026 18Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/omrVzJB7757vssv4fztbiJ-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-11T21:26:46Z"
-    },
-    {
-      "title": "Ironweed (Vernonia) Plant Care and Growing Tips",
-      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/ironweed-plant-vernonia/",
-      "summary": "Attract more birds and butterflies by including native plants such as ironweed in your landscape. Here's how to grow ironweed plants. The post Ironweed (Vernonia) Plant Care and Gr",
-      "date": "Thu, 11 Jun 2026 17Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/308263534_1_Nancy_Jones_BNB_PC_2022-scaled-e1781195090695.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-06-11T18:21:54Z"
-    },
-    {
-      "title": "El Niño is officially here! How strong will it get?",
-      "link": "https://earthsky.org/earth/super-el-nino-record-temperatures-2026-2027/",
-      "summary": "NOAA's National Weather Service said on June 11, 2026, that El Niño has arrived. It's likely to strengthen and could become a super El Niño. The post El Niño is officially here! Ho",
-      "date": "Thu, 11 Jun 2026 15Z",
-      "image": "https://earthsky.org/upl/2026/06/ElNino-2026_03_II_NOAA-Satellites.gif",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-06-11T18:22:00Z"
-    },
-    {
-      "title": "The 8 Mobility Moves That Support Longevity, From a Physical Therapist",
-      "link": "https://www.outsideonline.com/health/training-performance/mobility-exercises-longevity-joint-flexibility/",
-      "summary": "A physical therapist shares eight mobility exercises to improve joint flexibility, prevent injury, and boost longevity. The post The 8 Mobility Moves That Support Longevity, From a",
-      "date": "Thu, 11 Jun 2026 17Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/older-man-stretching.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-11T18:22:05Z"
     }
   ]
 }
