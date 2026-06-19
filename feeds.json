@@ -1,8 +1,52 @@
 {
-  "updated": "2026-06-19T19:58:05Z",
-  "updated_utc": "2026-06-19T19:58:05Z",
+  "updated": "2026-06-19T21:17:28Z",
+  "updated_utc": "2026-06-19T21:17:28Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How to Identify an Eastern Meadowlark",
+      "link": "https://www.birdsandblooms.com/birding/bird-species/tanagers-and-blackbirds/eastern-meadowlark/",
+      "summary": "Learn what an eastern meadowlark looks like and where to find this bird species. Also find out what the bird eats and where it builds a nest. The post How to Identify an Eastern Me",
+      "date": "Thu, 11 Jun 2026 20Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/Andy-Raupp2-scaled-e1781204725822.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-06-19T21:17:09Z"
+    },
+    {
+      "title": "Faecal transplant makes the brains of old mice act young again",
+      "link": "https://www.newscientist.com/article/2531241-faecal-transplant-makes-the-brains-of-old-mice-act-young-again/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Older mice that received a faecal microbiome transplant from younger animals went on to have improved brain plasticity, which meant their brains could overcome a neurological condi",
+      "date": "2026-06-19T17:48:29Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/19174058/SEI_302089664.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-19T21:17:23Z"
+    },
+    {
+      "title": "We've found a mysterious substance on Titan and Pluto",
+      "link": "https://www.newscientist.com/article/2531107-weve-found-a-mysterious-substance-on-titan-and-pluto/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Something is absorbing light on the surfaces of Pluto and Saturn’s moon Titan, and figuring out what it is could be crucial to understanding Titan’s complex chemistry",
+      "date": "2026-06-19T17:00:01Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/19145041/SEI_302060273.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-19T21:17:23Z"
+    },
+    {
+      "title": "Most portable air conditioners suck – but there's an easy fix",
+      "link": "https://www.newscientist.com/article/2530899-most-portable-air-conditioners-suck-but-theres-an-easy-fix/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Efficiency ratings on portable air conditioners don’t give consumers the full picture, and one type of aircon unit is so inefficient that it should be banned, says Michael Le Page",
+      "date": "2026-06-19T16:08:41Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/19122000/SEI_301922545.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-19T21:17:23Z"
+    },
     {
       "title": "11 Popular Annual Flowers You Need in Your Garden",
       "link": "https://www.birdsandblooms.com/gardening/flower-gardening/popular-annual-flowers/",
@@ -5458,50 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-06-12T04:49:20Z"
-    },
-    {
-      "title": "‘Should we leave them to die?’ The battle over how to save orangutans from the curse of palm oil – podcast",
-      "link": "https://www.theguardian.com/news/audio/2026/jun/12/should-we-leave-them-to-die-the-battle-over-how-to-save-orangutans-from-the-curse-of-palm-oil-podcast",
-      "summary": "As new settlers clear their forest habitat, the apes are coming into conflict with humans. But simply moving them to another part of the forest may not be the answer By Sally Willi",
-      "date": "2026-06-12T04:00:36Z",
-      "image": "https://i.guim.co.uk/img/media/382da4ac09e833712fb7ed8754ace34cdc4510e4/538_0_2218_1775/master/2218.jpg?width=140&quality=85&auto=format&fit=max&s=0740536622b5b6e1fc2d85e702d2a901",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-12T04:49:20Z"
-    },
-    {
-      "title": "‘The birds will fly away’: can Albania’s flamingo revolution keep its wetlands free from Trumps and tourists?",
-      "link": "https://www.theguardian.com/world/2026/jun/12/albania-flamingos-wetlands-trump-tourists",
-      "summary": "A luxury resort backed by the US president’s family may be built on a wildlife-rich nature reserve in one of Europe’s poorest nations If the real estate dreams of a billionaire pol",
-      "date": "2026-06-12T04:00:34Z",
-      "image": "https://i.guim.co.uk/img/media/df35dcaf713ba315d7955a55d2990e4119c055ca/340_0_4171_3339/master/4171.jpg?width=140&quality=85&auto=format&fit=max&s=f1538feca90c50543f6b94ba6502d5d1",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-12T04:49:20Z"
-    },
-    {
-      "title": "Plants reveal hidden PFAS pollution that soils can miss, study finds",
-      "link": "https://phys.org/news/2026-06-reveal-hidden-pfas-pollution-soils.html",
-      "summary": "A new study has found that plants may reveal recent PFAS contamination linked to airborne deposition that can go undetected in soil analyses. Conducted in agricultural fields near ",
-      "date": "2026-06-12T00:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/plants-reveal-hidden-p.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-12T04:49:32Z"
-    },
-    {
-      "title": "Why restoring rivers isn't enough: New research shows fish are evolving in response to human-made rivers",
-      "link": "https://phys.org/news/2026-06-rivers-isnt-fish-evolving-response.html",
-      "summary": "This new international study is calling for a major rethink of how rivers are managed, arguing that fish are not just passive victims of environmental change but active participant",
-      "date": "2026-06-12T00:00:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-restoring-rivers-i-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-12T04:49:32Z"
     }
   ]
 }
