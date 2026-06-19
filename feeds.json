@@ -1,8 +1,19 @@
 {
-  "updated": "2026-06-19T21:17:28Z",
-  "updated_utc": "2026-06-19T21:17:28Z",
+  "updated": "2026-06-19T23:06:16Z",
+  "updated_utc": "2026-06-19T23:06:16Z",
   "count": 500,
   "stories": [
+    {
+      "title": "From birds to fish, how extreme heat causes wildlife to suffer",
+      "link": "https://phys.org/news/2026-06-birds-fish-extreme-wildlife.html",
+      "summary": "Like humans, wildlife is increasingly vulnerable as climate change fuels longer and more intense heat waves, disrupting feeding and breeding and, in extreme cases, proving fatal.",
+      "date": "2026-06-19T21:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/birds-are-particularly.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-19T23:06:12Z"
+    },
     {
       "title": "How to Identify an Eastern Meadowlark",
       "link": "https://www.birdsandblooms.com/birding/bird-species/tanagers-and-blackbirds/eastern-meadowlark/",
@@ -5487,17 +5498,6 @@
       "summary": "Cardiff: I still remember my first otter sighting, on a bog in the mid-90s. This, in a lab on a stainless steel table, is something else Otter No 4,888 was found at the side of the",
       "date": "2026-06-12T04:30:34Z",
       "image": "https://i.guim.co.uk/img/media/9e1d29d921bb2488508d6b072611fb3441697e4f/0_432_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=fcb99649d3d833b529762500be1832de",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-12T04:49:20Z"
-    },
-    {
-      "title": "Britain’s favourite butterfly revealed – and it’s a familiar backyard beauty",
-      "link": "https://www.theguardian.com/environment/2026/jun/12/britain-favourite-butterfly-revealed-garden-peacock",
-      "summary": "More than 20,000 votes cast in Butterfly Conservation’s poll of 60 native species to find nation’s favourite for first time The votes are in on Britain’s favourite butterfly, and i",
-      "date": "2026-06-12T04:00:36Z",
-      "image": "https://i.guim.co.uk/img/media/6d7d2471cc1faad0238c1dfeec10e4b136037d78/0_0_2175_1741/master/2175.jpg?width=140&quality=85&auto=format&fit=max&s=477eadc42d6bc6fd2f86b540bcde4af8",
       "name": "Guardian",
       "category": "wildlife",
       "color": 5,
