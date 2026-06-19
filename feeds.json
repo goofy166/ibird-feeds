@@ -1,8 +1,85 @@
 {
-  "updated": "2026-06-19T17:23:06Z",
-  "updated_utc": "2026-06-19T17:23:06Z",
+  "updated": "2026-06-19T19:58:05Z",
+  "updated_utc": "2026-06-19T19:58:05Z",
   "count": 500,
   "stories": [
+    {
+      "title": "11 Popular Annual Flowers You Need in Your Garden",
+      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/popular-annual-flowers/",
+      "summary": "Want to grow a flower garden but not sure where to start? These popular annual flowers are beloved by gardeners for a reason! The post 11 Popular Annual Flowers You Need in Your Ga",
+      "date": "Thu, 04 Jun 2026 15Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/Petunia_WandaGantt-e1780584898121.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-06-19T19:57:46Z"
+    },
+    {
+      "title": "How to Help Monarchs: Do’s and Don’ts to Support Butterflies",
+      "link": "https://www.birdsandblooms.com/gardening/attracting-butterflies/how-to-help-monarchs/",
+      "summary": "Find out what you should and shouldn’t do to safely support and help monarch butterflies in your own backyard. The post How to Help Monarchs: Do’s and Don’ts to Support Butterflies",
+      "date": "2026-05-27T20:57:50Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/05/15_Cynthia-Farr-Weinfeld_BNBja26.jpg?fit=700,1024",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-06-19T19:57:46Z"
+    },
+    {
+      "title": "Stressed-out soil bacteria adapt to environmental conditions",
+      "link": "https://phys.org/news/2026-06-stressed-soil-bacteria-environmental-conditions.html",
+      "summary": "A new study from Caltech demonstrates that soil bacteria can adapt under stress, particularly when a key nutrient, phosphorus, is running low in their environment. The work is impo",
+      "date": "2026-06-19T19:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/stressed-out-soil-bact-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-19T19:58:01Z"
+    },
+    {
+      "title": "AI reveals unexpected source of antibiotic candidates in prion proteins",
+      "link": "https://phys.org/news/2026-06-ai-reveals-unexpected-source-antibiotic.html",
+      "summary": "New antibiotic candidates for drug-resistant bacteria may reside inside prions, misfolded proteins in the brain best known for rare and fatal degenerative brain diseases. Prion and",
+      "date": "2026-06-19T19:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/neurodegenerative.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-19T19:58:01Z"
+    },
+    {
+      "title": "Arabidopsis meristem map uncovers 18 cell clusters shaping stems and flowers",
+      "link": "https://phys.org/news/2026-06-arabidopsis-meristem-uncovers-cell-clusters.html",
+      "summary": "Researchers have produced the most detailed map yet of how stem cells in the growing tip of a plant begin their journey to form the many cell types that shape flowers and stems. Th",
+      "date": "2026-06-19T18:00:12Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-insights-into-the-5.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-19T19:58:01Z"
+    },
+    {
+      "title": "How H5N1 bird flu hid unrecognized for weeks in dairy cattle",
+      "link": "https://phys.org/news/2026-06-h5n1-bird-flu-hid-unrecognized.html",
+      "summary": "When H5N1 bird flu first began infecting U.S. cattle in early 2024, diagnosis was elusive because, in cows, the disease looked completely different. Instead of affecting the lungs,",
+      "date": "2026-06-19T18:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-h5n1-bird-flu-hid.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-19T19:58:01Z"
+    },
+    {
+      "title": "Hidden underground, fungi drive carbon storage, crop health and ecosystem stability",
+      "link": "https://phys.org/news/2026-06-hidden-underground-fungi-carbon-storage.html",
+      "summary": "Fungi are key constituents of the soil microbial community, playing a major role in moving carbon and energy through the soil food web. A recent analysis carried out by Professor M",
+      "date": "2026-06-19T17:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-highlights-the-i.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-19T19:58:01Z"
+    },
     {
       "title": "Return to Kerkini",
       "link": "https://www.10000birds.com/return-to-kerkini.htm?utm_source=rss&utm_medium=rss&utm_campaign=return-to-kerkini",
@@ -5425,83 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-06-12T04:49:32Z"
-    },
-    {
-      "title": "Natural history GCSE to teach teenagers to plant wildflower-friendly gardens",
-      "link": "https://www.theguardian.com/education/2026/jun/11/natural-history-gcse-to-teach-teenagers-to-plant-wildflower-friendly-gardens",
-      "summary": "Long-awaited course to examine human effects on natural world and explore everyday ways to aid biodiversity School pupils will learn how to plant a wildflower-friendly garden, acco",
-      "date": "2026-06-11T21:30:26Z",
-      "image": "https://i.guim.co.uk/img/media/3208376cec4df1507bafac8c5fbeb270b6692f6f/350_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=758e6c833d3124af848850a7df8fb08f",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-11T23:43:40Z"
-    },
-    {
-      "title": "Songs prep the brains of finches yet to hatch for a hot world",
-      "link": "https://www.sciencenews.org/article/songs-prep-unhatched-finches-hot-world",
-      "summary": "Adult finches make \"heat calls\" as the temperature rises. Exposure to the song prepares their unhatched young's brains for the heat.",
-      "date": "Thu, 11 Jun 2026 22Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/061126_JB_zebrafinch_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-06-11T23:43:50Z"
-    },
-    {
-      "title": "Why cells started sticking together could help explain how animals first evolved",
-      "link": "https://phys.org/news/2026-06-cells-animals-evolved.html",
-      "summary": "A recent study by Ruibao Li and Jennah Dharamshi published in Nature may help us understand the beginnings of animal evolution billions of years ago. These findings are the result ",
-      "date": "2026-06-11T22:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/-animal-evolution.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-11T23:43:53Z"
-    },
-    {
-      "title": "AI fast-forwards molecular simulations by 10,000-fold",
-      "link": "https://phys.org/news/2026-06-ai-fast-forwards-molecular-simulations.html",
-      "summary": "A new AI model has become so good at predicting how molecules evolve over time that, in the future, it could speed up the costly and time-consuming process of testing new drugs. In",
-      "date": "2026-06-11T22:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-fast-forwards-molec.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-11T23:43:53Z"
-    },
-    {
-      "title": "Parents' heat warning songs may prime zebra finch chicks for heat before they hatch",
-      "link": "https://phys.org/news/2026-06-parents-songs-prime-zebra-finch.html",
-      "summary": "Sealed within an eggshell, how can chicks prepare for the world into which they are about to hatch, with no obvious direct communication channel across the shell? Adult zebra finch",
-      "date": "2026-06-11T22:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/zebra-finches.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-11T23:43:53Z"
-    },
-    {
-      "title": "When seeds mislead, weeds succeed: Researchers uncover surprising ways weeds spread",
-      "link": "https://phys.org/news/2026-06-seeds-weeds-succeed-uncover-ways.html",
-      "summary": "Biologists have long thought that seed traits, such as the presence of wings, are the key to predicting in what way, and how far, weeds can disperse. Now, a trio of researchers has",
-      "date": "2026-06-11T21:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-seeds-mislead-wee.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-11T23:43:53Z"
-    },
-    {
-      "title": "How to Identify an Eastern Meadowlark",
-      "link": "https://www.birdsandblooms.com/birding/bird-species/tanagers-and-blackbirds/eastern-meadowlark/",
-      "summary": "Learn what an eastern meadowlark looks like and where to find this bird species. Also find out what the bird eats and where it builds a nest. The post How to Identify an Eastern Me",
-      "date": "Thu, 11 Jun 2026 20Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/Andy-Raupp2-scaled-e1781204725822.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-06-11T21:26:29Z"
     }
   ]
 }
