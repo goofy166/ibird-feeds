@@ -1,8 +1,41 @@
 {
-  "updated": "2026-06-20T04:21:00Z",
-  "updated_utc": "2026-06-20T04:21:00Z",
+  "updated": "2026-06-20T08:25:27Z",
+  "updated_utc": "2026-06-20T08:25:27Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: For the beloved Ash Dome, death is not the end | Anita Roy",
+      "link": "https://www.theguardian.com/environment/2026/jun/20/country-diary-for-the-beloved-ash-dome-death-is-not-the-end",
+      "summary": "Blaenau Ffestiniog, Gwynedd: This living sculpture, planted in the 1970s ‘for the 21st century’, is fading fast. But heartbreak is not the only response Ten years ago when I visite",
+      "date": "2026-06-20T04:30:51Z",
+      "image": "https://i.guim.co.uk/img/media/f189367088a3c789b006f4b8a5fac7e27fc38729/195_0_1877_1502/master/1877.jpg?width=140&quality=85&auto=format&fit=max&s=5e1f78dac9cc512cf7760b515d9f583c",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-20T08:25:11Z"
+    },
+    {
+      "title": "The one film to watch before seeing Steven Spielberg’s Disclosure Day",
+      "link": "https://www.newscientist.com/article/2530057-the-one-film-to-watch-before-seeing-steven-spielbergs-disclosure-day/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "With Steven Spielberg’s new extraterrestrial film Disclosure Day just out, it’s the ideal time to watch Close Encounters of the Third Kind – perhaps the perfect UFO film, says film",
+      "date": "Thu, 11 Jun 2026 11Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/11101858/sei300638943.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-20T08:25:22Z"
+    },
+    {
+      "title": "Australia detects first case of contagious H5 bird flu",
+      "link": "https://phys.org/news/2026-06-australia-case-contagious-h5-bird.html",
+      "summary": "Scientists have detected the H5 strain of bird flu in Australia for the first time, the country's agriculture minister said Saturday, meaning the highly contagious variant has now ",
+      "date": "2026-06-20T06:55:27Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/australia-detects-firs.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-20T08:25:23Z"
+    },
     {
       "title": "Anthony Albanese says Australia’s first mainland case of deadly H5N1 bird flu ‘concerning’",
       "link": "https://www.theguardian.com/australia-news/2026/jun/20/australia-confirms-first-case-of-h5n1-bird-flu",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-06-12T13:33:34Z"
-    },
-    {
-      "title": "Week in wildlife: a squirrel with a splint, hungry hyenas and a great white shark",
-      "link": "https://www.theguardian.com/environment/gallery/2026/jun/12/week-in-wildlife-squirrel-hyenas-great-white-shark",
-      "summary": "This week’s best wildlife photographs from around the world Continue reading...",
-      "date": "2026-06-12T07:00:38Z",
-      "image": "https://i.guim.co.uk/img/media/813f85804fc4921753164eca82de0c3ff044f8c0/100_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=dc61c6c90f6bdae1c77f2b1b730979f3",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-12T09:05:18Z"
-    },
-    {
-      "title": "Cygnus the Swan flies along the Milky Way",
-      "link": "https://earthsky.org/constellations/cygnus-the-swan-milky-way/",
-      "summary": "Cygnus the Swan is a constellation that lies in front of the starlit band of the Milky Way. Its brightest star, Deneb, is part of the Summer Triangle. The post Cygnus the Swan flie",
-      "date": "2026-06-12T08:30:23Z",
-      "image": "https://earthsky.org/upl/2021/11/Cygnus-Constellation-e1636991421849.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-06-12T09:05:20Z"
-    },
-    {
-      "title": "Mercury is farthest from the sunset on June 15",
-      "link": "https://earthsky.org/tonight/mercury-after-sunset-greatest-elongation-east/",
-      "summary": "The innermost planet, Mercury, will be 18 degrees from the sun at greatest elongation at 18 UTC on February 19. Look for it shortly after sunset near Venus. The post Mercury is far",
-      "date": "2026-06-12T07:00:34Z",
-      "image": "https://earthsky.org/upl/2026/05/June-15-2026-Mercury-NH.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-06-12T09:05:20Z"
     }
   ]
 }
