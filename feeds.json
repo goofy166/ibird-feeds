@@ -1,8 +1,19 @@
 {
-  "updated": "2026-06-19T23:06:16Z",
-  "updated_utc": "2026-06-19T23:06:16Z",
+  "updated": "2026-06-20T04:21:00Z",
+  "updated_utc": "2026-06-20T04:21:00Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Anthony Albanese says Australia’s first mainland case of deadly H5N1 bird flu ‘concerning’",
+      "link": "https://www.theguardian.com/australia-news/2026/jun/20/australia-confirms-first-case-of-h5n1-bird-flu",
+      "summary": "Tests taken in Western Australia suggest a second bird was also infected, but there is no evidence poultry or agriculture systems are affected Get our breaking news email , free ap",
+      "date": "2026-06-20T02:55:13Z",
+      "image": "https://i.guim.co.uk/img/media/f2f8a47a29f191fffc6780b6a4734691034a9ff9/78_0_5243_4194/master/5243.jpg?width=140&quality=85&auto=format&fit=max&s=cc315444a3e01d95ab2013f754f451f2",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-20T04:20:45Z"
+    },
     {
       "title": "From birds to fish, how extreme heat causes wildlife to suffer",
       "link": "https://phys.org/news/2026-06-birds-fish-extreme-wildlife.html",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-06-12T09:05:20Z"
-    },
-    {
-      "title": "Country diary: The grisly beauty of an otter postmortem | Gwyneth Lewis",
-      "link": "https://www.theguardian.com/environment/2026/jun/12/country-diary-the-grisly-beauty-of-an-otter-postmortem",
-      "summary": "Cardiff: I still remember my first otter sighting, on a bog in the mid-90s. This, in a lab on a stainless steel table, is something else Otter No 4,888 was found at the side of the",
-      "date": "2026-06-12T04:30:34Z",
-      "image": "https://i.guim.co.uk/img/media/9e1d29d921bb2488508d6b072611fb3441697e4f/0_432_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=fcb99649d3d833b529762500be1832de",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-12T04:49:20Z"
     }
   ]
 }
