@@ -1,8 +1,30 @@
 {
-  "updated": "2026-06-20T16:25:20Z",
-  "updated_utc": "2026-06-20T16:25:20Z",
+  "updated": "2026-06-20T18:19:05Z",
+  "updated_utc": "2026-06-20T18:19:05Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Herring weight and seal hunting markedly affecting the future of Baltic gray seals",
+      "link": "https://phys.org/news/2026-06-herring-weight-affecting-future-baltic.html",
+      "summary": "The carrying capacity of the Baltic Sea could withstand a seal population twice its current size, but hunting quotas and Baltic herring mean weight greatly affect the future of the",
+      "date": "2026-06-20T17:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/herring-weight-and-sea.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-20T18:19:01Z"
+    },
+    {
+      "title": "'You kill the bacteria and heal the wound at the same time': Emerging nanotech could be the future of wound healing",
+      "link": "https://www.livescience.com/health/you-kill-the-bacteria-and-heal-the-wound-at-the-same-time-emerging-nanotech-could-be-the-future-of-wound-healing",
+      "summary": "Slow-healing lesions — common in diabetics and burn victims — can lead to lingering infections that resist antibiotic treatment. A new approach using light-activated therapies may ",
+      "date": "2026-06-20T18:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/owNyR2W7U6gVdbtX2AZYMR-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-20T18:19:03Z"
+    },
     {
       "title": "Australian farmers are desperate to escape the latest mouse plague—and may soon get relief",
       "link": "https://phys.org/news/2026-06-australian-farmers-desperate-latest-mouse.html",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-06-12T16:50:15Z"
-    },
-    {
-      "title": "DNA tracking links raccoons to riverborne bacteria with possible human spillover",
-      "link": "https://phys.org/news/2026-06-dna-tracking-links-raccoons-riverborne.html",
-      "summary": "The emerging infectious bacterium Escherichia albertii has caused outbreaks of severe food poisoning and hospitalized people through contaminated water and foods, such as salad ing",
-      "date": "2026-06-12T13:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tracking-infectious-ba-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-12T16:50:15Z"
-    },
-    {
-      "title": "'I was really amazed': On the edge of the Milky Way, a dwarf galaxy is being ripped in half by its big sibling",
-      "link": "https://www.livescience.com/space/astronomy/i-was-really-amazed-on-the-edge-of-the-milky-way-a-dwarf-galaxy-is-being-ripped-in-half-by-its-big-sibling",
-      "summary": "A new study shows that the Small Magellanic Cloud is being pulled apart by its larger sibling on the Milky Way's periphery, upending our understanding of our cosmic neighbor.",
-      "date": "2026-06-12T16:00:55Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/gPhSDiVdA2yTPkKHwbZ5bD-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-12T16:50:16Z"
     }
   ]
 }
