@@ -1,8 +1,96 @@
 {
-  "updated": "2026-06-20T08:25:27Z",
-  "updated_utc": "2026-06-20T08:25:27Z",
+  "updated": "2026-06-20T11:23:18Z",
+  "updated_utc": "2026-06-20T11:23:18Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Going to Costa Rica",
+      "link": "https://www.10000birds.com/going-to-costa-rica.htm?utm_source=rss&utm_medium=rss&utm_campaign=going-to-costa-rica",
+      "summary": "Let’s keep all the clichés well hidden in the bottom of the wardrobe. So no Pura Vida or other slogans, no Tico Time, not even a mention of the “Island of Costa Rica“. We are not g",
+      "date": "2026-06-20T11:00:15Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/06/3-1-scaled.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-06-20T11:22:57Z"
+    },
+    {
+      "title": "Birds: The Downside",
+      "link": "https://www.10000birds.com/birds-the-downside.htm?utm_source=rss&utm_medium=rss&utm_campaign=birds-the-downside",
+      "summary": "This post is republished in our “From the Archives” series, featuring highlights of our vast back catalogue of more than 10,000 birding-related posts published over the last 15 yea",
+      "date": "2026-06-20T11:00:00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/Great_Tit.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-06-20T11:22:57Z"
+    },
+    {
+      "title": "Skeleton of the world’s rarest marine mammal preserved by digital imaging",
+      "link": "https://www.theguardian.com/environment/2026/jun/20/vaquita-porpoise-worlds-rarest-skeleton-preserved-digital-imaging-aoe",
+      "summary": "The reconstruction of the vaquita, whose numbers barely reach double figures in the wild, is designed to help research and conservation efforts Scientists have created a digital re",
+      "date": "2026-06-20T11:00:02Z",
+      "image": "https://i.guim.co.uk/img/media/23648d81cb72b4ec5741d77d44631256c4d9582d/547_438_3773_3018/master/3773.jpg?width=140&quality=85&auto=format&fit=max&s=6123108fe05cc83f0433725c0d7634d0",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-20T11:23:03Z"
+    },
+    {
+      "title": "How Drag Me Outside Is Rebranding Queer Nature Walks in Portland",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/drag-me-outside-portland-queer-hiking/",
+      "summary": "Meet Drag Me Outside, a Portland, Oregon, hiking group fusing queer community with biology. The post How Drag Me Outside Is Rebranding Queer Nature Walks in Portland appeared first",
+      "date": "2026-06-20T11:07:13Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/Copy-of-Untitled-Design-1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-06-20T11:23:09Z"
+    },
+    {
+      "title": "Is NASA falling out of love with Mars?",
+      "link": "https://www.sciencenews.org/article/nasa-mars-exploration-july-2026-ed-note",
+      "summary": "Editor in chief Nancy Shute discusses NASA's rocky relationship with Mars exploration.",
+      "date": "2026-06-20T11:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/01/cropped-favicon.jpg?w=32",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-06-20T11:23:12Z"
+    },
+    {
+      "title": "Science news this week: Goblin shark filmed for first time, California close to a major quake, physicists split photon, and inside China's plans to 'tame nature'",
+      "link": "https://www.livescience.com/animals/science-news-this-week-goblin-shark-filmed-for-first-time-california-close-to-a-major-quake-physicists-split-photon-and-inside-chinas-plans-to-tame-nature",
+      "summary": "June 20, 2026: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend.",
+      "date": "2026-06-20T11:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/gjKYJtuHzfaNhm8GwLjXre-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-20T11:23:15Z"
+    },
+    {
+      "title": "Diagnostic dilemma: A fish stabs a man through the throat and the base of the skull",
+      "link": "https://www.livescience.com/health/diagnostic-dilemma-a-fish-stabs-a-man-through-the-throat-and-the-base-of-the-skull",
+      "summary": "While on a fishing trip, a man sustained an unusual injury from a marlin.",
+      "date": "2026-06-20T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/B3qgLpcyitkFNTJ67SjWsb-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-20T11:23:15Z"
+    },
+    {
+      "title": "Why does it take our eyes so long to adjust to the dark?",
+      "link": "https://www.livescience.com/health/why-does-it-take-our-eyes-so-long-to-adjust-to-the-dark",
+      "summary": "Here's why it's so hard to see when we enter a dark room.",
+      "date": "2026-06-20T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/YmEtzn7prYpym6Y72NvZ7h-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-20T11:23:15Z"
+    },
     {
       "title": "Country diary: For the beloved Ash Dome, death is not the end | Anita Roy",
       "link": "https://www.theguardian.com/environment/2026/jun/20/country-diary-for-the-beloved-ash-dome-death-is-not-the-end",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-06-12T13:33:27Z"
-    },
-    {
-      "title": "No, mastic gum won’t reshape your jaw",
-      "link": "https://www.sciencenews.org/article/mastic-gum-benefits-jaw-antibacterial",
-      "summary": "Chewing gum made from mastic resin is a Greek staple that has some benefits for the mouth and gut. But it won’t change your face shape.",
-      "date": "2026-06-12T13:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/061026_TS_masticgum_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-06-12T13:33:28Z"
-    },
-    {
-      "title": "How to sparkle in conversation with strangers",
-      "link": "https://www.newscientist.com/article/2530034-how-to-sparkle-in-conversation-with-strangers/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "In the face of loneliness, many people are turning to AI chatbots for companionship – but research shows it can’t replace human connection. Columnist David Robson explores how bene",
-      "date": "2026-06-12T09:00:50Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/10164856/SEI_300858982.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-12T13:33:32Z"
-    },
-    {
-      "title": "First working nuclear clock heralds a new era in timekeeping",
-      "link": "https://www.newscientist.com/article/2530094-first-working-nuclear-clock-heralds-a-new-era-in-timekeeping/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A clock based on radioactive thorium atoms realises a long-held ambition, demonstrating a technology that could eventually beat the accuracy of today’s best atomic clocks",
-      "date": "2026-06-12T09:00:09Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/11121422/SEI_300736260.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-12T13:33:32Z"
-    },
-    {
-      "title": "Slime molds make decisions using internal fluid flows",
-      "link": "https://phys.org/news/2026-06-slime-molds-decisions-internal-fluid.html",
-      "summary": "Despite lacking brains or nervous systems, slime molds are capable of making surprisingly sophisticated decisions: navigating mazes, finding food and even remembering where they fo",
-      "date": "2026-06-12T13:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/slime-molds-make-decis.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-12T13:33:33Z"
-    },
-    {
-      "title": "Can ancient bacteria help solve one of agriculture's biggest challenges?",
-      "link": "https://phys.org/news/2026-06-ancient-bacteria-agriculture-biggest.html",
-      "summary": "During the Archean Eon—roughly 4 billion years ago—the Earth was a lifeless planet. The atmosphere lacked oxygen, and there were few, if any, organisms to be found anywhere on the ",
-      "date": "2026-06-12T13:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/can-ancient-bacteria-h.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-12T13:33:33Z"
-    },
-    {
-      "title": "Reeling in labor abuse: Building tools to improve accountability in the fishing industry",
-      "link": "https://phys.org/news/2026-06-reeling-labor-abuse-tools-accountability.html",
-      "summary": "In 2020, the International Seafood Sustainability Foundation approached Stanford's Center for Ocean Solutions (COS) to help identify priorities for action on social sustainability ",
-      "date": "2026-06-12T11:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/fishing-boat.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-12T13:33:33Z"
-    },
-    {
-      "title": "Brains update sensory predictions through single timing hub, electric fish study finds",
-      "link": "https://phys.org/news/2026-06-brains-sensory-hub-electric-fish.html",
-      "summary": "In the split second after you hear a noise, your brain is already making a potentially life-or-death deduction: Did I do that, or did something else? Our nervous systems answer thi",
-      "date": "2026-06-12T10:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-reveals-h-12.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-12T13:33:33Z"
-    },
-    {
-      "title": "These patients' hearts stopped a dozen times a day. An innovative procedure has transformed their lives.",
-      "link": "https://www.livescience.com/health/heart-circulation/these-patients-hearts-stopped-a-dozen-times-a-day-an-innovative-procedure-has-transformed-their-lives",
-      "summary": "People with a rare condition experience \"pauses\" in their heart beat that cause them to faint. A new procedure could change their lives, research suggests.",
-      "date": "2026-06-12T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/iPcvRLvdkVYemwzbNxWShV-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-12T13:33:34Z"
     }
   ]
 }
