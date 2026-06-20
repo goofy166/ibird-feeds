@@ -1,8 +1,19 @@
 {
-  "updated": "2026-06-20T14:21:06Z",
-  "updated_utc": "2026-06-20T14:21:06Z",
+  "updated": "2026-06-20T16:25:20Z",
+  "updated_utc": "2026-06-20T16:25:20Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Australian farmers are desperate to escape the latest mouse plague—and may soon get relief",
+      "link": "https://phys.org/news/2026-06-australian-farmers-desperate-latest-mouse.html",
+      "summary": "For months, a flood of mice has engulfed Western Australia's agricultural regions. For people living through it, this latest mouse plague is all-consuming. Houses, sheds, paddocks ",
+      "date": "2026-06-20T14:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mouse-infestation.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-20T16:25:16Z"
+    },
     {
       "title": "Israeli attack kills famed turtle sanctuary ecologist in Lebanon",
       "link": "https://www.theguardian.com/world/2026/jun/20/mona-khalil-turtle-ecologist-lebanon-killed-israeli-attack",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-06-12T16:50:16Z"
-    },
-    {
-      "title": "Species Spotlight: Spotted Wood Kingfisher",
-      "link": "https://www.10000birds.com/species-spotlight-spotted-wood-kingfisher.htm?utm_source=rss&utm_medium=rss&utm_campaign=species-spotlight-spotted-wood-kingfisher",
-      "summary": "This was the other bird I really wanted to see in the Philippines, apart from the Azure-breasted Pitta in Mindanao, and the main reason to include Luzon in the trip. The Spotted Wo",
-      "date": "2026-06-12T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/05/Spotted-Wood-Kingfisher_DSC8657__Bangkong-Kahoy-Valley-Luzon-Apr-22-2026.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-06-12T13:33:14Z"
     }
   ]
 }
