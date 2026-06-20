@@ -1,8 +1,30 @@
 {
-  "updated": "2026-06-20T18:19:05Z",
-  "updated_utc": "2026-06-20T18:19:05Z",
+  "updated": "2026-06-20T20:20:51Z",
+  "updated_utc": "2026-06-20T20:20:51Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Jumping gene caught moving between species in first direct observation",
+      "link": "https://phys.org/news/2026-06-gene-caught-species.html",
+      "summary": "Genes are not passed on exclusively from parents to their offspring. Some are mobile and can also jump to other species, as researchers at the Max Planck Institute for Marine Micro",
+      "date": "2026-06-20T20:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/caught-in-the-act-a-ge.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-20T20:20:47Z"
+    },
+    {
+      "title": "Ancient enamel just exposed a hidden human family entanglement that may still echo in your DNA",
+      "link": "https://phys.org/news/2026-05-ancient-enamel-exposed-hidden-human.html",
+      "summary": "An analysis of ancient teeth is giving scientists a rare peek into interactions between human relatives hundreds of thousands of years ago that have left a lasting imprint on our s",
+      "date": "2026-06-20T19:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-teeth-hint-at-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-20T20:20:47Z"
+    },
     {
       "title": "Herring weight and seal hunting markedly affecting the future of Baltic gray seals",
       "link": "https://phys.org/news/2026-06-herring-weight-affecting-future-baltic.html",
@@ -5476,28 +5498,6 @@
       "summary": "As temperatures rise, New Zealand's dairy farmers face a growing challenge: keeping cows cool enough to remain productive. Heat stress can reduce milk production, harm animals and ",
       "date": "2026-06-12T14:20:09Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/would-you-buy-milk-fro.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-12T16:50:15Z"
-    },
-    {
-      "title": "Venus flytrap's snap may come from rapid cell wall softening, not water flow",
-      "link": "https://phys.org/news/2026-06-venus-flytrap-snap-rapid-cell.html",
-      "summary": "The Venus flytrap (Dionaea muscipula) is a marvel of nature, a highly effective killer that doesn't have to move an inch to capture and kill its prey. It releases a fruity nectar s",
-      "date": "2026-06-12T14:11:47Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/secrets-of-an-insect-k.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-12T16:50:15Z"
-    },
-    {
-      "title": "Why chickens come in so many colors, and what one gene reveals about evolution",
-      "link": "https://phys.org/news/2026-06-chickens-gene-reveals-evolution.html",
-      "summary": "From snow white and jet black to golden brown, domestic chickens display a wider range of plumage colors than almost any other livestock species. A new international study, with re",
-      "date": "2026-06-12T14:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-chickens-got-their-1.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
