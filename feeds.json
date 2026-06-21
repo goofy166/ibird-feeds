@@ -1,8 +1,30 @@
 {
-  "updated": "2026-06-21T13:12:20Z",
-  "updated_utc": "2026-06-21T13:12:20Z",
+  "updated": "2026-06-21T16:00:38Z",
+  "updated_utc": "2026-06-21T16:00:38Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Stress gives bees sharper vision and faster reactions, researchers discover",
+      "link": "https://phys.org/news/2026-06-stress-bees-sharper-vision-faster.html",
+      "summary": "Bumblebees see the world differently under stress, processing visual information more sharply and making quicker decisions, new research from Newcastle University reveals.",
+      "date": "2026-06-21T16:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bumblebees.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-21T16:00:34Z"
+    },
+    {
+      "title": "The US just approved bemotrizinol, a sunscreen ingredient long used in Asia and Europe. Here's how it works.",
+      "link": "https://www.livescience.com/health/the-us-just-approved-bemotrizinol-a-sunscreen-ingredient-long-used-in-asia-and-europe-heres-how-it-works",
+      "summary": "The U.S. Food and Drug Administration approved the first new sunscreen ingredient to be permitted for over-the-counter consumer use in the U.S. since 1999.",
+      "date": "2026-06-21T14:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/n95rRm3n3XNLSJkwmXTZ6k-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-21T16:00:35Z"
+    },
     {
       "title": "Three Photos: Fairy Pitta",
       "link": "https://www.10000birds.com/three-photos-fairy-pitta.htm?utm_source=rss&utm_medium=rss&utm_campaign=three-photos-fairy-pitta",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-06-12T16:50:12Z"
-    },
-    {
-      "title": "These 15 Stunning Photos Invite You to Take a Peek at the People, Places and Cultural Legacy of Picturesque Portugal",
-      "link": "https://www.smithsonianmag.com/travel/these-15-stunning-photos-invite-you-to-take-a-peek-at-the-people-places-and-cultural-legacy-of-picturesque-portugal-180988936/",
-      "summary": "With its vibrant hues, vast landscapes and a venerable history, there’s much to love about the coastal country",
-      "date": "2026-06-12T13:30:01Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/vsXxB7-CiSy36W3fzmg7kgJK70Y=/420x240/filters:focal(2500x1667:2501x1668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2e/a4/2ea4fe68-e89e-4523-ae17-964f16d54e1a/3-7c29d739-5407-4318-a8a8-74a195d0561c.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-12T16:50:12Z"
-    },
-    {
-      "title": "Crossword: Power play",
-      "link": "https://www.sciencenews.org/article/crossword-power-play-july-2026-puzzle",
-      "summary": "Solve the crossword from our July 2026 issue, in which we encourage our readers to up their game.",
-      "date": "2026-06-12T16:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/0726_puzzle_feat.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-06-12T16:50:13Z"
     }
   ]
 }
