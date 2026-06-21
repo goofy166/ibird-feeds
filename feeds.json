@@ -1,8 +1,19 @@
 {
-  "updated": "2026-06-21T16:00:38Z",
-  "updated_utc": "2026-06-21T16:00:38Z",
+  "updated": "2026-06-21T17:48:21Z",
+  "updated_utc": "2026-06-21T17:48:21Z",
   "count": 500,
   "stories": [
+    {
+      "title": "MINDY3: A hub between protein quality control and DNA repair",
+      "link": "https://phys.org/news/2026-06-mindy3-hub-protein-quality-dna.html",
+      "summary": "Researchers from the MRC Protein Phosphorylation and Ubiquitylation Unit at the University of Dundee, together with collaborators from ETH Zürich, the Malopolska Center of Biotechn",
+      "date": "2026-06-21T17:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mindy3-a-hub-between-p.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-21T17:48:17Z"
+    },
     {
       "title": "Stress gives bees sharper vision and faster reactions, researchers discover",
       "link": "https://phys.org/news/2026-06-stress-bees-sharper-vision-faster.html",
@@ -5487,17 +5498,6 @@
       "summary": "The massive necropolis, located deep in the southeastern Indian Ocean, is teeming with marine life supported by the whale carcasses, including many suspected new species",
       "date": "2026-06-12T14:00:00Z",
       "image": "https://th-thumbnailer.cdn-si-edu.com/mlqDr08AqUWcgkmMjn_7iGJ_Yyc=/420x240/filters:focal(1063x547:1064x548)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f5/40/f540bfa6-0c17-4b52-9630-d1418a67bad2/8.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-12T16:50:12Z"
-    },
-    {
-      "title": "The Events That Took Place in This Selma, Alabama, Home Were Key to the Civil Rights Movement, and You Can Now Visit It",
-      "link": "https://www.smithsonianmag.com/travel/the-events-that-took-place-in-this-selma-alabama-home-were-key-to-the-civil-rights-movement-and-you-can-now-visit-it-180988944/",
-      "summary": "The Jackson family opened their home to civil rights leaders planning the Selma-to-Montgomery march, which led to the passage of the 1965 Voting Rights Act. The entire house was re",
-      "date": "2026-06-12T13:35:42Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/4vdJmtKTcuF4YWnEb6j_rcJQkBw=/420x240/filters:focal(1000x819:1001x820)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0e/e2/0ee20700-bc95-4b69-91bb-cb2b630c8cb5/credit_roy_ritchie_jackson_home_at_greenfield_village_copy.jpg",
       "name": "Smithsonian",
       "category": "insects",
       "color": 10,
