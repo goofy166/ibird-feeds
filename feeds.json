@@ -1,8 +1,52 @@
 {
-  "updated": "2026-06-21T06:10:30Z",
-  "updated_utc": "2026-06-21T06:10:30Z",
+  "updated": "2026-06-21T10:36:29Z",
+  "updated_utc": "2026-06-21T10:36:29Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The northernmost sunset is on the June solstice, today!",
+      "link": "https://earthsky.org/tonight/solstice-brings-northernmost-sunset/",
+      "summary": "The northernmost sunset (and sunrise) happen at the June solstice. Here's some quick info that'll help you connect with nature on this special day. The post The northernmost sunset",
+      "date": "2026-06-21T09:00:13Z",
+      "image": "https://earthsky.org/upl/2020/03/path-of-sun-solstice-equinox.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-06-21T10:36:15Z"
+    },
+    {
+      "title": "MapMyRun’s Million Mile Summer Challenge Is Back. But This Time, We’re Running 5 Million Miles.",
+      "link": "https://www.outsideonline.com/health/training-performance/million-mile-summer-mapmyrun-challenge/",
+      "summary": "We have the perfect remedy for the dread of outdoor running or walking—the Million Mile Summer Challenge by MapMyRun. The post MapMyRun’s Million Mile Summer Challenge Is Back. But",
+      "date": "2026-06-21T09:00:15Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/million-mile-summer-mapmyrun.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-06-21T10:36:20Z"
+    },
+    {
+      "title": "James Webb telescope finds a cosmic cloud of creation buried in the Sword of Orion — Space photo of the week",
+      "link": "https://www.livescience.com/space/astronomy/james-webb-telescope-finds-a-cosmic-cloud-of-creation-buried-in-the-sword-of-orion-space-photo-of-the-week",
+      "summary": "A new James Webb telescope snap shows off the glowing gas, sculpted jets and newborn stars lurking within the giant cosmic cloud OMC-2, located in the Sword of Orion.",
+      "date": "2026-06-21T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/MyaZfqnwrMK4YbSd3j65vY-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-21T10:36:27Z"
+    },
+    {
+      "title": "What will the Amazon rainforest look like in 100 years?",
+      "link": "https://www.livescience.com/planet-earth/what-will-the-amazon-rainforest-look-like-in-100-years",
+      "summary": "The health of the Amazon rainforest is key to the global climate, but many dangers threaten to make it unrecognizable in the future.",
+      "date": "2026-06-21T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/wJS7KsfdqKWTTVVbpmj35A-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-21T10:36:27Z"
+    },
     {
       "title": "Climate change boosts soybean production but worsens bean quality",
       "link": "https://phys.org/news/2026-06-climate-boosts-soybean-production-worsens.html",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-06-12T16:50:14Z"
-    },
-    {
-      "title": "Striking photos show how sands are encroaching on oases in the Sahara",
-      "link": "https://www.newscientist.com/article/mg27035990-100-striking-photos-show-how-sands-are-encroaching-on-oases-in-the-sahara/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A photo essay from Tommy Trenchard explores efforts to protect the fragile ecosystems of oases in Chad",
-      "date": "2026-06-10T18:00:00Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/05145150/SEI_299839609.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-12T16:50:14Z"
-    },
-    {
-      "title": "Horse owners' personality and attachment style shape how they interact with and care for their horses",
-      "link": "https://phys.org/news/2026-06-horse-owners-personality-style-interact.html",
-      "summary": "A new study shows that horse owners' psychological characteristics, including their attachment styles and personality traits, are systematically linked to how frequently they ride,",
-      "date": "2026-06-12T16:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/horse-owners-personali.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-12T16:50:15Z"
-    },
-    {
-      "title": "Engineered bacterium turns potato starch into biodegradable plastic in 24 hours",
-      "link": "https://phys.org/news/2026-06-bacterium-potato-starch-biodegradable-plastic.html",
-      "summary": "Every year, hundreds of millions of tons of petrochemical-based plastics are produced, much of which ends up in the environment or is incinerated. This exacerbates greenhouse gas e",
-      "date": "2026-06-12T16:20:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/engineered-bacterium-t.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-12T16:50:15Z"
-    },
-    {
-      "title": "Dragonfly and damselfly migrations crisscross planet, with 100 species confirmed",
-      "link": "https://phys.org/news/2026-06-dragonfly-damselfly-migrations-crisscross-planet.html",
-      "summary": "Migration flights of dragonflies and damselflies crisscross much of our planet, new research reveals. Scientists from the universities of Exeter and Lund reviewed global evidence a",
-      "date": "2026-06-12T16:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/global-scale-of-dragon.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-12T16:50:15Z"
     }
   ]
 }
