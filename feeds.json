@@ -1,8 +1,41 @@
 {
-  "updated": "2026-06-21T10:36:29Z",
-  "updated_utc": "2026-06-21T10:36:29Z",
+  "updated": "2026-06-21T13:12:20Z",
+  "updated_utc": "2026-06-21T13:12:20Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Three Photos: Fairy Pitta",
+      "link": "https://www.10000birds.com/three-photos-fairy-pitta.htm?utm_source=rss&utm_medium=rss&utm_campaign=three-photos-fairy-pitta",
+      "summary": "Photos taken by Kai Pflug at Nanhui, Shanghai in September 2016",
+      "date": "2026-06-21T11:00:00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/05/Fairy-Pitta_DSC2051-Nanhui-Aug-Sep-2016-1.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-06-21T13:11:52Z"
+    },
+    {
+      "title": "Artemis missions target South Pole–Aitken basin on the moon",
+      "link": "https://earthsky.org/space/south-pole-aitken-basin-target-artemis-moon-missions/",
+      "summary": "Two new studies examine the South Pole–Aitken basin on the moon. This region is a future landing site for Artemis astronauts. The post Artemis missions target South Pole–Aitken bas",
+      "date": "2026-06-21T11:30:31Z",
+      "image": "https://earthsky.org/upl/2026/06/South-Pole-Aitken-basin-map-moon-June-15-2026.png",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-06-21T13:11:59Z"
+    },
+    {
+      "title": "I Grew Up in Alaska. Trust Me, I Know Mosquitoes. These Hacks Actually Work.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/prevent-treat-mosquito-bites/",
+      "summary": "Heading into the backcountry? Learn how to prevent mosquito bites using expert gear tips and how to treat them fast when you're on the trail. The post I Grew Up in Alaska. Trust Me",
+      "date": "2026-06-21T11:47:29Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/GettyImages-1384613374.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-06-21T13:12:10Z"
+    },
     {
       "title": "The northernmost sunset is on the June solstice, today!",
       "link": "https://earthsky.org/tonight/solstice-brings-northernmost-sunset/",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-06-12T16:50:13Z"
-    },
-    {
-      "title": "Here’s what would happen if you tried to break a photon in half",
-      "link": "https://www.sciencenews.org/article/break-photon-in-half-particle-new-ones",
-      "summary": "A mathematical model shows that attempting to sever a fundamental particle of light could conjure new ones out of thin air.",
-      "date": "2026-06-12T15:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/060926_MT_photons_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-06-12T16:50:13Z"
-    },
-    {
-      "title": "Quantum computer quickly mines cryptocurrency while using less energy",
-      "link": "https://www.newscientist.com/article/2529973-quantum-computer-quickly-mines-cryptocurrency-while-using-less-energy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A superconducting quantum computer is part of a network that is mining an experimental cryptocurrency called Quip, and it is able to do it faster and with better energy efficiency ",
-      "date": "2026-06-12T12:00:40Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/11164406/SEI_300982384.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-12T16:50:14Z"
-    },
-    {
-      "title": "Art and nature come together in stunning new Henry Moore exhibition",
-      "link": "https://www.newscientist.com/article/2528249-art-and-nature-come-together-in-stunning-new-henry-moore-exhibition/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A visit to Kew Gardens’ exhibit of the sculptor’s work is a fascinating insight into how he was inspired by nature",
-      "date": "2026-06-10T18:00:52Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/28105606/sei299218481-1.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-12T16:50:14Z"
     }
   ]
 }
