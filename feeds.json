@@ -1,8 +1,30 @@
 {
-  "updated": "2026-06-20T22:16:49Z",
-  "updated_utc": "2026-06-20T22:16:49Z",
+  "updated": "2026-06-21T00:16:08Z",
+  "updated_utc": "2026-06-21T00:16:08Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Climate change boosts soybean production but worsens bean quality",
+      "link": "https://phys.org/news/2026-06-climate-boosts-soybean-production-worsens.html",
+      "summary": "A study published by Food Research International analyzed the triple effect of climate change on soybean quality—increased carbon dioxide (CO₂), high temperatures and drought. Usin",
+      "date": "2026-06-21T00:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-change-boosts.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-21T00:16:04Z"
+    },
+    {
+      "title": "Bat rays employ a chemical cue to warn others of danger",
+      "link": "https://phys.org/news/2026-06-rays-employ-chemical-cue-danger.html",
+      "summary": "Frightened bat rays produce a chemical cue to warn other rays of danger, a well-known anti-predator strategy for bony fish that has not been documented in cartilaginous fish until ",
+      "date": "2026-06-20T22:30:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bat-rays-employ-a-chem.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-21T00:16:04Z"
+    },
     {
       "title": "Crane pair dances follow hidden rules, with performances revealing partner-driven timing",
       "link": "https://phys.org/news/2026-06-crane-pair-hidden-revealing-partner.html",
@@ -5476,28 +5498,6 @@
       "summary": "Migration flights of dragonflies and damselflies crisscross much of our planet, new research reveals. Scientists from the universities of Exeter and Lund reviewed global evidence a",
       "date": "2026-06-12T16:00:05Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/global-scale-of-dragon.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-12T16:50:15Z"
-    },
-    {
-      "title": "Climate change is causing fish to move to cooler water—what if their escape route is blocked?",
-      "link": "https://phys.org/news/2026-06-climate-fish-cooler-route-blocked.html",
-      "summary": "Around the world, ocean warming is causing fish to move poleward in search of cooler water.",
-      "date": "2026-06-12T15:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-change-is-caus.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-12T16:50:15Z"
-    },
-    {
-      "title": "New findings complete first evolutionary history of all living millipede orders, dating back 460 million years",
-      "link": "https://phys.org/news/2026-06-evolutionary-history-millipede-dating-million.html",
-      "summary": "Long before vertebrates walked on land, millipedes had the place to themselves. Hundreds of millions of years before dinosaurs arrived, these early decomposers were helping establi",
-      "date": "2026-06-12T15:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-millipedes-sti.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
