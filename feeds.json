@@ -1,8 +1,19 @@
 {
-  "updated": "2026-06-21T19:54:38Z",
-  "updated_utc": "2026-06-21T19:54:38Z",
+  "updated": "2026-06-21T21:22:42Z",
+  "updated_utc": "2026-06-21T21:22:42Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Engineered bacterial spores reveal new protein targets for enzymes and vaccines",
+      "link": "https://phys.org/news/2026-06-bacterial-spores-reveal-protein-enzymes.html",
+      "summary": "A remarkable quality of bioengineering is that scientists can take biological processes honed by millions of years of evolution and use them to efficiently create drugs, chemicals ",
+      "date": "2026-06-21T21:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/expanding-uses-for-bio.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-21T21:22:39Z"
+    },
     {
       "title": "MINDY3: A hub between protein quality control and DNA repair",
       "link": "https://phys.org/news/2026-06-mindy3-hub-protein-quality-dna.html",
@@ -5487,17 +5498,6 @@
       "summary": "Informed by science from the Smithsonian Astrophysical Observatory and astronomers worldwide, this “documentary that you can walk through” visualizes the cosmos in a 3-D introducti",
       "date": "2026-06-12T16:19:35Z",
       "image": "https://th-thumbnailer.cdn-si-edu.com/R5sHgPtE7FLkcPn3P83B8ZUASJQ=/420x240/filters:focal(564x504:565x505)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/81/68/8168a9fb-fbe7-42ab-a056-e3a55b684560/ezgif-4d7e29209eb80dc9.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-12T16:50:12Z"
-    },
-    {
-      "title": "Scientists Discover the World's Largest, Deepest Whale Graveyard, Where Cetacean Remains Have Been Piling Up for Five Million Years",
-      "link": "https://www.smithsonianmag.com/smart-news/scientists-discover-the-worlds-largest-deepest-whale-graveyard-where-cetacean-remains-have-been-piling-up-for-five-million-years-180988942/",
-      "summary": "The massive necropolis, located deep in the southeastern Indian Ocean, is teeming with marine life supported by the whale carcasses, including many suspected new species",
-      "date": "2026-06-12T14:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/mlqDr08AqUWcgkmMjn_7iGJ_Yyc=/420x240/filters:focal(1063x547:1064x548)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f5/40/f540bfa6-0c17-4b52-9630-d1418a67bad2/8.jpeg",
       "name": "Smithsonian",
       "category": "insects",
       "color": 10,
