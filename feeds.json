@@ -1,8 +1,41 @@
 {
-  "updated": "2026-06-21T23:23:12Z",
-  "updated_utc": "2026-06-21T23:23:12Z",
+  "updated": "2026-06-22T05:14:37Z",
+  "updated_utc": "2026-06-22T05:14:37Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘We want a new Albania’: protests against Jared Kushner-backed resort turn anger on government",
+      "link": "https://www.theguardian.com/world/2026/jun/22/albania-protests-jared-kushner-ivanka-trump-resort-sazan-island-anger-government",
+      "summary": "Opposition to plans for ‘small paradise’ island of Sazan becomes wave of dissent against establishment For Ina Shkurti, like so many Albanians, the island of Sazan has played an ou",
+      "date": "2026-06-22T02:00:46Z",
+      "image": "https://i.guim.co.uk/img/media/a0a1b39eee0054b899a9b86eb3c26d86cabce7e9/958_55_5129_4102/master/5129.jpg?width=140&quality=85&auto=format&fit=max&s=ec2077f43b341a3a1a18c9f25aafb497",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-22T05:14:22Z"
+    },
+    {
+      "title": "A spate of shark bites has Australian ocean lovers on edge. People want to know why they’re rising",
+      "link": "https://www.theguardian.com/australia-news/2026/jun/21/a-spate-of-shark-bites-has-australian-ocean-lovers-on-edge-people-want-to-know-why-theyre-rising",
+      "summary": "Warming ocean temperatures mean sharks are spending more time in high-population areas, yet shark net data shows no significant changes in numbers Follow our Australia news live bl",
+      "date": "2026-06-20T20:00:10Z",
+      "image": "https://i.guim.co.uk/img/media/1c8357f4af39523d6e18cfb0fbd2fdca55fcde65/609_15_2934_2347/master/2934.jpg?width=140&quality=85&auto=format&fit=max&s=925d8508a0e1ce96ccfd25609d0f3dd2",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-22T05:14:22Z"
+    },
+    {
+      "title": "The giant viruses that orchestrate life in the polar regions",
+      "link": "https://phys.org/news/2026-06-giant-viruses-orchestrate-life-polar.html",
+      "summary": "Viruses play a major role in the functioning of ecosystems. They profoundly influence the dynamics of microbial communities, the flow of matter and global biogeochemical cycles. Ye",
+      "date": "2026-06-22T00:30:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/arctic.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-22T05:14:34Z"
+    },
     {
       "title": "Engineered bacterial spores reveal new protein targets for enzymes and vaccines",
       "link": "https://phys.org/news/2026-06-bacterial-spores-reveal-protein-enzymes.html",
@@ -5469,39 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-06-12T16:49:59Z"
-    },
-    {
-      "title": "The Best Mountain Bike Helmets of 2026, Tested and Reviewed",
-      "link": "https://www.outsideonline.com/outdoor-gear/bikes-and-biking/best-mountain-bike-helmets/",
-      "summary": "Comfort, safety ratings, ventilation, and value—we broke down what matters most and found the best lids at every price point. The post The Best Mountain Bike Helmets of 2026, Teste",
-      "date": "2026-06-12T15:12:28Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/Best-Mountain-Bike-Helmets-2026_Mike-Kazimer.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-12T16:50:10Z"
-    },
-    {
-      "title": "Researchers Accidentally Discover That Humans Prefer to Turn Counterclockwise. But They Still Have No Idea Why",
-      "link": "https://www.smithsonianmag.com/smart-news/researchers-accidentally-discover-that-humans-prefer-to-turn-counterclockwise-180988939/",
-      "summary": "The effect transcends factors like culture, gender and handedness, causing the scientists, who were initially studying social distancing behavior, to scratch their heads",
-      "date": "2026-06-12T16:30:46Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/UQV52XxKmUt5cMEzxIm3TMOiOcY=/420x240/filters:focal(1119x634:1120x635)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b6/e2/b6e205d4-86a3-447a-bed6-66d8a655a9e8/400280561.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-12T16:50:12Z"
-    },
-    {
-      "title": "See a Diamond Planet, an Exploding Star and a Black Hole Up Close in a New Immersive Virtual Reality Experience",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/see-a-diamond-planet-an-exploding-star-and-a-black-hole-up-close-in-a-new-immersive-virtual-reality-experience-180988945/",
-      "summary": "Informed by science from the Smithsonian Astrophysical Observatory and astronomers worldwide, this “documentary that you can walk through” visualizes the cosmos in a 3-D introducti",
-      "date": "2026-06-12T16:19:35Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/R5sHgPtE7FLkcPn3P83B8ZUASJQ=/420x240/filters:focal(564x504:565x505)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/81/68/8168a9fb-fbe7-42ab-a056-e3a55b684560/ezgif-4d7e29209eb80dc9.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-12T16:50:12Z"
     }
   ]
 }
