@@ -1,8 +1,173 @@
 {
-  "updated": "2026-06-23T15:56:37Z",
-  "updated_utc": "2026-06-23T15:56:37Z",
+  "updated": "2026-06-23T18:06:56Z",
+  "updated_utc": "2026-06-23T18:06:56Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Hunt is on for bear that scratched up 19-year-old California man in his bedroom",
+      "link": "https://www.mercurynews.com/2026/06/23/hunt-is-on-for-bear-that-scratched-up-19-year-old-crestline-man-in-his-bedroom/",
+      "summary": "The black bear tore the screen off an open window and pawed the teen when they startled each other, a Fish and Wildlife official said.",
+      "date": "Tue, 23 Jun 2026 17Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/SBS-L-CRESTBEAR-0620-16x9-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-06-23T18:06:45Z"
+    },
+    {
+      "title": "A Camper Fell into a Vault Toilet Saving His Sunglasses. Experts Say He’s Lucky to Be Alive.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/vault-toilet-dropped-gear-danger/",
+      "summary": "A California camper spent 15 minutes trapped in a vault toilet trying to retrieve his sunglasses. Why vault toilets can be an invisible death trap. The post A Camper Fell into a Va",
+      "date": "Tue, 23 Jun 2026 17Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/GettyImages-1329782123.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-06-23T18:06:47Z"
+    },
+    {
+      "title": "The 2026 Sweat Science Summer Book List",
+      "link": "https://www.outsideonline.com/health/wellness/best-fitness-and-science-books-summer-reading/",
+      "summary": "Nine great reads for lovers of endurance, science, outdoor adventure… and, um, Canadian political satire. The post The 2026 Sweat Science Summer Book List appeared first on Outside",
+      "date": "Tue, 23 Jun 2026 16Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/sweat-science-summer-reads.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-06-23T18:06:47Z"
+    },
+    {
+      "title": "100 Years Ago, Students Across the U.S. Took the First SAT. Today, Relatively Few Colleges Require the Test. Where Is It Headed?",
+      "link": "https://www.smithsonianmag.com/innovation/100-years-ago-students-across-the-us-took-the-first-sat-today-relatively-few-colleges-require-the-test-where-is-it-headed-180988997/",
+      "summary": "The standardized exam has evolved over the past century, all in the name of testing for college readiness. Now, it has become a symbol of the American higher education system",
+      "date": "Tue, 23 Jun 2026 16Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/zaHFLMZOp1-kjLQEnL7u_3IicFw=/420x240/filters:focal(1000x786:1001x787)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/44/70/44701c18-7c1e-4bf6-a1cd-af3bbd84b5fe/ap774069785524.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-06-23T18:06:49Z"
+    },
+    {
+      "title": "These Butterflies Can Live 25 Times Longer Than Their Relatives. They Might Provide Insights Into Healthy Aging in Humans",
+      "link": "https://www.smithsonianmag.com/smart-news/these-butterflies-can-live-25-times-longer-than-their-relatives-they-might-provide-insights-into-healthy-aging-in-humans-180988993/",
+      "summary": "Their unusual diet of pollen—rather than nectar—might partially explain why members of the Heliconius genus live so long, up to nearly a year",
+      "date": "Tue, 23 Jun 2026 15Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/JGNwWiiqS3EZ3-JQRXrM1o8GjP0=/420x240/filters:focal(350x263:351x264)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/eb/5e/eb5e52da-7db5-4907-b369-16097ddb16a8/low-res_p1280781_louise_besta_5.jpg",
+      "name": "Smithsonian",
+      "category": "butterflies",
+      "color": 10,
+      "fetched_at": "2026-06-23T18:06:49Z"
+    },
+    {
+      "title": "The ‘little brain’ may give the aging mind a big boost",
+      "link": "https://www.sciencenews.org/article/cerebellum-brain-aging-boost",
+      "summary": "Most known for its role in movement, the cerebellum could compensate for flagging mental functions elsewhere in the brain.",
+      "date": "Tue, 23 Jun 2026 17Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/061726_JR_cerebellum_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-06-23T18:06:50Z"
+    },
+    {
+      "title": "SpaceX's secretive plans to deliver cargo to Earth from space",
+      "link": "https://www.newscientist.com/article/2531559-spacexs-secretive-plans-to-deliver-cargo-to-earth-from-space/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Not much is known about Starfall, SpaceX's new delivery system, but an assessment published in May revealed its intended purpose",
+      "date": "Tue, 23 Jun 2026 17Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/23163514/SEI_302542725.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-23T18:06:51Z"
+    },
+    {
+      "title": "How some people's brains make an extraordinary recovery from stroke",
+      "link": "https://www.newscientist.com/article/2530146-how-some-peoples-brains-make-an-extraordinary-recovery-from-stroke/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Around a third of people are able to almost fully rebuild their brains after a stroke and uncovering why is pointing the way to better treatments for everyone",
+      "date": "Tue, 23 Jun 2026 15Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/22140106/SEI_3018126521.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-23T18:06:51Z"
+    },
+    {
+      "title": "Researchers find microplastics in hedgehogs—then trace them back to pet food",
+      "link": "https://phys.org/news/2026-06-microplastics-hedgehogs-pet-food.html",
+      "summary": "When colleagues and I found microplastics in hedgehog droppings, we wanted to know where they were coming from. One answer was surprisingly close to home: pet food.",
+      "date": "2026-06-23T18:00:09Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hedgehog.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-23T18:06:52Z"
+    },
+    {
+      "title": "Yellow mealworms mapped anatomically for the first time",
+      "link": "https://phys.org/news/2026-06-yellow-mealworms-anatomically.html",
+      "summary": "The dried larvae of the yellow mealworm beetle (Tenebrio molitor) are comparable to beef or poultry in nutritional value, but the mealworm has a far smaller ecological footprint. I",
+      "date": "2026-06-23T17:20:12Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/yellow-mealworms-mappe.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-23T18:06:52Z"
+    },
+    {
+      "title": "Although woodland salamanders have looked the same for millions of years, their physiology has evolved rapidly",
+      "link": "https://phys.org/news/2026-06-woodland-salamanders-millions-years-physiology.html",
+      "summary": "For her doctoral dissertation, Yale's Nathalie Alomar decided to study a small amphibian that appeared to have eluded the forces of evolution. She found that there is more to its e",
+      "date": "2026-06-23T17:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-secret-lives-of-sa.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-23T18:06:52Z"
+    },
+    {
+      "title": "500-million-year fossil record reveals corals' symbiotic advantage shifted with changing environments",
+      "link": "https://phys.org/news/2026-06-million-year-fossil-reveals-corals.html",
+      "summary": "Coral reef ecosystems, widely seen as a climate change bellwether, are more complex than previously understood. A new international study by the universities of Bristol, Wuhan in C",
+      "date": "2026-06-23T16:40:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/coral-reef-fish.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-23T18:06:52Z"
+    },
+    {
+      "title": "A new strategy can improve safety in poultry processing",
+      "link": "https://phys.org/news/2026-06-strategy-safety-poultry.html",
+      "summary": "Salmonella is a common source of food poisoning that leads to potentially life-threatening illnesses, widespread food recalls and a consistent challenge for poultry producers. UCon",
+      "date": "2026-06-23T16:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/raw-chicken-tupperware.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-23T18:06:52Z"
+    },
+    {
+      "title": "NASA satellite captures wave of warm water hundreds of miles long that signals a devastatingly strong El Niño",
+      "link": "https://www.livescience.com/planet-earth/nasa-satellite-captures-wave-of-warm-water-hundreds-of-miles-long-that-signals-a-devastatingly-strong-el-nino",
+      "summary": "This year's El Niño is on track to be among the strongest ever recorded.",
+      "date": "Tue, 23 Jun 2026 17Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/inA6MZpL97JRAu3wcERPFE-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-23T18:06:54Z"
+    },
+    {
+      "title": "Something in space may be changing alien signals before they can reach Earth. Scientists have a solution.",
+      "link": "https://www.livescience.com/space/extraterrestrial-life/something-in-space-may-be-changing-alien-signals-before-they-can-reach-earth-scientists-have-a-solution",
+      "summary": "New research suggests that alien radio signals may be transformed by plasma from their home stars — and scientists on Earth could be overlooking prime evidence of alien intelligenc",
+      "date": "Tue, 23 Jun 2026 16Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/UBJMWMdJeUbSSEoBHTQyKG-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-23T18:06:54Z"
+    },
     {
       "title": "If You See Cowbird Eggs in a Nest, This Is What to Do",
       "link": "https://www.birdsandblooms.com/birding/attracting-birds/bird-nesting/cowbird-eggs/",
@@ -5337,171 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-06-15T21:15:36Z"
-    },
-    {
-      "title": "Are useful and error-free quantum computers only two years away?",
-      "link": "https://www.newscientist.com/article/2530326-are-useful-and-error-free-quantum-computers-only-two-years-away/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Quantum computing firm QuEra says it plans to make a fault-tolerant quantum computer and offer it to users through the cloud in 2028, which will require a real leap in engineering",
-      "date": "2026-06-15T14:00:37Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/15110211/SEI_301507625.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-15T21:15:36Z"
-    },
-    {
-      "title": "A waltz over evolutionary timescales: Why it's so hard for animals to invent a new mating dance",
-      "link": "https://phys.org/news/2026-06-waltz-evolutionary-timescales-hard-animals.html",
-      "summary": "\"Love makes fools of all of us,\" wrote 19th-century novelist William Makepeace Thackeray. A moment spent watching the pigeons at your local park suggests he was right: males with p",
-      "date": "2026-06-15T19:20:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-waltz-over-evolution-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-15T21:15:37Z"
-    },
-    {
-      "title": "Do shark culls keep people safe in the ocean? Here's what the science says",
-      "link": "https://phys.org/news/2026-06-shark-culls-people-safe-ocean.html",
-      "summary": "A young mother remains in hospital after being bitten by a shark at Coogee Beach in Sydney on Saturday morning. Leah Stewart, 35, was swimming about 30 meters (33 yards) offshore w",
-      "date": "2026-06-15T19:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/great-white-shark.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-06-15T21:15:37Z"
-    },
-    {
-      "title": "Predators on the move may link the evolution of species thousands of kilometers apart",
-      "link": "https://phys.org/news/2026-06-predators-link-evolution-species-thousands.html",
-      "summary": "Can a snake in Thailand influence the evolution of a snake in the Philippines even if the two species never cross paths? According to a new study, the answer may be yes. The resear",
-      "date": "2026-06-15T19:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/predators-on-the-move.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-15T21:15:37Z"
-    },
-    {
-      "title": "Atacama Desert’s center dried out 20 million years earlier than previously thought — before the Andes formed",
-      "link": "https://www.livescience.com/planet-earth/atacama-deserts-center-dried-out-20-million-years-earlier-than-previously-thought-before-the-andes-formed",
-      "summary": "Chile's Atacama Desert, which gets less than 5 millimeters (0.2 inches) of rainfall each year, started to form more than 40 million years ago ‪—‬ 20 million years before the Andes.",
-      "date": "2026-06-15T19:26:54Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/8R72oni4WBb4KXtWbcaTsR-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-15T21:15:38Z"
-    },
-    {
-      "title": "Critics say Trump’s opening of public lands to off-road vehicles is ‘reckless and nonsensical’",
-      "link": "https://www.theguardian.com/us-news/2026/jun/15/trump-public-lands-wildlife-off-roading",
-      "summary": "Move is part of broad effort to open public lands to industry and other uses, threatening wildlife and ecosystems The Trump administration is executing a controversial plan to allo",
-      "date": "2026-06-15T13:00:26Z",
-      "image": "https://i.guim.co.uk/img/media/39154767bf4e228203b0d73dbc09c40d81f606e8/443_0_4440_3551/master/4440.jpg?width=140&quality=85&auto=format&fit=max&s=9a37aec2744d091af3b65af2699e4f87",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-15T17:57:57Z"
-    },
-    {
-      "title": "Glowworms turn cave ceilings into underground starscapes",
-      "link": "https://earthsky.org/earth/glowworms-turn-cave-ceilings-into-underground-starscapes/",
-      "summary": "Glowworms turn dark New Zealand caves into beautiful starscapes all year round. They use their elegant but deadly displays to trap their prey. The post Glowworms turn cave ceilings",
-      "date": "2026-06-15T13:00:00Z",
-      "image": "https://earthsky.org/upl/2026/06/glowworms-blue-roots_Luca-Calderone_Unsplash-scaled-e1781511842341.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-06-15T17:57:58Z"
-    },
-    {
-      "title": "The Math Behind the Impressive Athleticism a Soccer Player Needs to Compete in the 2026 FIFA World Cup",
-      "link": "https://www.outsideonline.com/health/training-performance/player-mileage-fifa-world-up/",
-      "summary": "We calculated just how far a soccer player competing in the 2026 FIFA World Cup runs. This is how we did the math and our results. The post The Math Behind the Impressive Athletici",
-      "date": "2026-06-15T16:54:11Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/2026-fifa-world-cup.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-15T17:58:03Z"
-    },
-    {
-      "title": "The Best Recovery Sandals and Slides of 2026, Tested and Reviewed",
-      "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/recovery-sandals/",
-      "summary": "Some are absurdly soft. Others are built for real life. Here's how the best recovery footwear actually stacks up. The post The Best Recovery Sandals and Slides of 2026, Tested and ",
-      "date": "2026-06-15T16:30:28Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/Header_1_test_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-15T17:58:03Z"
-    },
-    {
-      "title": "The Best Stargazing Night Trains Across the Country",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/stargazing-train-rides-us/",
-      "summary": "From steam-powered star trains to moonlit railbike rides through redwood forests, these are the best night sky train adventures across America. The post The Best Stargazing Night T",
-      "date": "2026-06-15T14:30:59Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/Courtesy-Northern-Nevada-Railway-4-1-2-1.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-15T17:58:03Z"
-    },
-    {
-      "title": "The Ultimate Mountain Biking Playground",
-      "link": "https://www.outsideonline.com/outdoor-adventure/biking/the-ultimate-mountain-biking-playground/",
-      "summary": "What makes Québec so good for singletrack fans—on and off the bike The post The Ultimate Mountain Biking Playground appeared first on Outside Online .",
-      "date": "2026-06-15T13:59:40Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/Photo-12.-30527713-5345-4fb6-a714-8243271f4cf7-e1780935814165.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-15T17:58:03Z"
-    },
-    {
-      "title": "The 'Super' El Niño Has Arrived. Here's How It Might Affect the World's Weather and Economy",
-      "link": "https://www.smithsonianmag.com/smart-news/the-super-el-nino-has-arrived-heres-how-it-might-affect-the-worlds-weather-and-economy-180988951/",
-      "summary": "The naturally occurring climate pattern, characterized by warm surface water in the Pacific Ocean, that has just started could be one of the strongest ever recorded, according to e",
-      "date": "2026-06-15T17:36:32Z",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/76/8a/768af0ef-b6e6-4cc6-aefb-a611ef51d270/elnino-2026_03_ii_gif.gif",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-15T17:58:05Z"
-    },
-    {
-      "title": "With a Few Tweaks, the Country’s Favorite Sports Went From Pastimes to Part of the Fabric of Our Culture",
-      "link": "https://www.smithsonianmag.com/innovation/with-few-tweaks-countrys-favorite-sports-went-pastimes-part-fabric-culture-180988816/",
-      "summary": "Can you imagine a football game where there was never a passing play? The forward pass is just one of the innovations that made these contests into events",
-      "date": "2026-06-15T15:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/H10N9gs9_NI6qNjuUQbMaFUoD9k=/420x240/filters:focal(1785x1207:1786x1208)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9b/7b/9b7b4c2b-c72d-4ab0-b96c-9e257ad16337/gettyimages-76286721.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-15T17:58:05Z"
-    },
-    {
-      "title": "'Ugliest Shark on the Planet': See the Elusive Goblin Shark, Filmed for the First Time in Its Deep-Sea Habitat",
-      "link": "https://www.smithsonianmag.com/smart-news/ugliest-shark-on-the-planet-see-the-elusive-goblin-shark-filmed-for-the-first-time-in-its-deep-sea-habitat-180988950/",
-      "summary": "Scientists spotted the enigmatic creatures in 2019 and again in 2024, marking the first time they've been observed alive in the wild. The sightings drastically expand the animals' ",
-      "date": "2026-06-15T14:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/4tAONoBfCYFii00wChQmMPtp1bo=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3b/e2/3be28794-013a-425c-b9e6-bc6b2622402b/886174-medium.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-15T17:58:05Z"
-    },
-    {
-      "title": "When Clarence Birdseye Tasted the Trout That Had Been Frozen by Inuit Fishermen, It Changed the Way We Buy Food",
-      "link": "https://www.smithsonianmag.com/innovation/when-clarence-birdseye-tasted-trout-had-been-frozen-inuit-fisherman-changed-way-buy-food-180988815/",
-      "summary": "The inventive entrepreneur concluded that the faster things were frozen, the less damage was done to the structure of the food. Once thawed, they were “exactly like fresh”",
-      "date": "2026-06-15T13:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/k7T4NmIjyKoxA8-hBWdedXFm8GE=/420x240/filters:focal(1182x788:1183x789)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/90/f4/90f4ccbb-7744-4226-b543-3fda280ef95e/opener_-_frozenmealfinal.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-15T17:58:05Z"
     }
   ]
 }
