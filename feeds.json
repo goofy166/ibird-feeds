@@ -1,8 +1,118 @@
 {
-  "updated": "2026-06-24T21:39:40Z",
-  "updated_utc": "2026-06-24T21:39:40Z",
+  "updated": "2026-06-24T23:13:36Z",
+  "updated_utc": "2026-06-24T23:13:36Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Personal Toll of Canada’s Broken Fishing Promises",
+      "link": "https://hakaimagazine.com/features/the-personal-toll-of-canadas-broken-fishing-promises/",
+      "summary": "August 29, 2020, dawned clear over southwest Nova Scotia. In the cabin of his lobster boat, the Mystique Lady, Matthew Cope was chatting with the other members of his crew as they ",
+      "date": "Tue, 17 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-matt-cope-moderate-livelihood.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-06-24T23:13:22Z"
+    },
+    {
+      "title": "To Speak the Language of the Land",
+      "link": "https://hakaimagazine.com/features/to-speak-the-language-of-the-land/",
+      "summary": "Nearly 200 of us cram into Tarāwhai, a traditional wooden Māori meeting house, under the gaze of the ancestors and deities carved into the posts and walls. We’re here in the home o",
+      "date": "Thu, 12 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-maori-language-and-place.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-06-24T23:13:22Z"
+    },
+    {
+      "title": "Were Vikings Really ‘Uncivilized’ Barbarians? Large Textile-Production Site Discovered in Denmark Challenges That Stereotype",
+      "link": "https://www.smithsonianmag.com/smart-news/large-textile-production-site-discovered-in-denmark-challenges-the-stereotype-of-vikings-as-uncivilized-barbarians-180989014/",
+      "summary": "The massive settlement, which spans more than a million square feet, likely dates to the late Iron Age or early Viking Age between 600 and 950 C.E.",
+      "date": "2026-06-24T21:31:17Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/8EOv_D2bbUORaOlO2eSoXjR3A4A=/420x240/filters:focal(2627x1776:2628x1777)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fe/3e/fe3ebfe1-9dd9-4d42-9aaf-06ccd640c849/udgravning-soeften47.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-06-24T23:13:28Z"
+    },
+    {
+      "title": "Possible signs of ancient life on Mars are rich in complex carbon",
+      "link": "https://www.newscientist.com/article/2531752-possible-signs-of-ancient-life-on-mars-are-rich-in-complex-carbon/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "An instrument on the Perseverance rover has identified large, complex carbon compounds alongside unusual patterns on the surface of rocks that resemble traces of microbial activity",
+      "date": "2026-06-24T19:00:49Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/24172007/SEI_302707163.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-24T23:13:30Z"
+    },
+    {
+      "title": "X-ray snapshots reveal how viral shells change shape as they dry out",
+      "link": "https://phys.org/news/2026-06-ray-snapshots-reveal-viral-shells.html",
+      "summary": "When viruses travel through the air in tiny droplets, they can quickly start to dry out. Yet many viruses remain infectious after rehydration—something that is still not fully unde",
+      "date": "2026-06-24T22:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-viral-shells-chang.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-24T23:13:31Z"
+    },
+    {
+      "title": "What happens when environmental change outpaces life's ability to adapt?",
+      "link": "https://phys.org/news/2026-06-environmental-outpaces-life-ability.html",
+      "summary": "When an animal's environment changes faster than the animal can adapt, its chances of survival can flatline. The same is true for populations and even entire species. Now, scientis",
+      "date": "2026-06-24T22:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/fossil.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-24T23:13:31Z"
+    },
+    {
+      "title": "Out of darkness, blind Mexican cavefish illuminate brain evolution",
+      "link": "https://phys.org/news/2026-06-darkness-mexican-cavefish-illuminate-brain.html",
+      "summary": "Deep within the dark caves of northeastern Mexico lives a fish that has spent hundreds of thousands of years adapting to a world without light. The blind Mexican cavefish (Astyanax",
+      "date": "2026-06-24T22:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/out-of-darkness-blind.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-24T23:13:31Z"
+    },
+    {
+      "title": "Synthetic DNA toolkit expands scientists' ability to recognize genetic targets",
+      "link": "https://phys.org/news/2026-06-synthetic-dna-toolkit-scientists-ability.html",
+      "summary": "A new method for recognizing and targeting DNA that dramatically expands the range of genetic sequences scientists can identify has been developed by experts at the University of P",
+      "date": "2026-06-24T22:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/synthetic-dna-toolkit.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-24T23:13:31Z"
+    },
+    {
+      "title": "Environmental DNA reveals impact of climate and humans on global river fish biodiversity",
+      "link": "https://phys.org/news/2026-06-environmental-dna-reveals-impact-climate.html",
+      "summary": "A global analysis of fish biodiversity using environmental DNA (eDNA) reveals how human activity and climate influence biodiversity patterns in river ecosystems. An international r",
+      "date": "2026-06-24T22:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/environmental-dna-reve.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-24T23:13:31Z"
+    },
+    {
+      "title": "Pseudomonads boost crop growth in salty soils across multiple plants, could protect against rising sea levels",
+      "link": "https://phys.org/news/2026-06-pseudomonads-boost-crop-growth-salty.html",
+      "summary": "Researchers at the University of East Anglia have helped uncover a hidden ally in the fight against one of agriculture's greatest threats—salty soil. Led by Chinese collaborator Dr",
+      "date": "2026-06-24T21:50:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-miracle-microbes-t.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-24T23:13:31Z"
+    },
     {
       "title": "Caviar Pizzas, New Money, and the Death of an Ancient Fish",
       "link": "https://hakaimagazine.com/features/caviar-pizzas-new-money-and-the-death-of-an-ancient-fish/",
@@ -5392,116 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-06-17T13:52:06Z"
-    },
-    {
-      "title": "Bumblebee goby species discovered on China's Hengqin island is one of the smallest fishes in the world",
-      "link": "https://phys.org/news/2026-06-bumblebee-goby-species-china-hengqin.html",
-      "summary": "Researchers from Sun Yat-sen University and collaborating institutions have discovered a new species of bumblebee goby on Hengqin Island in Guangdong Province, marking the first re",
-      "date": "2026-06-17T10:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-bumblebee-goby-spe-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-17T13:52:06Z"
-    },
-    {
-      "title": "Diagnostic dilemma: Viral infection caused woman not to recognize her own father",
-      "link": "https://www.livescience.com/health/viruses-infections-disease/diagnostic-dilemma-viral-infection-caused-woman-not-to-recognize-her-own-father",
-      "summary": "A woman could no longer recognize her father's face and had trouble holding the details of faces in her mind's eye.",
-      "date": "2026-06-17T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/vGjQn5dXv5zFDfjqQqQxoV-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-17T13:52:07Z"
-    },
-    {
-      "title": "Noctilucent clouds are back: Look for them now!",
-      "link": "https://earthsky.org/earth/night-shining-clouds-noctilucent-clouds-how-they-form-how-to-see-them/",
-      "summary": "Noctilucent clouds are back. The season is underway! Learn about these stunning night-shining clouds and how to see them. Plus, see a gallery of them here. The post Noctilucent clo",
-      "date": "2026-06-17T09:00:51Z",
-      "image": "https://earthsky.org/upl/2023/06/Noctilucent-clouds_Matthias-Susen-Wikipedia_Germany_21June2019-e1686768043193.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-06-17T09:57:53Z"
-    },
-    {
-      "title": "When the Water Is Low, a Packraft Will Go",
-      "link": "https://www.outsideonline.com/outdoor-adventure/water-activities/owyhee-river-packrafting/",
-      "summary": "The Lower Owyhee River in eastern Oregon is remote, tough to access, and impossibly beautiful. Writer Owen Clarke recently tagged along on an packrafting trip down the river during",
-      "date": "2026-06-17T09:38:02Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/Packraft1.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-17T09:57:58Z"
-    },
-    {
-      "title": "Our Sister Publication ‘Trail Runner’ Is Entering a New Chapter",
-      "link": "https://www.outsideonline.com/culture/books-media/trail-runner-is-entering-a-new-chapter-so-are-we/",
-      "summary": "'Trail Runner' is now the home of everything from hard-hitting journalism and brutally honest gear reviews to trail-obsessed poems, doodles, and cartoons. The post Our Sister Publi",
-      "date": "2026-06-17T09:26:31Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/WelcometoTrailRunner.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-17T09:57:58Z"
-    },
-    {
-      "title": "'Unstable' Tasmanian devil found after 15 days on the run",
-      "link": "https://phys.org/news/2026-06-unstable-tasmanian-devil-days.html",
-      "summary": "A Tasmanian devil named Mary has been found in an \"unstable condition\" more than two weeks after escaping her enclosure, an Australian wildlife park said Wednesday.",
-      "date": "2026-06-17T08:08:21Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tasmanian-devils-can-l.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-17T09:58:04Z"
-    },
-    {
-      "title": "Visible planets and night sky guide for June",
-      "link": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
-      "summary": "Visible planets and night sky guide. This evening, shortly after sunset, look for the young moon near brilliant Venus, bright Jupiter and elusive Mercury. The post Visible planets ",
-      "date": "Tue, 16 Jun 2026 08Z",
-      "image": "https://earthsky.org/upl/2026/05/2026-June-16-Moon-C.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-06-17T04:57:40Z"
-    },
-    {
-      "title": "The Canoe in the Forest",
-      "link": "https://hakaimagazine.com/features/the-canoe-in-the-forest/",
-      "summary": "When I first see the canoe, in May, it takes a moment to distinguish the long, shapely slab of cedar from the patch of earth that has spent more than a century trying to reclaim it",
-      "date": "Thu, 19 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-haida-canoe.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-06-17T04:57:41Z"
-    },
-    {
-      "title": "What’s Next for Deep-Sea Mining?",
-      "link": "https://hakaimagazine.com/news/whats-next-for-deep-sea-mining/",
-      "summary": "Earlier this year, Leticia Carvalho, a Brazilian oceanographer and environmental policy expert, took the helm of the International Seabed Authority (ISA) as secretary general. The ",
-      "date": "2024-12-18T08:01:59Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-deep-sea-mining-1.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-06-17T04:57:41Z"
-    },
-    {
-      "title": "Even morphologically similar pollinators carry distinct pollen assemblages",
-      "link": "https://phys.org/news/2026-06-morphologically-similar-pollinators-distinct-pollen.html",
-      "summary": "The body size, morphology and associated behavioral traits of flower-visiting insects strongly influence the quantity of pollen they transport. Thus, pollinators with similar appea",
-      "date": "2026-06-17T02:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/even-morphologically-s.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-06-17T04:57:50Z"
     }
   ]
 }
