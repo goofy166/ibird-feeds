@@ -1,8 +1,118 @@
 {
-  "updated": "2026-06-24T17:10:35Z",
-  "updated_utc": "2026-06-24T17:10:35Z",
+  "updated": "2026-06-24T19:57:15Z",
+  "updated_utc": "2026-06-24T19:57:15Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Perennials and Hydrangeas Flopping Over? Here’s What to Do",
+      "link": "https://www.birdsandblooms.com/gardening/gardening-basics/hydrangea-flopping-over/",
+      "summary": "Are your perennials and hydrangeas flopping over in heavy rain? Find out if pruning or staking will help your plants stand tall. The post Perennials and Hydrangeas Flopping Over? H",
+      "date": "2026-06-24T18:46:05Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/GettyImages-1265197370-1-e1782324484370.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-06-24T19:56:55Z"
+    },
+    {
+      "title": "Bald eagle released after more than 25 weeks of rehabilitation",
+      "link": "https://www.mercurynews.com/2026/06/24/bald-eagle-released-after-more-than-25-weeks-of-rehabilitation/",
+      "summary": "The eagle was rescued by the SPCA on Dec. 21, 2025 in Salinas and arrived with a broken coracoid – a bone that connects a bird’s shoulder to its keel and is necessary for flight. W",
+      "date": "2026-06-24T17:48:27Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/MCH-L-SPCAEAGLE-0624-01.jpeg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-06-24T19:57:04Z"
+    },
+    {
+      "title": "The ‘Odyssey,’ One of the World’s Oldest Stories, Gets a Modern Spin With A.I.-Generated Audiobook Narration by the Voice Clone of an Oscar Winner",
+      "link": "https://www.smithsonianmag.com/smart-news/the-odyssey-one-of-the-worlds-oldest-stories-gets-a-modern-spin-with-ai-generated-audiobook-narration-by-the-voice-clone-of-an-oscar-winner-actor-michael-caine-180989006/",
+      "summary": "Meanwhile, other actors are pushing back against the use of artificial intelligence in creative projects, including through a new “human consent” registry tool",
+      "date": "2026-06-24T18:56:21Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/AJMS8XjPyMXzWKXKMkkL5an6gr4=/420x240/filters:focal(2808x1872:2809x1873)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/96/17/96173dd0-8e35-4c49-85f4-e1e45db4118e/homere_odyssee_fondation_martin_bodmer_incunable.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-06-24T19:57:07Z"
+    },
+    {
+      "title": "A Mars rover found organic carbon just sitting on a rock",
+      "link": "https://www.sciencenews.org/article/mars-carbon-complex-organic-rock",
+      "summary": "The organic molecules could come from life or from ordinary chemistry — only samples returned to Earth can settle it.",
+      "date": "2026-06-24T18:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/062426_FI_Marsorganics_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-06-24T19:57:09Z"
+    },
+    {
+      "title": "Screwworm could be the first species targeted by an 'extinction drive'",
+      "link": "https://www.newscientist.com/article/2531859-screwworm-could-be-the-first-species-targeted-by-an-extinction-drive/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "We have developed genetic technologies that could wipe out entire species of pests that are harmful to us. Columnist Michael Le Page says the flesh-eating screwworm is the most lik",
+      "date": "2026-06-24T18:19:04Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/24180643/SEI_301904358.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-24T19:57:10Z"
+    },
+    {
+      "title": "All known Homo naledi skeletons seem to be female",
+      "link": "https://www.newscientist.com/article/2531654-all-known-homo-naledi-skeletons-seem-to-be-female/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "An analysis of tooth proteins suggests all 23 Homo naledi individuals found in the Rising Star cave in South Africa were female, which strengthens the case that they were placed th",
+      "date": "2026-06-24T16:00:33Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/24133510/SEI_302689512.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-24T19:57:10Z"
+    },
+    {
+      "title": "The lunar botanist with a plan to farm vegetables on the moon",
+      "link": "https://www.newscientist.com/article/2529785-the-lunar-botanist-with-a-plan-to-farm-vegetables-on-the-moon/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Jessica Atkin knows more than anyone else about what it would take to supply food for a moon base. She reveals how to build a lunar farm and what astronauts can expect to dine on",
+      "date": "2026-06-24T16:00:32Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/10174349/SEI_300863741.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-24T19:57:10Z"
+    },
+    {
+      "title": "Some of the last Neanderthals were surprisingly genetically diverse",
+      "link": "https://www.newscientist.com/article/2531732-some-of-the-last-neanderthals-were-surprisingly-genetically-diverse/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Genetic analysis of Neanderthals in north-western Europe reveals that this population was surprisingly genetically diverse, hinting that inbreeding didn’t lead to the species' demi",
+      "date": "2026-06-24T16:00:03Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/24145305/SEI_302691252.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-24T19:57:10Z"
+    },
+    {
+      "title": "Fiber-optic cables detect silent whales off Svalbard by tracking pressure waves",
+      "link": "https://phys.org/news/2026-06-fiber-optic-cables-silent-whales.html",
+      "summary": "A 100-year-old equation and a fiber-optic cable off the coast of Svalbard led researchers to discover they could detect swimming whales—even if they were completely silent. The dis",
+      "date": "2026-06-24T19:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/listening-to-whaleseve-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-24T19:57:11Z"
+    },
+    {
+      "title": "Decades-long dataset shows which orcas are most at home in Puget Sound",
+      "link": "https://phys.org/news/2026-06-decades-dataset-orcas-home-puget.html",
+      "summary": "Data spanning nearly half a century shows that endangered southern resident killer whales are spending less time in inland waters, whereas their larger cousins, Bigg's killer whale",
+      "date": "2026-06-24T18:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/decades-long-dataset-s.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-24T19:57:11Z"
+    },
     {
       "title": "Would you eat a possum? ‘Ecologically, it’s all very much above board’",
       "link": "https://www.theguardian.com/food/2026/jun/25/dark-mofo-winter-feast-brushtail-bao-chef-ingredients-possom",
@@ -5392,116 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-06-16T23:40:44Z"
-    },
-    {
-      "title": "Why one famous predator shrank two ways: Fossils reveal distinct growth strategies in early Permian Dimetrodon",
-      "link": "https://phys.org/news/2026-06-famous-predator-shrank-ways-fossils.html",
-      "summary": "The sail-backed predator Dimetrodon is one of the most iconic animals of the early Permian—long before dinosaurs dominated Earth. Most known species of this early relative of mamma",
-      "date": "2026-06-16T22:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-to-grow-small-the.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-16T23:40:44Z"
-    },
-    {
-      "title": "Slaughter in the water: Can the Ramsar Convention protect African waterbirds?",
-      "link": "https://phys.org/news/2026-06-slaughter-ramsar-convention-african-waterbirds.html",
-      "summary": "The Ramsar Convention is the world's longest-standing international treaty for wetland and waterbird protection. Signed in Ramsar, Iran, in 1971, the Convention on Wetlands of Inte",
-      "date": "2026-06-16T21:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/slaughter-in-the-water.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-16T23:40:44Z"
-    },
-    {
-      "title": "Female chickadees seek cognitively skilled males for extra‑pair matings, study shows",
-      "link": "https://phys.org/news/2026-06-female-chickadees-cognitively-skilled-males.html",
-      "summary": "Female chickadees living in monogamous mating systems will proactively seek out males that have better cognitive skills than their nest mate, according to new findings.",
-      "date": "2026-06-16T21:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/female-chickadees-look.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-16T23:40:44Z"
-    },
-    {
-      "title": "Caviar Pizzas, New Money, and the Death of an Ancient Fish",
-      "link": "https://hakaimagazine.com/features/caviar-pizzas-new-money-and-the-death-of-an-ancient-fish/",
-      "summary": "I am sitting at a slick Manhattan waterfront restaurant on the banks of the East River, New York City, trying to decide why I find the caviar pizza on the menu so disturbing. Jonat",
-      "date": "Tue, 10 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-21st-century-sturgeon.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-06-16T21:12:43Z"
-    },
-    {
-      "title": "The Destructive Legacy of Failed Aquaculture",
-      "link": "https://hakaimagazine.com/news/the-destructive-legacy-of-failed-aquaculture/",
-      "summary": "Aquaculture is big business in Canada. In 2023, open-net-pen salmon farming in British Columbia alone produced 50,000 tonnes of fish worth just over US $350-million. But on June 30",
-      "date": "2024-12-06T08:01:14Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-aquaculture-cleanup.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-06-16T21:12:43Z"
-    },
-    {
-      "title": "Conjuring the Lost Land Beneath the North Sea",
-      "link": "https://hakaimagazine.com/features/conjuring-the-lost-land-beneath-the-north-sea/",
-      "summary": "The North Sea is a hard place to love. It’s not the cold, or the silty gray-brown waters that seem to suck the brightness out of the sky that make it unappealing, it’s what people ",
-      "date": "Thu, 05 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-doggerland.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-06-16T21:12:43Z"
-    },
-    {
-      "title": "Discover Iceland’s Secret Season",
-      "link": "https://www.outsideonline.com/adventure-travel/discover-icelands-secret-season/",
-      "summary": "Explora’s newest expedition highlights the beauty and solitude of an Arctic winter The post Discover Iceland’s Secret Season appeared first on Outside Online .",
-      "date": "Tue, 16 Jun 2026 21Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/Caminata-Myrdalsjokull-DJI_0857-David-Cossio-Sanchez-scaled.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-16T21:12:47Z"
-    },
-    {
-      "title": "The Coolest Concert Venue in America? The Caverns Subterranean Cave.",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/the-caverns-tennessee-cave-concert-venue/",
-      "summary": "Tucked away in rural Tennessee, The Caverns hosts musical acts from The Flaming Lips to Future Islands in its underground limestone cave. Here's what it's like to see a major conce",
-      "date": "Tue, 16 Jun 2026 21Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/The-Caverns_DSC2624_by-Keith-Griner-2.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-16T21:12:47Z"
-    },
-    {
-      "title": "Adventure Everywhere in San Diego, California",
-      "link": "https://www.outsideonline.com/adventure-travel/adventure-everywhere-in-san-diego-california/",
-      "summary": "With the right perspective, and the right vehicle, you can find Adventure Everywhere The post Adventure Everywhere in San Diego, California appeared first on Outside Online .",
-      "date": "Tue, 16 Jun 2026 17Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/morahan_visuals_outside_tv_kia_telluride_22581-scaled.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-16T21:12:47Z"
-    },
-    {
-      "title": "Adventure Everywhere in Boulder, Colorado",
-      "link": "https://www.outsideonline.com/adventure-travel/adventure-everywhere-in-boulder-colorado/",
-      "summary": "With the right perspective, and the right vehicle, you can find Adventure Everywhere The post Adventure Everywhere in Boulder, Colorado appeared first on Outside Online .",
-      "date": "Tue, 16 Jun 2026 17Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/morahan_visuals_outside_tv_kia_telluride_28828-scaled.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-16T21:12:47Z"
     }
   ]
 }
