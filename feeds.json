@@ -1,8 +1,151 @@
 {
-  "updated": "2026-06-24T19:57:15Z",
-  "updated_utc": "2026-06-24T19:57:15Z",
+  "updated": "2026-06-24T21:39:40Z",
+  "updated_utc": "2026-06-24T21:39:40Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Caviar Pizzas, New Money, and the Death of an Ancient Fish",
+      "link": "https://hakaimagazine.com/features/caviar-pizzas-new-money-and-the-death-of-an-ancient-fish/",
+      "summary": "I am sitting at a slick Manhattan waterfront restaurant on the banks of the East River, New York City, trying to decide why I find the caviar pizza on the menu so disturbing. Jonat",
+      "date": "Tue, 10 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-21st-century-sturgeon.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-06-24T21:39:27Z"
+    },
+    {
+      "title": "The Destructive Legacy of Failed Aquaculture",
+      "link": "https://hakaimagazine.com/news/the-destructive-legacy-of-failed-aquaculture/",
+      "summary": "Aquaculture is big business in Canada. In 2023, open-net-pen salmon farming in British Columbia alone produced 50,000 tonnes of fish worth just over US $350-million. But on June 30",
+      "date": "2024-12-06T08:01:14Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-aquaculture-cleanup.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-06-24T21:39:27Z"
+    },
+    {
+      "title": "Conjuring the Lost Land Beneath the North Sea",
+      "link": "https://hakaimagazine.com/features/conjuring-the-lost-land-beneath-the-north-sea/",
+      "summary": "The North Sea is a hard place to love. It’s not the cold, or the silty gray-brown waters that seem to suck the brightness out of the sky that make it unappealing, it’s what people ",
+      "date": "Thu, 05 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-doggerland.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-06-24T21:39:27Z"
+    },
+    {
+      "title": "Lake Mead Is One of America’s Deadliest National Park Sites. Its Dive Team Just Quietly Disappeared.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/water-activities/lake-mead-national-park-dive-team-suspended/",
+      "summary": "Amid staffing shortages and budget cuts, the National Park Service has quietly suspended dive rescue operations at Nevada’s Lake Mead. The post Lake Mead Is One of America’s Deadli",
+      "date": "2026-06-24T21:11:33Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/GettyImages-2269798979.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-06-24T21:39:30Z"
+    },
+    {
+      "title": "A Stolen Picasso Just Turned Up During a Drug Raid Near Paris, Reportedly Taken From a Storage Facility",
+      "link": "https://www.smithsonianmag.com/smart-news/a-stolen-picasso-just-turned-up-during-a-drug-raid-near-paris-reportedly-taken-from-a-storage-facility-180989010/",
+      "summary": "The painting has been authenticated but not revealed. Reports suggest it is one of Picasso's portraits of Marie-Thérèse Walter",
+      "date": "2026-06-24T20:37:59Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/_mbMZTbw7sWnDyvziLhjiAIPRz8=/420x240/filters:focal(3379x2027:3380x2028)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ff/1d/ff1dcce0-253f-4652-943a-c598e3b0e2a4/ein_bedeutendes_kunstmuseum_das_dem_leben_und_werk_von_pablo_picasso_gewidmet_ist__36.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-06-24T21:39:32Z"
+    },
+    {
+      "title": "Interstellar Comet 3I/ATLAS Might Be the Oldest Object Ever Seen in Our Solar System, a Study Suggests",
+      "link": "https://www.smithsonianmag.com/smithsonianmag/interstellar-comet-3i-atlas-might-be-the-oldest-object-ever-seen-in-our-solar-system-a-study-suggests-180989007/",
+      "summary": "Based on the composition of gases spewed by the icy space rock, researchers estimate that our guest might be up to 12 billion years old—about three times the age of the solar syste",
+      "date": "2026-06-24T19:55:27Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/aJkI-oMVaYUlwz3RvdaGeLEzkCo=/420x240/filters:focal(480x402:481x403)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/20/8f/208fea67-ccdd-411c-a19d-87fa7c84293c/3i-atlas_noirlab2532b.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-06-24T21:39:32Z"
+    },
+    {
+      "title": "CleanFinder brings browser-based genome editing analysis to labs without coding",
+      "link": "https://phys.org/news/2026-06-cleanfinder-browser-based-genome-analysis.html",
+      "summary": "Genome editing lets scientists rewrite DNA, the instruction manual inside every living cell, with a precision that was unthinkable a generation ago. Technologies such as CRISPR hav",
+      "date": "2026-06-24T21:20:09Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cleanfinder-freely-ava.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-24T21:39:36Z"
+    },
+    {
+      "title": "Three million years after Lucy walked upright in Africa, the inside story of another landmark journey",
+      "link": "https://phys.org/news/2026-06-million-years-lucy-upright-africa.html",
+      "summary": "There is a special gallery inside the Natural History Museum Abu Dhabi where visitors slow down, lower their voices and often fall silent. In front of them, carefully lit and disar",
+      "date": "2026-06-24T21:20:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/old-bones.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-24T21:39:36Z"
+    },
+    {
+      "title": "Piecing the puzzle of how proteins fit together: Simpler model outperforms leading methods",
+      "link": "https://phys.org/news/2026-06-piecing-puzzle-proteins-simpler-outperforms.html",
+      "summary": "How the proteins in our bodies bind together to form protein complexes plays a critical role in numerous cell functions—staving off diseases, for instance, or transporting ions acr",
+      "date": "2026-06-24T21:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/piecing-the-puzzle-of.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-24T21:39:36Z"
+    },
+    {
+      "title": "Contagious cancer likely crossed an ocean, triggering severe outbreak in Pacific Northwest clams",
+      "link": "https://phys.org/news/2026-06-contagious-cancer-ocean-triggering-severe.html",
+      "summary": "Researchers have identified a severe outbreak of a rare contagious cancer in soft-shell clams in Washington state's Puget Sound and found evidence that the disease was recently int",
+      "date": "2026-06-24T20:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/contagious-cancer-like-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-24T21:39:36Z"
+    },
+    {
+      "title": "How mitochondria build their protein factories could help explain energy‑linked disease",
+      "link": "https://phys.org/news/2026-06-mitochondria-protein-factories-energylinked-disease.html",
+      "summary": "In a study published in Nature Communications, researchers at Karolinska Institutet have mapped key steps in the assembly of the mitochondrial ribosome, offering new clues to how d",
+      "date": "2026-06-24T20:40:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-mitochondria-build.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-24T21:39:36Z"
+    },
+    {
+      "title": "Oysters used as living labs reveal unexpected stability in ocean virus populations",
+      "link": "https://phys.org/news/2026-06-oysters-labs-reveal-unexpected-stability.html",
+      "summary": "Oysters filter seawater for food. In the process, they concentrate a wide variety of microorganisms from their environment—including bacteria and viruses—into a tiny space.",
+      "date": "2026-06-24T20:20:12Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oysters-natures-petri.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-24T21:39:36Z"
+    },
+    {
+      "title": "Satellites reveal Earth has a surprising symmetry in the way it reflects light — and it might be tied to the El Niño cycle",
+      "link": "https://www.livescience.com/planet-earth/satellites-reveal-earth-has-a-surprising-symmetry-in-the-way-it-reflects-light-and-it-might-be-tied-to-the-el-nino-cycle",
+      "summary": "Even though the Eastern and Western halves of Earth are fairly different, they reflect the same amount of sunlight, a new study finds.",
+      "date": "2026-06-24T20:01:20Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/aMJCGkbSu2ucA34PVzWJPn-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-24T21:39:37Z"
+    },
     {
       "title": "Perennials and Hydrangeas Flopping Over? Here’s What to Do",
       "link": "https://www.birdsandblooms.com/gardening/gardening-basics/hydrangea-flopping-over/",
@@ -5359,149 +5502,6 @@
       "category": "butterflies",
       "color": 13,
       "fetched_at": "2026-06-17T04:57:50Z"
-    },
-    {
-      "title": "Dark biodiversity helps solve Darwin's 160-year-old puzzle",
-      "link": "https://phys.org/news/2026-06-dark-biodiversity-darwin-year-puzzle.html",
-      "summary": "An international research team, which included University of Tartu visiting doctoral student Wen-Gang Zhang and Professor of Botany Meelis Pärtel, has found a new solution to one o",
-      "date": "2026-06-17T01:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wild-animal.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-17T04:57:50Z"
-    },
-    {
-      "title": "Ultrasound unlocks protein from cauliflower waste and could add value to existing crops",
-      "link": "https://phys.org/news/2026-06-ultrasound-protein-cauliflower-crops.html",
-      "summary": "An RMIT University innovation uses ultrasound to extract leaf protein from discarded cauliflower leaves, identifying a potential new use for vegetable scraps. The process could hel",
-      "date": "2026-06-17T01:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrasound-unlocks-pro-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-17T04:57:50Z"
-    },
-    {
-      "title": "Rethinking plant photoprotection: New insights into antenna protein CP26",
-      "link": "https://phys.org/news/2026-06-rethinking-photoprotection-insights-antenna-protein.html",
-      "summary": "Plants must carefully strike a balance between harvesting sunlight to fuel photosynthesis and protecting themselves from light damage. Part of this balancing act is performed by an",
-      "date": "2026-06-17T00:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rethinking-plant-photo.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-17T04:57:50Z"
-    },
-    {
-      "title": "The Personal Toll of Canada’s Broken Fishing Promises",
-      "link": "https://hakaimagazine.com/features/the-personal-toll-of-canadas-broken-fishing-promises/",
-      "summary": "August 29, 2020, dawned clear over southwest Nova Scotia. In the cabin of his lobster boat, the Mystique Lady, Matthew Cope was chatting with the other members of his crew as they ",
-      "date": "Tue, 17 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-matt-cope-moderate-livelihood.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-06-16T23:40:35Z"
-    },
-    {
-      "title": "To Speak the Language of the Land",
-      "link": "https://hakaimagazine.com/features/to-speak-the-language-of-the-land/",
-      "summary": "Nearly 200 of us cram into Tarāwhai, a traditional wooden Māori meeting house, under the gaze of the ancestors and deities carved into the posts and walls. We’re here in the home o",
-      "date": "Thu, 12 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-maori-language-and-place.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-06-16T23:40:35Z"
-    },
-    {
-      "title": "Juvenile humpback whale found dead on Santa Cruz County beach",
-      "link": "https://www.mercurynews.com/2026/06/09/watsonville-juvenile-humpback-whale-found-dead-on-sunset-state-beach/",
-      "summary": "A dead juvenile humpback whale was spotted on Sunset State Beach Friday. California State Parks buried the whale on the beach Sunday morning.",
-      "date": "Tue, 09 Jun 2026 13Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/STC-L-CHWHALESTRAND-0609-03.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-06-16T23:40:37Z"
-    },
-    {
-      "title": "Scientists Uncover New Clues About the Volcanic Origins of the Giant's Causeway, an Iconic Geologic Structure in Northern Ireland",
-      "link": "https://www.smithsonianmag.com/smart-news/scientists-uncover-new-clues-about-the-volcanic-origins-of-the-giants-causeway-an-iconic-geologic-structure-in-northern-ireland-180988967/",
-      "summary": "The UNESCO World Heritage Site, which features 40,000 near-perfect hexagonal columns, formed roughly 60 million years ago during a period of intense volcanic activity",
-      "date": "Tue, 16 Jun 2026 21Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/hBJ_EZZ-w3eihP66wforiBitUH8=/420x240/filters:focal(512x341:513x342)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/54/38/5438a68e-a14c-423f-a8fb-56667ad1b296/7329884194_80f658dacd_b.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-16T23:40:40Z"
-    },
-    {
-      "title": "Intensive nickel mining has transformed microbial biodiversity of Thio Lagoon in New Caledonia",
-      "link": "https://phys.org/news/2026-06-intensive-nickel-microbial-biodiversity-thio.html",
-      "summary": "A study carried out by scientists from Ifremer, IRD, the universities of Western Brittany (UBO) and Bordeaux, CNRS, and the University of Tartu (Estonia) reveals the impact of nick",
-      "date": "2026-06-16T23:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/intensive-nickel-minin.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-16T23:40:44Z"
-    },
-    {
-      "title": "Report reveals how digital tools are transforming biodiversity crisis response",
-      "link": "https://phys.org/news/2026-06-reveals-digital-tools-biodiversity-crisis.html",
-      "summary": "Scientists who study plant physiology and evolution have a new tool in their toolkit: a machine learning algorithm that can scan digital plant specimen collections and quickly meas",
-      "date": "2026-06-16T23:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-ai-10.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-16T23:40:44Z"
-    },
-    {
-      "title": "Cotton's roots traced to Yucatan Peninsula, where wild gene pool runs deepest",
-      "link": "https://phys.org/news/2026-06-cotton-roots-yucatan-peninsula-wild.html",
-      "summary": "There's nothing like this in nature, Jonathan Wendel said as he showed a visitor in his Bessey Hall office the long white puffs billowing from a cotton boll—the protective flower c",
-      "date": "2026-06-16T23:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cottons-roots-trace-to.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-16T23:40:44Z"
-    },
-    {
-      "title": "Santa Cruz trail study reveals how mountain lions and outdoor recreation can safely share spaces",
-      "link": "https://phys.org/news/2026-06-santa-cruz-trail-reveals-mountain.html",
-      "summary": "California's iconic Santa Cruz Mountains are an outdoor recreation wonderland. With a world-class network of hiking, mountain biking and equestrian trails, they draw millions of vi",
-      "date": "2026-06-16T23:10:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-reveals-how-m-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-16T23:40:44Z"
-    },
-    {
-      "title": "Cockatoos learn when touchscreen rewards 'die,' then apply rule to new contexts",
-      "link": "https://phys.org/news/2026-06-cockatoos-touchscreen-rewards-die-contexts.html",
-      "summary": "For humans, death is surrounded by culture, emotion, ritual and language. But the question can be framed in a much more basic way: What would an animal have to understand in order ",
-      "date": "2026-06-16T22:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-test-sensi.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-16T23:40:44Z"
-    },
-    {
-      "title": "RNA barcoding approach reveals previously unknown virus–host relationships",
-      "link": "https://phys.org/news/2026-06-rna-barcoding-approach-reveals-previously.html",
-      "summary": "An interdisciplinary team of Rice University researchers has uncovered previously unknown relationships between bacteriophages—viruses that infect bacteria—and their bacterial host",
-      "date": "2026-06-16T22:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rna-barcoding-approach.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-16T23:40:44Z"
     }
   ]
 }
