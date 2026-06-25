@@ -1,8 +1,151 @@
 {
-  "updated": "2026-06-25T14:47:15Z",
-  "updated_utc": "2026-06-25T14:47:15Z",
+  "updated": "2026-06-25T17:19:19Z",
+  "updated_utc": "2026-06-25T17:19:19Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The First First Responders",
+      "link": "https://hakaimagazine.com/features/the-first-first-responders/",
+      "summary": "When a ship wrecks on an unfamiliar coastline, an already desperate situation is all the more dire. Blinded by the night, and lost, the captain and crew of the Puritan, a four-mast",
+      "date": "Tue, 24 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-first-first-responder.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-06-25T17:19:06Z"
+    },
+    {
+      "title": "How, Exactly, Could Deep-Sea Mining Benefit All of Humanity?",
+      "link": "https://hakaimagazine.com/news/how-exactly-could-deep-sea-mining-benefit-all-of-humanity/",
+      "summary": "When Arvid Pardo, a Maltese diplomat, took the floor at the United Nations General Assembly in New York in 1967 and began speaking at length on international law, the room was spar",
+      "date": "2024-12-20T08:01:54Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-benefit-of-humanity.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-06-25T17:19:06Z"
+    },
+    {
+      "title": "This Strange, Feathered Dinosaur May Have Glided Between Trees Like a Flying Squirrel to Hunt Birds 120 Million Years Ago",
+      "link": "https://www.smithsonianmag.com/smart-news/this-strange-featured-dinosaur-may-have-glided-between-trees-like-a-flying-squirrel-to-hunt-birds-120-million-years-ago-180989011/",
+      "summary": "A fossil of the creature provides the first evidence that microraptors lived in what is now northwestern China. Its discovery might also solve an ancient murder mystery",
+      "date": "Thu, 25 Jun 2026 16Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/0j_iJO5vWWE4OXAF2FX0147lLUE=/420x240/filters:focal(715x463:716x464)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/83/b4/83b4819c-1841-4790-a2fe-1804a51641fe/1780594340-microraptor_06042026.webp",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-06-25T17:19:12Z"
+    },
+    {
+      "title": "Everyone Wanted Alexander Graham Bell to Debut the Telephone at the Philadelphia Centennial Exhibition. He Almost Avoided it Entirely",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/everyone-wanted-alexander-graham-bell-to-debut-the-telephone-at-the-philadelphia-centennial-exhibition-he-almost-walked-away-first-180989016/",
+      "summary": "The inventor had to be persuaded to make the trip from Boston, then balked at the thought of a delay in debuting his device. But history interceded, and his American innovation got",
+      "date": "Thu, 25 Jun 2026 15Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/V4tw8uUClkztGATtDSU4p73kd_M=/420x240/filters:focal(715x310:716x311)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a6/74/a674d657-2ed9-4e6a-a250-48ca399b7c1e/760620-o-d0439-001.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-06-25T17:19:12Z"
+    },
+    {
+      "title": "Where, when and how to watch the 2026 solar eclipse",
+      "link": "https://www.newscientist.com/article/2531639-where-when-and-how-to-watch-the-2026-solar-eclipse/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "This August a total solar eclipse is set to be visible across parts of Europe, while a partial eclipse will sweep across about a quarter of the planet – here’s how to catch it",
+      "date": "Thu, 25 Jun 2026 15Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25140600/SEI_3026843711.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-25T17:19:14Z"
+    },
+    {
+      "title": "If you aren't terrified by this heatwave, you should be",
+      "link": "https://www.newscientist.com/article/2531853-if-you-arent-terrified-by-this-heatwave-you-should-be/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The extreme heat currently being felt in Europe isn’t the new normal – much worse is to come, and we are doing far too little to adapt, says Michael Le Page",
+      "date": "Thu, 25 Jun 2026 14Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25110717/SEI_302817839.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-25T17:19:14Z"
+    },
+    {
+      "title": "Phages could enable us to hijack vaccine immunity to kill cancer cells",
+      "link": "https://www.newscientist.com/article/2531700-phages-could-enable-us-to-hijack-vaccine-immunity-to-kill-cancer-cells/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Phages, viruses that infect bacteria, could be genetically manipulated to destroy cancerous cells using the immunity we have acquired from vaccines",
+      "date": "Thu, 25 Jun 2026 11Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25101433/SEI_302699536.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-25T17:19:14Z"
+    },
+    {
+      "title": "Experts explain where nature conservation can make the greatest difference in saving endangered species",
+      "link": "https://phys.org/news/2026-06-experts-nature-greatest-difference-endangered.html",
+      "summary": "Old oak trees and semi-natural grasslands are very important for a large number of species that risk disappearing as habitats decline. In a new study, researchers at Linköping Univ",
+      "date": "2026-06-25T16:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/experts-explain-where.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-25T17:19:16Z"
+    },
+    {
+      "title": "Hybrid reef project off Miami Beach targets wave attenuation and coral recovery",
+      "link": "https://phys.org/news/2026-06-hybrid-reef-miami-beach-attenuation.html",
+      "summary": "University of Miami researchers and collaborators have expanded an offshore reef restoration and coastal resilience project off Miami Beach with the deployment of three 3D-printed ",
+      "date": "2026-06-25T15:40:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-and-collab.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-25T17:19:16Z"
+    },
+    {
+      "title": "Sponges may cut methylmercury contamination in marine food webs by more than 50%",
+      "link": "https://phys.org/news/2026-06-sponges-methylmercury-contamination-marine-food.html",
+      "summary": "Marine sponges may play an important, previously underestimated role in reducing methylmercury contamination in marine food webs. In a new modeling study, researchers at Helmholtz-",
+      "date": "2026-06-25T15:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/natural-shields-agains.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-25T17:19:16Z"
+    },
+    {
+      "title": "Turtles may migrate using Earth's magnetic field",
+      "link": "https://phys.org/news/2026-06-turtles-migrate-earth-magnetic-field.html",
+      "summary": "New research indicates that sea turtles seem to navigate across hundreds of miles of open ocean using Earth's magnetic field. Previous experimental studies suggested that sea turtl",
+      "date": "2026-06-25T15:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/turtles-may-migrate-us.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-25T17:19:16Z"
+    },
+    {
+      "title": "Apes and humans have been sharing a laugh for 15 million years",
+      "link": "https://phys.org/news/2026-06-apes-humans-million-years.html",
+      "summary": "Great apes may have been laughing with a similar rhythm to modern humans for at least 15 million years, a University of Warwick study reveals. The finding offers unexpected clues t",
+      "date": "2026-06-25T15:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/apes-and-humans-have-b.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-25T17:19:16Z"
+    },
+    {
+      "title": "Some of the last surviving Neanderthals were remarkably diverse ‪—‬ suggesting inbreeding didn't doom them",
+      "link": "https://www.livescience.com/archaeology/neanderthals/some-of-the-last-surviving-neanderthals-were-remarkably-diverse-suggesting-inbreeding-didnt-doom-them",
+      "summary": "Some Neanderthals living in northwestern Europe after 52,500 years ago were surprisingly diverse, suggesting that they didn't all go extinct due to inbreeding.",
+      "date": "Thu, 25 Jun 2026 17Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/W5dzpdTwtmBNSzfWGLPLzK-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-25T17:19:17Z"
+    },
     {
       "title": "Sun news: Surprise geomagnetic storm hits overnight",
       "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
@@ -5359,149 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-06-17T20:24:33Z"
-    },
-    {
-      "title": "Pigeons lock their eyes in place when they are flying",
-      "link": "https://www.newscientist.com/article/2530749-pigeons-lock-their-eyes-in-place-when-they-are-flying/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Bird-mounted headsets and backpacks have revealed the surprising things pigeons do with their eyes when on the wing",
-      "date": "2026-06-17T16:00:11Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/17130415/SEI_301768044.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-17T20:24:33Z"
-    },
-    {
-      "title": "Our brains have their first thoughts surprisingly early in life",
-      "link": "https://www.newscientist.com/article/2527946-our-brains-have-their-first-thoughts-surprisingly-early-in-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "By the time we’re born, our brains have all the hardware in place to form thoughts, and possibly even some conscious awareness",
-      "date": "2026-06-17T16:00:01Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/29182922/SEI_299343146.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-17T20:24:33Z"
-    },
-    {
-      "title": "Autism and ADHD are on the rise due to widening diagnostic criteria",
-      "link": "https://www.newscientist.com/article/2530700-autism-and-adhd-are-on-the-rise-due-to-widening-diagnostic-criteria/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A study of 140,000 people suggests that a broadening of the diagnostic criteria for autism and ADHD explains the sharp rise in diagnoses, but that doesn't mean too many people are ",
-      "date": "2026-06-17T15:00:28Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/17120556/SEI_301655040.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-17T20:24:33Z"
-    },
-    {
-      "title": "Seaweed farming offers climate benefits, but regulatory gaps pose risks",
-      "link": "https://phys.org/news/2026-06-seaweed-farming-climate-benefits-regulatory.html",
-      "summary": "From sea lettuce adorning tidal pools and bull kelp left in windrows at the high tide line to towering underwater forests of giant kelp providing refuge and food for countless spec",
-      "date": "2026-06-17T20:00:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/seaweed.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-17T20:24:34Z"
-    },
-    {
-      "title": "A 'super' El Niño has the power to devastate fishing, and leave seals and sea lions starving",
-      "link": "https://phys.org/news/2026-06-super-el-nio-power-devastate.html",
-      "summary": "There is a more than 60% chance that a \"super\" El Niño will develop by the end of this year.",
-      "date": "2026-06-17T19:40:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sea-lion.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-17T20:24:34Z"
-    },
-    {
-      "title": "Swiss lake symbiosis reveals unexpected role in nitrogen cycling",
-      "link": "https://phys.org/news/2026-06-swiss-lake-symbiosis-reveals-unexpected.html",
-      "summary": "A publication led by researchers from the Max Planck Institute for Marine Microbiology in Bremen, Germany, shows that microscopic partnerships between ciliates and bacteria play a ",
-      "date": "2026-06-17T17:40:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/swiss-lake-symbiosis-r.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-17T20:24:34Z"
-    },
-    {
-      "title": "Bringing ancient light-sensing proteins back to life",
-      "link": "https://phys.org/news/2026-06-ancient-proteins-life.html",
-      "summary": "Resurrecting dinosaurs using DNA retrieved from a mosquito trapped in amber is a great movie plot, though it's less likely to happen in the real world. However, researchers have be",
-      "date": "2026-06-17T17:20:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bringing-ancient-light.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-17T20:24:34Z"
-    },
-    {
-      "title": "'It's a huge deal': Archaeologists discover second cannonball from the Battle of the Alamo, and it was likely fired by Texans",
-      "link": "https://www.livescience.com/archaeology/americas/its-a-huge-deal-archaeologists-discover-second-cannonball-from-the-battle-of-the-alamo-and-it-was-likely-fired-by-texans",
-      "summary": "Archaeologists have discovered a second cannonball from the 1836 Battle of the Alamo, and now they have one from each side.",
-      "date": "2026-06-17T20:04:02Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/hJVQNBNeDuSPTx93ECpCPP-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-17T20:24:36Z"
-    },
-    {
-      "title": "'A mixture from zero to infinity': Physicists split apart a photon — and ended up with an improbable swarm of particles",
-      "link": "https://www.livescience.com/physics-mathematics/particle-physics/a-mixture-from-zero-to-infinity-physicists-split-apart-a-photon-and-ended-up-with-an-improbable-swarm-of-particles",
-      "summary": "Physicists have found that splitting a photon would lead to a complex state that may change the way we think of particles.",
-      "date": "2026-06-17T17:50:15Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Tst7Sjcx6nreecVZuSeMw-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-17T20:24:36Z"
-    },
-    {
-      "title": "Oldest known plague victims found in a 5,500-year-old burial ground in Siberia — and many of them were children",
-      "link": "https://www.livescience.com/archaeology/oldest-known-plague-victims-found-in-a-5-500-year-old-burial-ground-in-siberia-and-many-of-them-were-children",
-      "summary": "The oldest known evidence of the plague killing people has been found in Siberia, and it carried a gene that may have made it particularly deadly for children.",
-      "date": "2026-06-17T17:43:56Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/UCPVu9nA8gpYXygbRVsJT7-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-17T20:24:36Z"
-    },
-    {
-      "title": "A lifetime of love for Wharfedale wildlife | Brief letters",
-      "link": "https://www.theguardian.com/uk-news/2026/jun/17/a-lifetime-of-love-for-wharfedale-wildlife",
-      "summary": "Grass Wood | Toilet handedness | Bowled over | Right bias | Stupa walking Mark Cocker’s article ( Country diary, 16 June ) took me back many years. Just after the war we lived in R",
-      "date": "2026-06-17T17:03:52Z",
-      "image": "https://i.guim.co.uk/img/media/2debc08950f0d02c3e0dd9cc623c54296ea318e3/862_0_4500_3600/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=31826d33c9be5dc241860870c4e982af",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-17T17:12:24Z"
-    },
-    {
-      "title": "Honeybees make specialised ‘baby food’ to give larvae balanced diet, study says",
-      "link": "https://www.theguardian.com/environment/2026/jun/17/honeybees-blend-food-pollen-larvae-balanced-diet-study",
-      "summary": "Researchers also discover bees can adjust their diets when pollen sources do not provide healthy level of nutrients Honeybees blend a special “baby food” to give their larvae a bal",
-      "date": "2026-06-17T15:00:35Z",
-      "image": "https://i.guim.co.uk/img/media/d5a4ddea82b2501f9388828c4984bd479599e072/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=afd4dd00e546ab7f5c95f88ad979609e",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-17T17:12:24Z"
-    },
-    {
-      "title": "So Long, and Thanks for All the Fish",
-      "link": "https://hakaimagazine.com/article-short/so-long-and-thanks-for-all-the-fish/",
-      "summary": "We started Hakai Magazine over 10 years ago because the ocean and its coastlines needed a voice. No other outlet was exclusively covering issues at the interface of sea and land—or",
-      "date": "2024-12-27T08:05:43Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-so-long-and-thanks-for-all-the-fish.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-06-17T17:12:27Z"
     }
   ]
 }
