@@ -1,8 +1,74 @@
 {
-  "updated": "2026-06-24T23:13:36Z",
-  "updated_utc": "2026-06-24T23:13:36Z",
+  "updated": "2026-06-25T04:13:51Z",
+  "updated_utc": "2026-06-25T04:13:51Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Visible planets and night sky guide for June and July",
+      "link": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
+      "summary": "EarthSky's visible planets and night sky guide. Find out why June's full moon is so low in the sky for Northern Hemisphere observers in today's livestream. The post Visible planets",
+      "date": "2026-06-24T10:00:08Z",
+      "image": "https://earthsky.org/upl/2026/05/2026-June-26-27-Moon-D.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-06-25T04:13:37Z"
+    },
+    {
+      "title": "The Canoe in the Forest",
+      "link": "https://hakaimagazine.com/features/the-canoe-in-the-forest/",
+      "summary": "When I first see the canoe, in May, it takes a moment to distinguish the long, shapely slab of cedar from the patch of earth that has spent more than a century trying to reclaim it",
+      "date": "Thu, 19 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-haida-canoe.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-06-25T04:13:38Z"
+    },
+    {
+      "title": "What’s Next for Deep-Sea Mining?",
+      "link": "https://hakaimagazine.com/news/whats-next-for-deep-sea-mining/",
+      "summary": "Earlier this year, Leticia Carvalho, a Brazilian oceanographer and environmental policy expert, took the helm of the International Seabed Authority (ISA) as secretary general. The ",
+      "date": "2024-12-18T08:01:59Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-deep-sea-mining-1.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-06-25T04:13:38Z"
+    },
+    {
+      "title": "Shorter front-leg strides can be an early warning sign of dementia in senior dogs",
+      "link": "https://phys.org/news/2026-06-shorter-front-leg-early-dementia.html",
+      "summary": "Scientists have shown that the stride length of the front legs (but not the hind legs) of senior and geriatric dogs decreases as their cognitive performance worsens. In contrast, c",
+      "date": "2026-06-25T04:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/old-beagle.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-25T04:13:47Z"
+    },
+    {
+      "title": "Precious drops: Spray helps crop farmers facing declining rainfall",
+      "link": "https://phys.org/news/2026-06-precious-spray-crop-farmers-declining.html",
+      "summary": "A spray made from a biodegradable polymer capable of capturing and redirecting water to crop seeds could be the key to drought-proofing Western Australian farms.",
+      "date": "2026-06-25T03:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/crops-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-25T04:13:47Z"
+    },
+    {
+      "title": "Drifting tuna gear creates risks for wildlife in protected marine areas",
+      "link": "https://phys.org/news/2026-06-drifting-tuna-gear-wildlife-marine.html",
+      "summary": "An international study co-authored by a University of Hawaiʻi at Mānoa researcher has found that drifting devices used by the global tuna fishing industry are entering marine prote",
+      "date": "2026-06-24T23:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/drifting-tuna-fishing-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-25T04:13:47Z"
+    },
     {
       "title": "The Personal Toll of Canada’s Broken Fishing Promises",
       "link": "https://hakaimagazine.com/features/the-personal-toll-of-canadas-broken-fishing-promises/",
@@ -5436,72 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-06-17T13:52:03Z"
-    },
-    {
-      "title": "How evolution can make cells smaller without slowing down their growth",
-      "link": "https://phys.org/news/2026-06-evolution-cells-smaller-growth.html",
-      "summary": "A new study led by Marco Fumasoni, principal investigator at Fundação GIMM, shows that evolution can substantially reduce cell size without significantly compromising cells' abilit",
-      "date": "2026-06-17T13:00:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-evolution-can-make.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-17T13:52:06Z"
-    },
-    {
-      "title": "Plants maintain photosynthesis in hotter, drier climates by coordinating biochemical processes to stabilize CO₂ levels",
-      "link": "https://phys.org/news/2026-06-photosynthesis-hotter-drier-climates-biochemical.html",
-      "summary": "Researchers at The Australian National University (ANU) have uncovered a mechanism that helps plants continue photosynthesizing under extreme heat and dry air conditions—a finding ",
-      "date": "2026-06-17T12:40:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/plants-reveal-hidden-s.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-17T13:52:06Z"
-    },
-    {
-      "title": "Why just sharing a stick while walking can significantly improve balance",
-      "link": "https://phys.org/news/2026-06-significantly.html",
-      "summary": "Could the secret to preventing dangerous falls be surprisingly simple? For older adults, these unexpected tumbles are a leading cause of injury, affecting roughly 1 in 4 people 65 ",
-      "date": "2026-06-17T12:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-two-walkers-share.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-17T13:52:06Z"
-    },
-    {
-      "title": "Genetic study finds urban rodents may be evolving against common poisons",
-      "link": "https://phys.org/news/2026-06-genetic-urban-rodents-evolving-common.html",
-      "summary": "For years, pest control professionals throughout the Northeast have reported a troubling pattern. In some neighborhoods, rodents seemed increasingly difficult to eliminate, even wh",
-      "date": "2026-06-17T12:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/city-rat.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-17T13:52:06Z"
-    },
-    {
-      "title": "Baby fossils reveal link between human and Neanderthal development",
-      "link": "https://phys.org/news/2026-06-baby-fossils-reveal-link-human.html",
-      "summary": "An international study of infant remains from 50,000–75,000 years ago has provided new evidence about the developmental trajectory of our evolutionary \"cousins,\" Neanderthals.",
-      "date": "2026-06-17T11:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/baby-fossils-reveal-li.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-17T13:52:06Z"
-    },
-    {
-      "title": "Ancient amber fossil captures mites marching in line",
-      "link": "https://phys.org/news/2026-06-ancient-amber-fossil-captures-mites.html",
-      "summary": "Many animals exhibit fascinating collective behaviors, which allow them to move, search for food, reproduce and avoid threats more effectively than they would alone. One of these b",
-      "date": "2026-06-17T11:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-amber-fossil-c.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-17T13:52:06Z"
     }
   ]
 }
