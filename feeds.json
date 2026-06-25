@@ -1,8 +1,52 @@
 {
-  "updated": "2026-06-25T04:13:51Z",
-  "updated_utc": "2026-06-25T04:13:51Z",
+  "updated": "2026-06-25T08:28:02Z",
+  "updated_utc": "2026-06-25T08:28:02Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: Bright and bohemian, this moth could be a David Hockney | Paul Evans",
+      "link": "https://www.theguardian.com/environment/2026/jun/25/country-diary-bright-and-bohemian-this-moth-could-be-a-david-hockney",
+      "summary": "The Marches, Shropshire : Scarlet tiger moths are on the wing at our allotment, taking advantage of the sunny days – and our human activity The jackdaw takes three hops and is airb",
+      "date": "2026-06-25T04:30:04Z",
+      "image": "https://i.guim.co.uk/img/media/e73bf29943c5ad42786bd8a88cf7ff72a447c224/458_0_3084_2468/master/3084.jpg?width=140&quality=85&auto=format&fit=max&s=04965398c91c632a0d9b61ce047b223e",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-25T08:27:47Z"
+    },
+    {
+      "title": "Hold the onions – and see if they make you cry",
+      "link": "https://www.newscientist.com/article/mg27036012-700-hold-the-onions-and-see-if-they-make-you-cry/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Feedback isn't sure what to make of a ground-breaking piece of research into the understudied topic of \"subjective individual variability in onion tearing and its relationship to c",
+      "date": "2026-06-24T18:00:00Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/23135833/SEI_302535476.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-25T08:27:58Z"
+    },
+    {
+      "title": "The 17 best popular science books of 2026 so far",
+      "link": "https://www.newscientist.com/article/mg27036012-600-the-17-best-popular-science-books-of-2026-so-far/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The first six months of the year have brought us popular science reads on everything from consciousness to cosmology. Liz Else rounds up her favourites",
+      "date": "2026-06-24T18:00:00Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/22124535/SEI_301631244.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-25T08:27:58Z"
+    },
+    {
+      "title": "Secret cameras, mics and AI reveal rare Cambodia wildlife",
+      "link": "https://phys.org/news/2026-06-secret-cameras-mics-ai-reveal.html",
+      "summary": "Above the patter of rain cascading through the jungle canopy comes the haunting call of a pileated gibbon singing to fend off intruders in Cambodia's Cardamom Mountains.",
+      "date": "2026-06-25T08:18:32Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-microphones-cam.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-25T08:27:59Z"
+    },
     {
       "title": "Visible planets and night sky guide for June and July",
       "link": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
@@ -5458,50 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-06-17T13:52:01Z"
-    },
-    {
-      "title": "Five Advances That Helped Turn a Night Out at the Movies Into the All-Enveloping Experience It Has Become",
-      "link": "https://www.smithsonianmag.com/arts-culture/five-advances-that-helped-turn-night-out-movies-into-all-enveloping-experience-it-has-become-180988820/",
-      "summary": "The power of film is often in its ability to feel larger than life. Movie makers have been developing ways to accentuate that aspect for more than a century",
-      "date": "2026-06-17T13:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/DDboWvpgegZ3FxSDpSx8cpI4r9E=/420x240/filters:focal(2351x1590:2352x1591)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1d/f1/1df1bd2e-f745-4fbc-aa44-7a9fbe492071/msdtost_ec027.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-17T13:52:02Z"
-    },
-    {
-      "title": "Every Generation of Teenagers Redefines Pop Culture Through Its Favorite Music, Fads, Movies and Trends",
-      "link": "https://www.smithsonianmag.com/arts-culture/every-generation-teenagers-redefines-pop-culture-through-favorite-music-fads-movies-trends-180988821/",
-      "summary": "When new government policies allowed kids more time to grown up, the teenager was born. And every decade or so, they’ve changed the ways they entertain themselves … and everyone el",
-      "date": "2026-06-17T12:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/4fQwhP9fTTypV7WeRgJsqConYBw=/420x240/filters:focal(1496x630:1497x631)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/78/3b/783ba21c-ca3e-4ba2-8f05-e7446f141388/teen_culture.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-17T13:52:02Z"
-    },
-    {
-      "title": "Cellphones Were Created to Untether Us. Then They Got Smart and Evolved Into an Omnipotent Appendage",
-      "link": "https://www.smithsonianmag.com/innovation/cellphones-were-created-to-untether-us-then-they-got-smart-and-evolved-into-an-omnipotent-appendage-180988882/",
-      "summary": "One device made it possible to hold a telephone, a watch, a calculator, the mailbox, credit cards, a meteorologist, a television, a detailed map of the globe, millions of songs and",
-      "date": "2026-06-17T11:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/OUXpvVafNbmSsoG8D-927MguAUI=/420x240/filters:focal(284x259:285x260)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f7/bc/f7bc2da8-96a9-413e-b110-911a06a5c5cc/smithmag-phone.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-17T13:52:02Z"
-    },
-    {
-      "title": "How real is the Cyclops in ‘The Odyssey’?",
-      "link": "https://www.sciencenews.org/article/cyclops-odyssey-science-copepod",
-      "summary": "The iconic one-eyed monster coming to movie screens in July in The Odyssey might have more in common with tiny water critters than with humans.",
-      "date": "2026-06-17T13:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/0726_tech-fic.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-06-17T13:52:03Z"
     }
   ]
 }
