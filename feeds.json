@@ -1,8 +1,30 @@
 {
-  "updated": "2026-06-26T00:17:04Z",
-  "updated_utc": "2026-06-26T00:17:04Z",
+  "updated": "2026-06-26T05:15:29Z",
+  "updated_utc": "2026-06-26T05:15:29Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Migrating swifts loyally return every year to nests in buildings, study finds",
+      "link": "https://www.theguardian.com/environment/2026/jun/26/migrating-swifts-loyally-return-every-year-nests-buildings-study-finds",
+      "summary": "Conservationists emphasise importance of protecting nesting sites used by ‘strongly faithful’ red-listed species Migratory swifts loyally return every year to their nests in buildi",
+      "date": "2026-06-26T05:00:10Z",
+      "image": "https://i.guim.co.uk/img/media/0ce032175a128cce22dac73de14232331c658cba/0_0_2488_1992/master/2488.jpg?width=140&quality=85&auto=format&fit=max&s=61e8b454c7454b7d2cad56a6fe40443a",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-26T05:15:14Z"
+    },
+    {
+      "title": "Economic and environmental benefits of regenerative agriculture vary widely across farms and regions",
+      "link": "https://phys.org/news/2026-06-economic-environmental-benefits-regenerative-agriculture.html",
+      "summary": "Regenerative agriculture can deliver both economic and environmental benefits for European farmers, Wageningen University & Research (WUR) concludes in the research project Regenom",
+      "date": "2026-06-26T02:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/agriculture.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-26T05:15:25Z"
+    },
     {
       "title": "9 Drought-Resistant Perennials for Dry Soil",
       "link": "https://www.birdsandblooms.com/gardening/drought-tolerant-gardening/drought-resistant-perennials/",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-06-18T11:12:35Z"
-    },
-    {
-      "title": "These Eight Outdoor Gear Items Make Family Camping With Teenagers Hassle-Free",
-      "link": "https://www.outsideonline.com/outdoor-gear/camping/gear-for-family-camping-with-teenagers/",
-      "summary": "Camping with kids is pure joy, with the right gear. The post These Eight Outdoor Gear Items Make Family Camping With Teenagers Hassle-Free appeared first on Outside Online .",
-      "date": "Thu, 18 Jun 2026 10Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/family_camping_teens_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-18T11:12:40Z"
-    },
-    {
-      "title": "Tony Hawk Was Still Pushing His Limits on the Skateboard. And Then He Crashed.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/tony-hawk-crash/",
-      "summary": "Skateboarding’s GOAT opens up about the 2022 injury that forced him to shift relationship with taking risk, training his body, and pushing his boundaries The post Tony Hawk Was Sti",
-      "date": "Thu, 18 Jun 2026 09Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/tony-hawk_building.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-18T11:12:40Z"
     }
   ]
 }
