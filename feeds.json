@@ -1,8 +1,41 @@
 {
-  "updated": "2026-06-27T12:12:42Z",
-  "updated_utc": "2026-06-27T12:12:42Z",
+  "updated": "2026-06-27T14:49:01Z",
+  "updated_utc": "2026-06-27T14:49:01Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Research team cuts cost of building reconstituted cell-free systems by 95%",
+      "link": "https://phys.org/news/2026-06-team-reconstituted-cell-free.html",
+      "summary": "A research team led by Professor Joongoo Lee in the Department of Chemical Engineering at POSTECH (Pohang University of Science and Technology) has developed an automated, modular ",
+      "date": "2026-06-27T14:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/postech-research-team.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-27T14:48:58Z"
+    },
+    {
+      "title": "Lamprey brain atlas reveals 450-million-year blueprint of vertebrate brains",
+      "link": "https://phys.org/news/2026-06-lamprey-brain-atlas-reveals-million.html",
+      "summary": "What did the very first complex vertebrate brain look like? To find out, scientists turned to an unlikely time traveler: the lamprey, a jawless, eel-like fish whose body plan has b",
+      "date": "2026-06-27T13:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lamprey-brain-atlas-un.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-27T14:48:58Z"
+    },
+    {
+      "title": "'The Romans were probably never going to go away': In new 'Almost History' podcast, listen to how history might have played out if Carthage had defeated the Roman Republic",
+      "link": "https://www.livescience.com/archaeology/romans/the-romans-were-probably-never-going-to-go-away-in-new-almost-history-podcast-listen-to-how-history-might-have-played-out-if-carthage-had-defeated-the-roman-republic",
+      "summary": "A new podcast from All About History magazine dives into an alternate reality of what may have happened during the famous battles between Carthage and Rome.",
+      "date": "2026-06-27T14:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ucSmXBrJ4hRNSbjmfDCiVZ-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-27T14:48:59Z"
+    },
     {
       "title": "Sacred Ibis",
       "link": "https://www.10000birds.com/sacred-ibis-2.htm?utm_source=rss&utm_medium=rss&utm_campaign=sacred-ibis-2",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-06-19T17:23:03Z"
-    },
-    {
-      "title": "Watch bison herd defend a newborn calf from wolf attack in a primeval Polish forest",
-      "link": "https://www.livescience.com/animals/land-mammals/watch-bison-herd-defend-a-newborn-calf-from-wolf-attack-in-a-primeval-polish-forest",
-      "summary": "Researchers have captured first-of-its-kind footage of a wolf attack on European bison in the Bialowieza Primeval Forest. The recording shifts our understanding of predator-prey in",
-      "date": "2026-06-19T15:57:19Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/LzL7iQATwPWNcyGpsdTg7S-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-19T17:23:04Z"
-    },
-    {
-      "title": "Read a book? Join a club? Stare at a wall? Social media alternatives for under-16s",
-      "link": "https://www.theguardian.com/media/2026/jun/19/social-media-alternatives-under-16s-uk-government-ban",
-      "summary": "Amid UK government proposals for a ban, experts discuss what other activities might really serve children well When a Lancashire schoolgirl was asked what she would do if the propo",
-      "date": "2026-06-19T13:20:40Z",
-      "image": "https://i.guim.co.uk/img/media/9cad43ee181d29a7367e1731dd1f3836eeed7ad3/243_0_4514_3610/master/4514.jpg?width=140&quality=85&auto=format&fit=max&s=00cad0863e61661b0ef812537a97ca5a",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-19T14:16:16Z"
-    },
-    {
-      "title": "34 dust devils on Mars in 1 shot! Can you spot them all?",
-      "link": "https://earthsky.org/todays-image/34-dust-devils-on-mars-in-1-shot/",
-      "summary": "The Mars Express orbiter caught this view of the red planet, which is peppered with whirlwinds. Can you spot the 34 dust devils on Mars in this 1 shot? The post 34 dust devils on M",
-      "date": "2026-06-19T11:48:38Z",
-      "image": "https://earthsky.org/upl/2026/06/22-crop-Dust_devils_Mars_Express_visits_Mamers_Valles_on_Mars_pillars_ESA-e1781805161270.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-06-19T14:16:18Z"
     }
   ]
 }
