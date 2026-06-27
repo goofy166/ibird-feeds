@@ -1,8 +1,85 @@
 {
-  "updated": "2026-06-27T07:55:06Z",
-  "updated_utc": "2026-06-27T07:55:06Z",
+  "updated": "2026-06-27T10:17:26Z",
+  "updated_utc": "2026-06-27T10:17:26Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Young country diary: The house martins are back – I can hear the chicks from my bedroom",
+      "link": "https://www.theguardian.com/environment/2026/jun/27/young-country-diary-the-house-martins-are-back-i-can-hear-the-chicks-from-my-bedroom",
+      "summary": "Norfolk: My dad said they hadn’t been on this street for 20 years – so where have they been? Looking out of my bedroom window, I kept seeing movement – something fast and blurry. I",
+      "date": "2026-06-27T10:00:01Z",
+      "image": "https://i.guim.co.uk/img/media/35d926eb9c66806f2904037f2a7215f736f6c455/216_0_2928_2343/master/2928.jpg?width=140&quality=85&auto=format&fit=max&s=fb40a5ba281d7b26aeeba0466b4e1a32",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-27T10:17:10Z"
+    },
+    {
+      "title": "I’m Done Buying into Gear Culture. I Wear One Pair of Shoes for Everything Now.",
+      "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/north-face-altamesa-500-everything-shoe-minimalist/",
+      "summary": "Trading peak performance for mental ease, one writer rejects gear consumerism in favor of zero forethought and a single pair of trail runners. The post I’m Done Buying into Gear Cu",
+      "date": "2026-06-27T09:36:10Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/ryleigh-and-her-shoes.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-06-27T10:17:17Z"
+    },
+    {
+      "title": "7 Exercises to Help You Move Pain-Free On Outdoor Adventures, According to a Physical Therapist",
+      "link": "https://www.outsideonline.com/health/training-performance/exercises-relieve-pain/",
+      "summary": "A physical therapist shares seven exercises that relieve bodywide pain, making running, hiking, and working out easier. The post 7 Exercises to Help You Move Pain-Free On Outdoor A",
+      "date": "2026-06-27T09:00:42Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/pain-free-exercise.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-06-27T10:17:17Z"
+    },
+    {
+      "title": "The best sci-fi novel in 2026 so far – plus 6 other great reads",
+      "link": "https://www.newscientist.com/article/mg27036014-200-the-best-sci-fi-novel-in-2026-so-far-plus-6-other-great-reads/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Sci-fi columnist Emily H. Wilson rounds up her favourite reads of the year to date – and highlights one particular book as her top pick",
+      "date": "2026-06-24T18:00:00Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/22124528/SEI_301917321.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-27T10:17:21Z"
+    },
+    {
+      "title": "Two humpback whales set records swimming between Australia and Brazil",
+      "link": "https://phys.org/news/2026-05-humpback-whales-australia-brazil.html",
+      "summary": "Scientists have spotted two humpback whales that made separate, record-breaking crossings between Australia and Brazil.",
+      "date": "2026-06-27T09:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-humpback-whales-se.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-27T10:17:22Z"
+    },
+    {
+      "title": "AI images are more convincing than ever — infiltrating journals and undermining trust in science",
+      "link": "https://www.livescience.com/technology/artificial-intelligence/ai-images-are-more-convincing-than-ever-infiltrating-journals-and-undermining-trust-in-science",
+      "summary": "Thanks to AI, one of the key pillars of scientific evidence — stunning imagery that often defies belief — is crumbling.",
+      "date": "2026-06-27T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/5jsgvrtXMRyAVFzwKbRmih-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-27T10:17:23Z"
+    },
+    {
+      "title": "How did the Romans build such straight roads?",
+      "link": "https://www.livescience.com/archaeology/romans/how-did-the-romans-build-such-straight-roads",
+      "summary": "The Romans have a reputation for building straight roads — but how did they do it?",
+      "date": "2026-06-27T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/oyHp3vNNd7Z8MeE5LAjopX-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-27T10:17:23Z"
+    },
     {
       "title": "Early Humans May Have Used Fire 1.8 Million Years Ago, Nearly Doubling the Age of the Oldest Known Evidence for the Feat",
       "link": "https://www.smithsonianmag.com/smart-news/early-humans-may-have-used-fire-1-8-million-years-ago-nearly-doubling-the-age-of-the-oldest-known-evidence-for-the-feat-180989015/",
@@ -5425,83 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-06-19T14:16:28Z"
-    },
-    {
-      "title": "Small forest fragments can protect more birds when the surrounding landscape is more helpful",
-      "link": "https://phys.org/news/2026-06-small-forest-fragments-birds-landscape.html",
-      "summary": "Larger areas contain more species. This is one of the most ironclad laws of ecology, which explains why large natural areas usually receive higher priority in conservation strategi",
-      "date": "2026-06-19T13:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/patch-of-trees-from-ab.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-19T14:16:28Z"
-    },
-    {
-      "title": "Microbes destroyed an ancient pterosaur's wingbone, then preserved it for 100 million years",
-      "link": "https://phys.org/news/2026-06-microbes-destroyed-ancient-pterosaur-wingbone.html",
-      "summary": "More than 100 million years ago, a flying reptile called a pterosaur flew over the oceans hunting squid and fish.",
-      "date": "2026-06-19T12:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/microbes-destroyed-an.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-19T14:16:28Z"
-    },
-    {
-      "title": "New research finds major gaps between EU anti-deforestation rules and realities on the ground in Brazil",
-      "link": "https://phys.org/news/2026-06-major-gaps-eu-anti-deforestation.html",
-      "summary": "The U.K. could face significant challenges if it follows the European Union's lead and introduces tougher restrictions on imports linked to deforestation, according to new research",
-      "date": "2026-06-19T12:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cattle-in-brazil.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-19T14:16:28Z"
-    },
-    {
-      "title": "Estrogen levels in both the male and female brain may shape memory's resilience in face of stress",
-      "link": "https://www.livescience.com/health/neuroscience/estrogen-levels-in-both-the-male-and-female-brain-may-shape-memorys-resilience-in-face-of-stress",
-      "summary": "Traumatic experiences can cause memory problems, and estrogen may be a key factor that shapes the brain's resilience against such stressors, a mouse study finds.",
-      "date": "2026-06-19T10:49:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/M8dUGfSCoqoi5258p68mgM-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-19T14:16:29Z"
-    },
-    {
-      "title": "Mainland Australia’s first suspected case of deadly H5N1 investigated after seabird tests positive for bird flu",
-      "link": "https://www.theguardian.com/australia-news/2026/jun/19/australia-bird-flu-deadly-h5n1-first-suspected-case-wa",
-      "summary": "Agriculture minister says no evidence of mass mortality or infection in poultry as WA authorities say a second bird is sick and being tested Get our breaking news email , free app ",
-      "date": "2026-06-19T08:56:19Z",
-      "image": "https://i.guim.co.uk/img/media/421505a79c724d8b7ff1f7aef5d24ca4c2a962ee/649_0_6490_5192/master/6490.jpg?width=140&quality=85&auto=format&fit=max&s=7ad1ebf990fce6a1b1d68d1bac7f9486",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-19T10:50:41Z"
-    },
-    {
-      "title": "For all of Earth, longest sunsets around the solstice",
-      "link": "https://earthsky.org/tonight/longest-sunsets-around-solstices/",
-      "summary": "Here's a natural phenomenon you might never have imagined: the longest sunsets happen around the time of a solstice, no matter where you are on the globe. The post For all of Earth",
-      "date": "2026-06-19T09:45:17Z",
-      "image": "https://earthsky.org/upl/2022/06/Christy-Mandeville_dramatic-sunset-with-child-silhouette_Indian-Shores-FL_2022-jun-08-e1655264484437.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-06-19T10:50:43Z"
-    },
-    {
-      "title": "Does the North Star ever move in the sky?",
-      "link": "https://earthsky.org/astronomy-essentials/north-star-movement/",
-      "summary": "The North Star is a symbol for constancy. But a video or star trails image reveals that it makes its own little circle around the sky's north pole every day. The post Does the Nort",
-      "date": "2026-06-19T08:11:53Z",
-      "image": "https://earthsky.org/upl/2022/06/polaris-north-star-Marcella-Giulia-Pace-Modica-Italy-2023.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-06-19T10:50:43Z"
     }
   ]
 }
