@@ -1,8 +1,30 @@
 {
-  "updated": "2026-06-27T00:16:14Z",
-  "updated_utc": "2026-06-27T00:16:14Z",
+  "updated": "2026-06-27T04:58:20Z",
+  "updated_utc": "2026-06-27T04:58:20Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Early Humans May Have Used Fire 1.8 Million Years Ago, Nearly Doubling the Age of the Oldest Known Evidence for the Feat",
+      "link": "https://www.smithsonianmag.com/smart-news/early-humans-may-have-used-fire-1-8-million-years-ago-nearly-doubling-the-age-of-the-oldest-known-evidence-for-the-feat-180989015/",
+      "summary": "In Wonderwerk Cave in South Africa, burned bones were found in a dirt layer associated with Homo erectus. The inhabitants probably hadn't mastered fire-making, but researchers say ",
+      "date": "2026-06-26T16:59:18Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/LSCV_JzDxkoLUtxjtmwnfiCO8TA=/420x240/filters:focal(900x600:901x601)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b5/55/b5555f1e-4806-4914-97d8-829006a39811/wonderwerk_cave_entrance_credit_michael_chazan.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-06-27T04:58:13Z"
+    },
+    {
+      "title": "Vulnerable butterfly recorded in the Botanical Garden at Uppsala",
+      "link": "https://phys.org/news/2026-06-vulnerable-butterfly-botanical-garden-uppsala.html",
+      "summary": "The Botanical Garden in Uppsala was recently visited by animal ecology researchers, who conducted a BioBlitz to find, identify and record as many insects as possible in the Botanic",
+      "date": "2026-06-27T00:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/vulnerable-butterfly-i.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-06-27T04:58:17Z"
+    },
     {
       "title": "False Indigo (Baptisia) Flower Care and Growing Tips",
       "link": "https://www.birdsandblooms.com/gardening/flower-gardening/false-indigo-baptisia/",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-06-19T10:50:43Z"
-    },
-    {
-      "title": "Overland OGs Share Their Secrets to Thriving Off-Road",
-      "link": "https://www.outsideonline.com/outdoor-gear/cars-trucks/overland-ogs-secrets/",
-      "summary": "We asked Overland Expo West attendees who’ve spent decades off the beaten path for their best packing, rig, and travel advice. The post Overland OGs Share Their Secrets to Thriving",
-      "date": "2026-06-19T10:15:07Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/OG_feature_Bradley_Enlow_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-19T10:50:47Z"
-    },
-    {
-      "title": "No Jet Ski, No Problem. What It’s Like to Paddle into a 70-Foot Wave.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/water-activities/tikanui-smith-surfing/",
-      "summary": "Tahitian big-wave surfer Tikanui Smith prefers to paddle his surfboard into monster waves, rather than be towed behind a jet ski. Smith explains what it's like to ride monster swel",
-      "date": "2026-06-19T09:56:22Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/nazare1.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-19T10:50:47Z"
     }
   ]
 }
