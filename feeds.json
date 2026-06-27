@@ -1,8 +1,19 @@
 {
-  "updated": "2026-06-27T16:12:57Z",
-  "updated_utc": "2026-06-27T16:12:57Z",
+  "updated": "2026-06-27T18:11:01Z",
+  "updated_utc": "2026-06-27T18:11:01Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Newly identified fossil sheds light on evolutionary history of saber-toothed cats",
+      "link": "https://phys.org/news/2026-06-newly-fossil-evolutionary-history-saber.html",
+      "summary": "Fossils tucked away in a museum drawer and identified merely as \"feline\" are actually from a very ancient and enigmatic saber-toothed cat that inhabited North America more than 5 m",
+      "date": "2026-06-27T18:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/newly-identified-fossi-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-27T18:10:57Z"
+    },
     {
       "title": "Climate change is driving capuchin monkey mothers to abandon their infants",
       "link": "https://www.livescience.com/animals/climate-change-is-driving-capuchin-monkey-mothers-to-abandon-their-infants",
@@ -5487,17 +5498,6 @@
       "summary": "In the future, microorganisms could help return hard-to-recycle plastics to the recycling loop. Nick Wierckx, a molecular biologist at Jülich, explains the opportunities offered by",
       "date": "2026-06-19T16:00:02Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/qa-biological-plastic.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-19T17:23:03Z"
-    },
-    {
-      "title": "Younger adults overlook nearby biodiversity as species names fade from memory",
-      "link": "https://phys.org/news/2026-06-younger-adults-overlook-nearby-biodiversity.html",
-      "summary": "Many young adults are familiar with common species such as dandelions or sparrows. In contrast, plants and birds typical of fields, meadows and other agricultural habitats are sign",
-      "date": "2026-06-19T15:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2017/sparrow.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
