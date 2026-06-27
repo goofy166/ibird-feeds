@@ -1,8 +1,19 @@
 {
-  "updated": "2026-06-27T14:49:01Z",
-  "updated_utc": "2026-06-27T14:49:01Z",
+  "updated": "2026-06-27T16:12:57Z",
+  "updated_utc": "2026-06-27T16:12:57Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Climate change is driving capuchin monkey mothers to abandon their infants",
+      "link": "https://www.livescience.com/animals/climate-change-is-driving-capuchin-monkey-mothers-to-abandon-their-infants",
+      "summary": "Large groups have their pros and cons. But a changing climate may push them off balance.",
+      "date": "2026-06-27T15:30:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/TVVdTBwbM7uM8FoQJKyBa8-1280-80.jpg",
+      "name": "Live Science",
+      "category": "butterflies",
+      "color": 14,
+      "fetched_at": "2026-06-27T16:12:55Z"
+    },
     {
       "title": "Research team cuts cost of building reconstituted cell-free systems by 95%",
       "link": "https://phys.org/news/2026-06-team-reconstituted-cell-free.html",
@@ -5487,17 +5498,6 @@
       "summary": "Many young adults are familiar with common species such as dandelions or sparrows. In contrast, plants and birds typical of fields, meadows and other agricultural habitats are sign",
       "date": "2026-06-19T15:30:01Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2017/sparrow.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-19T17:23:03Z"
-    },
-    {
-      "title": "Shining light into unhatched eggs could allow for chicken 'gender reveals'",
-      "link": "https://phys.org/news/2026-06-unhatched-eggs-chicken-gender-reveals.html",
-      "summary": "Scientists have demonstrated a noninvasive technique that uses light to reveal the hidden contents of chicken eggs, potentially helping to curb the meat industry's practice of kill",
-      "date": "2026-06-19T15:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shining-light-into-unh.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
