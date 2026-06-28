@@ -1,8 +1,41 @@
 {
-  "updated": "2026-06-28T14:05:13Z",
-  "updated_utc": "2026-06-28T14:05:13Z",
+  "updated": "2026-06-28T16:19:32Z",
+  "updated_utc": "2026-06-28T16:19:32Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How to Identify an Eastern Meadowlark",
+      "link": "https://www.birdsandblooms.com/birding/bird-species/tanagers-and-blackbirds/eastern-meadowlark/",
+      "summary": "Learn what an eastern meadowlark looks like and where to find this bird species. Also find out what the bird eats and where it builds a nest. The post How to Identify an Eastern Me",
+      "date": "Thu, 11 Jun 2026 20Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/Andy-Raupp2-scaled-e1781204725822.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-06-28T16:19:13Z"
+    },
+    {
+      "title": "Australia boosts shark-spotting drone coverage at Sydney beaches",
+      "link": "https://phys.org/news/2026-06-australia-boosts-shark-drone-coverage.html",
+      "summary": "Australia will expand shark-spotting drone coverage year-round at beaches across Sydney and beyond from July 1, authorities said Sunday, following a rise in attacks and sightings.",
+      "date": "2026-06-28T15:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/australian-lifesavers.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-28T16:19:28Z"
+    },
+    {
+      "title": "Our brains aren't wired to handle this much bad news. But 'looking away is not the fix,' expert says.",
+      "link": "https://www.livescience.com/human-behavior/psychology/our-brains-arent-wired-to-handle-this-much-bad-news-but-looking-away-is-not-the-fix-expert-says",
+      "summary": "Around 40% of people around the world are avoiding the news. Here's why, according to a psychologist.",
+      "date": "2026-06-28T16:15:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/DdfvEJiv24eF5gjwYKrpuK-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-28T16:19:29Z"
+    },
     {
       "title": "Three Photos: Caged Birds of Kabul, Afghanistan",
       "link": "https://www.10000birds.com/three-photos-caged-birds-of-kabul-afghanistan.htm?utm_source=rss&utm_medium=rss&utm_campaign=three-photos-caged-birds-of-kabul-afghanistan",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-06-20T08:25:11Z"
-    },
-    {
-      "title": "The one film to watch before seeing Steven Spielberg’s Disclosure Day",
-      "link": "https://www.newscientist.com/article/2530057-the-one-film-to-watch-before-seeing-steven-spielbergs-disclosure-day/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "With Steven Spielberg’s new extraterrestrial film Disclosure Day just out, it’s the ideal time to watch Close Encounters of the Third Kind – perhaps the perfect UFO film, says film",
-      "date": "Thu, 11 Jun 2026 11Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/11101858/sei300638943.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-20T08:25:22Z"
-    },
-    {
-      "title": "Australia detects first case of contagious H5 bird flu",
-      "link": "https://phys.org/news/2026-06-australia-case-contagious-h5-bird.html",
-      "summary": "Scientists have detected the H5 strain of bird flu in Australia for the first time, the country's agriculture minister said Saturday, meaning the highly contagious variant has now ",
-      "date": "2026-06-20T06:55:27Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/australia-detects-firs.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-20T08:25:23Z"
-    },
-    {
-      "title": "Anthony Albanese says Australia’s first mainland case of deadly H5N1 bird flu ‘concerning’",
-      "link": "https://www.theguardian.com/australia-news/2026/jun/20/australia-confirms-first-case-of-h5n1-bird-flu",
-      "summary": "Tests taken in Western Australia suggest a second bird was also infected, but there is no evidence poultry or agriculture systems are affected Get our breaking news email , free ap",
-      "date": "2026-06-20T02:55:13Z",
-      "image": "https://i.guim.co.uk/img/media/f2f8a47a29f191fffc6780b6a4734691034a9ff9/78_0_5243_4194/master/5243.jpg?width=140&quality=85&auto=format&fit=max&s=cc315444a3e01d95ab2013f754f451f2",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-20T04:20:45Z"
     }
   ]
 }
