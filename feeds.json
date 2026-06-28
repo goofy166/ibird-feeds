@@ -1,8 +1,30 @@
 {
-  "updated": "2026-06-28T05:23:01Z",
-  "updated_utc": "2026-06-28T05:23:01Z",
+  "updated": "2026-06-28T09:23:13Z",
+  "updated_utc": "2026-06-28T09:23:13Z",
   "count": 500,
   "stories": [
+    {
+      "title": "What Norway’s Champion Endurance Athletes Can Teach Us About Strength Training",
+      "link": "https://www.outsideonline.com/health/training-performance/norwegian-training-method/",
+      "summary": "Everyone is emulating Norwegian threshold workouts. How does that apply in the weight room? The post What Norway’s Champion Endurance Athletes Can Teach Us About Strength Training ",
+      "date": "2026-06-28T09:14:15Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/klaebo.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-06-28T09:23:04Z"
+    },
+    {
+      "title": "Why does metal stick together in space?",
+      "link": "https://www.livescience.com/chemistry/why-does-metal-stick-together-in-space",
+      "summary": "If you push two metal plates together on Earth, nothing happens. In space, they can fuse into one. Here's why.",
+      "date": "2026-06-28T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ksppPvmN7dJbzPVGMxsecB-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-28T09:23:10Z"
+    },
     {
       "title": "Female baboons keep family bonds strong: Research reveals the benefits",
       "link": "https://phys.org/news/2026-06-female-baboons-family-bonds-strong.html",
@@ -5480,28 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-06-19T17:22:48Z"
-    },
-    {
-      "title": "Archaeologists Discover Evidence a Wooden Prototype for Stonehenge May Have Aligned With the Solstice 500 Years Before the Stone Circle",
-      "link": "https://www.smithsonianmag.com/smart-news/archaeologists-discover-evidence-a-wooden-prototype-for-stonehenge-may-have-aligned-with-the-solstice-500-years-before-the-stone-circle-180988988/",
-      "summary": "The remains of a wooden monument in southern England, three miles away from Stonehenge, may demonstrate Neolithic people's interest in the heavens",
-      "date": "2026-06-19T16:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/ue3UnRB52DmhJ4mYzMBJo0X2WM4=/420x240/filters:focal(2100x1400:2101x1401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5a/00/5a000fa7-b6e9-4d55-b926-04710c61bded/stonehenge.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-19T17:23:00Z"
-    },
-    {
-      "title": "Gas from Uranus reveals it has an icy centre",
-      "link": "https://www.newscientist.com/article/2531117-gas-from-uranus-reveals-it-has-an-icy-centre/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Carbon monoxide in Uranus's deep atmosphere indicates that the planet contains more ice than rock, suggesting it formed more like Neptune than we thought",
-      "date": "2026-06-19T13:28:38Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/19122108/SEI_302066427.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-19T17:23:02Z"
     }
   ]
 }
