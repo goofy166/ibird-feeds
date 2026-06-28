@@ -1,8 +1,96 @@
 {
-  "updated": "2026-06-28T11:52:13Z",
-  "updated_utc": "2026-06-28T11:52:13Z",
+  "updated": "2026-06-28T14:05:13Z",
+  "updated_utc": "2026-06-28T14:05:13Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Three Photos: Caged Birds of Kabul, Afghanistan",
+      "link": "https://www.10000birds.com/three-photos-caged-birds-of-kabul-afghanistan.htm?utm_source=rss&utm_medium=rss&utm_campaign=three-photos-caged-birds-of-kabul-afghanistan",
+      "summary": "Chukar Partridge Eurasian Skylark Long-legged Buzzard Photos taken by Kai Pflug in Kabul in November 2023",
+      "date": "2026-06-28T11:00:00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/06/Caged-Bird-2.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-06-28T14:04:53Z"
+    },
+    {
+      "title": "Ironweed (Vernonia) Plant Care and Growing Tips",
+      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/ironweed-plant-vernonia/",
+      "summary": "Attract more birds and butterflies by including native plants such as ironweed in your landscape. Here's how to grow ironweed plants. The post Ironweed (Vernonia) Plant Care and Gr",
+      "date": "Thu, 11 Jun 2026 17Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/308263534_1_Nancy_Jones_BNB_PC_2022-scaled-e1781195090695.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-06-28T14:04:55Z"
+    },
+    {
+      "title": "A lunar quarantine facility to protect from alien microbes?",
+      "link": "https://earthsky.org/space/lunar-quarantine-protect-earth-invasive-alien-species/",
+      "summary": "Scientists are proposing a lunar quarantine facility on the moon to protect Earth from possible alien microbes. Do we need one? The post A lunar quarantine facility to protect from",
+      "date": "2026-06-28T12:00:09Z",
+      "image": "https://earthsky.org/upl/2023/09/asteroid-sample-big-reveal-Bennu-oct-2023-e1696882036636.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-06-28T14:05:00Z"
+    },
+    {
+      "title": "Scientists uncover evolutionary edge behind plant invasions",
+      "link": "https://phys.org/news/2026-06-scientists-uncover-evolutionary-edge-invasions.html",
+      "summary": "Plants that become invasive may owe their success to an advantage shaped long before they arrive, according to new research led by King's College London.",
+      "date": "2026-06-28T13:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/poppy-plant.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-28T14:05:10Z"
+    },
+    {
+      "title": "Oxygen atoms in 15‑million‑year‑old giant eggshells reveal how plants reacted to a hotter Earth",
+      "link": "https://phys.org/news/2026-06-oxygen-atoms-15millionyearold-giant-eggshells.html",
+      "summary": "Some periods in Earth's history are so different from our own that they may as well belong to another planet. Many people are interested in the age of dinosaurs or the Ice Ages, bu",
+      "date": "2026-06-28T12:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oxygen-atoms-in-15mill.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-28T14:05:10Z"
+    },
+    {
+      "title": "'The fate of Earth depends on a delicate balance': Our planet may survive the death of the sun after all, new models hint",
+      "link": "https://www.livescience.com/space/the-sun/the-fate-of-earth-depends-on-a-delicate-balance-our-planet-may-survive-the-death-of-the-sun-after-all-new-models-hint",
+      "summary": "When the sun dies, it will become hundreds of times its current size and engulf the innermost planets. Earth may escape this infernal fate, according to state-of-the-art stellar ev",
+      "date": "2026-06-28T14:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/EbCmfh7js4SaheTin9jhMW-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-28T14:05:11Z"
+    },
+    {
+      "title": "Computer scientists are rushing to tame tame AI's voracious appetite for energy",
+      "link": "https://www.livescience.com/technology/artificial-intelligence/computer-scientists-are-rushing-to-tame-tame-ais-voracious-appetite-for-energy",
+      "summary": "Scientists are exploring new algorithms, hardware and computing methods to lower AI's power demands. Strategic siting of datacenters and other steps to increase green energy use ar",
+      "date": "2026-06-28T13:10:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/owtE3x9Tp8dGsJfhmPzTpH-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-28T14:05:11Z"
+    },
+    {
+      "title": "Rise in cancer in younger adults may be explained by faster 'biological aging,' early study hints",
+      "link": "https://www.livescience.com/health/cancer/rise-in-cancer-in-younger-adults-may-be-explained-by-faster-biological-aging-early-study-hints",
+      "summary": "Researchers report that younger adults with older‑than‑expected biological ages are more likely to develop early‑onset lung, gastrointestinal and uterine cancers, but more research",
+      "date": "2026-06-28T12:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/kg8TM9ceCSMp8cQ3cLmGgS-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-06-28T14:05:11Z"
+    },
     {
       "title": "Will Earth survive the red giant sun? New research suggests yes",
       "link": "https://earthsky.org/space/will-earth-survive-suns-death-red-giant-star/",
@@ -5414,94 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-06-20T04:20:45Z"
-    },
-    {
-      "title": "From birds to fish, how extreme heat causes wildlife to suffer",
-      "link": "https://phys.org/news/2026-06-birds-fish-extreme-wildlife.html",
-      "summary": "Like humans, wildlife is increasingly vulnerable as climate change fuels longer and more intense heat waves, disrupting feeding and breeding and, in extreme cases, proving fatal.",
-      "date": "2026-06-19T21:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/birds-are-particularly.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-19T23:06:12Z"
-    },
-    {
-      "title": "How to Identify an Eastern Meadowlark",
-      "link": "https://www.birdsandblooms.com/birding/bird-species/tanagers-and-blackbirds/eastern-meadowlark/",
-      "summary": "Learn what an eastern meadowlark looks like and where to find this bird species. Also find out what the bird eats and where it builds a nest. The post How to Identify an Eastern Me",
-      "date": "Thu, 11 Jun 2026 20Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/Andy-Raupp2-scaled-e1781204725822.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-06-19T21:17:09Z"
-    },
-    {
-      "title": "Faecal transplant makes the brains of old mice act young again",
-      "link": "https://www.newscientist.com/article/2531241-faecal-transplant-makes-the-brains-of-old-mice-act-young-again/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Older mice that received a faecal microbiome transplant from younger animals went on to have improved brain plasticity, which meant their brains could overcome a neurological condi",
-      "date": "2026-06-19T17:48:29Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/19174058/SEI_302089664.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-19T21:17:23Z"
-    },
-    {
-      "title": "We've found a mysterious substance on Titan and Pluto",
-      "link": "https://www.newscientist.com/article/2531107-weve-found-a-mysterious-substance-on-titan-and-pluto/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Something is absorbing light on the surfaces of Pluto and Saturn’s moon Titan, and figuring out what it is could be crucial to understanding Titan’s complex chemistry",
-      "date": "2026-06-19T17:00:01Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/19145041/SEI_302060273.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-19T21:17:23Z"
-    },
-    {
-      "title": "Most portable air conditioners suck – but there's an easy fix",
-      "link": "https://www.newscientist.com/article/2530899-most-portable-air-conditioners-suck-but-theres-an-easy-fix/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Efficiency ratings on portable air conditioners don’t give consumers the full picture, and one type of aircon unit is so inefficient that it should be banned, says Michael Le Page",
-      "date": "2026-06-19T16:08:41Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/19122000/SEI_301922545.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-19T21:17:23Z"
-    },
-    {
-      "title": "11 Popular Annual Flowers You Need in Your Garden",
-      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/popular-annual-flowers/",
-      "summary": "Want to grow a flower garden but not sure where to start? These popular annual flowers are beloved by gardeners for a reason! The post 11 Popular Annual Flowers You Need in Your Ga",
-      "date": "Thu, 04 Jun 2026 15Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/Petunia_WandaGantt-e1780584898121.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-06-19T19:57:46Z"
-    },
-    {
-      "title": "How to Help Monarchs: Do’s and Don’ts to Support Butterflies",
-      "link": "https://www.birdsandblooms.com/gardening/attracting-butterflies/how-to-help-monarchs/",
-      "summary": "Find out what you should and shouldn’t do to safely support and help monarch butterflies in your own backyard. The post How to Help Monarchs: Do’s and Don’ts to Support Butterflies",
-      "date": "2026-05-27T20:57:50Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/05/15_Cynthia-Farr-Weinfeld_BNBja26.jpg?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-06-19T19:57:46Z"
-    },
-    {
-      "title": "Stressed-out soil bacteria adapt to environmental conditions",
-      "link": "https://phys.org/news/2026-06-stressed-soil-bacteria-environmental-conditions.html",
-      "summary": "A new study from Caltech demonstrates that soil bacteria can adapt under stress, particularly when a key nutrient, phosphorus, is running low in their environment. The work is impo",
-      "date": "2026-06-19T19:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/stressed-out-soil-bact-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-19T19:58:01Z"
     }
   ]
 }
