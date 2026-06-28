@@ -1,8 +1,19 @@
 {
-  "updated": "2026-06-27T22:09:55Z",
-  "updated_utc": "2026-06-27T22:09:55Z",
+  "updated": "2026-06-28T00:09:50Z",
+  "updated_utc": "2026-06-28T00:09:50Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Female baboons keep family bonds strong: Research reveals the benefits",
+      "link": "https://phys.org/news/2026-06-female-baboons-family-bonds-strong.html",
+      "summary": "Baboons are one of the most widespread of Africa's primate groups. They range across sub-Saharan Africa and into the Arabian Peninsula. Baboons' ability to spread across such a vas",
+      "date": "2026-06-27T23:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/baboon.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-28T00:09:46Z"
+    },
     {
       "title": "Peptide alternative to antibiotics could combat antimicrobial resistance crisis",
       "link": "https://phys.org/news/2026-06-peptide-alternative-antibiotics-combat-antimicrobial.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-06-19T17:23:02Z"
-    },
-    {
-      "title": "Plant hormones in mammals challenge view of cytokinins as purely botanical",
-      "link": "https://phys.org/news/2026-06-hormones-mammals-view-cytokinins-purely.html",
-      "summary": "In biology, cytokinins were long considered regulators exclusive to the plant kingdom, where they control, among other things, growth and responses to stress. Until now, little res",
-      "date": "2026-06-19T17:00:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-reveals-plant-ho.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-19T17:23:03Z"
     }
   ]
 }
