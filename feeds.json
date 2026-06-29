@@ -1,8 +1,41 @@
 {
-  "updated": "2026-06-29T00:15:22Z",
-  "updated_utc": "2026-06-29T00:15:22Z",
+  "updated": "2026-06-29T05:57:36Z",
+  "updated_utc": "2026-06-29T05:57:36Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: There’s no blackbird song like the one on my street | Josie George",
+      "link": "https://www.theguardian.com/environment/2026/jun/29/country-diary-theres-no-blackbird-song-like-the-one-on-my-street",
+      "summary": "Stoke-on-Trent, Staffordshire: With summer’s great silence coming, we must enjoy the birdsong while we can – as I have done with my local conifer crooner I have two summer earworms",
+      "date": "2026-06-29T04:30:28Z",
+      "image": "https://i.guim.co.uk/img/media/fe6394eb6aaa8c983bc25b48b35fe2ddd9cc919c/450_0_3473_2779/master/3473.jpg?width=140&quality=85&auto=format&fit=max&s=b05404a1c3e0cea08d36dfe718c0df04",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-29T05:57:22Z"
+    },
+    {
+      "title": "A deadly strain of bird flu has landed on Australian shores. Does it pose a risk to pets?",
+      "link": "https://www.theguardian.com/australia-news/2026/jun/29/h5n1-bird-flu-australia-risk-to-pets",
+      "summary": "The H5N1 virus can be fatal to cats and dogs but cases are infrequent and may be mistaken for other illnesses Follow our Australia news live blog for latest updates Get our breakin",
+      "date": "2026-06-29T00:36:29Z",
+      "image": "https://i.guim.co.uk/img/media/49c6a48237ef383b780ad0491d8002dcca17417a/867_695_2372_1898/master/2372.jpg?width=140&quality=85&auto=format&fit=max&s=9b4ced35a8f1b4e7cf1c6712805963e7",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-29T05:57:22Z"
+    },
+    {
+      "title": "The order of species loss alters how grasslands maintain stability, study finds",
+      "link": "https://phys.org/news/2026-06-species-loss-grasslands-stability.html",
+      "summary": "Grasslands account for roughly 40% of terrestrial ecosystems and are paramount to global food security. Wild grasslands provide food for livestock and habitat for pollinators and a",
+      "date": "2026-06-29T04:10:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/grasslands.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-06-29T05:57:33Z"
+    },
     {
       "title": "Lost megalodon vertebrae resurface, confirming 80-foot size estimate",
       "link": "https://phys.org/news/2026-06-lost-megalodon-vertebrae-resurface-foot.html",
@@ -5469,39 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-06-20T11:22:57Z"
-    },
-    {
-      "title": "Skeleton of the world’s rarest marine mammal preserved by digital imaging",
-      "link": "https://www.theguardian.com/environment/2026/jun/20/vaquita-porpoise-worlds-rarest-skeleton-preserved-digital-imaging-aoe",
-      "summary": "The reconstruction of the vaquita, whose numbers barely reach double figures in the wild, is designed to help research and conservation efforts Scientists have created a digital re",
-      "date": "2026-06-20T11:00:02Z",
-      "image": "https://i.guim.co.uk/img/media/23648d81cb72b4ec5741d77d44631256c4d9582d/547_438_3773_3018/master/3773.jpg?width=140&quality=85&auto=format&fit=max&s=6123108fe05cc83f0433725c0d7634d0",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-20T11:23:03Z"
-    },
-    {
-      "title": "How Drag Me Outside Is Rebranding Queer Nature Walks in Portland",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/drag-me-outside-portland-queer-hiking/",
-      "summary": "Meet Drag Me Outside, a Portland, Oregon, hiking group fusing queer community with biology. The post How Drag Me Outside Is Rebranding Queer Nature Walks in Portland appeared first",
-      "date": "2026-06-20T11:07:13Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/Copy-of-Untitled-Design-1.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-20T11:23:09Z"
-    },
-    {
-      "title": "Is NASA falling out of love with Mars?",
-      "link": "https://www.sciencenews.org/article/nasa-mars-exploration-july-2026-ed-note",
-      "summary": "Editor in chief Nancy Shute discusses NASA's rocky relationship with Mars exploration.",
-      "date": "2026-06-20T11:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/01/cropped-favicon.jpg?w=32",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-06-20T11:23:12Z"
     }
   ]
 }
