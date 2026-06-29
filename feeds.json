@@ -1,8 +1,96 @@
 {
-  "updated": "2026-06-29T21:39:47Z",
-  "updated_utc": "2026-06-29T21:39:47Z",
+  "updated": "2026-06-29T23:05:15Z",
+  "updated_utc": "2026-06-29T23:05:15Z",
   "count": 500,
   "stories": [
+    {
+      "title": "North Bay beekeepers battle climate swings to continue legacy of honeymaking",
+      "link": "https://www.mercurynews.com/2026/06/22/north-bay-beekeepers-battle-climate-swings-to-continue-legacy-of-honeymaking/",
+      "summary": "Longtime beekeepers say climate change impacts driving extreme heat, disease and pests are increasingly harming their hives. But there are still beekeepers trying their hand at man",
+      "date": "2026-06-22T14:59:10Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/NBJ-L-BEEISSUES-062226-05.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-06-29T23:05:05Z"
+    },
+    {
+      "title": "After the Founders Declared Independence, Printers Quickly Translated the Text for German-Speaking Americans",
+      "link": "https://www.smithsonianmag.com/smart-news/after-the-founders-declared-independence-printers-quickly-translated-the-text-for-german-speaking-americans-180989039/",
+      "summary": "The document, printed in a gothic typeface, was translated in Philadelphia. One of two surviving copies is going on display in Berlin ahead of America's 250th birthday",
+      "date": "2026-06-29T22:19:22Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/pwDIP1ZXfqLU7lNl5a-eFpEMFnE=/420x240/filters:focal(364x436:365x437)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e8/87/e887d2ef-6d42-40ec-8ef0-faa173a54fd9/csm_5_erstdruck_der_unabhangigkeitserklarung_der_vereinigten_s-8e030255de20232ac2b97e7512d105d8.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-06-29T23:05:08Z"
+    },
+    {
+      "title": "How menopause radically changes the brain – and what happens after",
+      "link": "https://www.newscientist.com/article/2529751-how-menopause-radically-changes-the-brain-and-what-happens-after/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The brain undergoes a full renovation during menopause. Although these changes are profound, we’re learning that the long-term impact needn’t be all bad",
+      "date": "2026-06-22T16:00:05Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/18103936/SEI_3018099901.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-29T23:05:10Z"
+    },
+    {
+      "title": "Deep inside crocodile skulls, 100 million years of brain evolution barely registers",
+      "link": "https://phys.org/news/2026-06-deep-crocodile-skulls-million-years.html",
+      "summary": "Although modern crocodiles, alligators, caimans and gharials are restricted to the tropics, their fossil record tells a very different story. Ancient crocodylians once inhabited mu",
+      "date": "2026-06-29T22:50:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/whats-in-their-head-lo-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-29T23:05:12Z"
+    },
+    {
+      "title": "Breakthrough for aquaculture: Oral vaccine protects fish from fatal nervous necrosis virus",
+      "link": "https://phys.org/news/2026-06-breakthrough-aquaculture-oral-vaccine-fish.html",
+      "summary": "Disease management is a significant aspect of aquaculture, a vital industry and major food source. One of the most serious threats is a disease caused by the nervous necrosis virus",
+      "date": "2026-06-29T22:40:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/breakthrough-for-aquac.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-29T23:05:12Z"
+    },
+    {
+      "title": "Rare inner ear cells point to regenerative hearing treatments",
+      "link": "https://phys.org/news/2026-06-rare-ear-cells-regenerative-treatments.html",
+      "summary": "A study by a team of researchers from the Gray Faculty of Medical and Health Sciences at Tel Aviv University offers new hope to millions of people with irreversible hearing loss. T",
+      "date": "2026-06-29T22:20:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/newly-identified-mecha.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-29T23:05:12Z"
+    },
+    {
+      "title": "New cellular model for rare and deadly melanomas enables study of immunotherapy resistance",
+      "link": "https://phys.org/news/2026-06-cellular-rare-deadly-melanomas-enables.html",
+      "summary": "A research team at the University of Turku in Finland has developed a reliable laboratory model to study BAP1-deficient melanomas, which are a rare type of melanoma that evade the ",
+      "date": "2026-06-29T22:00:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-cellular-model-for.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-29T23:05:12Z"
+    },
+    {
+      "title": "Deep-sea extremophile yields protein that forms super stable biofilm",
+      "link": "https://phys.org/news/2026-06-deep-sea-extremophile-yields-protein.html",
+      "summary": "Scientists discovered a protein secreted by a deep-sea extremophile—an organism adapted to extreme environmental conditions—that self-assembles into a biofilm and is highly stable,",
+      "date": "2026-06-29T21:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/deep-sea-extremophile.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-29T23:05:12Z"
+    },
     {
       "title": "A Shelter is a Wildland Firefighter’s “Last Resort.” The Three Who Died in Colorado Deployed Theirs.",
       "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/what-is-a-wildland-fire-shelter-limits/",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-06-22T21:08:13Z"
-    },
-    {
-      "title": "How thousands of nature's longest sperm squeeze into a tiny fruit fly",
-      "link": "https://phys.org/news/2026-06-thousands-nature-longest-sperm-tiny.html",
-      "summary": "When Jasmin Imran Alsous peered down her microscope lens, she expected to see chaos—a mishmash of tangled cells. She was viewing the inside of a male fruit fly's sperm storage orga",
-      "date": "2026-06-22T18:20:15Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-thousands-of-natur-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-22T21:08:13Z"
-    },
-    {
-      "title": "Why do cats groom each other? Research found that it is not always friendly",
-      "link": "https://phys.org/news/2026-06-cats-groom-friendly.html",
-      "summary": "Cats are the most popular companion animals worldwide, and many people have multiple cats at home. In these multicat households, not all the cats get along equally well. Until rece",
-      "date": "2026-06-22T18:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cats-grooming.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-22T21:08:13Z"
-    },
-    {
-      "title": "Researchers reveal Hong Kong as a 'biodiversity ark' for yellow-crested cockatoos and expand nesting support",
-      "link": "https://phys.org/news/2026-06-reveal-hong-kong-biodiversity-ark.html",
-      "summary": "A new genomic study by researchers from the HKU School of Biological Sciences (SBS) has found that Hong Kong's introduced population of yellow-crested cockatoos retains unexpectedl",
-      "date": "2026-06-22T18:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-reveal-hon.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-22T21:08:13Z"
-    },
-    {
-      "title": "One underlying cause of inflammatory bowel disease pinpointed in new study",
-      "link": "https://www.livescience.com/health/immune-system/one-underlying-cause-of-inflammatory-bowel-disease-pinpointed-in-new-study",
-      "summary": "Autoantibodies may be disabling one of the body's anti-inflammatory brakes in some IBD patients, a new study finds.",
-      "date": "2026-06-22T21:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/SHvwEBYDdLMYsW9EjokSoH-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-22T21:08:14Z"
-    },
-    {
-      "title": "The Best Early Prime Day Deals Under $100 for Birders and Gardeners",
-      "link": "https://www.birdsandblooms.com/stuff-we-love/amazon-prime-day-2026/",
-      "summary": "The countdown is on to the big event but you can still save now! Shop these early Amazon Prime Day deals under $100. The post The Best Early Prime Day Deals Under $100 for Birders ",
-      "date": "2026-06-12T14:34:01Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/05/BNB-Prime-Day-2026_Runway_MLedit.jpg?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-06-22T17:44:13Z"
-    },
-    {
-      "title": "Brown skuas and giant petrels rarely make landfall. When they were found in WA, scientists feared ‘bad news’ for wildlife",
-      "link": "https://www.theguardian.com/environment/2026/jun/23/brown-skuas-giant-petrels-wa-h5n1-bird-flu",
-      "summary": "Experts thought H5N1 bird flu would more likely reach Australia’s north. But an arrival from Antarctica had always been possible Get our breaking news email , free app or daily new",
-      "date": "2026-06-22T15:00:17Z",
-      "image": "https://i.guim.co.uk/img/media/6e0964a3e3444a4a7f94fdedf34f25a62098e4b4/0_1010_3024_2419/master/3024.jpg?width=140&quality=85&auto=format&fit=max&s=d3fe1a3fbb430fadde2f6136bd4e53e4",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-22T17:44:17Z"
-    },
-    {
-      "title": "Whyalla wipeout fears: cuttlefish usually gather in their thousands, but few have appeared since a massive algal bloom",
-      "link": "https://www.theguardian.com/environment/2026/jun/22/south-australia-sa-algal-bloom-whyalla-cuttlefish",
-      "summary": "Divers have observed just a ‘couple of dozen’ of the cephalopods along the heritage-listed Cuttlefish Coast in South Australia, causing locals and marine scientists to worry Get ou",
-      "date": "2026-06-22T15:10:27Z",
-      "image": "https://i.guim.co.uk/img/media/cfae179066543b23ca7b91a5b56926c7c9bc3b69/0_301_2904_2323/master/2904.jpg?width=140&quality=85&auto=format&fit=max&s=f24900b11b88e5b974f0f022bc94e642",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-22T17:44:17Z"
-    },
-    {
-      "title": "Pinocchio frogs seem straight out of a fairy tale",
-      "link": "https://earthsky.org/earth/pinocchio-frogs-fairy-tale/",
-      "summary": "Pinocchio frogs use their extending noses for courtship displays, blending fairy-tale looks with real rainforest survival strategies. The post Pinocchio frogs seem straight out of ",
-      "date": "2026-06-22T12:30:57Z",
-      "image": "https://earthsky.org/upl/2026/06/pinocchio-frog-brownish_ramdanimam-iNaturalist-e1781893748523.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-06-22T17:44:19Z"
     }
   ]
 }
