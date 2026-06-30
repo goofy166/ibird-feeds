@@ -1,8 +1,151 @@
 {
-  "updated": "2026-06-30T20:07:53Z",
-  "updated_utc": "2026-06-30T20:07:53Z",
+  "updated": "2026-06-30T22:18:48Z",
+  "updated_utc": "2026-06-30T22:18:48Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Heavy Flooding Forces Mass Evacuations and Major Road Closures in Glacier National Park",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/glacier-national-park-flooding-closures/",
+      "summary": "Glacier National Park has announced major closures due to severe flooding. Many Glacier is evacuated, and Going-to-the-Sun Road is cut off. The post Heavy Flooding Forces Mass Evac",
+      "date": "Tue, 30 Jun 2026 21Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/GettyImages-1461372097.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-06-30T22:18:39Z"
+    },
+    {
+      "title": "4 Beach Chairs That Will Actually Last More Than a Summer",
+      "link": "https://www.outsideonline.com/outdoor-gear/water-sports-gear/best-beach-chairs/",
+      "summary": "From ultralight packables to nap-ready recliners, these are the beach chairs that delivered. The post 4 Beach Chairs That Will Actually Last More Than a Summer appeared first on Ou",
+      "date": "Tue, 30 Jun 2026 21Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/Best-Beach-Chairs_Averill.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-06-30T22:18:39Z"
+    },
+    {
+      "title": "See These Ancient Etruscan Frescoes That Italy Bought for Millions and Put on Public Display in Rome",
+      "link": "https://www.smithsonianmag.com/smart-news/see-these-ancient-etruscan-frescoes-that-italy-bought-for-millions-and-put-on-public-display-in-rome-180989046/",
+      "summary": "Found in a burial chamber, the artworks depict battles between ancient heroes in the Mediterranean world",
+      "date": "Tue, 30 Jun 2026 20Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/Vz98Qo50oc_z9Rpq308vlvnSn8E=/420x240/filters:focal(600x317:601x318)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e4/40/e44037bb-d5b5-4e65-b843-3c4c6a5df1e7/etruscan_long.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-06-30T22:18:40Z"
+    },
+    {
+      "title": "These 17 Stunning Photos of the Strawberry Moon Show Earth's Natural Satellite in All Its Glory",
+      "link": "https://www.smithsonianmag.com/smart-news/these-17-stunning-photos-of-the-strawberry-moon-show-earths-natural-satellite-in-all-its-glory-180989050/",
+      "summary": "The first full moon of the summer delivered dazzling visuals from across the globe. Its low position in the sky from the perspective of the Northern Hemisphere gave it a golden hue",
+      "date": "Tue, 30 Jun 2026 20Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/1-c2B91rda8PMf_bQgXAdmZr47g=/420x240/filters:focal(2850x1819:2851x1820)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d4/03/d403b20b-2ec2-4e68-9faf-9272fc983b0d/gettyimages-2283948934.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-06-30T22:18:40Z"
+    },
+    {
+      "title": "The world's fastest spider tops 3.5 metres per second",
+      "link": "https://www.newscientist.com/article/2532086-the-worlds-fastest-spider-tops-3-5-metres-per-second/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The most comprehensive database ever compiled of how fast arachnids can run has shown how leg anatomy and evolutionary history influence spiders’ running speed",
+      "date": "Tue, 30 Jun 2026 19Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/30104957/SEI_303478410.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-30T22:18:42Z"
+    },
+    {
+      "title": "The most detailed survey of the universe ever conducted starts now",
+      "link": "https://www.newscientist.com/article/2532167-the-most-detailed-survey-of-the-universe-ever-conducted-starts-now/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The Vera C. Rubin Observatory in Chile is beginning its extraordinary survey of the southern sky, which will use the largest camera ever built to map the solar system, the galaxy a",
+      "date": "Tue, 30 Jun 2026 17Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/29111648/SEI_302961592.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-30T22:18:42Z"
+    },
+    {
+      "title": "This physicist is hunting for the biggest black hole in the universe",
+      "link": "https://www.newscientist.com/article/2530501-this-physicist-is-hunting-for-the-biggest-black-hole-in-the-universe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Astronomers have recently started looking for black holes bigger than galaxies. Brian Lacki explains how these “stupendously large black holes” might be used by alien civilisations",
+      "date": "Tue, 30 Jun 2026 17Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/22120453/SEI_302416564.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-06-30T22:18:42Z"
+    },
+    {
+      "title": "Black locust deploys peptides to steer root bacteria into nitrogen fixation",
+      "link": "https://phys.org/news/2026-06-black-locust-deploys-peptides-root.html",
+      "summary": "Plants need nitrogen to grow. Many legumes meet this need through a symbiotic relationship: They harbor bacteria that fix atmospheric nitrogen and make it available to the plant. U",
+      "date": "2026-06-30T22:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-strategy-for-pla-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-30T22:18:44Z"
+    },
+    {
+      "title": "Jellyfish reveal rapid repair system behind scar-free healing",
+      "link": "https://phys.org/news/2026-06-jellyfish-reveal-rapid-scar-free.html",
+      "summary": "A decade ago this summer, at the Marine Biological Laboratory, Jocelyn Malamy watched jellyfish cells \"walk\" toward each other to close a wound for the first time. An associate pro",
+      "date": "2026-06-30T21:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/jellyfish-uncover-two.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-30T22:18:44Z"
+    },
+    {
+      "title": "Bacteria use linked motors to reel in resistance DNA with extreme force",
+      "link": "https://phys.org/news/2026-06-bacteria-linked-motors-reel-resistance.html",
+      "summary": "Every year, bacteria kill more than a million people worldwide through infections that no longer respond to antibiotics. In many cases, why those bacteria are so hard to stop comes",
+      "date": "2026-06-30T21:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bacteria-use-linked-mo.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-30T22:18:44Z"
+    },
+    {
+      "title": "Warming can shift freshwater crustaceans to a 'greener' diet",
+      "link": "https://phys.org/news/2026-06-shift-freshwater-crustaceans-greener-diet.html",
+      "summary": "Climate change is not only warming our lakes and rivers, it is also changing what invasive species eat. A new experimental study published in Limnology and Oceanography Letters sho",
+      "date": "2026-06-30T21:20:10Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/warming-can-shift-fres.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-30T22:18:44Z"
+    },
+    {
+      "title": "Newly discovered corn trait may help improve crop drought tolerance",
+      "link": "https://phys.org/news/2026-06-newly-corn-trait-crop-drought.html",
+      "summary": "Researchers report some corn plants are genetically predisposed to develop longer, less constricted water-conducting tissues and deeper roots, which helps them deal with drought. T",
+      "date": "2026-06-30T21:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/newly-discovered-corn.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-30T22:18:44Z"
+    },
+    {
+      "title": "Mice actively seek better views to make visual decisions, virtual reality experiments show",
+      "link": "https://phys.org/news/2026-06-mice-views-visual-decisions-virtual.html",
+      "summary": "Animals don't experience the world passively. A hawk tilts its head to track prey. A person leans forward to read a sign. Scientists call this \"active sensing\": moving the body to ",
+      "date": "2026-06-30T20:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/mice.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-30T22:18:44Z"
+    },
     {
       "title": "The Best Way to Keep Algae Out of Your Birdbath",
       "link": "https://www.birdsandblooms.com/birding/attracting-birds/prevent-algae-birdbath/",
@@ -5359,149 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-06-23T18:06:52Z"
-    },
-    {
-      "title": "NASA satellite captures wave of warm water hundreds of miles long that signals a devastatingly strong El Niño",
-      "link": "https://www.livescience.com/planet-earth/nasa-satellite-captures-wave-of-warm-water-hundreds-of-miles-long-that-signals-a-devastatingly-strong-el-nino",
-      "summary": "This year's El Niño is on track to be among the strongest ever recorded.",
-      "date": "Tue, 23 Jun 2026 17Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/inA6MZpL97JRAu3wcERPFE-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-23T18:06:54Z"
-    },
-    {
-      "title": "Something in space may be changing alien signals before they can reach Earth. Scientists have a solution.",
-      "link": "https://www.livescience.com/space/extraterrestrial-life/something-in-space-may-be-changing-alien-signals-before-they-can-reach-earth-scientists-have-a-solution",
-      "summary": "New research suggests that alien radio signals may be transformed by plasma from their home stars — and scientists on Earth could be overlooking prime evidence of alien intelligenc",
-      "date": "Tue, 23 Jun 2026 16Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/UBJMWMdJeUbSSEoBHTQyKG-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-23T18:06:54Z"
-    },
-    {
-      "title": "If You See Cowbird Eggs in a Nest, This Is What to Do",
-      "link": "https://www.birdsandblooms.com/birding/attracting-birds/bird-nesting/cowbird-eggs/",
-      "summary": "Female brown-headed cowbirds lay eggs in other birds' nests. Find out what you should do if you see cowbird eggs. The post If You See Cowbird Eggs in a Nest, This Is What to Do app",
-      "date": "Tue, 23 Jun 2026 13Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/12_BBam23_LindsayArnold2-scaled-e1782221196275.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-06-23T15:56:17Z"
-    },
-    {
-      "title": "Tasmanian devils, swift parrots, black swans: the animals at risk if bird flu takes off in Australia",
-      "link": "https://www.theguardian.com/australia-news/2026/jun/24/h5n1-bird-flu-australia-native-bird-mammal-species-at-risk",
-      "summary": "Federal government identifies more than 150 native and unique bird species and 10 mammal species at ‘very high risk’ Get our breaking news email , free app or daily news podcast Mo",
-      "date": "2026-06-23T15:00:19Z",
-      "image": "https://i.guim.co.uk/img/media/bcd9e1bb46b4b9b342ddc19e87632a0516657200/0_0_4375_3500/master/4375.jpg?width=140&quality=85&auto=format&fit=max&s=f20cdea75ccfb236b540465eed6bf740",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-23T15:56:22Z"
-    },
-    {
-      "title": "Large asteroid to pass Earth, visible in small telescopes!",
-      "link": "https://earthsky.org/space/large-asteroid-visible-telescopes-pass-earth-june-27-2026/",
-      "summary": "On June 27, 2026, a large asteroid will safely pass close by Earth. Observers with small telescopes can watch the asteroid sail by. Finder charts here. The post Large asteroid to p",
-      "date": "Tue, 23 Jun 2026 15Z",
-      "image": "https://earthsky.org/upl/2026/06/batman111-asteroid-Pixabay-e1782220671167.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-06-23T15:56:23Z"
-    },
-    {
-      "title": "Nancy Grace Roman Space Telescope arrives at KSC",
-      "link": "https://earthsky.org/space/nancy-grace-roman-space-telescope/",
-      "summary": "The Nancy Grace Roman Space Telescope has now arrived at Kennedy Space Center. It will be prepped for launch this summer, 8 months ahead of schedule. The post Nancy Grace Roman Spa",
-      "date": "Tue, 23 Jun 2026 09Z",
-      "image": "https://earthsky.org/upl/2025/12/Nancy-Grace-Roman-arrives-KSC-Jun-21-2026-NASA-Amber-Jean-Notvest-e1782223729259.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-06-23T15:56:23Z"
-    },
-    {
-      "title": "Female Dolphins Seem to Remember Which Males Were Aggressive During Mating Season—and May Try to Avoid Them",
-      "link": "https://www.smithsonianmag.com/smart-news/female-dolphins-seem-to-remember-which-males-were-aggressive-during-mating-season-and-may-try-to-avoid-them-180988994/",
-      "summary": "When researchers played underwater recordings of pushy males, females that were capable of becoming pregnant swam away from the sounds",
-      "date": "Tue, 23 Jun 2026 14Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/A07gBWojGmg4WQoI-dXcYNRrCH0=/420x240/filters:focal(3976x2689:3977x2690)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a1/89/a189c22c-9823-487d-b880-1f909ce3b867/indo-pacific-bottlenose.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-23T15:56:29Z"
-    },
-    {
-      "title": "Even ‘safe’ air pollution levels may affect heart health",
-      "link": "https://www.sciencenews.org/article/safe-air-pollution-heart-health",
-      "summary": "An imaging study found early signs of coronary artery disease in people in Canada breathing air that regulators consider clean.",
-      "date": "Tue, 23 Jun 2026 15Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/061126_II_pollution_main_rev.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-06-23T15:56:31Z"
-    },
-    {
-      "title": "A new dino fossil may solve an ancient murder mystery",
-      "link": "https://www.sciencenews.org/article/new-dinosaur-fossil-murder-mystery",
-      "summary": "A newly-described dinosaur, Jian changmaensis , may have glided through northwestern China about 120 million years ago, wreaking havoc on birds.",
-      "date": "Tue, 23 Jun 2026 13Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/061026_AT_birds_main.jpg?w=798",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-06-23T15:56:31Z"
-    },
-    {
-      "title": "Unapproved gene therapy for boosting longevity is set to go on sale",
-      "link": "https://www.newscientist.com/article/2530933-unapproved-gene-therapy-for-boosting-longevity-is-set-to-go-on-sale/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A gene therapy that instructs cells to produce more of an anti-ageing protein called klotho is about to be offered by a US company at overseas clinics to bypass FDA rules",
-      "date": "Tue, 23 Jun 2026 13Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/23114215/SEI_301931303.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-23T15:56:32Z"
-    },
-    {
-      "title": "Natural symbiosis: How plants and microbes share vital nutrients in fragile ecosystems",
-      "link": "https://phys.org/news/2026-06-natural-symbiosis-microbes-vital-nutrients.html",
-      "summary": "Nitrogen is essential for all living organisms, but in many ecosystems it is in short supply. Plants and soil microbes both rely on nitrogen to grow, leading to intense competition",
-      "date": "2026-06-23T15:40:16Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/plants-and-microbes-sh.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-23T15:56:33Z"
-    },
-    {
-      "title": "Amazon fish reveal a synchronized survival tactic that could transfer to drone swarms",
-      "link": "https://phys.org/news/2026-06-amazon-fish-reveal-synchronized-survival.html",
-      "summary": "Some fish swim in synchrony. Others, it turns out, breathe in synchrony. This is true for arapaimas, an obligate air-breathing species living in the Amazon. A new study in Communic",
-      "date": "2026-06-23T14:40:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/and-now-everyone-breat.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-23T15:56:33Z"
-    },
-    {
-      "title": "Study shows the good state of Garraf's fishery resources",
-      "link": "https://phys.org/news/2026-06-good-state-garraf-fishery-resources.html",
-      "summary": "A scientific project launched by the Universitat Autònoma de Barcelona (UAB) in direct collaboration with fishermen in the region has evaluated the state of fishery resources and e",
-      "date": "2026-06-23T14:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/fishing-boat.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-23T15:56:33Z"
     }
   ]
 }
