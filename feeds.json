@@ -1,8 +1,41 @@
 {
-  "updated": "2026-06-29T23:05:15Z",
-  "updated_utc": "2026-06-29T23:05:15Z",
+  "updated": "2026-06-30T04:14:53Z",
+  "updated_utc": "2026-06-30T04:14:53Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Best Prime Day Deals Under $100 for Birders and Gardeners—Last Chance to Save!",
+      "link": "https://www.birdsandblooms.com/stuff-we-love/amazon-prime-day-2026/",
+      "summary": "Amazon Prime Day is officially here! Shop these Amazon Prime Day deals under $100. The post The Best Prime Day Deals Under $100 for Birders and Gardeners—Last Chance to Save! appea",
+      "date": "2026-06-12T14:34:01Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/05/BNB-Prime-Day-2026_Runway_MLedit.jpg?fit=700,1024",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-06-30T04:14:33Z"
+    },
+    {
+      "title": "Country diary: This is as wild and remote as Britain gets – a trip to St Kilda | Nigel Brown",
+      "link": "https://www.theguardian.com/uk-news/2026/jun/26/country-diary-this-is-as-wild-and-remote-as-britain-gets-a-trip-to-st-kilda",
+      "summary": "Outer Hebrides: It’s nearly 100 years since anyone lived on this hostile archipelago, though their ‘village’ remains – as does an astonishing wealth of wildlife Dawn on a deep-roll",
+      "date": "2026-06-30T04:07:54Z",
+      "image": "https://i.guim.co.uk/img/media/e4ba9993124769c3bca795b7502169eed051319b/49_0_1501_1201/master/1501.jpg?width=140&quality=85&auto=format&fit=max&s=0c8849a433ff6fd1738395a68faaaa04",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-06-30T04:14:37Z"
+    },
+    {
+      "title": "Cochlea network model reveals how inner ear may sort sound from noise",
+      "link": "https://phys.org/news/2026-06-cochlea-network-reveals-ear-noise.html",
+      "summary": "Over 70 million people in the U.S. are impacted by hearing loss, and age-related hearing loss is the second most common health problem in older adults, according to the Advanced Re",
+      "date": "2026-06-29T23:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/listening-through-a-ne.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-06-30T04:14:49Z"
+    },
     {
       "title": "North Bay beekeepers battle climate swings to continue legacy of honeymaking",
       "link": "https://www.mercurynews.com/2026/06/22/north-bay-beekeepers-battle-climate-swings-to-continue-legacy-of-honeymaking/",
@@ -5465,39 +5498,6 @@
       "summary": "Habits are often seen as automatic and inflexible behaviors. But a new study, published in Evolution Letters, suggests that habits may have evolved as a way for animals to handle s",
       "date": "2026-06-22T20:20:07Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/foraging.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-22T21:08:13Z"
-    },
-    {
-      "title": "New findings challenge idea that human bodies simply got bigger and bigger over time in a steady line",
-      "link": "https://phys.org/news/2026-06-idea-human-bodies-simply-bigger.html",
-      "summary": "The biggest jump in body size among our ancestors happened around 2–2.5 million years ago, with the appearance of Homo rudolfensis or Homo erectus/ergaster, rather than gradually a",
-      "date": "2026-06-22T19:00:14Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/homo-erectus-family.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-22T21:08:13Z"
-    },
-    {
-      "title": "Crashing insect populations lead to smaller tree swallows that reproduce less",
-      "link": "https://phys.org/news/2026-06-insect-populations-smaller-tree-swallows.html",
-      "summary": "Since the 1970s, the number of insects at Canada's Long Point Bird Observatory has dropped by more than 60%, according to a new study led by the University of Michigan. Because of ",
-      "date": "2026-06-22T19:00:10Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/crashing-insect-popula.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-22T21:08:13Z"
-    },
-    {
-      "title": "Underwater expedition charts seaweed forests in the remote waters of southern Patagonia",
-      "link": "https://phys.org/news/2026-06-underwater-seaweed-forests-remote-southern.html",
-      "summary": "At the icy, wind-swept tip of South America lies Inútil Bay, a remote marine environment in the Tierra del Fuego archipelago that has long guarded its underwater secrets because of",
-      "date": "2026-06-22T18:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/underwater-expedition-1.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
