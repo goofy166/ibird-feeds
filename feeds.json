@@ -1,8 +1,63 @@
 {
-  "updated": "2026-06-30T22:18:48Z",
-  "updated_utc": "2026-06-30T22:18:48Z",
+  "updated": "2026-07-01T00:15:19Z",
+  "updated_utc": "2026-07-01T00:15:19Z",
   "count": 500,
   "stories": [
+    {
+      "title": "If You See Cowbird Eggs in a Nest, This Is What to Do",
+      "link": "https://www.birdsandblooms.com/birding/attracting-birds/bird-nesting/cowbird-eggs/",
+      "summary": "Female brown-headed cowbirds lay eggs in other birds' nests. Find out what you should do if you see cowbird eggs. The post If You See Cowbird Eggs in a Nest, This Is What to Do app",
+      "date": "Tue, 23 Jun 2026 13Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/12_BBam23_LindsayArnold2-scaled-e1782221196275.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-07-01T00:15:00Z"
+    },
+    {
+      "title": "Large asteroid safely passed Earth on June 27",
+      "link": "https://earthsky.org/space/large-asteroid-visible-telescopes-pass-earth-june-27-2026/",
+      "summary": "On June 27, 2026, a large asteroid safely passed close to Earth. Observers with small telescopes watched the asteroid sail by. The post Large asteroid safely passed Earth on June 2",
+      "date": "2026-06-28T12:15:57Z",
+      "image": "https://earthsky.org/upl/2026/06/asteroid-1997NC1_Paolo-Palma_Italy_24Jun2026-e1782386732214.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-07-01T00:15:05Z"
+    },
+    {
+      "title": "Grasslands could lose four times more carbon uptake under future drought conditions",
+      "link": "https://phys.org/news/2026-06-grasslands-carbon-uptake-future-drought.html",
+      "summary": "The effects of individual climate factors on ecosystems are usually considered in isolation. However, in reality, they occur simultaneously and influence each other. Increasing CO2",
+      "date": "2026-06-30T23:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/future-climate-intensi-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-01T00:15:15Z"
+    },
+    {
+      "title": "Shark‑spotting drones are about reassurance—not full protection",
+      "link": "https://phys.org/news/2026-06-sharkspotting-drones-reassurance-full.html",
+      "summary": "Sharks are front of mind for many Sydneysiders and coastal New South Wales residents. In January, a teenager died amid a spate of attacks in and around Sydney. This month, a woman ",
+      "date": "2026-06-30T23:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sydney-beach.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-01T00:15:15Z"
+    },
+    {
+      "title": "Loss of DNA protector gene exposes vulnerabilities in cancerous cells",
+      "link": "https://phys.org/news/2026-06-loss-dna-protector-gene-exposes.html",
+      "summary": "Every time a cell copies its DNA, parts of the genome are exposed and vulnerable to damage or errors. Molecular biologist Simon Boulton is interested in how cells spot and repair d",
+      "date": "2026-06-30T22:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/loss-of-dna-protector.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-01T00:15:15Z"
+    },
     {
       "title": "Heavy Flooding Forces Mass Evacuations and Major Road Closures in Glacier National Park",
       "link": "https://www.outsideonline.com/outdoor-adventure/environment/glacier-national-park-flooding-closures/",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-06-23T18:06:51Z"
-    },
-    {
-      "title": "Researchers find microplastics in hedgehogs—then trace them back to pet food",
-      "link": "https://phys.org/news/2026-06-microplastics-hedgehogs-pet-food.html",
-      "summary": "When colleagues and I found microplastics in hedgehog droppings, we wanted to know where they were coming from. One answer was surprisingly close to home: pet food.",
-      "date": "2026-06-23T18:00:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hedgehog.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-23T18:06:52Z"
-    },
-    {
-      "title": "Yellow mealworms mapped anatomically for the first time",
-      "link": "https://phys.org/news/2026-06-yellow-mealworms-anatomically.html",
-      "summary": "The dried larvae of the yellow mealworm beetle (Tenebrio molitor) are comparable to beef or poultry in nutritional value, but the mealworm has a far smaller ecological footprint. I",
-      "date": "2026-06-23T17:20:12Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/yellow-mealworms-mappe.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-23T18:06:52Z"
-    },
-    {
-      "title": "Although woodland salamanders have looked the same for millions of years, their physiology has evolved rapidly",
-      "link": "https://phys.org/news/2026-06-woodland-salamanders-millions-years-physiology.html",
-      "summary": "For her doctoral dissertation, Yale's Nathalie Alomar decided to study a small amphibian that appeared to have eluded the forces of evolution. She found that there is more to its e",
-      "date": "2026-06-23T17:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-secret-lives-of-sa.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-23T18:06:52Z"
-    },
-    {
-      "title": "500-million-year fossil record reveals corals' symbiotic advantage shifted with changing environments",
-      "link": "https://phys.org/news/2026-06-million-year-fossil-reveals-corals.html",
-      "summary": "Coral reef ecosystems, widely seen as a climate change bellwether, are more complex than previously understood. A new international study by the universities of Bristol, Wuhan in C",
-      "date": "2026-06-23T16:40:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/coral-reef-fish.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-23T18:06:52Z"
-    },
-    {
-      "title": "A new strategy can improve safety in poultry processing",
-      "link": "https://phys.org/news/2026-06-strategy-safety-poultry.html",
-      "summary": "Salmonella is a common source of food poisoning that leads to potentially life-threatening illnesses, widespread food recalls and a consistent challenge for poultry producers. UCon",
-      "date": "2026-06-23T16:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/raw-chicken-tupperware.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-23T18:06:52Z"
     }
   ]
 }
