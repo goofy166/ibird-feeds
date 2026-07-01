@@ -1,8 +1,63 @@
 {
-  "updated": "2026-07-01T21:42:12Z",
-  "updated_utc": "2026-07-01T21:42:12Z",
+  "updated": "2026-07-01T23:22:10Z",
+  "updated_utc": "2026-07-01T23:22:10Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Alexander Hamilton's First National Bank Revolutionized the U.S. Economy. After Sitting Shuttered for Years, the Philadelphia Landmark Reopened as a Museum",
+      "link": "https://www.smithsonianmag.com/smart-news/alexander-hamiltons-first-national-bank-revolutionized-the-us-economy-after-sitting-shuttered-for-years-the-philadelphia-landmark-reopened-as-a-museum-180989056/",
+      "summary": "A controversial idea right after the American Revolution, the First Bank of the United States proved prescient. Visitors can now check out its historic home after a $43 million mak",
+      "date": "2026-07-01T21:30:37Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/f8ANSssySYjgKmtttAA5_5jfhUc=/420x240/filters:focal(960x750:961x751)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/30/9a/309a8008-1d06-48bc-b527-5367d1148b75/first_bank_of_the_united_states_philadelphia_pennsylvania_lccn2011633532_edited.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-01T23:22:02Z"
+    },
+    {
+      "title": "America's First Space Station Proved Humans Could Live and Work in Orbit for Months. Now, the Public Can See What It Looked Like in Person for the First Time in Eight Years",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/americas-first-space-station-proved-humans-could-live-and-work-in-orbit-for-months-now-the-public-can-see-what-it-looked-like-in-person-for-the-first-time-in-eight-years-180989055/",
+      "summary": "A backup version of Skylab was displayed when the Smithsonian’s National Air and Space Museum opened 50 years ago. After renovation of the building, the artifact is once more on vi",
+      "date": "2026-07-01T21:30:03Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/0_wv3EXASReTK6ywlo6m8j1EzXw=/420x240/filters:focal(968x784:969x785)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e5/b2/e5b2bc91-b072-4f31-9b1c-b263a372305d/skylab_sl-4.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-01T23:22:02Z"
+    },
+    {
+      "title": "Hidden for decades, hospital superbug built resistance in waves, peaking in the mid‑2000s",
+      "link": "https://phys.org/news/2026-07-hidden-decades-hospital-superbug-built.html",
+      "summary": "Decades-old hospital samples have helped University of East Anglia (UEA) researchers uncover how a deadly antibiotic-resistant \"superbug\" quietly tightened its grip across the glob",
+      "date": "2026-07-01T23:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hospital-corridor.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-01T23:22:06Z"
+    },
+    {
+      "title": "Over the past 15 years, Brazil has seen a more than 200% increase in non-native mollusk species",
+      "link": "https://phys.org/news/2026-07-years-brazil-native-mollusk-species.html",
+      "summary": "A study published in the journal Biological Invasions indicates that Brazil currently has at least 82 non-native mollusk species, in addition to 13 whose origin cannot be determine",
+      "date": "2026-07-01T23:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/over-the-past-15-years.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-01T23:22:06Z"
+    },
+    {
+      "title": "Fish in a polluted Mexican river may mate with the wrong species, leading to hybrid offspring",
+      "link": "https://phys.org/news/2026-07-fish-polluted-mexican-river-wrong.html",
+      "summary": "The byproducts of modern society appear to be messing with the love life of two tiny fish species that have long coexisted in Mexican rivers.",
+      "date": "2026-07-01T22:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pollution-linked-to-fi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-01T23:22:06Z"
+    },
     {
       "title": "Scientists fear seabird die-off as El Niño looms: ‘We don’t know how bad this will get’",
       "link": "https://www.theguardian.com/us-news/2026/jul/01/el-nino-birds-california",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-06-24T14:47:48Z"
-    },
-    {
-      "title": "One Island, Ten Thousand Pelicans, and a Lake Running Out of Time",
-      "link": "https://www.10000birds.com/one-island-ten-thousand-pelicans-and-a-lake-running-out-of-time.htm?utm_source=rss&utm_medium=rss&utm_campaign=one-island-ten-thousand-pelicans-and-a-lake-running-out-of-time",
-      "summary": "By John Cavitt John Cavitt is a Distinguished Professor of Zoology at Weber State University in Ogden, Utah. For over two decades, his research has focused on the ecology and conse",
-      "date": "2026-06-24T11:27:55Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/06/JFCavittAuthorpic.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-06-24T11:50:34Z"
-    },
-    {
-      "title": "Owl Babies!",
-      "link": "https://www.10000birds.com/owl-babies.htm?utm_source=rss&utm_medium=rss&utm_campaign=owl-babies",
-      "summary": "Owl fledglings are some of the cutest young birds you can see. They look like piles of dryer lint with eyes. But, finding them is the challenge. First, their parents are secretive ",
-      "date": "2026-06-24T11:00:12Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/06/Eastern-Screech-Owlet-Toronto-July-15-2018-1.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-06-24T11:50:34Z"
-    },
-    {
-      "title": "Ecotourism Destinations Protecting Vulnerable Bird Populations",
-      "link": "https://www.10000birds.com/ecotourism-destinations-protecting-vulnerable-bird-populations.htm?utm_source=rss&utm_medium=rss&utm_campaign=ecotourism-destinations-protecting-vulnerable-bird-populations",
-      "summary": "There’s nothing quite like spotting a rare bird in its native habitat. The colors seem more vivid and the call more resonant when you know you’re witnessing something precious and ",
-      "date": "2026-06-24T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/06/image-9.jpeg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-06-24T11:50:34Z"
-    },
-    {
-      "title": "Ask a Bird Guide: Which bird in your area is most overrated?",
-      "link": "https://www.10000birds.com/ask-a-bird-guide-which-bird-in-your-area-is-most-overrated.htm?utm_source=rss&utm_medium=rss&utm_campaign=ask-a-bird-guide-which-bird-in-your-area-is-most-overrated",
-      "summary": "We sent out another list of questions to bird guides who have already been profiled on 10,000 Birds. In the seventh edition of this second series, we ask Which bird in your area is",
-      "date": "2026-06-24T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/05/Mandarin-Duck_DSC6217-Nanhui-Nov-2017.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-06-24T11:50:34Z"
-    },
-    {
-      "title": "‘No one believed it’: how a YouTube video accidentally proved Libya’s sand cat really does exist",
-      "link": "https://www.theguardian.com/environment/2026/jun/24/youtube-video-proved-libya-sand-cat-exist-aoe",
-      "summary": "Wildlife photographer Mohammed Almuntasir had no idea what he had found until scientists started to get in touch When wildlife photographer Mohammed Almuntasir uploaded 18 seconds ",
-      "date": "2026-06-24T11:00:43Z",
-      "image": "https://i.guim.co.uk/img/media/351ce97c12aaf4025bff8de8328ca1556f4c01fb/864_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=dfebe673033ba092e6fa7ed5413bcfed",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-24T11:50:40Z"
     }
   ]
 }
