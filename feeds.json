@@ -1,8 +1,52 @@
 {
-  "updated": "2026-07-01T00:15:19Z",
-  "updated_utc": "2026-07-01T00:15:19Z",
+  "updated": "2026-07-01T05:46:08Z",
+  "updated_utc": "2026-07-01T05:46:08Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Neil the seal wreaks beautiful havoc in southern Tasmania – video",
+      "link": "https://www.theguardian.com/australia-news/video/2026/jul/01/neil-the-seal-wreaks-beautiful-havoc-in-southern-tasmania-video",
+      "summary": "Bollards, cones, fences and LandCruisers stand little chance against a 1,000kg giant known as 'Neil the seal'. The five-and-a-half-year-old elephant seal is already a local legend ",
+      "date": "2026-07-01T05:27:48Z",
+      "image": "https://i.guim.co.uk/img/media/b8c443c3ee57d8050dd778dfcfc240c90d04f858/0_411_993_794/master/993.jpg?width=140&quality=85&auto=format&fit=max&s=d8a11f785f36ea6ce9354885a9124517",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-01T05:45:54Z"
+    },
+    {
+      "title": "Specieswatch: How heatwaves play havoc with bees’ fertility",
+      "link": "https://www.theguardian.com/environment/2026/jul/01/specieswatch-heatwave-bees-fertility-pollination-crops",
+      "summary": "Study reveals extreme heat causes sharp drop with knock-on effect for pollination of food crops in following years We know heatwaves have serious health consequences for humans, bu",
+      "date": "2026-07-01T05:00:26Z",
+      "image": "https://i.guim.co.uk/img/media/ae35d6c68ac3dd67688afc2abde68493108524f8/593_0_3302_2644/master/3302.jpg?width=140&quality=85&auto=format&fit=max&s=7d4da2e4d9ab01e4d5962c9ac460ed9a",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-01T05:45:54Z"
+    },
+    {
+      "title": "Country diary: A story of water pollution, told in seaweed | Sara Hudston",
+      "link": "https://www.theguardian.com/environment/2026/jul/01/country-diary-a-story-of-water-pollution-told-in-seaweed",
+      "summary": "Charmouth, Dorset: On a busy beach day, I find bright green gutweed thriving by the river mouth. It’s resilient – and loves the nutrients found in sewage Charmouth beach is always ",
+      "date": "2026-07-01T04:30:25Z",
+      "image": "https://i.guim.co.uk/img/media/4ec6bc4536180853d577762b825df26cff4add19/57_0_1993_1594/master/1993.jpg?width=140&quality=85&auto=format&fit=max&s=e98455e3c1454ef19bf856b697463acd",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-01T05:45:54Z"
+    },
+    {
+      "title": "New modeling shows where to focus conservation efforts for Australia's endangered alpine ash",
+      "link": "https://phys.org/news/2026-06-focus-efforts-australia-endangered-alpine.html",
+      "summary": "An alpine ash forest is a sight to behold. Alpine ash (Eucalyptus delegatensis) is a tall eucalypt species that grows in the cool, wet mountains of southeastern Australia.",
+      "date": "2026-07-01T00:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-modeling-shows-whe.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-01T05:46:05Z"
+    },
     {
       "title": "If You See Cowbird Eggs in a Nest, This Is What to Do",
       "link": "https://www.birdsandblooms.com/birding/attracting-birds/bird-nesting/cowbird-eggs/",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-06-23T18:06:49Z"
-    },
-    {
-      "title": "These Butterflies Can Live 25 Times Longer Than Their Relatives. They Might Provide Insights Into Healthy Aging in Humans",
-      "link": "https://www.smithsonianmag.com/smart-news/these-butterflies-can-live-25-times-longer-than-their-relatives-they-might-provide-insights-into-healthy-aging-in-humans-180988993/",
-      "summary": "Their unusual diet of pollen—rather than nectar—might partially explain why members of the Heliconius genus live so long, up to nearly a year",
-      "date": "Tue, 23 Jun 2026 15Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/JGNwWiiqS3EZ3-JQRXrM1o8GjP0=/420x240/filters:focal(350x263:351x264)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/eb/5e/eb5e52da-7db5-4907-b369-16097ddb16a8/low-res_p1280781_louise_besta_5.jpg",
-      "name": "Smithsonian",
-      "category": "butterflies",
-      "color": 10,
-      "fetched_at": "2026-06-23T18:06:49Z"
-    },
-    {
-      "title": "The ‘little brain’ may give the aging mind a big boost",
-      "link": "https://www.sciencenews.org/article/cerebellum-brain-aging-boost",
-      "summary": "Most known for its role in movement, the cerebellum could compensate for flagging mental functions elsewhere in the brain.",
-      "date": "Tue, 23 Jun 2026 17Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/061726_JR_cerebellum_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-06-23T18:06:50Z"
-    },
-    {
-      "title": "SpaceX's secretive plans to deliver cargo to Earth from space",
-      "link": "https://www.newscientist.com/article/2531559-spacexs-secretive-plans-to-deliver-cargo-to-earth-from-space/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Not much is known about Starfall, SpaceX's new delivery system, but an assessment published in May revealed its intended purpose",
-      "date": "Tue, 23 Jun 2026 17Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/23163514/SEI_302542725.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-23T18:06:51Z"
-    },
-    {
-      "title": "How some people's brains make an extraordinary recovery from stroke",
-      "link": "https://www.newscientist.com/article/2530146-how-some-peoples-brains-make-an-extraordinary-recovery-from-stroke/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Around a third of people are able to almost fully rebuild their brains after a stroke and uncovering why is pointing the way to better treatments for everyone",
-      "date": "Tue, 23 Jun 2026 15Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/22140106/SEI_3018126521.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-23T18:06:51Z"
     }
   ]
 }
