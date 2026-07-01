@@ -1,8 +1,173 @@
 {
-  "updated": "2026-07-01T13:36:58Z",
-  "updated_utc": "2026-07-01T13:36:58Z",
+  "updated": "2026-07-01T16:31:44Z",
+  "updated_utc": "2026-07-01T16:31:44Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Best Road Running Shoes (Summer 2026)",
+      "link": "https://www.outsideonline.com/outdoor-gear/run/best-running-shoes/",
+      "summary": "We tested more than 100 running shoes and found the 11 we’d recommend to most runners. The post The Best Road Running Shoes (Summer 2026) appeared first on Outside Online .",
+      "date": "2026-07-01T15:30:41Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/road_running_shoes_SS26_h.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-01T16:31:35Z"
+    },
+    {
+      "title": "As France Prepares to Light Up the Statue of Liberty for America's 250th, Peek Into the History of the Symbol of Transatlantic Friendship",
+      "link": "https://www.smithsonianmag.com/smart-news/as-france-prepares-to-light-up-the-statue-of-liberty-for-americas-250th-peek-into-the-history-of-the-symbol-of-translatlantic-friendship-180989047/",
+      "summary": "Here’s how three French idealists—an abolitionist, a sculptor and the engineer behind the Eiffel tower—brought the representation of freedom to life",
+      "date": "2026-07-01T15:11:09Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/C7K5L5meQvWdSg-DV_lCORjGU14=/420x240/filters:focal(512x324:513x325)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/90/58/905857f5-d7a6-4fd8-b1e4-99889f78e2fa/liberty_torch.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-01T16:31:37Z"
+    },
+    {
+      "title": "This Ancient Monolith That Archaeologists Unearthed in Mexico May Depict People Receiving ‘Divine Liquid’ in a Ritual",
+      "link": "https://www.smithsonianmag.com/smart-news/this-ancient-monolith-archaeologists-unearthed-in-mexico-may-depict-people-receiving-divine-liquid-in-a-ritual-180989049/",
+      "summary": "The stela was found with a large, decorated platform and remnants of offerings in the state of Veracruz",
+      "date": "2026-07-01T14:33:20Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/JXdm7hnrmT7xiYQgGROdCNWPu5w=/420x240/filters:focal(445x297:446x298)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9a/dd/9add0478-aa68-4cfe-89a7-c0f469ec83d2/the_discovery_of_a_monolithic_sculpture_measuring_188_meters_-3b62662ebc2ab9298527503389088b56.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-01T16:31:37Z"
+    },
+    {
+      "title": "These Male Fruit Flies Have Sperm That Are Nearly as Long as Their Bodies. Here's How the Cells Don't Become a Tangled Mess",
+      "link": "https://www.smithsonianmag.com/smart-news/these-male-fruit-flies-have-sperm-that-are-nearly-as-long-as-their-bodies-heres-how-the-cells-dont-become-a-tangled-mess-180989054/",
+      "summary": "Males of the species Drosophila melanogaster pack thousands of almost two-millimeter-long sperm cells into significantly smaller storage organs. A new study reveals how they move i",
+      "date": "2026-07-01T14:00:00Z",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c4/40/c4401a97-4f3b-4254-a012-76cb7e8a6f68/single-sperm-timelapse-blue_cj-imran-alsous_smaller.gif",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-01T16:31:37Z"
+    },
+    {
+      "title": "This space telescope is falling. A robotic spacecraft may save it",
+      "link": "https://www.sciencenews.org/article/space-telescope-rescue-mission-nasa-swift",
+      "summary": "A private rocket mission aims to boost NASA’s Swift telescope before its orbit decays, extending its hunt for gamma-ray bursts.",
+      "date": "2026-07-01T15:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/070126_LG_Swift_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-01T16:31:38Z"
+    },
+    {
+      "title": "The weirdness of neutrinos could completely rewrite particle physics",
+      "link": "https://www.newscientist.com/article/2532479-the-weirdness-of-neutrinos-could-completely-rewrite-particle-physics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A philosopher has put forward an argument for rethinking how particles are defined within the standard model of particle physics",
+      "date": "2026-07-01T15:00:29Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/01111331/SEI_303596254.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-01T16:31:39Z"
+    },
+    {
+      "title": "A type of fibre that stimulates GLP-1 release approved for use in food",
+      "link": "https://www.newscientist.com/article/2532336-a-type-of-fibre-that-stimulates-glp-1-release-approved-for-use-in-food/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A form of fibre that boosts the release of the hunger-reducing hormone GLP-1 has been approved as safe by a European regulator, and could be added to foods within a year",
+      "date": "2026-07-01T14:00:56Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/01115749/SEI_303484929.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-01T16:31:39Z"
+    },
+    {
+      "title": "Prickly starfish and urchins are decimating Australia's reefs. But we could find ways to protect them",
+      "link": "https://phys.org/news/2026-07-starfish-urchins-decimating-australia-reefs.html",
+      "summary": "Australia is home to some of the world's most beautiful reefs. This includes the lush Great Southern Reef, which wraps around Australia's southern coastline, and the world-renowned",
+      "date": "2026-07-01T16:20:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/prickly-starfish-and-u.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-01T16:31:40Z"
+    },
+    {
+      "title": "Tooth fossil analysis suggests 'brawn before bite' in early Asian mammals",
+      "link": "https://phys.org/news/2026-07-tooth-fossil-analysis-brawn-early.html",
+      "summary": "An analysis of fossil teeth from mammals that lived in China following the most recent major mass extinction suggests size came before both shape and function as diets diversified.",
+      "date": "2026-07-01T16:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tooth-fossil-analysis.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-01T16:31:40Z"
+    },
+    {
+      "title": "Urokodia! 518-million-year-old fossil shows beginning of spider's bite",
+      "link": "https://phys.org/news/2026-07-urokodia-million-year-fossil-spider.html",
+      "summary": "The earliest evidence of spiders' fangs has been identified in a 518-million-year-old fossil by scientists at the University of Leicester and Yunnan University.",
+      "date": "2026-07-01T15:00:10Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/urokodia-518-million-y.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-01T16:31:40Z"
+    },
+    {
+      "title": "Algae may have launched coral reefs by hijacking coral cells, genetic experiments suggest",
+      "link": "https://phys.org/news/2026-07-algae-coral-reefs-hijacking-cells.html",
+      "summary": "The reefs scattered throughout the tropics arose only after algae took up full-time residence in coral cells, supplying corals with abundant food and enabling them to build extensi",
+      "date": "2026-07-01T15:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-ho-15.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-01T16:31:40Z"
+    },
+    {
+      "title": "Woodcock charge deer to defend nests, footage reveals",
+      "link": "https://phys.org/news/2026-07-woodcock-deer-defend-footage-reveals.html",
+      "summary": "American woodcock, short, plump shorebirds with long, thin beaks, are widely known for their bobbing stride and nasally \"peent\" calls, but not for being aggressive. Yet one April a",
+      "date": "2026-07-01T14:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/woodcock.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-01T16:31:40Z"
+    },
+    {
+      "title": "400-year-old painting reveals a bat's secret diet",
+      "link": "https://phys.org/news/2026-07-year-reveals-secret-diet.html",
+      "summary": "Natural historians have many observational techniques in their toolkit for learning about the natural world: tagging animals with tracking devices, recording sounds, analyzing drop",
+      "date": "2026-07-01T14:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/400-year-old-painting-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-01T16:31:40Z"
+    },
+    {
+      "title": "Scientists propose launching a giant 'airbag' into space to protect us from solar superstorms ‪— and experts say it's 'quite feasible'",
+      "link": "https://www.livescience.com/space/space-exploration/scientists-propose-launching-a-giant-airbag-into-space-to-protect-us-from-solar-superstorms-and-experts-say-its-quite-feasible",
+      "summary": "A new study suggests creating a satellite constellation, dubbed StormWall, that could reduce the impacts of the worst solar storms by more than 50%. The novel plan, which involves ",
+      "date": "2026-07-01T14:13:57Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/YEqphiTUaxC6JMGi57e46U-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-01T16:31:41Z"
+    },
+    {
+      "title": "Study suggests life on Earth has around 1.8 billion years left — but the biosphere might evolve to survive even longer",
+      "link": "https://www.livescience.com/planet-earth/study-suggests-life-on-earth-has-around-1-8-billion-years-left",
+      "summary": "Using complex climate models, researchers have pinned down the point at which life will no longer be able to survive on Earth.",
+      "date": "2026-07-01T13:55:14Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Ph5noLP3gGuzMtmXpV3bqT-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-01T16:31:41Z"
+    },
     {
       "title": "Ask a Bird Guide: Has birding changed for the better or worse in recent years?",
       "link": "https://www.10000birds.com/ask-a-bird-guide-has-birding-changed-for-the-better-or-worse-in-recent-years.htm?utm_source=rss&utm_medium=rss&utm_campaign=ask-a-bird-guide-has-birding-changed-for-the-better-or-worse-in-recent-years",
@@ -5337,171 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-06-23T23:13:38Z"
-    },
-    {
-      "title": "Why warmer seas may not wipe out female fish in some species",
-      "link": "https://phys.org/news/2026-06-warmer-seas-female-fish-species.html",
-      "summary": "In many fish species, water temperature determines the sex of the fry. This biological mechanism threatens to wipe out entire populations because of a shortage of females in the fa",
-      "date": "2026-06-23T23:10:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-impact-of-global-w.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-23T23:13:41Z"
-    },
-    {
-      "title": "Brain growth may explain why birds lay outsized eggs compared with dinosaurs",
-      "link": "https://phys.org/news/2026-06-brain-growth-birds-lay-outsized.html",
-      "summary": "A new study has uncovered a fundamental link between brain size and offspring size, helping to solve a long-standing evolutionary puzzle: Why do birds lay such disproportionately l",
-      "date": "2026-06-23T23:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bigger-brains-bigger-b.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-23T23:13:41Z"
-    },
-    {
-      "title": "Animals are often moved to make way for infrastructure, but we don't know what happens to them next",
-      "link": "https://phys.org/news/2026-06-animals-infrastructure-dont.html",
-      "summary": "When major infrastructure projects are built in rural areas, wildlife is often displaced and moved out of the way. This is called mitigation translocation, and it is a globally rec",
-      "date": "2026-06-23T23:00:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/animal.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-23T23:13:41Z"
-    },
-    {
-      "title": "Pterosaur wing tests suggest modern reconstructions miss major shape diversity",
-      "link": "https://phys.org/news/2026-06-pterosaur-wing-modern-reconstructions-major.html",
-      "summary": "Pterosaurs, the first vertebrates to fly, would have had more diverse wing shapes than current scientific reconstructions suggest, according to new University of Bristol-led resear",
-      "date": "2026-06-23T22:30:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pterosaurs-would-have.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-23T23:13:41Z"
-    },
-    {
-      "title": "New study highlights benefits of crop diversification in arable farming",
-      "link": "https://phys.org/news/2026-06-highlights-benefits-crop-diversification-arable.html",
-      "summary": "Which farming strategies can help agricultural operations better manage yield risks caused by climate change and fluctuating prices in the agricultural product market? A new study ",
-      "date": "2026-06-23T22:20:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-highlights-b.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-23T23:13:41Z"
-    },
-    {
-      "title": "New algorithm identifies disease-linked changes in cells without prior training",
-      "link": "https://phys.org/news/2026-06-algorithm-disease-linked-cells-prior.html",
-      "summary": "A new algorithm could drive breakthroughs in understanding cancer, Alzheimer's disease and other potentially fatal conditions. Researchers from the University of Waterloo developed",
-      "date": "2026-06-23T22:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unlocking-disease-link.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-23T23:13:41Z"
-    },
-    {
-      "title": "Unique instruments automate sample preparation, quality control for cryo-electron microscopy",
-      "link": "https://phys.org/news/2026-06-unique-instruments-automate-sample-quality.html",
-      "summary": "Cryo-electron microscopy (cryo-EM) can help scientists determine the three-dimensional structure of proteins in unprecedented detail. Jacques Dubochet, former group leader at EMBL,",
-      "date": "2026-06-23T21:50:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/easygrid-towards-bette.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-23T23:13:41Z"
-    },
-    {
-      "title": "Researchers provide economic evidence base for shift away from animal testing",
-      "link": "https://phys.org/news/2026-06-economic-evidence-base-shift-animal.html",
-      "summary": "Researchers at Northumbria University have produced new economic evidence demonstrating the significant and growing commercial value of alternatives to animal testing in the U.K., ",
-      "date": "2026-06-23T21:40:10Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/northumbria-researcher.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-23T23:13:41Z"
-    },
-    {
-      "title": "Symbiotic partner-swapping or long-term fidelity? Partnership success between beetles and bacteria revealed",
-      "link": "https://phys.org/news/2026-06-symbiotic-partner-swapping-term-fidelity.html",
-      "summary": "Some insects and microbes develop symbiotic partnerships that become so interdependent they can no longer survive without each other. But how specific are these heritable symbioses",
-      "date": "2026-06-23T21:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/symbiotic-partner-swap-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-23T23:13:41Z"
-    },
-    {
-      "title": "Discovery of how cells maintain their DNA could shield key healthy cells from chemotherapy side effects",
-      "link": "https://phys.org/news/2026-06-discovery-cells-dna-shield-key.html",
-      "summary": "A new study conducted by scientists at the University of Sheffield in collaboration with researchers from UT Southwestern Medical Center in the U.S. has found a protein that could ",
-      "date": "2026-06-23T21:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/discovery-of-how-cells-1.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-06-23T23:13:41Z"
-    },
-    {
-      "title": "'Unequivocal evidence' of the age of Earth's oldest impact crater turns out to be off by half a billion years",
-      "link": "https://www.livescience.com/planet-earth/geology/unequivocal-evidence-of-the-age-of-earths-oldest-impact-crater-turns-out-to-be-off-by-half-a-billion-years",
-      "summary": "A new study updates the age of Earth's oldest known meteorite impact crater, the North Pole Dome crater, which scientists previously claimed was 3.47 billion years old.",
-      "date": "Tue, 23 Jun 2026 22Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/oSctphGYZHdL4FG9BqeR3K-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-23T23:13:42Z"
-    },
-    {
-      "title": "Drug-induced 'brain freeze' may help protect the brain after a stroke, early study suggests",
-      "link": "https://www.livescience.com/health/medicine-drugs/drug-induced-brain-freeze-may-help-protect-the-brain-after-a-stroke-early-study-suggests",
-      "summary": "By tamping down metabolism, a new experimental treatment that induces a hypothermia-like state may slow stroke-associated brain injury, scientists report.",
-      "date": "Tue, 23 Jun 2026 21Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/wMwDiNZwHSPz24J7YWFVFH-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-23T23:13:42Z"
-    },
-    {
-      "title": "A Black Bear Stalked a Hiker for 30 Minutes. What Happened Next Has Experts Talking.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/colorado-bear-attack-apex-park-golden/",
-      "summary": "A popular Colorado trail is closed after a habituated black bear stalked a hiker for 30 minutes, marking the state’s first attack of 2026. The post A Black Bear Stalked a Hiker for",
-      "date": "Tue, 23 Jun 2026 20Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/GettyImages-2179205819.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-23T21:03:42Z"
-    },
-    {
-      "title": "This Magical Curse Written in Greek on a Small Lead Tablet Was Meant to Punish Enemies Nearly 2,000 Years Ago",
-      "link": "https://www.smithsonianmag.com/smart-news/this-magical-curse-written-in-greek-on-a-small-lead-tablet-was-meant-to-punish-enemies-nearly-2000-years-ago-180989001/",
-      "summary": "The lead curse tablet was discovered in a city square in the Netherlands and recently deciphered by researchers in Germany",
-      "date": "Tue, 23 Jun 2026 20Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/-kZyYtwCtezcu1SillkD7PCcyRc=/420x240/filters:focal(1068x712:1069x713)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0c/ee/0ceea63c-9e01-49ef-ad04-372c04cc6874/screenshot_2026-06-23_at_115343am.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-23T21:03:43Z"
-    },
-    {
-      "title": "This Giant, Seven-Story Picnic Basket, Once Home to an Iconic American Brand, Could Be Yours for $8.5 Million",
-      "link": "https://www.smithsonianmag.com/smart-news/this-giant-7-story-picnic-basket-once-home-to-icon-american-brand-longaberger-basket-could-be-yours-for-85-million-180988999/",
-      "summary": "The former Longaberger basket company headquarters in Ohio is for sale to a buyer who is willing to preserve its quirky design",
-      "date": "Tue, 23 Jun 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/mw35n-KreOzVUc66y-wJBi7mfBs=/420x240/filters:focal(960x640:961x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f7/38/f7385472-e57a-44b8-a08c-26746f348ac1/newark-ohio-longaberger-headquarters-front.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-23T21:03:43Z"
     }
   ]
 }
