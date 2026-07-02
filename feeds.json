@@ -1,8 +1,129 @@
 {
-  "updated": "2026-07-02T14:21:02Z",
-  "updated_utc": "2026-07-02T14:21:02Z",
+  "updated": "2026-07-02T16:56:02Z",
+  "updated_utc": "2026-07-02T16:56:02Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Marin Audubon Society closes deal for 323 acres of baylands",
+      "link": "https://www.mercurynews.com/2026/06/16/marin-audubon-society-closes-deal-for-novato-baylands/",
+      "summary": "The $3.4 million purchase is a step toward creating a contiguous corridor of tidal habitat involving hundreds of acres.",
+      "date": "Tue, 16 Jun 2026 14Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/MIJ-L-BAHIA-WETLANDS-0121-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-07-02T16:55:52Z"
+    },
+    {
+      "title": "Mountain lion captured in Redwood City yard",
+      "link": "https://www.mercurynews.com/2026/06/16/mountain-lion-redwood-city/",
+      "summary": "The animal, now wearing a tracking collar, will be released in the Santa Cruz Mountains.",
+      "date": "Tue, 16 Jun 2026 13Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2017/05/sjm-creatures-05xx-05.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-07-02T16:55:52Z"
+    },
+    {
+      "title": "Earth Might Be Home to 20 Million Insect Species—More Than Three Times as Many as Previously Thought, a Study Suggests",
+      "link": "https://www.smithsonianmag.com/smart-news/earth-might-be-home-to-20-million-insect-speciesmore-than-three-times-as-many-as-previously-thought-a-study-suggests-180989062/",
+      "summary": "Recent estimates have come to the consensus that our planet hosts roughly six million insect species. New research reveals that they may have drastically underestimated their count",
+      "date": "Thu, 02 Jul 2026 15Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/aXEZiRVnU86Bl-fF3lbFAA8Bhz8=/420x240/filters:focal(4801x2607:4802x2608)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4e/82/4e82064b-f738-49d4-a886-f5b4ae7a8a70/insect-biodiversity.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-02T16:55:55Z"
+    },
+    {
+      "title": "Massive sturgeon once bred in Britain's rivers, boosting reintroduction hopes",
+      "link": "https://phys.org/news/2026-07-massive-sturgeon-bred-britain-rivers.html",
+      "summary": "Atlantic and European sturgeon once called Britain's rivers home and could do so again, following research using Natural History Museum specimens. These fish are among the biggest ",
+      "date": "2026-07-02T15:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sturgeon-once-bred-in.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-02T16:55:58Z"
+    },
+    {
+      "title": "More colorful songbirds face higher extinction risk",
+      "link": "https://phys.org/news/2026-07-songbirds-higher-extinction.html",
+      "summary": "In the humid jungle of Vietnam, Natalia Ocampo-Peñuela and Monte Neate-Clegg spent hours patiently waiting to spot the rare \"Halloween bird.\" Officially known as the collared laugh",
+      "date": "2026-07-02T15:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/more-colorful-songbird-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-02T16:55:58Z"
+    },
+    {
+      "title": "Honeybee queens push pesticides to eggs to protect themselves over their offspring, research reveals",
+      "link": "https://phys.org/news/2026-07-honeybee-queens-pesticides-eggs-offspring.html",
+      "summary": "Worker bees are the first line of defense when it comes to removing contamination in honeybee colonies, but a queen has her ways, too. A honeybee queen facing chronic exposure to p",
+      "date": "2026-07-02T15:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/honeybee-queens-push-p.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-02T16:55:58Z"
+    },
+    {
+      "title": "Rethinking the governance of human embryo research: Comparing Japan's guidelines with international standards",
+      "link": "https://phys.org/news/2026-07-rethinking-human-embryo-japan-guidelines.html",
+      "summary": "Human embryo models can help researchers study early human development and infertility without relying solely on human embryos. As the technology advances, these models are becomin",
+      "date": "2026-07-02T15:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/embryo-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-02T16:55:58Z"
+    },
+    {
+      "title": "How heat stress triggers emergency programs in plants",
+      "link": "https://phys.org/news/2026-07-stress-triggers-emergency.html",
+      "summary": "Researchers at the Karlsruhe Institute of Technology (KIT) have found how plant cells respond to stress. If their energy supply is disrupted by heat, drought or saline soils, chlor",
+      "date": "2026-07-02T14:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-heat-stress-trigge.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-02T16:55:58Z"
+    },
+    {
+      "title": "James Webb telescope may have discovered a mysterious, never-before-seen substance on Pluto and Titan",
+      "link": "https://www.livescience.com/space/astronomy/james-webb-telescope-may-have-discovered-a-mysterious-never-before-seen-substance-on-pluto-and-titan",
+      "summary": "A new study has identified a very specific wavelength of light missing from both Pluto and Saturn's largest moon, Titan. The surprising signal suggests that these worlds harbor an ",
+      "date": "Thu, 02 Jul 2026 15Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/pvpQpWxmfVGo4B2DxydFDF-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-02T16:55:59Z"
+    },
+    {
+      "title": "Ancient ring discovered underground in Scotland could be a Stonehenge-like monument",
+      "link": "https://www.livescience.com/archaeology/ancient-ring-discovered-underground-in-scotland-could-be-a-stonehenge-like-monument",
+      "summary": "A hidden ring of stones or timbers detected beneath peat at Machrie Moor could represent a previously unknown Neolithic or Bronze Age monument.",
+      "date": "Thu, 02 Jul 2026 14Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/zAyZRiZ68GBS6fXaCn9FbY-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-02T16:55:59Z"
+    },
+    {
+      "title": "11-year-old boy in Canada dies from rabies after waking up with a bat on his face",
+      "link": "https://www.livescience.com/health/viruses-infections-disease/11-year-old-boy-in-canada-dies-from-rabies-after-waking-up-with-a-bat-on-his-face",
+      "summary": "After an 11-year-old boy died of rabies, doctors are urging the public to seek medical attention following exposure to bats, even when no obvious scratches or bite marks are visibl",
+      "date": "Thu, 02 Jul 2026 14Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/bZayMwH3stmigRRVa3PUPB-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-02T16:55:59Z"
+    },
     {
       "title": "Demotivational Posters for Birds (XXXVIII)",
       "link": "https://www.10000birds.com/demotivational-posters-for-birds-xxxviii.htm?utm_source=rss&utm_medium=rss&utm_campaign=demotivational-posters-for-birds-xxxviii",
@@ -5381,127 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-06-24T21:39:32Z"
-    },
-    {
-      "title": "CleanFinder brings browser-based genome editing analysis to labs without coding",
-      "link": "https://phys.org/news/2026-06-cleanfinder-browser-based-genome-analysis.html",
-      "summary": "Genome editing lets scientists rewrite DNA, the instruction manual inside every living cell, with a precision that was unthinkable a generation ago. Technologies such as CRISPR hav",
-      "date": "2026-06-24T21:20:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cleanfinder-freely-ava.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-24T21:39:36Z"
-    },
-    {
-      "title": "Three million years after Lucy walked upright in Africa, the inside story of another landmark journey",
-      "link": "https://phys.org/news/2026-06-million-years-lucy-upright-africa.html",
-      "summary": "There is a special gallery inside the Natural History Museum Abu Dhabi where visitors slow down, lower their voices and often fall silent. In front of them, carefully lit and disar",
-      "date": "2026-06-24T21:20:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/old-bones.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-24T21:39:36Z"
-    },
-    {
-      "title": "Piecing the puzzle of how proteins fit together: Simpler model outperforms leading methods",
-      "link": "https://phys.org/news/2026-06-piecing-puzzle-proteins-simpler-outperforms.html",
-      "summary": "How the proteins in our bodies bind together to form protein complexes plays a critical role in numerous cell functions—staving off diseases, for instance, or transporting ions acr",
-      "date": "2026-06-24T21:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/piecing-the-puzzle-of.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-24T21:39:36Z"
-    },
-    {
-      "title": "Contagious cancer likely crossed an ocean, triggering severe outbreak in Pacific Northwest clams",
-      "link": "https://phys.org/news/2026-06-contagious-cancer-ocean-triggering-severe.html",
-      "summary": "Researchers have identified a severe outbreak of a rare contagious cancer in soft-shell clams in Washington state's Puget Sound and found evidence that the disease was recently int",
-      "date": "2026-06-24T20:50:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/contagious-cancer-like-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-24T21:39:36Z"
-    },
-    {
-      "title": "How mitochondria build their protein factories could help explain energy‑linked disease",
-      "link": "https://phys.org/news/2026-06-mitochondria-protein-factories-energylinked-disease.html",
-      "summary": "In a study published in Nature Communications, researchers at Karolinska Institutet have mapped key steps in the assembly of the mitochondrial ribosome, offering new clues to how d",
-      "date": "2026-06-24T20:40:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-mitochondria-build.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-24T21:39:36Z"
-    },
-    {
-      "title": "Oysters used as living labs reveal unexpected stability in ocean virus populations",
-      "link": "https://phys.org/news/2026-06-oysters-labs-reveal-unexpected-stability.html",
-      "summary": "Oysters filter seawater for food. In the process, they concentrate a wide variety of microorganisms from their environment—including bacteria and viruses—into a tiny space.",
-      "date": "2026-06-24T20:20:12Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oysters-natures-petri.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-24T21:39:36Z"
-    },
-    {
-      "title": "Satellites reveal Earth has a surprising symmetry in the way it reflects light — and it might be tied to the El Niño cycle",
-      "link": "https://www.livescience.com/planet-earth/satellites-reveal-earth-has-a-surprising-symmetry-in-the-way-it-reflects-light-and-it-might-be-tied-to-the-el-nino-cycle",
-      "summary": "Even though the Eastern and Western halves of Earth are fairly different, they reflect the same amount of sunlight, a new study finds.",
-      "date": "2026-06-24T20:01:20Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/aMJCGkbSu2ucA34PVzWJPn-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-24T21:39:37Z"
-    },
-    {
-      "title": "Perennials and Hydrangeas Flopping Over? Here’s What to Do",
-      "link": "https://www.birdsandblooms.com/gardening/gardening-basics/hydrangea-flopping-over/",
-      "summary": "Are your perennials and hydrangeas flopping over in heavy rain? Find out if pruning or staking will help your plants stand tall. The post Perennials and Hydrangeas Flopping Over? H",
-      "date": "2026-06-24T18:46:05Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/GettyImages-1265197370-1-e1782324484370.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-06-24T19:56:55Z"
-    },
-    {
-      "title": "Bald eagle released after more than 25 weeks of rehabilitation",
-      "link": "https://www.mercurynews.com/2026/06/24/bald-eagle-released-after-more-than-25-weeks-of-rehabilitation/",
-      "summary": "The eagle was rescued by the SPCA on Dec. 21, 2025 in Salinas and arrived with a broken coracoid – a bone that connects a bird’s shoulder to its keel and is necessary for flight. W",
-      "date": "2026-06-24T17:48:27Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/MCH-L-SPCAEAGLE-0624-01.jpeg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-06-24T19:57:04Z"
-    },
-    {
-      "title": "The ‘Odyssey,’ One of the World’s Oldest Stories, Gets a Modern Spin With A.I.-Generated Audiobook Narration by the Voice Clone of an Oscar Winner",
-      "link": "https://www.smithsonianmag.com/smart-news/the-odyssey-one-of-the-worlds-oldest-stories-gets-a-modern-spin-with-ai-generated-audiobook-narration-by-the-voice-clone-of-an-oscar-winner-actor-michael-caine-180989006/",
-      "summary": "Meanwhile, other actors are pushing back against the use of artificial intelligence in creative projects, including through a new “human consent” registry tool",
-      "date": "2026-06-24T18:56:21Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/AJMS8XjPyMXzWKXKMkkL5an6gr4=/420x240/filters:focal(2808x1872:2809x1873)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/96/17/96173dd0-8e35-4c49-85f4-e1e45db4118e/homere_odyssee_fondation_martin_bodmer_incunable.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-24T19:57:07Z"
-    },
-    {
-      "title": "A Mars rover found organic carbon just sitting on a rock",
-      "link": "https://www.sciencenews.org/article/mars-carbon-complex-organic-rock",
-      "summary": "The organic molecules could come from life or from ordinary chemistry — only samples returned to Earth can settle it.",
-      "date": "2026-06-24T18:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/062426_FI_Marsorganics_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-06-24T19:57:09Z"
     }
   ]
 }
