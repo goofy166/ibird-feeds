@@ -1,8 +1,63 @@
 {
-  "updated": "2026-07-01T23:22:10Z",
-  "updated_utc": "2026-07-01T23:22:10Z",
+  "updated": "2026-07-02T04:10:18Z",
+  "updated_utc": "2026-07-02T04:10:18Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Have scientists really made a living cell from scratch? Not quite",
+      "link": "https://www.newscientist.com/article/2532689-have-scientists-really-made-a-living-cell-from-scratch-not-quite/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A prototype cell partly capable of replicating itself has been created using 36 existing bacterial genes, but it's not really a living organism – yet",
+      "date": "2026-07-01T21:08:26Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/01201518/SEI_303625606.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-02T04:10:14Z"
+    },
+    {
+      "title": "Quiet outings linked to more frequent dangerous wildlife encounters",
+      "link": "https://phys.org/news/2026-06-quiet-outings-linked-frequent-dangerous.html",
+      "summary": "The more people expand into previously natural areas, the more wildlife and humans step on each other's toes, leading to more interactions that may result in conflict. This include",
+      "date": "2026-07-02T04:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bear-sighting.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-02T04:10:15Z"
+    },
+    {
+      "title": "Huge, specially designed heat pump saves a Norwegian agricultural cooperative millions",
+      "link": "https://phys.org/news/2026-07-huge-specially-norwegian-agricultural-cooperative.html",
+      "summary": "There are some magical limits to how much energy we can get out of a heat pump. This story is about pushing the technical limits. It is about getting more energy out than you put i",
+      "date": "2026-07-02T01:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-huge-specially-desig.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-02T04:10:15Z"
+    },
+    {
+      "title": "Sun-powered sponges may generate 11% of tropical coral reef productivity",
+      "link": "https://phys.org/news/2026-07-sun-powered-sponges-generate-tropical.html",
+      "summary": "In marine environments, sponges tend to eat other organisms to get their nutrients. But a study published in Functional Ecology by researchers at the University of Amsterdam's Inst",
+      "date": "2026-07-02T00:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sponges-use-photosynth.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-02T04:10:15Z"
+    },
+    {
+      "title": "How extreme weather impacts white stork survival in Bulgaria",
+      "link": "https://phys.org/news/2026-07-extreme-weather-impacts-white-stork.html",
+      "summary": "A comprehensive 15-year study published in Biodiversity Data Journal details the growing threat of extreme weather to white storks (Ciconia ciconia) in Bulgaria. The research, whic",
+      "date": "2026-07-02T00:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/white-storks.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-02T04:10:15Z"
+    },
     {
       "title": "Alexander Hamilton's First National Bank Revolutionized the U.S. Economy. After Sitting Shuttered for Years, the Philadelphia Landmark Reopened as a Museum",
       "link": "https://www.smithsonianmag.com/smart-news/alexander-hamiltons-first-national-bank-revolutionized-the-us-economy-after-sitting-shuttered-for-years-the-philadelphia-landmark-reopened-as-a-museum-180989056/",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-06-24T14:47:45Z"
-    },
-    {
-      "title": "Hidden black hole could explain mystery at the heart of our galaxy",
-      "link": "https://www.newscientist.com/article/2531455-hidden-black-hole-could-explain-mystery-at-the-heart-of-our-galaxy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "The area surrounding our galaxy’s central supermassive black hole contains three strangely different populations of stars – but one hidden black hole could explain all of them",
-      "date": "2026-06-24T11:00:33Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/24101320/SEI_302520049.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-24T14:47:46Z"
-    },
-    {
-      "title": "Axolotl-inspired skin matrix may help heal wounds with less scarring",
-      "link": "https://phys.org/news/2026-06-axolotl-skin-matrix-wounds-scarring.html",
-      "summary": "Researchers in Taiwan have developed a cell-free extracellular matrix material from axolotl skin that helped mouse burn wounds close faster and show signs of reduced fibrotic scarr",
-      "date": "2026-06-24T14:20:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/axolotl-inspired-skin.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-24T14:47:47Z"
-    },
-    {
-      "title": "Do hyenas eat livestock and rhinos? Behavioral biologists investigate a surprisingly charming population",
-      "link": "https://phys.org/news/2026-06-hyenas-livestock-rhinos-behavioral-biologists.html",
-      "summary": "For conservation and the management of human–wildlife conflicts, it is of great interest to know which species are eaten by carnivores. Scientists from the Ngorongoro Hyena Project",
-      "date": "2026-06-24T13:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/do-hyenas-eat-livestoc.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-24T14:47:47Z"
-    },
-    {
-      "title": "Hospital workers' phones carry deadly superbugs",
-      "link": "https://phys.org/news/2026-06-hospital-workers-deadly-superbugs.html",
-      "summary": "The largest study of its kind has found hospital workers' phones are carrying the same superbugs that kill millions of people worldwide each year. An international team of research",
-      "date": "2026-06-24T12:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/doctor-using-a-phone.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-24T14:47:47Z"
-    },
-    {
-      "title": "'Weirdos of the sperm whale world' appear to be evolving 2 different dialects, audio recordings suggest",
-      "link": "https://www.livescience.com/animals/whales/weirdos-of-the-sperm-whale-world-appear-to-be-evolving-2-different-dialects",
-      "summary": "Thousands of recordings of sperm whale communications in the Mediterranean Sea reveal that the population might be splitting into two groups with their own dialects.",
-      "date": "2026-06-24T14:01:58Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/pLMoKytK3EYnXKh6Sd2GCd-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-24T14:47:48Z"
     }
   ]
 }
