@@ -1,8 +1,85 @@
 {
-  "updated": "2026-07-03T00:13:43Z",
-  "updated_utc": "2026-07-03T00:13:43Z",
+  "updated": "2026-07-03T04:49:22Z",
+  "updated_utc": "2026-07-03T04:49:22Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Listen to Britain’s dawn chorus of 1976: the dramatic loss of birdsong in 50 years",
+      "link": "https://www.theguardian.com/environment/2026/jul/03/dawn-chorus-uk-birdsong-50-years-audio-landscape",
+      "summary": "Guardian recreates audio landscape of past filled by loud morning symphony before 73m wild birds were lost Imagine a deafening abundance of birdsong so loud it wakes your children ",
+      "date": "2026-07-03T04:00:19Z",
+      "image": "https://i.guim.co.uk/img/media/80fabee95b319ec005de4e18d512acbcb4dce344/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=394d987579a2829222a3213eedc3e73a",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-03T04:49:07Z"
+    },
+    {
+      "title": "Dolphins increasingly rely on trawlers for food in overfished Adriatic, say scientists",
+      "link": "https://www.theguardian.com/environment/2026/jul/03/dolphins-scavenging-food-trawlers-adriatic-study",
+      "summary": "In one area 76% of fishing boats were followed, with baby dolphins learning the technique from their parents Bottlenose dolphins in the Adriatic are increasingly following trawlers",
+      "date": "2026-07-03T04:00:18Z",
+      "image": "https://i.guim.co.uk/img/media/bae7a9f796770fe9ab508afd2b549ceede7870c6/1104_0_5392_4316/master/5392.jpg?width=140&quality=85&auto=format&fit=max&s=db94b11e22032df0f29af215852b45a3",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-03T04:49:07Z"
+    },
+    {
+      "title": "NSW records first suspected case of deadly H5 bird flu as virus reaches Australia’s east coast",
+      "link": "https://www.theguardian.com/world/2026/jul/03/bird-flu-australia-first-suspected-case-nsw-deadly-h5n1-virus",
+      "summary": "Migratory giant petrel discovered near Hawks Nest north of Newcastle infected with H5. Testing under way to determine if it’s highly pathogenic H5N1 strain Follow our Australia new",
+      "date": "2026-07-03T03:57:00Z",
+      "image": "https://i.guim.co.uk/img/media/344b059465e841130f939bdda72eefb9f48a63f8/0_0_5163_4131/master/5163.jpg?width=140&quality=85&auto=format&fit=max&s=1d350e1351fe8887353d7d9ebdb04f98",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-03T04:49:07Z"
+    },
+    {
+      "title": "Evocative photos of Canadian Arctic win New Scientist Editors Award",
+      "link": "https://www.newscientist.com/article/2532503-evocative-photos-of-canadian-arctic-win-new-scientist-editors-award/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Natalya Saprunova's photo series exploring coastal erosion and permafrost thaw across Inuvialuit territories in Canada has won the New Scientist Editors Award at the Earth Photo 20",
+      "date": "2026-07-03T00:05:34Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/01104059/sei303483095-1.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-03T04:49:17Z"
+    },
+    {
+      "title": "Bottlenose dolphins in the Adriatic Sea seem to be heavily reliant on trawlers for food",
+      "link": "https://phys.org/news/2026-07-bottlenose-dolphins-adriatic-sea-heavily.html",
+      "summary": "Bottlenose dolphins in the Adriatic Sea are spending much of their time following trawlers to scavenge for food, scientists say. The Adriatic seabed has been plowed by bottom trawl",
+      "date": "2026-07-03T04:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bottlenose-dolphins-in.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-03T04:49:18Z"
+    },
+    {
+      "title": "Feline fleas carry bacteria linked to human disease in South Texas, study finds",
+      "link": "https://phys.org/news/2026-07-feline-fleas-bacteria-linked-human.html",
+      "summary": "As human cases of flea-borne murine typhus continue to occur in South Texas, researchers are working to better understand the role cats and their fleas may play in the disease's tr",
+      "date": "2026-07-03T02:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/feline-fleas-carry-bac.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-03T04:49:18Z"
+    },
+    {
+      "title": "Hantaviruses may have co-evolved with rodents for ages, helping explain silent spread",
+      "link": "https://phys.org/news/2026-07-hantaviruses-evolved-rodents-ages-silent.html",
+      "summary": "What does a hantavirus do inside its rodent hosts? How do these viruses move through animal populations? And how is it that they cause almost no apparent symptoms in rodents, yet c",
+      "date": "2026-07-03T00:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hantavirus-and-rodents-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-03T04:49:18Z"
+    },
     {
       "title": "Swift spacecraft rescue mission delayed after launch issue",
       "link": "https://earthsky.org/space/swift-spacecraft-boost-plunging-back-to-earth/",
@@ -5425,83 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-06-25T14:47:04Z"
-    },
-    {
-      "title": "Acclaimed Ski Mountaineer Guillaume “Gee” Pierrel Dies in an Avalanche on K6",
-      "link": "https://www.outsideonline.com/outdoor-adventure/snow-sports/gee-pierrel-avalanche-k6-pakistan/",
-      "summary": "Acclaimed French ski mountaineer Guillaume \"Gee\" Pierrel has died at age 42 after being caught in an avalanche on K6 in Pakistan. The post Acclaimed Ski Mountaineer Guillaume “Gee”",
-      "date": "Thu, 25 Jun 2026 14Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/gee.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-25T14:47:06Z"
-    },
-    {
-      "title": "This Building Hosted Lincoln's Inaugural Ball and Displayed the Declaration of Independence. Today, It's Home to Two World-Class Art Museums",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/this-building-hosted-lincolns-inaugural-ball-and-displayed-the-declaration-of-independence-today-its-home-to-two-world-class-art-museums-180988990/",
-      "summary": "The Old Patent Office Building now houses the Smithsonian American Art Museum and the National Portrait Gallery. A new exhibition spotlights the structure's rich history of encoura",
-      "date": "Thu, 25 Jun 2026 14Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/ifqdGowoViZN4QMDiaUQq6pnE0U=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ee/d1/eed1cea3-fb66-45d8-920e-8709f5eb7289/11846.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-25T14:47:07Z"
-    },
-    {
-      "title": "Gray Whales Are Getting Struck by Ships in San Francisco Bay. Could This New A.I.-Powered Tech Save Them?",
-      "link": "https://www.smithsonianmag.com/smart-news/gray-whales-are-getting-struck-by-ships-in-san-francisco-bay-could-this-new-ai-powered-tech-save-them-180989009/",
-      "summary": "The recently launched system involves two thermal cameras that can detect gray whales up to four miles away, giving ships enough time to slow down or change course—and avoid runnin",
-      "date": "Thu, 25 Jun 2026 14Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/faCRxn4hzqIYeNCrJohdXAsrUtE=/420x240/filters:focal(375x321:376x322)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/71/16/71162791-8973-4818-91c7-4f27d9f11aff/equipment-ws.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-25T14:47:07Z"
-    },
-    {
-      "title": "How One German Button Maker Searched the Rivers of the American Midwest for the Shells That Could Make Him a Fortune",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/",
-      "summary": "John Boepple settled in Muscatine, Iowa, where he produced pearl buttons made from freshwater mussel shells. His innovations brought economic prosperity to the town—and disaster to",
-      "date": "Thu, 25 Jun 2026 13Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/SZOUWixycwwR72CuLc4Pe4Ef4Sg=/420x240/filters:focal(1232x2018:1233x2019)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ef/3b/ef3b4417-2b07-4c6d-8f69-6ca044e305a5/ebony_shell_to_buttons_copyright_historic_muscatine_inc.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-25T14:47:07Z"
-    },
-    {
-      "title": "We’ve had fire for longer than we thought",
-      "link": "https://www.sciencenews.org/article/hominids-had-fire-longer-than-thought",
-      "summary": "Archaeologists have unearthed new evidence that indicates hominids used fire up to 1.79 million years ago.",
-      "date": "Thu, 25 Jun 2026 13Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/061826_TM_earlyfires_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-06-25T14:47:08Z"
-    },
-    {
-      "title": "Researchers identify dual-function rice gene that boosts drought tolerance and grain yield",
-      "link": "https://phys.org/news/2026-06-dual-function-rice-gene-boosts.html",
-      "summary": "As climate change intensifies droughts and other environmental stresses, maintaining crop productivity has become a major challenge for global agriculture. Drought can impair chlor",
-      "date": "2026-06-25T14:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chonnam-national-unive-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-25T14:47:11Z"
-    },
-    {
-      "title": "Megacluster of bacterial genes reveals four antibiotics that jointly starve rivals of biotin",
-      "link": "https://phys.org/news/2026-06-megacluster-bacterial-genes-reveals-antibiotics.html",
-      "summary": "Researchers at McMaster University have discovered what they describe as a \"megacluster\" of genes in Streptomyces bacteria that produces four antibiotics that work together to stop",
-      "date": "2026-06-25T14:00:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/megacluster-of-bacteri.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-25T14:47:11Z"
     }
   ]
 }
