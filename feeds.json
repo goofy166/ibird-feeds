@@ -1,8 +1,41 @@
 {
-  "updated": "2026-07-03T04:49:22Z",
-  "updated_utc": "2026-07-03T04:49:22Z",
+  "updated": "2026-07-03T08:15:30Z",
+  "updated_utc": "2026-07-03T08:15:30Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Week in wildlife: Neil the seal, a pink grasshopper and condors in love",
+      "link": "https://www.theguardian.com/environment/gallery/2026/jul/03/week-in-wildlife-neil-the-seal-a-pink-grasshopper-and-condors-in-love",
+      "summary": "This week’s best wildlife photographs from around the world Continue reading...",
+      "date": "2026-07-03T07:00:22Z",
+      "image": "https://i.guim.co.uk/img/media/b8571a25a11c274aa2c4c448125c6df45cd92846/861_811_3239_2592/master/3239.jpg?width=140&quality=85&auto=format&fit=max&s=8d41d53be9f4ffa7e927c25bc971931b",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-03T08:15:14Z"
+    },
+    {
+      "title": "Dog days of summer: Hottest in July and August",
+      "link": "https://earthsky.org/earth/dog-days-of-summer/",
+      "summary": "The dog days of summer are named for the Dog Star Sirius - the brightest star in the sky - in the constellation Canis Major the Greater Dog. Learn why here. The post Dog days of su",
+      "date": "2026-07-03T07:30:27Z",
+      "image": "https://earthsky.org/upl/2024/07/East-morning-Sirius-Orion-August-1.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-07-03T08:15:15Z"
+    },
+    {
+      "title": "Japan deploys bear cameras in mountains as attacks surge",
+      "link": "https://phys.org/news/2026-07-japan-deploys-cameras-mountains-surge.html",
+      "summary": "Japan has begun installing hundreds of cameras in its northern mountains as part of a nationwide survey of the bear population following a surge in maulings, an official told AFP o",
+      "date": "2026-07-03T07:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/at-least-five-people-h.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-03T08:15:26Z"
+    },
     {
       "title": "Listen to Britain’s dawn chorus of 1976: the dramatic loss of birdsong in 50 years",
       "link": "https://www.theguardian.com/environment/2026/jul/03/dawn-chorus-uk-birdsong-50-years-audio-landscape",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-06-25T14:47:01Z"
-    },
-    {
-      "title": "NOAA to allocate $21.3 million in support of California’s beleaguered commercial salmon fishery",
-      "link": "https://www.mercurynews.com/2026/06/25/noaa-to-allocate-21-3-million-in-support-californias-beleaguered-commercial-salmon-fishery/",
-      "summary": "The money is part of a long-sought aid package for a West Coast industry hit by declining stocks amid drought, shifting ocean conditions and longstanding effects from dams and othe",
-      "date": "Thu, 25 Jun 2026 12Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/01341d9d-f37f-503c-8fed-58263e25e861.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-06-25T14:47:04Z"
-    },
-    {
-      "title": "Wildlife officials rescue fawn held for weeks in dog crate in Sonoma County",
-      "link": "https://www.mercurynews.com/2026/06/17/wildlife-officials-rescue-fawn-held-for-weeks-in-dog-crate-in-sonoma-county/",
-      "summary": "A Sonoma County resident was cited after state wildlife officials said a fawn was taken from the wild and kept in captivity for more than three weeks.",
-      "date": "2026-06-17T13:46:24Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/TPD-L-fawn-061626-01-e1781646927703.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-06-25T14:47:04Z"
-    },
-    {
-      "title": "Trump administration ups ante in quest to thwart removal of PG&E’s Northern California dams",
-      "link": "https://www.mercurynews.com/2026/06/17/trump-administration-ups-ante-in-quest-to-thwart-removal-of-pges-eel-river-dams/",
-      "summary": "Agriculture Secretary Brooke Rollins sought to breathe more life into the possibility that the Scott and Cape Horn dams could be saved, under the auspices of a water district locat",
-      "date": "2026-06-17T12:53:50Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/TPD-L-RollinsDams-061626-01.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-06-25T14:47:04Z"
     }
   ]
 }
