@@ -1,8 +1,52 @@
 {
-  "updated": "2026-07-02T22:13:35Z",
-  "updated_utc": "2026-07-02T22:13:35Z",
+  "updated": "2026-07-03T00:13:43Z",
+  "updated_utc": "2026-07-03T00:13:43Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Swift spacecraft rescue mission delayed after launch issue",
+      "link": "https://earthsky.org/space/swift-spacecraft-boost-plunging-back-to-earth/",
+      "summary": "NASA is launching a mission to save the Swift spacecraft from falling back to Earth. As of early July 2, three launch attempts have been aborted. The post Swift spacecraft rescue m",
+      "date": "Thu, 02 Jul 2026 11Z",
+      "image": "https://earthsky.org/upl/2026/06/Swift-LINK-push_NASA_webp-1.webp",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-07-03T00:13:30Z"
+    },
+    {
+      "title": "Discarded plastic bottles help save dolphins from fishing nets",
+      "link": "https://phys.org/news/2026-07-discarded-plastic-bottles-dolphins-fishing.html",
+      "summary": "Newcastle University researchers have demonstrated that plastic bottles attached to fishing nets can help dolphins detect and avoid being caught and killed in the deadly gear.",
+      "date": "2026-07-02T23:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/discarded-plastic-bott-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-03T00:13:40Z"
+    },
+    {
+      "title": "More Canadian than the beaver? Scientists discover a western toad found only in Canada",
+      "link": "https://phys.org/news/2026-07-canadian-beaver-scientists-western-toad.html",
+      "summary": "The beaver and moose may be enduring symbols of Canadian wildlife, but neither is uniquely Canadian from a genetic perspective. But a team of researchers from the University of Ott",
+      "date": "2026-07-02T22:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/more-canadian-than-the.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-03T00:13:40Z"
+    },
+    {
+      "title": "Ecological factors, not social behavior, explain brain size in cephalopods",
+      "link": "https://phys.org/news/2026-07-ecological-factors-social-behavior-brain.html",
+      "summary": "Octopuses, squid and cuttlefish may have evolved large brains because of the challenges posed by their environments rather than the demands of social life, according to a new study",
+      "date": "2026-07-02T22:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/octopus-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-03T00:13:40Z"
+    },
     {
       "title": "Visible planets and night sky guide for July",
       "link": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-06-25T14:47:11Z"
-    },
-    {
-      "title": "This single well-known and widespread butterfly is actually three species in disguise",
-      "link": "https://phys.org/news/2026-06-widespread-butterfly-species-disguise.html",
-      "summary": "The tropical rainforests of Central and South America are among the most biodiverse places on Earth. Costa Rica alone is home to half a million species, five times more than exist ",
-      "date": "2026-06-25T13:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/this-single-well-known-1.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-06-25T14:47:11Z"
-    },
-    {
-      "title": "Discovery of enzymes that control pores on leaf surfaces could lead to drought-resistant crops",
-      "link": "https://phys.org/news/2026-06-discovery-enzymes-pores-leaf-surfaces.html",
-      "summary": "A research team at the Ruhr University Bochum Department of Molecular and Cellular Botany, led by Professor Christopher Grefen, has uncovered how plants form the tiny pores on thei",
-      "date": "2026-06-25T13:20:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-paths-for-developi.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-25T14:47:11Z"
-    },
-    {
-      "title": "Why climate change could make staple crops less nutritious—and how CRISPR may help",
-      "link": "https://phys.org/news/2026-06-climate-staple-crops-nutritious-crispr.html",
-      "summary": "At present, more than 700 million people live with caloric hunger, and more than 2 billion suffer from micronutrient deficiencies, known as \"hidden hunger.\" By prioritizing high yi",
-      "date": "2026-06-25T12:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-change-negativ.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-25T14:47:11Z"
-    },
-    {
-      "title": "'This is the next jump in technology': World's first sub-1nm chip keeps Moore's Law alive a little longer",
-      "link": "https://www.livescience.com/technology/quantum/this-is-the-next-jump-in-technology-ibm-reveals-worlds-first-sub-1nm-computer-chip-with-a-pathway-to-0-1nm-transistors-in-the-future",
-      "summary": "IBM's NanoStack architecture has helped scientists cram 100 billion transistors onto a computer chip, delivering 50% better performance and consuming 70% less energy than the curre",
-      "date": "Thu, 25 Jun 2026 13Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/EMXM56PEmzws84krMAk8uJ-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-25T14:47:12Z"
     }
   ]
 }
