@@ -1,8 +1,85 @@
 {
-  "updated": "2026-07-03T16:41:01Z",
-  "updated_utc": "2026-07-03T16:41:01Z",
+  "updated": "2026-07-03T18:17:45Z",
+  "updated_utc": "2026-07-03T18:17:45Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A blackbird with a taste for musicals | Letters",
+      "link": "https://www.theguardian.com/environment/2026/jul/03/a-blackbird-with-a-taste-for-musicals",
+      "summary": "Jane Horne wonders if other readers hear well-known tunes in blackbird song Reading Josie George’s article discussing her resident blackbird and its song ( Country diary, 29 June )",
+      "date": "2026-07-03T16:51:14Z",
+      "image": "https://i.guim.co.uk/img/media/ae529a7d0118934fb6e0d40d1d761625a55afb6d/444_0_4426_3541/master/4426.jpg?width=140&quality=85&auto=format&fit=max&s=61604c29f43529cc9084b280918501b8",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-03T18:17:31Z"
+    },
+    {
+      "title": "Audacious mission to rescue NASA's falling telescope has launched",
+      "link": "https://www.newscientist.com/article/2532627-audacious-mission-to-rescue-nasas-falling-telescope-has-launched/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "NASA’s Swift space telescope is reaching the end of its two-decade run in orbit – unless a satellite launched on 3 July can give it a lifesaving boost",
+      "date": "2026-07-03T14:14:19Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/03141232/SEI_303630320.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-03T18:17:41Z"
+    },
+    {
+      "title": "Giant wheat starch granules—a leap forward in biological engineering with potential benefits for diet, manufacturing",
+      "link": "https://phys.org/news/2026-07-giant-wheat-starch-granules-biological.html",
+      "summary": "Scientists have grown wheat containing supersized starch granules—a leap forward in biological engineering with potential benefits for our daily diets and a raft of industrial appl",
+      "date": "2026-07-03T18:00:10Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/giant-wheat-starch-gra.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-03T18:17:42Z"
+    },
+    {
+      "title": "Mammals use the same underlying system—preserved through evolution—to process smells",
+      "link": "https://phys.org/news/2026-07-mammals-underlying-evolution.html",
+      "summary": "Picture a mouse taking rapid, staccato sniffs of a crumb it's found while foraging for food. Now compare that with a human leaning in for a single, deep inhale to gauge whether a c",
+      "date": "2026-07-03T18:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mice-can-sniff-like-hu-3.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-03T18:17:42Z"
+    },
+    {
+      "title": "Colony connections determine ant wound care: Transitional workers treat injured nestmates",
+      "link": "https://phys.org/news/2026-07-colony-ant-wound-transitional-workers.html",
+      "summary": "Patients in hospitals generally trust the nursing staff. After all, they have undergone training and, in some cases, have several years of professional experience. In the case of c",
+      "date": "2026-07-03T17:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ants-who-looks-after-t.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-03T18:17:42Z"
+    },
+    {
+      "title": "Diminutive species 'the Hobbit' did not hunt or control fire, deepening the mystery of its ancestry, dwarf elephant bones reveal",
+      "link": "https://www.livescience.com/archaeology/human-evolution/diminutive-species-the-hobbit-did-not-hunt-or-control-fire-deepening-the-mystery-of-its-ancestry-dwarf-elephant-bones-reveal",
+      "summary": "The extinct human species Homo floresiensis was a scavenger, not a hunter, an analysis of fossil animal bones reveals.",
+      "date": "2026-07-03T18:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/6qppLo9Wqys4wFpNVEBL85-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-03T18:17:43Z"
+    },
+    {
+      "title": "Elite families ruled nomadic Scythian society 2,500 years ago, DNA analysis reveals",
+      "link": "https://www.livescience.com/archaeology/elite-families-ruled-nomadic-scythian-society-2-500-years-ago-dna-analysis-reveals",
+      "summary": "Nomads of the Eurasian steppe were ruled by elite dynastic families, including women, a large-scale genetic analysis reveals.",
+      "date": "2026-07-03T18:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/7ESrob63LAtZ4tLE6K77jn-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-03T18:17:43Z"
+    },
     {
       "title": "Sea-swallow Summer",
       "link": "https://www.10000birds.com/sea-swallow-summer.htm?utm_source=rss&utm_medium=rss&utm_campaign=sea-swallow-summer",
@@ -5425,83 +5502,6 @@
       "category": "birds",
       "color": 4,
       "fetched_at": "2026-06-25T22:25:48Z"
-    },
-    {
-      "title": "28 Common ANTS in North America! (2026)",
-      "link": "https://birdwatchinghq.com/ants-in-north-america/",
-      "summary": "There are hundreds of ant species that live in North America! Trying to list them all would be impossible. 🙂 Below are the most common and abundant types of ants, which are part of",
-      "date": "Thu, 13 Jun 2024 14Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2024/05/Dark-Rover-Ant-Brachymyrmex-patagonicus.png",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-06-25T22:25:48Z"
-    },
-    {
-      "title": "27 Grasshopper Species in North America! (2026)",
-      "link": "https://birdwatchinghq.com/grasshoppers-in-north-america/",
-      "summary": "An incredible amount of grasshopper species live in North America! Trying to list them all would be impossible. 🙂 So below, you will find the most common and abundant insects found",
-      "date": "2024-05-10T15:51:41Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2024/05/grasshoppers-intro.jpg",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-06-25T22:25:48Z"
-    },
-    {
-      "title": "40 Types of Rabbit-Resistant Plants You Can Grow (2026)",
-      "link": "https://birdwatchinghq.com/rabbit-resistant-plants/",
-      "summary": "“Where did all my flowers go?!” I’ve asked myself this question more than once, and usually, the answer can be summed up with one word -> rabbits! These creatures are adorable but ",
-      "date": "2024-04-24T19:32:31Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2020/06/rabbits-eating-clover.jpg",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-06-25T22:25:48Z"
-    },
-    {
-      "title": "Exercise Physiologists Explain Those “Sports Bras” FIFA World Cup Players Are Wearing. It’s Not What You Think.",
-      "link": "https://www.outsideonline.com/health/training-performance/soccer-players-sports-bras/",
-      "summary": "One question is popping up during the World Cup: Are male soccer players wearing sports bras? Exercise physiologists explain the gear. The post Exercise Physiologists Explain Those",
-      "date": "Thu, 25 Jun 2026 21Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/sports-bra-fifa.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-25T22:25:55Z"
-    },
-    {
-      "title": "Road Tripping West Virginia’s Seneca Skyway",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/road-tripping-west-virginias-seneca-skyway/",
-      "summary": "Explore the Seneca Skyway and you’ll know why this state is called “Almost Heaven” The post Road Tripping West Virginia’s Seneca Skyway appeared first on Outside Online .",
-      "date": "Thu, 25 Jun 2026 20Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/Seneca_featured_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-25T22:25:55Z"
-    },
-    {
-      "title": "Did These Prehistoric Primates Really Bury Just Their Female Dead Deep in a Cave?",
-      "link": "https://www.smithsonianmag.com/smart-news/did-these-prehistoric-primates-really-bury-just-their-female-dead-deep-in-a-cave-180989020/",
-      "summary": "Researchers say that the fossilized bones of \"Homo naledi,\" so far found exclusively underground in South Africa, lack a key genetic male marker",
-      "date": "Thu, 25 Jun 2026 21Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/w7biIXxvLudraky3yXjew0RE8yQ=/420x240/filters:focal(1000x666:1001x667)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/18/3c/183ca01e-3152-4db7-9a7c-366040e18f7b/elife-24232-fig5-v1_les1_cranium_homo_naledi.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-25T22:25:57Z"
-    },
-    {
-      "title": "New science on algae die-offs is too late for the Reflecting Pool",
-      "link": "https://www.sciencenews.org/article/algae-die-offs-reflecting-pool",
-      "summary": "Iron and hydrogen peroxide trigger cell death via ferroptosis, which cascades killer molecules through the population, causing mass die-offs of algae.",
-      "date": "Thu, 25 Jun 2026 20Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/062526_BB_algae_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-06-25T22:25:58Z"
     }
   ]
 }
