@@ -1,8 +1,140 @@
 {
-  "updated": "2026-07-03T11:38:03Z",
-  "updated_utc": "2026-07-03T11:38:03Z",
+  "updated": "2026-07-03T14:25:34Z",
+  "updated_utc": "2026-07-03T14:25:34Z",
   "count": 500,
   "stories": [
+    {
+      "title": "I store it in my bird palace!",
+      "link": "https://www.10000birds.com/i-store-it-in-my-bird-palace.htm?utm_source=rss&utm_medium=rss&utm_campaign=i-store-it-in-my-bird-palace",
+      "summary": "In today’s post, I would like to introduce you to a special guest: Bibo the Peacoock. His purpose for being here will be revealed later. For now, I would simply ask you to slowly r",
+      "date": "2026-07-03T12:00:00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/ivan-botha-Xh258EDBQnk-unsplash-scaled.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-07-03T14:25:12Z"
+    },
+    {
+      "title": "Sun news: Sun-stuff to reach Earth today, auroras possible!",
+      "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+      "summary": "Sun news for July 3, 2026: Sun-stuff from Tuesday's X flare should arrive today! G1–G2 (minor-moderate) storms and auroras are possible. The post Sun news: Sun-stuff to reach Earth",
+      "date": "2026-07-03T09:00:53Z",
+      "image": "https://earthsky.org/upl/2026/07/Jul-3-26-Aurora-forecast-800x917.png",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-07-03T14:25:21Z"
+    },
+    {
+      "title": "The First First Responders",
+      "link": "https://hakaimagazine.com/features/the-first-first-responders/",
+      "summary": "When a ship wrecks on an unfamiliar coastline, an already desperate situation is all the more dire. Blinded by the night, and lost, the captain and crew of the Puritan, a four-mast",
+      "date": "Tue, 24 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-first-first-responder.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-07-03T14:25:22Z"
+    },
+    {
+      "title": "How, Exactly, Could Deep-Sea Mining Benefit All of Humanity?",
+      "link": "https://hakaimagazine.com/news/how-exactly-could-deep-sea-mining-benefit-all-of-humanity/",
+      "summary": "When Arvid Pardo, a Maltese diplomat, took the floor at the United Nations General Assembly in New York in 1967 and began speaking at length on international law, the room was spar",
+      "date": "2024-12-20T08:01:54Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-benefit-of-humanity.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-07-03T14:25:22Z"
+    },
+    {
+      "title": "This thoughtful book will make you look at the wonders of trees anew",
+      "link": "https://www.newscientist.com/article/2530952-this-thoughtful-book-will-make-you-look-at-the-wonders-of-trees-anew/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Aya Koda's Tree is an account of the late writer's visits to Japan's most famous, and ancient, trees. Featured in Wim Wenders's film Perfect Days, it is original and thought-provok",
+      "date": "2026-07-01T18:00:13Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/18111808/sei301630184.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-03T14:25:29Z"
+    },
+    {
+      "title": "Study demonstrates neurotransmitter communication in immune cells directly for the first time",
+      "link": "https://phys.org/news/2026-07-neurotransmitter-communication-immune-cells.html",
+      "summary": "Researchers at the University of Münster and Ruhr University Bochum have demonstrated for the first time in real time that the body's own defense cells use catecholamines—neurotran",
+      "date": "2026-07-03T14:20:09Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-demonstrates-neu.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-03T14:25:30Z"
+    },
+    {
+      "title": "Fighting an emerging threat to strawberry crops",
+      "link": "https://phys.org/news/2026-07-emerging-threat-strawberry-crops.html",
+      "summary": "A few years ago, Austin Wrenn noticed something unsettling in his strawberry greenhouses at Wrenn's Farm in Zebulon, North Carolina. He was one of the first growers in the state to",
+      "date": "2026-07-03T14:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fighting-an-emerging-t.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-03T14:25:30Z"
+    },
+    {
+      "title": "Natural born killers—tracking immune cells as they cluster around cancer",
+      "link": "https://phys.org/news/2026-06-natural-born-killers-tracking-immune.html",
+      "summary": "There is a constant war going on in your body. Working against you are viruses and cancer cells growing uncontrollably, threatening your tissues and organs. Fighting on your side a",
+      "date": "2026-07-03T14:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/natural-born-killer-ce-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-03T14:25:30Z"
+    },
+    {
+      "title": "How a new fungal genome-editing tool could open fresh paths to cancer treatments",
+      "link": "https://phys.org/news/2026-07-fungal-genome-tool-fresh-paths.html",
+      "summary": "Researchers have spent decades—and billions of dollars—sequencing animal and crop genomes, but fungi have historically been the forgotten middle child of genomics, only noticed whe",
+      "date": "2026-07-03T13:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unearthing-new-cancer.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-03T14:25:30Z"
+    },
+    {
+      "title": "Escaped flowerhorn fish threaten biodiversity, pose potential public health risks in Laguna, Philippines",
+      "link": "https://phys.org/news/2026-07-flowerhorn-fish-threaten-biodiversity-pose.html",
+      "summary": "A hardy aquarium fish prized for its golden hue, the ornamental Flowerhorn cichlid (Amphilophus spp.) has become a problem for the residents of San Pablo City, Laguna: It is increa",
+      "date": "2026-07-03T13:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/escaped-flowerhorn-fis.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-03T14:25:30Z"
+    },
+    {
+      "title": "Beachcomber's find fuels whale study breakthrough",
+      "link": "https://phys.org/news/2026-07-beachcomber-fuels-whale-breakthrough.html",
+      "summary": "During his morning runs, Rod Keogh had no doubt that the whale poo he saw washed up on the beach had value. Science has finally caught up with him. Samples collected by the South A",
+      "date": "2026-07-03T12:50:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/beachcombers-find-fuel.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-03T14:25:30Z"
+    },
+    {
+      "title": "Songs play a greater role than plumage color in limiting bird hybridization, study suggests",
+      "link": "https://phys.org/news/2026-06-songs-play-greater-role-plumage.html",
+      "summary": "When trying to attract and recognize potential mates, animals are known to rely on various signals, traits and behaviors. In the case of birds, these signals can typically include ",
+      "date": "2026-07-03T12:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/songs-play-a-greater-r.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-03T14:25:30Z"
+    },
     {
       "title": "Species Spotlight: Silver Pheasant",
       "link": "https://www.10000birds.com/species-spotlight-silver-pheasant.htm?utm_source=rss&utm_medium=rss&utm_campaign=species-spotlight-silver-pheasant",
@@ -5370,138 +5502,6 @@
       "category": "wildlife",
       "color": 7,
       "fetched_at": "2026-06-25T20:12:42Z"
-    },
-    {
-      "title": "I Spent a Day with the Grand Canyon’s Four-Legged Ranger, Blue. Here’s How She’s Saving Park Wildlife.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/grand-canyon-conservation-dog-blue/",
-      "summary": "Go on patrol at the Grand Canyon with Blue, a specialized Conservation K-9, and her handler as they use a radical, humane new method to save habituated wildlife. The post I Spent a",
-      "date": "Thu, 25 Jun 2026 19Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/IMG_1834.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-25T20:12:46Z"
-    },
-    {
-      "title": "Just Three Hours of Weekly Exercise Combining Cardio, Strength Training, and Stretching May Help You Live Longer, Study Finds",
-      "link": "https://www.outsideonline.com/health/training-performance/how-much-exercise-for-longevity/",
-      "summary": "New research found that just three hours of exercise each week slows aging. Experts explain how to do your workouts and take them outdoors. The post Just Three Hours of Weekly Exer",
-      "date": "Thu, 25 Jun 2026 18Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/person-running-outside.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-06-25T20:12:46Z"
-    },
-    {
-      "title": "Powerful Back-to-Back Earthquakes Killed at Least 188 People in Venezuela. Here's the Science Behind the Rare 'Doublet'",
-      "link": "https://www.smithsonianmag.com/smithsonianmag/powerful-back-to-back-earthquakes-killed-at-least-188-people-in-venezuela-heres-the-science-behind-the-rare-doublet-180989018/",
-      "summary": "On June 24, two quakes above magnitude 7 struck the northern part of the country only 39 seconds apart. While doublet sequences aren't unheard of in seismology, they are uncommon—e",
-      "date": "Thu, 25 Jun 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/zTm8BsS6bKvqsFVzs6vxWbv8K7w=/420x240/filters:focal(2016x1344:2017x1345)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3f/5b/3f5b08f5-fe66-4c47-b473-4ced97ae0016/venezuela-earthquakes.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-25T20:12:47Z"
-    },
-    {
-      "title": "Keep Your Eyes Peeled for Gracie, a Reticulated Giraffe on the Loose in Texas",
-      "link": "https://www.smithsonianmag.com/smart-news/keep-your-eyes-peeled-for-gracie-a-reticulated-giraffe-on-the-loose-in-texas-180989021/",
-      "summary": "The tall creature escaped from a private ranch this month, and she's been roaming the Texas Hill Country ever since",
-      "date": "Thu, 25 Jun 2026 17Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/z6xdfo_PKbciVcYXMdUtxRzGi2k=/420x240/filters:focal(860x273:861x274)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9d/45/9d45b22c-ff3f-4877-8156-aaac20f3bb7e/screenshot_2026-06-25_at_105000am.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-25T20:12:47Z"
-    },
-    {
-      "title": "The Lost Memoir of a Hiroshima Survivor Was Rediscovered. Now, It Will Be Published as a Book and Adapted for Film",
-      "link": "https://www.smithsonianmag.com/smart-news/the-lost-memoir-of-a-hiroshima-survivor-was-rediscovered-now-it-will-be-published-as-a-book-and-adapted-for-film-180989019/",
-      "summary": "Nearly 80 years ago, Kiyoshi Tanimoto documented the aftermath of the Hiroshima bombing during World War II. His manuscript was recently found in a U.S. library",
-      "date": "Thu, 25 Jun 2026 17Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/KNptuTCCdm8dLn5QR3Nz5pCgWUU=/420x240/filters:focal(2459x1475:2460x1476)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c6/22/c622c495-e816-4fdf-a972-8c19b045f707/atomic_bombing_of_japan.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-25T20:12:47Z"
-    },
-    {
-      "title": "Why Did the Handwriting in This 248-Year-Old Notebook Look Familiar? It Turned Out to Be a Forgotten Mozart Manuscript",
-      "link": "https://www.smithsonianmag.com/smart-news/why-did-the-handwriting-in-this-248-year-old-notebook-look-familiar-it-turned-out-to-be-a-forgotten-mozart-manuscript-180989017/",
-      "summary": "While working as a tutor in 1778, the composer created seven short pieces for flute and harp with his student's help. This month, audiences heard the works performed for the very f",
-      "date": "Thu, 25 Jun 2026 17Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/k6Gzxi4V4jtluYFqr1FM1rX3Fm0=/420x240/filters:focal(2886x1924:2887x1925)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8f/f2/8ff2112f-27e2-4522-ab2b-0cfc25222eab/gettyimages-2281702818.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-25T20:12:47Z"
-    },
-    {
-      "title": "Ancient flowering plants may have used dinosaurs to spread their seeds",
-      "link": "https://www.sciencenews.org/article/flowering-plants-dinosaurs-spread-seeds",
-      "summary": "Scientists thought angiosperms didn’t use animals to spread seeds until after the Age of Dinosaurs. Fossilized fruits from these plants challenge this idea.",
-      "date": "Thu, 25 Jun 2026 18Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/062426_JB_fruits_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-06-25T20:12:48Z"
-    },
-    {
-      "title": "Can home batteries help save the climate and save you money?",
-      "link": "https://www.newscientist.com/article/2531891-can-home-batteries-help-save-the-climate-and-save-you-money/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Growing numbers of homeowners are installing batteries that store electricity when it is cheap, which helps balance the grid and cuts emissions, and cheaper plug-in batteries will ",
-      "date": "Thu, 25 Jun 2026 18Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25145313/SEI_302841098.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-25T20:12:49Z"
-    },
-    {
-      "title": "We’ve uncovered a master gene that switches on human development",
-      "link": "https://www.newscientist.com/article/2531950-weve-uncovered-a-master-gene-that-switches-on-human-development/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "We have identified the gene that, when activated, initiates the developmental programme that results in cells forming a human body",
-      "date": "Thu, 25 Jun 2026 17Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25155913/SEI_302846028.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-25T20:12:49Z"
-    },
-    {
-      "title": "The race to understand how and when Thwaites glacier will collapse",
-      "link": "https://www.newscientist.com/article/2526630-the-race-to-understand-how-and-when-thwaites-glacier-will-collapse/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "The loss of Antarctica’s doomsday glacier would transform our planet. Now scientists are revealing the secrets of this remotest of places, and asking the question: is its demise in",
-      "date": "Thu, 25 Jun 2026 16Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/05/14163813/SEI_251372465.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-25T20:12:49Z"
-    },
-    {
-      "title": "New insight into how cells move copper out of the mitochondrial matrix could guide novel treatments",
-      "link": "https://phys.org/news/2026-06-insight-cells-copper-mitochondrial-matrix.html",
-      "summary": "Copper is essential for life. Our cells need the metal to make energy and stay healthy, but if it is in the wrong place or present in excess, copper can be deadly. Texas A&M AgriLi",
-      "date": "2026-06-25T19:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-insight-into-how-c.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-25T20:12:51Z"
-    },
-    {
-      "title": "A giraffe named Gracie escaped in Texas. No one can seem to find her",
-      "link": "https://phys.org/news/2026-06-giraffe-gracie-texas.html",
-      "summary": "A giraffe named Gracie is missing in Texas, and the search for her has become a tall order.",
-      "date": "2026-06-25T19:31:45Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-giraffe-named-gracie.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-25T20:12:51Z"
     }
   ]
 }
