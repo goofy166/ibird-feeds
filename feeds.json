@@ -1,8 +1,74 @@
 {
-  "updated": "2026-07-03T14:25:34Z",
-  "updated_utc": "2026-07-03T14:25:34Z",
+  "updated": "2026-07-03T16:41:01Z",
+  "updated_utc": "2026-07-03T16:41:01Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Sea-swallow Summer",
+      "link": "https://www.10000birds.com/sea-swallow-summer.htm?utm_source=rss&utm_medium=rss&utm_campaign=sea-swallow-summer",
+      "summary": "I was entertained by a constant procession of these delightful terns",
+      "date": "2026-07-03T15:59:00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/P6301916-1.jpeg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-07-03T16:40:41Z"
+    },
+    {
+      "title": "Orangutan mothers seem to plan playdates for their offspring",
+      "link": "https://www.newscientist.com/article/2532880-orangutan-mothers-seem-to-plan-playdates-for-their-offspring/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Female orangutans are generally solitary, but they travel more and eat less in an apparent effort to ensure their offspring have someone to play with",
+      "date": "2026-07-03T12:28:59Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/03121714/SEI_303833229.jpg",
+      "name": "New Scientist",
+      "category": "butterflies",
+      "color": 12,
+      "fetched_at": "2026-07-03T16:40:56Z"
+    },
+    {
+      "title": "Paleontological study shows climate change makes marine animals shrink",
+      "link": "https://phys.org/news/2026-07-paleontological-climate-marine-animals.html",
+      "summary": "Whether mussels, crustaceans or fish, marine animals have been responding to environmental crises with a reduction in body size for hundreds of millions of years. A new study by Fr",
+      "date": "2026-07-03T15:40:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-change-makes-m.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-03T16:40:57Z"
+    },
+    {
+      "title": "First assessment of online global trade in brachyuran land crabs",
+      "link": "https://phys.org/news/2026-07-online-global-brachyuran-crabs.html",
+      "summary": "New research has begun to lift the lid on the global online trade in land crabs, leading scientists to call for closer monitoring and regulation to better understand any effects it",
+      "date": "2026-07-03T15:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-assessment-of-on.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-03T16:40:57Z"
+    },
+    {
+      "title": "Narrow time windows shaped passage for salmon, trout and lamprey at Haringvliet sluices, 18-year analysis shows",
+      "link": "https://phys.org/news/2026-07-narrow-windows-passage-salmon-trout.html",
+      "summary": "A new study published in Movement Ecology describes how migratory fish passed through the Haringvliet Sluices before the introduction of Kierbeheer (the partial opening of the Hari",
+      "date": "2026-07-03T14:40:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/salmon-sea-trout-and-s.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-03T16:40:57Z"
+    },
+    {
+      "title": "'Machine-gun sun' could bring auroras to more than a dozen states this Independence Day weekend",
+      "link": "https://www.livescience.com/space/the-sun/machine-gun-sun-could-bring-auroras-to-more-than-a-dozen-states-this-independence-day-weekend",
+      "summary": "The sun launched 10 M-class solar flares over 24 hours, and more could be on the way. Auroras are likely in some US states as a result.",
+      "date": "2026-07-03T14:56:51Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/jsAZkzZCYUuteYs6C43J9A-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-03T16:40:58Z"
+    },
     {
       "title": "I store it in my bird palace!",
       "link": "https://www.10000birds.com/i-store-it-in-my-bird-palace.htm?utm_source=rss&utm_medium=rss&utm_campaign=i-store-it-in-my-bird-palace",
@@ -5436,72 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-06-25T22:25:58Z"
-    },
-    {
-      "title": "Why these birds meet again in Africa: Flycatcher study reveals how genes and environment guide 13,000‑km migrations",
-      "link": "https://phys.org/news/2026-06-birds-africa-flycatcher-reveals-genes.html",
-      "summary": "Migratory birds such as the pied flycatcher typically have wintering locations in Africa close to others from the same breeding population. That means that birds breeding in the Ne",
-      "date": "2026-06-25T22:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/migratory-birds-find-t.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-25T22:26:00Z"
-    },
-    {
-      "title": "How soil pH shapes rice stink bug outbreaks by controlling key bacteria",
-      "link": "https://phys.org/news/2026-06-soil-ph-rice-bug-outbreaks.html",
-      "summary": "Researchers at the National Institute of Advanced Industrial Science and Technology (AIST), in collaboration with researchers from the University of the Ryukyus and the University ",
-      "date": "2026-06-25T22:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/elucidating-the-mechan.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-25T22:26:00Z"
-    },
-    {
-      "title": "Ultra-precise technology can count damaged DNA fragments",
-      "link": "https://phys.org/news/2026-06-ultra-precise-technology-dna-fragments.html",
-      "summary": "The Korea Research Institute of Standards and Science has developed an ultrasensitive immunoassay-based analytical platform that can detect and quantify trace amounts of \"Small Exc",
-      "date": "2026-06-25T20:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kriss-develops-ultra-p.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-25T22:26:00Z"
-    },
-    {
-      "title": "Dog's skull shape and body weight linked to spinal fluid disorder risk",
-      "link": "https://phys.org/news/2026-06-dog-skull-body-weight-linked.html",
-      "summary": "A new Cornell University study helps deepen the understanding of skull shapes in dogs of different sizes and draws a link between cranial and facial shapes, body weight, and the ri",
-      "date": "2026-06-25T20:20:12Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-a-dogs-skull-sha.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-25T22:26:00Z"
-    },
-    {
-      "title": "Novel rice paddy approach aims to prevent toxic metals from tainting rice",
-      "link": "https://phys.org/news/2026-06-rice-paddy-approach-aims-toxic.html",
-      "summary": "In a perspective published in Nature Reviews Earth & Environment, Colorado State University researchers describe a management approach to prevent the uptake of arsenic, cadmium and",
-      "date": "2026-06-25T20:20:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-outline-st.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-25T22:26:00Z"
-    },
-    {
-      "title": "So Long, and Thanks for All the Fish",
-      "link": "https://hakaimagazine.com/article-short/so-long-and-thanks-for-all-the-fish/",
-      "summary": "We started Hakai Magazine over 10 years ago because the ocean and its coastlines needed a voice. No other outlet was exclusively covering issues at the interface of sea and land—or",
-      "date": "2024-12-27T08:05:43Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-so-long-and-thanks-for-all-the-fish.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-06-25T20:12:42Z"
     }
   ]
 }
