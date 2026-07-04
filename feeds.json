@@ -1,8 +1,63 @@
 {
-  "updated": "2026-07-04T00:12:32Z",
-  "updated_utc": "2026-07-04T00:12:32Z",
+  "updated": "2026-07-04T04:40:48Z",
+  "updated_utc": "2026-07-04T04:40:48Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Bird Friendly Certification: 8 Requirements Coffee Farms Need to Satisify",
+      "link": "https://birdwatchinghq.com/bird-friendly-certification-requirements-for-coffee-farms/",
+      "summary": "In the world of coffee certifications, there’s one that soars above the rest—literally. The Smithsonian Bird Friendly certification is the gold standard when it comes to protecting",
+      "date": "2025-10-20T17:51:25Z",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/bird_friendly_logo_2-1024x1024.webp",
+      "name": "BWatching HQ",
+      "category": "birds",
+      "color": 4,
+      "fetched_at": "2026-07-04T04:40:32Z"
+    },
+    {
+      "title": "Harpy Eagles: 17 Fascinating Facts About the Canopy’s King",
+      "link": "https://birdwatchinghq.com/harpy-eagle-facts/",
+      "summary": "Honestly, Harpy Eagles are one of the coolest birds around. They are the rulers of the rainforest skies and are as intriguing as they are awe-inspiring. Keep reading, and you will ",
+      "date": "2025-10-19T17:49:35Z",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/harpy_eagle_double_crest_of_feathers-1.jpg",
+      "name": "BWatching HQ",
+      "category": "birds",
+      "color": 4,
+      "fetched_at": "2026-07-04T04:40:32Z"
+    },
+    {
+      "title": "10 Things You Can Do to Help Birds",
+      "link": "https://birdwatchinghq.com/how-to-help-birds/",
+      "summary": "Let me give you a staggering and sobering number: Since 1970, 2.9 billion birds have disappeared from North America. Yes, you read that correctly. Almost 25% of the total number of",
+      "date": "2025-10-18T17:47:14Z",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/red_winged_blackbirds_declining.jpg",
+      "name": "BWatching HQ",
+      "category": "birds",
+      "color": 4,
+      "fetched_at": "2026-07-04T04:40:32Z"
+    },
+    {
+      "title": "Country diary: Our pond is a year old – already dragonflies are emerging | Nic Wilson",
+      "link": "https://www.theguardian.com/environment/2026/jul/04/country-diary-our-pond-is-a-year-old-already-dragonflies-are-emerging",
+      "summary": "Hitchin, Hertfordshire: The broad-bodied chaser is often the first to arrive at a new pond, and sure enough, I spot an exuvia clinging to a leaf blade The hole in the nest box on o",
+      "date": "2026-07-04T04:30:03Z",
+      "image": "https://i.guim.co.uk/img/media/dc71983703a5ff009b50b5ad31e4eb0af005c310/0_155_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=a2e52fb7ac1a71e9f2dceb22b6cb7af4",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-04T04:40:33Z"
+    },
+    {
+      "title": "Insect-borne diseases in the Amazon linked to land use and rural economies",
+      "link": "https://phys.org/news/2026-07-insect-borne-diseases-amazon-linked.html",
+      "summary": "Diseases spread by insects in the Brazilian Amazon are not randomly distributed but form distinct regional patterns linked to land use, rural economies and environmental change, ac",
+      "date": "2026-07-04T00:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/insect-borne-diseases.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-04T04:40:45Z"
+    },
     {
       "title": "Conservation genomics faces growing calls to center Indigenous knowledge and data rights",
       "link": "https://phys.org/news/2026-07-genomics-center-indigenous-knowledge-rights.html",
@@ -5447,61 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-06-26T09:42:01Z"
-    },
-    {
-      "title": "Shark bites are down globally – so why are they going up in Australia? It’s complicated",
-      "link": "https://www.theguardian.com/environment/2026/jun/25/down-to-earth-shark-bites-australia-europe-heat-records",
-      "summary": "In this week’s newsletter: Opinions are divided on how to mitigate risk, and whether it’s sharks or humans themselves who are the problem. Plus, Europe breaks heat records • Don’t ",
-      "date": "2026-06-26T06:00:11Z",
-      "image": "https://i.guim.co.uk/img/media/0688b52e127ec01ee1ff49d90efcfbd2e26035e0/186_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=376ca1f8d3b6f2a8cbead834cafb9cb6",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-26T09:42:01Z"
-    },
-    {
-      "title": "Massive ruby red Antares is the Scorpion’s Heart",
-      "link": "https://earthsky.org/brightest-stars/antares-rivals-mars-as-the-scorpions-heart/",
-      "summary": "Red Antares, Heart of the Scorpion in the constellation Scorpius, is a massive red supergiant star in the last stages of its lifespan. The post Massive ruby red Antares is the Scor",
-      "date": "2026-06-26T08:00:08Z",
-      "image": "https://earthsky.org/upl/2021/11/Scorpius-Double-Stars-e1636990828254.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-06-26T09:42:03Z"
-    },
-    {
-      "title": "Latest sunsets follow the summer solstice",
-      "link": "https://earthsky.org/astronomy-essentials/at-midnorthern-latitudes-latest-sunsets-of-the-year-in-late-june/",
-      "summary": "Why don't the latest sunsets come on the longest day (the solstice)? It's all to do with a discrepancy between sun time and clock time. The post Latest sunsets follow the summer so",
-      "date": "2026-06-26T07:00:00Z",
-      "image": "https://earthsky.org/upl/2022/06/Christy-Mandeville_dramatic-sunset-with-child-silhouette_Indian-Shores-FL_2022-jun-08-e1655264484437.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-06-26T09:42:03Z"
-    },
-    {
-      "title": "Europe’s heatwave is the hottest and most humid ever",
-      "link": "https://www.newscientist.com/article/2531992-europes-heatwave-is-the-hottest-and-most-humid-ever/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "The current temperatures in western and central Europe would have been virtually impossible 50 years ago, and unprecedented humidity levels make this heatwave especially dangerous",
-      "date": "2026-06-26T05:00:51Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25163458/SEI_302840659.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-26T09:42:11Z"
-    },
-    {
-      "title": "Sea anemones reveal antiviral defense that reverses human immune playbook",
-      "link": "https://phys.org/news/2026-06-sea-anemones-reveal-antiviral-defense.html",
-      "summary": "A new study has uncovered a previously unknown antiviral defense mechanism in sea anemones, revealing that animals may have evolved more than one way to fight viral infections. Res",
-      "date": "2026-06-26T09:00:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sea-anemone-flips-a-hu-3.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-26T09:42:12Z"
     }
   ]
 }
