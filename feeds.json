@@ -1,8 +1,30 @@
 {
-  "updated": "2026-07-04T12:11:02Z",
-  "updated_utc": "2026-07-04T12:11:02Z",
+  "updated": "2026-07-04T14:42:16Z",
+  "updated_utc": "2026-07-04T14:42:16Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Trained AI outperforms biologists at spotting salmon lice",
+      "link": "https://phys.org/news/2026-07-ai-outperforms-biologists-salmon-lice.html",
+      "summary": "Researchers have taken over 120,000 images of salmon lice larvae in seawater and used them to train AI models. The models were much faster and more accurate than experienced biolog",
+      "date": "2026-07-04T13:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/training-ai-in-the-fig-6.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-04T14:42:12Z"
+    },
+    {
+      "title": "The US is hooked on unregulated peptides. But are they effective, or even safe?",
+      "link": "https://www.livescience.com/health/medicine-drugs/the-us-is-hooked-on-unregulated-peptides-but-are-they-effective-or-even-safe",
+      "summary": "The world of peptides has exploded in wellness circles, but the benefits of injecting these gray-market molecules rest on little clinical evidence.",
+      "date": "2026-07-04T14:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/C3u3zeAwNY2pMdC8Kn48y6-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-04T14:42:14Z"
+    },
     {
       "title": "Three Days of Birding in Costa Rica = Owls, Hummingbirds, Tanagers, and More",
       "link": "https://www.10000birds.com/three-days-of-birding-in-costa-rica-owls-hummingbirds-tanagers-and-more-2.htm?utm_source=rss&utm_medium=rss&utm_campaign=three-days-of-birding-in-costa-rica-owls-hummingbirds-tanagers-and-more-2",
@@ -5480,28 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-06-26T12:17:56Z"
-    },
-    {
-      "title": "In pictures: a San Antonio land bridge designed for wildlife and people",
-      "link": "https://www.theguardian.com/environment/gallery/2026/jun/26/san-antonio-texas-land-bridge-wildlife",
-      "summary": "Spanning a six-lane highway and located in a public park, this crossing is part of a larger restoration of endangered Texas prairie land The Guardian receives support for visual cl",
-      "date": "2026-06-26T12:00:15Z",
-      "image": "https://i.guim.co.uk/img/media/31bc0a0f0aa8a1102361dfdef0fb9a11dc6196c7/595_0_2810_2250/master/2810.jpg?width=140&quality=85&auto=format&fit=max&s=90c4e644ff8e7efc044f72ab5f5a73a6",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-26T12:18:02Z"
-    },
-    {
-      "title": "‘Chock full of incredible animals’: marine expedition uncovers 31 new species in two weeks",
-      "link": "https://www.theguardian.com/environment/2026/jun/26/marine-expedition-uncovers-31-new-species-two-weeks-brazil",
-      "summary": "Experts worked in ocean midwater off Brazil at near-record speeds thanks to cutting-edge tech A marine biology expedition in international waters off the coast of Brazil has discov",
-      "date": "2026-06-26T11:06:37Z",
-      "image": "https://i.guim.co.uk/img/media/c5f0a696f8e31e41241b61c7c61d065600b372c4/0_1168_6144_4915/master/6144.jpg?width=140&quality=85&auto=format&fit=max&s=7e51dac1ddab973ce954e7e57f0aec96",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-26T12:18:02Z"
     }
   ]
 }
