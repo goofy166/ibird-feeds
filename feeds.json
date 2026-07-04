@@ -1,8 +1,30 @@
 {
-  "updated": "2026-07-04T07:52:08Z",
-  "updated_utc": "2026-07-04T07:52:08Z",
+  "updated": "2026-07-04T10:19:18Z",
+  "updated_utc": "2026-07-04T10:19:18Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Scientists find yeast in ancient Iceman's guts—and make bread",
+      "link": "https://phys.org/news/2026-06-scientists-yeast-ancient-iceman-guts.html",
+      "summary": "Yeast has been growing in the guts of a frozen mummy called Oetzi the Iceman for thousands of years, scientists have discovered, telling AFP they used it to make a tasty sourdough ",
+      "date": "2026-07-04T08:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/though-he-died-more-th.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-04T10:19:15Z"
+    },
+    {
+      "title": "Are CAPTCHAs obsolete in the age of AI?",
+      "link": "https://www.livescience.com/technology/are-captchas-obsolete-in-the-age-of-ai",
+      "summary": "How are CAPTCHAs being threatened by AI?",
+      "date": "2026-07-04T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/kP6HJGZLsH5U9R72q5GUVQ-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-04T10:19:16Z"
+    },
     {
       "title": "Hunting the tardigrade: one small step in sequencing DNA of all life on Earth",
       "link": "https://www.theguardian.com/environment/2026/jul/04/hunting-tardigrade-sequencing-dna-life-earth-invertebrate-year",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-06-26T12:18:12Z"
-    },
-    {
-      "title": "Inside Brazil’s vast network of lifesaving free milk banks",
-      "link": "https://www.newscientist.com/article/2530765-inside-brazils-vast-network-of-lifesaving-free-milk-banks/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "These images from photographer Kristin Bethge document Brazil's milk bank system, which provides some of the world's cheapest and safest donated milk to hundreds of thousands of ba",
-      "date": "2026-06-24T18:00:27Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/17135434/sei301761330.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-26T12:18:12Z"
-    },
-    {
-      "title": "Water shortages could prevent the US from mining more lithium, deepening reliance on foreign imports",
-      "link": "https://www.livescience.com/planet-earth/climate-change/water-shortages-could-prevent-the-us-from-mining-more-lithium-deepening-reliance-on-foreign-imports",
-      "summary": "Most proposed lithium mines in the U.S. overlap with drought-prone regions — including in Nevada, Arizona and California — and there may not be enough water to support them.",
-      "date": "2026-06-26T09:49:25Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/BTDEs2TBGDFJuhfeoG6x6A-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-26T12:18:14Z"
     }
   ]
 }
