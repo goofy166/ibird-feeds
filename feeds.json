@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-03T22:10:35Z",
-  "updated_utc": "2026-07-03T22:10:35Z",
+  "updated": "2026-07-04T00:12:32Z",
+  "updated_utc": "2026-07-04T00:12:32Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Conservation genomics faces growing calls to center Indigenous knowledge and data rights",
+      "link": "https://phys.org/news/2026-07-genomics-center-indigenous-knowledge-rights.html",
+      "summary": "Throughout human ecological history, we have played a variety of roles within ecosystems around the world. In this so-called Anthropocene era, genomic innovations have given us new",
+      "date": "2026-07-03T23:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-call-on-co.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-04T00:12:28Z"
+    },
     {
       "title": "Scarlet Tanager Species Spotlight: 10 Interesting Facts!",
       "link": "https://birdwatchinghq.com/scarlet-tanager-interesting-facts/",
@@ -5487,17 +5498,6 @@
       "summary": "A new study has uncovered a previously unknown antiviral defense mechanism in sea anemones, revealing that animals may have evolved more than one way to fight viral infections. Res",
       "date": "2026-06-26T09:00:08Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sea-anemone-flips-a-hu-3.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-26T09:42:12Z"
-    },
-    {
-      "title": "How a 'copper economy' helps fungi and bacteria build stubborn biofilms",
-      "link": "https://phys.org/news/2026-06-copper-economy-fungi-bacteria-stubborn.html",
-      "summary": "Scientists have discovered that two common human pathogens can work together by managing copper in their shared environment—a finding that could open new ways to break down stubbor",
-      "date": "2026-06-26T09:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-copper-economy-helps.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
