@@ -1,8 +1,30 @@
 {
-  "updated": "2026-07-04T18:07:51Z",
-  "updated_utc": "2026-07-04T18:07:51Z",
+  "updated": "2026-07-04T20:12:54Z",
+  "updated_utc": "2026-07-04T20:12:54Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Norfolk Island’s unique corals under triple threat from disease, El Niño and now government-approved dredging",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/05/norfolk-islands-unique-corals-under-triple-threat-from-disease-el-nino-and-now-government-approved-dredging",
+      "summary": "Exclusive: Most of the island’s corals are likely to be species that have not been formally described by science, researcher says Get our breaking news email , free app or daily ne",
+      "date": "2026-07-04T20:00:07Z",
+      "image": "https://i.guim.co.uk/img/media/7ecbaea2a2abc0f96830f76a790d63fcd56a5a36/93_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=32b7d9f0b31d2ed366afe6f657edcfc2",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-04T20:12:40Z"
+    },
+    {
+      "title": "Europe's baked rice bowl seeks escape from drought",
+      "link": "https://phys.org/news/2026-07-europe-rice-bowl-drought.html",
+      "summary": "Summer came too early to Europe's most important rice-growing region, and weeds are taking over Sharon Angoli's parched paddies in Italy's Pavia province.",
+      "date": "2026-07-04T20:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sharon-angoli-with-ric.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-04T20:12:51Z"
+    },
     {
       "title": "Sunbittersweet",
       "link": "https://www.10000birds.com/sunbittersweet.htm?utm_source=rss&utm_medium=rss&utm_campaign=sunbittersweet",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-06-26T15:28:04Z"
-    },
-    {
-      "title": "Most bees are solitary and don't live in hives: How climate change risks them starving",
-      "link": "https://phys.org/news/2026-06-bees-solitary-dont-hives-climate.html",
-      "summary": "When we think of bees, we often think of flowers. The more flowers, the better, right? Well, not exactly. Like us, bees need to consume specific nutrients in suitable amounts and c",
-      "date": "2026-06-26T12:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/most-bees-are-solitary.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-26T15:28:04Z"
-    },
-    {
-      "title": "Early Homo sapiens may have lived in rainforests, new clues suggest — and it could overturn our understanding of human evolution",
-      "link": "https://www.livescience.com/archaeology/human-evolution/early-homo-sapiens-may-have-lived-in-rainforests-new-clues-suggest-and-it-could-overturn-our-understanding-of-human-evolution",
-      "summary": "The long-held idea that rainforests held a minor role in our species' evolution is changing — and our ability to adapt to these tropical areas may give insight about 'what it means",
-      "date": "2026-06-26T15:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/8GbFoRwL5XnrKwpjSDCHXK-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-26T15:28:06Z"
     }
   ]
 }
