@@ -1,8 +1,30 @@
 {
-  "updated": "2026-07-05T13:56:46Z",
-  "updated_utc": "2026-07-05T13:56:46Z",
+  "updated": "2026-07-05T15:20:10Z",
+  "updated_utc": "2026-07-05T15:20:10Z",
   "count": 500,
   "stories": [
+    {
+      "title": "8 Fascinating Mosquito Facts You Should Know",
+      "link": "https://www.birdsandblooms.com/gardening/garden-bugs/mosquito-facts/",
+      "summary": "Mosquito bites may be pesky, but these insects lead interesting lives! Learn unexpected mosquito facts, including how fast they fly. The post 8 Fascinating Mosquito Facts You Shoul",
+      "date": "2026-06-26T14:47:34Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/shutterstock_2665471581-scaled-e1782403171502.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-07-05T15:19:52Z"
+    },
+    {
+      "title": "Laughter may date back 15 million years, shared by humans and great apes",
+      "link": "https://phys.org/news/2026-06-humans-great-apes-similar-giggles.html",
+      "summary": "Humans and great apes have been giggling in similar ways since branching off the evolutionary tree, a new study suggests.",
+      "date": "2026-07-05T15:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/get-a-load-of-this-hum.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-05T15:20:06Z"
+    },
     {
       "title": "How a planet survived the death of its sunlike star",
       "link": "https://earthsky.org/space/how-planet-survived-death-of-sunlike-star/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-06-26T17:57:33Z"
-    },
-    {
-      "title": "Half-year stock take",
-      "link": "https://www.10000birds.com/half-year-stock-take.htm?utm_source=rss&utm_medium=rss&utm_campaign=half-year-stock-take",
-      "summary": "my UK year’s tally is a mere 179 species, so I still need another 21 to reach my 200 target",
-      "date": "2026-06-26T12:34:12Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/06/P6111492.jpeg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-06-26T15:27:47Z"
-    },
-    {
-      "title": "Rattlesnake Master Plant Care and Growing Tips",
-      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/rattlesnake-master/",
-      "summary": "Rattlesnake master is an unusual beauty packed with pollinator perks. Learn how — and why — to add this prairie plant to your garden. The post Rattlesnake Master Plant Care and Gro",
-      "date": "2026-06-26T15:19:17Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/GettyImages-1422828688.jpg?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-06-26T15:27:48Z"
     }
   ]
 }
