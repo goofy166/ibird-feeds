@@ -1,8 +1,30 @@
 {
-  "updated": "2026-07-05T19:35:34Z",
-  "updated_utc": "2026-07-05T19:35:34Z",
+  "updated": "2026-07-05T21:10:55Z",
+  "updated_utc": "2026-07-05T21:10:55Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Rats show empathy, according to model",
+      "link": "https://phys.org/news/2026-07-rats-empathy.html",
+      "summary": "A rat first frees a cagemate rat and then shares food with it. Is this animal just as empathetic as humans? In an American study from 2011, researchers observed that rats first fre",
+      "date": "2026-07-05T20:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-empathetic-rats-ar.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-05T21:10:51Z"
+    },
+    {
+      "title": "Spring songbirds may help pollinate UK trees, with pollen on 89% of studied birds",
+      "link": "https://phys.org/news/2026-07-songbirds-pollinate-uk-trees-pollen.html",
+      "summary": "The warblers—those harbingers of spring in the U.K.—have an unappreciated talent of a different sort. Common U.K. birds, including chiffchaffs and blackcaps, are playing a real rol",
+      "date": "2026-07-05T20:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uk-songbirds-play-a-re.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-05T21:10:51Z"
+    },
     {
       "title": "Rattlesnake Master Plant Care and Growing Tips",
       "link": "https://www.birdsandblooms.com/gardening/flower-gardening/rattlesnake-master/",
@@ -5476,28 +5498,6 @@
       "summary": "From the Andes to the steppes of Central Asia, great empires have waxed and waned. Can you match each territory to the culture that once ruled it?",
       "date": "2026-06-26T16:23:33Z",
       "image": "https://cdn.mos.cms.futurecdn.net/kQuXYp5fVN5GvWNpRqNVzN-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-26T17:57:33Z"
-    },
-    {
-      "title": "China's top-secret 'dragon' space plane just released another unidentified object over Earth",
-      "link": "https://www.livescience.com/space/space-exploration/chinas-top-secret-dragon-space-plane-just-released-another-unidentified-object-over-earth",
-      "summary": "The Shenlong, or \"divine dragon,\" space plane just deployed a mysterious payload above our planet. The top-secret spacecraft, which has never been properly photographed, has now re",
-      "date": "2026-06-26T16:15:42Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZaUW89j8pcn4AwqACMALbd-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-26T17:57:33Z"
-    },
-    {
-      "title": "AI companies don't want to be legally responsible for their chatbots. US courts should make them.",
-      "link": "https://www.livescience.com/technology/artificial-intelligence/technology/artificial-intelligence/free-speech-in-the-age-of-ai-opinion",
-      "summary": "AI-generated text and chatbots increasingly cause real-world harms. The companies that make them need to be held accountable for those harms.",
-      "date": "2026-06-26T16:02:23Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/bPHDmbYeLE3xB63PiucnUX-1280-80.jpg",
       "name": "Live Science",
       "category": "insects",
       "color": 14,
