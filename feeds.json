@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-05T15:20:10Z",
-  "updated_utc": "2026-07-05T15:20:10Z",
+  "updated": "2026-07-05T17:20:21Z",
+  "updated_utc": "2026-07-05T17:20:21Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Rattlesnake Master Plant Care and Growing Tips",
+      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/rattlesnake-master/",
+      "summary": "Rattlesnake master is an unusual beauty packed with pollinator perks. Learn how — and why — to add this prairie plant to your garden. The post Rattlesnake Master Plant Care and Gro",
+      "date": "2026-06-26T15:19:17Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/GettyImages-1422828688.jpg?fit=700,1024",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-07-05T17:20:02Z"
+    },
     {
       "title": "8 Fascinating Mosquito Facts You Should Know",
       "link": "https://www.birdsandblooms.com/gardening/garden-bugs/mosquito-facts/",
@@ -5487,17 +5498,6 @@
       "summary": "AI-generated text and chatbots increasingly cause real-world harms. The companies that make them need to be held accountable for those harms.",
       "date": "2026-06-26T16:02:23Z",
       "image": "https://cdn.mos.cms.futurecdn.net/bPHDmbYeLE3xB63PiucnUX-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-26T17:57:33Z"
-    },
-    {
-      "title": "Scientists infected a 'vagina on a chip' with gonorrhea — then cured it with a new antibiotic found by AI",
-      "link": "https://www.livescience.com/health/medicine-drugs/scientists-infected-a-vagina-on-a-chip-with-gonorrhea-then-cured-it-with-a-new-antibiotic-found-by-ai",
-      "summary": "To sift through 6 million molecules in pursuit of new gonorrhea treatments, researchers trained AI to select the best drug candidate and then tested it in a \"vagina on a chip.\"",
-      "date": "2026-06-26T16:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/9JdWRodEHmpp9zAWzaQKPc-1280-80.jpg",
       "name": "Live Science",
       "category": "insects",
       "color": 14,
