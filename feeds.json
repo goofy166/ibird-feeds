@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-04T22:04:32Z",
-  "updated_utc": "2026-07-04T22:04:32Z",
+  "updated": "2026-07-05T00:07:25Z",
+  "updated_utc": "2026-07-05T00:07:25Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How proteins are inserted into cell membranes",
+      "link": "https://phys.org/news/2026-06-proteins-inserted-cell-membranes.html",
+      "summary": "Researchers from Heinrich Heine University Düsseldorf (HHU) have—in collaboration with colleagues from Ludwig Maximilian University (LMU) in Munich—analyzed the complex biochemical",
+      "date": "2026-07-04T23:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/membrane-research.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-05T00:07:22Z"
+    },
     {
       "title": "Norfolk Island’s unique corals under triple threat from disease, El Niño and now government-approved dredging",
       "link": "https://www.theguardian.com/australia-news/2026/jul/05/norfolk-islands-unique-corals-under-triple-threat-from-disease-el-nino-and-now-government-approved-dredging",
@@ -5487,17 +5498,6 @@
       "summary": "Research has revealed how bacteria rely on circadian clocks to control the spread of their multicellular colonies. The findings provide important clues as to how we might improve s",
       "date": "2026-06-26T13:00:09Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rings-of-powerhow-bact.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-26T15:28:04Z"
-    },
-    {
-      "title": "Scientists find antidepressant in the brains of sharks off the coast of Rio de Janeiro",
-      "link": "https://phys.org/news/2026-06-scientists-antidepressant-brains-sharks-coast.html",
-      "summary": "Sertraline is one of the most widely prescribed antidepressants in the world. Global sertraline sales are expected to keep growing, projected to expand from an estimated US$1.94 bi",
-      "date": "2026-06-26T13:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hammerhead-shark.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
