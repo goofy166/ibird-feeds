@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-05T00:07:25Z",
-  "updated_utc": "2026-07-05T00:07:25Z",
+  "updated": "2026-07-05T05:02:30Z",
+  "updated_utc": "2026-07-05T05:02:30Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘They ate the shrimp, they even ate the crab’: Thai fishers count the cost of a voracious invader",
+      "link": "https://www.theguardian.com/environment/2026/jul/05/blackchin-tilapia-thailand-invasive-fish-fishers-count-cost-aoe",
+      "summary": "Huge numbers of blackchin tilapia, a fish native to west Africa, are wreaking havoc among Thailand’s river ecosystems. Experts – and some chefs – are seeking sustainable solutions ",
+      "date": "2026-07-05T04:00:16Z",
+      "image": "https://i.guim.co.uk/img/media/7a36a85a85569c39f8e3a3729ed4ecca55d7e7af/912_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=84c00086e9549b9cea5bf27fbc2bfb2f",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-05T05:02:16Z"
+    },
     {
       "title": "How proteins are inserted into cell membranes",
       "link": "https://phys.org/news/2026-06-proteins-inserted-cell-membranes.html",
@@ -5487,17 +5498,6 @@
       "summary": "A new study, published in the Journal of Raptor Research, reveals that Africa's smallest diurnal bird of prey, the pygmy falcon (Polihierax semitorquatus), operates within one of t",
       "date": "2026-06-26T13:40:01Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-raptor-tiny-range.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-26T15:28:04Z"
-    },
-    {
-      "title": "How bacteria use circadian clocks to colonize their world",
-      "link": "https://phys.org/news/2026-06-bacteria-circadian-clocks-colonize-world.html",
-      "summary": "Research has revealed how bacteria rely on circadian clocks to control the spread of their multicellular colonies. The findings provide important clues as to how we might improve s",
-      "date": "2026-06-26T13:00:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rings-of-powerhow-bact.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
