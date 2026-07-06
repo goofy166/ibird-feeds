@@ -1,8 +1,96 @@
 {
-  "updated": "2026-07-06T21:42:00Z",
-  "updated_utc": "2026-07-06T21:42:00Z",
+  "updated": "2026-07-06T23:14:15Z",
+  "updated_utc": "2026-07-06T23:14:15Z",
   "count": 500,
   "stories": [
+    {
+      "title": "These 11 Wildlife Images From the Ocean Conservancy’s Photography Contest Showcase the Wonder of Earth’s Waters",
+      "link": "https://www.smithsonianmag.com/smart-news/these-11-wildlife-images-from-the-ocean-conservancys-photography-contest-showcase-the-wonder-of-earths-waters-180989069/",
+      "summary": "Seals, penguins and fish are featured in the nonprofit’s annual competition to inspire care for the world’s oceans",
+      "date": "2026-07-06T22:15:10Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/vJvxxw1CfSIKsGERAkeiHmhljH8=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5b/c4/5bc43a56-9870-49ae-93bb-b889d68b16f2/ezgif-56b892c5e48a6413.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-06T23:14:08Z"
+    },
+    {
+      "title": "Bumblebee facial movements give clues to their inner lives",
+      "link": "https://www.newscientist.com/article/2533149-bumblebee-facial-movements-give-clues-to-their-inner-lives/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A series of experiments shows that bees respond differently to tastes depending on their internal states, hinting that they have something akin to our emotions",
+      "date": "2026-07-06T20:00:51Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/06142655/SEI_304232627.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-06T23:14:10Z"
+    },
+    {
+      "title": "Artefacts hint at cultural exchange between Neanderthals and humans",
+      "link": "https://www.newscientist.com/article/2533108-artefacts-hint-at-cultural-exchange-between-neanderthals-and-humans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A cave on the Turkish Mediterranean coast was inhabited first by Neanderthals and then Homo sapiens, but the continuity of tools and personal objects suggests there was some sharin",
+      "date": "2026-07-06T20:00:04Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/06122856/SEI_304232939.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-06T23:14:10Z"
+    },
+    {
+      "title": "Raft of targeted conservation efforts may help boost leopard numbers in sub-Saharan Africa, study suggests",
+      "link": "https://phys.org/news/2026-07-raft-efforts-boost-leopard-saharan.html",
+      "summary": "There could be fewer leopards living across sub-Saharan Africa than previously believed, according to a new study that has analyzed suitable habitat and conditions. It is hoped tha",
+      "date": "2026-07-06T23:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/leopard.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-06T23:14:12Z"
+    },
+    {
+      "title": "Hummingbirds speed up pineapple family's evolution",
+      "link": "https://phys.org/news/2026-07-hummingbirds-pineapple-family-evolution.html",
+      "summary": "Hummingbirds make bromeliad plants split into new species twice as fast as other pollinators do, scientists at the University of Reading have found. The research team gathered reco",
+      "date": "2026-07-06T23:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hummingbird.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-07-06T23:14:12Z"
+    },
+    {
+      "title": "Climate change means an earlier spring, which can be disorienting and threatening for migrating birds",
+      "link": "https://phys.org/news/2026-07-climate-earlier-disorienting-threatening-migrating.html",
+      "summary": "Spring migration has taken flight, but with rising temperatures and shifting seasons, birds are adjusting when and how they migrate to keep up with a rapidly warming climate. Morga",
+      "date": "2026-07-06T22:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/migratingbir.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-06T23:14:12Z"
+    },
+    {
+      "title": "Scientists just created the most lifelike cell ever made in a lab — here's what it could accomplish",
+      "link": "https://www.livescience.com/health/scientists-just-created-the-most-lifelike-cell-ever-made-in-a-lab-heres-what-it-could-accomplish",
+      "summary": "SpudCell is a new cell-like platform that can feed, grow and divide like a normal cell — but it's not yet a perfect re-creation of the real thing.",
+      "date": "2026-07-06T22:45:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/rRQanenR9P66KVMyeDykuG-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-06T23:14:13Z"
+    },
+    {
+      "title": "Neanderthals and modern humans may have shared culture 59,000 years ago in Turkey, study finds",
+      "link": "https://www.livescience.com/archaeology/neanderthals/modern-humans-and-neanderthals-may-have-shared-long-term-cultural-continuity",
+      "summary": "Fossils, stone tools and seashells in Turkey show that Neanderthals and the Homo sapiens who moved in later had the same hunting strategies and symbolic traditions even without ove",
+      "date": "2026-07-06T22:25:04Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/utoSE5ACGwfAskzKi7eVwT-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-06T23:14:13Z"
+    },
     {
       "title": "Hawks in Georgia",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/hawks-in-georgia/",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-06-28T18:10:49Z"
-    },
-    {
-      "title": "How to Identify an Eastern Meadowlark",
-      "link": "https://www.birdsandblooms.com/birding/bird-species/tanagers-and-blackbirds/eastern-meadowlark/",
-      "summary": "Learn what an eastern meadowlark looks like and where to find this bird species. Also find out what the bird eats and where it builds a nest. The post How to Identify an Eastern Me",
-      "date": "Thu, 11 Jun 2026 20Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/Andy-Raupp2-scaled-e1781204725822.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-06-28T16:19:13Z"
-    },
-    {
-      "title": "Australia boosts shark-spotting drone coverage at Sydney beaches",
-      "link": "https://phys.org/news/2026-06-australia-boosts-shark-drone-coverage.html",
-      "summary": "Australia will expand shark-spotting drone coverage year-round at beaches across Sydney and beyond from July 1, authorities said Sunday, following a rise in attacks and sightings.",
-      "date": "2026-06-28T15:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/australian-lifesavers.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-28T16:19:28Z"
-    },
-    {
-      "title": "Our brains aren't wired to handle this much bad news. But 'looking away is not the fix,' expert says.",
-      "link": "https://www.livescience.com/human-behavior/psychology/our-brains-arent-wired-to-handle-this-much-bad-news-but-looking-away-is-not-the-fix-expert-says",
-      "summary": "Around 40% of people around the world are avoiding the news. Here's why, according to a psychologist.",
-      "date": "2026-06-28T16:15:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/DdfvEJiv24eF5gjwYKrpuK-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-28T16:19:29Z"
-    },
-    {
-      "title": "Three Photos: Caged Birds of Kabul, Afghanistan",
-      "link": "https://www.10000birds.com/three-photos-caged-birds-of-kabul-afghanistan.htm?utm_source=rss&utm_medium=rss&utm_campaign=three-photos-caged-birds-of-kabul-afghanistan",
-      "summary": "Chukar Partridge Eurasian Skylark Long-legged Buzzard Photos taken by Kai Pflug in Kabul in November 2023",
-      "date": "2026-06-28T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/06/Caged-Bird-2.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-06-28T14:04:53Z"
-    },
-    {
-      "title": "Ironweed (Vernonia) Plant Care and Growing Tips",
-      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/ironweed-plant-vernonia/",
-      "summary": "Attract more birds and butterflies by including native plants such as ironweed in your landscape. Here's how to grow ironweed plants. The post Ironweed (Vernonia) Plant Care and Gr",
-      "date": "Thu, 11 Jun 2026 17Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/308263534_1_Nancy_Jones_BNB_PC_2022-scaled-e1781195090695.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-06-28T14:04:55Z"
-    },
-    {
-      "title": "A lunar quarantine facility to protect from alien microbes?",
-      "link": "https://earthsky.org/space/lunar-quarantine-protect-earth-invasive-alien-species/",
-      "summary": "Scientists are proposing a lunar quarantine facility on the moon to protect Earth from possible alien microbes. Do we need one? The post A lunar quarantine facility to protect from",
-      "date": "2026-06-28T12:00:09Z",
-      "image": "https://earthsky.org/upl/2023/09/asteroid-sample-big-reveal-Bennu-oct-2023-e1696882036636.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-06-28T14:05:00Z"
-    },
-    {
-      "title": "Scientists uncover evolutionary edge behind plant invasions",
-      "link": "https://phys.org/news/2026-06-scientists-uncover-evolutionary-edge-invasions.html",
-      "summary": "Plants that become invasive may owe their success to an advantage shaped long before they arrive, according to new research led by King's College London.",
-      "date": "2026-06-28T13:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/poppy-plant.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-28T14:05:10Z"
-    },
-    {
-      "title": "Oxygen atoms in 15‑million‑year‑old giant eggshells reveal how plants reacted to a hotter Earth",
-      "link": "https://phys.org/news/2026-06-oxygen-atoms-15millionyearold-giant-eggshells.html",
-      "summary": "Some periods in Earth's history are so different from our own that they may as well belong to another planet. Many people are interested in the age of dinosaurs or the Ice Ages, bu",
-      "date": "2026-06-28T12:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oxygen-atoms-in-15mill.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-28T14:05:10Z"
     }
   ]
 }
