@@ -1,8 +1,41 @@
 {
-  "updated": "2026-07-06T04:16:05Z",
-  "updated_utc": "2026-07-06T04:16:05Z",
+  "updated": "2026-07-06T09:05:31Z",
+  "updated_utc": "2026-07-06T09:05:31Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Bird flu?! Seriously? Can somebody tell this virus it’s really not a good time | First Dog on the Moon",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/jul/06/bird-flu-seriously-can-somebody-tell-this-virus-its-really-not-a-good-time",
+      "summary": "There’s already too much going on Sign up here to get an email whenever First Dog cartoons are published Get all your needs met at the First Dog shop if what you need is First Dog ",
+      "date": "2026-07-06T06:15:16Z",
+      "image": "https://i.guim.co.uk/img/media/a66807cb5efb2df22a41208d05cce8cb3b7ba0ec/0_0_1004_803/master/1004.jpg?width=140&quality=85&auto=format&fit=max&s=4ea7bf917a60772cd92dab2b34ac4fcf",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-06T09:05:16Z"
+    },
+    {
+      "title": "How we can coexist with coyotes, and other lessons from Stanley Park: Q&A with zoologists",
+      "link": "https://phys.org/news/2026-07-coexist-coyotes-lessons-stanley-qa.html",
+      "summary": "Researchers are sharing lessons from the unprecedented Stanley Park coyote attacks from 2020 to 2021 to help people better coexist with urban wildlife.",
+      "date": "2026-07-06T09:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-we-can-coexist-wit.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-06T09:05:27Z"
+    },
+    {
+      "title": "Neutral lipids enable precision control over supramolecular polymerization",
+      "link": "https://phys.org/news/2026-07-neutral-lipids-enable-precision-supramolecular.html",
+      "summary": "The formation of supramolecular polymers within living cells is an emerging strategy for regulating cellular functions, and lipid droplets (LDs) are promising environments for such",
+      "date": "2026-07-06T09:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/neutral-lipids-enable.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-06T09:05:27Z"
+    },
     {
       "title": "Rats show empathy, according to model",
       "link": "https://phys.org/news/2026-07-rats-empathy.html",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-06-26T17:57:31Z"
-    },
-    {
-      "title": "California's unidentified coastal species get a DNA library of their own",
-      "link": "https://phys.org/news/2026-06-california-unidentified-coastal-species-dna.html",
-      "summary": "The closest thing marine taxonomists have to the Olympics is now underway in San Diego. But instead of racing for medals, leading scientists are spending two weeks working together",
-      "date": "2026-06-26T16:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/californias-unidentifi.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-26T17:57:31Z"
-    },
-    {
-      "title": "Global rice paddy greenhouse gas emissions have doubled during the past six decades, study shows",
-      "link": "https://phys.org/news/2026-05-global-rice-paddy-greenhouse-gas.html",
-      "summary": "Rice paddy greenhouse gas emissions have doubled during the past 60 years—but practical farm changes could cut methane emissions and support global climate targets without reducing",
-      "date": "2026-06-26T15:50:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/paddy-rice.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-26T17:57:31Z"
-    },
-    {
-      "title": "Ancient empires quiz: Can you match these lands to the historical powers that ruled them?",
-      "link": "https://www.livescience.com/archaeology/ancient-empires-quiz-can-you-match-these-lands-to-the-historical-powers-that-ruled-them",
-      "summary": "From the Andes to the steppes of Central Asia, great empires have waxed and waned. Can you match each territory to the culture that once ruled it?",
-      "date": "2026-06-26T16:23:33Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/kQuXYp5fVN5GvWNpRqNVzN-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-26T17:57:33Z"
     }
   ]
 }
