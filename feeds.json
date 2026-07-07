@@ -1,8 +1,41 @@
 {
-  "updated": "2026-07-06T23:14:15Z",
-  "updated_utc": "2026-07-06T23:14:15Z",
+  "updated": "2026-07-07T04:05:52Z",
+  "updated_utc": "2026-07-07T04:05:52Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘A break from scrolling’: how Gen Z fell in love with birding – podcast",
+      "link": "https://www.theguardian.com/science/audio/2026/jul/07/a-break-from-scrolling-how-gen-z-fell-in-love-with-birding-podcast",
+      "summary": "In the last 50 years, Britain has lost an astonishing 73 million wild birds from its landscape, according to the British Trust for Ornithology. Habitat loss, pesticides, disease, c",
+      "date": "2026-07-07T04:00:30Z",
+      "image": "https://i.guim.co.uk/img/media/0d885e81e1a558ed4960c8a62dd4f76da2f29be7/649_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=0d91ae045a2adeb0ff0f25133e746b6d",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-07T04:05:35Z"
+    },
+    {
+      "title": "Efficient method for preparing pseudopregnant mice promotes laboratory animal welfare",
+      "link": "https://phys.org/news/2026-07-efficient-method-pseudopregnant-mice-laboratory.html",
+      "summary": "In biomedical research using mouse models, preparing pseudopregnant recipient females is a standard step in embryo transfer protocols. Conventionally, this process requires technic",
+      "date": "2026-07-07T02:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lab-mice.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-07T04:05:48Z"
+    },
+    {
+      "title": "AI system translates protein sequences into text, helping reveal functions of unknown proteins",
+      "link": "https://phys.org/news/2026-07-ai-protein-sequences-text-reveal.html",
+      "summary": "In a paper published in Proceedings of the National Academy of Sciences, researchers from Technion and Tel Aviv University present BetaDescribe, an AI system that translates protei",
+      "date": "2026-07-07T01:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-system-translates-p.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-07T04:05:48Z"
+    },
     {
       "title": "These 11 Wildlife Images From the Ocean Conservancy’s Photography Contest Showcase the Wonder of Earth’s Waters",
       "link": "https://www.smithsonianmag.com/smart-news/these-11-wildlife-images-from-the-ocean-conservancys-photography-contest-showcase-the-wonder-of-earths-waters-180989069/",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-06-29T00:15:18Z"
-    },
-    {
-      "title": "Bird flu is deadly for backyard chickens—and even cats. A vet expert explains",
-      "link": "https://phys.org/news/2026-06-bird-flu-deadly-backyard-chickens.html",
-      "summary": "The deadly H5N1 strain of bird flu has been found in seabirds in two Australian states.",
-      "date": "2026-06-28T22:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/backyard-chickens.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-29T00:15:18Z"
-    },
-    {
-      "title": "Poem – Blue Jay",
-      "link": "https://www.10000birds.com/poem-blue-jay.htm?utm_source=rss&utm_medium=rss&utm_campaign=poem-blue-jay",
-      "summary": "In the heat in the heat in the heat I sway. The only bird outside is a big ol’ Blue Jay. Squawk squawk squawk. It sounds its report. I’m way too hot to offer any retort.",
-      "date": "2026-06-28T21:44:12Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/06/georgeb2-bird-2715575-scaled.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-06-28T22:07:24Z"
-    },
-    {
-      "title": "Ancient algal defenses against UV may have helped plants conquer land",
-      "link": "https://phys.org/news/2026-06-ancient-algal-defenses-uv-conquer.html",
-      "summary": "A new study sheds light on how the ancestors of modern land plants survived one of the most challenging aspects of life outside water: exposure to harmful ultraviolet (UV) radiatio",
-      "date": "2026-06-28T17:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/evolution-of-algal-sun.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-28T18:10:49Z"
     }
   ]
 }
