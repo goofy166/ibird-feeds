@@ -1,8 +1,41 @@
 {
-  "updated": "2026-07-07T04:05:52Z",
-  "updated_utc": "2026-07-07T04:05:52Z",
+  "updated": "2026-07-07T08:29:10Z",
+  "updated_utc": "2026-07-07T08:29:10Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Why would we show an optical illusion to a monkey or a sparrow? To learn how they experience time, of course | Ishan Singhal",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/07/how-animals-experience-time-differently",
+      "summary": "Animals may inhabit the same world as us, but new research shows how their perceptions of what is around them differs Imagine standing in your garden. A bumblebee whizzes overhead ",
+      "date": "2026-07-07T07:00:33Z",
+      "image": "https://i.guim.co.uk/img/media/ca169b59ade686734bc0c308d1cc92a89574fa0e/249_0_3239_2592/master/3239.jpg?width=140&quality=85&auto=format&fit=max&s=e324c057c4da53154e9e47d13fd06091",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-07T08:28:55Z"
+    },
+    {
+      "title": "Ovaries may turn into an 'immune-like organ' after the menopause",
+      "link": "https://www.newscientist.com/article/2533022-ovaries-may-turn-into-an-immune-like-organ-after-the-menopause/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The ovaries of aged mice become infiltrated with immune cells linked to widespread inflammation in the body, and the same change could be happening in women",
+      "date": "Tue, 07 Jul 2026 08Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/06103647/SEI_303708794.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-07T08:29:06Z"
+    },
+    {
+      "title": "Making scents of cannabis: How cannabis cultivar and preparation methods influence aroma",
+      "link": "https://phys.org/news/2026-07-scents-cannabis-cultivar-methods-aroma.html",
+      "summary": "Ongoing research reveals how the aroma of cannabis is influenced not only by the chosen cultivar, but also by different drying and storage methods. Through a combination of high-re",
+      "date": "2026-07-07T07:30:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/making-scents-of-canna.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-07T08:29:07Z"
+    },
     {
       "title": "‘A break from scrolling’: how Gen Z fell in love with birding – podcast",
       "link": "https://www.theguardian.com/science/audio/2026/jul/07/a-break-from-scrolling-how-gen-z-fell-in-love-with-birding-podcast",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-06-29T05:57:22Z"
-    },
-    {
-      "title": "A deadly strain of bird flu has landed on Australian shores. Does it pose a risk to pets?",
-      "link": "https://www.theguardian.com/australia-news/2026/jun/29/h5n1-bird-flu-australia-risk-to-pets",
-      "summary": "The H5N1 virus can be fatal to cats and dogs but cases are infrequent and may be mistaken for other illnesses Follow our Australia news live blog for latest updates Get our breakin",
-      "date": "2026-06-29T00:36:29Z",
-      "image": "https://i.guim.co.uk/img/media/49c6a48237ef383b780ad0491d8002dcca17417a/867_695_2372_1898/master/2372.jpg?width=140&quality=85&auto=format&fit=max&s=9b4ced35a8f1b4e7cf1c6712805963e7",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-29T05:57:22Z"
-    },
-    {
-      "title": "The order of species loss alters how grasslands maintain stability, study finds",
-      "link": "https://phys.org/news/2026-06-species-loss-grasslands-stability.html",
-      "summary": "Grasslands account for roughly 40% of terrestrial ecosystems and are paramount to global food security. Wild grasslands provide food for livestock and habitat for pollinators and a",
-      "date": "2026-06-29T04:10:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/grasslands.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-06-29T05:57:33Z"
-    },
-    {
-      "title": "Lost megalodon vertebrae resurface, confirming 80-foot size estimate",
-      "link": "https://phys.org/news/2026-06-lost-megalodon-vertebrae-resurface-foot.html",
-      "summary": "An associated set of gigantic vertebrae belonging to the iconic extinct megalodon, or megatooth shark, that had been missing in action since the 1980s was discovered, providing new",
-      "date": "2026-06-29T00:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rediscovery-of-once-lo.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-29T00:15:18Z"
     }
   ]
 }
