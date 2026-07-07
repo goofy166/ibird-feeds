@@ -1,8 +1,52 @@
 {
-  "updated": "2026-07-07T20:52:43Z",
-  "updated_utc": "2026-07-07T20:52:43Z",
+  "updated": "2026-07-07T22:17:22Z",
+  "updated_utc": "2026-07-07T22:17:22Z",
   "count": 500,
   "stories": [
+    {
+      "title": "North Bay beekeepers battle climate swings to continue legacy of honeymaking",
+      "link": "https://www.mercurynews.com/2026/06/22/north-bay-beekeepers-battle-climate-swings-to-continue-legacy-of-honeymaking/",
+      "summary": "Longtime beekeepers say climate change impacts driving extreme heat, disease and pests are increasingly harming their hives. But there are still beekeepers trying their hand at man",
+      "date": "2026-06-22T14:59:10Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/NBJ-L-BEEISSUES-062226-05.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-07-07T22:17:12Z"
+    },
+    {
+      "title": "A Plunge on a Glacier Peak Triggered a Precision Chopper Rescue. Here is How Crew Members Pulled It Off.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/mount-siyeh-glacier-helicopter-rescue/",
+      "summary": "Rescuers tell Outside about the dramatic hoist rescue of two climbers stranded on Mount Siyeh in Glacier National Park after a fall. The post A Plunge on a Glacier Peak Triggered a",
+      "date": "Tue, 07 Jul 2026 21Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/Screenshot-2026-07-07-at-3.31.05 PM.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-07T22:17:13Z"
+    },
+    {
+      "title": "Strange Spheres Washed Ashore on an Australian Beach. Authorities Say They're Probably 'Space Balls'—Empty Fuel Vessels From a Rocket",
+      "link": "https://www.smithsonianmag.com/smart-news/strange-spheres-washed-ashore-on-an-australian-beach-authorities-say-theyre-probably-space-balls-empty-fuel-vessels-from-a-rocket-180989082/",
+      "summary": "The shiny objects—each roughly twice the size of a basketball—began to appear on July 3. Authorities initially worried that they were hazardous but have since determined that they'",
+      "date": "Tue, 07 Jul 2026 21Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/z6YAeIGNEjPfOrARmglg1NYb6os=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e7/12/e712ea2b-abc3-487d-b14e-0b3aece0145d/smithsonian_feature_images_2.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-07T22:17:15Z"
+    },
+    {
+      "title": "Isotope probing shows soil is packed with dormant viruses lying in wait",
+      "link": "https://phys.org/news/2026-07-isotope-probing-soil-dormant-viruses.html",
+      "summary": "A single gram of soil contains between 10 million and 1 billion viruses. Most of those viruses do not infect plants, animals or people, but they do target bacteria and other microb",
+      "date": "2026-07-07T21:20:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/isotope-probing-shows-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-07T22:17:18Z"
+    },
     {
       "title": "7 Easiest Perennials to Grow From Seed",
       "link": "https://www.birdsandblooms.com/gardening/gardening-basics/easiest-perennials-grow-from-seed/",
@@ -5458,50 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-06-30T11:47:52Z"
-    },
-    {
-      "title": "Stop the sting! Fire ant control tips",
-      "link": "https://phys.org/news/2026-06-ant.html",
-      "summary": "Fire ants are a common nuisance across much of the United States, known for their painful stings and unsightly dirt mounds in lawns and outdoor spaces. However, for individuals who",
-      "date": "2026-06-30T11:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/stop-the-sting-ut-exte.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-30T11:48:02Z"
-    },
-    {
-      "title": "How cricket mothers control the developmental timing of their offspring",
-      "link": "https://phys.org/news/2026-06-cricket-mothers-developmental-offspring.html",
-      "summary": "Diapause is a fascinating form of biological dormancy employed by a broad array of animals as a survival strategy to endure adverse environmental conditions. To overcome the proble",
-      "date": "2026-06-30T09:00:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-cricket-mothers-co.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-06-30T11:48:02Z"
-    },
-    {
-      "title": "How embryonic cells 'read' their boundaries to organize themselves",
-      "link": "https://phys.org/news/2026-06-embryonic-cells-boundaries.html",
-      "summary": "In the earliest stages of life, mammalian embryos start as a disorganized cluster of cells. As development progresses, these cells become organized into well-defined shapes and str",
-      "date": "2026-06-30T09:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/embryo-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-30T11:48:02Z"
-    },
-    {
-      "title": "Shadowy tendrils of ancient lava have scarred a dark volcano next to a 'skull' in the Sahara — Earth from space",
-      "link": "https://www.livescience.com/planet-earth/volcanoes/shadowy-tendrils-of-ancient-lava-have-scarred-a-dark-volcano-next-to-a-skull-in-the-sahara-earth-from-space",
-      "summary": "A 2019 astronaut photo shows off ancient lava flows that once oozed down the jet-black slopes of the Toussidé volcano in northwestern Chad. An intriguing volcanic \"skull\" also lurk",
-      "date": "Tue, 30 Jun 2026 07Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/e9n64pCxbSgD8uYGJ9m7fZ-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-30T08:33:40Z"
     }
   ]
 }
