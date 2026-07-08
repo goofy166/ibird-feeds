@@ -1,8 +1,63 @@
 {
-  "updated": "2026-07-07T22:17:22Z",
-  "updated_utc": "2026-07-07T22:17:22Z",
+  "updated": "2026-07-08T00:05:20Z",
+  "updated_utc": "2026-07-08T00:05:20Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Op-Ed: The New Theodore Roosevelt Library Is a Tribute to Conservation. Ironically, President Trump Was Its First Official Visitor.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/theodore-roosevelt-presidential-library-trump-visit/",
+      "summary": "The grand opening of a North Dakota museum dedicated to the father of American conservation sparked quiet tension during a visit from Donald Trump, during a growing national debate",
+      "date": "Tue, 07 Jul 2026 23Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/trump.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-08T00:05:11Z"
+    },
+    {
+      "title": "Fishing for DNA: How a cup of river water can reveal secrets about human health, pollution and biodiversity",
+      "link": "https://phys.org/news/2026-07-fishing-dna-cup-river-reveal.html",
+      "summary": "The DNA in a single cup of water can track wildlife, monitor pollution and survey pathogens in waterways and their surroundings, all at the same time.",
+      "date": "2026-07-07T23:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fishing-for-dna-how-a.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-08T00:05:16Z"
+    },
+    {
+      "title": "Where rivers face collapse: New tool shows where conservation dollars can do most good",
+      "link": "https://phys.org/news/2026-07-rivers-collapse-tool-dollars-good.html",
+      "summary": "Freshwater ecosystems are under growing pressure worldwide, but conservation resources are limited. A framework developed by IIASA researchers and partners can help identify where ",
+      "date": "2026-07-07T23:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-framework-identifi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-08T00:05:16Z"
+    },
+    {
+      "title": "Unique fossil record of marine mollusks helps scientists predict extinction risk—before it's too late",
+      "link": "https://phys.org/news/2026-07-unique-fossil-marine-mollusks-scientists.html",
+      "summary": "Scientists are increasingly worried we may be witnessing the start of the \"sixth mass extinction\"—the first to be caused by human activities.",
+      "date": "2026-07-07T22:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nzs-unique-fossil-reco.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-08T00:05:16Z"
+    },
+    {
+      "title": "Fungi communicate with one another in the presence of metal pollution in forests",
+      "link": "https://phys.org/news/2026-07-fungi-communicate-presence-metal-pollution.html",
+      "summary": "VUB researcher Maarten Ottaway investigated how trees and their invisible underground allies—the fungi—respond to soil pollution. His Ph.D. sheds new light on an age-old partnershi",
+      "date": "2026-07-07T22:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/1-fungi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-08T00:05:16Z"
+    },
     {
       "title": "North Bay beekeepers battle climate swings to continue legacy of honeymaking",
       "link": "https://www.mercurynews.com/2026/06/22/north-bay-beekeepers-battle-climate-swings-to-continue-legacy-of-honeymaking/",
@@ -5447,61 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-06-30T11:47:45Z"
-    },
-    {
-      "title": "Bird Guides of the World: Javier Pereyra, Argentina",
-      "link": "https://www.10000birds.com/bird-guides-of-the-world-javier-pereyra-argentina.htm?utm_source=rss&utm_medium=rss&utm_campaign=bird-guides-of-the-world-javier-pereyra-argentina",
-      "summary": "What is your favorite bird species? I would choose the Furnariidae, the ovenbird family, rather than a single species. There may be some local bias in that, but I find the whole fa",
-      "date": "Tue, 30 Jun 2026 11Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/04/Guiding.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-06-30T11:47:45Z"
-    },
-    {
-      "title": "‘Living laboratory’: Suffolk agroforestry farm seeks community ownership to survive",
-      "link": "https://www.theguardian.com/environment/2026/jun/30/suffolk-agroforestry-farm-wakelyns-community-ownership-survive",
-      "summary": "Wakelyns needs £1.2m to save its diverse organic crops and ‘micro’ enterprises including a bakery and honeybee hives The aerial view of Wakelyns matches the experience of visiting ",
-      "date": "2026-06-30T10:00:05Z",
-      "image": "https://i.guim.co.uk/img/media/2a2d61167a81bf35a529742fd49e6b65ec24c167/1171_584_6054_4843/master/6054.jpg?width=140&quality=85&auto=format&fit=max&s=e7501053d5845864408c6ede7a7bf3ec",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-06-30T11:47:51Z"
-    },
-    {
-      "title": "A passing star may have unleashed a comet deluge",
-      "link": "https://earthsky.org/space/passing-star-unleashed-comet-deluge/",
-      "summary": "Scientists think a passing star 2.5 million years ago might have sent a wave of comets in toward the sun. Some of those comets could still be arriving today. The post A passing sta",
-      "date": "Tue, 30 Jun 2026 11Z",
-      "image": "https://earthsky.org/upl/2026/06/Jan-20-2007-Comet-McNaught-Sjbmgrtl-in-Western-Australia-Wikimedia-Commons-e1782609520542.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-06-30T11:47:52Z"
-    },
-    {
-      "title": "Extreme heat impacting millions across eastern half of US",
-      "link": "https://earthsky.org/earth/extreme-heat-eastern-united-states-late-june-30-early-july-2026/",
-      "summary": "A dangerous, extreme heat wave is forecast for the Midwest and East Coast of the United States this week into the holiday weekend. Get the details here. The post Extreme heat impac",
-      "date": "Tue, 30 Jun 2026 10Z",
-      "image": "https://earthsky.org/upl/2026/06/hot-orange-sun-summer-heat-20260629-scaled-e1782768073395.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-06-30T11:47:52Z"
-    },
-    {
-      "title": "The Tunguska explosion rocked Siberia 118 years ago",
-      "link": "https://earthsky.org/space/what-is-the-tunguska-explosion/",
-      "summary": "The Tunguska explosion on June 30, 1908, is the largest asteroid impact in recorded history. Researchers are preparing for future Tunguska-sized events. The post The Tunguska explo",
-      "date": "Tue, 30 Jun 2026 08Z",
-      "image": "https://earthsky.org/upl/2019/06/Tunguska-event-location.png",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-06-30T11:47:52Z"
     }
   ]
 }
