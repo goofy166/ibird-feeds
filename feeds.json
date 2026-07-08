@@ -1,8 +1,52 @@
 {
-  "updated": "2026-07-08T04:20:21Z",
-  "updated_utc": "2026-07-08T04:20:21Z",
+  "updated": "2026-07-08T07:35:03Z",
+  "updated_utc": "2026-07-08T07:35:03Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Health risk fears for storks in Europe over ‘junk food’ from landfill",
+      "link": "https://www.theguardian.com/environment/2026/jul/08/health-risk-fears-for-storks-in-europe-over-junk-food-from-landfill",
+      "summary": "Rubbish dumps can expose birds to contaminants, raising questions over whether landfill foraging helps or harms Storks are gaining weight from a diet of literal junk, according to ",
+      "date": "2026-07-08T07:30:23Z",
+      "image": "https://i.guim.co.uk/img/media/8c7317f40e18cfafc94334d3cf182b97c7fe857e/909_0_2976_2381/master/2976.jpg?width=140&quality=85&auto=format&fit=max&s=2ac08666323f09c40ed8e207cc178bdf",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-08T07:34:47Z"
+    },
+    {
+      "title": "Country diary: Following the flight path of a meadow brown | Kate Bradbury",
+      "link": "https://www.theguardian.com/environment/2026/jul/08/country-diary-following-the-flight-path-of-a-meadow-brown",
+      "summary": "Barston, West Midlands: It’s been a strange year so far for butterflies, and I get my summer meadow brown moment beneath a roaring jumbo jet On one of the longest days, my mum and ",
+      "date": "2026-07-08T04:30:19Z",
+      "image": "https://i.guim.co.uk/img/media/cef04e6c213e2c00321249517d7fab177213105c/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=4b083da6546258d6596c371cdb833467",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-08T07:34:47Z"
+    },
+    {
+      "title": "How extreme heat affects the body – and the best ways to cope",
+      "link": "https://www.newscientist.com/article/2533216-how-extreme-heat-affects-the-body-and-the-best-ways-to-cope/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A short spell in a heat chamber at the University of Brighton showed Alec Luhn that his body is not adapted to high temperatures – but regular exposure can train the body to respon",
+      "date": "2026-07-08T07:00:02Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/07134843/SEI_304374726.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-08T07:34:58Z"
+    },
+    {
+      "title": "How climate change affects interactions between owls and their prey",
+      "link": "https://phys.org/news/2026-07-climate-affects-interactions-owls-prey.html",
+      "summary": "A study published in Ecography has assessed how climate change may be destabilizing interactions between predators and prey in the wild—specifically, how owl–prey interactions have",
+      "date": "2026-07-08T07:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/owlprey.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-08T07:34:59Z"
+    },
     {
       "title": "Global warming, increasing wildfire risk threaten viability of some California winery regions",
       "link": "https://phys.org/news/2026-07-global-wildfire-threaten-viability-california.html",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-06-30T17:09:20Z"
-    },
-    {
-      "title": "Why Did Neanderthals Go Extinct? Inbreeding Probably Wasn't to Blame for Their Demise in Northwestern Europe, a Study Suggests",
-      "link": "https://www.smithsonianmag.com/smart-news/why-did-neanderthals-go-extinct-inbreeding-probably-wasnt-to-blame-for-their-demise-in-northwestern-europe-a-study-suggests-180989032/",
-      "summary": "In contrast to those who resided in Siberia, Neanderthals who lived in what's now Belgium and France shortly before the species vanished seem to have been genetically diverse and h",
-      "date": "Tue, 30 Jun 2026 14Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/-Z3pPohNNALkeTlAhSkfjKO6Ytg=/420x240/filters:focal(700x460:701x461)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/66/d6/66d69e9c-14dd-46b2-896c-140f68f1db96/original_1.webp",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-30T14:34:09Z"
-    },
-    {
-      "title": "Mars Rover Spots Complex Carbon on the Red Planet, Marking Yet Another Detection of a Building Block of Life",
-      "link": "https://www.smithsonianmag.com/smart-news/mars-rover-spots-complex-carbon-on-the-red-planet-marking-yet-another-detection-of-a-building-block-of-life-180989043/",
-      "summary": "Along with other recent discoveries, the new finding from Perseverance boosts the case that Mars once hosted conditions that could support living things—but it isn’t a definitive s",
-      "date": "Tue, 30 Jun 2026 13Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/z5nbQxq2uMeSpnev0lKN7Aa1c9I=/420x240/filters:focal(640x363:641x364)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5f/12/5f1253ed-da49-47d4-9707-fa3d27d1d17a/what-new-analyses-reve.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-30T14:34:09Z"
-    },
-    {
-      "title": "The Hall of Raphael Frescoes Where the Pope Lives at the Vatican Is Getting a Much-Needed Restoration With the Help of Lasers",
-      "link": "https://www.smithsonianmag.com/smart-news/the-vaticans-hall-of-raphael-frescoes-in-the-popes-residence-is-getting-a-much-needed-restoration-with-the-help-of-lasers-180989041/",
-      "summary": "Conservators will spend the next five years cleaning and retouching the Renaissance frescoes, which date back to the early 16th century",
-      "date": "Tue, 30 Jun 2026 13Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/Yz2DXz-ZI4uz_MuyNk9j5z_Emj0=/420x240/filters:focal(600x400:601x401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/dc/45/dc452cf1-4306-47d2-8ad6-59e5d041fb37/732026772_1332758864962399_6782537681361152190_n.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-30T14:34:09Z"
-    },
-    {
-      "title": "During World War I, This Woman Asked Americans to Welcome Immigrants—and Urged New Arrivals to Assimilate",
-      "link": "https://www.smithsonianmag.com/history/during-world-war-i-this-woman-asked-americans-to-welcome-immigrants-and-urged-new-arrivals-to-assimilate-180989035/",
-      "summary": "Progressive reformer Frances Kellor spearheaded efforts to celebrate Americanization Day, arguing that immigrants should fully embrace U.S. culture to better adapt to life in their",
-      "date": "Tue, 30 Jun 2026 11Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/CD5FS6mwVaWinXGwvjdLOAdahEI=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fc/c0/fcc0e743-e913-49c0-836c-ac48d96ab4da/frances-kellor.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-30T14:34:09Z"
     }
   ]
 }
