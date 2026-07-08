@@ -1,8 +1,52 @@
 {
-  "updated": "2026-07-08T19:45:16Z",
-  "updated_utc": "2026-07-08T19:45:16Z",
+  "updated": "2026-07-08T21:16:26Z",
+  "updated_utc": "2026-07-08T21:16:26Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The City of Boston Discovered One of the Oldest Known Gravestones of a Free Black American, Who Shared a Name With the Massachusetts Capital",
+      "link": "https://www.smithsonianmag.com/smart-news/the-city-of-boston-discovered-one-of-the-oldest-known-gravestones-of-a-free-black-american-who-shared-a-name-with-the-massachusetts-capital-180989088/",
+      "summary": "Also known as Sebastian, he died in 1729 and is buried alongside Samuel Adams, John Hancock and Paul Revere. His life tells a story of slavery and freedom in the North before the A",
+      "date": "2026-07-08T20:56:06Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/sXfoCE8mj4TzYut3hMgNKQqn_8c=/420x240/filters:focal(2586x1699:2587x1700)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1c/28/1c28233b-9560-4b0f-a27e-5308bc455605/usa-granary_burying_ground0.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-08T21:16:19Z"
+    },
+    {
+      "title": "Dynamic population breeding improves turquoise killifish husbandry",
+      "link": "https://phys.org/news/2026-07-dynamic-population-turquoise-killifish-husbandry.html",
+      "summary": "Originally from southeastern Africa, the turquoise killifish (Nothobranchius furzeri) lives in seasonal bodies of water that form during the rainy season and disappear again during",
+      "date": "2026-07-08T21:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dynamic-population-bre.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-08T21:16:23Z"
+    },
+    {
+      "title": "The language of play: Hyenas use facial expressions and vocalizations to de-escalate",
+      "link": "https://phys.org/news/2026-07-language-play-hyenas-facial-vocalizations.html",
+      "summary": "Scientists observed spotted hyenas (Crocuta crocuta) playing in the wild and found that their precise, sophisticated communication is on par with that of many primate species. Hyen",
+      "date": "2026-07-08T20:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-language-of-play-h.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-08T21:16:23Z"
+    },
+    {
+      "title": "New CRISPR method makes it possible to control protein production in cells",
+      "link": "https://phys.org/news/2026-07-crispr-method-protein-production-cells.html",
+      "summary": "The speed at which a cell produces proteins is a decisive factor in determining whether it divides, specializes or retains its stem cell properties. A team of researchers led by Pr",
+      "date": "2026-07-08T20:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/crispr.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-08T21:16:23Z"
+    },
     {
       "title": "The Best Way to Keep Algae Out of Your Birdbath",
       "link": "https://www.birdsandblooms.com/birding/attracting-birds/prevent-algae-birdbath/",
@@ -5458,50 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-07-01T13:36:47Z"
-    },
-    {
-      "title": "How Tens of Thousands of Irish Immigrants Led the Patriots to Victory During the American Revolution",
-      "link": "https://www.smithsonianmag.com/history/how-tens-of-thousands-of-irish-immigrants-led-the-patriots-to-victory-during-the-american-revolution-180989052/",
-      "summary": "Soldiers of Irish heritage accounted for up to 50 percent of the Continental Army's ranks. Driven from their homeland by British oppression, Irish-born rebels also served as spies,",
-      "date": "2026-07-01T12:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/OfZZxcKMW7bpzgqAbtm42I6OuDI=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5a/a2/5aa2280c-a29c-4ff3-9ff9-2599e3910337/ireland.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-01T13:36:51Z"
-    },
-    {
-      "title": "A new species of walking shark has been found in Papua New Guinea",
-      "link": "https://www.sciencenews.org/article/new-species-walking-shark-dudgeon",
-      "summary": "Walking sharks crawl on their fins across reefs and even out into tide pools. The newfound Dudgeon walking shark brings the known species count to 10.",
-      "date": "2026-07-01T13:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/062426_BR_walkingshark_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-01T13:36:52Z"
-    },
-    {
-      "title": "The best new science-fiction novels published in July 2026",
-      "link": "https://www.newscientist.com/article/2532492-the-best-new-science-fiction-novels-published-in-july-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Sci-fi fans can enjoy a new Red Dwarf novel – the first for 30 years – this month, as well as sci-fi horror from Paul Tremblay and a journey to Planet Happy with Riley August",
-      "date": "2026-07-01T10:00:48Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/01093626/sei303474943.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-01T13:36:53Z"
-    },
-    {
-      "title": "Slowdown of AMOC ocean current may be gradual and reversible",
-      "link": "https://www.newscientist.com/article/2532392-slowdown-of-amoc-ocean-current-may-be-gradual-and-reversible/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Scientists worry that a surge of meltwater from Greenland could irreversibly collapse the Atlantic Meridional Overturning Circulation, but new modelling suggests the weakening of t",
-      "date": "2026-07-01T09:27:01Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/30165644/SEI_303508387.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-01T13:36:53Z"
     }
   ]
 }
