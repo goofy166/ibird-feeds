@@ -1,8 +1,96 @@
 {
-  "updated": "2026-07-08T10:26:44Z",
-  "updated_utc": "2026-07-08T10:26:44Z",
+  "updated": "2026-07-08T12:26:10Z",
+  "updated_utc": "2026-07-08T12:26:10Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Northern Gannets of Bonaventure Island",
+      "link": "https://www.10000birds.com/the-northern-gannets-of-bonaventure-island.htm?utm_source=rss&utm_medium=rss&utm_campaign=the-northern-gannets-of-bonaventure-island",
+      "summary": "On our recent trip to the Gaspé Peninsula and Percé in Quebec, it took two attempts to see the breeding seabirds of Bonaventure Island. Our first boat excursion was cancelled due t",
+      "date": "2026-07-08T11:00:22Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/Northern_gannet_colony_-_Bonaventure_Island_National_Park_-_Eastern_Canada-jpg-scaled.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-07-08T12:25:50Z"
+    },
+    {
+      "title": "Ask a Bird Guide: In your area, what is the general attitude toward birds among local people?",
+      "link": "https://www.10000birds.com/ask-a-bird-guide-in-your-area-what-is-the-general-attitude-toward-birds-among-local-people.htm?utm_source=rss&utm_medium=rss&utm_campaign=ask-a-bird-guide-in-your-area-what-is-the-general-attitude-toward-birds-among-local-people",
+      "summary": "We sent out another list of questions to bird guides who have already been profiled on 10,000 Birds. In the ninth edition of this second series, we ask In your area, what is the ge",
+      "date": "2026-07-08T11:00:00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/05/Eastern-Buzzard_DSC4660-Nanhui-Nov-2017.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-07-08T12:25:50Z"
+    },
+    {
+      "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
+      "link": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
+      "summary": "Experts warn that some marine species are at risk of ‘mass mortality events’ in ever-warming oceans UK waters are being hit with an “extreme” marine heatwave, the Met Office has sa",
+      "date": "2026-07-08T11:13:33Z",
+      "image": "https://i.guim.co.uk/img/media/03e45e8d59d2e7b985f7d2c51adc764f628b1ef7/86_0_4681_3744/master/4681.jpg?width=140&quality=85&auto=format&fit=max&s=cfb318705f27a6d16dbfb9f9536b6f7c",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-08T12:25:56Z"
+    },
+    {
+      "title": "Nearby super-Earth GJ 3378b may be a good candidate for life",
+      "link": "https://earthsky.org/space/nearby-super-earth-planet-gj-3378b-habitability/",
+      "summary": "Astronomers have gotten a closer look at the nearby super-Earth GJ 3378b. It could be habitable, if it has an atmosphere. The post Nearby super-Earth GJ 3378b may be a good candida",
+      "date": "2026-07-08T11:00:27Z",
+      "image": "https://earthsky.org/upl/2026/07/GJ3378b-super-Earth-exoplanet-June-30-2026.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-07-08T12:25:57Z"
+    },
+    {
+      "title": "When Germany Built a Flying Train 125 Years Ago, a City Coalesced Beneath It. It Has Moved Royalty, Commuters and Tourists—and One Elephant—Ever Since",
+      "link": "https://www.smithsonianmag.com/travel/when-germany-built-a-flying-train-125-years-ago-a-city-coalesced-beneath-it-it-has-moved-royalty-commuters-and-touristsand-one-elephantever-since-180989072/",
+      "summary": "When there was no room on the ground, towns in the Wupper Valley looked to the skies and built a suspension railway that became a source of pride and connection",
+      "date": "2026-07-08T12:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/wI9XIQiAz3pMTMCkb3l6WBiBBhU=/420x240/filters:focal(2016x1517:2017x1518)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/17/cf/17cffb17-9d3f-48d3-b10b-f64031c3ff77/img_9579.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-08T12:26:04Z"
+    },
+    {
+      "title": "AI tools meant to vet science are surprisingly easy to fool",
+      "link": "https://www.sciencenews.org/article/ai-tools-science-peer-review-problems",
+      "summary": "The gold standard of scientific review, peer review by researchers’ colleagues, is in crisis. AI might offer a solution but has problems of its own.",
+      "date": "2026-07-08T12:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/062226_A_AIpeerreview_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-08T12:26:05Z"
+    },
+    {
+      "title": "The allergy culprit histamine also boosts our memory",
+      "link": "https://www.newscientist.com/article/2533166-the-allergy-culprit-histamine-also-boosts-our-memory/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "A drug that raises levels of histamine – the chemical that causes allergy symptoms – in the brain boosts our memory by around 10 per cent",
+      "date": "2026-07-08T10:00:02Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/07110928/SEI_304264304.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-08T12:26:06Z"
+    },
+    {
+      "title": "Robin study suggests fleeing isn't necessarily wildlife's first response to wildfire smoke",
+      "link": "https://phys.org/news/2026-07-robin-isnt-necessarily-wildlife-response.html",
+      "summary": "Research by Oregon State University biologists suggests that toxic air stemming from wildfires won't necessarily prompt animals to flee in search of better breathing conditions. Th",
+      "date": "2026-07-08T12:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/robin-study-suggests-f.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-08T12:26:07Z"
+    },
     {
       "title": "Summer Triangle star: Vega is bright and blue-white",
       "link": "https://earthsky.org/brightest-stars/vega-brilliant-blue-white-is-third-brightest-star/",
@@ -5414,94 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-06-30T17:09:13Z"
-    },
-    {
-      "title": "As the Ocean Warms, a 'Cold Blob' in the Atlantic Has Puzzled Scientists. It Might Be a Warning Sign About a Key Current System",
-      "link": "https://www.smithsonianmag.com/smart-news/as-the-ocean-warms-a-cold-blob-in-the-atlantic-has-puzzled-scientists-it-might-be-a-warning-sign-about-a-key-current-system-180988991/",
-      "summary": "A patch of water south of Greenland and Iceland has cooled by nearly 1.8 degrees Fahrenheit since 1900. A new study suggests that it shows a crucial system of ocean currents is wea",
-      "date": "Tue, 30 Jun 2026 16Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/Tnj_XnM6X_FB5yQn72hwBjTyGw8=/420x240/filters:focal(960x549:961x550)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/41/67/4167f6ba-746f-4a94-9e33-1e7453acff5e/16-008-nasa-2015recordwarmglobalyearsince1880-20160120.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-30T17:09:15Z"
-    },
-    {
-      "title": "From a Sea Turtle Release to an Outhouse Race, These Ten Fourth of July Traditions Celebrate America Like No Other",
-      "link": "https://www.smithsonianmag.com/travel/from-a-sea-turtle-rescue-to-an-outhouse-race-these-ten-fourth-of-july-traditions-celebrate-america-like-no-other-180989044/",
-      "summary": "Revelers typically mark Independence Day with a barbecue and fireworks show, but these festivities across the country offer quirky alternatives",
-      "date": "Tue, 30 Jun 2026 15Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/1-UULUuM_6aLsKyPhaBYLprISgk=/420x240/filters:focal(512x344:513x345)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/59/62/5962ae64-c2c9-47e1-931f-c7adf90237fb/gettyimages-2222786322.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-06-30T17:09:15Z"
-    },
-    {
-      "title": "This microbe turns into a cannibalistic ‘Hulk’",
-      "link": "https://www.sciencenews.org/article/microbe-cannibalistic-hulk",
-      "summary": "Euplotes gigatrox ’s shape-shifting may reveal how early life learned to act in surprisingly complex ways.",
-      "date": "Tue, 30 Jun 2026 15Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/062326_TS_microHulk_mainsocial.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-06-30T17:09:16Z"
-    },
-    {
-      "title": "Babies are born with the neural foundations for maths",
-      "link": "https://www.newscientist.com/article/2532352-babies-are-born-with-the-neural-foundations-for-maths/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Brain recordings from newborns reveal the first neural evidence that humans are born with an innate sense of numbers",
-      "date": "Tue, 30 Jun 2026 16Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/30120831/SEI_303480956.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-30T17:09:18Z"
-    },
-    {
-      "title": "I’m the first person whose life was saved by CRISPR base editing",
-      "link": "https://www.newscientist.com/article/2532296-im-the-first-person-whose-life-was-saved-by-crispr-base-editing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "When standard leukaemia treatments failed, 13-year-old Alyssa Tapley was told she had only weeks left – but then she was offered an experimental procedure",
-      "date": "Tue, 30 Jun 2026 14Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/29152024/SEI_303364838.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-06-30T17:09:18Z"
-    },
-    {
-      "title": "The invasive fern that science misidentified for decades",
-      "link": "https://phys.org/news/2026-06-invasive-fern-science-misidentified-decades.html",
-      "summary": "Salvinia molesta can double its biomass in 36 hours. It spreads across ponds, lakes and slow-moving waterways in a smothering green mat, blocking sunlight, consuming oxygen and col",
-      "date": "2026-06-30T17:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-invasive-fern-that-1.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-06-30T17:09:19Z"
-    },
-    {
-      "title": "Tiny ancient fish fossil with preserved brain offers clues to early fish evolution",
-      "link": "https://phys.org/news/2026-06-tiny-ancient-fish-fossil-brain.html",
-      "summary": "Over 300 million years ago, a minnow-sized fish died and fell to the bottom of a prehistoric swamp near the village of Trawden, Lancashire, in northwest England. The remains of thi",
-      "date": "2026-06-30T16:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-ancient-fish-foss.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-30T17:09:19Z"
-    },
-    {
-      "title": "Human activity has not always harmed biodiversity—quite the opposite",
-      "link": "https://phys.org/news/2026-06-human-biodiversity.html",
-      "summary": "For millennia, farming in Switzerland did not reduce plant diversity but helped increase it, University of Basel researchers have shown in a detailed reconstruction covering the pa",
-      "date": "2026-06-30T15:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/human-activity-has-not.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-30T17:09:19Z"
     }
   ]
 }
