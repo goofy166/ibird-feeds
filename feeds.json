@@ -1,8 +1,52 @@
 {
-  "updated": "2026-07-08T07:35:03Z",
-  "updated_utc": "2026-07-08T07:35:03Z",
+  "updated": "2026-07-08T10:26:44Z",
+  "updated_utc": "2026-07-08T10:26:44Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Summer Triangle star: Vega is bright and blue-white",
+      "link": "https://earthsky.org/brightest-stars/vega-brilliant-blue-white-is-third-brightest-star/",
+      "summary": "The Summer Triangle star pattern hangs in the east on July and August evenings in the Northern Hemisphere. Its brightest star is blue-white Vega. The post Summer Triangle star: Veg",
+      "date": "2026-07-08T08:04:16Z",
+      "image": "https://earthsky.org/upl/2021/07/vega-lyrae-east-summer-evenings-e1625075461807.png",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-07-08T10:26:31Z"
+    },
+    {
+      "title": "Opinion: Bloody brawl of humans, dogs and a bear threatens Californians’ fragile detente",
+      "link": "https://www.mercurynews.com/2026/07/08/opinion-bloody-brawl-of-humans-dogs-and-a-bear-threatens-californians-fragile-detente/",
+      "summary": "'In the past few years, that beautiful balance has tipped back toward fear and misunderstanding.'",
+      "date": "2026-07-08T10:15:51Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/SJM-Z-COL-SEARLES-0708.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-07-08T10:26:34Z"
+    },
+    {
+      "title": "Cambodia wants to bring tigers back, but should it?",
+      "link": "https://phys.org/news/2026-07-cambodia-tigers.html",
+      "summary": "Pan Sok still remembers his relative screaming as a tiger dragged him away one night, deep inside the Cambodian rainforest where they were tapping trees for resin.",
+      "date": "2026-07-08T08:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cambodias-last-confirm.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-08T10:26:40Z"
+    },
+    {
+      "title": "Diagnostic dilemma: A woman heard voices for years — but not because of psychosis",
+      "link": "https://www.livescience.com/health/diagnostic-dilemma-a-woman-heard-voices-for-years-but-not-because-of-psychosis",
+      "summary": "After multiple hospital visits and unsuccessful antipsychotic treatments, a woman's doctors uncovered an overlooked explanation for her hallucinations.",
+      "date": "2026-07-08T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/UR7xgLBWxW5ipyoq2KA6fd-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-08T10:26:42Z"
+    },
     {
       "title": "Health risk fears for storks in Europe over ‘junk food’ from landfill",
       "link": "https://www.theguardian.com/environment/2026/jul/08/health-risk-fears-for-storks-in-europe-over-junk-food-from-landfill",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-06-30T17:09:19Z"
-    },
-    {
-      "title": "New findings on how malaria parasites invade human cells yield proof of concept for new antimalarial drug",
-      "link": "https://phys.org/news/2026-06-malaria-parasites-invade-human-cells.html",
-      "summary": "For nearly half a century, scientists have known that malaria parasites force their way into human red blood cells through a ring-shaped structure called the moving junction. What ",
-      "date": "2026-06-30T15:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/monoclonal-antibody-pr.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-30T17:09:19Z"
-    },
-    {
-      "title": "Gut parasite alters honey bee smell as infection progresses, potentially changing hive behavior",
-      "link": "https://phys.org/news/2026-06-gut-parasite-honey-bee-infection.html",
-      "summary": "Honey bees infected with a gut parasite smell different, which could allow bee colonies to detect disease and influence behavior inside the hive, new research finds.",
-      "date": "2026-06-30T14:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/honey-bee.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-06-30T17:09:19Z"
-    },
-    {
-      "title": "500-year-old freeze-dried potato snacks discovered in Inca storage room in Peru",
-      "link": "https://www.livescience.com/archaeology/500-year-old-freeze-dried-potato-snacks-discovered-in-inca-storage-room-in-peru",
-      "summary": "In a rare find, archaeologists in Peru have discovered freeze-dried potatoes that the Inca carried hundreds of miles from the Andes so their people would not starve.",
-      "date": "Tue, 30 Jun 2026 16Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/eBHevuodh5VbpbFXQLonJ5-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-30T17:09:20Z"
-    },
-    {
-      "title": "66 billion trees have been planted in China's Great Green Wall — and they appear to be growing faster than natural forests",
-      "link": "https://www.livescience.com/planet-earth/plants/trees-in-chinas-great-green-wall-appear-to-grow-faster-than-natural-forests-study-finds",
-      "summary": "A study of China's planted and natural forests reveals age, species mix, and CO2 sensitivity all contribute to how fast trees sprout leaves.",
-      "date": "Tue, 30 Jun 2026 16Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/mxzWoN4zenrotXBsihY3ZY-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-06-30T17:09:20Z"
     }
   ]
 }
