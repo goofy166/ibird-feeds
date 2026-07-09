@@ -1,8 +1,52 @@
 {
-  "updated": "2026-07-08T23:16:06Z",
-  "updated_utc": "2026-07-08T23:16:06Z",
+  "updated": "2026-07-09T03:59:50Z",
+  "updated_utc": "2026-07-09T03:59:50Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Hunt is on for bear that scratched up 19-year-old California man in his bedroom",
+      "link": "https://www.mercurynews.com/2026/06/23/hunt-is-on-for-bear-that-scratched-up-19-year-old-crestline-man-in-his-bedroom/",
+      "summary": "The black bear tore the screen off an open window and pawed the teen when they startled each other, a Fish and Wildlife official said.",
+      "date": "Tue, 23 Jun 2026 17Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/SBS-L-CRESTBEAR-0620-16x9-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-07-09T03:59:40Z"
+    },
+    {
+      "title": "Varroa risk to Tasmanian crop pollination",
+      "link": "https://phys.org/news/2026-07-varroa-tasmanian-crop-pollination.html",
+      "summary": "A study by the Tasmanian Institute of Agriculture (TIA) has highlighted the impact Varroa mites will have on crop pollination in Tasmania if the parasitic mites become established ",
+      "date": "2026-07-09T03:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/varroa-risk-to-tasmani.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-09T03:59:46Z"
+    },
+    {
+      "title": "How to protect your pets from New World screwworm",
+      "link": "https://phys.org/news/2026-07-pets-world-screwworm.html",
+      "summary": "Since the U.S. Department of Agriculture confirmed the first case of New World screwworm (NWS) in the United States on June 3, pet owners and shelters alike have expressed concern ",
+      "date": "2026-07-09T02:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/protecting-pets-from-n.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-09T03:59:46Z"
+    },
+    {
+      "title": "Planting the future: Researchers put AI to work on the farm",
+      "link": "https://phys.org/news/2026-07-future-ai-farm.html",
+      "summary": "Farmers are getting more tools in their toolbox, thanks to new research from the University of Missouri that shows how they can tweak planting practices to make the most of every a",
+      "date": "2026-07-08T23:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/planting-the-future-re.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-09T03:59:46Z"
+    },
     {
       "title": "What Bryan Johnson’s Diagnosis Can Teaches Us About Living Longer, According to a Longevity Doctor",
       "link": "https://www.outsideonline.com/health/wellness/bryan-johnson-diagnosis-longevity/",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-07-01T16:31:39Z"
-    },
-    {
-      "title": "Prickly starfish and urchins are decimating Australia's reefs. But we could find ways to protect them",
-      "link": "https://phys.org/news/2026-07-starfish-urchins-decimating-australia-reefs.html",
-      "summary": "Australia is home to some of the world's most beautiful reefs. This includes the lush Great Southern Reef, which wraps around Australia's southern coastline, and the world-renowned",
-      "date": "2026-07-01T16:20:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/prickly-starfish-and-u.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-01T16:31:40Z"
-    },
-    {
-      "title": "Tooth fossil analysis suggests 'brawn before bite' in early Asian mammals",
-      "link": "https://phys.org/news/2026-07-tooth-fossil-analysis-brawn-early.html",
-      "summary": "An analysis of fossil teeth from mammals that lived in China following the most recent major mass extinction suggests size came before both shape and function as diets diversified.",
-      "date": "2026-07-01T16:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tooth-fossil-analysis.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-01T16:31:40Z"
-    },
-    {
-      "title": "Urokodia! 518-million-year-old fossil shows beginning of spider's bite",
-      "link": "https://phys.org/news/2026-07-urokodia-million-year-fossil-spider.html",
-      "summary": "The earliest evidence of spiders' fangs has been identified in a 518-million-year-old fossil by scientists at the University of Leicester and Yunnan University.",
-      "date": "2026-07-01T15:00:10Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/urokodia-518-million-y.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-01T16:31:40Z"
-    },
-    {
-      "title": "Algae may have launched coral reefs by hijacking coral cells, genetic experiments suggest",
-      "link": "https://phys.org/news/2026-07-algae-coral-reefs-hijacking-cells.html",
-      "summary": "The reefs scattered throughout the tropics arose only after algae took up full-time residence in coral cells, supplying corals with abundant food and enabling them to build extensi",
-      "date": "2026-07-01T15:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-ho-15.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-01T16:31:40Z"
     }
   ]
 }
