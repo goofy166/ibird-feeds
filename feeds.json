@@ -1,8 +1,74 @@
 {
-  "updated": "2026-07-09T20:52:19Z",
-  "updated_utc": "2026-07-09T20:52:19Z",
+  "updated": "2026-07-09T22:37:28Z",
+  "updated_utc": "2026-07-09T22:37:28Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Orphaned bobcat kittens arrive at Wildlife Care Center in Saratoga",
+      "link": "https://www.mercurynews.com/2026/07/09/orphaned-bobcat-kittens-arrive-at-wildlife-care-center/",
+      "summary": "The Peninsula Humane Society & SPCA said the kittens will be “monitored and cared for” at the Saratoga facility, with the goal to return them to the wild this fall.",
+      "date": "Thu, 09 Jul 2026 21Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/SJM-L-BOBCATS-0710-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-07-09T22:37:17Z"
+    },
+    {
+      "title": "Krill buildup could slow fin whale filter-feeding unless baleen stays 15% clear",
+      "link": "https://phys.org/news/2026-07-krill-buildup-fin-whale-filter.html",
+      "summary": "Usually there's safety in numbers, but it doesn't always work that way. Fin whales (Balaenoptera physalus) filter-feed on immense shoals of krill, engulfing colossal mouthfuls of w",
+      "date": "2026-07-09T22:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/krill-clogging-baleen.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-09T22:37:25Z"
+    },
+    {
+      "title": "Self-propelled microparticles scrub stubborn biofilms, improving wound care and instrument cleaning",
+      "link": "https://phys.org/news/2026-07-propelled-microparticles-stubborn-biofilms-wound.html",
+      "summary": "Newly developed microparticles can infiltrate stubborn bacterial matrices and release tiny oxygen bubbles to clean surfaces and wounds more efficiently than hydrogen peroxide or ot",
+      "date": "2026-07-09T21:10:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scrubbing-bubbles-micr.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-09T22:37:25Z"
+    },
+    {
+      "title": "Animal tracking overlooks biodiversity hotspots, with 95% of studies in well-funded countries",
+      "link": "https://phys.org/news/2026-07-animal-tracking-overlooks-biodiversity-hotspots.html",
+      "summary": "A recent study reveals geographic biases in how aquatic animals have been tracked and researched across the globe, with a preference toward politically stable, English-speaking cou",
+      "date": "2026-07-09T21:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-reveals-biases-a.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-09T22:37:25Z"
+    },
+    {
+      "title": "Malaria had nearly been eliminated around a giant dam in the Amazon — but then it came roaring back. Experts just discovered why.",
+      "link": "https://www.livescience.com/health/viruses-infections-disease/malaria-had-nearly-been-eliminated-around-a-giant-dam-in-the-amazon-but-then-it-came-roaring-back-experts-just-discovered-why",
+      "summary": "A 15-year study suggests that long-term malaria control may depend as much on protecting environments as it does on sustaining public health programs.",
+      "date": "Thu, 09 Jul 2026 21Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/9KCvCdevR8WiDz9jhE5eAe-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-09T22:37:26Z"
+    },
+    {
+      "title": "Dirty 'button' unearthed by metal detectorist turns out to be a rare 900-year-old coin from Norway's last Viking king, Magnus Barefoot",
+      "link": "https://www.livescience.com/archaeology/vikings/dirty-button-unearthed-by-metal-detectorist-turns-out-to-be-a-rare-900-year-old-coin-from-norways-last-viking-king-magnus-barefoot",
+      "summary": "A rare coin from the reign of Magnus Barefoot — sometimes called Norway's last Viking king, was mistaken for a button before researchers realized it was the first of its kind found",
+      "date": "Thu, 09 Jul 2026 21Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/5PKvBiKnNUpfAe7AUFRkJd-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-09T22:37:26Z"
+    },
     {
       "title": "10 Nature Photography Tips From Our Favorite Photographers",
       "link": "https://www.birdsandblooms.com/birding/bird-photography/nature-photography-tips/",
@@ -5436,72 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-07-02T14:20:38Z"
-    },
-    {
-      "title": "A Peek Inside Jim Henson's Creature Shop, Where 'Sesame Street' Characters and Other Whimsical Puppets Are Designed",
-      "link": "https://www.smithsonianmag.com/travel/a-peek-inside-jim-hensons-creature-shop-where-sesame-street-characters-and-other-whimsical-puppets-are-designed-180989051/",
-      "summary": "Every weekend, the magical workshop opens its doors for the public to see how legendary film and television characters are made",
-      "date": "Thu, 02 Jul 2026 12Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/MOqlm7RuiFIIBvjV_rjNuNQrsto=/420x240/filters:focal(1000x567:1001x568)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e4/9a/e49a498f-f8fd-4afd-8d3c-66831cf87af2/entrance_puppets.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-02T14:20:54Z"
-    },
-    {
-      "title": "To Recreate One of the American Revolution's Most Famous Paintings, This Artist Painstakingly Crafted Miniature Wax Figures of the Nation's Founders",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/to-recreate-one-of-the-american-revolutions-most-famous-paintings-this-artist-painstakingly-crafted-miniature-wax-figures-of-the-nations-founders-180989026/",
-      "summary": "Bartlett M. Frost’s diorama is modeled after John Trumbull's depiction of the presentation of the Declaration of Independence. Newly conserved, the work is now on view at the Natio",
-      "date": "Thu, 02 Jul 2026 11Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/TJlwedkzb-A0nXSXmaiCEYC4h14=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/30/f3/30f3a948-9372-4ea8-8825-6bcc584c53e4/diorama.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-02T14:20:54Z"
-    },
-    {
-      "title": "The natural history of every U.S. state is on display at a new D.C. exhibit",
-      "link": "https://www.sciencenews.org/article/review-smithsonian-from-these-lands-250",
-      "summary": "The Smithsonian Natural History Museum’s latest exhibit, “From These Lands,” connects visitors with America’s natural history.",
-      "date": "Thu, 02 Jul 2026 14Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/062526_AT_these-lands-review_feat.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-02T14:20:56Z"
-    },
-    {
-      "title": "The animal behind most aggressive wildlife encounters may surprise you",
-      "link": "https://www.sciencenews.org/article/aggressive-wildlife-encounters-elk-bear",
-      "summary": "Analysis of 3,000 incidents in Canada reveals which animal–human activity combos are especially risky. Of note: Elk and campgrounds are a bad mix.",
-      "date": "Thu, 02 Jul 2026 13Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/070126_LR_wildlife_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-02T14:20:56Z"
-    },
-    {
-      "title": "What is 'SpudCell'? Arguably the greatest bioengineering feat yet",
-      "link": "https://www.newscientist.com/article/2532689-what-is-spudcell-arguably-the-greatest-bioengineering-feat-yet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A prototype cell partly capable of replicating itself has been created using 36 existing bacterial genes, but it's not really a living organism – yet",
-      "date": "2026-07-01T21:08:26Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/01201518/SEI_303625606.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-02T14:20:57Z"
-    },
-    {
-      "title": "Genomic tool can help measure resilience in Merino sheep",
-      "link": "https://phys.org/news/2026-07-genomic-tool-resilience-merino-sheep.html",
-      "summary": "A new resilience test for merino sheep is using hereditary markers to help producers identify which animals are better able to cope with stressors in their environment.",
-      "date": "2026-07-02T14:20:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/csiro-develops-new-way.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-02T14:20:58Z"
     }
   ]
 }
