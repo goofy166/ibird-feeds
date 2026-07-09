@@ -1,8 +1,41 @@
 {
-  "updated": "2026-07-09T03:59:50Z",
-  "updated_utc": "2026-07-09T03:59:50Z",
+  "updated": "2026-07-09T07:49:16Z",
+  "updated_utc": "2026-07-09T07:49:16Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘It makes your heart sing’: can a pioneering project show that rewilding really works?",
+      "link": "https://www.theguardian.com/news/2026/jul/09/it-makes-your-heart-sing-rewilding-britains-bleak-farmland",
+      "summary": "Intensive farming has all but destroyed England’s ancient woodlands and freshwater wetlands. On a farm in Lincolnshire a radical aristocrat hopes to show there’s money in protectin",
+      "date": "2026-07-09T04:00:51Z",
+      "image": "https://i.guim.co.uk/img/media/dafd190ac26876f41c440ffa8f411610e068dce3/244_0_4304_3443/master/4304.jpg?width=140&quality=85&auto=format&fit=max&s=e6ac9ead1a9e067aed9b74db158bfa89",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-09T07:48:59Z"
+    },
+    {
+      "title": "The 4 best science-fiction shows of 2026 so far",
+      "link": "https://www.newscientist.com/article/mg27136031-100-the-4-best-science-fiction-shows-of-2026-so-far/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "The first six months of 2026 have seen bright threads in sci- fi series including Fallout and Paradise. But for pure gold, advises TV columnist Bethan Ackerley, try Star City",
+      "date": "2026-07-08T18:00:00Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/06112640/SEI_303601221.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-09T07:49:10Z"
+    },
+    {
+      "title": "A surprisingly detailed look at the physics of a lugworm's poop",
+      "link": "https://www.newscientist.com/article/mg27136032-200-a-surprisingly-detailed-look-at-the-physics-of-a-lugworms-poop/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Feedback is delighted by a study of how many animals produce poop that echoes the look of the poop emoji – even the lugworm, which does it upside down",
+      "date": "2026-07-08T18:00:00Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/07102737/SEI_304355466.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-09T07:49:10Z"
+    },
     {
       "title": "Hunt is on for bear that scratched up 19-year-old California man in his bedroom",
       "link": "https://www.mercurynews.com/2026/06/23/hunt-is-on-for-bear-that-scratched-up-19-year-old-crestline-man-in-his-bedroom/",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-07-01T16:31:37Z"
-    },
-    {
-      "title": "This space telescope is falling. A robotic spacecraft may save it",
-      "link": "https://www.sciencenews.org/article/space-telescope-rescue-mission-nasa-swift",
-      "summary": "A private rocket mission aims to boost NASA’s Swift telescope before its orbit decays, extending its hunt for gamma-ray bursts.",
-      "date": "2026-07-01T15:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/070126_LG_Swift_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-01T16:31:38Z"
-    },
-    {
-      "title": "The weirdness of neutrinos could completely rewrite particle physics",
-      "link": "https://www.newscientist.com/article/2532479-the-weirdness-of-neutrinos-could-completely-rewrite-particle-physics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A philosopher has put forward an argument for rethinking how particles are defined within the standard model of particle physics",
-      "date": "2026-07-01T15:00:29Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/01111331/SEI_303596254.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-01T16:31:39Z"
-    },
-    {
-      "title": "A type of fibre that stimulates GLP-1 release approved for use in food",
-      "link": "https://www.newscientist.com/article/2532336-a-type-of-fibre-that-stimulates-glp-1-release-approved-for-use-in-food/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A form of fibre that boosts the release of the hunger-reducing hormone GLP-1 has been approved as safe by a European regulator, and could be added to foods within a year",
-      "date": "2026-07-01T14:00:56Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/01115749/SEI_303484929.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-01T16:31:39Z"
     }
   ]
 }
