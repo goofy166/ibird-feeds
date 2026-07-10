@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-10T21:13:14Z",
-  "updated_utc": "2026-07-10T21:13:14Z",
+  "updated": "2026-07-10T23:04:40Z",
+  "updated_utc": "2026-07-10T23:04:40Z",
   "count": 500,
   "stories": [
+    {
+      "title": "New sensors capture warning signs before fish deaths in Lake Victoria",
+      "link": "https://phys.org/news/2026-07-sensors-capture-fish-deaths-lake.html",
+      "summary": "Researchers from King's College London recorded the warning signs of a major low-oxygen event in Lake Victoria just hours before fish deaths were reported by local communities, dem",
+      "date": "2026-07-10T22:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-sensors-capture-wa.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-10T23:04:36Z"
+    },
     {
       "title": "Visible planets and night sky guide for July",
       "link": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-07-03T08:15:15Z"
-    },
-    {
-      "title": "Japan deploys bear cameras in mountains as attacks surge",
-      "link": "https://phys.org/news/2026-07-japan-deploys-cameras-mountains-surge.html",
-      "summary": "Japan has begun installing hundreds of cameras in its northern mountains as part of a nationwide survey of the bear population following a surge in maulings, an official told AFP o",
-      "date": "2026-07-03T07:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/at-least-five-people-h.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-03T08:15:26Z"
     }
   ]
 }
