@@ -1,8 +1,96 @@
 {
-  "updated": "2026-07-10T17:52:41Z",
-  "updated_utc": "2026-07-10T17:52:41Z",
+  "updated": "2026-07-10T19:43:34Z",
+  "updated_utc": "2026-07-10T19:43:34Z",
   "count": 500,
   "stories": [
+    {
+      "title": "World’s oldest living turkey vulture and East Bay resident celebrates milestone",
+      "link": "https://www.mercurynews.com/2026/07/10/worlds-oldest-living-turkey-vulture-and-east-bay-resident-celebrates-milestone/",
+      "summary": "Lord Richard, the world’s oldest living turkey vulture, is celebrating a record milestone and inviting everyone to join the celebration.",
+      "date": "2026-07-10T18:50:01Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/Richard-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-07-10T19:43:23Z"
+    },
+    {
+      "title": "Female tiger finds new home at Oakland Zoo after rescue from notorious roadside facility",
+      "link": "https://www.mercurynews.com/2026/07/10/sitara-rescuted-tiger-oakland-zoo/",
+      "summary": "Sitara the tiger is settling into her new zoo habitat after being rescued from a Butte County facility that reportedly kept big cats in barren enclosures and denied them proper car",
+      "date": "2026-07-10T17:32:20Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/SJM-L-TIGER-01.jpeg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-07-10T19:43:23Z"
+    },
+    {
+      "title": "Cases of a Parasitic Infection That Can Cause Diarrhea for Weeks Are Rapidly Rising in the U.S. Here's What to Know",
+      "link": "https://www.smithsonianmag.com/smart-news/cases-of-a-parasitic-infection-that-can-cause-diarrhea-for-weeks-are-rapidly-rising-in-the-us-heres-what-to-know-180989108/",
+      "summary": "The illness is caused by the microscopic parasite Cyclospora cayetanensis, which spreads via food or water contaminated with feces, usually on farms. Health officials are still inv",
+      "date": "2026-07-10T19:26:16Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/VXZpG8vNAsarDkNgNsSPwQ_nP5k=/420x240/filters:focal(2736x1824:2737x1825)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b0/96/b09646d0-adb7-4301-b154-2f50a371bb9b/lettuce-washing.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-10T19:43:26Z"
+    },
+    {
+      "title": "In the Latest Brazen Heist, Jewelry and Artworks Worth $5 Million Were Stolen From a Famed French Designer's Museum",
+      "link": "https://www.smithsonianmag.com/smart-news/in-the-latest-brazen-heist-jewelry-and-artworks-worth-5-million-were-stolen-from-famed-french-designer-lalique-museum-180989105/",
+      "summary": "A trio of burglars stole 27 pieces, including a dragonfly pendant, from the Lalique Museum in eastern France",
+      "date": "2026-07-10T17:57:03Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/lzn-E16kOTbpJWAulDfOgMKMGo4=/420x240/filters:focal(600x600:601x601)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/14/c1/14c1a3ac-716d-44fc-9da8-31f3877e3405/syl4508b_1.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-10T19:43:26Z"
+    },
+    {
+      "title": "Why natural forests survive heat waves better than planted forests",
+      "link": "https://phys.org/news/2026-07-natural-forests-survive.html",
+      "summary": "When a record-breaking drought and heat wave swept across China's Yangtze River Basin in 2022, forests across the region faced an extreme test. The event provided a rare opportunit",
+      "date": "2026-07-10T19:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-natural-forests-su.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-10T19:43:30Z"
+    },
+    {
+      "title": "Moderate warming rewires one-third of microalga's genes, study finds",
+      "link": "https://phys.org/news/2026-07-moderate-rewires-microalga-genes.html",
+      "summary": "Researchers have demonstrated for the first time that the microalga Chlamydomonas reinhardtii alters the activity of about one-third of its protein-coding genes in response even to",
+      "date": "2026-07-10T19:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/underestimated-impact.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-10T19:43:30Z"
+    },
+    {
+      "title": "Giant kangaroos survived until 6,500 years ago on the New Guinea coast",
+      "link": "https://phys.org/news/2026-07-giant-kangaroos-survived-years-guinea.html",
+      "summary": "Roughly 50,000 years ago, a kangaroo unlike any alive today lived in the mountain rainforests of New Guinea.",
+      "date": "2026-07-10T18:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/giant-kangaroos-surviv.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-10T19:43:30Z"
+    },
+    {
+      "title": "Medieval babies and adults buried together in Sweden were not related, archaeologists discover — raising big questions about early Christian burial practices",
+      "link": "https://www.livescience.com/archaeology/medieval-babies-and-adults-buried-together-in-sweden-were-not-related-archaeologists-discover-raising-big-questions-about-early-christian-burial-practices",
+      "summary": "In an unexpected discovery, researchers found that three medieval Swedish cemeteries held children buried with unrelated adults.",
+      "date": "2026-07-10T18:57:14Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/rEWyU7NSyHmumYt8Gciw7f-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-10T19:43:31Z"
+    },
     {
       "title": "In tune with the local blackbirds | Letters",
       "link": "https://www.theguardian.com/environment/2026/jul/10/in-tune-with-the-local-blackbirds",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-03T00:13:40Z"
-    },
-    {
-      "title": "Ecological factors, not social behavior, explain brain size in cephalopods",
-      "link": "https://phys.org/news/2026-07-ecological-factors-social-behavior-brain.html",
-      "summary": "Octopuses, squid and cuttlefish may have evolved large brains because of the challenges posed by their environments rather than the demands of social life, according to a new study",
-      "date": "2026-07-02T22:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/octopus-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-03T00:13:40Z"
-    },
-    {
-      "title": "Visible planets and night sky guide for July",
-      "link": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
-      "summary": "EarthSky's visible planets and night sky guide. This evening, the moon shines within the constellation Capricornus. And see a video about July's sky sights! The post Visible planet",
-      "date": "Thu, 02 Jul 2026 08Z",
-      "image": "https://earthsky.org/upl/2026/06/2026-July-1-2-Moon-A.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-02T22:13:22Z"
-    },
-    {
-      "title": "The Canoe in the Forest",
-      "link": "https://hakaimagazine.com/features/the-canoe-in-the-forest/",
-      "summary": "When I first see the canoe, in May, it takes a moment to distinguish the long, shapely slab of cedar from the patch of earth that has spent more than a century trying to reclaim it",
-      "date": "Thu, 19 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-haida-canoe.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-07-02T22:13:24Z"
-    },
-    {
-      "title": "What’s Next for Deep-Sea Mining?",
-      "link": "https://hakaimagazine.com/news/whats-next-for-deep-sea-mining/",
-      "summary": "Earlier this year, Leticia Carvalho, a Brazilian oceanographer and environmental policy expert, took the helm of the International Seabed Authority (ISA) as secretary general. The ",
-      "date": "2024-12-18T08:01:59Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-deep-sea-mining-1.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-07-02T22:13:24Z"
-    },
-    {
-      "title": "A Grand Canyon Tourist Tipped a Historic Chair for a Photo. He Broke a Sacred Hopi Headpiece in the Process.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/grand-canyon-tourist-damages-hopi-artifact/",
-      "summary": "Grand Canyon rangers are searching for a visitor who broke a historic Hopi headpiece inside the Desert View Watchtower while attempting to take a photo. The post A Grand Canyon Tou",
-      "date": "Thu, 02 Jul 2026 22Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/GettyImages-539643147.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-02T22:13:27Z"
-    },
-    {
-      "title": "An A.I.-Generated Alexander Hamilton Chats About Economics at the Museum of American Finance, Opening This Weekend in Boston",
-      "link": "https://www.smithsonianmag.com/smart-news/an-ai-generated-alexander-hamilton-chats-about-economics-at-the-museum-of-american-finance-opening-this-weekend-in-boston-180989071/",
-      "summary": "The museum, which started in New York and hasn't had a permanent exhibition space in several years, depicts the history and influence of U.S. financial institutions",
-      "date": "Thu, 02 Jul 2026 21Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/PV6ge62R-47XeTKQYPzy-Ve8uu8=/420x240/filters:focal(1008x758:1009x759)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7e/0f/7e0f06b6-489f-4178-aa88-5fd82ca6c3dc/hamilton_exhibit.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-02T22:13:29Z"
-    },
-    {
-      "title": "June heatwave may have killed around 20,000 people in Europe",
-      "link": "https://www.newscientist.com/article/2532825-june-heatwave-may-have-killed-around-20000-people-in-europe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "It will be some months before the true toll of Europe's worst-ever heatwave is confirmed, but researchers can estimate a death count based on how many people died in Europe during ",
-      "date": "Thu, 02 Jul 2026 18Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/02170440/SEI_303740674.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-02T22:13:31Z"
-    },
-    {
-      "title": "Could 'Trojan horse'-type microorganisms that exploit symbiotic systems be candidates for new biological pesticides?",
-      "link": "https://phys.org/news/2026-07-trojan-horse-microorganisms-exploit-symbiotic.html",
-      "summary": "Researchers at National Institute of Advanced Industrial Science and Technology (AIST), in collaboration with researchers from The University of Electro-Communications (UEC) and Ak",
-      "date": "2026-07-02T22:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/stink-bug.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-02T22:13:32Z"
     }
   ]
 }
