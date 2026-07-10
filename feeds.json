@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-09T22:37:28Z",
-  "updated_utc": "2026-07-09T22:37:28Z",
+  "updated": "2026-07-10T00:12:21Z",
+  "updated_utc": "2026-07-10T00:12:21Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Water worries: The dangers of dehydration in pets",
+      "link": "https://phys.org/news/2026-07-dangers-dehydration-pets.html",
+      "summary": "The summer heat can be unrelenting, sending pets who usually run straight to their owners after being outside in search of their water bowls instead. Rehydrating after playtime is ",
+      "date": "2026-07-09T22:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pet-drinking-water.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-10T00:12:17Z"
+    },
     {
       "title": "Orphaned bobcat kittens arrive at Wildlife Care Center in Saratoga",
       "link": "https://www.mercurynews.com/2026/07/09/orphaned-bobcat-kittens-arrive-at-wildlife-care-center/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-07-02T16:55:59Z"
-    },
-    {
-      "title": "Demotivational Posters for Birds (XXXVIII)",
-      "link": "https://www.10000birds.com/demotivational-posters-for-birds-xxxviii.htm?utm_source=rss&utm_medium=rss&utm_campaign=demotivational-posters-for-birds-xxxviii",
-      "summary": "Some viewers who follow this series closely enough may notice that long-term engagement appears to come with benefits that resemble participation in certain well-known airline mile",
-      "date": "Thu, 02 Jul 2026 11Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/06/Picture7.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-07-02T14:20:38Z"
     }
   ]
 }
