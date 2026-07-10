@@ -1,8 +1,173 @@
 {
-  "updated": "2026-07-10T12:04:18Z",
-  "updated_utc": "2026-07-10T12:04:18Z",
+  "updated": "2026-07-10T15:35:49Z",
+  "updated_utc": "2026-07-10T15:35:49Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Pacific gray whales facing ‘catastrophic’ die-off as climate crisis hits food supply",
+      "link": "https://www.theguardian.com/environment/2026/jul/10/pacific-gray-whales-population-climate-change",
+      "summary": "Trump administration urged to relist a species in ‘very, very serious trouble’ under Endangered Species Act Climate change is driving a gray whale “catastrophic mortality event” in",
+      "date": "2026-07-10T13:00:20Z",
+      "image": "https://i.guim.co.uk/img/media/aab4a03a3594b9209ac56b99c641fac17b564665/543_0_4250_3400/master/4250.jpg?width=140&quality=85&auto=format&fit=max&s=1fefb45827666ce22ef372c0f318208b",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-10T15:35:35Z"
+    },
+    {
+      "title": "Verdant Beauty, Wide-Open Spaces, Elegant Architecture: Have a Look at 15 Photos That Show Why Central Park Is the Lifeblood of Manhattan",
+      "link": "https://www.smithsonianmag.com/travel/verdant-beauty-wide-open-spaces-elegant-architecture-have-a-look-at-15-photos-that-show-why-central-park-is-the-lifeblood-of-manhattan-180989067/",
+      "summary": "At the center of the concrete jungle, the green expanse provides New York with a real retreat to nature",
+      "date": "2026-07-10T14:25:23Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/cOneCIuyQkhn3fdeA7ANbJBSObY=/420x240/filters:focal(3657x2456:3658x2457)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d4/ed/d4ed10d6-17d8-4097-bb52-bc8592f20018/1_-_767c9d89-930f-4fbb-9a8f-3ec658f4d835.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-10T15:35:42Z"
+    },
+    {
+      "title": "Roughly 100,000 Years Ago, This Man Got Stabbed in the Face—and Survived. He's Likely One of the First Known Victims of an Attack by a Sharp Weapon",
+      "link": "https://www.smithsonianmag.com/smart-news/roughly-100000-years-ago-this-man-got-stabbed-in-the-face-and-survived-hes-likely-one-of-the-first-known-victims-of-an-attack-by-a-sharp-weapon-180989103/",
+      "summary": "Researchers who investigated the remains of a young adult male found in the Qafzeh cave say the injury healed over time, which means the victim's community may have tended to him",
+      "date": "2026-07-10T13:53:24Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/sTTToX3RBfE2d6RE0zQ0vl7ti0A=/420x240/filters:focal(2592x1950:2593x1951)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/25/66/25662785-089b-491f-89ea-a3537774e90a/p3120086.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-10T15:35:42Z"
+    },
+    {
+      "title": "The Culprit Behind South Australia's Deadly Algal Bloom Might Be the Most Toxic Species Ever Tested, Scientists Say",
+      "link": "https://www.smithsonianmag.com/smart-news/the-culprit-behind-south-australias-deadly-algal-bloom-might-be-the-most-toxic-species-ever-tested-scientists-say-180989100/",
+      "summary": "Karenia cristata, a rare type of microscopic algae that produces toxins that harm nerve cells, can be lethal at very low concentrations",
+      "date": "2026-07-10T12:46:29Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/iu0PdET_LLMbHRv0CFXuodRZNl0=/420x240/filters:focal(4128x2752:4129x2753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4b/b2/4bb211c3-ce20-4e0f-bacc-d1065f7e1b74/algal-bloom.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-10T15:35:42Z"
+    },
+    {
+      "title": "Here’s what happens when you put politicians in charge of science",
+      "link": "https://www.sciencenews.org/article/omb-politicians-lysenko-science-history",
+      "summary": "Proposed federal rules would rely on political appointees to decide how a lot of U.S. science gets done. History shows the consequences of such actions.",
+      "date": "2026-07-10T15:30:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/070926_TS_OMB_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-10T15:35:43Z"
+    },
+    {
+      "title": "Lost in Curiosity reveals the messy reality of doing science",
+      "link": "https://www.sciencenews.org/article/review-lost-in-curiosity",
+      "summary": "In her new book, science journalist Roberta Kwok takes readers behind the scenes to understand how researchers get nature to give up its secrets.",
+      "date": "2026-07-10T14:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/0826_review.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-10T15:35:43Z"
+    },
+    {
+      "title": "Mathematicians put AI to work on Fermat's last theorem",
+      "link": "https://www.newscientist.com/article/2533518-mathematicians-put-ai-to-work-on-fermats-last-theorem/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "At an event in London, mathematicians have made unexpectedly fast progress on formalising Fermat's last theorem using AI",
+      "date": "2026-07-10T12:00:18Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/09132318/SEI_304535668.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-10T15:35:44Z"
+    },
+    {
+      "title": "This book is essential reading before watching the new Odyssey film",
+      "link": "https://www.newscientist.com/article/2531908-this-book-is-essential-reading-before-watching-the-new-odyssey-film/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Homer still matters, argues Adam Nicolson in The Mighty Dead, a great primer to Christopher Nolan's new adaptation of the Odyssey, says Kelsey Hayes",
+      "date": "2026-07-08T18:00:33Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25112901/sei302820018.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-10T15:35:44Z"
+    },
+    {
+      "title": "New Jurassic dinosaur species identified in Thailand from a single bone",
+      "link": "https://phys.org/news/2026-07-jurassic-dinosaur-species-thailand-bone.html",
+      "summary": "A new study published in Scientific Reports describes the identification of a new species of long-necked dinosaur found in the Phu Kradung Formation in Thailand. The team calls the",
+      "date": "2026-07-10T15:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-jurassic-dinosaur.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-10T15:35:45Z"
+    },
+    {
+      "title": "Hidden health risks found in New York City's free-roaming cats",
+      "link": "https://phys.org/news/2026-07-hidden-health-york-city-free.html",
+      "summary": "Cats may be cute and adorable, but stray and feral cats can sometimes pose a risk to human health. Veterinary researchers have discovered that more than 50% of free-roaming cats in",
+      "date": "2026-07-10T14:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-health-risks-fo.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-10T15:35:45Z"
+    },
+    {
+      "title": "Largest viral-protein library gives researchers new way to probe emerging pathogens",
+      "link": "https://phys.org/news/2026-07-largest-viral-protein-library-probe.html",
+      "summary": "To prevent viruses from sickening or killing us—whether it's an individual case of hepatitis B or a COVID pandemic—it's crucial to understand how the proteins they make initiate ch",
+      "date": "2026-07-10T14:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/studying-viral-protein.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-10T15:35:45Z"
+    },
+    {
+      "title": "Why bees are struggling to survive this summer",
+      "link": "https://phys.org/news/2026-07-bees-struggling-survive-summer.html",
+      "summary": "You may be spotting dead bumblebees lying on pavements near you during the summer months. There are several reasons for this, some related to the weather and some very much due to ",
+      "date": "2026-07-10T14:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dandelion-and-bee.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-10T15:35:45Z"
+    },
+    {
+      "title": "If so many people live with toxoplasmosis, how dangerous is this brain parasite really? Should I be worried?",
+      "link": "https://phys.org/news/2026-07-people-toxoplasmosis-dangerous-brain-parasite.html",
+      "summary": "About 1 in 3 people worldwide have been infected with a microscopic parasite called Toxoplasma gondii—or simply \"toxo\"—which can cause toxoplasmosis. After the initial infection, t",
+      "date": "2026-07-10T13:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/if-so-many-people-live.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-10T15:35:45Z"
+    },
+    {
+      "title": "Bacteria turn dissolved uranium into stable compound in 130 days, study finds",
+      "link": "https://phys.org/news/2026-07-bacteria-dissolved-uranium-stable-compound.html",
+      "summary": "Researchers at the Helmholtz-Zentrum Dresden-Rossendorf (HZDR), together with Wismut GmbH and scientists from the University of Granada in Spain, have demonstrated for the first ti",
+      "date": "2026-07-10T12:20:10Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/potential-risk-to-huma.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-10T15:35:45Z"
+    },
+    {
+      "title": "New sodium metal battery design charges in just 4 minutes and retains its capacity for years",
+      "link": "https://www.livescience.com/technology/engineering/new-sodium-metal-battery-design-charges-in-just-4-minutes-and-retains-its-capacity-for-years",
+      "summary": "Chinese researchers say they have overcome one of the trickiest problems of battery chemistry by developing a special gel.",
+      "date": "2026-07-10T13:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/8jQHDmrrjNU9V7sBVeciNn-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-10T15:35:46Z"
+    },
     {
       "title": "What We Missed by Looking",
       "link": "https://www.10000birds.com/what-we-missed-by-looking.htm?utm_source=rss&utm_medium=rss&utm_campaign=what-we-missed-by-looking",
@@ -5337,171 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-02T20:23:55Z"
-    },
-    {
-      "title": "The broader a fungus's diet, the better it kills insects and helps plants",
-      "link": "https://phys.org/news/2026-07-broader-fungus-diet-insects.html",
-      "summary": "Many fungi lead triple lives—acting as deadly insect pathogens, decomposers in the soil, and helpful partners living inside and transferring insect-derived nitrogen to plant roots.",
-      "date": "2026-07-02T19:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-broader-a-funguss.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-02T20:23:55Z"
-    },
-    {
-      "title": "Plant DNA harbors virus 'fossils' that reflect 300 million years of evolution",
-      "link": "https://phys.org/news/2026-07-dna-harbors-virus-fossils-million.html",
-      "summary": "Is it possible to study the history of viruses that emerged several hundred million years ago? An international team of INRAE and CIRAD researchers answered this question by explor",
-      "date": "2026-07-02T19:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/plant-dna-harbors-viru.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-02T20:23:55Z"
-    },
-    {
-      "title": "Hunting behavior drives the evolution of spider eye arrangements, study finds",
-      "link": "https://phys.org/news/2026-07-behavior-evolution-spider-eye.html",
-      "summary": "Vision shapes how many animals find food, avoid danger and navigate their world. In animals with two eyes, eye placement is often linked to lifestyle: predators such as lions tend ",
-      "date": "2026-07-02T19:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hunting-behaviour-driv.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-02T20:23:55Z"
-    },
-    {
-      "title": "Hubble telescope spots 'impossible' light from a galaxy that shouldn't have been visible",
-      "link": "https://www.livescience.com/space/astronomy/hubble-telescope-spots-impossible-light-from-a-galaxy-that-shouldnt-have-been-visible",
-      "summary": "Researchers say the surprising discovery of the faraway galaxy MXDFz4.4 could help explain how the cosmos went from opaque to transparent billions of years ago.",
-      "date": "Thu, 02 Jul 2026 19Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ksxqSWSRAVYNDqQX56Qeb4-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-02T20:23:56Z"
-    },
-    {
-      "title": "Perennials and Hydrangeas Flopping Over? Here’s What to Do",
-      "link": "https://www.birdsandblooms.com/gardening/gardening-basics/hydrangea-flopping-over/",
-      "summary": "Are your perennials and hydrangeas flopping over in heavy rain? Find out if pruning or staking will help your plants stand tall. The post Perennials and Hydrangeas Flopping Over? H",
-      "date": "2026-06-24T18:46:05Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/GettyImages-1265197370-1-e1782324484370.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-07-02T18:40:38Z"
-    },
-    {
-      "title": "Defra breached law when it let farmers use bee-killing pesticide, watchdog says",
-      "link": "https://www.theguardian.com/environment/2026/jul/02/defra-breached-law-farmers-bee-killing-pesticide-watchdog",
-      "summary": "Office for Environmental Protection finds failures by department when it granted emergency authorisation in 2023 and 2024 The UK government breached environmental law on several oc",
-      "date": "2026-07-02T17:10:14Z",
-      "image": "https://i.guim.co.uk/img/media/55ad7de7aee5ab92c3689a78540699df7b3f5ad8/540_0_2699_2159/master/2699.jpg?width=140&quality=85&auto=format&fit=max&s=67d19080468c576c89d3cb42771ac15d",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-02T18:40:42Z"
-    },
-    {
-      "title": "Bald eagle released after more than 25 weeks of rehabilitation",
-      "link": "https://www.mercurynews.com/2026/06/24/bald-eagle-released-after-more-than-25-weeks-of-rehabilitation/",
-      "summary": "The eagle was rescued by the SPCA on Dec. 21, 2025 in Salinas and arrived with a broken coracoid – a bone that connects a bird’s shoulder to its keel and is necessary for flight. W",
-      "date": "2026-06-24T17:48:27Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/MCH-L-SPCAEAGLE-0624-01.jpeg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-07-02T18:40:46Z"
-    },
-    {
-      "title": "Malik Tillman and the Power of Readiness",
-      "link": "https://www.outsideonline.com/culture/essays-culture/usmnt-world-cup-malik-tillman-serbia-recap/",
-      "summary": "When a controversial red card threatened to derail the USMNT’s historic World Cup run, the team didn't panic or complain. They bled into their socks, changed their cleats, and foug",
-      "date": "Thu, 02 Jul 2026 18Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/TillmanOpener1.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-02T18:40:48Z"
-    },
-    {
-      "title": "Michigan’s Best Beach Getaway",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/michigans-best-beach-getaway/",
-      "summary": "Escape to New Buffalo and St. Joseph, where summer fun overlaps with great food and art The post Michigan’s Best Beach Getaway appeared first on Outside Online .",
-      "date": "Thu, 02 Jul 2026 18Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/StJoseph-OutsidePM-Selects4-scaled.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-02T18:40:48Z"
-    },
-    {
-      "title": "The Oldest Black Church in the U.S., the Wright Brothers' Home and a New York Hospital Are Among the American Heritage Sites in Urgent Need of Preservation",
-      "link": "https://www.smithsonianmag.com/smart-news/oldest-black-church-wright-brothers-homes-new-york-hospital-american-heritage-treasures-in-urgent-need-of-preservation-180989058/",
-      "summary": "For its “Irreplaceable America” list in honor of the 250th birthday of the U.S., the World Monuments Fund chose endangered historic sites of innovation, creativity and spirituality",
-      "date": "Thu, 02 Jul 2026 17Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/qNMMIikyze32lPU__9B5EfwRTnk=/420x240/filters:focal(1000x666:1001x667)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/34/ec/34eca255-35df-4830-8f2b-0b1d7aca84b2/ny_smallpox_hospital_-_west_manhattan-facing_facade_-_max_touhey.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-02T18:40:50Z"
-    },
-    {
-      "title": "A Discovery in the Archives Became a Treasure Map Leading a Diver to a 17th-Century Shipwreck Carrying Coins and Gold Jewelry",
-      "link": "https://www.smithsonianmag.com/smart-news/an-archival-discovery-became-a-treasure-map-leading-a-diver-to-a-17th-century-shipwreck-carrying-coins-and-gold-jewelry-180989063/",
-      "summary": "See artifacts recovered thanks to a clue about the last resting place of a lost captain from an East India Company ship that went down near the Isles of Scilly",
-      "date": "Thu, 02 Jul 2026 17Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/KXkV3N8soYF93o192ZbGv2oFcmY=/420x240/filters:focal(800x602:801x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d2/d5/d2d574e6-40de-4620-bbae-9c8947ba0ecc/xavier_and_todd_1.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-02T18:40:50Z"
-    },
-    {
-      "title": "Giant trees have tricks to work around drought",
-      "link": "https://www.sciencenews.org/article/giant-trees-tricks-drought-water",
-      "summary": "Samples collected at daring heights provide evidence for an untested theory of tree drought adaptation, while countering another.",
-      "date": "Thu, 02 Jul 2026 18Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/070126_FI_talltrees_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-02T18:40:51Z"
-    },
-    {
-      "title": "Random wobbles in time could finally solve gravity’s greatest mystery",
-      "link": "https://www.newscientist.com/article/2532714-random-wobbles-in-time-could-finally-solve-gravitys-greatest-mystery/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "The question of how gravity interacts with the quantum world has long perplexed physicists, but a non-quantum theory of space-time could present an answer",
-      "date": "Thu, 02 Jul 2026 17Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/02105918/SEI_303706468.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-02T18:40:52Z"
-    },
-    {
-      "title": "Synthetic biology may finally be ready to solve life's biggest mystery",
-      "link": "https://www.newscientist.com/article/2532794-synthetic-biology-may-finally-be-ready-to-solve-lifes-biggest-mystery/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "What makes something alive? We simply don't know, but synthetic biologists are a step closer to providing an answer thanks to SpudCell, the most sophisticated attempt at creating a",
-      "date": "Thu, 02 Jul 2026 16Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/02142837/SEI_303724976.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-02T18:40:52Z"
-    },
-    {
-      "title": "Geoengineering could expose plane passengers to sulphuric acid",
-      "link": "https://www.newscientist.com/article/2532757-geoengineering-could-expose-plane-passengers-to-sulphuric-acid/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A proposed technique to counter global warming by spraying sun-reflecting particles near the poles would cause commercial flights to pass through clouds of sulphuric acid, posing a",
-      "date": "Thu, 02 Jul 2026 16Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/02120005/SEI_303594824.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-02T18:40:52Z"
     }
   ]
 }
