@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-10T23:04:40Z",
-  "updated_utc": "2026-07-10T23:04:40Z",
+  "updated": "2026-07-11T03:26:58Z",
+  "updated_utc": "2026-07-11T03:26:58Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Death trap: what to do about the everyday items catching and killing Australian wildlife",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/11/everyday-items-catching-killing-native-animals-how-to-help-tangled-wildlife",
+      "summary": "Thousands of native animals get caught in back yard fruit nets, fences and fishing line every year. Here’s what you can do to help Change by degrees offers life hacks and sustainab",
+      "date": "2026-07-11T00:00:34Z",
+      "image": "https://i.guim.co.uk/img/media/b0dde729a006271072a7c9bb281a0e5228a267df/0_392_3024_2419/master/3024.jpg?width=140&quality=85&auto=format&fit=max&s=324b522a0cff8c4b57df321837f79dd1",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-11T03:26:42Z"
+    },
     {
       "title": "New sensors capture warning signs before fish deaths in Lake Victoria",
       "link": "https://phys.org/news/2026-07-sensors-capture-fish-deaths-lake.html",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-07-03T08:15:14Z"
-    },
-    {
-      "title": "Dog days of summer: Hottest in July and August",
-      "link": "https://earthsky.org/earth/dog-days-of-summer/",
-      "summary": "The dog days of summer are named for the Dog Star Sirius - the brightest star in the sky - in the constellation Canis Major the Greater Dog. Learn why here. The post Dog days of su",
-      "date": "2026-07-03T07:30:27Z",
-      "image": "https://earthsky.org/upl/2024/07/East-morning-Sirius-Orion-August-1.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-03T08:15:15Z"
     }
   ]
 }
