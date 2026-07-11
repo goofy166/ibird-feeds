@@ -1,8 +1,30 @@
 {
-  "updated": "2026-07-11T19:15:02Z",
-  "updated_utc": "2026-07-11T19:15:02Z",
+  "updated": "2026-07-11T20:59:08Z",
+  "updated_utc": "2026-07-11T20:59:08Z",
   "count": 500,
   "stories": [
+    {
+      "title": "In my years of spearfishing, I’ve never encountered more sharks than now. But I know where I stand in the underwater pecking order | Clarke Gayford",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/12/in-my-years-of-spearfishing-ive-never-encountered-more-sharks-than-now-but-i-know-where-i-stand-in-the-underwater-pecking-order",
+      "summary": "Underwater is one of the only places I can switch my brain off. A shark encounter comes with the territory – and we all have to adapt to this new normal The first time I came face ",
+      "date": "2026-07-11T20:00:59Z",
+      "image": "https://i.guim.co.uk/img/media/ed03e187c934bf4ed089243e390e3a1f56c9bbcb/130_20_1020_816/master/1020.jpg?width=140&quality=85&auto=format&fit=max&s=c417c6e3af172d908a9ff334c5e7a4ab",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-11T20:58:53Z"
+    },
+    {
+      "title": "When species are forced to move: Prediction models underestimate climate-related extinction risk",
+      "link": "https://phys.org/news/2026-07-species-underestimate-climate-extinction.html",
+      "summary": "Climate change threatens many plant and animal species not only when their habitats disappear as climatic conditions change, but also when those habitats shift. In a new study, a t",
+      "date": "2026-07-11T20:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/arctic-fox.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-11T20:59:04Z"
+    },
     {
       "title": "Heavy traffic can turn flower-rich verges into bumblebee traps, study finds",
       "link": "https://phys.org/news/2026-07-heavy-traffic-rich-verges-bumblebee.html",
@@ -5476,28 +5498,6 @@
       "summary": "Researchers have spent decades—and billions of dollars—sequencing animal and crop genomes, but fungi have historically been the forgotten middle child of genomics, only noticed whe",
       "date": "2026-07-03T13:40:03Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unearthing-new-cancer.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-03T14:25:30Z"
-    },
-    {
-      "title": "Escaped flowerhorn fish threaten biodiversity, pose potential public health risks in Laguna, Philippines",
-      "link": "https://phys.org/news/2026-07-flowerhorn-fish-threaten-biodiversity-pose.html",
-      "summary": "A hardy aquarium fish prized for its golden hue, the ornamental Flowerhorn cichlid (Amphilophus spp.) has become a problem for the residents of San Pablo City, Laguna: It is increa",
-      "date": "2026-07-03T13:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/escaped-flowerhorn-fis.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-03T14:25:30Z"
-    },
-    {
-      "title": "Beachcomber's find fuels whale study breakthrough",
-      "link": "https://phys.org/news/2026-07-beachcomber-fuels-whale-breakthrough.html",
-      "summary": "During his morning runs, Rod Keogh had no doubt that the whale poo he saw washed up on the beach had value. Science has finally caught up with him. Samples collected by the South A",
-      "date": "2026-07-03T12:50:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/beachcombers-find-fuel.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
