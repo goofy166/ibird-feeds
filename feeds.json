@@ -1,8 +1,41 @@
 {
-  "updated": "2026-07-11T08:52:54Z",
-  "updated_utc": "2026-07-11T08:52:54Z",
+  "updated": "2026-07-11T10:20:45Z",
+  "updated_utc": "2026-07-11T10:20:45Z",
   "count": 500,
   "stories": [
+    {
+      "title": "New Scientist recommends a vital look at the science of fatherhood",
+      "link": "https://www.newscientist.com/article/mg27136031-400-new-scientist-recommends-a-vital-look-at-the-science-of-fatherhood/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+      "summary": "Dads are often overlooked when it comes to parenting science. Darby Saxbe's fascinating new book Dad Brain is out to change that, says Olivia Goldhill",
+      "date": "2026-07-08T18:00:00Z",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/06112704/SEI_303476692.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-11T10:20:41Z"
+    },
+    {
+      "title": "Diagnostic dilemma: An 83-year-old man went to the hospital because of very itchy skin. It turned out he had a rare form of syphilis.",
+      "link": "https://www.livescience.com/health/viruses-infections-disease/diagnostic-dilemma-an-83-year-old-man-went-to-the-hospital-because-of-very-itchy-skin-it-turned-out-he-had-a-rare-form-of-syphilis",
+      "summary": "A man went to the emergency room after being in and out of hospitals for a month, and doctors found a surprising explanation for his illness.",
+      "date": "2026-07-11T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/piRd34GADdiXe6PSEUvDBP-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-11T10:20:43Z"
+    },
+    {
+      "title": "Does fast charging damage your battery more than regular charging?",
+      "link": "https://www.livescience.com/technology/does-fast-charging-damage-your-battery-more-than-regular-charging",
+      "summary": "From phones to electric vehicles, some batteries take an hour to charge, while others can take up to half a day.",
+      "date": "2026-07-11T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/mHYbgJMEpR6KtcWw5fP4wM-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-11T10:20:43Z"
+    },
     {
       "title": "A swarm of stink bugs and a river of rats: why India’s flowering bamboo causes a crisis for humans",
       "link": "https://www.theguardian.com/environment/2026/jul/11/rats-famine-bamboo-mizoram-india-aoe",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-07-03T11:37:55Z"
-    },
-    {
-      "title": "July 4 Is Always a Star-Spangled-Banner Day for Old Glory. Celebrate With These 15 Images of the American Flag",
-      "link": "https://www.smithsonianmag.com/travel/july-4-is-always-a-star-spangled-banner-day-for-old-glory-celebrate-with-these-15-images-of-the-american-flag-180989053/",
-      "summary": "Nothing symbolizes the promise of the nation like the stars and stripes flapping valiantly in the blue sky. As we approach the country’s 250th anniversary, this collection offers a",
-      "date": "2026-07-03T10:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/hAzF5Qp4jROEYWlBKmXQEXnvLEE=/420x240/filters:focal(1200x903:1201x904)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/bf/0f/bf0f1973-e368-46ec-bbbd-dae0ac4a59b8/1_-f31d47e6-236a-46a4-adc3-a53e18f77783.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-03T11:37:56Z"
-    },
-    {
-      "title": "Stunning photos reveal the intricate beauty of fungi",
-      "link": "https://www.newscientist.com/article/mg27136021-900-stunning-photos-reveal-the-intricate-beauty-of-fungi/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "The vibrant colours and delicate details of New Zealand's fungi and slime moulds are documented in these images, taken from Jay Lichter's new book The Secret Life of Fungi",
-      "date": "2026-07-01T18:00:00Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/29111847/SEI_302551153.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-03T11:37:58Z"
-    },
-    {
-      "title": "Ph.D. project gives critical insights into vulnerable green turtles",
-      "link": "https://phys.org/news/2026-07-phd-critical-insights-vulnerable-green.html",
-      "summary": "A study into the foraging habits of green turtles in the Northern Territory has used an innovative surveying technique that could become a critical tool in monitoring marine habita",
-      "date": "2026-07-03T11:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/phd-project-gives-crit.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-03T11:38:00Z"
     }
   ]
 }
