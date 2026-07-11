@@ -1,8 +1,41 @@
 {
-  "updated": "2026-07-11T13:46:07Z",
-  "updated_utc": "2026-07-11T13:46:07Z",
+  "updated": "2026-07-11T15:02:15Z",
+  "updated_utc": "2026-07-11T15:02:15Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Tropical forests stop absorbing carbon dioxide during El Niño events. This year could be the worst.",
+      "link": "https://www.livescience.com/planet-earth/climate-change/tropical-forests-stop-absorbing-carbon-dioxide-during-el-nino-events-this-year-could-be-the-worst",
+      "summary": "El Niño transforms tropical forests from carbon sinks to sources. 2026 could be the worst year yet.",
+      "date": "2026-07-11T15:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/wJS7KsfdqKWTTVVbpmj35A-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-11T15:02:13Z"
+    },
+    {
+      "title": "'Some people called it horrifying': 'Dinner with King Tut' author on using Egyptian mummification techniques on a modern-day human body",
+      "link": "https://www.livescience.com/archaeology/some-people-called-it-horrifying-dinner-with-king-tut-author-on-using-egyptian-mummification-techniques-on-a-modern-day-human-body",
+      "summary": "\"A lot of the book was actually me floundering around, failing to complete the projects or figuring out what I was doing wrong,\" author Sam Kean says about his experimental archaeo",
+      "date": "2026-07-11T14:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/4bCjppo5MpfmXyb74ZU5NV-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-11T15:02:13Z"
+    },
+    {
+      "title": "'He looked like Ramses the Great': How experimental archaeologists used ancient techniques to mummify a modern-day person",
+      "link": "https://www.livescience.com/archaeology/ancient-egyptians/he-looked-like-ramses-the-great-how-experimental-archaeologists-used-ancient-techniques-to-mummify-a-modern-day-person",
+      "summary": "In his new book, \"Dinner with King Tut: How Rogue Archaeologists Are Re-creating the Sights, Sounds, Smells, and Tastes of Lost Civilizations,\" science writer Sam Kean explains the",
+      "date": "2026-07-11T14:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/pUxnHDbS3uPSFfxr7oFQJ7-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-11T15:02:13Z"
+    },
     {
       "title": "Drones are detecting more sharks at US beaches but do they make public safer?",
       "link": "https://www.theguardian.com/environment/2026/jul/11/sharks-drones-public-safety-beaches",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-07-03T11:37:50Z"
-    },
-    {
-      "title": "How do fireworks get their beautiful colors?",
-      "link": "https://earthsky.org/human-world/how-do-fireworks-get-their-vibrant-colors/",
-      "summary": "The red, orange, yellow, green, blue and purple colors exploding in the night sky during a fireworks festival are created by the use of metal salts. The post How do fireworks get t",
-      "date": "2026-07-03T11:01:06Z",
-      "image": "https://earthsky.org/upl/2024/07/Fireworks_C.Gentile-ECP_New-Jersey_4Jul2024-e1720089287632.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-03T11:37:50Z"
-    },
-    {
-      "title": "Top 10 cool things about stars that you probably didn’t know",
-      "link": "https://earthsky.org/space/10-cool-things-about-stars/",
-      "summary": "Here's a collection of 10 cool things about stars that you probably didn't know. Big stars, green stars, black holes, stars by the millions, and more! The post Top 10 cool things a",
-      "date": "2026-07-03T10:00:55Z",
-      "image": "https://earthsky.org/upl/2011/04/greensun.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-03T11:37:50Z"
-    },
-    {
-      "title": "NOAA to allocate $21.3 million in support of California’s beleaguered commercial salmon fishery",
-      "link": "https://www.mercurynews.com/2026/06/25/noaa-to-allocate-21-3-million-in-support-californias-beleaguered-commercial-salmon-fishery/",
-      "summary": "The money is part of a long-sought aid package for a West Coast industry hit by declining stocks amid drought, shifting ocean conditions and longstanding effects from dams and othe",
-      "date": "Thu, 25 Jun 2026 12Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/01341d9d-f37f-503c-8fed-58263e25e861.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-07-03T11:37:53Z"
     }
   ]
 }
