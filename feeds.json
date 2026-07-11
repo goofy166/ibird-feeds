@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-11T06:21:14Z",
-  "updated_utc": "2026-07-11T06:21:14Z",
+  "updated": "2026-07-11T08:52:54Z",
+  "updated_utc": "2026-07-11T08:52:54Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A swarm of stink bugs and a river of rats: why India’s flowering bamboo causes a crisis for humans",
+      "link": "https://www.theguardian.com/environment/2026/jul/11/rats-famine-bamboo-mizoram-india-aoe",
+      "summary": "Every few decades mass blooming in Mizoram’s forests causes a rodent boom – and devastation to crops. The cycle is well-known, so why aren’t farmers and authorities better prepared",
+      "date": "2026-07-11T08:00:44Z",
+      "image": "https://i.guim.co.uk/img/media/ab119155673014a09b898370a2b4f771941f9609/0_0_1214_971/master/1214.jpg?width=140&quality=85&auto=format&fit=max&s=94f64dbfa7fb2b059e318e4cfc97199b",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-11T08:52:39Z"
+    },
     {
       "title": "Four species in six hours",
       "link": "https://www.10000birds.com/four-species-in-six-hours.htm?utm_source=rss&utm_medium=rss&utm_campaign=four-species-in-six-hours",
@@ -5487,17 +5498,6 @@
       "summary": "A study into the foraging habits of green turtles in the Northern Territory has used an innovative surveying technique that could become a critical tool in monitoring marine habita",
       "date": "2026-07-03T11:20:06Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/phd-project-gives-crit.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-03T11:38:00Z"
-    },
-    {
-      "title": "Complex food webs sustain ecosystem functioning",
-      "link": "https://phys.org/news/2026-07-complex-food-webs-sustain-ecosystem.html",
-      "summary": "Healthy ecosystems depend on more than just having lots of species—they rely on the complex relationships between plants, prey and predators, according to new international researc",
-      "date": "2026-07-03T11:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/complex-food-webs-sust.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
