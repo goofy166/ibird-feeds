@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-11T22:00:04Z",
-  "updated_utc": "2026-07-11T22:00:04Z",
+  "updated": "2026-07-11T23:03:47Z",
+  "updated_utc": "2026-07-11T23:03:47Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Drawing the line: Virtual fences trigger the same cattle behavior as physical ones",
+      "link": "https://phys.org/news/2026-07-line-virtual-trigger-cattle-behavior.html",
+      "summary": "Virtual fences could make managing grazing livestock on farms more flexible and more efficient while improving animal welfare. A new study by the University of Göttingen shows that",
+      "date": "2026-07-11T23:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/drawing-the-line-virtu.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-11T23:03:43Z"
+    },
     {
       "title": "In my years of spearfishing, I’ve never encountered more sharks than now. But I know where I stand in the underwater pecking order | Clarke Gayford",
       "link": "https://www.theguardian.com/commentisfree/2026/jul/12/in-my-years-of-spearfishing-ive-never-encountered-more-sharks-than-now-but-i-know-where-i-stand-in-the-underwater-pecking-order",
@@ -5487,17 +5498,6 @@
       "summary": "There is a constant war going on in your body. Working against you are viruses and cancer cells growing uncontrollably, threatening your tissues and organs. Fighting on your side a",
       "date": "2026-07-03T14:00:03Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/natural-born-killer-ce-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-03T14:25:30Z"
-    },
-    {
-      "title": "How a new fungal genome-editing tool could open fresh paths to cancer treatments",
-      "link": "https://phys.org/news/2026-07-fungal-genome-tool-fresh-paths.html",
-      "summary": "Researchers have spent decades—and billions of dollars—sequencing animal and crop genomes, but fungi have historically been the forgotten middle child of genomics, only noticed whe",
-      "date": "2026-07-03T13:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unearthing-new-cancer.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
