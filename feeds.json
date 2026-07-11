@@ -1,8 +1,52 @@
 {
-  "updated": "2026-07-11T11:57:50Z",
-  "updated_utc": "2026-07-11T11:57:50Z",
+  "updated": "2026-07-11T13:46:07Z",
+  "updated_utc": "2026-07-11T13:46:07Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Drones are detecting more sharks at US beaches but do they make public safer?",
+      "link": "https://www.theguardian.com/environment/2026/jul/11/sharks-drones-public-safety-beaches",
+      "summary": "Increase in sightings may not reflect increase in sharks with little evidence that threat to swimmers has risen Experts say that despite recent increased investment in drones to mo",
+      "date": "2026-07-11T12:00:49Z",
+      "image": "https://i.guim.co.uk/img/media/885304d350812016cbbd20583808ddf611ca5740/599_0_3258_2607/master/3258.jpg?width=140&quality=85&auto=format&fit=max&s=a5b55c777d183b8a9896a8ef9bf48174",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-11T13:45:53Z"
+    },
+    {
+      "title": "Grasses provide most of the world's calories—but we're only now starting to learn how they grow",
+      "link": "https://phys.org/news/2026-07-grasses-world-calories.html",
+      "summary": "If we want to dismiss something as irrelevant, we'd say that it's \"as boring as watching the grass grow.\" And yet grasses—including corn, wheat and rice—make up most of the plant-b",
+      "date": "2026-07-11T13:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/grasses-provide-most-o-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-11T13:46:03Z"
+    },
+    {
+      "title": "Intricate molecular mechanisms help bacteria evade immune detection",
+      "link": "https://phys.org/news/2026-07-intricate-molecular-mechanisms-bacteria-evade.html",
+      "summary": "Northwestern Medicine scientists have identified a novel mechanism used by the bacteria responsible for gonorrhea to evade immune detection and achieve widespread infection, accord",
+      "date": "2026-07-11T12:00:10Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/intricate-molecular-me-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-11T13:46:03Z"
+    },
+    {
+      "title": "Songbirds are in crisis as trappers and smugglers force them into lucrative bird-singing competitions",
+      "link": "https://www.livescience.com/animals/birds/songbirds-are-in-crisis-as-trappers-and-smugglers-force-them-into-lucrative-bird-singing-competitions",
+      "summary": "Millions of songbirds in Southeast Asia are trapped and smuggled each year for keeping as pets or entering in competitions. Scientists warn that it's fueling a crisis.",
+      "date": "2026-07-11T13:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/REbNXKJtY8KoPf7KvXpu7W-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-11T13:46:04Z"
+    },
     {
       "title": "San Juan De La Costa",
       "link": "https://www.10000birds.com/san-juan-de-la-costa-2.htm?utm_source=rss&utm_medium=rss&utm_campaign=san-juan-de-la-costa-2",
@@ -5458,50 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-07-03T11:37:53Z"
-    },
-    {
-      "title": "Wildlife officials rescue fawn held for weeks in dog crate in Sonoma County",
-      "link": "https://www.mercurynews.com/2026/06/17/wildlife-officials-rescue-fawn-held-for-weeks-in-dog-crate-in-sonoma-county/",
-      "summary": "A Sonoma County resident was cited after state wildlife officials said a fawn was taken from the wild and kept in captivity for more than three weeks.",
-      "date": "2026-06-17T13:46:24Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/TPD-L-fawn-061626-01-e1781646927703.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-07-03T11:37:53Z"
-    },
-    {
-      "title": "Trump administration ups ante in quest to thwart removal of PG&E’s Northern California dams",
-      "link": "https://www.mercurynews.com/2026/06/17/trump-administration-ups-ante-in-quest-to-thwart-removal-of-pges-eel-river-dams/",
-      "summary": "Agriculture Secretary Brooke Rollins sought to breathe more life into the possibility that the Scott and Cape Horn dams could be saved, under the auspices of a water district locat",
-      "date": "2026-06-17T12:53:50Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/TPD-L-RollinsDams-061626-01.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-07-03T11:37:53Z"
-    },
-    {
-      "title": "‘Comfort in the Wild’: Lodges and Glamping Escapes, No Roughing it Required",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/best-luxury-nature-lodges-glamping/",
-      "summary": "You do not have to sleep on the ground or skip hot showers to enjoy America’s most beautiful wild spaces. These incredible lodges and glamping spots offer the best of nature—withou",
-      "date": "2026-07-03T10:35:47Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/Clark-Farm-Silos-IJohnston-22_edit.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-03T11:37:55Z"
-    },
-    {
-      "title": "The Daring Gamble to Bring Everest’s Most Famous Body Home",
-      "link": "https://www.outsideonline.com/outdoor-adventure/everest/everest-green-boots-body-recovery-dorje-morup/",
-      "summary": "For 30 years, \"Green Boots\" served as a chilling landmark on Mount Everest. Now, an elite team is launching a high-stakes mission to bring him home. The post The Daring Gamble to B",
-      "date": "2026-07-03T10:33:54Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/green-boots.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-03T11:37:55Z"
     }
   ]
 }
