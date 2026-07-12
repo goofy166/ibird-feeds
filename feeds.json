@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-12T19:15:26Z",
-  "updated_utc": "2026-07-12T19:15:26Z",
+  "updated": "2026-07-12T20:59:40Z",
+  "updated_utc": "2026-07-12T20:59:40Z",
   "count": 500,
   "stories": [
+    {
+      "title": "So Long, and Thanks for All the Fish",
+      "link": "https://hakaimagazine.com/article-short/so-long-and-thanks-for-all-the-fish/",
+      "summary": "We started Hakai Magazine over 10 years ago because the ocean and its coastlines needed a voice. No other outlet was exclusively covering issues at the interface of sea and land—or",
+      "date": "2024-12-27T08:05:43Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-so-long-and-thanks-for-all-the-fish.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-07-12T20:59:28Z"
+    },
     {
       "title": "Bull bison tosses Yellowstone tourist 8ft in air, with run-in caught on video",
       "link": "https://www.theguardian.com/us-news/2026/jul/12/yellowstone-bull-bison-throws-tourist-in-air",
@@ -5487,17 +5498,6 @@
       "summary": "An incredible amount of grasshopper species live in North America! Trying to list them all would be impossible. 🙂 So below, you will find the most common and abundant insects found",
       "date": "2024-05-10T15:51:41Z",
       "image": "https://birdwatchinghq.com/wp-content/uploads/2024/05/grasshoppers-intro.jpg",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-07-03T20:18:44Z"
-    },
-    {
-      "title": "40 Types of Rabbit-Resistant Plants You Can Grow (2026)",
-      "link": "https://birdwatchinghq.com/rabbit-resistant-plants/",
-      "summary": "“Where did all my flowers go?!” I’ve asked myself this question more than once, and usually, the answer can be summed up with one word -> rabbits! These creatures are adorable but ",
-      "date": "2024-04-24T19:32:31Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2020/06/rabbits-eating-clover.jpg",
       "name": "BWatching HQ",
       "category": "birds",
       "color": 4,
