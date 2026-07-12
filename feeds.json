@@ -1,8 +1,30 @@
 {
-  "updated": "2026-07-12T06:42:15Z",
-  "updated_utc": "2026-07-12T06:42:15Z",
+  "updated": "2026-07-12T09:08:18Z",
+  "updated_utc": "2026-07-12T09:08:18Z",
   "count": 500,
   "stories": [
+    {
+      "title": "See 3 small constellations near the Summer Triangle",
+      "link": "https://earthsky.org/constellations/summer-triangle-and-3-small-constellations/",
+      "summary": "You need a dark country sky to see these 3 small constellations: Vulpecula, Delphinus and Sagitta. They are all near the Summer Triangle. The post See 3 small constellations near t",
+      "date": "2026-07-12T07:22:00Z",
+      "image": "https://earthsky.org/upl/2021/07/summer-triangle-sagitta-vulpecula-delphinus-e1625689597780.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-07-12T09:08:04Z"
+    },
+    {
+      "title": "Was Einstein wrong about anything?",
+      "link": "https://www.livescience.com/physics-mathematics/was-einstein-wrong-about-anything",
+      "summary": "Albert Einstein is regarded as a genius, but even he admitted that his work wasn't perfect. So what did he get wrong?",
+      "date": "2026-07-12T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/6kZPTvXkLZgGUDuqj6sAvL-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-12T09:08:15Z"
+    },
     {
       "title": "Almost a quarter of Dutch bee colonies did not survive last winter",
       "link": "https://phys.org/news/2026-07-quarter-dutch-bee-colonies-survive.html",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-07-03T14:25:29Z"
-    },
-    {
-      "title": "Study demonstrates neurotransmitter communication in immune cells directly for the first time",
-      "link": "https://phys.org/news/2026-07-neurotransmitter-communication-immune-cells.html",
-      "summary": "Researchers at the University of Münster and Ruhr University Bochum have demonstrated for the first time in real time that the body's own defense cells use catecholamines—neurotran",
-      "date": "2026-07-03T14:20:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-demonstrates-neu.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-03T14:25:30Z"
-    },
-    {
-      "title": "Fighting an emerging threat to strawberry crops",
-      "link": "https://phys.org/news/2026-07-emerging-threat-strawberry-crops.html",
-      "summary": "A few years ago, Austin Wrenn noticed something unsettling in his strawberry greenhouses at Wrenn's Farm in Zebulon, North Carolina. He was one of the first growers in the state to",
-      "date": "2026-07-03T14:00:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fighting-an-emerging-t.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-03T14:25:30Z"
     }
   ]
 }
