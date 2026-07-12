@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-11T23:03:47Z",
-  "updated_utc": "2026-07-11T23:03:47Z",
+  "updated": "2026-07-12T03:38:33Z",
+  "updated_utc": "2026-07-12T03:38:33Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Almost a quarter of Dutch bee colonies did not survive last winter",
+      "link": "https://phys.org/news/2026-07-quarter-dutch-bee-colonies-survive.html",
+      "summary": "During the winter of 2025–2026, 24% of Dutch honeybee colonies were lost. The upward trend observed in recent years therefore continues. This is the fourth consecutive year in whic",
+      "date": "2026-07-12T02:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/honeybee.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-12T03:38:29Z"
+    },
     {
       "title": "Drawing the line: Virtual fences trigger the same cattle behavior as physical ones",
       "link": "https://phys.org/news/2026-07-line-virtual-trigger-cattle-behavior.html",
@@ -5487,17 +5498,6 @@
       "summary": "A few years ago, Austin Wrenn noticed something unsettling in his strawberry greenhouses at Wrenn's Farm in Zebulon, North Carolina. He was one of the first growers in the state to",
       "date": "2026-07-03T14:00:07Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fighting-an-emerging-t.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-03T14:25:30Z"
-    },
-    {
-      "title": "Natural born killers—tracking immune cells as they cluster around cancer",
-      "link": "https://phys.org/news/2026-06-natural-born-killers-tracking-immune.html",
-      "summary": "There is a constant war going on in your body. Working against you are viruses and cancer cells growing uncontrollably, threatening your tissues and organs. Fighting on your side a",
-      "date": "2026-07-03T14:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/natural-born-killer-ce-1.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
