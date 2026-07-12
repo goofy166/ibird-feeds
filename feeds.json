@@ -1,8 +1,63 @@
 {
-  "updated": "2026-07-12T15:04:17Z",
-  "updated_utc": "2026-07-12T15:04:17Z",
+  "updated": "2026-07-12T17:07:48Z",
+  "updated_utc": "2026-07-12T17:07:48Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Neil the seal is more than a viral animal. He's become a global folk hero",
+      "link": "https://phys.org/news/2026-07-neil-viral-animal-global-folk.html",
+      "summary": "I am one of Hobart's many residents who traveled to a nearby beach to witness Neil the seal—an animal that has been receiving global attention for his wild personality and humorous",
+      "date": "2026-07-12T17:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/neil-the-seal.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-12T17:07:45Z"
+    },
+    {
+      "title": "Scientists decipher how a psychedelic substance is created, then engineer a plant to produce several at once",
+      "link": "https://phys.org/news/2026-07-scientists-decipher-psychedelic-substance.html",
+      "summary": "Long before scientists began studying them in the lab, mind-altering substances were already being gathered from plants, fungi and even animals for use in rituals, healing practice",
+      "date": "2026-07-12T17:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-plant-three-kingdo-3.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-12T17:07:45Z"
+    },
+    {
+      "title": "In deep oceans, evolution is supercharged. This diversity could help unlock humanity's greatest challenges",
+      "link": "https://phys.org/news/2026-07-deep-oceans-evolution-supercharged-diversity.html",
+      "summary": "Far beneath the surface of the ocean lies the largest and least explored habitat on Earth. The deep sea is cold, dark, highly pressurized—and home to a huge amount of undiscovered ",
+      "date": "2026-07-12T15:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/deep-ocean.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-12T17:07:45Z"
+    },
+    {
+      "title": "'The moon looked wrong': Artemis II mission controller Chris White on taking historic lunar flyby photos from 250,000 miles away",
+      "link": "https://www.livescience.com/space/space-exploration/the-moon-looked-wrong-artemis-ii-mission-controller-chris-white-on-taking-historic-lunar-flyby-photos-from-250-000-miles-away",
+      "summary": "Artemis II lead communications officer Chris White describes the tensest and most shocking moments of the historic moon mission, as seen from his desk at mission control in Houston",
+      "date": "2026-07-12T16:30:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/9npPm6pugmr2myA6wBqZK4-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-12T17:07:46Z"
+    },
+    {
+      "title": "AI is giving people bad money advice. Here's what I worry about most, as a finance professor.",
+      "link": "https://www.livescience.com/technology/artificial-intelligence/ai-is-giving-people-bad-money-advice-heres-what-i-worry-about-most-as-a-finance-professor",
+      "summary": "When managing your money, take a chatbot's ‘confidence’ with a grain of salt",
+      "date": "2026-07-12T16:15:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/6n4pvqbHbWWdKgCoXB2n6L-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-12T17:07:46Z"
+    },
     {
       "title": "Sun news: M1.2 flare as CME impacts for Earth loom",
       "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
@@ -5447,61 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-07-03T18:17:31Z"
-    },
-    {
-      "title": "Audacious mission to rescue NASA's falling telescope has launched",
-      "link": "https://www.newscientist.com/article/2532627-audacious-mission-to-rescue-nasas-falling-telescope-has-launched/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "NASA’s Swift space telescope is reaching the end of its two-decade run in orbit – unless a satellite launched on 3 July can give it a lifesaving boost",
-      "date": "2026-07-03T14:14:19Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/03141232/SEI_303630320.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-03T18:17:41Z"
-    },
-    {
-      "title": "Giant wheat starch granules—a leap forward in biological engineering with potential benefits for diet, manufacturing",
-      "link": "https://phys.org/news/2026-07-giant-wheat-starch-granules-biological.html",
-      "summary": "Scientists have grown wheat containing supersized starch granules—a leap forward in biological engineering with potential benefits for our daily diets and a raft of industrial appl",
-      "date": "2026-07-03T18:00:10Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/giant-wheat-starch-gra.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-03T18:17:42Z"
-    },
-    {
-      "title": "Mammals use the same underlying system—preserved through evolution—to process smells",
-      "link": "https://phys.org/news/2026-07-mammals-underlying-evolution.html",
-      "summary": "Picture a mouse taking rapid, staccato sniffs of a crumb it's found while foraging for food. Now compare that with a human leaning in for a single, deep inhale to gauge whether a c",
-      "date": "2026-07-03T18:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mice-can-sniff-like-hu-3.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-03T18:17:42Z"
-    },
-    {
-      "title": "Colony connections determine ant wound care: Transitional workers treat injured nestmates",
-      "link": "https://phys.org/news/2026-07-colony-ant-wound-transitional-workers.html",
-      "summary": "Patients in hospitals generally trust the nursing staff. After all, they have undergone training and, in some cases, have several years of professional experience. In the case of c",
-      "date": "2026-07-03T17:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ants-who-looks-after-t.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-03T18:17:42Z"
-    },
-    {
-      "title": "Diminutive species 'the Hobbit' did not hunt or control fire, deepening the mystery of its ancestry, dwarf elephant bones reveal",
-      "link": "https://www.livescience.com/archaeology/human-evolution/diminutive-species-the-hobbit-did-not-hunt-or-control-fire-deepening-the-mystery-of-its-ancestry-dwarf-elephant-bones-reveal",
-      "summary": "The extinct human species Homo floresiensis was a scavenger, not a hunter, an analysis of fossil animal bones reveals.",
-      "date": "2026-07-03T18:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/6qppLo9Wqys4wFpNVEBL85-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-03T18:17:43Z"
     }
   ]
 }
