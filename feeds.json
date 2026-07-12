@@ -1,8 +1,30 @@
 {
-  "updated": "2026-07-12T17:07:48Z",
-  "updated_utc": "2026-07-12T17:07:48Z",
+  "updated": "2026-07-12T19:15:26Z",
+  "updated_utc": "2026-07-12T19:15:26Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Bull bison tosses Yellowstone tourist 8ft in air, with run-in caught on video",
+      "link": "https://www.theguardian.com/us-news/2026/jul/12/yellowstone-bull-bison-throws-tourist-in-air",
+      "summary": "Man reportedly seriously injured by the bison, described as ‘agitated’ and ‘charging anything’ by photographer An enraged, 2,000lb (900kg) bull bison hooked a tourist and tossed hi",
+      "date": "2026-07-12T17:33:54Z",
+      "image": "https://i.guim.co.uk/img/media/b33908a1255d2c93e1b78f4b618192fb41900aba/755_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=2e322c9fae923907145a65217f24c2b9",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-12T19:15:11Z"
+    },
+    {
+      "title": "Climate change leaves northern tree swallows more vulnerable those in the southern US",
+      "link": "https://phys.org/news/2026-07-climate-northern-tree-swallows-vulnerable.html",
+      "summary": "Tree swallows in the northern U.S. and Canada face the greatest risk from climate change despite responding to temperature the same way as tree swallows in the southern U.S., accor",
+      "date": "2026-07-12T19:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/treeswallow.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-12T19:15:22Z"
+    },
     {
       "title": "Neil the seal is more than a viral animal. He's become a global folk hero",
       "link": "https://phys.org/news/2026-07-neil-viral-animal-global-folk.html",
@@ -5480,28 +5502,6 @@
       "category": "birds",
       "color": 4,
       "fetched_at": "2026-07-03T20:18:44Z"
-    },
-    {
-      "title": "So Long, and Thanks for All the Fish",
-      "link": "https://hakaimagazine.com/article-short/so-long-and-thanks-for-all-the-fish/",
-      "summary": "We started Hakai Magazine over 10 years ago because the ocean and its coastlines needed a voice. No other outlet was exclusively covering issues at the interface of sea and land—or",
-      "date": "2024-12-27T08:05:43Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-so-long-and-thanks-for-all-the-fish.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-07-03T20:18:49Z"
-    },
-    {
-      "title": "A blackbird with a taste for musicals | Letters",
-      "link": "https://www.theguardian.com/environment/2026/jul/03/a-blackbird-with-a-taste-for-musicals",
-      "summary": "Jane Horne wonders if other readers hear well-known tunes in blackbird song Reading Josie George’s article discussing her resident blackbird and its song ( Country diary, 29 June )",
-      "date": "2026-07-03T16:51:14Z",
-      "image": "https://i.guim.co.uk/img/media/ae529a7d0118934fb6e0d40d1d761625a55afb6d/444_0_4426_3541/master/4426.jpg?width=140&quality=85&auto=format&fit=max&s=61604c29f43529cc9084b280918501b8",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-03T18:17:31Z"
     }
   ]
 }
