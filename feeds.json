@@ -1,8 +1,30 @@
 {
-  "updated": "2026-07-13T22:01:47Z",
-  "updated_utc": "2026-07-13T22:01:47Z",
+  "updated": "2026-07-13T23:58:27Z",
+  "updated_utc": "2026-07-13T23:58:27Z",
   "count": 500,
   "stories": [
+    {
+      "title": "President Trump Just Took a Hatchet to Bears Ears and Grand Staircase National Monuments",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/president-trump-just-took-a-hatchet-to-bears-ears-and-grand-staircase-national-monuments/",
+      "summary": "Trump signed an order slashing Utah’s Bears Ears and Grand Staircase-Escalante national monuments by nearly 3 million acres. The post President Trump Just Took a Hatchet to Bears E",
+      "date": "2026-07-13T23:12:23Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/GettyImages-507916864.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-13T23:58:17Z"
+    },
+    {
+      "title": "Maya mathematician’s name decoded alongside astronomical formula",
+      "link": "https://www.newscientist.com/article/2578746-maya-mathematicians-name-decoded-alongside-astronomical-formula/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Hieroglyphs on the wall of a Maya building record calculations concerning the orbits of Earth, Mars and Venus, as well as the name of a mathematician who wrote the text around 1200",
+      "date": "2026-07-13T23:01:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305097838.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-13T23:58:22Z"
+    },
     {
       "title": "A Yellowstone Bison Launched a Person 8 Feet Into the Air. The Scariest Part? He Did Everything Right.",
       "link": "https://www.outsideonline.com/outdoor-adventure/environment/aggressive-bull-bison-attack-yellowstone-campground-rut/",
@@ -5476,28 +5498,6 @@
       "summary": "Our brains are large compared with other animals, so it is tempting to assume there was an evolutionary advantage to them – but that may not be true at all",
       "date": "2026-07-06T10:00:37Z",
       "image": "https://images.newscientist.com/wp-content/uploads/2026/07/03122332/SEI_303833291.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-06T13:53:33Z"
-    },
-    {
-      "title": "Beetroot juice is trending – its benefits go beyond the hype",
-      "link": "https://www.newscientist.com/article/2532642-beetroot-juice-is-trending-its-benefits-go-beyond-the-hype/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Some marathon runners and other athletes swear by beetroot juice shots, but is there evidence they really do anything for our bodies? Columnist Alice Klein investigates",
-      "date": "2026-07-06T09:00:36Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/03171318/SEI_303836179.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-06T13:53:33Z"
-    },
-    {
-      "title": "Can the biggest problems in AI be solved by philosophy?",
-      "link": "https://www.newscientist.com/article/2532588-can-the-biggest-problems-in-ai-be-solved-by-philosophy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "AI companies are hiring philosophy graduates to help them understand the nature of consciousness, whether it can be replicated and how their systems can be made better and more rel",
-      "date": "2026-07-06T06:00:42Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/02114356/SEI_303622370.jpg",
       "name": "New Scientist",
       "category": "insects",
       "color": 12,
