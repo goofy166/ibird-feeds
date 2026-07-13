@@ -1,8 +1,85 @@
 {
-  "updated": "2026-07-13T15:46:01Z",
-  "updated_utc": "2026-07-13T15:46:01Z",
+  "updated": "2026-07-13T18:00:48Z",
+  "updated_utc": "2026-07-13T18:00:48Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Baby American mink rescued after wandering into North Bay yard",
+      "link": "https://www.mercurynews.com/2026/07/13/rare-baby-american-mink-rescued-after-wandering-into-healdsburg-yard/",
+      "summary": "A tiny American mink mistaken for an otter is recovering after wandering into a Healdsburg yard near the Russian River last month.",
+      "date": "2026-07-13T17:13:30Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/TPD-L-mink-071026-01_46dcc8-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-07-13T18:00:36Z"
+    },
+    {
+      "title": "The Largest Operating Steam Locomotive in the World Weighs 1.2 Million Pounds. Now, the Historic Train May Be Coming to Your Town",
+      "link": "https://www.smithsonianmag.com/smart-news/the-largest-operating-steam-locomotive-in-the-world-weighs-1-2-million-pounds-now-the-historic-train-may-be-coming-to-your-town-180989112/",
+      "summary": "Built in the 1940s, Big Boy No. 4014 retired in 1961 after traveling for more than one million miles. It's now making its way across the country in honor of America's 250th birthda",
+      "date": "2026-07-13T17:26:51Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/rw43S71GvFc31TBThOgp5YGbUI8=/420x240/filters:focal(958x548:959x549)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e5/46/e546a24a-94be-4def-9605-0cef79c7adc6/big_boy_no_4014_on_display_in_philadelphia.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-13T18:00:39Z"
+    },
+    {
+      "title": "Cancer Cases Are Expected to Nearly Double by 2050, Warns the WHO. Low-Income Countries Will Be Disproportionately Affected",
+      "link": "https://www.smithsonianmag.com/smart-news/cancer-cases-are-expected-to-nearly-double-by-2050-warns-the-who-low-income-countries-will-be-disproportionately-affected-180989102/",
+      "summary": "In a new report, the World Health Organization predicts that new annual diagnoses will rise from about 20.6 million today to almost 35 million by 2050. The biggest increases will b",
+      "date": "2026-07-13T15:44:42Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/uxjjPi2CV-G9SEmJPZowDKtXspc=/420x240/filters:focal(2850x1900:2851x1901)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/70/7d/707d30f5-3f4a-4e4d-bd89-9ecf92beaec6/cancer.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-13T18:00:39Z"
+    },
+    {
+      "title": "How humans evolved to be twice as big as our ancestors",
+      "link": "https://www.newscientist.com/article/2533221-how-humans-evolved-to-be-twice-as-big-as-our-ancestors/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Artistic representations of ancient humans often show large men with bulging muscles – but our ancestors were actually smaller than us, in both height and body mass. Columnist Mich",
+      "date": "2026-07-13T17:00:03Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/07160623/sei304388760.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-13T18:00:42Z"
+    },
+    {
+      "title": "Shrimp feeding behavior observed under simulated microgravity",
+      "link": "https://phys.org/news/2026-07-shrimp-behavior-simulated-microgravity.html",
+      "summary": "The Space Aquaculture Project at Okayama University of Science is an ambitious research initiative aimed at cultivating fish and crustaceans on the moon and Mars, which are expecte",
+      "date": "2026-07-13T17:54:20Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shrimp-feeding-behavio.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-13T18:00:44Z"
+    },
+    {
+      "title": "Hidden in plain sight: Caribbean reef fish nestle in tube worms, revealing previously undocumented partnership",
+      "link": "https://phys.org/news/2026-07-hidden-plain-sight-caribbean-reef.html",
+      "summary": "On Caribbean coral reefs, an unlikely partnership has gone largely unnoticed: Tiny fish regularly nestle within the feathery structures of tube worms. While these sensitive worms t",
+      "date": "2026-07-13T17:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-in-plain-sight-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-13T18:00:44Z"
+    },
+    {
+      "title": "Big bees have the most to lose as global CO₂ levels rise: New research",
+      "link": "https://phys.org/news/2026-07-big-bees-global.html",
+      "summary": "Pollinators—including bees, flies, wasps, moths, butterflies and some nectar-loving birds—are a cornerstone of our natural environment. By helping plants reproduce, they keep our e",
+      "date": "2026-07-13T16:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bombus-asiaticus.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-07-13T18:00:44Z"
+    },
     {
       "title": "Dolphin deaths in South Australia spike after algal bloom decimates food sources",
       "link": "https://www.theguardian.com/environment/2026/jul/14/dolphin-deaths-south-australia-algal-bloom",
@@ -5425,83 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-07-06T09:05:16Z"
-    },
-    {
-      "title": "How we can coexist with coyotes, and other lessons from Stanley Park: Q&A with zoologists",
-      "link": "https://phys.org/news/2026-07-coexist-coyotes-lessons-stanley-qa.html",
-      "summary": "Researchers are sharing lessons from the unprecedented Stanley Park coyote attacks from 2020 to 2021 to help people better coexist with urban wildlife.",
-      "date": "2026-07-06T09:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-we-can-coexist-wit.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-06T09:05:27Z"
-    },
-    {
-      "title": "Neutral lipids enable precision control over supramolecular polymerization",
-      "link": "https://phys.org/news/2026-07-neutral-lipids-enable-precision-supramolecular.html",
-      "summary": "The formation of supramolecular polymers within living cells is an emerging strategy for regulating cellular functions, and lipid droplets (LDs) are promising environments for such",
-      "date": "2026-07-06T09:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/neutral-lipids-enable.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-06T09:05:27Z"
-    },
-    {
-      "title": "Rats show empathy, according to model",
-      "link": "https://phys.org/news/2026-07-rats-empathy.html",
-      "summary": "A rat first frees a cagemate rat and then shares food with it. Is this animal just as empathetic as humans? In an American study from 2011, researchers observed that rats first fre",
-      "date": "2026-07-05T20:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-empathetic-rats-ar.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-05T21:10:51Z"
-    },
-    {
-      "title": "Spring songbirds may help pollinate UK trees, with pollen on 89% of studied birds",
-      "link": "https://phys.org/news/2026-07-songbirds-pollinate-uk-trees-pollen.html",
-      "summary": "The warblers—those harbingers of spring in the U.K.—have an unappreciated talent of a different sort. Common U.K. birds, including chiffchaffs and blackcaps, are playing a real rol",
-      "date": "2026-07-05T20:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uk-songbirds-play-a-re.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-05T21:10:51Z"
-    },
-    {
-      "title": "Rattlesnake Master Plant Care and Growing Tips",
-      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/rattlesnake-master/",
-      "summary": "Rattlesnake master is an unusual beauty packed with pollinator perks. Learn how — and why — to add this prairie plant to your garden. The post Rattlesnake Master Plant Care and Gro",
-      "date": "2026-06-26T15:19:17Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/GettyImages-1422828688.jpg?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-07-05T17:20:02Z"
-    },
-    {
-      "title": "8 Fascinating Mosquito Facts You Should Know",
-      "link": "https://www.birdsandblooms.com/gardening/garden-bugs/mosquito-facts/",
-      "summary": "Mosquito bites may be pesky, but these insects lead interesting lives! Learn unexpected mosquito facts, including how fast they fly. The post 8 Fascinating Mosquito Facts You Shoul",
-      "date": "2026-06-26T14:47:34Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/shutterstock_2665471581-scaled-e1782403171502.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-07-05T15:19:52Z"
-    },
-    {
-      "title": "Laughter may date back 15 million years, shared by humans and great apes",
-      "link": "https://phys.org/news/2026-06-humans-great-apes-similar-giggles.html",
-      "summary": "Humans and great apes have been giggling in similar ways since branching off the evolutionary tree, a new study suggests.",
-      "date": "2026-07-05T15:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/get-a-load-of-this-hum.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-05T15:20:06Z"
     }
   ]
 }
