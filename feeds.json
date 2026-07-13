@@ -1,8 +1,30 @@
 {
-  "updated": "2026-07-13T20:19:39Z",
-  "updated_utc": "2026-07-13T20:19:39Z",
+  "updated": "2026-07-13T22:01:47Z",
+  "updated_utc": "2026-07-13T22:01:47Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A Yellowstone Bison Launched a Person 8 Feet Into the Air. The Scariest Part? He Did Everything Right.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/aggressive-bull-bison-attack-yellowstone-campground-rut/",
+      "summary": "Most wildlife incidents involve tourists getting too close. A recent, unprovoked attack in Yellowstone shows how surging hormones turn bull bison into unpredictable tanks. The post",
+      "date": "2026-07-13T20:55:35Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/GettyImages-1077369526.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-13T22:01:38Z"
+    },
+    {
+      "title": "This T. Rex Fossil Could Fetch the Largest Sum of Any Dinosaur Ever Auctioned. Scientists Worry They'll Lose the Chance to Study It",
+      "link": "https://www.smithsonianmag.com/smart-news/this-t-rex-fossil-could-fetch-the-largest-sum-of-any-dinosaur-ever-auctioned-scientists-worry-theyll-lose-the-chance-to-study-it-180989114/",
+      "summary": "Bids on \"Gus\" will start at $19 million, a steep price for public institutions. Specimens in private collections can be harder for researchers to examine, and they're practically i",
+      "date": "2026-07-13T20:13:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/LFp-_ka-F57N1Ko75mnvVeANIkc=/420x240/filters:focal(3352x2005:3353x2006)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/54/d2/54d2a89c-e839-4a90-8c40-3c6c354825d4/photo_credit__matthew_sherman_3.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-13T22:01:40Z"
+    },
     {
       "title": "Rattlesnake Master Plant Care and Growing Tips",
       "link": "https://www.birdsandblooms.com/gardening/flower-gardening/rattlesnake-master/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-07-06T13:53:33Z"
-    },
-    {
-      "title": "New workflow tool gives scientists a clearer view of how DNA is regulated",
-      "link": "https://phys.org/news/2026-07-workflow-tool-scientists-clearer-view.html",
-      "summary": "Researchers from the Cancer Science Institute of Singapore (CSI Singapore) at NUS have developed a new method that allows scientists to better understand how DNA is organized and r",
-      "date": "2026-07-06T12:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-tool-gives-scienti-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-06T13:53:35Z"
-    },
-    {
-      "title": "From birdsong to galaxies: Unleashing the potential of citizen science",
-      "link": "https://phys.org/news/2026-07-birdsong-galaxies-unleashing-potential-citizen.html",
-      "summary": "Everyone could contribute dramatically more to scientific knowledge if given better recognition, administrative support and funding stability, new research has found. An internatio",
-      "date": "2026-07-06T12:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-birdsong-to-galax-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-06T13:53:35Z"
     }
   ]
 }
