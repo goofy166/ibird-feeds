@@ -1,8 +1,129 @@
 {
-  "updated": "2026-07-12T22:02:21Z",
-  "updated_utc": "2026-07-12T22:02:21Z",
+  "updated": "2026-07-13T00:01:53Z",
+  "updated_utc": "2026-07-13T00:01:53Z",
   "count": 500,
   "stories": [
+    {
+      "title": "27 Grasshopper Species in North America! (2026)",
+      "link": "https://birdwatchinghq.com/grasshoppers-in-north-america/",
+      "summary": "An incredible amount of grasshopper species live in North America! Trying to list them all would be impossible. 🙂 So below, you will find the most common and abundant insects found",
+      "date": "2024-05-10T15:51:41Z",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2024/05/grasshoppers-intro.jpg",
+      "name": "BWatching HQ",
+      "category": "birds",
+      "color": 4,
+      "fetched_at": "2026-07-13T00:01:33Z"
+    },
+    {
+      "title": "UN space database aimed at easing global tensions is mysteriously down",
+      "link": "https://www.newscientist.com/article/2533721-un-space-database-aimed-at-easing-global-tensions-is-mysteriously-down/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "A list of global space launches designed to calm cold war tensions and promote transparency has been missing from the UN's website for months",
+      "date": "2026-07-10T14:11:26Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/10150517/SEI_304768873.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-13T00:01:46Z"
+    },
+    {
+      "title": "Global warming already causing crop losses of over $20 billion a year",
+      "link": "https://www.newscientist.com/article/2533593-global-warming-already-causing-crop-losses-of-over-20-billion-a-year/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Climate change is already having a big impact on crop yields, and the subsequent financial losses will continue to rise as the world keeps warming",
+      "date": "2026-07-10T14:00:51Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/09143727/SEI_304539670.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-13T00:01:46Z"
+    },
+    {
+      "title": "Mathematicians put AI to work on Fermat’s last theorem",
+      "link": "https://www.newscientist.com/article/2533518-mathematicians-put-ai-to-work-on-fermats-last-theorem/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "At an event in London, mathematicians have made unexpectedly fast progress on formalising Fermat's last theorem using AI",
+      "date": "2026-07-10T11:00:18Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/09132318/SEI_304535668.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-13T00:01:46Z"
+    },
+    {
+      "title": "The sneaky maths trick for solving problems without answering them",
+      "link": "https://www.newscientist.com/article/2532687-the-sneaky-maths-trick-for-solving-problems-without-answering-them/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "How can you have a proof without proving anything? Mathematicians found a way and, in the process, came to blows over it – but 100 years on, this trick is a common part of modern m",
+      "date": "2026-07-10T08:00:57Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/01190421/SEI_302858031.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-13T00:01:46Z"
+    },
+    {
+      "title": "2026 eclipse: 5 citizen science projects you can contribute to",
+      "link": "https://www.newscientist.com/article/2531817-2026-eclipse-5-citizen-science-projects-you-can-contribute-to/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "During the August 2026 solar eclipse, scientists will be rushing to gather data on the sun, but even if you aren't a professional scientist, you can still help the research",
+      "date": "2026-07-10T05:00:49Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/06/26163830/SEI_302712757.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-13T00:01:46Z"
+    },
+    {
+      "title": "Special relativity can warp chemical bonds – now we’ve seen it happen",
+      "link": "https://www.newscientist.com/article/2533629-special-relativity-can-warp-chemical-bonds-now-weve-seen-it-happen/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "An experiment with a charged molecule of bismuth and carbon reveals how effects from Albert Einstein’s special relativity reshape the standard understanding of chemical bonds",
+      "date": "Thu, 09 Jul 2026 18Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/09111608/SEI_304616192.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-13T00:01:46Z"
+    },
+    {
+      "title": "Resuscitated human retinas respond to light 10 hours after death",
+      "link": "https://www.newscientist.com/article/2533673-resuscitated-human-retinas-respond-to-light-10-hours-after-death/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Perfusing donor human retinas with blood and oxygen meant they continued to respond to light for up to 10 hours after death, marking a significant step towards eye transplants that",
+      "date": "Thu, 09 Jul 2026 15Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/09110653/SEI_304522985.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-13T00:01:46Z"
+    },
+    {
+      "title": "Mathematics of thermodynamics is being rewritten after 200 years",
+      "link": "https://www.newscientist.com/article/2533428-mathematics-of-thermodynamics-is-being-rewritten-after-200-years/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "The laws of physics that concern heat and work could gain a firmer mathematical footing thanks to “gauge theory”, which already helps us understand quantum fields",
+      "date": "Thu, 09 Jul 2026 13Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/08225705/SEI_304523689.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-13T00:01:46Z"
+    },
+    {
+      "title": "Injection halves risk of chromosome error common in older human eggs",
+      "link": "https://www.newscientist.com/article/2533616-injection-halves-risk-of-chromosome-error-common-in-older-human-eggs/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Egg cells missing a key protein may be more likely to end up with the wrong number of chromosomes, but an mRNA injection that helps the cells make the protein reduces the problem",
+      "date": "Thu, 09 Jul 2026 11Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/08183744/SEI_304526805.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-13T00:01:46Z"
+    },
+    {
+      "title": "A worm that lived half a billion years ago preferred turning right",
+      "link": "https://www.newscientist.com/article/2533656-a-worm-that-lived-half-a-billion-years-ago-preferred-turning-right/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Fossils of Spriggina floundersi provide the earliest evidence of animals favouring one side of the body over the other – a feature of nervous systems that we see in our own right- ",
+      "date": "Thu, 09 Jul 2026 09Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/09095520/SEI_304524593.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-13T00:01:46Z"
+    },
     {
       "title": "40 Types of Rabbit-Resistant Plants You Can Grow (2026)",
       "link": "https://birdwatchinghq.com/rabbit-resistant-plants/",
@@ -5381,127 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-04T04:40:45Z"
-    },
-    {
-      "title": "Conservation genomics faces growing calls to center Indigenous knowledge and data rights",
-      "link": "https://phys.org/news/2026-07-genomics-center-indigenous-knowledge-rights.html",
-      "summary": "Throughout human ecological history, we have played a variety of roles within ecosystems around the world. In this so-called Anthropocene era, genomic innovations have given us new",
-      "date": "2026-07-03T23:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-call-on-co.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-04T00:12:28Z"
-    },
-    {
-      "title": "Scarlet Tanager Species Spotlight: 10 Interesting Facts!",
-      "link": "https://birdwatchinghq.com/scarlet-tanager-interesting-facts/",
-      "summary": "Today, I want to introduce you to the Scarlet Tanager. Many people find it surprising that these BEAUTIFUL birds spend their summers breeding in North America. Once the weather sta",
-      "date": "2025-10-17T17:43:57Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/male_scarlet_tanager_2.jpg",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-07-03T22:10:19Z"
-    },
-    {
-      "title": "Gray Catbird Species Spotlight: 10 Interesting Facts!",
-      "link": "https://birdwatchinghq.com/gray-catbird-interesting-facts/",
-      "summary": "If you’ve ever heard a bird meow or seen a flash of sleek gray darting through a thicket, you might have seen the Gray Catbird. Equal parts mysterious and entertaining, these feath",
-      "date": "Thu, 16 Oct 2025 17Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/gray_catbird_1-1.jpg",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-07-03T22:10:19Z"
-    },
-    {
-      "title": "15 Birds You’re Helping Protect by Drinking Shade-Grown Coffee",
-      "link": "https://birdwatchinghq.com/birds-that-benefit-from-shade-grown-coffee-farms/",
-      "summary": "Shade-grown coffee farms are a lifeline for birds that depend on forest-like environments to survive. These farms preserve canopy cover, native trees, and layered vegetation, which",
-      "date": "2025-10-15T17:37:00Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/male_scarlet_tanager_2.jpg",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-07-03T22:10:19Z"
-    },
-    {
-      "title": "17 FUN Facts About Hummingbirds! (that will make you hum)",
-      "link": "https://birdwatchinghq.com/facts-about-hummingbirds/",
-      "summary": "Are you ready to learn some amazing facts about hummingbirds? Seriously, these tiny birds are some of the most interesting creatures in the world. And today, I’m listing some of th",
-      "date": "2025-07-20T13:35:58Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2022/05/hummingbird-facts-intro.png",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-07-03T22:10:19Z"
-    },
-    {
-      "title": "‘Hobbit’ hominins scavenged meat left over by Komodo dragons",
-      "link": "https://www.newscientist.com/article/2532777-hobbit-hominins-scavenged-meat-left-over-by-komodo-dragons/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "An experiment that involved feeding a dead goat to a Komodo dragon as well as an analysis of thousands of ancient bones suggests that Homo floresiensis was neither a skilled hunter",
-      "date": "2026-07-03T19:00:38Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/02123656/SEI_303594231.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-03T22:10:30Z"
-    },
-    {
-      "title": "A volcano has erupted remnants of Earth's primordial magma ocean",
-      "link": "https://www.newscientist.com/article/2532929-a-volcano-has-erupted-remnants-of-earths-primordial-magma-ocean/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Earth was once covered by a global magma ocean, which later cooled and crystallised – now traces of this primordial event have been found in magma from a young volcano in the India",
-      "date": "2026-07-03T15:13:44Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/03123303/SEI_303834151.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-03T22:10:30Z"
-    },
-    {
-      "title": "How generative AI and physics can help design new antibiotics",
-      "link": "https://phys.org/news/2026-07-generative-ai-physics-antibiotics.html",
-      "summary": "By 2050, scientists estimate that antibiotic-resistant infections will be associated with more than 8 million deaths around the world every year.",
-      "date": "2026-07-03T22:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-generative-ai-and.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-03T22:10:31Z"
-    },
-    {
-      "title": "Megalodon's legendary life revealed by fossil rediscovery",
-      "link": "https://phys.org/news/2026-07-megalodon-legendary-life-revealed-fossil.html",
-      "summary": "Museums are supposed to be havens for the collective cultural and scientific heritage of the planet, but specimens sometimes go missing.",
-      "date": "2026-07-03T21:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/megalodons-legendary-l.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-03T22:10:31Z"
-    },
-    {
-      "title": "Small-molecule switches put therapeutic CRISPR editing under on-demand control in living tissues",
-      "link": "https://phys.org/news/2026-07-small-molecule-therapeutic-crispr-demand.html",
-      "summary": "In a study published in Science Translational Medicine, a team of researchers led by Dr. Wang Yu from the Shenzhen Institutes of Advanced Technology of the Chinese Academy of Scien",
-      "date": "2026-07-03T20:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/small-molecule-switche.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-03T22:10:31Z"
-    },
-    {
-      "title": "28 Common ANTS in North America! (2026)",
-      "link": "https://birdwatchinghq.com/ants-in-north-america/",
-      "summary": "There are hundreds of ant species that live in North America! Trying to list them all would be impossible. 🙂 Below are the most common and abundant types of ants, which are part of",
-      "date": "Thu, 13 Jun 2024 14Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2024/05/Dark-Rover-Ant-Brachymyrmex-patagonicus.png",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-07-03T20:18:44Z"
     }
   ]
 }
