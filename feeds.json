@@ -1,8 +1,74 @@
 {
-  "updated": "2026-07-14T20:18:26Z",
-  "updated_utc": "2026-07-14T20:18:26Z",
+  "updated": "2026-07-14T22:04:57Z",
+  "updated_utc": "2026-07-14T22:04:57Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Vandals Smashed The 95-Year-Old High Rock Cabin Overlooking Mount Rainier. Hikers Are Refusing to Let It Die.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/high-rock-lookout-vandalism-restoration/",
+      "summary": "Vandals severely damaged Washington's historic High Rock Lookout right before its decade-long restoration finished. Volunteers are now rallying to save it. The post Vandals Smashed",
+      "date": "Tue, 14 Jul 2026 20Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/high-rock-1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-14T22:04:47Z"
+    },
+    {
+      "title": "An English King's Bones Were Moved Over Centuries and Eventually Lost. One Researcher Claims He Discovered Their Location—Under a Parking Lot",
+      "link": "https://www.smithsonianmag.com/smart-news/an-english-kings-bones-were-moved-over-centuries-and-eventually-lost-one-researcher-claims-he-discovered-their-location-under-a-parking-lot-180989121/",
+      "summary": "Alfred the Great defended Wessex from the Vikings. Researchers have been searching for his remains for years after their resting place in an abbey was disturbed",
+      "date": "Tue, 14 Jul 2026 20Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/VSG1lEOBj9QScBp-GrD846VNwCo=/420x240/filters:focal(244x300:245x301)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/93/57/93574c41-9688-40de-93a1-757f238fe569/king_alfred_the_great.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-14T22:04:49Z"
+    },
+    {
+      "title": "A new sort of Alzheimer’s drug shows glimmers of promise",
+      "link": "https://www.sciencenews.org/article/new-alzheimers-drug-tau-promise",
+      "summary": "Clinical trial results show an experimental drug lowered tau levels in the brain and slowed some memory loss, but the data came with a surprise twist.",
+      "date": "Tue, 14 Jul 2026 21Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/071326_RM_Alz-drug-results_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-14T22:04:50Z"
+    },
+    {
+      "title": "Producing food while restoring biodiversity: Study highlights the potential of agriwilding",
+      "link": "https://phys.org/news/2026-07-food-biodiversity-highlights-potential-agriwilding.html",
+      "summary": "Agriculture and biodiversity restoration do not have to be at odds. A new study by the WILD research group at the Vrije Universiteit Brussel (VUB) and UCLouvain, published in the j",
+      "date": "2026-07-14T20:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/producing-food-while-r-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-14T22:04:53Z"
+    },
+    {
+      "title": "Scientists show that DNA can last for up to 50,000 years in Africa ‪—‬ much longer than previously thought",
+      "link": "https://www.livescience.com/archaeology/human-evolution/scientists-show-that-dna-can-last-for-up-to-50-000-years-in-africa-much-longer-than-previously-thought",
+      "summary": "Researchers extracted DNA from long-dead animals that lived in South Africa during the last ice age, revealing that genetic material lasts longer in hot climates than was previousl",
+      "date": "Tue, 14 Jul 2026 21Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/2vs7vV25BPpC7iZp9hnR2F-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-14T22:04:54Z"
+    },
+    {
+      "title": "Scientists are deep-freezing koala eggs and sperm to protect the species from extinction",
+      "link": "https://www.livescience.com/animals/land-mammals/scientists-are-deep-freezing-koala-eggs-and-sperm-to-protect-the-species-from-extinction",
+      "summary": "Researchers at the University of Queensland in Australia want to freeze koala sex cells in liquid nitrogen, which could preserve the DNA for decades until we need it, an expert sai",
+      "date": "Tue, 14 Jul 2026 21Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/gqDS8Jr2WFuprBdPM2Ku89-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-14T22:04:54Z"
+    },
     {
       "title": "Hawks in Georgia",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/hawks-in-georgia/",
@@ -5436,72 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-07-07T12:00:32Z"
-    },
-    {
-      "title": "Cheetah chases inspire researchers to make a biologically accurate video game",
-      "link": "https://phys.org/news/2026-07-cheetah-biologically-accurate-video-game.html",
-      "summary": "Movement data from wild predator–prey encounters and controlled human catch-tag games have been combined to create realistic simulations of high-intensity movement dynamics and ene",
-      "date": "2026-07-07T12:00:11Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cheetah-chases-inspire.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-07T12:00:37Z"
-    },
-    {
-      "title": "Bumblebees exposed to up to 7 times as much toxic metal as honeybees",
-      "link": "https://phys.org/news/2026-07-bumblebees-exposed-toxic-metal-honeybees.html",
-      "summary": "Bumblebees collect up to seven times the amount of toxic heavy metals as honeybees even when foraging in the same environment, new research from the University of Cambridge has fou",
-      "date": "2026-07-07T11:40:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bumblebees-exposed-to-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-07T12:00:37Z"
-    },
-    {
-      "title": "New beetle genus named after One Piece's Monkey D. Luffy, encompassing two new species",
-      "link": "https://phys.org/news/2026-07-beetle-genus-piece-monkey-d.html",
-      "summary": "A research team from the Natural History Museum of Denmark has published a compelling new study in insect taxonomy in the open-access journal ZooKeys, officially establishing a new",
-      "date": "2026-07-07T11:32:48Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-beetle-genus-named.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-07T12:00:37Z"
-    },
-    {
-      "title": "Chemical control dominates global fight against invasive alien plants",
-      "link": "https://phys.org/news/2026-07-chemical-dominates-global-invasive-alien.html",
-      "summary": "Efforts to manage invasive alien plant species in forests could be held back by a continued reliance on chemical methods, according to a new study. Research led by Lizzie Keen, a p",
-      "date": "2026-07-07T11:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chemical-control-domin.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-07T12:00:37Z"
-    },
-    {
-      "title": "EV-SELEX speeds GPCR drug discovery by capturing receptor-bound DNA aptamers",
-      "link": "https://phys.org/news/2026-07-ev-selex-gpcr-drug-discovery.html",
-      "summary": "G protein-coupled receptors (GPCRs) are the most abundantly expressed proteins in the human body, regulating diverse physiological processes ranging from pain perception to hormone",
-      "date": "2026-07-07T10:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ev-selex-a-novel-platf.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-07T12:00:37Z"
-    },
-    {
-      "title": "Bacteria discovered with the ability to jettison cells as a survival mechanism",
-      "link": "https://phys.org/news/2026-07-bacteria-ability-jettison-cells-survival.html",
-      "summary": "Popular science fiction is no stranger to escape-pod scenarios, typically featuring characters who narrowly avoid their demise by jettisoning from a spaceship—think R2-D2 and C-3PO",
-      "date": "2026-07-07T09:00:14Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/eject-bacteria-discove.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-07T12:00:37Z"
     }
   ]
 }
