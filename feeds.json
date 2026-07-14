@@ -1,8 +1,41 @@
 {
-  "updated": "2026-07-14T03:23:14Z",
-  "updated_utc": "2026-07-14T03:23:14Z",
+  "updated": "2026-07-14T06:18:36Z",
+  "updated_utc": "2026-07-14T06:18:36Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Can you spot the poacher’s handprint? Earth Photo award winners – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2026/jul/14/earth-photo-award-winners",
+      "summary": "From scientific tricks to stop turtle traffickers to stranded seals and displaced workers, these images all scooped prizes at this year’s Earth Photo awards Continue reading...",
+      "date": "2026-07-14T06:00:22Z",
+      "image": "https://i.guim.co.uk/img/media/04f30e5f66646dc244a0eb4c8acadea709c39300/673_0_6728_5382/master/6728.jpg?width=140&quality=85&auto=format&fit=max&s=657cebf8d0a7b52cc6754c6386a6d647",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-14T06:18:21Z"
+    },
+    {
+      "title": "Country diary: Spot the young hare – they know how to make it hard | Ed Douglas",
+      "link": "https://www.theguardian.com/environment/2026/jul/14/country-diary-spot-the-young-hare-they-know-how-to-make-it-hard",
+      "summary": "Eyam Moor, Derbyshire: I go in search of a leveret, which is a tricky business. For them, subterfuge is key to survival High on Eyam Moor, there was no shortage of things to look a",
+      "date": "2026-07-14T04:30:19Z",
+      "image": "https://i.guim.co.uk/img/media/b1a07631342227ed0d00aed43f7b9ae203ed7d8f/159_0_4269_3414/master/4269.jpg?width=140&quality=85&auto=format&fit=max&s=f1e8e2c7c29ec74cafc73bf8f8e68e53",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-14T06:18:21Z"
+    },
+    {
+      "title": "The Pull-Up Is Overrated. A Certified Strength and Conditioning Specialist Shares 6 Exercises to Do Instead.",
+      "link": "https://www.outsideonline.com/health/training-performance/pull-up-alternatives-back-upper-body-strength/",
+      "summary": "The pull-up is overrated. A certified strength and conditioning specialist shares the best moves, broken down by outdoor sport, to build a stronger upper body and keep you agile on",
+      "date": "Tue, 14 Jul 2026 06Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/pull-ups-exercises-alternatives.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-14T06:18:27Z"
+    },
     {
       "title": "How redefining one word strips the Endangered Species Act's ability to protect vital habitat",
       "link": "https://phys.org/news/2026-07-redefining-word-endangered-species-ability.html",
@@ -5469,39 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-07-06T13:53:17Z"
-    },
-    {
-      "title": "Species Spotlight: Northern Cardinal (Special 4th of July Issue)",
-      "link": "https://www.10000birds.com/species-spotlight-northern-cardinal.htm?utm_source=rss&utm_medium=rss&utm_campaign=species-spotlight-northern-cardinal",
-      "summary": "The Northern Cardinal is a medium-sized songbird that eats seeds, insects, and fruit, defends breeding territories, and has absolutely no opinion whatsoever on capitalism, individu",
-      "date": "2026-07-06T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/06/Northern-Cardinal_DSC4800_Bath-Maine-mid-Jun-2026-2.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-07-06T13:53:17Z"
-    },
-    {
-      "title": "How Shrimp Shells Are Being Turned Into 'Carbon Negative' Fuel, Food and Construction Materials",
-      "link": "https://www.smithsonianmag.com/innovation/how-shrimp-shells-are-being-turned-into-carbon-negative-fuel-food-and-construction-materials-180989061/",
-      "summary": "Engineers in Singapore have developed a new, multistep chemical process that transforms organic waste into useful, sustainable products",
-      "date": "2026-07-06T12:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/xKNwe_y9SlLF4COaSJ6_sF7DJE4=/420x240/filters:focal(640x427:641x428)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ca/fe/cafecc1f-f6ea-421e-aecf-e49cae4ff9ee/shrimp_shells.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-06T13:53:31Z"
-    },
-    {
-      "title": "‘Hobbits’ likely scavenged dragons’ kills",
-      "link": "https://www.sciencenews.org/article/hobbits-scavenged-dragon-kills-flores",
-      "summary": "Homo floresiensis may have scavenged Komodo dragon leftovers instead of hunting small elephant relatives.",
-      "date": "2026-07-06T13:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/070126_JB_hobbits_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-06T13:53:32Z"
     }
   ]
 }
