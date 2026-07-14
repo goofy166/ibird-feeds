@@ -1,8 +1,41 @@
 {
-  "updated": "2026-07-14T06:18:36Z",
-  "updated_utc": "2026-07-14T06:18:36Z",
+  "updated": "2026-07-14T09:10:00Z",
+  "updated_utc": "2026-07-14T09:10:00Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Summer Triangle star Deneb is distant and luminous",
+      "link": "https://earthsky.org/brightest-stars/deneb-among-the-farthest-stars-to-be-seen/",
+      "summary": "When you gaze at the bright star Deneb, you’re gazing across thousands of light-years of space at one of the bright stars of the huge Summer Triangle asterism. The post Summer Tria",
+      "date": "Tue, 14 Jul 2026 09Z",
+      "image": "https://earthsky.org/upl/2022/07/Cygnus-East-Summer-Evenings-800x450-1.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-07-14T09:09:45Z"
+    },
+    {
+      "title": "'It affects your daily life suddenly': Sea level researcher explains why once-in-a-century floods could become the new normal",
+      "link": "https://www.livescience.com/planet-earth/climate-change/it-affects-your-daily-life-suddenly-sea-level-researcher-explains-why-once-in-a-century-floods-could-become-the-new-normal",
+      "summary": "Live Science spoke with sea level expert Sönke Dangendorf about how human-caused sea-level rise is increasing extreme water levels, as once-in-a-century flooding events become deca",
+      "date": "Tue, 14 Jul 2026 09Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Kgse6DgbafXKKSEZjPCjjd-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-14T09:09:57Z"
+    },
+    {
+      "title": "Space shuttle photobombs Earth for the final time, 15 years ago — Earth from space",
+      "link": "https://www.livescience.com/planet-earth/space-shuttle-photobombs-earth-for-the-final-time-15-years-ago-earth-from-space",
+      "summary": "This 2011 astronaut photo captured one of NASA's iconic space shuttles passing between Earth and the International Space Station for the very last time.",
+      "date": "Tue, 14 Jul 2026 08Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/9mdwhPMbim7i9W4AACY22X-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-14T09:09:57Z"
+    },
     {
       "title": "Can you spot the poacher’s handprint? Earth Photo award winners – in pictures",
       "link": "https://www.theguardian.com/artanddesign/gallery/2026/jul/14/earth-photo-award-winners",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-06T16:56:05Z"
-    },
-    {
-      "title": "Diagnostic dilemma: Huge mass in woman's stomach was likely caused by Ozempic-style drug — and dissolved with diet soda",
-      "link": "https://www.livescience.com/health/diagnostic-dilemma-huge-mass-in-womans-stomach-was-likely-caused-by-ozempic-style-drug-and-dissolved-with-diet-soda",
-      "summary": "A woman's abdominal discomfort turned out to be caused by a build up of food in her stomach. And the treatment involved diet soda.",
-      "date": "2026-07-06T16:10:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/KMLWzBmb3mUA8Rdkd3W6LG-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-06T16:56:06Z"
-    },
-    {
-      "title": "Review: GoBirding Vision Master Smart AI Spotting Scope",
-      "link": "https://www.10000birds.com/review-gobirding-vision-master-smart-ai-spotting-scope.htm?utm_source=rss&utm_medium=rss&utm_campaign=review-gobirding-vision-master-smart-ai-spotting-scope",
-      "summary": "As mentioned in another recent review, several Chinese companies are currently introducing consumer-level electronic birding devices – binoculars and spotting scopes – with or with",
-      "date": "2026-07-06T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/Screenshot-2026-07-04-152105.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-07-06T13:53:17Z"
-    },
-    {
-      "title": "Birding Lodges of the World: Morgan Kunda Lodge, The Gambia",
-      "link": "https://www.10000birds.com/birding-lodges-of-the-world-morgan-kunda-lodge-the-gambia.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-lodges-of-the-world-morgan-kunda-lodge-the-gambia",
-      "summary": "Which bird species do you think is the biggest attraction to visitors of your lodge? The Egyptian Plover is often the biggest draw for visiting birders (photo: Karanta Camara). Wha",
-      "date": "2026-07-06T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/06/gambia-slide-a.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-07-06T13:53:17Z"
     }
   ]
 }
