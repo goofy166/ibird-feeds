@@ -1,8 +1,129 @@
 {
-  "updated": "2026-07-14T11:37:08Z",
-  "updated_utc": "2026-07-14T11:37:08Z",
+  "updated": "2026-07-14T14:01:54Z",
+  "updated_utc": "2026-07-14T14:01:54Z",
   "count": 500,
   "stories": [
+    {
+      "title": "California faces highest shark numbers in years as great whites head north",
+      "link": "https://www.theguardian.com/environment/2026/jul/14/california-sharks-el-nino",
+      "summary": "El Niño climate phenomenon heating waters off Mexico but incidents with humans remain a rarity California is set to see one of its sharkiest summers in a decade, with large numbers",
+      "date": "2026-07-14T14:00:27Z",
+      "image": "https://i.guim.co.uk/img/media/d1d8932e0c31f6fc5e229d506e7fbbffb3a6ba43/286_68_1089_871/master/1089.jpg?width=140&quality=85&auto=format&fit=max&s=281d47054f68218233ade4fcbe8c39f8",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-14T14:01:39Z"
+    },
+    {
+      "title": "Giant space mirror approved to test sunlight on demand",
+      "link": "https://earthsky.org/space/giant-space-mirror-approved-reflect-orbital-low-earth-orbit-concerns/",
+      "summary": "The Federal Communications Commission has approved a test of a giant space mirror, despite fears that this could harm ecosystems, people and science. The post Giant space mirror ap",
+      "date": "Tue, 14 Jul 2026 11Z",
+      "image": "https://earthsky.org/upl/2026/07/mariana-proenca-solar-panels-unsplash.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-07-14T14:01:40Z"
+    },
+    {
+      "title": "For the first time in more than 25 years, the San Diego Zoo has baby binturongs",
+      "link": "https://www.mercurynews.com/2026/07/14/for-the-first-time-in-more-than-25-years-the-san-diego-zoo-has-baby-binturongs/",
+      "summary": "A pair of binturongs, sometimes called bearcats because of their appearance, were born at the San Diego Zoo in March.",
+      "date": "Tue, 14 Jul 2026 13Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/SUT-L-BINTURONG-BABIES-02.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-07-14T14:01:44Z"
+    },
+    {
+      "title": "Unidentified marine animal bites person in Foster City Lagoon",
+      "link": "https://www.mercurynews.com/2026/07/14/unidentified-marine-animal-bites-person-in-foster-city-lagoon/",
+      "summary": "The incident happened Monday afternoon near Shearwater Isle.",
+      "date": "Tue, 14 Jul 2026 11Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2023/08/SJM-L-DUCKRACECLO-0821-7.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-07-14T14:01:44Z"
+    },
+    {
+      "title": "Ancient Romans Put Their Faith in Guardian Spirits. Archaeologists Just Found a Rare 1,600-Year-Old Carving of One in Northern England",
+      "link": "https://www.smithsonianmag.com/smart-news/romans-put-their-faith-in-guardian-spirits-archaeologists-just-found-a-rare-1600-year-old-carving-of-one-in-northern-england-180989118/",
+      "summary": "Known as a “genius,” the protective spirit or deity was believed to bring good fortune and prosperity to a particular person, household or place. Archaeologists haven't found many ",
+      "date": "Tue, 14 Jul 2026 11Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/5CYwcDBJsCLbQi3WR9hhwHr-6jQ=/420x240/filters:focal(350x263:351x264)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/16/ee/16ee51f0-6dc7-4f38-9afd-34ab07508ad3/getimage.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-14T14:01:46Z"
+    },
+    {
+      "title": "A quasar breaks the record for most distant supermassive black hole",
+      "link": "https://www.sciencenews.org/article/record-black-hole-euclj1729-quasar",
+      "summary": "The Euclid space telescope discovery could help researchers understand how black holes grew so massive so quickly in the early universe.",
+      "date": "Tue, 14 Jul 2026 13Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/070826_LG_quasar_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-14T14:01:48Z"
+    },
+    {
+      "title": "Why praying for rain appears to work – but only in some places",
+      "link": "https://www.newscientist.com/article/2578962-why-praying-for-rain-appears-to-work-but-only-in-some-places/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "In some parts of the world, the probability of rain rises with every day it doesn’t rain, and communities in these places are more likely to carry out rain-making rituals",
+      "date": "Tue, 14 Jul 2026 14Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_304778081.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-14T14:01:49Z"
+    },
+    {
+      "title": "35 years of Florida scrub-jay research reveals benefits of long-term pair bonds",
+      "link": "https://phys.org/news/2026-07-years-florida-jay-reveals-benefits.html",
+      "summary": "At Archbold Biological Station, decades of field observations are helping scientists better understand one of nature's oldest relationship strategies: long-term monogamy.",
+      "date": "2026-07-14T14:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/florida-scrub-jays.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-14T14:01:51Z"
+    },
+    {
+      "title": "As Chagos governance is slated to shift, new research reveals the true scale of fishing",
+      "link": "https://phys.org/news/2026-07-chagos-slated-shift-reveals-true.html",
+      "summary": "Domestic fisheries catches in the Chagos Archipelago are 25 times higher than official statistics show, according to a recent study by Sea Around Us—Indian Ocean and Sea Around Us ",
+      "date": "2026-07-14T13:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/as-chagos-governance-i.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-14T14:01:51Z"
+    },
+    {
+      "title": "Disturbance has a greater effect on giant kelp productivity than resource availability",
+      "link": "https://phys.org/news/2026-07-disturbance-greater-effect-giant-kelp.html",
+      "summary": "Marine scientists at UC Santa Barbara have found that disturbances to giant kelp forests have a major influence on their net primary productivity (NPP)—an indicator of an ecosystem",
+      "date": "2026-07-14T12:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/kelp.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-14T14:01:51Z"
+    },
+    {
+      "title": "Underwater microphones detect dolphins in Sea of Japan bays about once every ten days",
+      "link": "https://phys.org/news/2026-07-underwater-microphones-dolphins-sea-japan.html",
+      "summary": "When residents of two coastal communities along the Sea of Japan reported observing dolphins in nearby waters, it caught the attention of some scientists. The marine environment ha",
+      "date": "2026-07-14T12:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dolphins-dropping-in-t.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-14T14:01:51Z"
+    },
     {
       "title": "Bird Guides of the World: Edward Bonavia, Malta",
       "link": "https://www.10000birds.com/bird-guides-of-the-world-edward-bonavia-malta.htm?utm_source=rss&utm_medium=rss&utm_campaign=bird-guides-of-the-world-edward-bonavia-malta",
@@ -5381,127 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-06T19:01:41Z"
-    },
-    {
-      "title": "Four new groups of indigenous cacao varieties discovered in Peru",
-      "link": "https://phys.org/news/2026-07-groups-indigenous-cacao-varieties-peru.html",
-      "summary": "A new genetic analysis of hundreds of cacao trees representing traditional Amazonian varieties grown on farms across Peru has revealed four previously unidentified, genetically dis",
-      "date": "2026-07-06T18:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/four-new-groups-of-ind.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-06T19:01:41Z"
-    },
-    {
-      "title": "Paleontologists make 'one in a million' discovery of soft tissue preserved in 450-million-year-old fossil",
-      "link": "https://phys.org/news/2026-07-paleontologists-million-discovery-soft-tissue.html",
-      "summary": "Before the oldest dinosaur, before animals or even plants had expanded onto dry land, ancient relatives of starfish called crinoids, resembling stalked sea flowers, were among the ",
-      "date": "2026-07-06T17:37:43Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/paleontologists-make-o-4.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-06T19:01:41Z"
-    },
-    {
-      "title": "Alpine butterflies track warming uphill, but habitat loss may pose bigger risk",
-      "link": "https://phys.org/news/2026-07-alpine-butterflies-track-uphill-habitat.html",
-      "summary": "A new study published in the journal Alpine Entomology has found that alpine butterflies in the Swiss National Park are closely matching the pace of local warming in their range sh",
-      "date": "2026-07-06T17:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/alpine-butterflies-are.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-07-06T19:01:41Z"
-    },
-    {
-      "title": "Early parenting shapes the brain and socio-sexual behavior, rodent study shows",
-      "link": "https://phys.org/news/2026-07-early-parenting-brain-socio-sexual.html",
-      "summary": "Past psychology studies have consistently highlighted the importance of social bonds for survival, showing that enduring relationships are linked with a longer life expectancy, a m",
-      "date": "2026-07-06T17:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rodent-study-shows-tha.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-06T19:01:41Z"
-    },
-    {
-      "title": "Hidden fungal networks deliver carbon to green plants, experiment confirms",
-      "link": "https://phys.org/news/2026-07-hidden-fungal-networks-carbon-green.html",
-      "summary": "Beneath forests, grasslands and wetlands lies a hidden underground network of fungi known as mycorrhizal networks, sometimes nicknamed the \"wood-wide web.\" These fungi live in part",
-      "date": "2026-07-06T17:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/demonstrating-carbon-t.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-06T19:01:41Z"
-    },
-    {
-      "title": "'A new way to study the edge of a black hole': Physicists just got the closest-ever look at a black hole's event horizon",
-      "link": "https://www.livescience.com/space/black-holes/a-new-way-to-study-the-edge-of-a-black-hole-physicists-just-got-the-closest-ever-look-at-a-black-holes-event-horizon",
-      "summary": "Physicists isolated the 'last sound' of an enormous black hole collision, providing an unprecedented glimpse of the region next to the event horizon.",
-      "date": "2026-07-06T18:58:11Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/6mn6K7eXMJmCxMoSFq3cDQ-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-06T19:01:42Z"
-    },
-    {
-      "title": "Owls in Virginia: 8 Stunning Nighttime Predators for You to See",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/owls-in-virginia-8-stunning-nighttime-predators-for-you-to-see/",
-      "summary": "The state of Virginia houses eight gorgeous species of owls. Some appear in just about every region of the state—like Great Horned Owls and Barn … Read More \"Owls in Virginia: 8 St",
-      "date": "2026-05-10T23:10:49Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/11/snowy-owls-in-chicago-5-scaled.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-07-06T16:55:45Z"
-    },
-    {
-      "title": "The Critter Flying Into Your Nest Box Might Not Be a Bird",
-      "link": "https://www.birdsandblooms.com/gardening/backyard-wildlife/flying-squirrel/",
-      "summary": "If you've spotted a critter swooping into your nest box at night, it might not be a bird! Get to know America's too-cute flying squirrels. The post The Critter Flying Into Your Nes",
-      "date": "2026-06-26T16:02:40Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/GettyImages-1046245680-scaled-e1782397977737.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-07-06T16:55:49Z"
-    },
-    {
-      "title": "Puffiest exoplanets yet found are as dense as cotton candy",
-      "link": "https://earthsky.org/space/2-puffiest-exoplanets-toi-791-b-and-toi-791-c-tess/",
-      "summary": "Astronomers have discovered the 2 puffiest exoplanets known so far. They are similar in size to Jupiter, but have the density of cotton candy. The post Puffiest exoplanets yet foun",
-      "date": "2026-07-06T11:30:45Z",
-      "image": "https://earthsky.org/upl/2026/07/TOI-791b-TOI-791c-super-puff-exoplanets-artists-concept-June-26-2026.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-06T16:55:54Z"
-    },
-    {
-      "title": "California family says live bat in their Nugget hotel room caused $15,000 in damages",
-      "link": "https://www.mercurynews.com/2026/07/06/live-bat-nugget-casino/",
-      "summary": "The bat was released without being tested for rabies.",
-      "date": "2026-07-06T15:35:11Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/nugget.png?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-07-06T16:55:57Z"
-    },
-    {
-      "title": "What’s killing seabirds along California’s coast? ‘Just one damn thing after another’",
-      "link": "https://www.mercurynews.com/2026/06/26/whats-killing-seabirds-along-californias-coast-just-one-damn-thing-after-another/",
-      "summary": "A massive marine heatwave off the West Coast is the biggest culprit behind this year's mass strandings of pelicans, loons, grebes, cormorants and gulls.",
-      "date": "2026-06-26T17:45:54Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/OCR-L-SEABIRDDEATHS-06XX-JG-00.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-07-06T16:55:57Z"
     }
   ]
 }
