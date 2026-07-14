@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-13T23:58:27Z",
-  "updated_utc": "2026-07-13T23:58:27Z",
+  "updated": "2026-07-14T03:23:14Z",
+  "updated_utc": "2026-07-14T03:23:14Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How redefining one word strips the Endangered Species Act's ability to protect vital habitat",
+      "link": "https://phys.org/news/2026-07-redefining-word-endangered-species-ability.html",
+      "summary": "It wouldn't make much sense to prohibit people from shooting a threatened woodpecker while allowing its forest to be cut down, or to bar killing endangered salmon while allowing a ",
+      "date": "2026-07-14T00:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-redefining-one-wor.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-14T03:23:11Z"
+    },
     {
       "title": "President Trump Just Took a Hatchet to Bears Ears and Grand Staircase National Monuments",
       "link": "https://www.outsideonline.com/outdoor-adventure/environment/president-trump-just-took-a-hatchet-to-bears-ears-and-grand-staircase-national-monuments/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-07-06T13:53:32Z"
-    },
-    {
-      "title": "Human brains may have got bigger for no particular reason",
-      "link": "https://www.newscientist.com/article/2532890-human-brains-may-have-got-bigger-for-no-particular-reason/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Our brains are large compared with other animals, so it is tempting to assume there was an evolutionary advantage to them – but that may not be true at all",
-      "date": "2026-07-06T10:00:37Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/03122332/SEI_303833291.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-06T13:53:33Z"
     }
   ]
 }
