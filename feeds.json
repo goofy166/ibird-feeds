@@ -1,8 +1,41 @@
 {
-  "updated": "2026-07-15T03:23:07Z",
-  "updated_utc": "2026-07-15T03:23:07Z",
+  "updated": "2026-07-15T06:22:20Z",
+  "updated_utc": "2026-07-15T06:22:20Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Interview with Anders Hundebol, Developer of the Birdey bird ID game",
+      "link": "https://www.10000birds.com/interview-with-anders-hundebol-developer-of-the-birdey-bird-id-game.htm?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-anders-hundebol-developer-of-the-birdey-bird-id-game",
+      "summary": "About the Interviewee Anders Hundebøl is a birder and solo developer from Denmark. He came to birding only 5-6 years ago, and it took over quickly. Birdey began as a selfish little",
+      "date": "2026-07-15T05:53:26Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/unnamed-7.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-07-15T06:21:57Z"
+    },
+    {
+      "title": "Japan officials hunt bear that raided couple’s fridge amid string of break-ins",
+      "link": "https://www.theguardian.com/world/2026/jul/15/japan-bear-raids-fridge",
+      "summary": "Officials set up traps and electric fences after 14 break-ins recored in one town in two weeks, amid fears of a repeat offender Authorities are searching for a bear that sneaked in",
+      "date": "2026-07-15T04:27:29Z",
+      "image": "https://i.guim.co.uk/img/media/e219265e5d50b76d4823e310589060ef1f31be53/554_817_1726_1381/master/1726.jpg?width=140&quality=85&auto=format&fit=max&s=5af9baf9867652126bce06c0841f911d",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-15T06:22:03Z"
+    },
+    {
+      "title": "Elephants turn footsteps into messages through ground and skull vibrations",
+      "link": "https://phys.org/news/2026-07-elephants-footsteps-messages-ground-skull.html",
+      "summary": "Elephants can communicate with other elephants across distances of up to five kilometers (3 miles) by producing sounds that travel through the air. However, they have a second way ",
+      "date": "2026-07-15T04:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/elephants.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-15T06:22:16Z"
+    },
     {
       "title": "Mystery of why some toads survive deadly fungus revealed",
       "link": "https://phys.org/news/2026-07-mystery-toads-survive-deadly-fungus.html",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-07-07T12:00:27Z"
-    },
-    {
-      "title": "Circinus the Drawing Compass, Alpha Centauri’s neighbor",
-      "link": "https://earthsky.org/constellations/circinus-the-drawing-compass/",
-      "summary": "Circinus the Drawing Compass is a dim constellation located next to the 3rd brightest star in the sky, Alpha Centauri. It looks like a pair of tweezers. The post Circinus the Drawi",
-      "date": "Tue, 07 Jul 2026 10Z",
-      "image": "https://earthsky.org/upl/2022/06/Circinus-Drawing-Compass.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-07T12:00:27Z"
-    },
-    {
-      "title": "The Best Budget, Mid-Priced, and Premium Hiking Shoes and Boots",
-      "link": "https://www.outsideonline.com/outdoor-gear/hiking-gear/budget-mid-premium-hiking-shoes/",
-      "summary": "The difference between a $155 multi-sport shoe and $390 specialized boot comes down to purpose. The post The Best Budget, Mid-Priced, and Premium Hiking Shoes and Boots appeared fi",
-      "date": "Tue, 07 Jul 2026 11Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/budget-mid-splurge-hiking-boots.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-07T12:00:32Z"
-    },
-    {
-      "title": "The Shibumi Beach Chair Is the Ferrari of Outdoor Seating",
-      "link": "https://www.outsideonline.com/outdoor-gear/water-sports-gear/shibumi-beach-chair-review/",
-      "summary": "As a bona fide beach bum, I've become irrationally picky about my seating arrangements. After a year of testing, I'm now a Shibumi chair evangelist. The post The Shibumi Beach Chai",
-      "date": "Tue, 07 Jul 2026 10Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/shibumi-chair-review-featured.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-07T12:00:32Z"
     }
   ]
 }
