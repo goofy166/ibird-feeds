@@ -1,8 +1,41 @@
 {
-  "updated": "2026-07-15T21:07:57Z",
-  "updated_utc": "2026-07-15T21:07:57Z",
+  "updated": "2026-07-15T23:03:57Z",
+  "updated_utc": "2026-07-15T23:03:57Z",
   "count": 500,
   "stories": [
+    {
+      "title": "She Got Stranded on a Brutal Colorado 13er. Her Packing List Is a Lesson in Backcountry Survival.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/broken-hand-pass-colorado-hiker-rescue/",
+      "summary": "An injured hiker survived a cold night on Colorado's Broken Hand Pass. Search-and-rescue experts share the packing list that kept her safe. The post She Got Stranded on a Brutal Co",
+      "date": "2026-07-15T22:34:09Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/sar-sangre-de-cristo.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-15T23:03:48Z"
+    },
+    {
+      "title": "Researcher details US biobank's value as global resource in study of roots of disease, health",
+      "link": "https://phys.org/news/2026-07-biobank-global-resource-roots-disease.html",
+      "summary": "Just as this country celebrated its 250th birthday, some geneticists were celebrating America, too. At the end of June, the National Institutes of Health announced its \"All of Us\" ",
+      "date": "2026-07-15T22:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/test-tubes.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-15T23:03:54Z"
+    },
+    {
+      "title": "Hidden feeding grounds that fuel one of the ocean's most iconic sportfish identified",
+      "link": "https://phys.org/news/2026-07-hidden-grounds-fuel-ocean-iconic.html",
+      "summary": "Atlantic tarpon are famous for their long-distance migrations, traveling hundreds or even thousands of miles (hundreds to thousands of kilometers) along the Gulf and Atlantic coast",
+      "date": "2026-07-15T21:40:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/usf-study-identifies-t.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-15T23:03:54Z"
+    },
     {
       "title": "Hydroponic Gardening Basics: No Soil Required",
       "link": "https://www.birdsandblooms.com/gardening/fruit-and-vegetable-gardening/hydroponic-gardening/",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-07-08T12:26:04Z"
-    },
-    {
-      "title": "AI tools meant to vet science are surprisingly easy to fool",
-      "link": "https://www.sciencenews.org/article/ai-tools-science-peer-review-problems",
-      "summary": "The gold standard of scientific review, peer review by researchers’ colleagues, is in crisis. AI might offer a solution but has problems of its own.",
-      "date": "2026-07-08T12:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/062226_A_AIpeerreview_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-08T12:26:05Z"
-    },
-    {
-      "title": "The allergy culprit histamine also boosts our memory",
-      "link": "https://www.newscientist.com/article/2533166-the-allergy-culprit-histamine-also-boosts-our-memory/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A drug that raises levels of histamine – the chemical that causes allergy symptoms – in the brain boosts our memory by around 10 per cent",
-      "date": "2026-07-08T10:00:02Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/07110928/SEI_304264304.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-08T12:26:06Z"
-    },
-    {
-      "title": "Robin study suggests fleeing isn't necessarily wildlife's first response to wildfire smoke",
-      "link": "https://phys.org/news/2026-07-robin-isnt-necessarily-wildlife-response.html",
-      "summary": "Research by Oregon State University biologists suggests that toxic air stemming from wildfires won't necessarily prompt animals to flee in search of better breathing conditions. Th",
-      "date": "2026-07-08T12:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/robin-study-suggests-f.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T12:26:07Z"
     }
   ]
 }
