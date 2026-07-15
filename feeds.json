@@ -1,8 +1,162 @@
 {
-  "updated": "2026-07-15T19:22:47Z",
-  "updated_utc": "2026-07-15T19:22:47Z",
+  "updated": "2026-07-15T21:07:57Z",
+  "updated_utc": "2026-07-15T21:07:57Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Hydroponic Gardening Basics: No Soil Required",
+      "link": "https://www.birdsandblooms.com/gardening/fruit-and-vegetable-gardening/hydroponic-gardening/",
+      "summary": "Grow food indoors with soil-less hydroponic gardening! Harvest your favorites, such as berries, tomatoes and lettuce, right from the kitchen. The post Hydroponic Gardening Basics: ",
+      "date": "2026-07-15T20:47:42Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/shutterstock_1654191085-1-e1784142387653.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-07-15T21:07:38Z"
+    },
+    {
+      "title": "How to Grow Microgreens Indoors",
+      "link": "https://www.birdsandblooms.com/gardening/fruit-and-vegetable-gardening/how-to-grow-microgreens/",
+      "summary": "These tiny plants pack a mighty nutritious punch! Here's why you should plant microgreens — and the best types to grow. The post How to Grow Microgreens Indoors appeared first on B",
+      "date": "2026-07-15T20:20:44Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/GettyImages-2214138373-e1784144821494.jpg?fit=700,697",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-07-15T21:07:38Z"
+    },
+    {
+      "title": "7 Easiest Perennials to Grow From Seed",
+      "link": "https://www.birdsandblooms.com/gardening/gardening-basics/easiest-perennials-grow-from-seed/",
+      "summary": "Shopping for plants is expensive. See our list of the easiest perennials to grow from seed and create the garden of your dreams without spending a fortune. The post 7 Easiest Peren",
+      "date": "2026-06-29T15:40:28Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/361777250_1_Jack_Melangton_BNB_PC_2023.jpg?fit=700,1024",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-07-15T21:07:38Z"
+    },
+    {
+      "title": "As the Boundary Waters Burns, A Piece of Myself Is Lost, Too",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/boundary-waters-flee-fires/",
+      "summary": "Minnesota’s Boundary Waters have played an integral role in writer Stephanie Pearson’s life. Pearson recently had to flee the wilderness due to surging wildfires, and she discusses",
+      "date": "2026-07-15T19:51:47Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/Boundary1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-15T21:07:48Z"
+    },
+    {
+      "title": "Once the World’s Biggest Passenger Ship, This Metal Marvel That Crossed the Atlantic and Took Immigrants to Australia Has a New Museum Home",
+      "link": "https://www.smithsonianmag.com/smart-news/once-the-worlds-biggest-passenger-ship-this-metal-marvel-the-ss-great-britain-that-crossed-the-atlantic-and-took-immigrants-to-australia-has-a-new-museum-home-180989130/",
+      "summary": "A new museum dedicated to stories surrounding the S.S. \"Great Britain\" is about to open in Bristol, where the ship is permanently dry-docked",
+      "date": "2026-07-15T20:34:22Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/j8YgHQQyzLFVUrAYrF883e3Gr5U=/420x240/filters:focal(996x664:997x665)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/34/0b/340b17a0-a638-4d15-9a45-0e7fa4f85d2c/485359586_1086422420196475_1356086387403732802_n.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-15T21:07:50Z"
+    },
+    {
+      "title": "Scientists Ranked Hundreds of Spider Species by Running Speed. Australia's Huge, Hairy Brown Huntsman Came Out on Top",
+      "link": "https://www.smithsonianmag.com/smart-news/scientists-ranked-hundreds-of-spider-species-by-running-speed-australias-huge-hairy-brown-huntsman-came-out-on-top-180989132/",
+      "summary": "The brown huntsman can sprint at a maximum speed of eight miles per hour, although it can only maintain that pace for a fraction of a second. The research will lead to a better und",
+      "date": "2026-07-15T20:02:54Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/iwkTlC1Rf26-enuRoDAZmafb5wc=/420x240/filters:focal(960x695:961x696)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9d/f3/9df3e6fc-5c7b-48c3-b188-7178945996ac/huntsman_inside_lampshade.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-15T21:07:50Z"
+    },
+    {
+      "title": "Astronomers Noticed a Mysterious Spot Appearing in Telescope Images. It Turned Out to Be the Faintest Exoplanet Ever Imaged From Earth",
+      "link": "https://www.smithsonianmag.com/smart-news/astronomers-noticed-a-mysterious-spot-appearing-in-telescope-images-it-turned-out-to-be-the-faintest-exoplanet-ever-imaged-from-earth-180989133/",
+      "summary": "The gas giant, called Beta Pictoris d, had been hiding in plain sight for more than a decade, until two independent teams verified its existence",
+      "date": "2026-07-15T19:40:22Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/rnLs9P4AErWm2zv27n0erorh8NY=/420x240/filters:focal(1664x1097:1665x1098)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/18/04/1804a2ba-72c0-44ff-8846-30f5b46b3834/stsci-01kx448cebrhbbjw579ag64g0h.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-15T21:07:50Z"
+    },
+    {
+      "title": "Helpful microbes could battle pathogens in our hospitals and schools—with the help of AI to make it work",
+      "link": "https://phys.org/news/2026-07-microbes-pathogens-hospitals-schools-ai.html",
+      "summary": "Helpful microbes that combat harmful pathogens could be the answer to rising antimicrobial resistance—particularly within built environments such as hospitals, homes and schools.",
+      "date": "2026-07-15T20:40:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/helpful-microbes-could.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-15T21:07:54Z"
+    },
+    {
+      "title": "Epigenetic mechanism explains how some plants cope with salt stress",
+      "link": "https://phys.org/news/2026-07-epigenetic-mechanism-cope-salt-stress.html",
+      "summary": "Due to artificial irrigation and rising temperatures, the concentration of salts (including sodium chloride, or \"table salt\") is increasing in soils worldwide. This is not only an ",
+      "date": "2026-07-15T20:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-discover-a-15.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-15T21:07:54Z"
+    },
+    {
+      "title": "Bacteria form 'herds' to survive predators, offering fresh insight into Earth's carbon cycle",
+      "link": "https://phys.org/news/2026-07-bacteria-herds-survive-predators-fresh.html",
+      "summary": "Researchers at Queen Mary University of London have discovered that tiny photosynthetic bacteria band together into protective \"herds\" when attacked by predators—a survival strateg",
+      "date": "2026-07-15T20:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bacteria-form-herds-to-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-15T21:07:54Z"
+    },
+    {
+      "title": "Marsupial newborns get early arms as embryos bypass usual limb-building sequence",
+      "link": "https://phys.org/news/2026-07-marsupial-newborns-early-arms-embryos.html",
+      "summary": "Scientists have discovered that marsupial forelimbs (arms) develop much earlier before birth than previously thought, providing new insights into evolutionary innovation and biolog",
+      "date": "2026-07-15T20:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/evolution-gives-marsup.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-15T21:07:54Z"
+    },
+    {
+      "title": "New algorithm improves gene expression marker identification across diverse biological systems",
+      "link": "https://phys.org/news/2026-07-algorithm-gene-marker-identification-diverse.html",
+      "summary": "Researchers have developed a new computational approach that enables more accurate selection of genes that characterize different cellular states from mRNA-seq data, offering a mor",
+      "date": "2026-07-15T20:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-algorithm-improves.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-15T21:07:54Z"
+    },
+    {
+      "title": "A new class of root-dwelling fungi named after the King of Sweden",
+      "link": "https://phys.org/news/2026-07-class-root-fungi-king-sweden.html",
+      "summary": "Researchers at Uppsala University have discovered a completely new fungal species, which they named after the king of Sweden. The species has been given the Latin name Semicentenia",
+      "date": "2026-07-15T19:40:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-class-of-fungi-n.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-15T21:07:54Z"
+    },
+    {
+      "title": "Scientists explain how nucleolus sub-compartments drive ribosome assembly",
+      "link": "https://phys.org/news/2026-07-scientists-nucleolus-compartments-ribosome.html",
+      "summary": "The nucleolus is a liquid-like cellular organelle where protein factories called ribosomes are assembled. Researchers knew of three distinct compartments within the nucleolus, but ",
+      "date": "2026-07-15T19:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-explains-how.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-15T21:07:54Z"
+    },
     {
       "title": "Should You Take Down Your Hummingbird Feeder on Vacation?",
       "link": "https://www.birdsandblooms.com/birding/attracting-hummingbirds/hummingbird-feeder-vacation/",
@@ -5348,160 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-08T12:26:07Z"
-    },
-    {
-      "title": "Summer Triangle star: Vega is bright and blue-white",
-      "link": "https://earthsky.org/brightest-stars/vega-brilliant-blue-white-is-third-brightest-star/",
-      "summary": "The Summer Triangle star pattern hangs in the east on July and August evenings in the Northern Hemisphere. Its brightest star is blue-white Vega. The post Summer Triangle star: Veg",
-      "date": "2026-07-08T08:04:16Z",
-      "image": "https://earthsky.org/upl/2021/07/vega-lyrae-east-summer-evenings-e1625075461807.png",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-08T10:26:31Z"
-    },
-    {
-      "title": "Opinion: Bloody brawl of humans, dogs and a bear threatens Californians’ fragile detente",
-      "link": "https://www.mercurynews.com/2026/07/08/opinion-bloody-brawl-of-humans-dogs-and-a-bear-threatens-californians-fragile-detente/",
-      "summary": "'In the past few years, that beautiful balance has tipped back toward fear and misunderstanding.'",
-      "date": "2026-07-08T10:15:51Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/SJM-Z-COL-SEARLES-0708.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-07-08T10:26:34Z"
-    },
-    {
-      "title": "Cambodia wants to bring tigers back, but should it?",
-      "link": "https://phys.org/news/2026-07-cambodia-tigers.html",
-      "summary": "Pan Sok still remembers his relative screaming as a tiger dragged him away one night, deep inside the Cambodian rainforest where they were tapping trees for resin.",
-      "date": "2026-07-08T08:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cambodias-last-confirm.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T10:26:40Z"
-    },
-    {
-      "title": "Diagnostic dilemma: A woman heard voices for years — but not because of psychosis",
-      "link": "https://www.livescience.com/health/diagnostic-dilemma-a-woman-heard-voices-for-years-but-not-because-of-psychosis",
-      "summary": "After multiple hospital visits and unsuccessful antipsychotic treatments, a woman's doctors uncovered an overlooked explanation for her hallucinations.",
-      "date": "2026-07-08T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/UR7xgLBWxW5ipyoq2KA6fd-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-08T10:26:42Z"
-    },
-    {
-      "title": "Health risk fears for storks in Europe over ‘junk food’ from landfill",
-      "link": "https://www.theguardian.com/environment/2026/jul/08/health-risk-fears-for-storks-in-europe-over-junk-food-from-landfill",
-      "summary": "Rubbish dumps can expose birds to contaminants, raising questions over whether landfill foraging helps or harms Storks are gaining weight from a diet of literal junk, according to ",
-      "date": "2026-07-08T07:30:23Z",
-      "image": "https://i.guim.co.uk/img/media/8c7317f40e18cfafc94334d3cf182b97c7fe857e/909_0_2976_2381/master/2976.jpg?width=140&quality=85&auto=format&fit=max&s=2ac08666323f09c40ed8e207cc178bdf",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-08T07:34:47Z"
-    },
-    {
-      "title": "Country diary: Following the flight path of a meadow brown | Kate Bradbury",
-      "link": "https://www.theguardian.com/environment/2026/jul/08/country-diary-following-the-flight-path-of-a-meadow-brown",
-      "summary": "Barston, West Midlands: It’s been a strange year so far for butterflies, and I get my summer meadow brown moment beneath a roaring jumbo jet On one of the longest days, my mum and ",
-      "date": "2026-07-08T04:30:19Z",
-      "image": "https://i.guim.co.uk/img/media/cef04e6c213e2c00321249517d7fab177213105c/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=4b083da6546258d6596c371cdb833467",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-08T07:34:47Z"
-    },
-    {
-      "title": "How extreme heat affects the body – and the best ways to cope",
-      "link": "https://www.newscientist.com/article/2533216-how-extreme-heat-affects-the-body-and-the-best-ways-to-cope/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A short spell in a heat chamber at the University of Brighton showed Alec Luhn that his body is not adapted to high temperatures – but regular exposure can train the body to respon",
-      "date": "2026-07-08T07:00:02Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/07134843/SEI_304374726.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-08T07:34:58Z"
-    },
-    {
-      "title": "How climate change affects interactions between owls and their prey",
-      "link": "https://phys.org/news/2026-07-climate-affects-interactions-owls-prey.html",
-      "summary": "A study published in Ecography has assessed how climate change may be destabilizing interactions between predators and prey in the wild—specifically, how owl–prey interactions have",
-      "date": "2026-07-08T07:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/owlprey.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T07:34:59Z"
-    },
-    {
-      "title": "Global warming, increasing wildfire risk threaten viability of some California winery regions",
-      "link": "https://phys.org/news/2026-07-global-wildfire-threaten-viability-california.html",
-      "summary": "The U.S. is the fourth-largest wine-producing country by output volume, and approximately 80% of its production occurs in California. Ever since the 19th century, California's prem",
-      "date": "2026-07-08T04:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/wineries.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T04:20:18Z"
-    },
-    {
-      "title": "How tall and short trees can coexist in old growth forests",
-      "link": "https://phys.org/news/2026-07-tall-short-trees-coexist-growth.html",
-      "summary": "Forests are shaped by light competition. The trees that grow the tallest have access to the most sunlight, blocking the rays and rendering the shaded space around them inhospitable",
-      "date": "2026-07-08T04:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-tall-and-short-tre.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T04:20:18Z"
-    },
-    {
-      "title": "How rocket launches could threaten Australia's coastal wildlife",
-      "link": "https://phys.org/news/2026-07-rocket-threaten-australia-coastal-wildlife.html",
-      "summary": "Space and rockets have been big news of late, from the successful Artemis 2 mission in April to the recent listing of SpaceX on the Nasdaq stock exchange.",
-      "date": "2026-07-08T02:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-rocket-launches-co.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T04:20:18Z"
-    },
-    {
-      "title": "Migratory birds may carry fewer parasites between islands than expected, DNA shows",
-      "link": "https://phys.org/news/2026-07-migratory-birds-parasites-islands-dna.html",
-      "summary": "A new study published in the Journal of Helminthology by researchers from the Estonian University of Life Sciences and the Swedish University of Agricultural Sciences, together wit",
-      "date": "2026-07-08T01:40:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/birds-may-fly-far-but.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T04:20:18Z"
-    },
-    {
-      "title": "Island life changed how Brazil's Noronha skink reproduces, but the lizard's strategy might be failing",
-      "link": "https://phys.org/news/2026-07-island-life-brazil-noronha-skink.html",
-      "summary": "Visitors to the Fernando de Noronha archipelago, located about 340 miles (545 kilometers) off the coast of Pernambuco in northeastern Brazil, soon notice a small lizard. Seemingly ",
-      "date": "2026-07-08T00:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/island-life-changed-ho.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T04:20:18Z"
-    },
-    {
-      "title": "Op-Ed: The New Theodore Roosevelt Library Is a Tribute to Conservation. Ironically, President Trump Was Its First Official Visitor.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/theodore-roosevelt-presidential-library-trump-visit/",
-      "summary": "The grand opening of a North Dakota museum dedicated to the father of American conservation sparked quiet tension during a visit from Donald Trump, during a growing national debate",
-      "date": "Tue, 07 Jul 2026 23Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/trump.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-08T00:05:11Z"
     }
   ]
 }
