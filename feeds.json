@@ -1,8 +1,30 @@
 {
-  "updated": "2026-07-15T06:22:20Z",
-  "updated_utc": "2026-07-15T06:22:20Z",
+  "updated": "2026-07-15T09:15:31Z",
+  "updated_utc": "2026-07-15T09:15:31Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Biodiversity boosts productivity most during extreme drought in drier grasslands",
+      "link": "https://phys.org/news/2026-07-biodiversity-boosts-productivity-extreme-drought.html",
+      "summary": "When extreme drought strikes, drier grasslands receive the greatest productivity benefit from biodiversity. By contrast, forests did not show the same context-dependent pattern und",
+      "date": "2026-07-15T09:00:11Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/biodiversity-delivers.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-15T09:15:28Z"
+    },
+    {
+      "title": "Tobacco companies are pushing nicotine pouches on teens — and we need to act now to stop them",
+      "link": "https://www.livescience.com/health/medicine-drugs/tobacco-companies-are-pushing-nicotine-pouches-on-teens-and-we-need-to-act-now-to-stop-them-opinion",
+      "summary": "Tobacco companies have fallen back on tried-and-tested marketing practices to encourage nicotine pouch use among teenagers.",
+      "date": "2026-07-15T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/G7eLWBVpUNGhcSxmjQD2JE-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-15T09:15:29Z"
+    },
     {
       "title": "Interview with Anders Hundebol, Developer of the Birdey bird ID game",
       "link": "https://www.10000birds.com/interview-with-anders-hundebol-developer-of-the-birdey-bird-id-game.htm?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-anders-hundebol-developer-of-the-birdey-bird-id-game",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-07-07T12:00:26Z"
-    },
-    {
-      "title": "See 6 major spaceport launch sites … from space!",
-      "link": "https://earthsky.org/human-world/6-major-spaceport-launch-sites/",
-      "summary": "These 6 major spaceport launch sites helped open the space age. Now, satellites orbiting Earth can look back at the very gateways that sent them there. The post See 6 major spacepo",
-      "date": "Tue, 07 Jul 2026 11Z",
-      "image": "https://earthsky.org/upl/2023/10/starlink-6-25-luanch-octd30-2023-Greg-Diesel-Walck-e1698745460130.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-07T12:00:27Z"
-    },
-    {
-      "title": "Opportunity left for Mars on July 7, 2003",
-      "link": "https://earthsky.org/space/this-date-in-science-nasa-rover-opportunity-blasts-off-to-mars/",
-      "summary": "NASA's Opportunity rover launched to Mars on July 7, 2003. The rover surpassed all expectations. It officially ended its mission on February 13, 2019. The post Opportunity left for",
-      "date": "Tue, 07 Jul 2026 11Z",
-      "image": "https://earthsky.org/upl/2019/02/opportunity-mars-rover-shadow-e1550101929174.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-07T12:00:27Z"
     }
   ]
 }
