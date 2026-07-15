@@ -1,8 +1,129 @@
 {
-  "updated": "2026-07-15T13:58:52Z",
-  "updated_utc": "2026-07-15T13:58:52Z",
+  "updated": "2026-07-15T15:42:15Z",
+  "updated_utc": "2026-07-15T15:42:15Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Greater gliders not as great at gliding as thought – but still look like magic carpets, experts say",
+      "link": "https://www.theguardian.com/environment/2026/jul/16/greater-gliders-gliding-study",
+      "summary": "While new study challenges assumptions about how far they travel, witnessing them in action still takes your breath away, scientists say Follow our Australia news live blog for lat",
+      "date": "2026-07-15T15:01:00Z",
+      "image": "https://i.guim.co.uk/img/media/27ed07274312f7382b5a3e937fe2be3492da114b/0_107_2540_2033/master/2540.jpg?width=140&quality=85&auto=format&fit=max&s=0f4edc77ccccde857c9a2b492efcd51f",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-15T15:41:59Z"
+    },
+    {
+      "title": "In a First, Astronomers Find Sugar in the Space Between Stars, Providing New Clues About the Origins of Life on Earth",
+      "link": "https://www.smithsonianmag.com/smart-news/in-a-first-astronomers-find-sugar-in-the-space-between-stars-providing-new-clues-about-the-origins-of-life-on-earth-180989122/",
+      "summary": "Sugars are crucial components of RNA and DNA, the basis of all known organisms alive today. In a new study, the sugar erythrulose was detected in a gas- and dust-filled cloud near ",
+      "date": "2026-07-15T14:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/QoLt5GlCXHQfhioQMn04X4Fma30=/420x240/filters:focal(521x367:522x368)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/93/9f/939f2207-d63e-4c4a-84de-dd7e9f60f96a/ssc2006-02a_0.webp",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-15T15:42:07Z"
+    },
+    {
+      "title": "AI is not ready to fly solo in space",
+      "link": "https://www.sciencenews.org/article/ai-task-completion-ability-space-scifi",
+      "summary": "In sci-fi, AI can navigate the unknowns and — ideally — keep human travelers safe. But it’s not intelligent enough to do that yet.",
+      "date": "2026-07-15T14:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/0826_tech-fic.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-15T15:42:08Z"
+    },
+    {
+      "title": "Nicotine pouches may cause receding gums",
+      "link": "https://www.newscientist.com/article/2579647-nicotine-pouches-may-cause-receding-gums/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Nicotine pouches aren't typically associated with the same health harms as similar products that also contain tobacco, but they have now been linked to receding gums and oral irrit",
+      "date": "2026-07-15T15:30:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_304620650.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-15T15:42:09Z"
+    },
+    {
+      "title": "We’re finally learning what happens to gifted children in adulthood",
+      "link": "https://www.newscientist.com/article/2532698-were-finally-learning-what-happens-to-gifted-children-in-adulthood/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "A spate of new studies is revealing the lifelong impact of being marked as exceptional during childhood – and the results suggest we may need to revise how we view giftedness",
+      "date": "2026-07-15T15:00:09Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/07160609/SEI_304385602.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-15T15:42:09Z"
+    },
+    {
+      "title": "Queen’s powerful smell suppresses rivals in naked mole rat colonies",
+      "link": "https://www.newscientist.com/article/2579526-queens-powerful-smell-suppresses-rivals-in-naked-mole-rat-colonies/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "In naked mole rat colonies, only the queen can breed – and now we have found out how she maintains control",
+      "date": "2026-07-15T15:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305176049.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-15T15:42:09Z"
+    },
+    {
+      "title": "Kohlrabi greenhouse trial shows nutrients recovered from human excreta can replace mineral fertilizer",
+      "link": "https://phys.org/news/2026-07-kohlrabi-greenhouse-trial-nutrients-recovered.html",
+      "summary": "A new study by Caroline Ganglo and Stefan Karlowsky from the Leibniz Institute for Horticultural Sciences (IGZ) investigated whether human excreta-derived fertilizers are suitable ",
+      "date": "2026-07-15T15:20:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kohlrabi-greenhouse-tr.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-15T15:42:11Z"
+    },
+    {
+      "title": "Naked mole-rat queens produce an odorous chemical that ensures that only they can reproduce",
+      "link": "https://phys.org/news/2026-07-naked-mole-rat-queens-odorous.html",
+      "summary": "An international team led by Dr. Gary Lewin, group leader of the Molecular Physiology of Somatosensory Perception lab at the Max Delbrück Center in Berlin, has discovered that the ",
+      "date": "2026-07-15T15:00:33Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/1-nakedmolerat.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-15T15:42:11Z"
+    },
+    {
+      "title": "Healthier, more sustainable diets could reshape global agriculture: New study shows by how much",
+      "link": "https://phys.org/news/2026-07-healthier-sustainable-diets-reshape-global.html",
+      "summary": "There is a clear need to shift toward healthier and more sustainable food systems. According to the 2025 EAT-Lancet Commission Report, global adoption of a flexitarian Planetary He",
+      "date": "2026-07-15T15:00:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/healthy-diet.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-15T15:42:11Z"
+    },
+    {
+      "title": "People overestimate legal protections for dogs, study finds",
+      "link": "https://phys.org/news/2026-07-people-overestimate-legal-dogs.html",
+      "summary": "Most people in the U.K. don't fully understand dog laws in the country and often believe stronger protections exist than actually exist, according to a new University of Stirling s",
+      "date": "2026-07-15T14:50:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dog-on-a-leash.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-15T15:42:11Z"
+    },
+    {
+      "title": "Seals filter sound through blood-filled tissue to hear underwater, study reveals",
+      "link": "https://phys.org/news/2026-07-filter-blood-tissue-underwater-reveals.html",
+      "summary": "The secret of how seals can hear in air and water has been revealed, thanks to pioneering research led by Natural History Museum scientists.",
+      "date": "2026-07-15T14:10:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-reveals-s-4.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-15T15:42:11Z"
+    },
     {
       "title": "Burnham urged to drop ‘flawed’ plans that may let developers bypass environment laws for £1",
       "link": "https://www.theguardian.com/politics/2026/jul/15/andy-burnham-urged-to-drop-planning-changes-harm-nature",
@@ -5381,127 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-07-07T18:06:56Z"
-    },
-    {
-      "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
-      "link": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
-      "summary": "Researchers testing a cheap, homegrown oil in Uganda found what cats knew all along – it worked as well as the artificial chemical used globally A homegrown catnip lotion has prove",
-      "date": "2026-07-07T15:17:19Z",
-      "image": "https://i.guim.co.uk/img/media/20d778fb2769f5911f1d87e9581af1c62bd71648/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=9e81a01f52fe1493d3c23dc687ee0e0c",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-07T15:45:26Z"
-    },
-    {
-      "title": "2 asteroid flybys yield new closeup images",
-      "link": "https://earthsky.org/space/2-asteroid-flybys-torifune-kamooalewa-images/",
-      "summary": "Japanese and Chinese space agencies completed 2 asteroid flybys in early July. Read more about the asteroids and see the closeup images here! The post 2 asteroid flybys yield new c",
-      "date": "Tue, 07 Jul 2026 14Z",
-      "image": "https://earthsky.org/upl/2026/07/Torifune-Junly-5-2026-Hayabusa2-JAXA-e1783369134308.png",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-07T15:45:28Z"
-    },
-    {
-      "title": "How a Hungry Komodo Dragon Led Scientists to Determine Our Small, Hobbit-Like Cousins Probably Weren't That Smart After All",
-      "link": "https://www.smithsonianmag.com/smart-news/how-a-hungry-komodo-dragod-led-scientists-to-determine-our-small-hobbit-like-cousins-probably-werent-that-smart-after-all-180989078/",
-      "summary": "New research indicates \"Homo floresiensis\" probably wasn't hunting big game or using fire on Flores Island, suggesting the small-brained species wasn't quite as \"behaviorally advan",
-      "date": "2026-07-06T15:31:58Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/1OMeCd8VthsYLp8ot1dA4IqiYSA=/420x240/filters:focal(1250x833:1251x834)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/89/e8/89e86061-60e0-4484-af79-9da7aeac7343/skulls.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-07T15:45:35Z"
-    },
-    {
-      "title": "Many U.S. teens underestimate fentanyl’s deadly risk",
-      "link": "https://www.sciencenews.org/article/adolescents-fentanyl-risk-understanding",
-      "summary": "A majority of 8th-graders and roughly a third of 10th- and 12th-graders do not see great risk in using fentanyl once or twice, a study reports.",
-      "date": "Tue, 07 Jul 2026 15Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/070626_AC_fentanylrisk_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-07T15:45:36Z"
-    },
-    {
-      "title": "Salt batteries are about to shake up EVs and grid storage",
-      "link": "https://www.newscientist.com/article/2532997-salt-batteries-are-about-to-shake-up-evs-and-grid-storage/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Today, most rechargeable batteries are made from lithium ions, but sodium-ion alternatives could make battery tech much cheaper and offer other advantages",
-      "date": "Tue, 07 Jul 2026 13Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/06152825/SEI_304234402.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-07T15:45:37Z"
-    },
-    {
-      "title": "Chris Packham: 'I'd throw myself in front of a T. Rex to be consumed'",
-      "link": "https://www.newscientist.com/article/2533235-chris-packham-id-throw-myself-in-front-of-a-t-rex-to-be-consumed/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "As Chris Packham gears up for his new TV show, Evolution, he tells Penny Sarchet why understanding the latest evolutionary science is so important if we are to truly appreciate the",
-      "date": "Tue, 07 Jul 2026 13Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/07104057/sei304357371.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-07T15:45:37Z"
-    },
-    {
-      "title": "5 graphs that show how heatwaves are getting more dangerous",
-      "link": "https://www.newscientist.com/article/2532809-5-graphs-that-show-how-heatwaves-are-getting-more-dangerous/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Longer-lasting hot spells and high temperatures at night are making it harder to cope, leading to thousands more deaths from extreme heat",
-      "date": "Tue, 07 Jul 2026 10Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/03153116/SEI_303831189.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-07T15:45:37Z"
-    },
-    {
-      "title": "Ovary identity shift after menopause may contribute to inflammation",
-      "link": "https://www.newscientist.com/article/2533022-ovary-identity-shift-after-menopause-may-contribute-to-inflammation/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "We used to think post-menopausal ovaries sat inert in the body, but evidence from mice suggests they may instead turn into an organ with a role in inflammation",
-      "date": "Tue, 07 Jul 2026 08Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/06103647/SEI_303708794.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-07T15:45:37Z"
-    },
-    {
-      "title": "Inferring multicellular interactions in tumors from standard pathology slides",
-      "link": "https://phys.org/news/2026-07-inferring-multicellular-interactions-tumors-standard.html",
-      "summary": "Understanding how cells within and around a tumor interact provides key information about a cancer's architecture, a patient's immune response to the disease and even how susceptib",
-      "date": "2026-07-07T15:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/inferring-multicellula.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-07T15:45:38Z"
-    },
-    {
-      "title": "Wolves around the world have evolved different skull shapes—humans are also shaping their evolution",
-      "link": "https://phys.org/news/2026-07-wolves-world-evolved-skull-humans.html",
-      "summary": "A new international study led by researchers at the University of Oulu, Finland, shows that wolves living in different parts of the world are not anatomically identical. Their skul",
-      "date": "2026-07-07T15:00:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wolves-around-the-worl.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-07T15:45:38Z"
-    },
-    {
-      "title": "Homegrown catnip lotion proves to be an effective mosquito repellent in rural Uganda",
-      "link": "https://phys.org/news/2026-07-homegrown-catnip-lotion-effective-mosquito.html",
-      "summary": "Plant researchers from Wales and Uganda have collaborated on a community enterprise project in rural Uganda, becoming the first to create an affordable and highly effective mosquit",
-      "date": "2026-07-07T15:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/catnip-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-07T15:45:38Z"
     }
   ]
 }
