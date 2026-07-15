@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-14T23:58:14Z",
-  "updated_utc": "2026-07-14T23:58:14Z",
+  "updated": "2026-07-15T03:23:07Z",
+  "updated_utc": "2026-07-15T03:23:07Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Mystery of why some toads survive deadly fungus revealed",
+      "link": "https://phys.org/news/2026-07-mystery-toads-survive-deadly-fungus.html",
+      "summary": "The mystery of why some amphibian populations recover following outbreaks of a deadly fungus has been solved in a new study led by University College London (UCL), ZSL and Imperial",
+      "date": "2026-07-15T00:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mystery-of-why-some-to-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-15T03:23:04Z"
+    },
     {
       "title": "Vandals Smashed The 95-Year-Old High Rock Cabin Overlooking Mount Rainier. Hikers Are Refusing to Let It Die.",
       "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/high-rock-lookout-vandalism-restoration/",
@@ -5487,17 +5498,6 @@
       "summary": "As a bona fide beach bum, I've become irrationally picky about my seating arrangements. After a year of testing, I'm now a Shibumi chair evangelist. The post The Shibumi Beach Chai",
       "date": "Tue, 07 Jul 2026 10Z",
       "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/shibumi-chair-review-featured.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-07T12:00:32Z"
-    },
-    {
-      "title": "Forget the Rockies. West Virginia Is the Most Affordable Outdoor Paradise in the U.S.",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/west-virginia-outdoor-tourism-infrastructure-growth/",
-      "summary": "As housing costs spike nationwide, West Virginia is investing millions in trail networks and outdoor infrastructure, turning public lands, navigable rivers, and miles of singletrac",
-      "date": "Tue, 07 Jul 2026 09Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/berkeley-springs-mtb.jpg?width=1200",
       "name": "Outside Online",
       "category": "wildlife",
       "color": 9,
