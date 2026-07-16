@@ -1,8 +1,74 @@
 {
-  "updated": "2026-07-16T06:25:58Z",
-  "updated_utc": "2026-07-16T06:25:58Z",
+  "updated": "2026-07-16T09:20:21Z",
+  "updated_utc": "2026-07-16T09:20:21Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Snake in a chain: lucky escape for Australian woman after bite from deadly eastern brown caught in bike wheel",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/16/snake-bike-chain-northern-rivers-rail-trail-tweed-nsw-australia",
+      "summary": "Woman in her 60s was riding on popular cycling trail in northern NSW when she ran over the two-metre-long eastern brown snake, one of the world’s most venomous A woman in her 60s i",
+      "date": "2026-07-16T06:52:54Z",
+      "image": "https://i.guim.co.uk/img/media/26f22527881d680f80926d7e1d41a49b5f5f7946/0_185_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=a6e50d543e5fd774cccad97ad6d51541",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-16T09:20:05Z"
+    },
+    {
+      "title": "Hercules the Strongman and a great globular cluster",
+      "link": "https://earthsky.org/constellations/hercules-the-strong-man/",
+      "summary": "Hercules the Strongman is a great constellation to view in Northern Hemisphere summer. With binoculars you can see Hercules' remarkable star cluster, M13. The post Hercules the Str",
+      "date": "Thu, 16 Jul 2026 09Z",
+      "image": "https://earthsky.org/upl/2026/06/Hercules-July-chart.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-07-16T09:20:07Z"
+    },
+    {
+      "title": "I Rode a Mechanical Bull on a Floating Rodeo—and It Was Every Bit as Wild as It Sounds",
+      "link": "https://www.outsideonline.com/outdoor-adventure/water-activities/boatsetter-rodeo/",
+      "summary": "What happens when you mix a boat party with a Texas rodeo? The post I Rode a Mechanical Bull on a Floating Rodeo—and It Was Every Bit as Wild as It Sounds appeared first on Outside",
+      "date": "Thu, 16 Jul 2026 09Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/boat-rosea.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-16T09:20:12Z"
+    },
+    {
+      "title": "How elite athletes have started training to compete in extreme heat",
+      "link": "https://www.newscientist.com/article/2579601-how-elite-athletes-have-started-training-to-compete-in-extreme-heat/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "The 2026 Tour de France has been the hottest ever. Norwegian-method pioneer and Uno-X Mobility coach Olav Aleksander Bu reveals how Nordic athletes have been learning to beat the h",
+      "date": "Thu, 16 Jul 2026 08Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305159056.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-16T09:20:16Z"
+    },
+    {
+      "title": "Frog protein could become first antidote to deadly red tide toxin",
+      "link": "https://phys.org/news/2026-07-frog-protein-antidote-deadly-red.html",
+      "summary": "The \"red tide\" algal blooms that are becoming more frequent along the Pacific coast produce one of the most potent neurotoxins known: saxitoxin, or STX. The toxin accumulates in sh",
+      "date": "2026-07-16T09:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/red-tide-algal-bloom.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-16T09:20:17Z"
+    },
+    {
+      "title": "'Another dinosaur has entered the luxury collectibles market': Gus the T. rex just sold for $50 million. Here's what its loss means to science.",
+      "link": "https://www.livescience.com/animals/dinosaurs/another-dinosaur-has-entered-the-luxury-collectibles-market-gus-the-t-rex-just-sold-for-usd50-million-heres-what-its-loss-means-to-science",
+      "summary": "Gus, a Tyrannosaurus rex unearthed in South Dakota, just sold for $50 million at auction. But it's unknown if the specimen will ever be made available to science.",
+      "date": "Thu, 16 Jul 2026 09Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/65oHd9toBVnTDotziusY84-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-16T09:20:18Z"
+    },
     {
       "title": "How birds are coping in the heatwave",
       "link": "https://www.theguardian.com/news/2026/jul/16/how-birds-are-coping-in-the-heatwave",
@@ -5434,72 +5500,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genetic-evidence-confi.jpg",
       "name": "Phys.org",
       "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-07-08T15:27:34Z"
-    },
-    {
-      "title": "Study: Biodiversity hotspots in American West face extinction",
-      "link": "https://phys.org/news/2026-07-biodiversity-hotspots-american-west-extinction.html",
-      "summary": "A comprehensive study of more than 1,100 springs in the American West warns that critical biodiversity hot spots are facing a mounting extinction crisis.",
-      "date": "2026-07-08T15:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-biodiversity-hot-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T15:27:34Z"
-    },
-    {
-      "title": "Researchers uncover the inside story on plant organ growth",
-      "link": "https://phys.org/news/2026-07-uncover-story-growth.html",
-      "summary": "Research has shed intriguing new light on the genetics underlying the diverse plant organ shapes seen in agriculture and nature. Despite more than a century of scientific investiga",
-      "date": "2026-07-08T15:00:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-uncover-th.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T15:27:34Z"
-    },
-    {
-      "title": "Scavenger animals are the missing link in Australia's bird flu response. Three experts explain",
-      "link": "https://phys.org/news/2026-07-scavenger-animals-link-australia-bird.html",
-      "summary": "Australia is racing to contain the spread of highly pathogenic avian influenza (HPAI), which is now believed to have infected seven seabirds.",
-      "date": "2026-07-08T14:20:12Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scavenger.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T15:27:34Z"
-    },
-    {
-      "title": "Tiny Jurassic bird reveals a key step in bird evolution",
-      "link": "https://phys.org/news/2026-07-tiny-jurassic-bird-reveals-key.html",
-      "summary": "The transition from a lumbering, heavy dinosaur body to the flight-adapted bird body plan is one of many fascinating episodes in evolutionary history. Working out how this massive ",
-      "date": "2026-07-08T13:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-jurassic-bird-rev-4.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T15:27:34Z"
-    },
-    {
-      "title": "Quiet, please: Hatchery salmon raised amid noise are less likely to return to spawn",
-      "link": "https://phys.org/news/2026-07-quiet-hatchery-salmon-noise-spawn.html",
-      "summary": "Fish hatcheries are a critical part of the effort to restore salmon runs in the Pacific Northwest. But hatchery fish are less likely than wild ones to return from the ocean to spaw",
-      "date": "2026-07-08T13:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quiet-please-hatchery.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T15:27:34Z"
-    },
-    {
-      "title": "It's been 30 years since Dolly the sheep was born—where is cloning technology now?",
-      "link": "https://phys.org/news/2026-07-years-dolly-sheep-born-cloning.html",
-      "summary": "When Dolly the sheep—the first cloned mammal—was born 30 years ago, she became one of the most famous animals in science history. Her arrival sparked predictions of a sci-fi future",
-      "date": "2026-07-08T13:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/30-years-since-dolly-t.jpg",
-      "name": "Phys.org",
-      "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-08T15:27:34Z"
     }
