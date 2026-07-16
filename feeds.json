@@ -1,8 +1,41 @@
 {
-  "updated": "2026-07-15T23:03:57Z",
-  "updated_utc": "2026-07-15T23:03:57Z",
+  "updated": "2026-07-16T03:22:05Z",
+  "updated_utc": "2026-07-16T03:22:05Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Drug discovery Is changing. Drug development must change too.",
+      "link": "https://www.newscientist.com/article/2579721-drug-discovery-is-changing/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "In this New Scientist CoLab podcast, experts from global life sciences leader Cytiva explain the hidden, high-stakes science of purification that is required to close the gap betwe",
+      "date": "Thu, 16 Jul 2026 00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2024/04/17102106/new-scientist-social-meta-image.png",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-16T03:22:00Z"
+    },
+    {
+      "title": "What science loses when T. rex becomes a trophy",
+      "link": "https://phys.org/news/2026-07-science-rex-trophy.html",
+      "summary": "On July 14, 2026, \"Gus,\" one of the most complete specimens of Tyrannosaurus rex, went to an as-yet-unidentified buyer for $50.1 million. This auction at Sotheby's set a record for",
+      "date": "2026-07-16T01:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-science-loses-whe.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-16T03:22:01Z"
+    },
+    {
+      "title": "Unhoused people and wildlife are increasingly coming into contact. Here's what can be done to protect them",
+      "link": "https://phys.org/news/2026-07-unhoused-people-wildlife-contact.html",
+      "summary": "As homelessness increases around the world, more unhoused people are turning to parks and other urban green spaces to seek shelter. However, these places are also home to animals t",
+      "date": "2026-07-15T23:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unhoused-people-and-wi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-16T03:22:01Z"
+    },
     {
       "title": "She Got Stranded on a Brutal Colorado 13er. Her Packing List Is a Lesson in Backcountry Survival.",
       "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/broken-hand-pass-colorado-hiker-rescue/",
@@ -5469,39 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-07-08T12:25:50Z"
-    },
-    {
-      "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
-      "link": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
-      "summary": "Experts warn that some marine species are at risk of ‘mass mortality events’ in ever-warming oceans UK waters are being hit with an “extreme” marine heatwave, the Met Office has sa",
-      "date": "2026-07-08T11:13:33Z",
-      "image": "https://i.guim.co.uk/img/media/03e45e8d59d2e7b985f7d2c51adc764f628b1ef7/86_0_4681_3744/master/4681.jpg?width=140&quality=85&auto=format&fit=max&s=cfb318705f27a6d16dbfb9f9536b6f7c",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-08T12:25:56Z"
-    },
-    {
-      "title": "Nearby super-Earth GJ 3378b may be a good candidate for life",
-      "link": "https://earthsky.org/space/nearby-super-earth-planet-gj-3378b-habitability/",
-      "summary": "Astronomers have gotten a closer look at the nearby super-Earth GJ 3378b. It could be habitable, if it has an atmosphere. The post Nearby super-Earth GJ 3378b may be a good candida",
-      "date": "2026-07-08T11:00:27Z",
-      "image": "https://earthsky.org/upl/2026/07/GJ3378b-super-Earth-exoplanet-June-30-2026.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-08T12:25:57Z"
-    },
-    {
-      "title": "When Germany Built a Flying Train 125 Years Ago, a City Coalesced Beneath It. It Has Moved Royalty, Commuters and Tourists—and One Elephant—Ever Since",
-      "link": "https://www.smithsonianmag.com/travel/when-germany-built-a-flying-train-125-years-ago-a-city-coalesced-beneath-it-it-has-moved-royalty-commuters-and-touristsand-one-elephantever-since-180989072/",
-      "summary": "When there was no room on the ground, towns in the Wupper Valley looked to the skies and built a suspension railway that became a source of pride and connection",
-      "date": "2026-07-08T12:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/wI9XIQiAz3pMTMCkb3l6WBiBBhU=/420x240/filters:focal(2016x1517:2017x1518)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/17/cf/17cffb17-9d3f-48d3-b10b-f64031c3ff77/img_9579.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-08T12:26:04Z"
     }
   ]
 }
