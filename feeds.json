@@ -1,8 +1,118 @@
 {
-  "updated": "2026-07-16T18:12:01Z",
-  "updated_utc": "2026-07-16T18:12:01Z",
+  "updated": "2026-07-16T20:06:34Z",
+  "updated_utc": "2026-07-16T20:06:34Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Gardening and Wildfire Smoke: What You Need to Know",
+      "link": "https://www.birdsandblooms.com/gardening/gardening-basics/gardening-wildfire-smoke/",
+      "summary": "Gardening is a beloved summer activity, but what happens when wildfire smoke and ash blows in? Find out if the smoke will impact your plants. The post Gardening and Wildfire Smoke:",
+      "date": "Thu, 16 Jul 2026 19Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/769848957_1_Lynn_Jones_BNB_Birds_Blooms_Photo_Contest_2025_Blooms-scaled-e1784229270948.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-07-16T20:06:15Z"
+    },
+    {
+      "title": "The Best Way to Keep Algae Out of Your Birdbath",
+      "link": "https://www.birdsandblooms.com/birding/attracting-birds/prevent-algae-birdbath/",
+      "summary": "Frustrated trying to prevent algae growth in your birdbath water? Get expert tips on the only solution that works and is safe for the birds. The post The Best Way to Keep Algae Out",
+      "date": "Tue, 30 Jun 2026 19Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/251557104_1_Samantha_Beebe_BNB_BYPC2020-e1782847894856.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-07-16T20:06:15Z"
+    },
+    {
+      "title": "San Diego Safari Park gorilla undergoes landmark surgery for bone infection with help from UCSD",
+      "link": "https://www.mercurynews.com/2026/07/16/san-diego-safari-park-gorilla-undergoes-landmark-surgery-for-bone-infection-with-help-from-ucsd/",
+      "summary": "UC San Diego surgeons adapted human medicine techniques to perform the surgery on Mizani the gorilla Saturday.",
+      "date": "Thu, 16 Jul 2026 18Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/SUT-L-GORILLA-SURGERY-02.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-07-16T20:06:23Z"
+    },
+    {
+      "title": "Buckingham Palace's Royal Picture Gallery Revives the Salon-Style Hang, Doubling the Number of Masterpieces on View",
+      "link": "https://www.smithsonianmag.com/smart-news/buckingham-palaces-royal-picture-gallery-revives-the-salon-style-hang-doubling-the-number-of-masterpieces-on-view-180989135/",
+      "summary": "Charles III reportedly had a say in the stylistic switch, which rearranged and added artworks by the likes of Rembrandt, Rubens, Vermeer and Van Dyck",
+      "date": "Thu, 16 Jul 2026 18Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/OxejDArksZ1nJKfxLFWH4UqXK64=/420x240/filters:focal(2943x1962:2944x1963)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/55/e3/55e32f0a-6f5b-4b30-b059-bf3cfd601093/060726_photo_ben_fitzpatrick_-_picture_gallery_final_touches_2jpg.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-16T20:06:27Z"
+    },
+    {
+      "title": "Climate change reshapes waterborne disease risks as pathogens respond differently, review finds",
+      "link": "https://phys.org/news/2026-07-climate-reshapes-waterborne-disease-pathogens.html",
+      "summary": "Climate change is altering the spread of waterborne diseases around the world, according to a comprehensive review published today in Nature Reviews Microbiology. The publication i",
+      "date": "2026-07-16T20:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-is-climate-change.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-16T20:06:31Z"
+    },
+    {
+      "title": "Glyphosate ban could cost Illinois farmers millions annually",
+      "link": "https://phys.org/news/2026-07-glyphosate-illinois-farmers-millions-annually.html",
+      "summary": "A new analysis from the University of Illinois Urbana-Champaign and the Illinois Soybean Association finds that Illinois corn and soybean farmers could lose up to $609 million per ",
+      "date": "2026-07-16T18:40:10Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-would-it-cost-far.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-16T20:06:31Z"
+    },
+    {
+      "title": "Living alligators expose why juvenile fossils can fool classification methods",
+      "link": "https://phys.org/news/2026-07-alligators-expose-juvenile-fossils-classification.html",
+      "summary": "Fossil finds are exciting moments that sometimes introduce the world to an ancient mammal or dinosaur that existed millions of years ago. But a longstanding problem in paleontology",
+      "date": "2026-07-16T18:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-approach-for-pal.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-16T20:06:31Z"
+    },
+    {
+      "title": "Invertebrates can distinguish good from bad bacteria",
+      "link": "https://phys.org/news/2026-07-invertebrates-distinguish-good-bad-bacteria.html",
+      "summary": "Researchers from Heinrich Heine University Düsseldorf (HHU) and Kiel University (CAU) have examined immune system function in an early-branching animal—a sea anemone. They discover",
+      "date": "2026-07-16T18:20:11Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/even-invertebrates-can.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-16T20:06:31Z"
+    },
+    {
+      "title": "Ancient chariot emerges among remains of mysterious society that burned down its own buildings and then disappeared",
+      "link": "https://www.livescience.com/archaeology/ancient-chariot-emerges-among-remains-of-mysterious-society-that-burned-down-its-own-buildings-and-then-disappeared",
+      "summary": "An ancient bronze chariot recently discovered in Spain was used by a culture that mysteriously disappeared from the archaeological record.",
+      "date": "Thu, 16 Jul 2026 20Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/uhEhx2wmBeJNpowD5ZUERX-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-16T20:06:32Z"
+    },
+    {
+      "title": "Nobel Prize-winning physicist and team use Claude AI to solve decades-old math puzzle",
+      "link": "https://www.livescience.com/physics-mathematics/mathematics/nobel-prize-winning-physicist-and-team-use-claude-ai-to-solve-decades-old-math-puzzle",
+      "summary": "A decade after uncovering a mysterious mathematical relationship in the physics of \"jamming,\" Nobel laureate Giorgio Parisi and collaborator Francesco Zamponi have finally cracked ",
+      "date": "Thu, 16 Jul 2026 19Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/psftQRQ69aMQmthVeb4fnT-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-16T20:06:32Z"
+    },
     {
       "title": "How Do Birds Keep Cool in Hot Weather?",
       "link": "https://www.birdsandblooms.com/birding/birding-basics/how-birds-keep-cool-hot-weather/",
@@ -5392,116 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-07-09T03:59:40Z"
-    },
-    {
-      "title": "Varroa risk to Tasmanian crop pollination",
-      "link": "https://phys.org/news/2026-07-varroa-tasmanian-crop-pollination.html",
-      "summary": "A study by the Tasmanian Institute of Agriculture (TIA) has highlighted the impact Varroa mites will have on crop pollination in Tasmania if the parasitic mites become established ",
-      "date": "2026-07-09T03:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/varroa-risk-to-tasmani.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-09T03:59:46Z"
-    },
-    {
-      "title": "How to protect your pets from New World screwworm",
-      "link": "https://phys.org/news/2026-07-pets-world-screwworm.html",
-      "summary": "Since the U.S. Department of Agriculture confirmed the first case of New World screwworm (NWS) in the United States on June 3, pet owners and shelters alike have expressed concern ",
-      "date": "2026-07-09T02:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/protecting-pets-from-n.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-09T03:59:46Z"
-    },
-    {
-      "title": "Planting the future: Researchers put AI to work on the farm",
-      "link": "https://phys.org/news/2026-07-future-ai-farm.html",
-      "summary": "Farmers are getting more tools in their toolbox, thanks to new research from the University of Missouri that shows how they can tweak planting practices to make the most of every a",
-      "date": "2026-07-08T23:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/planting-the-future-re.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-09T03:59:46Z"
-    },
-    {
-      "title": "What Bryan Johnson’s Diagnosis Can Teaches Us About Living Longer, According to a Longevity Doctor",
-      "link": "https://www.outsideonline.com/health/wellness/bryan-johnson-diagnosis-longevity/",
-      "summary": "After Bryan Johnson's diagnosis, longevity doctor Ingrid Yang, MD, explains what really helps you age well—without extreme measures. The post What Bryan Johnson’s Diagnosis Can Tea",
-      "date": "2026-07-08T21:45:06Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/bryan-johnson-longevity.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-08T23:15:57Z"
-    },
-    {
-      "title": "Arizona Officials Will Allow More Arsenic to Flow into the Grand Canyon’s Water. The Local Tribe Is Outraged.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/grand-canyon-uranium-mine-arsenic/",
-      "summary": "Arizona regulators just voted to raise allowable arsenic levels at a uranium mine near the Grand Canyon. The post Arizona Officials Will Allow More Arsenic to Flow into the Grand C",
-      "date": "2026-07-08T21:36:43Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/GettyImages-597699376.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-08T23:15:57Z"
-    },
-    {
-      "title": "New Images Reveal That This Asteroid Is Actually Two Conjoined Space Rocks. They Form a Peanut-Shaped Object Called a 'Contact Binary'",
-      "link": "https://www.smithsonianmag.com/smart-news/new-images-reveal-that-this-asteroid-is-actually-two-conjoined-space-rocks-that-form-a-peanut-shaped-object-called-a-contact-binary-180989090/",
-      "summary": "A flyby conducted by the Japanese spacecraft Hayabusa2 uncovered the asteroid's strange shape. Data gathered by the probe will also help defend the planet against potentially threa",
-      "date": "2026-07-08T21:21:25Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/a1D9fBPaxAHSXolV3Spcig4UuSk=/420x240/filters:focal(1024x683:1025x684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f9/18/f9188b50-57ac-41f6-b2ee-7950a7407a6a/07sci-torifune-lmpq-superjumbo.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-08T23:15:59Z"
-    },
-    {
-      "title": "Satellites are transforming biodiversity monitoring for global nature targets, but major gaps remain",
-      "link": "https://phys.org/news/2026-07-satellites-biodiversity-global-nature-major.html",
-      "summary": "A new scientific review outlines how satellites and other remote sensing technologies are increasingly shaping how biodiversity and ecosystem health can be monitored at scale—offer",
-      "date": "2026-07-08T22:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/satellites-are-transfo.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T23:16:02Z"
-    },
-    {
-      "title": "South African fynbos soil delivers a new species of soil bacterium",
-      "link": "https://phys.org/news/2026-07-south-african-fynbos-soil-species.html",
-      "summary": "Microbiologists from Stellenbosch University in South Africa have discovered a previously unknown bacterial genus within the phylum Acidobacteriota. It is the first genus from this",
-      "date": "2026-07-08T22:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/south-african-fynbos-s.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T23:16:02Z"
-    },
-    {
-      "title": "Brown howler monkeys rest more on long, hot days and when feeding on leaves",
-      "link": "https://phys.org/news/2026-07-brown-howler-monkeys-rest-hot.html",
-      "summary": "The daily movements of brown howler monkeys (Alouatta guariba) in the forest are determined by an interplay of environmental, behavioral and social factors. This is one of the conc",
-      "date": "2026-07-08T22:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/brown-howler-monkeys-r-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T23:16:02Z"
-    },
-    {
-      "title": "Decoding of one of nature's largest enzymes reveals electron flow behind biological methane production",
-      "link": "https://phys.org/news/2026-07-decoding-nature-largest-enzymes-reveals.html",
-      "summary": "A research team at Marburg University has investigated one of the largest enzyme complexes found in nature to date and deciphered its remarkable structure. Under the supervision of",
-      "date": "2026-07-08T21:40:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-decode-one.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T23:16:02Z"
     }
   ]
 }
