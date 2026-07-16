@@ -1,8 +1,107 @@
 {
-  "updated": "2026-07-16T11:46:15Z",
-  "updated_utc": "2026-07-16T11:46:15Z",
+  "updated": "2026-07-16T14:10:23Z",
+  "updated_utc": "2026-07-16T14:10:23Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Squirrel Lifespan: How Long Do Squirrels Live?",
+      "link": "https://www.birdsandblooms.com/gardening/backyard-wildlife/how-long-squirrels-live/",
+      "summary": "You see them often, but how long are you seeing the same squirrels? Find out how long squirrels live, and what affects a squirrel's lifespan. The post Squirrel Lifespan: How Long D",
+      "date": "2026-07-08T15:13:49Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/GettyImages-1928401854-e1783439696569.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-07-16T14:10:03Z"
+    },
+    {
+      "title": "Is Picking Up and Saving a Bird Feather Illegal?",
+      "link": "https://www.birdsandblooms.com/birding/birding-basics/illegal-picking-up-bird-feather/",
+      "summary": "Can you pick up a bird feather you found on the trail and bring it home? In most cases, no — and there could be legal consequences if you do. The post Is Picking Up and Saving a Bi",
+      "date": "2026-07-08T14:26:27Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/GettyImages-1409055564-e1783519083481.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-07-16T14:10:03Z"
+    },
+    {
+      "title": "Genes offer new clues to stopping Huntington’s disease in its tracks",
+      "link": "https://www.sciencenews.org/article/genes-huntingtons-therapy-expansion",
+      "summary": "A new generation of therapies aims to intervene at a recently discovered gap between the disease’s molecular march and its neurological consequences.",
+      "date": "Thu, 16 Jul 2026 14Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/0826_huntingtons_feat.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-16T14:10:16Z"
+    },
+    {
+      "title": "An ancient Maya astronomer finally has a name",
+      "link": "https://www.sciencenews.org/article/ancient-maya-astronomer-name-sak-tahn-waax",
+      "summary": "A Maya calendar formula bears the name Sak Tahn Waax, the first known Classic Maya mathematician-astronomer directly credited for such work.",
+      "date": "Thu, 16 Jul 2026 12Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/071326_TM_maya-astronomer_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-16T14:10:16Z"
+    },
+    {
+      "title": "Cave-dwelling snail discovered in Greece, named after Hermes and the nymph who nurtured him",
+      "link": "https://phys.org/news/2026-07-cave-snail-greece-hermes-nymph.html",
+      "summary": "A team of researchers from the National and Kapodistrian University of Athens has discovered a completely new genus and species of subterranean freshwater snail in the Peloponnese ",
+      "date": "2026-07-16T13:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cave-dwelling-snail-di.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-16T14:10:19Z"
+    },
+    {
+      "title": "Rare Australian wattle is on the brink of extinction",
+      "link": "https://phys.org/news/2026-07-rare-australian-wattle-brink-extinction.html",
+      "summary": "The spidery wattle (Acacia araneosa) is a national treasure. The plant is named for its spidery, leaflike phyllodes and shares the same iconic golden flowers as Australia's floral ",
+      "date": "2026-07-16T13:20:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/this-rare-australian-w.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-16T14:10:19Z"
+    },
+    {
+      "title": "Natural peptide switches from calmodulin to the cancer-associated protein midkine depending on the ion environment",
+      "link": "https://phys.org/news/2026-07-natural-peptide-calmodulin-cancer-protein.html",
+      "summary": "Proteins regulate a wide range of biological processes inside and outside cells by binding to specific molecular partners. In recent years, short peptides that can selectively reco",
+      "date": "2026-07-16T12:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/saitama-university-res-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-16T14:10:19Z"
+    },
+    {
+      "title": "Genetic databases as the key to global benefit-sharing",
+      "link": "https://phys.org/news/2026-07-genetic-databases-key-global-benefit.html",
+      "summary": "An international research team led by the Science Policy and Internationalization Department at the Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures has",
+      "date": "2026-07-16T12:20:09Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genetic-databases-as-t.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-16T14:10:19Z"
+    },
+    {
+      "title": "Tiny gene edit cuts cadmium in rice by 48% without reducing yields",
+      "link": "https://phys.org/news/2026-07-tiny-gene-cadmium-rice-yields.html",
+      "summary": "Cadmium (Cd) contamination poses a serious threat to global food safety. As a toxic and carcinogenic heavy metal, cadmium can accumulate in agricultural soils through industrializa",
+      "date": "2026-07-16T12:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rice-field.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-16T14:10:19Z"
+    },
     {
       "title": "Five Birds That Look Like Dinosaurs",
       "link": "https://www.10000birds.com/five-birds-that-look-like-dinosaurs.htm?utm_source=rss&utm_medium=rss&utm_campaign=five-birds-that-look-like-dinosaurs",
@@ -5403,105 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-07-08T17:45:37Z"
-    },
-    {
-      "title": "Is the state of nature fair? Researchers measure how biomass is distributed in microbial communities",
-      "link": "https://phys.org/news/2026-07-state-nature-fair-biomass-microbial.html",
-      "summary": "The distribution of income and growing inequality are central themes in public debate. Far less attention has been paid to how resources are distributed in ecological communities, ",
-      "date": "2026-07-08T17:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/is-the-state-of-nature.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T17:45:40Z"
-    },
-    {
-      "title": "What powers the Everglades? Study tracks how algae and plant matter fuel the food web",
-      "link": "https://phys.org/news/2026-07-powers-everglades-tracks-algae-fuel.html",
-      "summary": "Scientists thought dead plant material was primarily powering the Everglades. Algae says not so fast.",
-      "date": "2026-07-08T17:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-powers-the-evergl-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T17:45:40Z"
-    },
-    {
-      "title": "Traveling protein waves reveal how dividing cells set chromosome-splitting spindle size",
-      "link": "https://phys.org/news/2026-07-protein-reveal-cells-chromosome-spindle.html",
-      "summary": "When a human cell prepares to split into two daughter cells, it must first construct a tiny internal machine called the mitotic spindle—a structure of protein fibers that physicall",
-      "date": "2026-07-08T17:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-rhythm-that-guides.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T17:45:40Z"
-    },
-    {
-      "title": "How cells keep genomic hitchhikers under control",
-      "link": "https://phys.org/news/2026-07-cells-genomic-hitchhikers.html",
-      "summary": "Much of the genome is made up of repetitive DNA sequences that trace back to ancient mobile elements, many of which have lost their ability to copy themselves into new locations bu",
-      "date": "2026-07-08T16:40:10Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-cells-keep-genomic.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T17:45:40Z"
-    },
-    {
-      "title": "Making the 'invisible' visible: How high-speed movies could change the way scientists study disease",
-      "link": "https://phys.org/news/2026-07-invisible-visible-high-movies-scientists.html",
-      "summary": "High-speed movies of microscopic worms may sound like a dull night at the cinema, but this advanced imaging capability could help scientists better understand how diseases begin an",
-      "date": "2026-07-08T16:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/making-the-invisible-v-8.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T17:45:40Z"
-    },
-    {
-      "title": "Tiny 60,000-neuron ant brains reveal how parental care evolved from feeding circuits",
-      "link": "https://phys.org/news/2026-07-tiny-neuron-ant-brains-reveal.html",
-      "summary": "Long before the dawn of modern parenting, animals laid eggs and moved on, leaving their progeny to fend for themselves. Now, a study published in Nature uncovers one of the elegant",
-      "date": "2026-07-08T16:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-may-have-d-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T17:45:40Z"
-    },
-    {
-      "title": "A hotter climate may lead to more same-sex mounting in corpse-eating beetles",
-      "link": "https://phys.org/news/2026-07-hotter-climate-sex-mounting-corpse.html",
-      "summary": "New research suggests that heat stress increases the occurrence of same-sex sexual interactions between male burying beetles—but also that a surprising number of male–male encounte",
-      "date": "2026-07-08T16:00:13Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/does-a-hotter-climate.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T17:45:40Z"
-    },
-    {
-      "title": "In time but out of tune: Exploring the rapid evolution of Hawaii's songless crickets",
-      "link": "https://phys.org/news/2026-07-tune-exploring-rapid-evolution-hawaii.html",
-      "summary": "New research finds that the \"silent\" mutant male crickets of Hawaii, first observed more than 20 years ago, have now become well established across the Hawaiian islands, and that t",
-      "date": "2026-07-08T16:00:11Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/in-time-but-out-of-tun.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T17:45:40Z"
-    },
-    {
-      "title": "Ocean acidification may be shrinking the brains of the world's most intelligent invertebrates",
-      "link": "https://phys.org/news/2026-07-ocean-acidification-brains-world-intelligent.html",
-      "summary": "An ongoing research project exploring the effects of rising levels of oceanic CO2 on squid neurology reveals that exposure to future levels of ocean acidification could shrink thei",
-      "date": "2026-07-08T16:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ocean-acidification-ma-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T17:45:40Z"
     }
   ]
 }
