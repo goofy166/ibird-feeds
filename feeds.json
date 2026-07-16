@@ -1,8 +1,30 @@
 {
-  "updated": "2026-07-16T03:22:05Z",
-  "updated_utc": "2026-07-16T03:22:05Z",
+  "updated": "2026-07-16T06:25:58Z",
+  "updated_utc": "2026-07-16T06:25:58Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How birds are coping in the heatwave",
+      "link": "https://www.theguardian.com/news/2026/jul/16/how-birds-are-coping-in-the-heatwave",
+      "summary": "Birds are unable to sweat but they keep cool by seeking shade and bathing As we humans sweltered in the record-breaking late June heatwave, we might not have spared much thought on",
+      "date": "2026-07-16T05:00:16Z",
+      "image": "https://i.guim.co.uk/img/media/e777602253e36d9fe2a1dade6bdbe19b581f62d8/375_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=dc25c57f9a62319d4561ec927b3d53a6",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-16T06:25:43Z"
+    },
+    {
+      "title": "Country diary: From the beech trees of home to the hot Surrey Hills | Virginia Spiers",
+      "link": "https://www.theguardian.com/environment/2026/jul/16/country-diary-from-the-beech-trees-of-home-to-the-hot-surrey-hills",
+      "summary": "St Dominic, Cornwall, to Reigate: Along the way, this nervous passenger passes rolling downlands of cereals, Stonehenge, and of course, lorries loaded up with straw At the start of",
+      "date": "2026-07-16T04:30:14Z",
+      "image": "https://i.guim.co.uk/img/media/29c467270fa590260fe7512d1c8a2f008a2211da/361_0_7524_6022/master/7524.jpg?width=140&quality=85&auto=format&fit=max&s=17a3a9f798d5a3508384e70fde572163",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-16T06:25:43Z"
+    },
     {
       "title": "Drug discovery Is changing. Drug development must change too.",
       "link": "https://www.newscientist.com/article/2579721-drug-discovery-is-changing/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-08T15:27:34Z"
-    },
-    {
-      "title": "The Northern Gannets of Bonaventure Island",
-      "link": "https://www.10000birds.com/the-northern-gannets-of-bonaventure-island.htm?utm_source=rss&utm_medium=rss&utm_campaign=the-northern-gannets-of-bonaventure-island",
-      "summary": "On our recent trip to the Gaspé Peninsula and Percé in Quebec, it took two attempts to see the breeding seabirds of Bonaventure Island. Our first boat excursion was cancelled due t",
-      "date": "2026-07-08T11:00:22Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/Northern_gannet_colony_-_Bonaventure_Island_National_Park_-_Eastern_Canada-jpg-scaled.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-07-08T12:25:50Z"
-    },
-    {
-      "title": "Ask a Bird Guide: In your area, what is the general attitude toward birds among local people?",
-      "link": "https://www.10000birds.com/ask-a-bird-guide-in-your-area-what-is-the-general-attitude-toward-birds-among-local-people.htm?utm_source=rss&utm_medium=rss&utm_campaign=ask-a-bird-guide-in-your-area-what-is-the-general-attitude-toward-birds-among-local-people",
-      "summary": "We sent out another list of questions to bird guides who have already been profiled on 10,000 Birds. In the ninth edition of this second series, we ask In your area, what is the ge",
-      "date": "2026-07-08T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/05/Eastern-Buzzard_DSC4660-Nanhui-Nov-2017.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-07-08T12:25:50Z"
     }
   ]
 }
