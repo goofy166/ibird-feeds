@@ -1,8 +1,173 @@
 {
-  "updated": "2026-07-16T16:23:11Z",
-  "updated_utc": "2026-07-16T16:23:11Z",
+  "updated": "2026-07-16T18:12:01Z",
+  "updated_utc": "2026-07-16T18:12:01Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How Do Birds Keep Cool in Hot Weather?",
+      "link": "https://www.birdsandblooms.com/birding/birding-basics/how-birds-keep-cool-hot-weather/",
+      "summary": "Birds don’t sweat in hot weather, but they do keep cool in some ways that we do—afternoon nap, anyone? See more bird tricks to beat the heat. The post How Do Birds Keep Cool in Hot",
+      "date": "Tue, 30 Jun 2026 18Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/277196372_1_Jean_Sullivan_BNB_BYPC_2021-e1782841433533.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-07-16T18:11:39Z"
+    },
+    {
+      "title": "Back-to-back humpback whale strandings reported on Northern California beaches",
+      "link": "https://www.mercurynews.com/2026/07/16/back-to-back-humpback-whale-strandings-reported-on-humboldt-county-beaches/",
+      "summary": "Two humpback whales that washed ashore on Humboldt County beaches within the past week were too decomposed for investigators to determine how they died",
+      "date": "Thu, 16 Jul 2026 16Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/California_Whale_Dies_66896.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-07-16T18:11:48Z"
+    },
+    {
+      "title": "REI Quietly Discounted Its Best Travel Gear up to 50 Percent Off",
+      "link": "https://www.outsideonline.com/outdoor-gear/tools/summer-travel-gear-deals-rei/",
+      "summary": "As peak summer travel season heats up, finding quality gear on sale is rare. We found the best secret discounts on backpacks, duffels, and packing cubes to make your next trip easi",
+      "date": "Thu, 16 Jul 2026 17Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/rei-summer-travel-gear-sale.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-16T18:11:50Z"
+    },
+    {
+      "title": "Why Smooth Is the New Fast",
+      "link": "https://www.outsideonline.com/outdoor-gear/run/why-smooth-is-the-new-fast/",
+      "summary": "With the HOKA Clifton 11, a perennial favorite gets better than ever The post Why Smooth Is the New Fast appeared first on Outside Online .",
+      "date": "Thu, 16 Jul 2026 16Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/HOKA_F26_CLIFTON11_DUAL_PARK_HILL_4288_RGB-Ale-Duque-scaled.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-16T18:11:50Z"
+    },
+    {
+      "title": "Thousands of Intimate Photographs Reveal the Everyday Lives of the Romanovs, Russia's Last Imperial Family",
+      "link": "https://www.smithsonianmag.com/history/thousands-intimate-photographs-reveal-the-everyday-lives-the-romanovs-russias-last-imperial-family-180989126/",
+      "summary": "The Bolsheviks executed the last czar, Nicholas II, and the rest of his family, including his famous daughter Anastasia, 108 years ago. Surviving snapshots open a portal into the r",
+      "date": "Thu, 16 Jul 2026 16Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/4J4UCba1MIbizWDrcdxwPCBxATw=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8d/ad/8dad55dd-6089-4211-a179-dc51f45ad2b5/anastasia-tennis.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-16T18:11:52Z"
+    },
+    {
+      "title": "This “exotic weirdo” exoplanet has a rocky surface and an atmosphere",
+      "link": "https://www.sciencenews.org/article/rocky-exoplanet-helium-atmosphere",
+      "summary": "Astronomers found a helium atmosphere around a rocky exoplanet — a good sign for the search for life outside the solar system.",
+      "date": "Thu, 16 Jul 2026 18Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/071526_LG_helium-atmosphere_feat.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-16T18:11:53Z"
+    },
+    {
+      "title": "Restoring ability to remove zombie cells may keep us sharp as we age",
+      "link": "https://www.newscientist.com/article/2580031-restoring-ability-to-remove-zombie-cells-may-keep-us-sharp-as-we-age/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Zombie, or senescent, cells accumulate in our body with age, when we become less able to clear them. But a study in mice suggests that a drug could restore this ability and improve",
+      "date": "Thu, 16 Jul 2026 18Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305433656.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-16T18:11:54Z"
+    },
+    {
+      "title": "Neurostimulation restores feeling in paralysed hand for months after",
+      "link": "https://www.newscientist.com/article/2580028-neurostimulation-restores-feeling-in-paralysed-hand-for-months-after/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Keith Thomas, 48, has paralysis, but brain stimulation helped him regained some feeling and movement in his hands – and this was maintained even when the stimulation was turned off",
+      "date": "Thu, 16 Jul 2026 17Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_270217370.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-16T18:11:54Z"
+    },
+    {
+      "title": "We’ve found a rocky, temperate planet’s atmosphere for the first time",
+      "link": "https://www.newscientist.com/article/2579909-weve-found-a-rocky-temperate-planets-atmosphere-for-the-first-time/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Astronomers have only previously found atmospheres around exoplanets that are very large or incredibly hot – but now they have found one adorning a world that may well be right for",
+      "date": "Thu, 16 Jul 2026 17Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305397858.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-16T18:11:54Z"
+    },
+    {
+      "title": "Disrupting single enzyme gene in herb red perilla produces green plants with enriched health-promoting molecules",
+      "link": "https://phys.org/news/2026-07-disrupting-enzyme-gene-herb-red.html",
+      "summary": "Hiroshima University researchers have used genome editing to transform red perilla into a green look-alike and simultaneously restructured the plant's chemistry to boost levels of ",
+      "date": "2026-07-16T18:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reinventing-perilla-ge.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-16T18:11:57Z"
+    },
+    {
+      "title": "Pump that recreates human heartbeat blood flow on lab chips inspired by an accordionist",
+      "link": "https://phys.org/news/2026-07-recreates-human-heartbeat-blood-lab.html",
+      "summary": "For more than 25 years, lab-on-a-chip technology has allowed researchers to model human organs and blood vessels using real human cells in artificial microscopic environments. Thes",
+      "date": "2026-07-16T17:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/25-year-disease-modeli.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-16T18:11:57Z"
+    },
+    {
+      "title": "Cellular transporter protein essential for nutrient absorption in pathogenic fungi may offer new treatment approaches",
+      "link": "https://phys.org/news/2026-07-cellular-protein-essential-nutrient-absorption.html",
+      "summary": "They are the cell's \"gatekeepers\": specialized proteins, known as transporters, selectively control which substances enter a cell and which do not. Researchers at the University of",
+      "date": "2026-07-16T16:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cellular-transporter-p.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-16T18:11:57Z"
+    },
+    {
+      "title": "Thousands of liberated Africans died on a remote island after the British Navy freed them. We now know where they came from.",
+      "link": "https://www.livescience.com/archaeology/thousands-of-liberated-africans-died-on-a-remote-island-after-the-british-navy-freed-them-we-now-know-where-they-came-from",
+      "summary": "Thousands of enslaved Africans were liberated from slave ships and died on the island of St. Helena around 200 years ago. A new chemical analysis has revealed their tragic stories.",
+      "date": "Thu, 16 Jul 2026 18Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/E4eo28TsBKSWLve7Siibxm-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-16T18:11:58Z"
+    },
+    {
+      "title": "Oops! Ancient Bronze Age shaman long assumed to be a man was actually a woman, DNA reveals",
+      "link": "https://www.livescience.com/archaeology/oops-ancient-bronze-age-shaman-long-assumed-to-be-a-man-was-actually-a-woman-dna-reveals",
+      "summary": "A DNA analysis of a 4,000-year-old skeleton buried with an elaborate metalworking tool kit near Stonehenge has revealed that the individual, long assumed to be a male shaman, was a",
+      "date": "Thu, 16 Jul 2026 17Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZC2AXaERkCY3LZaQe8Dy8G-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-16T18:11:58Z"
+    },
+    {
+      "title": "'This was one of the most arduous expeditions I've ever done': Scientists confirm that 15-mile-wide pit found on Google Maps is ancient meteor crater",
+      "link": "https://www.livescience.com/planet-earth/geology/this-was-one-of-the-most-arduous-expeditions-ive-ever-done-scientists-confirm-that-15-mile-wide-pit-found-on-google-maps-is-ancient-meteor-crater",
+      "summary": "Joël Lapointe was using Google Maps to plan a camping trail through Quebec's Côte-Nord region when he stumbled across a large indentation. Now, scientists have confirmed that the p",
+      "date": "Thu, 16 Jul 2026 16Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/vjyuQ8A6V6XvUcphnBW5EP-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-16T18:11:58Z"
+    },
     {
       "title": "Should We Keep the Most Affordable Mountain Towns a Secret? Our Columnist Weighs In.",
       "link": "https://www.outsideonline.com/adventure-travel/advice/affordable-mountain-towns-gatekeeping-debate/",
@@ -5337,171 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-08T23:16:02Z"
-    },
-    {
-      "title": "Europe risks a pollinator crisis, researchers warn",
-      "link": "https://phys.org/news/2026-07-europe-pollinator-crisis.html",
-      "summary": "Europe risks a severe crisis if the decline of wild pollinators continues. This is the key message of a new white paper prepared by 135 researchers from eight research consortia, i",
-      "date": "2026-07-08T21:20:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/eu-researchers-warn-eu.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-07-08T23:16:02Z"
-    },
-    {
-      "title": "100,000 years ago, one of the earliest Homo sapiens outside Africa was stabbed in the face, analysis finds",
-      "link": "https://www.livescience.com/archaeology/human-evolution/100-000-years-ago-one-of-the-earliest-homo-sapiens-outside-africa-was-stabbed-in-the-face-analysis-finds",
-      "summary": "A microscopic analysis of the skull of Qafzeh 25 revealed a cut mark likely made by a stone tool 100,000 years ago.",
-      "date": "2026-07-08T21:38:54Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/XBUYRVqQrtneXvRUkStDWc-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-08T23:16:04Z"
-    },
-    {
-      "title": "The City of Boston Discovered One of the Oldest Known Gravestones of a Free Black American, Who Shared a Name With the Massachusetts Capital",
-      "link": "https://www.smithsonianmag.com/smart-news/the-city-of-boston-discovered-one-of-the-oldest-known-gravestones-of-a-free-black-american-who-shared-a-name-with-the-massachusetts-capital-180989088/",
-      "summary": "Also known as Sebastian, he died in 1729 and is buried alongside Samuel Adams, John Hancock and Paul Revere. His life tells a story of slavery and freedom in the North before the A",
-      "date": "2026-07-08T20:56:06Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/sXfoCE8mj4TzYut3hMgNKQqn_8c=/420x240/filters:focal(2586x1699:2587x1700)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1c/28/1c28233b-9560-4b0f-a27e-5308bc455605/usa-granary_burying_ground0.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-08T21:16:19Z"
-    },
-    {
-      "title": "Dynamic population breeding improves turquoise killifish husbandry",
-      "link": "https://phys.org/news/2026-07-dynamic-population-turquoise-killifish-husbandry.html",
-      "summary": "Originally from southeastern Africa, the turquoise killifish (Nothobranchius furzeri) lives in seasonal bodies of water that form during the rainy season and disappear again during",
-      "date": "2026-07-08T21:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dynamic-population-bre.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T21:16:23Z"
-    },
-    {
-      "title": "The language of play: Hyenas use facial expressions and vocalizations to de-escalate",
-      "link": "https://phys.org/news/2026-07-language-play-hyenas-facial-vocalizations.html",
-      "summary": "Scientists observed spotted hyenas (Crocuta crocuta) playing in the wild and found that their precise, sophisticated communication is on par with that of many primate species. Hyen",
-      "date": "2026-07-08T20:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-language-of-play-h.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T21:16:23Z"
-    },
-    {
-      "title": "New CRISPR method makes it possible to control protein production in cells",
-      "link": "https://phys.org/news/2026-07-crispr-method-protein-production-cells.html",
-      "summary": "The speed at which a cell produces proteins is a decisive factor in determining whether it divides, specializes or retains its stem cell properties. A team of researchers led by Pr",
-      "date": "2026-07-08T20:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/crispr.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T21:16:23Z"
-    },
-    {
-      "title": "The Best Way to Keep Algae Out of Your Birdbath",
-      "link": "https://www.birdsandblooms.com/birding/attracting-birds/prevent-algae-birdbath/",
-      "summary": "Frustrated trying to prevent algae growth in your birdbath water? Get expert tips on the only solution that works and is safe for the birds. The post The Best Way to Keep Algae Out",
-      "date": "Tue, 30 Jun 2026 19Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/251557104_1_Samantha_Beebe_BNB_BYPC2020-e1782847894856.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-07-08T19:44:56Z"
-    },
-    {
-      "title": "'Like an Explosion in a Glass Factory': Frank Gehry's Seven-Ton 'Icehenge' Desk That Once Graced a Skyscraper Lobby Is Up for Auction",
-      "link": "https://www.smithsonianmag.com/smart-news/like-an-explosion-in-a-glass-factory-frank-gehrys-seven-ton-icehenge-desk-that-once-graced-a-skyscraper-is-up-for-auction-180989087/",
-      "summary": "Designed for the Inland Steel Building in Chicago, the desk is made from more than a dozen blocks of jagged, green-tinted glass",
-      "date": "2026-07-08T18:23:36Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/qGOLtpGylcE6acLhpW_TvaR9Bm0=/420x240/filters:focal(400x267:401x268)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c2/ce/c2ce0048-3318-4f9f-8b0f-1f95cc43dff7/medium_380264-1_4.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-08T19:45:08Z"
-    },
-    {
-      "title": "Can geoengineering blunt El Niño’s fury?",
-      "link": "https://www.sciencenews.org/article/geoengineering-el-nino-extremes",
-      "summary": "Marine cloud brightening could cool part of the Pacific and weaken extreme El Niños, simulations suggest. But the approach could have risks.",
-      "date": "2026-07-08T18:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/070826_CG_ElNino_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-08T19:45:09Z"
-    },
-    {
-      "title": "Seeding clouds with seawater could prevent a super El Niño",
-      "link": "https://www.newscientist.com/article/2533348-seeding-clouds-with-seawater-could-prevent-a-super-el-nino/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A modelling study suggests marine cloud brightening could shade the eastern Pacific and reduce a global temperature spike from El Niño, but there could be unexpected consequences",
-      "date": "2026-07-08T19:00:00Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/07164331/SEI_304395090.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-08T19:45:10Z"
-    },
-    {
-      "title": "Our fertility window could be extended by making ovaries softer",
-      "link": "https://www.newscientist.com/article/2533507-our-fertility-window-could-be-extended-by-making-ovaries-softer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A drug that softens the ovaries helped mice and rats conceive more easily at an older age, and produce more pups",
-      "date": "2026-07-08T17:00:42Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/08141254/SEI_304241699.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-08T19:45:10Z"
-    },
-    {
-      "title": "Occam’s razor has lost its edge. Can we sharpen our search for truth?",
-      "link": "https://www.newscientist.com/article/2531862-occams-razor-has-lost-its-edge-can-we-sharpen-our-search-for-truth/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Seeking out the simplest, most elegant explanations has served scientists well for centuries, but cognitive scientist Marina Dubova’s experiments are revealing better ways to uncov",
-      "date": "2026-07-08T16:00:29Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25195753/SEI_302860476.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-08T19:45:10Z"
-    },
-    {
-      "title": "Caddisfly silk gene evolves quickly without losing adhesive power",
-      "link": "https://phys.org/news/2026-07-caddisfly-silk-gene-evolves-quickly.html",
-      "summary": "Caddisflies are among nature's master underwater builders, capable of spinning sticky silk that they use to form protective cases and webs in freshwater streams. Scientists like th",
-      "date": "2026-07-08T19:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/caddisfly-silk-gene-ev-3.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T19:45:12Z"
-    },
-    {
-      "title": "Fertilizers carry a hidden cost for soil's crucial microbes. Using less might pay off for farms in unexpected ways",
-      "link": "https://phys.org/news/2026-07-fertilizers-hidden-soil-crucial-microbes.html",
-      "summary": "Across North America, in places such as Illinois, Iowa and Texas, farmers are busy growing the crops the world depends on for food, fuel and fiber.",
-      "date": "2026-07-08T19:20:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fertilizer.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T19:45:12Z"
-    },
-    {
-      "title": "Maize-fed animals may have helped Maya farmers solve corn's protein deficiency",
-      "link": "https://phys.org/news/2026-07-maize-fed-animals-maya-farmers.html",
-      "summary": "Maize (corn) is a major dietary staple in Maya communities past and present because of its reliability, potential for surplus, and suitability as both food and fodder. It became so",
-      "date": "2026-07-08T19:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unm-doctoral-student-l-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-08T19:45:12Z"
     }
   ]
 }
