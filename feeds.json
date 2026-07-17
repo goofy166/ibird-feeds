@@ -1,8 +1,96 @@
 {
-  "updated": "2026-07-17T14:48:53Z",
-  "updated_utc": "2026-07-17T14:48:53Z",
+  "updated": "2026-07-17T16:20:56Z",
+  "updated_utc": "2026-07-17T16:20:56Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A Swift summer",
+      "link": "https://www.10000birds.com/a-swift-summer.htm?utm_source=rss&utm_medium=rss&utm_campaign=a-swift-summer",
+      "summary": "Quite how good this breeding season has been for our Swifts is debatable",
+      "date": "2026-07-17T15:59:00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/P6271745-1-scaled.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-07-17T16:20:34Z"
+    },
+    {
+      "title": "No, SpudCells aren’t alive. But they’re a step toward the first synthetic life",
+      "link": "https://www.sciencenews.org/article/spudcells-synthetic-life-lab-made-cell",
+      "summary": "The lab-made cells open a window into what’s possible for synthetic life, researchers say.",
+      "date": "2026-07-17T16:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/071425_ts_spudcell_main_still.png?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-17T16:20:49Z"
+    },
+    {
+      "title": "Researchers identify 'dimmer switch' for plants' immune system",
+      "link": "https://phys.org/news/2026-07-dimmer-immune.html",
+      "summary": "As sulfur becomes increasingly scarce in soils worldwide, scientists are studying how plants decide whether to invest limited resources in growth or defense.",
+      "date": "2026-07-17T16:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-identify-d.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-17T16:20:52Z"
+    },
+    {
+      "title": "New study defines conditions for successful long-term biodiversity net gain",
+      "link": "https://phys.org/news/2026-07-conditions-successful-term-biodiversity-net.html",
+      "summary": "A new study identifying the ecological conditions needed for biodiversity offsetting to achieve conservation goals could provide important guidance for governments and industries a",
+      "date": "2026-07-17T16:10:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-defines-cond.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-17T16:20:52Z"
+    },
+    {
+      "title": "Reptile fossil found in Brazil helps shed light on the common origins of dinosaurs and crocodiles",
+      "link": "https://phys.org/news/2026-07-reptile-fossil-brazil-common-dinosaurs.html",
+      "summary": "Long before dinosaurs ruled the continents and modern crocodiles first appeared, their ancestors were already going through a decisive phase in their evolutionary history. It was i",
+      "date": "2026-07-17T16:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reptile-fossil-found-i.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-17T16:20:52Z"
+    },
+    {
+      "title": "'These are striking forecasts': Super El Niño keeps getting even more likely, and it could bring a humanitarian crisis",
+      "link": "https://www.livescience.com/planet-earth/weather/these-are-striking-forecasts-super-el-nino-keeps-getting-even-more-likely-and-it-could-bring-a-humanitarian-crisis",
+      "summary": "Forecasts point to the ongoing El Niño rapidly strengthening to a likely all-time record in the coming months, fueling temperature rises and extreme weather.",
+      "date": "2026-07-17T15:56:26Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/adAQSuJbRjeiED6tKCY6UC-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-17T16:20:53Z"
+    },
+    {
+      "title": "'Explosive diarrhea' parasite infections in 5 states linked to Taco Bell lettuce; other cases still under investigation",
+      "link": "https://www.livescience.com/health/viruses-infections-disease/explosive-diarrhea-parasite-infections-in-5-states-linked-to-taco-bell-lettuce-other-cases-still-under-investigation",
+      "summary": "Lettuce served at Taco Bell has been identified as a source of Cyclospora infections affecting people across five states.",
+      "date": "2026-07-17T15:48:36Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/PNio36uuhfVrNzwhJZftFW-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-17T16:20:53Z"
+    },
+    {
+      "title": "'Shared cosmic experience': 'Potentially hazardous' asteroid Apophis could be visible to 90% of Earth's population during ultraclose 2029 flyby, new maps reveal",
+      "link": "https://www.livescience.com/space/asteroids/shared-cosmic-experience-potentially-hazardous-asteroid-apophis-could-be-visible-to-90-percent-of-earths-population-during-ultraclose-2029-flyby-new-maps-reveal",
+      "summary": "Researchers predict that up to 7.6 billion people will be able to see the potentially hazardous asteroid Apophis fly past Earth on April 13, 2029. The skyscraper-size space rock wi",
+      "date": "2026-07-17T14:47:06Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/SPKRo4dWa5xKUuQYN5s7SR-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-17T16:20:53Z"
+    },
     {
       "title": "Biodiversity fears as human-bred hybrid fish integrate into Philippines lake",
       "link": "https://www.theguardian.com/environment/2026/jul/17/biodiversity-fears-flowerhorn-cichlids-philippines-lake",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-07-09T18:03:54Z"
-    },
-    {
-      "title": "Mathematics of thermodynamics is being rewritten after 200 years",
-      "link": "https://www.newscientist.com/article/2533428-mathematics-of-thermodynamics-is-being-rewritten-after-200-years/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "The laws of physics that concern heat and work could gain a firmer mathematical footing thanks to “gauge theory”, which already helps us understand quantum fields",
-      "date": "Thu, 09 Jul 2026 15Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/08225705/SEI_304523689.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-09T18:03:56Z"
-    },
-    {
-      "title": "Injection halves risk of chromosome error common in older human eggs",
-      "link": "https://www.newscientist.com/article/2533616-injection-halves-risk-of-chromosome-error-common-in-older-human-eggs/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Egg cells missing a key protein may be more likely to end up with the wrong number of chromosomes, but an mRNA injection that helps the cells make the protein reduces the problem",
-      "date": "Thu, 09 Jul 2026 13Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/08183744/SEI_304526805.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-09T18:03:56Z"
-    },
-    {
-      "title": "Heat waves: Why British trees are shedding branches and dying",
-      "link": "https://phys.org/news/2026-07-british-trees-dying.html",
-      "summary": "If you visit the Royal Botanic Gardens at Kew, on the edge of London, you will see a brightly painted skeleton of a dead oak tree. The tree, known as the climate-changed oak, succu",
-      "date": "2026-07-09T18:00:22Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bare-tree.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-09T18:03:58Z"
-    },
-    {
-      "title": "Newly identified 'saprotropism' helps roots avoid decaying plant matter—but not animal decay",
-      "link": "https://phys.org/news/2026-07-newly-saprotropism-roots-decaying-animal.html",
-      "summary": "Decaying matter shapes life in soil, but it can also create hostile zones for growing roots. Professor Jiří Friml of the Institute of Science and Technology Austria (ISTA) and inte",
-      "date": "2026-07-09T18:00:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/roots-steer-clear-of-p-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-09T18:03:58Z"
-    },
-    {
-      "title": "Mouse found near 7,000 meters may rewrite limits of mammal survival",
-      "link": "https://phys.org/news/2026-07-uncover-mouse-survives-earth-harshest.html",
-      "summary": "A tiny mouse living nearly 7,000 meters (23,000 feet) above sea level in the Andes is helping scientists rethink the limits of life on Earth. The animal, a leaf-eared mouse, is the",
-      "date": "2026-07-09T18:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mouse-found-near-7000.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-09T18:03:58Z"
-    },
-    {
-      "title": "Study questions growing international trade in critically endangered sand tiger sharks",
-      "link": "https://phys.org/news/2026-07-international-critically-endangered-sand-tiger.html",
-      "summary": "In a new study led by University of Delaware researchers Aaron Carlisle and Ed Hale, researchers point to concerns in the international trade of sand tiger sharks, a critically end",
-      "date": "2026-07-09T17:00:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-questions-growin.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-09T18:03:58Z"
-    },
-    {
-      "title": "Seagrass meadows could help nourish millions, new study finds",
-      "link": "https://phys.org/news/2026-07-seagrass-meadows-nourish-millions.html",
-      "summary": "Seagrass meadows play a largely overlooked role in providing nutrition for coastal communities, a new study published in Cell Reports Sustainability has found. The research, led by",
-      "date": "2026-07-09T16:30:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seagrass-meadows-could.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-09T18:03:58Z"
-    },
-    {
-      "title": "Unraveling the glass-like nature of epithelial tissues",
-      "link": "https://phys.org/news/2026-07-unraveling-glass-nature-epithelial-tissues.html",
-      "summary": "In a new study, researchers at the Indian Institute of Science (IISc) have resolved a longstanding mystery by showing how epithelial tissues exhibit slow-moving, glass-like behavio",
-      "date": "2026-07-09T16:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unravelling-the-glass.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-09T18:03:58Z"
     }
   ]
 }
