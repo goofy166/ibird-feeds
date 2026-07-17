@@ -1,8 +1,30 @@
 {
-  "updated": "2026-07-17T18:11:27Z",
-  "updated_utc": "2026-07-17T18:11:27Z",
+  "updated": "2026-07-17T20:11:09Z",
+  "updated_utc": "2026-07-17T20:11:09Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Was There Ever an Original Version of 'The Odyssey,' and Do We Need to Worry About What Homer Would Think?",
+      "link": "https://www.smithsonianmag.com/history/was-there-ever-an-original-version-of-the-odyssey-and-do-we-need-to-worry-about-what-homer-would-think-180989143/",
+      "summary": "The earliest surviving fragments of the epic poem—the subject of Christopher Nolan's latest Hollywood blockbuster—date back more than 2,000 years. But oral storytelling about a her",
+      "date": "2026-07-17T18:40:24Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/dO7KNVAX7Y_GW7hI4xhBfL7TWr8=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/38/b1/38b1449a-6437-4ff8-bb93-d552fa88436d/odyssey.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-17T20:11:01Z"
+    },
+    {
+      "title": "This 19th-Century Diary Written by an Enslaved Maryland Man Is a Crucial Record of His Life and Family History—and the Only One of Its Kind Found in the United States",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/this-19th-century-diary-written-by-an-enslaved-maryland-man-is-a-crucial-record-of-his-life-and-family-historyand-the-only-one-of-its-kind-found-in-the-united-states-180989146/",
+      "summary": "Adam Francis Plummer’s chronicle is believed to be the country’s sole known example of a multigenerational journal begun by an enslaved person. It’s now on view at the Smithsonian’",
+      "date": "2026-07-17T18:30:12Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/iqyjGoTulx8klBj0fsuU4ucjX7w=/420x240/filters:focal(754x506:755x507)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/20/c9/20c91947-1fd2-4f9c-8e5e-12bde058310e/diary4.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-17T20:11:01Z"
+    },
     {
       "title": "Dermatologists Debunk All Those Sunscreen Rumors You’ve Seen on Social Media",
       "link": "https://www.outsideonline.com/health/wellness/sunscreen-myths-debunked/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-07-09T20:52:14Z"
-    },
-    {
-      "title": "Resuscitated human retinas respond to light 10 hours after death",
-      "link": "https://www.newscientist.com/article/2533673-resuscitated-human-retinas-respond-to-light-10-hours-after-death/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Perfusing donor human retinas with blood and oxygen meant they continued to respond to light for up to 10 hours after death, marking a significant step towards eye transplants that",
-      "date": "Thu, 09 Jul 2026 17Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/09110653/SEI_304522985.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-09T20:52:14Z"
-    },
-    {
-      "title": "Novel marine monitoring network could help improve environmental protections, shipping regulations",
-      "link": "https://phys.org/news/2026-07-marine-network-environmental-shipping.html",
-      "summary": "A single monitoring network developed by McGill, Natural Resources Canada, Université du Québec à Montréal (UQAM) and Dalhousie University researchers can simultaneously track eart",
-      "date": "2026-07-09T20:00:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/whale.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-09T20:52:15Z"
     }
   ]
 }
