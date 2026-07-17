@@ -1,8 +1,41 @@
 {
-  "updated": "2026-07-17T00:04:04Z",
-  "updated_utc": "2026-07-17T00:04:04Z",
+  "updated": "2026-07-17T04:13:26Z",
+  "updated_utc": "2026-07-17T04:13:26Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Ancient Egyptian princesses knew their way around weapons of war",
+      "link": "https://www.sciencenews.org/article/ancient-egyptian-princesses-weapons-war",
+      "summary": "Analysis of six mummies from ancient Egypt challenges the idea that the bows and daggers buried with some royal women were merely ceremonial.",
+      "date": "2026-07-17T04:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/071626_TM_egyptian-warrior-princesses_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-17T04:13:19Z"
+    },
+    {
+      "title": "Ancient Egyptian princesses buried with weapons may have been fighters",
+      "link": "https://www.newscientist.com/article/2579773-ancient-egyptian-princesses-buried-with-weapons-may-have-been-fighters/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "The mummified daughters of pharaohs who lived thousands of years ago have bone changes that suggest they fought with bows and daggers",
+      "date": "2026-07-17T04:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305407141.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-17T04:13:20Z"
+    },
+    {
+      "title": "Did ancient Egyptian princesses use weapons? Controversial study claims they hunted or trained with the military, but not all experts agree.",
+      "link": "https://www.livescience.com/archaeology/ancient-egyptians/did-ancient-egyptian-princesses-use-weapons-controversial-study-claims-they-hunted-or-trained-with-the-military-but-not-all-experts-agree",
+      "summary": "Nearly 4,000-year-old skeletal remains show that several royal women repeatedly used their upper-body muscles. Researchers link those changes to archery and weapon training, but ou",
+      "date": "2026-07-17T04:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZLiJzee29CeZYxjQCdSGQM-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-17T04:13:23Z"
+    },
     {
       "title": "The Best Budget, Mid-Priced, and Splurgey Camping Mattresses and Sleeping Pads",
       "link": "https://www.outsideonline.com/outdoor-gear/camping/budget-mid-splurge-sleeping-pads/",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-07-09T11:13:14Z"
-    },
-    {
-      "title": "Venomous snakes escape breeding farms in southern China during flooding",
-      "link": "https://www.theguardian.com/world/2026/jul/09/snakes-cobras-escape-breeding-farms-southern-china-flooding",
-      "summary": "Local media in Hengzhou report king ratsnakes and cobras among hundreds in flood waters caused by typhoon Maysak Hundreds of snakes, including cobras, have escaped from flooded bre",
-      "date": "2026-07-09T08:08:20Z",
-      "image": "https://i.guim.co.uk/img/media/fcfadc0ee4e241a84cdc35f28ea9715e95e7e87a/335_0_4801_3841/master/4801.jpg?width=140&quality=85&auto=format&fit=max&s=b26f7258b8e4d28ea66d3cfc30d7cd6d",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-09T11:13:14Z"
-    },
-    {
-      "title": "Corona Borealis, the Northern Crown, is overhead now",
-      "link": "https://earthsky.org/tonight/corona-borealis-the-northern-crown-2/",
-      "summary": "Corona Borealis, aka the Northern Crown, looks like the letter C. A dark sky is best for seeing this faint semicircle of stars. It's between Arcturus and Vega. The post Corona Bore",
-      "date": "Thu, 09 Jul 2026 09Z",
-      "image": "https://earthsky.org/upl/2016/06/corona-borealis-fred-espenak-e1466552389903.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-09T11:13:15Z"
-    },
-    {
-      "title": "Steve Pearce Just Took Over the BLM. We Asked Him What He Plans to Do to Our Public Lands.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/steve-pearce-interview/",
-      "summary": "Steve Pearce, a longtime veteran of the oil and gas industry, was recently named the director of the BLM. We asked Pearce how he plans to weight conservation and recreation against",
-      "date": "Thu, 09 Jul 2026 09Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/Steve2.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-09T11:13:20Z"
     }
   ]
 }
