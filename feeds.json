@@ -1,8 +1,41 @@
 {
-  "updated": "2026-07-16T22:09:00Z",
-  "updated_utc": "2026-07-16T22:09:00Z",
+  "updated": "2026-07-17T00:04:04Z",
+  "updated_utc": "2026-07-17T00:04:04Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Best Budget, Mid-Priced, and Splurgey Camping Mattresses and Sleeping Pads",
+      "link": "https://www.outsideonline.com/outdoor-gear/camping/budget-mid-splurge-sleeping-pads/",
+      "summary": "The difference between a miserable night in the woods and a restful one often comes down to a few inches of foam and air. Whether you’re hauling in a plush camping mattress or roll",
+      "date": "Thu, 16 Jul 2026 22Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/Untitled-design-2.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-17T00:03:54Z"
+    },
+    {
+      "title": "Researchers discover rare freshwater mussels in Moosup River",
+      "link": "https://phys.org/news/2026-07-rare-freshwater-mussels-moosup-river.html",
+      "summary": "When University of Rhode Island researchers slipped beneath the surface of the Moosup River recently, they did not expect to find a living freshwater mussel community. The discover",
+      "date": "2026-07-17T00:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uri-researchers-discov.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-17T00:04:01Z"
+    },
+    {
+      "title": "For biodiversity to thrive across Europe, laws should treat wildlife as individuals capable of suffering, experts argue",
+      "link": "https://phys.org/news/2026-07-biodiversity-europe-laws-wildlife-individuals.html",
+      "summary": "Wildlife protection frameworks in both the EU and the UK need stronger and more consistent implementation—and must recognize animals as \"individuals capable of experiencing sufferi",
+      "date": "2026-07-16T23:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wild-ponies.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-17T00:04:01Z"
+    },
     {
       "title": "How Does Wildfire Smoke Affect Birds?",
       "link": "https://www.birdsandblooms.com/birding/birding-basics/wildfire-smoke-birds/",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-07-09T11:13:20Z"
-    },
-    {
-      "title": "In Defense of a Little Loneliness: A Lesson From Self-Reliant Outdoorsman Dick Proenneke",
-      "link": "https://www.outsideonline.com/culture/essays-culture/male-loneliness-epidemic-solitude-outdoors/",
-      "summary": "After a divorce, I traveled to Alaska for healing and inspiration, following the footsteps of a legendary outdoorsman. What I discovered about the “male loneliness epidemic” wasn’t",
-      "date": "Thu, 09 Jul 2026 09Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/GettyImages-1178077557.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-09T11:13:20Z"
-    },
-    {
-      "title": "Uncovering the secrets of the basking shark's bizarre skin",
-      "link": "https://phys.org/news/2026-07-uncovering-secrets-basking-shark-bizarre.html",
-      "summary": "New research reveals the unusual shape, size and pattern of the dermal denticles that cover basking sharks—thought to be unique to this species. Researchers propose that the shape ",
-      "date": "2026-07-09T11:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/baskingshark.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-09T11:13:25Z"
-    },
-    {
-      "title": "Ancient fossil may reveal animal kingdom's earliest right-handedness at 550 million years old",
-      "link": "https://phys.org/news/2026-07-ancient-fossil-reveal-animal-kingdom.html",
-      "summary": "Scientists have uncovered what may be the earliest evidence of \"right-handedness\" in the animal kingdom, dating back more than half a billion years. The discovery comes from the fo",
-      "date": "2026-07-09T09:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fossil-reveals-the-ear.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-09T11:13:25Z"
     }
   ]
 }
