@@ -1,8 +1,173 @@
 {
-  "updated": "2026-07-17T12:15:53Z",
-  "updated_utc": "2026-07-17T12:15:53Z",
+  "updated": "2026-07-17T14:48:53Z",
+  "updated_utc": "2026-07-17T14:48:53Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Biodiversity fears as human-bred hybrid fish integrate into Philippines lake",
+      "link": "https://www.theguardian.com/environment/2026/jul/17/biodiversity-fears-flowerhorn-cichlids-philippines-lake",
+      "summary": "Escaped flowerhorn cichlids are causing concern for native species and about parasites capable of infecting humans Escaped ornamental aquarium fish have integrated into a local eco",
+      "date": "2026-07-17T14:00:31Z",
+      "image": "https://i.guim.co.uk/img/media/93a89474678a86ed946597a7aeb48c0c3c551743/406_0_4022_3217/master/4022.jpg?width=140&quality=85&auto=format&fit=max&s=0fc7ba732d7c827b8f8e88d6f62b29eb",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-17T14:48:34Z"
+    },
+    {
+      "title": "Meet the Orange-Lipped 'Likweli' Monkey, a New Species That Was Discovered in the Congo Rainforest",
+      "link": "https://www.smithsonianmag.com/smart-news/meet-the-orange-lipped-likweli-monkey-a-new-species-that-was-discovered-in-the-congo-rainforest-180989140/",
+      "summary": "The creatures, which weigh about the same as a small dog, have spiky black hair, orange-cream skin around their mouths and a white patch on their rear ends. Scientists say that the",
+      "date": "2026-07-17T14:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/Xe8gKtdZeRM8zzy_pYqop29tac0=/420x240/filters:focal(612x396:613x397)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/28/36/2836c35b-9e1f-4646-b86b-8544a0060ac5/ccongoensis.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-17T14:48:42Z"
+    },
+    {
+      "title": "These 16 Splendid Aerial Views Capture Wildlife From Above, Revealing the Beauty and Mystery of Nature",
+      "link": "https://www.smithsonianmag.com/smart-news/these-16-splendid-aerial-views-capture-wildlife-from-above-revealing-the-beauty-and-mystery-of-nature-180989141/",
+      "summary": "The second International Aerial Photographer of the Year contest selected its winners and 101 top images. Here’s a selection of the photos that spotlight animals from a new perspec",
+      "date": "2026-07-17T13:36:40Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/CGHa32eXrsbrbxnIfsDgjCwIoEo=/420x240/filters:focal(1177x1269:1178x1270)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/98/69/9869f609-2225-47ad-8fd3-d68aa66df7ab/67363_rhiannon_lawler_holding_on.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-17T14:48:42Z"
+    },
+    {
+      "title": "When a Cat Licks Another Cat, It's Not Always a Friendly Gesture. New Study Reveals They May Just Want Their Own Space",
+      "link": "https://www.smithsonianmag.com/smart-news/when-a-cat-licks-another-cat-its-not-always-friendly-new-study-reveals-180989136/",
+      "summary": "Classic feline behavior could be a passive-aggressive maneuver to get what they want.",
+      "date": "2026-07-17T12:59:56Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/RlBoSK8uif2caokSy66O9tNRFuA=/420x240/filters:focal(2453x1635:2454x1636)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4f/01/4f012102-b763-467e-bfb9-2214738dbefd/selective-focus-shot-cute-beautiful-gray-white-cats-having-fun-together.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-17T14:48:42Z"
+    },
+    {
+      "title": "Many universities hold seized human remains. What should they do with them?",
+      "link": "https://www.sciencenews.org/article/human-remains-ethics-fatimah-jackson",
+      "summary": "Biological anthropologist Fatimah Jackson is leading an effort to prevent history from repeating.",
+      "date": "2026-07-17T14:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/0826_unsung-jackson_feat.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-17T14:48:43Z"
+    },
+    {
+      "title": "Supplement that binds to microplastics may remove them from our body",
+      "link": "https://www.newscientist.com/article/2580139-supplement-that-binds-to-microplastics-may-remove-them-from-our-body/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "A supplement comprised of dead bacteria seems to remove microplastics, and prevent their absorption into cells, by attracting them to the bacteria's rough surfaces",
+      "date": "2026-07-17T13:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305399422.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-17T14:48:48Z"
+    },
+    {
+      "title": "Global soil protections deliver measurable gains for farmland health",
+      "link": "https://phys.org/news/2026-07-global-soil-gains-farmland-health.html",
+      "summary": "Erosion, salinization and shrinking numbers of organisms such as worms and beneficial fungi can have a devastating effect on soil fertility, and so many parts of the world have pas",
+      "date": "2026-07-17T14:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/agri-environmental-pol.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-17T14:48:50Z"
+    },
+    {
+      "title": "New method makes epigenetic aging clocks accurate and easier to interpret",
+      "link": "https://phys.org/news/2026-07-method-epigenetic-aging-clocks-accurate.html",
+      "summary": "Epigenetic clocks are important tools in modern aging research. Typically, they use characteristic DNA methylation patterns in the genome to precisely predict a person's age and in",
+      "date": "2026-07-17T14:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-black-box-of-epige.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-17T14:48:50Z"
+    },
+    {
+      "title": "Ticks that survive pesticides can withstand colder winters",
+      "link": "https://phys.org/news/2026-07-survive-pesticides-colder-winters.html",
+      "summary": "Ticks that survive less-than-lethal doses of pesticide are able to withstand dangerous cold, which could help them spread tick-borne diseases farther north, a UC study has found. B",
+      "date": "2026-07-17T14:00:14Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ticks-that-survive-pes.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-17T14:48:50Z"
+    },
+    {
+      "title": "How an influx of salt may affect microbial ecosystems in rivers, estuaries and coastal waters worldwide",
+      "link": "https://phys.org/news/2026-07-influx-salt-affect-microbial-ecosystems.html",
+      "summary": "As sea levels rise due to climate change, encroaching seawater will likely make freshwater environments saltier. In a new study, MIT researchers have shown how that increase in sal",
+      "date": "2026-07-17T14:00:12Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-an-influx-of-salt-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-17T14:48:50Z"
+    },
+    {
+      "title": "How human activities compromise coral health and resilience",
+      "link": "https://phys.org/news/2026-07-human-compromise-coral-health-resilience.html",
+      "summary": "Human activities are fundamentally altering the chemical makeup of coral reefs, according to a study led by the University of Hawai'i at Mānoa and published in Nature Communication",
+      "date": "2026-07-17T13:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hawaii-coral.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-17T14:48:50Z"
+    },
+    {
+      "title": "Water-exchange openings linked to distinct marine communities inside offshore wind foundations",
+      "link": "https://phys.org/news/2026-07-exchange-linked-distinct-marine-communities.html",
+      "summary": "Research carried out three years after installation at the Hollandse Kust Zuid offshore wind farm in the North Sea has found that distinct marine communities have developed inside ",
+      "date": "2026-07-17T13:28:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/water-exchange-opening.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-17T14:48:50Z"
+    },
+    {
+      "title": "Aboriginal people harvested this native grass for millennia: Scientists find an odd trait in its DNA",
+      "link": "https://phys.org/news/2026-07-aboriginal-people-harvested-native-grass.html",
+      "summary": "Seen from the air, Channel Country resembles a vibrant, vast tapestry, with a network of waterways crisscrossing the land. Spread across more than 280,000 square kilometers (108,00",
+      "date": "2026-07-17T13:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/aboriginal-people-harv.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-17T14:48:50Z"
+    },
+    {
+      "title": "Australia's most diverse marsupial predators have been hiding their origins for millions of years",
+      "link": "https://phys.org/news/2026-07-australia-diverse-marsupial-predators-millions.html",
+      "summary": "When you think of carnivorous marsupials, you probably picture the Tasmanian devil or perhaps a spotted-tailed quoll. But these famous predators are only the largest members of a r",
+      "date": "2026-07-17T13:00:11Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/australias-most-divers.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-17T14:48:50Z"
+    },
+    {
+      "title": "What 'Neil the Seal' can teach us about seal behavior: Marine biologist explains",
+      "link": "https://phys.org/news/2026-07-neil-behavior-marine-biologist.html",
+      "summary": "Neil the Seal became a social media sensation almost overnight. Neil is a 5-year-old male southern elephant seal who weighs roughly 1 metric ton (1.1 tons). He was born on the Tasm",
+      "date": "2026-07-17T12:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/furseal.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-17T14:48:50Z"
+    },
     {
       "title": "Species Spotlight: Chestnut-sided Warbler",
       "link": "https://www.10000birds.com/species-spotlight-chestnut-sided-warbler.htm?utm_source=rss&utm_medium=rss&utm_campaign=species-spotlight-chestnut-sided-warbler",
@@ -5337,171 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-09T18:03:58Z"
-    },
-    {
-      "title": "Heat waves push tropical forests past photosynthesis limits across 57 million hectares",
-      "link": "https://phys.org/news/2026-07-tropical-forests-photosynthesis-limits-million.html",
-      "summary": "As heat waves continue one after another, we are feeling their effects on our own bodies: It becomes harder for us to function normally. Trees also have their limits when temperatu",
-      "date": "2026-07-09T15:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/heat-waves-hinder-phot.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-09T18:03:58Z"
-    },
-    {
-      "title": "Fossils found decades ago reveal extinct 3.5 million-year-old giant salamander species",
-      "link": "https://phys.org/news/2026-07-fossils-decades-reveal-extinct-million.html",
-      "summary": "In the late 1990s in the Ajimu region of Japan's Oita Prefecture, researchers discovered three fossilized vertebrae belonging to the Cryptobranchidae family of giant salamanders. T",
-      "date": "2026-07-09T15:34:27Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fossils-found-decades.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-09T18:03:58Z"
-    },
-    {
-      "title": "'Astronomers have to revise estimates': The Milky Way may be larger, heavier and more lopsided than we realized",
-      "link": "https://www.livescience.com/space/astronomy/astronomers-have-to-revise-estimates-the-milky-way-may-be-larger-heavier-and-more-lopsided-than-we-realized",
-      "summary": "New measurements suggest that two of the Milky Way's spiral arms are around 10% farther away from Earth than we thought. The findings may require experts to revise estimates of the",
-      "date": "Thu, 09 Jul 2026 16Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/yamQS5LZrCMhXDUUa4opP9-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-09T18:03:59Z"
-    },
-    {
-      "title": "Scientists build tiny 'diving suit' for cockroaches, turning them into search-and rescue cyborgs",
-      "link": "https://www.livescience.com/technology/robotics/scientists-build-tiny-diving-suit-for-cockroaches-turning-them-into-search-and-rescue-cyborgs",
-      "summary": "Researchers in Singapore and Japan have built a waterproof shell for cyborg cockroaches that could be deployed in disaster zones to investigate flooded areas.",
-      "date": "Thu, 09 Jul 2026 16Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/FHX6ckozmkkGxbdxbfL9SN-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-09T18:03:59Z"
-    },
-    {
-      "title": "Quantum computing wielded to create extremely rare material critical to nuclear fusion",
-      "link": "https://www.livescience.com/technology/quantum/quantum-computing-wielded-to-create-extremely-rare-material-critical-to-nuclear-fusion",
-      "summary": "Nuclear fusion inches closer after scientists combine supercomputing, AI and quantum computing to blueprint a way to create more tritium.",
-      "date": "Thu, 09 Jul 2026 16Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/5fmdMoNZ6hNWVztUrKaBQX-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-09T18:03:59Z"
-    },
-    {
-      "title": "New robotic heart mimics common, mysterious condition to help researchers study it",
-      "link": "https://www.livescience.com/health/heart-circulation/new-robotic-heart-mimics-common-mysterious-condition-to-help-researchers-study-it",
-      "summary": "A new robotic heart can recreate different stages of heart failure, potentially giving researchers a new way to test treatments before they reach patients.",
-      "date": "Thu, 09 Jul 2026 15Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/iLFJwuhWXrVnNiHKiiFXMQ-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-09T18:03:59Z"
-    },
-    {
-      "title": "'Explosive diarrhea' parasite infections confirmed in hundreds of people across US, with 1,251 in Michigan alone",
-      "link": "https://www.livescience.com/health/viruses-infections-disease/explosive-diarrhea-parasite-infections-confirmed-in-hundreds-of-people-across-us-with-1-251-in-michigan-alone",
-      "summary": "Michigan has been particularly hard hit by the cyclosporiasis outbreak, with 1,251 cases reported — the highest in the state's history.",
-      "date": "Thu, 09 Jul 2026 15Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/McoCX5PApsw52Vx2kAgife-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-09T18:03:59Z"
-    },
-    {
-      "title": "Species’ ingenious survival strategies no match for human destruction, red list reveals",
-      "link": "https://www.theguardian.com/environment/2026/jul/09/species-ingenious-survival-strategies-no-match-human-destruction-red-list",
-      "summary": "Newly endangered animals include desert frogs and snails in extreme ocean depths, both threatened by mining Life has colonised every corner of the planet by evolving ingenious surv",
-      "date": "2026-07-09T12:20:09Z",
-      "image": "https://i.guim.co.uk/img/media/1187bdfd3c4a3cbb71340e89c8fc9f455b7f72b5/501_358_1830_1464/master/1830.jpg?width=140&quality=85&auto=format&fit=max&s=a519940cfcc5c97f2c25c967b1c78dfe",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-09T15:26:40Z"
-    },
-    {
-      "title": "Euclid finds the most ancient quasars in the universe so far",
-      "link": "https://earthsky.org/space/most-ancient-quasars-most-distant-euclid/",
-      "summary": "The Euclid space telescope has discovered 31 new quasars, including the 2 most distant and most ancient quasars yet known. The post Euclid finds the most ancient quasars in the uni",
-      "date": "Thu, 09 Jul 2026 11Z",
-      "image": "https://earthsky.org/upl/2026/07/artist-concept-quasar-ESA-e1783437326328.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-09T15:26:41Z"
-    },
-    {
-      "title": "Warped spacetime reveals exoplanet far from its star",
-      "link": "https://earthsky.org/space/warped-spacetime-reveals-exoplanet-gaia23bra-b-gravitational-microlensing-tess/",
-      "summary": "The Gaia and TESS space telescopes have discovered a distant Jupiter-like world - Gaia23bra b - by studying warped spacetime. The post Warped spacetime reveals exoplanet far from i",
-      "date": "Thu, 09 Jul 2026 11Z",
-      "image": "https://earthsky.org/upl/2026/07/Gaia23brab-exoplanet-microlensing-event-artist-concept-July-1-2026.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-09T15:26:41Z"
-    },
-    {
-      "title": "Atlantic hurricane season forecast updated due to El Niño",
-      "link": "https://earthsky.org/earth/atlantic-hurricane-season-forecast-for-2026/",
-      "summary": "On July 8, 2026, Colorado State University, one of the two organizations that make Atlantic hurricane season forecasts, revised their forecast down for 2026. The post Atlantic hurr",
-      "date": "Thu, 09 Jul 2026 08Z",
-      "image": "https://earthsky.org/upl/2025/10/eye-of-hurricane-Melissa-Oct-28-2025-Sentinel-2-e1761756919519.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-09T15:26:41Z"
-    },
-    {
-      "title": "Rob Lea Finished the Double Seven Challenge Covered in Diaper Cream and Cow Udder Balm",
-      "link": "https://www.outsideonline.com/outdoor-gear/gear-news/double-seven-challenge-diaper-cream/",
-      "summary": "To finish the Double Seven Challenge, athlete Rob Lea relied on diaper rash cream and Bag Balm while swimming the Tsugaru Strait. The post Rob Lea Finished the Double Seven Challen",
-      "date": "Thu, 09 Jul 2026 14Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/rob-lea-diaper-cream.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-09T15:26:46Z"
-    },
-    {
-      "title": "Smallpox Scabs That British Doctors Used to Inoculate Patients May Have Introduced the Deadly Disease to Australia, New Research Suggests",
-      "link": "https://www.smithsonianmag.com/smart-news/smallpox-scabs-that-british-doctors-used-to-inoculate-patients-may-have-introduced-the-deadly-disease-to-australia-new-research-suggests-180989093/",
-      "summary": "Two new studies find that British colonists arriving via ship in the late 18th century likely introduced smallpox, which devastated Aboriginal communities far more than previously ",
-      "date": "Thu, 09 Jul 2026 14Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/s9WftgB_FZr5_QUrZNfz0WIXrPs=/420x240/filters:focal(1800x1354:1801x1355)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/76/dd/76dd859d-575c-497e-8699-faebde8889a9/slnsw_fl3268272.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-09T15:26:48Z"
-    },
-    {
-      "title": "Take an Exclusive Look at Three Newly Discovered Medieval Shipwrecks in Menorca's 'Cove of Mysteries'",
-      "link": "https://www.smithsonianmag.com/history/take-an-exclusive-look-at-three-newly-discovered-medieval-shipwrecks-in-menorcas-cove-of-mysteries-180989092/",
-      "summary": "Meteorological tsunamis likely sank the 13th-century trading vessels, whose cargo included objects from both Christian kingdoms and Moorish communities on the Iberian Peninsula",
-      "date": "Thu, 09 Jul 2026 12Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/0pO7Q5_b_ktbQbXaS3ZEVo6Mmi0=/420x240/filters:focal(2120x1413:2121x1414)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/96/18/96189b3d-e04b-4d00-8996-245f89801b5f/dsc04914.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-09T15:26:48Z"
-    },
-    {
-      "title": "Support goes a long way to boost birth control effectiveness",
-      "link": "https://www.sciencenews.org/article/birth-control-choice-effectiveness",
-      "summary": "The HER Salt Lake Contraceptive Initiative’s approach, which centered the user and made refills easy, meant all types of methods worked well.",
-      "date": "Thu, 09 Jul 2026 15Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/070626_AC_birthcontrol_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-09T15:26:50Z"
     }
   ]
 }
