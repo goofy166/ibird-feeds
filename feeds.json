@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-17T04:13:26Z",
-  "updated_utc": "2026-07-17T04:13:26Z",
+  "updated": "2026-07-17T07:23:05Z",
+  "updated_utc": "2026-07-17T07:23:05Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Week in wildlife: a stuck raccoon, a hardy mouse and a well-camouflaged wildcat",
+      "link": "https://www.theguardian.com/environment/gallery/2026/jul/17/week-in-wildlife-a-stuck-raccoon-a-hardy-mouse-and-a-well-camouflaged-wildcat",
+      "summary": "This week’s best wildlife photographs from around the world Continue reading...",
+      "date": "2026-07-17T07:00:00Z",
+      "image": "https://i.guim.co.uk/img/media/260767f25ad4eeabfd2d625201753be66ac6be5d/464_1341_2992_2393/master/2992.jpg?width=140&quality=85&auto=format&fit=max&s=553daf314e0fa28ec484d3c8816d1440",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-17T07:22:50Z"
+    },
     {
       "title": "Ancient Egyptian princesses knew their way around weapons of war",
       "link": "https://www.sciencenews.org/article/ancient-egyptian-princesses-weapons-war",
@@ -5491,17 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-07-09T11:13:08Z"
-    },
-    {
-      "title": "Neil the one-tonne elephant seal causing traffic jams in rural Tasmania has returned to sea – for now",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/09/neil-the-seal-returns-to-sea-tasmania-australia",
-      "summary": "Premier Jeremy Rockliff says the ‘traffic cones and street signs of Tasmania can breathe a small sigh of relief’ Get our breaking news email , free app or daily news podcast A one-",
-      "date": "2026-07-09T09:19:37Z",
-      "image": "https://i.guim.co.uk/img/media/7161157875121a0dd4e378cb0cc4d37117d39073/335_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=d7c3480c3a9a074edf85fccdd38f2ad7",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-09T11:13:14Z"
     }
   ]
 }
