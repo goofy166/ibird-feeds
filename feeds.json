@@ -1,8 +1,41 @@
 {
-  "updated": "2026-07-18T13:41:01Z",
-  "updated_utc": "2026-07-18T13:41:01Z",
+  "updated": "2026-07-18T15:01:51Z",
+  "updated_utc": "2026-07-18T15:01:51Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Half a century of sightings reveals Ireland remains a haven for endangered basking sharks",
+      "link": "https://phys.org/news/2026-07-century-sightings-reveals-ireland-haven.html",
+      "summary": "Ireland's waters continue to provide an important seasonal refuge for the endangered basking shark, according to a new study.",
+      "date": "2026-07-18T14:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/half-a-century-of-sigh.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-18T15:01:47Z"
+    },
+    {
+      "title": "Heat-stressed cells use nuclear stress bodies to restart RNA splicing, study finds",
+      "link": "https://phys.org/news/2026-07-stressed-cells-nuclear-stress-bodies.html",
+      "summary": "If you want to beat the heat of the summer sun, slowing down and doing less is a good strategy. However, researchers have long asked whether the same occurs at the cellular level. ",
+      "date": "2026-07-18T14:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rapid-reactivation-of.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-18T15:01:47Z"
+    },
+    {
+      "title": "Not a housekeeper, but a 'vilica': The many responsibilities of Roman-era female farm managers were overlooked by historians",
+      "link": "https://www.livescience.com/archaeology/romans/not-a-housekeeper-but-a-vilica-the-many-responsibilities-of-roman-era-female-farm-managers-were-overlooked-by-historians",
+      "summary": "Women on ancient Roman farms were in charge of making wine, oil — and profits. Historians dismissed them as ‘housekeepers’",
+      "date": "2026-07-18T15:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/fnWTb4NpcPDDrNFhgf6Zq3-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-18T15:01:49Z"
+    },
     {
       "title": "Noctilucent clouds are back: Look for them now!",
       "link": "https://earthsky.org/earth/night-shining-clouds-noctilucent-clouds-how-they-form-how-to-see-them/",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-07-10T12:04:15Z"
-    },
-    {
-      "title": "Swift nest reportedly thrown in skip during house renovations in South Tyneside",
-      "link": "https://www.theguardian.com/environment/2026/jul/10/swift-nest-reportedly-thrown-in-skip-during-house-renovations-in-south-tyneside",
-      "summary": "Conservationists fear more nests may have been destroyed during work on Jarrow houses by council-appointed contractor Swift chicks are feared to have been thrown into a skip during",
-      "date": "2026-07-10T08:00:15Z",
-      "image": "https://i.guim.co.uk/img/media/3586254d7574d944fb86b0823cce8301f3e1d07b/0_596_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=c02542e71962e90247ee15fdb28b61ed",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-10T08:31:47Z"
-    },
-    {
-      "title": "H5 bird flu detected in Australian seabird for first time",
-      "link": "https://phys.org/news/2026-07-h5-bird-flu-australian-seabird.html",
-      "summary": "Scientists have detected the highly contagious H5 bird flu in an Australian seabird for the first time, the government said Friday.",
-      "date": "2026-07-10T08:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-have-detect.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-10T08:31:59Z"
-    },
-    {
-      "title": "Deadly H5 bird flu found in local Australian seabird for first time",
-      "link": "https://www.theguardian.com/world/2026/jul/10/first-case-deadly-h5-bird-flu-local-australian-seabird-sa-coast-crested-tern",
-      "summary": "Native greater crested tern – a common coastal bird – tests positive for disease after being discovered at Robe on SA’s Limestone Coast Follow our Australia news live blog for late",
-      "date": "2026-07-10T04:15:25Z",
-      "image": "https://i.guim.co.uk/img/media/a3b388541a676657ddd7abfd461db42d1a846b5b/0_0_4266_3412/master/4266.jpg?width=140&quality=85&auto=format&fit=max&s=71a7640431b18d1c28c52bba42f84b5f",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-10T04:59:04Z"
     }
   ]
 }
