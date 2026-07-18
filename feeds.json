@@ -1,8 +1,41 @@
 {
-  "updated": "2026-07-18T08:53:00Z",
-  "updated_utc": "2026-07-18T08:53:00Z",
+  "updated": "2026-07-18T10:23:53Z",
+  "updated_utc": "2026-07-18T10:23:53Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Perfect Off-Road Tire For Crosstrek, CRV, and RAV4 Owners",
+      "link": "https://www.outsideonline.com/outdoor-gear/cars-trucks/bfg-trail-terrain-ta-plus-off-road-tire-for-crossovers/",
+      "summary": "BF Goodrich’s new Trail-Terrain T/A + is specifically designed for crossovers. The post The Perfect Off-Road Tire For Crosstrek, CRV, and RAV4 Owners appeared first on Outside Onli",
+      "date": "2026-07-18T10:00:10Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/TA_h.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-18T10:23:44Z"
+    },
+    {
+      "title": "He Designs Shoes During the Week and Dominates Pro Ultramarathons on Weekends",
+      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/vincent-bouillard/",
+      "summary": "Vincent Bouillard, a product designer for shoe brand Hoka, is quietly crushing the fields at the world’s top ultramarathons. His recent win at California’s Western States Endurance",
+      "date": "2026-07-18T09:06:44Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/Vincent1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-18T10:23:44Z"
+    },
+    {
+      "title": "What is the roundest animal?",
+      "link": "https://www.livescience.com/animals/what-is-the-roundest-animal",
+      "summary": "It's fairly uncommon to find a spherical creature, although they're more common in the sea than on land. So which one is the roundest?",
+      "date": "2026-07-18T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/zjMR4mKWCryyAoKeyVkoV3-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-18T10:23:51Z"
+    },
     {
       "title": "'Chainsaw massacre': Europe mulls culls for fish-guzzling cormorant",
       "link": "https://phys.org/news/2026-07-chainsaw-massacre-europe-mulls-culls.html",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-07-09T22:37:26Z"
-    },
-    {
-      "title": "10 Nature Photography Tips From Our Favorite Photographers",
-      "link": "https://www.birdsandblooms.com/birding/bird-photography/nature-photography-tips/",
-      "summary": "We asked our contributors to share their best nature photography tips to help you shoot better pictures of birds, butterflies and more. The post 10 Nature Photography Tips From Our",
-      "date": "Thu, 09 Jul 2026 18Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/Andy-Raupp.jpeg?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-07-09T20:52:00Z"
-    },
-    {
-      "title": "“It Would Not Be Deterred.” Campers Forced to Flee Midnight Bear Attack in Bighorn National Forest.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/wyoming-black-bear-attack-bighorn-national-forest/",
-      "summary": "A black bear aggressively destroyed a Wyoming campsite despite campers following all safety precautions. Experts say the animal may need to be euthanized. The post “It Would Not Be",
-      "date": "Thu, 09 Jul 2026 20Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/GettyImages-974185054.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-09T20:52:11Z"
-    },
-    {
-      "title": "If You’re Ambitious About Running, Get a Shoe to Match",
-      "link": "https://www.outsideonline.com/outdoor-gear/run/if-youre-ambitious-about-running-get-a-shoe-to-match/",
-      "summary": "The new HOKA Clifton PRO is for runners who put in the work The post If You’re Ambitious About Running, Get a Shoe to Match appeared first on Outside Online .",
-      "date": "Thu, 09 Jul 2026 19Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/CLIFTONPRO_CASINO_PARKING_9395_RGB-Ale-Duque-scaled-e1781638180646.jpeg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-09T20:52:11Z"
     }
   ]
 }
