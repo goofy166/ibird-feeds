@@ -1,8 +1,41 @@
 {
-  "updated": "2026-07-18T11:57:45Z",
-  "updated_utc": "2026-07-18T11:57:45Z",
+  "updated": "2026-07-18T13:41:01Z",
+  "updated_utc": "2026-07-18T13:41:01Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Noctilucent clouds are back: Look for them now!",
+      "link": "https://earthsky.org/earth/night-shining-clouds-noctilucent-clouds-how-they-form-how-to-see-them/",
+      "summary": "Noctilucent clouds are back. The season is underway! Learn about these stunning night-shining clouds and how to see them. Plus, see a gallery of them here. The post Noctilucent clo",
+      "date": "2026-07-18T09:00:51Z",
+      "image": "https://earthsky.org/upl/2026/07/1000024783.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-07-18T13:40:48Z"
+    },
+    {
+      "title": "'A dangerous proposition': How AI is warping the social fabric and the ways we collectively imagine the future",
+      "link": "https://www.livescience.com/technology/artificial-intelligence/a-dangerous-proposition-how-ai-is-warping-the-social-fabric-and-the-ways-we-collectively-imagine-the-future",
+      "summary": "In this excerpt from \"Predicted: How AI Is Restructuring Social Life,\" author Mona Sloane examines how artificial intelligence is reconfiguring our understanding of the world and h",
+      "date": "2026-07-18T12:50:58Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/qNS3waj22yUrzqtVRXCGD7-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-18T13:40:59Z"
+    },
+    {
+      "title": "'Fireball' meteorite that smashed into New Jersey home contains ingredients of life from an ancient proto-planet, study finds",
+      "link": "https://www.livescience.com/space/meteoroids/fireball-meteorite-that-smashed-into-new-jersey-home-contains-ingredients-of-life-from-an-ancient-proto-planet-study-finds",
+      "summary": "Amino acids and other \"pre-biotic\" molecules were spotted in a meteorite that crashed into a New Jersey home in 2024.",
+      "date": "2026-07-18T12:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/kR7LWTQu9CDKdbxzFvDFjY-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-18T13:40:59Z"
+    },
     {
       "title": "Costa Rica – Turrialba Volcano",
       "link": "https://www.10000birds.com/costa-rica-turrialba-volcano.htm?utm_source=rss&utm_medium=rss&utm_campaign=costa-rica-turrialba-volcano",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-07-10T04:59:04Z"
-    },
-    {
-      "title": "Morning glories reveal 96% drop in adaptation as pollinator pressure reshapes evolution",
-      "link": "https://phys.org/news/2026-07-morning-glories-reveal-pollinator-pressure.html",
-      "summary": "Facing both climate change and a crashing pollinator population, plants may be evolving to attract pollinators rather than adapting to a warming climate, and the trade-off has resu",
-      "date": "2026-07-10T00:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/morning-glory.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-07-10T04:59:14Z"
-    },
-    {
-      "title": "Water worries: The dangers of dehydration in pets",
-      "link": "https://phys.org/news/2026-07-dangers-dehydration-pets.html",
-      "summary": "The summer heat can be unrelenting, sending pets who usually run straight to their owners after being outside in search of their water bowls instead. Rehydrating after playtime is ",
-      "date": "2026-07-09T22:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pet-drinking-water.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-10T00:12:17Z"
-    },
-    {
-      "title": "Orphaned bobcat kittens arrive at Wildlife Care Center in Saratoga",
-      "link": "https://www.mercurynews.com/2026/07/09/orphaned-bobcat-kittens-arrive-at-wildlife-care-center/",
-      "summary": "The Peninsula Humane Society & SPCA said the kittens will be “monitored and cared for” at the Saratoga facility, with the goal to return them to the wild this fall.",
-      "date": "Thu, 09 Jul 2026 21Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/SJM-L-BOBCATS-0710-1.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-07-09T22:37:17Z"
     }
   ]
 }
