@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-18T15:01:51Z",
-  "updated_utc": "2026-07-18T15:01:51Z",
+  "updated": "2026-07-18T17:04:08Z",
+  "updated_utc": "2026-07-18T17:04:08Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Seasonal gene switch locks fruit flies in winter mode",
+      "link": "https://phys.org/news/2026-07-seasonal-gene-fruit-flies-winter.html",
+      "summary": "Researchers at Washington State University have discovered a molecular \"winter lock\" that keeps animals in a less active winter state until favorable conditions return, a discovery",
+      "date": "2026-07-18T16:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-reveals-a-winter.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-18T17:04:05Z"
+    },
     {
       "title": "Half a century of sightings reveals Ireland remains a haven for endangered basking sharks",
       "link": "https://phys.org/news/2026-07-century-sightings-reveals-ireland-haven.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-10T12:04:14Z"
-    },
-    {
-      "title": "Canon EOS R6 III review: A wildlife wonder",
-      "link": "https://www.livescience.com/products/optics/canon-eos-r6-iii-review-a-wildlife-wonder",
-      "summary": "Canon's newest release is a triumph for wildlife photographers who want a reliable, fast camera capable of producing beautiful images without having to go pro.",
-      "date": "2026-07-10T12:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/2LLW9noZfgfLKUkmWT77Vj-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-10T12:04:15Z"
     }
   ]
 }
