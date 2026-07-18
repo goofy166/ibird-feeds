@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-17T23:01:10Z",
-  "updated_utc": "2026-07-17T23:01:10Z",
+  "updated": "2026-07-18T03:14:18Z",
+  "updated_utc": "2026-07-18T03:14:18Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Researcher finds several UK mosquito species are potential carriers of avian malaria",
+      "link": "https://phys.org/news/2026-07-uk-mosquito-species-potential-carriers.html",
+      "summary": "Mosquitoes are widely known for transmitting diseases such as malaria and dengue fever to humans, but less is known about the diseases they can transmit to wild birds. The Plasmodi",
+      "date": "2026-07-17T23:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researcher-finds-sever.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-18T03:14:13Z"
+    },
     {
       "title": "Fridge the Cat Survived 39 Days After Vanishing Near Great Sand Dunes National Park",
       "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/fridge-the-cat-survived-39-days-after-vanishing-near-great-sand-dunes-national-park/",
@@ -5487,17 +5498,6 @@
       "summary": "Officials say moose weren't established in the state until they were brought there in the late 1970s. But historical documentation and archaeological evidence indicate that they re",
       "date": "Thu, 09 Jul 2026 20Z",
       "image": "https://th-thumbnailer.cdn-si-edu.com/B4BAthJ6OgohRFXMc1eZQ3LviVA=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ca/24/ca24f663-9af2-4a87-9510-69607585757a/moose-rainbow.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-09T20:52:12Z"
-    },
-    {
-      "title": "Country Music Legend Dolly Parton's Autobiographical Musical Exploring Her Journey From East Tennessee Will Hit Broadway This Winter",
-      "link": "https://www.smithsonianmag.com/smart-news/country-music-legend-dolly-partons-autobiographical-musical-exploring-her-journey-from-east-tennessee-will-hit-broadway-this-winter-180989099/",
-      "summary": "\"Dolly: A True Original Musical\" premiered last year in Nashville in Parton's home state",
-      "date": "Thu, 09 Jul 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/AGIz3KQSax_kF_tYEE1d1B3gHpA=/420x240/filters:focal(1500x1000:1501x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f7/4b/f74b0859-ea95-4adf-8ece-2069849091b4/dolly.jpg",
       "name": "Smithsonian",
       "category": "insects",
       "color": 10,
