@@ -1,8 +1,30 @@
 {
-  "updated": "2026-07-18T06:10:56Z",
-  "updated_utc": "2026-07-18T06:10:56Z",
+  "updated": "2026-07-18T08:53:00Z",
+  "updated_utc": "2026-07-18T08:53:00Z",
   "count": 500,
   "stories": [
+    {
+      "title": "'Chainsaw massacre': Europe mulls culls for fish-guzzling cormorant",
+      "link": "https://phys.org/news/2026-07-chainsaw-massacre-europe-mulls-culls.html",
+      "summary": "Europe's great cormorant has recovered from near extinction to overabundance in half a century, stoking a long-running debate over population control between fishers troubled by it",
+      "date": "2026-07-18T08:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fishers-are-concerned.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-18T08:52:56Z"
+    },
+    {
+      "title": "Science word of the day: Neuroplasticity",
+      "link": "https://www.livescience.com/health/neuroscience/science-word-of-the-day-neuroplasticity",
+      "summary": "What does 'neuroplasticity' mean?",
+      "date": "2026-07-18T08:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/LnXiAuAb3itbEE9FEojtDi-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-18T08:52:58Z"
+    },
     {
       "title": "Researcher finds several UK mosquito species are potential carriers of avian malaria",
       "link": "https://phys.org/news/2026-07-uk-mosquito-species-potential-carriers.html",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-07-09T20:52:11Z"
-    },
-    {
-      "title": "The Life-Saving Summer Hiking Trick Every Dog Owner Needs To Know",
-      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/cool-overheated-dog-head-dunk-trick/",
-      "summary": "Think a wet towel or alcohol on paw pads cools down an overheated dog? New research reveals a much faster, safer, physiology-backed method. The post The Life-Saving Summer Hiking T",
-      "date": "Thu, 09 Jul 2026 19Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/DSC01755-scaled.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-09T20:52:11Z"
-    },
-    {
-      "title": "Are Moose Colorado Natives or Introduced Outsiders? New Research Suggests That the Animals Have Lived in the State for Centuries",
-      "link": "https://www.smithsonianmag.com/smart-news/are-moose-colorado-natives-or-introduced-outsiders-new-research-suggests-that-the-animals-have-lived-in-the-state-for-centuries-180989091/",
-      "summary": "Officials say moose weren't established in the state until they were brought there in the late 1970s. But historical documentation and archaeological evidence indicate that they re",
-      "date": "Thu, 09 Jul 2026 20Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/B4BAthJ6OgohRFXMc1eZQ3LviVA=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ca/24/ca24f663-9af2-4a87-9510-69607585757a/moose-rainbow.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-09T20:52:12Z"
     }
   ]
 }
