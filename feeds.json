@@ -1,8 +1,30 @@
 {
-  "updated": "2026-07-19T17:06:26Z",
-  "updated_utc": "2026-07-19T17:06:26Z",
+  "updated": "2026-07-19T19:16:05Z",
+  "updated_utc": "2026-07-19T19:16:05Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Vanishing Mew Gull: A Guide to the Bird Names of the Western Palaearctic",
+      "link": "https://www.10000birds.com/the-vanishing-mew-gull-a-guide-to-the-bird-names-of-the-western-palaearctic.htm?utm_source=rss&utm_medium=rss&utm_campaign=the-vanishing-mew-gull-a-guide-to-the-bird-names-of-the-western-palaearctic",
+      "summary": "One volume, 370 pages and 1,100 species: what their names stand for, both common and scientific? Let me try one particular species. Knowing that Eurasian Wren’s scientific name is ",
+      "date": "2026-07-19T17:20:56Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/Screenshot-449.png",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-07-19T19:15:43Z"
+    },
+    {
+      "title": "Can Ozempic prevent or treat cancer? It's way too soon to say, an expert cautions",
+      "link": "https://www.livescience.com/health/medicine-drugs/can-ozempic-prevent-or-treat-cancer-its-way-too-soon-to-say-an-expert-cautions",
+      "summary": "Excitement around the idea that GLP-1 drugs can prevent cancer is running well ahead of the evidence, an expert explains.",
+      "date": "2026-07-19T19:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/X6gwjRr7j3NiCQ6jKNqQ8h-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-19T19:16:02Z"
+    },
     {
       "title": "Carnaby's cockatoos exposed to dangerous pesticide concentrations in WA's Wheatbelt",
       "link": "https://phys.org/news/2026-07-carnaby-cockatoos-exposed-dangerous-pesticide.html",
@@ -5476,28 +5498,6 @@
       "summary": "To prevent viruses from sickening or killing us—whether it's an individual case of hepatitis B or a COVID pandemic—it's crucial to understand how the proteins they make initiate ch",
       "date": "2026-07-10T14:20:01Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/studying-viral-protein.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-10T15:35:45Z"
-    },
-    {
-      "title": "Why bees are struggling to survive this summer",
-      "link": "https://phys.org/news/2026-07-bees-struggling-survive-summer.html",
-      "summary": "You may be spotting dead bumblebees lying on pavements near you during the summer months. There are several reasons for this, some related to the weather and some very much due to ",
-      "date": "2026-07-10T14:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dandelion-and-bee.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-10T15:35:45Z"
-    },
-    {
-      "title": "If so many people live with toxoplasmosis, how dangerous is this brain parasite really? Should I be worried?",
-      "link": "https://phys.org/news/2026-07-people-toxoplasmosis-dangerous-brain-parasite.html",
-      "summary": "About 1 in 3 people worldwide have been infected with a microscopic parasite called Toxoplasma gondii—or simply \"toxo\"—which can cause toxoplasmosis. After the initial infection, t",
-      "date": "2026-07-10T13:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/if-so-many-people-live.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
