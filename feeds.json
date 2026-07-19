@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-19T15:03:27Z",
-  "updated_utc": "2026-07-19T15:03:27Z",
+  "updated": "2026-07-19T17:06:26Z",
+  "updated_utc": "2026-07-19T17:06:26Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Carnaby's cockatoos exposed to dangerous pesticide concentrations in WA's Wheatbelt",
+      "link": "https://phys.org/news/2026-07-carnaby-cockatoos-exposed-dangerous-pesticide.html",
+      "summary": "A new Murdoch University study has uncovered alarming levels of pesticide contamination in the food sources of endangered Carnaby's cockatoos in the Wheatbelt—including concentrati",
+      "date": "2026-07-19T16:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/carnabys-cockatoos-exp-3.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-19T17:06:22Z"
+    },
     {
       "title": "Meteorite strike of New Jersey home reveals life clues",
       "link": "https://earthsky.org/space/meteorite-strike-of-new-jersey-home-reveals-clues-life-clues/",
@@ -5487,17 +5498,6 @@
       "summary": "About 1 in 3 people worldwide have been infected with a microscopic parasite called Toxoplasma gondii—or simply \"toxo\"—which can cause toxoplasmosis. After the initial infection, t",
       "date": "2026-07-10T13:40:04Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/if-so-many-people-live.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-10T15:35:45Z"
-    },
-    {
-      "title": "Bacteria turn dissolved uranium into stable compound in 130 days, study finds",
-      "link": "https://phys.org/news/2026-07-bacteria-dissolved-uranium-stable-compound.html",
-      "summary": "Researchers at the Helmholtz-Zentrum Dresden-Rossendorf (HZDR), together with Wismut GmbH and scientists from the University of Granada in Spain, have demonstrated for the first ti",
-      "date": "2026-07-10T12:20:10Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/potential-risk-to-huma.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
