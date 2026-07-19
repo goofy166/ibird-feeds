@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-19T20:59:46Z",
-  "updated_utc": "2026-07-19T20:59:46Z",
+  "updated": "2026-07-19T22:04:01Z",
+  "updated_utc": "2026-07-19T22:04:01Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Dragonfly aerial fights follow some simple rules",
+      "link": "https://phys.org/news/2026-07-dragonfly-aerial-simple.html",
+      "summary": "Dragonflies are renowned for their remarkable flying abilities. Male dragonflies often compete for territory and mating opportunities, engaging in fascinating in-flight battles. Re",
+      "date": "2026-07-19T21:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dragonfly-aerial-fight.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-19T22:03:57Z"
+    },
     {
       "title": "The Vanishing Mew Gull: A Guide to the Bird Names of the Western Palaearctic",
       "link": "https://www.10000birds.com/the-vanishing-mew-gull-a-guide-to-the-bird-names-of-the-western-palaearctic.htm?utm_source=rss&utm_medium=rss&utm_campaign=the-vanishing-mew-gull-a-guide-to-the-bird-names-of-the-western-palaearctic",
@@ -5487,17 +5498,6 @@
       "summary": "Cats may be cute and adorable, but stray and feral cats can sometimes pose a risk to human health. Veterinary researchers have discovered that more than 50% of free-roaming cats in",
       "date": "2026-07-10T14:30:01Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-health-risks-fo.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-10T15:35:45Z"
-    },
-    {
-      "title": "Largest viral-protein library gives researchers new way to probe emerging pathogens",
-      "link": "https://phys.org/news/2026-07-largest-viral-protein-library-probe.html",
-      "summary": "To prevent viruses from sickening or killing us—whether it's an individual case of hepatitis B or a COVID pandemic—it's crucial to understand how the proteins they make initiate ch",
-      "date": "2026-07-10T14:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/studying-viral-protein.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
