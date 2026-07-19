@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-19T03:34:45Z",
-  "updated_utc": "2026-07-19T03:34:45Z",
+  "updated": "2026-07-19T06:37:07Z",
+  "updated_utc": "2026-07-19T06:37:07Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Sex-loving hookworms and other peculiar parasites: one man’s mission to champion nature’s villains",
+      "link": "https://www.theguardian.com/environment/2026/jul/19/dino-martins-entomologist-parasites-beetles-ants-hookworms-aoe",
+      "summary": "Award-winning entomologist Dino Martins, known for his work on pollinators, shows in his latest book that even the most gruesome creatures have vital roles to play Dino J Martins h",
+      "date": "2026-07-19T06:00:19Z",
+      "image": "https://i.guim.co.uk/img/media/7fd3b4fce6c0cef2895f420cf692c011f66a6f67/0_196_1355_1084/master/1355.jpg?width=140&quality=85&auto=format&fit=max&s=c4cf3d6756af7a8bd6aefbe3de094ef8",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-19T06:36:52Z"
+    },
     {
       "title": "Butterfly experts are planting 15,000 milkweed plants along Florida roadsides to help monarchs",
       "link": "https://phys.org/news/2026-07-butterfly-experts-milkweed-florida-roadsides.html",
@@ -5487,17 +5498,6 @@
       "summary": "Rutgers Office for Research (OfR) leaders collaborated with researchers around the world to develop an artificial intelligence (AI) program that has the potential to revolutionize ",
       "date": "2026-07-10T12:00:05Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/assessing-lab-animals.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-10T12:04:14Z"
-    },
-    {
-      "title": "Researchers link the mass extinction of once-dominant marine groups to intolerable heat, diminished oxygen in oceans",
-      "link": "https://phys.org/news/2026-07-link-mass-extinction-dominant-marine.html",
-      "summary": "A new Stanford-led study offers the clearest picture yet of how some ocean life survived our planet's biggest mass extinction while most animals did not. About 252 million years ag",
-      "date": "2026-07-10T11:42:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-confirm-ca.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
