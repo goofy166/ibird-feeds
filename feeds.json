@@ -1,8 +1,52 @@
 {
-  "updated": "2026-07-19T11:14:30Z",
-  "updated_utc": "2026-07-19T11:14:30Z",
+  "updated": "2026-07-19T13:40:10Z",
+  "updated_utc": "2026-07-19T13:40:10Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Meteorite strike of New Jersey home reveals life clues",
+      "link": "https://earthsky.org/space/meteorite-strike-of-new-jersey-home-reveals-clues-life-clues/",
+      "summary": "Meteorite strike of New Jersey home! It crashed through the roof of a house in 2024. A new study shows it reveals clues to life's origins. The post Meteorite strike of New Jersey h",
+      "date": "2026-07-19T12:00:16Z",
+      "image": "https://earthsky.org/upl/2026/07/Hillsborough-meteorite-July-16-2024.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-07-19T13:39:56Z"
+    },
+    {
+      "title": "Plants that make real dairy protein? Scientists discover an unexpected shortcut",
+      "link": "https://phys.org/news/2026-07-real-dairy-protein-scientists-unexpected.html",
+      "summary": "What if the plants growing in a field could one day produce the same proteins that give milk its nutrition, texture and cheese-making properties? A new study brings that possibilit",
+      "date": "2026-07-19T12:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/plants-that-make-real.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-19T13:40:07Z"
+    },
+    {
+      "title": "'It's absolutely exciting!': Astronomers discover an atmosphere around an Earth-like planet in the habitable zone for first time ever",
+      "link": "https://www.livescience.com/space/exoplanets/its-absolutely-exciting-astronomers-discover-an-atmosphere-around-an-earth-like-planet-in-the-habitable-zone-for-first-time-ever",
+      "summary": "Astronomers have detected helium escaping from the super-Earth LHS 1140 b, providing the strongest evidence yet that a rocky planet in another star's habitable zone has retained an",
+      "date": "2026-07-19T13:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/JhHmeAraJQ6kGUnqu97DsZ-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-19T13:40:08Z"
+    },
+    {
+      "title": "Decorated wild-boar tusk found in Russia may have been medieval warrior's good-luck charm",
+      "link": "https://www.livescience.com/archaeology/decorated-wild-boar-tusk-found-in-russia-may-have-been-medieval-warriors-good-luck-charm",
+      "summary": "A 12th-century wild-boar tusk found in Russia may be a warrior's amulet.",
+      "date": "2026-07-19T12:30:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/gzbGVYo9rcqAZPrVPT7v8C-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-19T13:40:08Z"
+    },
     {
       "title": "Three Photos: Abstract Birds",
       "link": "https://www.10000birds.com/three-photos-abstract-birds.htm?utm_source=rss&utm_medium=rss&utm_campaign=three-photos-abstract-birds",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-10T15:35:45Z"
-    },
-    {
-      "title": "New sodium metal battery design charges in just 4 minutes and retains its capacity for years",
-      "link": "https://www.livescience.com/technology/engineering/new-sodium-metal-battery-design-charges-in-just-4-minutes-and-retains-its-capacity-for-years",
-      "summary": "Chinese researchers say they have overcome one of the trickiest problems of battery chemistry by developing a special gel.",
-      "date": "2026-07-10T13:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/8jQHDmrrjNU9V7sBVeciNn-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-10T15:35:46Z"
-    },
-    {
-      "title": "What We Missed by Looking",
-      "link": "https://www.10000birds.com/what-we-missed-by-looking.htm?utm_source=rss&utm_medium=rss&utm_campaign=what-we-missed-by-looking",
-      "summary": "By John Cavitt John Cavitt is a Distinguished Professor of Zoology at Weber State University in Ogden, Utah. For over two decades, his research has focused on the ecology and conse",
-      "date": "2026-07-10T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/CoverImage.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-07-10T12:03:57Z"
-    },
-    {
-      "title": "Species Spotlight: Piping Plover",
-      "link": "https://www.10000birds.com/species-spotlight-piping-plover.htm?utm_source=rss&utm_medium=rss&utm_campaign=species-spotlight-piping-plover",
-      "summary": "The Piping Plover is a cute-looking shorebird listed as Near Threatened. In 2001, the total population was only about 6,000 birds, primarily in the USA and Canada. One of the threa",
-      "date": "2026-07-10T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/06/Piping-Plover_DSC2331_Reid-State-Park-Maine-Jun-09-2026.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-07-10T12:03:57Z"
-    },
-    {
-      "title": "Shovels for feet and blotting paper skin: the ‘little fat froggy’ facing a fight for survival",
-      "link": "https://www.theguardian.com/environment/2026/jul/10/little-fat-froggy-fight-survival-desert-rain-frog-iucn-red-list",
-      "summary": "The desert rain frog, native to a narrow coastal strip of south-west Africa, has been classified as vulnerable on the IUCN red list, as its habitat is threatened by mining The dese",
-      "date": "2026-07-10T09:00:16Z",
-      "image": "https://i.guim.co.uk/img/media/da87818f7453038ef1f7ea0cb796acca0f0d8069/0_87_2033_1626/master/2033.jpg?width=140&quality=85&auto=format&fit=max&s=1675a593743a2ac367ee93d2a0cdfe9d",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-10T12:04:03Z"
     }
   ]
 }
