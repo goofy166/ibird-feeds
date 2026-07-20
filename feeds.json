@@ -1,8 +1,151 @@
 {
-  "updated": "2026-07-20T14:23:50Z",
-  "updated_utc": "2026-07-20T14:23:50Z",
+  "updated": "2026-07-20T16:37:51Z",
+  "updated_utc": "2026-07-20T16:37:51Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Internet-Famous Bald Eagle Jackie Injured in California",
+      "link": "https://www.birdsandblooms.com/birding/birding-basics/injured-bald-eagle-jackie/",
+      "summary": "Jackie, one half of the beloved 'Jackie and Shadow' bald eagle pair, sustained an injury over the weekend of July 17. Here's what's being done to help. The post Internet-Famous Bal",
+      "date": "2026-07-20T15:47:34Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-9.48.34-AM-e1784560413124.png?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-07-20T16:37:31Z"
+    },
+    {
+      "title": "Big Bear’s missing bald eagle believed to have been found alive but injured",
+      "link": "https://www.theguardian.com/us-news/2026/jul/20/bald-eagle-jackie-big-bear-lake",
+      "summary": "Bald eagle found hurt in California after fight with other birds, says group, as eagle called Jackie not seen on cameras A beloved female bald eagle missing for several days in Cal",
+      "date": "2026-07-20T14:36:39Z",
+      "image": "https://i.guim.co.uk/img/media/38de2ea54af2d68c814d187270eccbde48c3c8a1/128_0_1903_1522/master/1903.jpg?width=140&quality=85&auto=format&fit=max&s=7596e506b122bcdeb9a2f1006a943f0a",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-20T16:37:35Z"
+    },
+    {
+      "title": "Discover a Different Planet in Northwest Nebraska",
+      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/discover-a-different-planet-in-northwest-nebraska/",
+      "summary": "In a state full of surprising natural wonders, Toadstool Geologic Park is one of the coolest The post Discover a Different Planet in Northwest Nebraska appeared first on Outside On",
+      "date": "2026-07-20T15:06:37Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/Toadstool_featured_h.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-20T16:37:41Z"
+    },
+    {
+      "title": "Where to See the Milky Way in Nebraska",
+      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/where-to-see-the-milky-way-in-nebraska/",
+      "summary": "If you think there’s nothing in Nebraska, all you have to do is look up The post Where to See the Milky Way in Nebraska appeared first on Outside Online .",
+      "date": "2026-07-20T15:04:44Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/Stargazing_featured_h.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-20T16:37:41Z"
+    },
+    {
+      "title": "Thousands of Kidnapped Africans Died on an Island in the Atlantic After Being Rescued From Slave Ships. Evidence in Their Teeth Traces Their Journeys",
+      "link": "https://www.smithsonianmag.com/smart-news/thousands-of-kidnapped-africans-died-on-an-island-in-the-atlantic-after-being-rescued-from-slave-ships-evidence-in-their-teeth-traces-their-journeys-180989145/",
+      "summary": "Remains in the graves of St. Helena, where the British military housed \"liberated\" enslaved Africans, contain isotopes from inland Angola and Zimbabwe",
+      "date": "2026-07-20T16:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/fjElvf1DF3SpN-8Lw1OuMO3oy44=/420x240/filters:focal(1024x683:1025x684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/77/d2/77d2b0e0-d3fc-47b4-86a7-52fb9521e411/470228757_566058682883034_8499493774015563765_n.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-20T16:37:42Z"
+    },
+    {
+      "title": "Koalas Are at Risk of Extinction in Some Parts of Australia. Can Freezing Their Sperm and Eggs Help Save the Iconic Marsupials?",
+      "link": "https://www.smithsonianmag.com/smart-news/koalas-are-at-risk-of-extinction-in-some-parts-of-australia-can-freezing-their-sperm-and-eggs-help-save-the-iconic-marsupials-180989147/",
+      "summary": "Scientists are preserving the animals' reproductive cells in liquid nitrogen in a bid to boost genetic diversity in future populations",
+      "date": "2026-07-20T15:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/GFxOKzcN6osfItqtfsVIYcH5QI8=/420x240/filters:focal(960x549:961x550)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/17/90/1790ef6c-fa5f-4cdc-8f80-f7ba55ea7617/uq-healthy_koala_during_survey.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-20T16:37:42Z"
+    },
+    {
+      "title": "AI ‘ghosts’ can comfort mourners — even when the bots get the facts wrong",
+      "link": "https://www.sciencenews.org/article/ai-ghosts-grief-facts-wrong-chatbot",
+      "summary": "A small study suggests emotional fit, not perfect accuracy, may make chatbot versions of dead loved ones feel real.",
+      "date": "2026-07-20T15:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/071326_KH_AIghost_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-20T16:37:44Z"
+    },
+    {
+      "title": "Inhaling high dose CO2 clears Alzheimer’s proteins from the brain",
+      "link": "https://www.newscientist.com/article/2580471-inhaling-high-dose-co2-clears-alzheimers-proteins-from-the-brain/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Intermittingly inhaling a high dose of carbon dioxide seems to remove the proteins amyloid and tau, which are implicated in Alzheimer's disease, from the brain by boosting its glym",
+      "date": "2026-07-20T16:31:27Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305894556.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-20T16:37:45Z"
+    },
+    {
+      "title": "AI’s solution to 87-year-old riddle takes mathematicians by surprise",
+      "link": "https://www.newscientist.com/article/2580374-ais-solution-to-87-year-old-riddle-takes-mathematicians-by-surprise/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Mathematicians have been trying to prove the Jacobian conjecture for nearly a century, but now the Claude Fable 5 AI has apparently found a counterexample that disproves it",
+      "date": "2026-07-20T15:26:43Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305896618.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-20T16:37:45Z"
+    },
+    {
+      "title": "How to maximise the mental health benefits of your vacation",
+      "link": "https://www.newscientist.com/article/2533414-how-to-maximise-the-mental-health-benefits-of-your-vacation/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Don’t just hit the beach. Research is revealing how to have a holiday that leaves you mentally restored and refreshed – with long-lasting effect",
+      "date": "2026-07-20T15:00:37Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/10105702/new-scientist_holiday-animation_260709_1350x900-15fps.gif",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-20T16:37:45Z"
+    },
+    {
+      "title": "Bee brains reveal how colonies divide work without central planning",
+      "link": "https://phys.org/news/2026-07-bee-brains-reveal-colonies-central.html",
+      "summary": "What determines which tasks bees perform in their colony? Biologists from Heinrich Heine University Düsseldorf (HHU) and the universities in Cologne and Frankfurt/Main have investi",
+      "date": "2026-07-20T15:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/task-organisation-in-t.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-20T16:37:47Z"
+    },
+    {
+      "title": "Prescribed burns may be lethal for lizards",
+      "link": "https://phys.org/news/2026-07-lethal-lizards.html",
+      "summary": "Scientists are calling for wildlife surveys to be conducted within hours of prescribed burns after new research revealed that evidence of animal deaths can disappear in less than t",
+      "date": "2026-07-20T14:40:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/prescribed-burns-may-b.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-20T16:37:47Z"
+    },
+    {
+      "title": "New machine-learning tool improves accuracy of genomics research",
+      "link": "https://phys.org/news/2026-07-machine-tool-accuracy-genomics.html",
+      "summary": "University of Virginia School of Medicine scientists have identified a widespread source of error in a popular method for studying the genome and created a machine-learning tool to",
+      "date": "2026-07-20T14:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-machine-learning-t-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-20T16:37:47Z"
+    },
     {
       "title": "Poop From Southern Right Whales Reveals That the Animals Might Be More Resilient to Climate Change Than We Thought",
       "link": "https://www.smithsonianmag.com/smart-news/poop-from-southern-right-whales-reveals-that-the-animals-might-be-more-resilient-to-climate-change-than-we-thought-180989131/",
@@ -5359,149 +5502,6 @@
       "category": "wildlife",
       "color": 7,
       "fetched_at": "2026-07-10T21:13:02Z"
-    },
-    {
-      "title": "To Speak the Language of the Land",
-      "link": "https://hakaimagazine.com/features/to-speak-the-language-of-the-land/",
-      "summary": "Nearly 200 of us cram into Tarāwhai, a traditional wooden Māori meeting house, under the gaze of the ancestors and deities carved into the posts and walls. We’re here in the home o",
-      "date": "Thu, 12 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-maori-language-and-place.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-07-10T21:13:02Z"
-    },
-    {
-      "title": "Caviar Pizzas, New Money, and the Death of an Ancient Fish",
-      "link": "https://hakaimagazine.com/features/caviar-pizzas-new-money-and-the-death-of-an-ancient-fish/",
-      "summary": "I am sitting at a slick Manhattan waterfront restaurant on the banks of the East River, New York City, trying to decide why I find the caviar pizza on the menu so disturbing. Jonat",
-      "date": "Tue, 10 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-21st-century-sturgeon.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-07-10T21:13:02Z"
-    },
-    {
-      "title": "The Destructive Legacy of Failed Aquaculture",
-      "link": "https://hakaimagazine.com/news/the-destructive-legacy-of-failed-aquaculture/",
-      "summary": "Aquaculture is big business in Canada. In 2023, open-net-pen salmon farming in British Columbia alone produced 50,000 tonnes of fish worth just over US $350-million. But on June 30",
-      "date": "2024-12-06T08:01:14Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-aquaculture-cleanup.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-07-10T21:13:02Z"
-    },
-    {
-      "title": "Conjuring the Lost Land Beneath the North Sea",
-      "link": "https://hakaimagazine.com/features/conjuring-the-lost-land-beneath-the-north-sea/",
-      "summary": "The North Sea is a hard place to love. It’s not the cold, or the silty gray-brown waters that seem to suck the brightness out of the sky that make it unappealing, it’s what people ",
-      "date": "Thu, 05 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-doggerland.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-07-10T21:13:02Z"
-    },
-    {
-      "title": "Lighter Life and Bigger Days",
-      "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/lighter-life-and-bigger-days/",
-      "summary": "Be nimble in the way you think, pack, and plan—and let the adventures begin The post Lighter Life and Bigger Days appeared first on Outside Online .",
-      "date": "2026-07-10T20:59:28Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/FJR_SS26_Hiking_1-1-scaled-e1782492622189.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-10T21:13:06Z"
-    },
-    {
-      "title": "See Artifacts That Archaeologists Discovered in This 1,600-Year-Old Byzantine Christian Town Buried in an Oasis in Egypt",
-      "link": "https://www.smithsonianmag.com/smart-news/see-artifacts-that-archaeologists-discovered-in-this-1600-year-old-byzantine-christian-town-buried-in-an-oasis-in-egypt-180989106/",
-      "summary": "The mud-brick village boasts streets, towers and a large church. Researchers unearthed everyday objects like grain grinders, an oven and some 200 ostraca—ancient receipts and notes",
-      "date": "2026-07-10T20:07:04Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/vuwdX3Na8ZlyHmLZsyDurpkKNwQ=/420x240/filters:focal(430x287:431x288)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a0/4e/a04e2328-f7ae-4afc-9bd5-815c57f68a96/735761382_979443714901375_5840206519074944984_n.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-10T21:13:07Z"
-    },
-    {
-      "title": "World’s oldest living turkey vulture and East Bay resident celebrates milestone",
-      "link": "https://www.mercurynews.com/2026/07/10/worlds-oldest-living-turkey-vulture-and-east-bay-resident-celebrates-milestone/",
-      "summary": "Lord Richard, the world’s oldest living turkey vulture, is celebrating a record milestone and inviting everyone to join the celebration.",
-      "date": "2026-07-10T18:50:01Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/Richard-01.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-07-10T19:43:23Z"
-    },
-    {
-      "title": "Female tiger finds new home at Oakland Zoo after rescue from notorious roadside facility",
-      "link": "https://www.mercurynews.com/2026/07/10/sitara-rescuted-tiger-oakland-zoo/",
-      "summary": "Sitara the tiger is settling into her new zoo habitat after being rescued from a Butte County facility that reportedly kept big cats in barren enclosures and denied them proper car",
-      "date": "2026-07-10T17:32:20Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/SJM-L-TIGER-01.jpeg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-07-10T19:43:23Z"
-    },
-    {
-      "title": "Cases of a Parasitic Infection That Can Cause Diarrhea for Weeks Are Rapidly Rising in the U.S. Here's What to Know",
-      "link": "https://www.smithsonianmag.com/smart-news/cases-of-a-parasitic-infection-that-can-cause-diarrhea-for-weeks-are-rapidly-rising-in-the-us-heres-what-to-know-180989108/",
-      "summary": "The illness is caused by the microscopic parasite Cyclospora cayetanensis, which spreads via food or water contaminated with feces, usually on farms. Health officials are still inv",
-      "date": "2026-07-10T19:26:16Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/VXZpG8vNAsarDkNgNsSPwQ_nP5k=/420x240/filters:focal(2736x1824:2737x1825)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b0/96/b09646d0-adb7-4301-b154-2f50a371bb9b/lettuce-washing.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-10T19:43:26Z"
-    },
-    {
-      "title": "In the Latest Brazen Heist, Jewelry and Artworks Worth $5 Million Were Stolen From a Famed French Designer's Museum",
-      "link": "https://www.smithsonianmag.com/smart-news/in-the-latest-brazen-heist-jewelry-and-artworks-worth-5-million-were-stolen-from-famed-french-designer-lalique-museum-180989105/",
-      "summary": "A trio of burglars stole 27 pieces, including a dragonfly pendant, from the Lalique Museum in eastern France",
-      "date": "2026-07-10T17:57:03Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/lzn-E16kOTbpJWAulDfOgMKMGo4=/420x240/filters:focal(600x600:601x601)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/14/c1/14c1a3ac-716d-44fc-9da8-31f3877e3405/syl4508b_1.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-10T19:43:26Z"
-    },
-    {
-      "title": "Why natural forests survive heat waves better than planted forests",
-      "link": "https://phys.org/news/2026-07-natural-forests-survive.html",
-      "summary": "When a record-breaking drought and heat wave swept across China's Yangtze River Basin in 2022, forests across the region faced an extreme test. The event provided a rare opportunit",
-      "date": "2026-07-10T19:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-natural-forests-su.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-10T19:43:30Z"
-    },
-    {
-      "title": "Moderate warming rewires one-third of microalga's genes, study finds",
-      "link": "https://phys.org/news/2026-07-moderate-rewires-microalga-genes.html",
-      "summary": "Researchers have demonstrated for the first time that the microalga Chlamydomonas reinhardtii alters the activity of about one-third of its protein-coding genes in response even to",
-      "date": "2026-07-10T19:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/underestimated-impact.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-10T19:43:30Z"
-    },
-    {
-      "title": "Giant kangaroos survived until 6,500 years ago on the New Guinea coast",
-      "link": "https://phys.org/news/2026-07-giant-kangaroos-survived-years-guinea.html",
-      "summary": "Roughly 50,000 years ago, a kangaroo unlike any alive today lived in the mountain rainforests of New Guinea.",
-      "date": "2026-07-10T18:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/giant-kangaroos-surviv.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-10T19:43:30Z"
     }
   ]
 }
