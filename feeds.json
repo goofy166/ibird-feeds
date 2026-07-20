@@ -1,8 +1,41 @@
 {
-  "updated": "2026-07-20T00:03:30Z",
-  "updated_utc": "2026-07-20T00:03:30Z",
+  "updated": "2026-07-20T04:41:02Z",
+  "updated_utc": "2026-07-20T04:41:02Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: Beaver-style flood defences take root amid a hosepipe ban | Kate Blincoe",
+      "link": "https://www.theguardian.com/environment/2026/jul/20/country-diary-beaver-style-flood-defences-take-root-amid-a-hosepipe-ban",
+      "summary": "Caistor St Edmund, Norfolk: Underfoot the ground is as hard as metal, while the council’s ‘leaky dams’ are set for the next deluge Catkins fall from the sweet chestnut trees like l",
+      "date": "2026-07-20T04:30:46Z",
+      "image": "https://i.guim.co.uk/img/media/29ed384e6b807e9aae7fd0aa054920091a406c23/0_0_5354_4284/master/5354.jpg?width=140&quality=85&auto=format&fit=max&s=ace2656780bc0ce84e694f23c0388225",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-20T04:40:47Z"
+    },
+    {
+      "title": "Al-altered images on birdwatching forums putting research at risk",
+      "link": "https://www.theguardian.com/environment/2026/jul/20/ai-slop-manipulated-fake-images-birds-citizen-science-aoe",
+      "summary": "Experts warn increase in enhanced photos on birding platforms creating fake sightings, threatening credibility of tool used by scientists For many birdwatchers, recording a species",
+      "date": "2026-07-20T04:00:45Z",
+      "image": "https://i.guim.co.uk/img/media/2c6fb5539ce914deef1de8b4e9f9a3c6159194d2/256_0_1280_1024/master/1280.jpg?width=140&quality=85&auto=format&fit=max&s=f9bb2ec23d2baba4c999af1eb1c1f4ee",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-20T04:40:47Z"
+    },
+    {
+      "title": "Underwater drones discover coral reefs off Benin, long presumed dead, teeming with life",
+      "link": "https://phys.org/news/2026-07-underwater-drones-coral-reefs-benin.html",
+      "summary": "A coral reef, missing and presumed dead, has been found alive and well off the coast of Benin. Surveys in the 1960s, focused on identifying promising fishing areas, flagged a possi",
+      "date": "2026-07-20T04:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/underwater-drones-disc.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-20T04:40:58Z"
+    },
     {
       "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
       "link": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-07-10T15:35:42Z"
-    },
-    {
-      "title": "Here’s what happens when you put politicians in charge of science",
-      "link": "https://www.sciencenews.org/article/omb-politicians-lysenko-science-history",
-      "summary": "Proposed federal rules would rely on political appointees to decide how a lot of U.S. science gets done. History shows the consequences of such actions.",
-      "date": "2026-07-10T15:30:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/070926_TS_OMB_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-10T15:35:43Z"
-    },
-    {
-      "title": "Lost in Curiosity reveals the messy reality of doing science",
-      "link": "https://www.sciencenews.org/article/review-lost-in-curiosity",
-      "summary": "In her new book, science journalist Roberta Kwok takes readers behind the scenes to understand how researchers get nature to give up its secrets.",
-      "date": "2026-07-10T14:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/0826_review.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-10T15:35:43Z"
-    },
-    {
-      "title": "Mathematicians put AI to work on Fermat's last theorem",
-      "link": "https://www.newscientist.com/article/2533518-mathematicians-put-ai-to-work-on-fermats-last-theorem/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "At an event in London, mathematicians have made unexpectedly fast progress on formalising Fermat's last theorem using AI",
-      "date": "2026-07-10T12:00:18Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/09132318/SEI_304535668.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-10T15:35:44Z"
     }
   ]
 }
