@@ -1,8 +1,41 @@
 {
-  "updated": "2026-07-19T22:04:01Z",
-  "updated_utc": "2026-07-19T22:04:01Z",
+  "updated": "2026-07-20T00:03:30Z",
+  "updated_utc": "2026-07-20T00:03:30Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
+      "link": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Many centuries before the advent of agriculture in Norway, ancient people transported fish into mountain lakes to create a source of food, then built wooden traps to catch them",
+      "date": "2026-07-19T23:01:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305290666.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-20T00:03:23Z"
+    },
+    {
+      "title": "Generating red blood cell-like cells from canine induced pluripotent stem cells",
+      "link": "https://phys.org/news/2026-07-generating-red-blood-cell-cells.html",
+      "summary": "Blood transfusions are crucial in human and veterinary medicine, yet human blood reserves are in constant need of donors, while blood bank systems in veterinary care are nearly non",
+      "date": "2026-07-20T00:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/generating-red-blood-c.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-20T00:03:26Z"
+    },
+    {
+      "title": "Creating a map of coral distribution with environmental DNA",
+      "link": "https://phys.org/news/2026-07-coral-environmental-dna.html",
+      "summary": "To track the impacts of environmental change and enable conservation efforts, we must first understand the composition of our ecosystems. A new online resource provides a comprehen",
+      "date": "2026-07-20T00:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/coral-reef-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-20T00:03:26Z"
+    },
     {
       "title": "Dragonfly aerial fights follow some simple rules",
       "link": "https://phys.org/news/2026-07-dragonfly-aerial-simple.html",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-07-10T15:35:44Z"
-    },
-    {
-      "title": "This book is essential reading before watching the new Odyssey film",
-      "link": "https://www.newscientist.com/article/2531908-this-book-is-essential-reading-before-watching-the-new-odyssey-film/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "Homer still matters, argues Adam Nicolson in The Mighty Dead, a great primer to Christopher Nolan's new adaptation of the Odyssey, says Kelsey Hayes",
-      "date": "2026-07-08T18:00:33Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25112901/sei302820018.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-10T15:35:44Z"
-    },
-    {
-      "title": "New Jurassic dinosaur species identified in Thailand from a single bone",
-      "link": "https://phys.org/news/2026-07-jurassic-dinosaur-species-thailand-bone.html",
-      "summary": "A new study published in Scientific Reports describes the identification of a new species of long-necked dinosaur found in the Phu Kradung Formation in Thailand. The team calls the",
-      "date": "2026-07-10T15:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-jurassic-dinosaur.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-10T15:35:45Z"
-    },
-    {
-      "title": "Hidden health risks found in New York City's free-roaming cats",
-      "link": "https://phys.org/news/2026-07-hidden-health-york-city-free.html",
-      "summary": "Cats may be cute and adorable, but stray and feral cats can sometimes pose a risk to human health. Veterinary researchers have discovered that more than 50% of free-roaming cats in",
-      "date": "2026-07-10T14:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-health-risks-fo.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-10T15:35:45Z"
     }
   ]
 }
