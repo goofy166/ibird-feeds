@@ -1,8 +1,30 @@
 {
-  "updated": "2026-07-20T04:41:02Z",
-  "updated_utc": "2026-07-20T04:41:02Z",
+  "updated": "2026-07-20T08:12:17Z",
+  "updated_utc": "2026-07-20T08:12:17Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary 1906: Large numbers of insects are thirsting for our blood",
+      "link": "https://www.theguardian.com/environment/2026/jul/20/country-diary-1906-large-numbers-of-insects-thirsting-for-our-blood",
+      "summary": "27 July 1906 : The bitter cry of two tormented correspondents has reached me from Stockport and Chester The country at present, though so full of charm, is not without drawbacks, f",
+      "date": "2026-07-20T05:00:48Z",
+      "image": "https://i.guim.co.uk/img/media/3402868c14d689e09f418031beb025d0b62481ef/356_0_3560_2848/master/3560.jpg?width=140&quality=85&auto=format&fit=max&s=19c2fcee7feea855525a317c3a578308",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-20T08:11:56Z"
+    },
+    {
+      "title": "Science word of the day: Heliosphere",
+      "link": "https://www.livescience.com/space/science-word-of-the-day-heliosphere",
+      "summary": "What does 'heliosphere' mean?",
+      "date": "2026-07-20T08:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/E8KnNbRDAViQcQ9UqSLJxi-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-20T08:12:14Z"
+    },
     {
       "title": "Country diary: Beaver-style flood defences take root amid a hosepipe ban | Kate Blincoe",
       "link": "https://www.theguardian.com/environment/2026/jul/20/country-diary-beaver-style-flood-defences-take-root-amid-a-hosepipe-ban",
@@ -5476,28 +5498,6 @@
       "summary": "At the center of the concrete jungle, the green expanse provides New York with a real retreat to nature",
       "date": "2026-07-10T14:25:23Z",
       "image": "https://th-thumbnailer.cdn-si-edu.com/cOneCIuyQkhn3fdeA7ANbJBSObY=/420x240/filters:focal(3657x2456:3658x2457)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d4/ed/d4ed10d6-17d8-4097-bb52-bc8592f20018/1_-_767c9d89-930f-4fbb-9a8f-3ec658f4d835.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-10T15:35:42Z"
-    },
-    {
-      "title": "Roughly 100,000 Years Ago, This Man Got Stabbed in the Face—and Survived. He's Likely One of the First Known Victims of an Attack by a Sharp Weapon",
-      "link": "https://www.smithsonianmag.com/smart-news/roughly-100000-years-ago-this-man-got-stabbed-in-the-face-and-survived-hes-likely-one-of-the-first-known-victims-of-an-attack-by-a-sharp-weapon-180989103/",
-      "summary": "Researchers who investigated the remains of a young adult male found in the Qafzeh cave say the injury healed over time, which means the victim's community may have tended to him",
-      "date": "2026-07-10T13:53:24Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/sTTToX3RBfE2d6RE0zQ0vl7ti0A=/420x240/filters:focal(2592x1950:2593x1951)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/25/66/25662785-089b-491f-89ea-a3537774e90a/p3120086.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-10T15:35:42Z"
-    },
-    {
-      "title": "The Culprit Behind South Australia's Deadly Algal Bloom Might Be the Most Toxic Species Ever Tested, Scientists Say",
-      "link": "https://www.smithsonianmag.com/smart-news/the-culprit-behind-south-australias-deadly-algal-bloom-might-be-the-most-toxic-species-ever-tested-scientists-say-180989100/",
-      "summary": "Karenia cristata, a rare type of microscopic algae that produces toxins that harm nerve cells, can be lethal at very low concentrations",
-      "date": "2026-07-10T12:46:29Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/iu0PdET_LLMbHRv0CFXuodRZNl0=/420x240/filters:focal(4128x2752:4129x2753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4b/b2/4bb211c3-ce20-4e0f-bacc-d1065f7e1b74/algal-bloom.jpg",
       "name": "Smithsonian",
       "category": "insects",
       "color": 10,
