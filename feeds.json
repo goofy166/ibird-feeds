@@ -1,8 +1,107 @@
 {
-  "updated": "2026-07-20T11:52:17Z",
-  "updated_utc": "2026-07-20T11:52:17Z",
+  "updated": "2026-07-20T14:23:50Z",
+  "updated_utc": "2026-07-20T14:23:50Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Poop From Southern Right Whales Reveals That the Animals Might Be More Resilient to Climate Change Than We Thought",
+      "link": "https://www.smithsonianmag.com/smart-news/poop-from-southern-right-whales-reveals-that-the-animals-might-be-more-resilient-to-climate-change-than-we-thought-180989131/",
+      "summary": "Scientists long believed that these whales, which swim throughout the Southern Hemisphere, mainly feasted on krill and small crustaceans called copepods, which are disappearing fro",
+      "date": "2026-07-20T14:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/npxXFywrlBl7-nt8xG8rfh7fQEk=/420x240/filters:focal(4032x2688:4033x2689)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c5/34/c53489ab-1ea2-45a0-be88-1eb7d48c4164/southern-right-whale.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-20T14:23:43Z"
+    },
+    {
+      "title": "In painted caves, ancient human DNA clings to the walls",
+      "link": "https://www.sciencenews.org/article/ancient-human-dna-cave-walls",
+      "summary": "Scientists recovered ancient human DNA from cave walls for the first time. Refined, the method could help link prehistoric paintings to their makers.",
+      "date": "2026-07-20T13:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/070926_LR_Cave-art-DNA_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-20T14:23:44Z"
+    },
+    {
+      "title": "Strange paraparticles could be reality’s missing ingredient",
+      "link": "https://www.newscientist.com/article/2533213-strange-paraparticles-could-be-realitys-missing-ingredient/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Neither matter nor force, paraparticles would be something else entirely. Fresh hints that they exist are raising hopes that they could explain reality at its deepest level",
+      "date": "2026-07-20T13:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305545984.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-20T14:23:45Z"
+    },
+    {
+      "title": "Cloudy skies have slowed global warming – but that may be changing",
+      "link": "https://www.newscientist.com/article/2580307-cloudy-skies-have-slowed-global-warming-but-that-may-be-changing/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Low cloud cover has been expanding since 1979, reflecting more sunlight into space, but scientists expect that trend to reverse and accelerate global warming",
+      "date": "2026-07-20T11:53:25Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305869103.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-20T14:23:45Z"
+    },
+    {
+      "title": "Giving bees a probiotic diet could help protect them from extreme temperatures",
+      "link": "https://phys.org/news/2026-07-bees-probiotic-diet-extreme-temperatures.html",
+      "summary": "Honeybees do not like cold weather. When temperatures dip, they can become sluggish and unable to fly. But no matter the conditions in the outside world, they try to keep their hiv",
+      "date": "2026-07-20T14:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/giving-bees-a-probioti.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-20T14:23:47Z"
+    },
+    {
+      "title": "Wealthier North Carolina neighborhoods may be hotspots for insecticide-resistant tiger mosquitoes",
+      "link": "https://phys.org/news/2026-07-wealthier-north-carolina-neighborhoods-hotspots.html",
+      "summary": "The choices people make to control mosquitoes in their own backyards may be helping some of those mosquitoes survive the very insecticides meant to kill them, according to two new ",
+      "date": "2026-07-20T13:40:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/mosquito-3.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-20T14:23:47Z"
+    },
+    {
+      "title": "How the most widespread parasite on Earth reads its genome",
+      "link": "https://phys.org/news/2026-07-widespread-parasite-earth-genome.html",
+      "summary": "A parasite carried by billions of people worldwide often causes harmful infections during pregnancy and in immunocompromised individuals and is a leading infectious cause of blindn",
+      "date": "2026-07-20T13:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-the-most-widesprea.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-20T14:23:47Z"
+    },
+    {
+      "title": "Fourth-year vet students reveal clues to horse MEED and dog bone cancer",
+      "link": "https://phys.org/news/2026-07-fourth-year-vet-students-reveal.html",
+      "summary": "Texas Tech University's School of Veterinary Medicine fourth-year students Kayden Tanner and Marshall Mays have both been published in international journals after putting hundreds",
+      "date": "2026-07-20T12:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/dog.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-20T14:23:47Z"
+    },
+    {
+      "title": "British vial of smallpox scabs triggered the devastating 1789 outbreak among Indigenous Australians, study finds",
+      "link": "https://www.livescience.com/archaeology/british-vial-of-smallpox-scabs-triggered-the-devastating-1789-outbreak-among-indigenous-australians-study-finds",
+      "summary": "It's long been debated what started the devastating 1789 smallpox outbreak among Indigenous Australians. Now, a new modeling study has the likely answer.",
+      "date": "2026-07-20T12:15:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/HqbSJSDZ9zhTsWEQASL2n6-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-20T14:23:48Z"
+    },
     {
       "title": "Birding Lodges of the World: Jungle Lore Birding Lodge, India",
       "link": "https://www.10000birds.com/birding-lodges-of-the-world-jungle-lore-birding-lodge-india.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-lodges-of-the-world-jungle-lore-birding-lodge-india",
@@ -5403,105 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-10T19:43:30Z"
-    },
-    {
-      "title": "Medieval babies and adults buried together in Sweden were not related, archaeologists discover — raising big questions about early Christian burial practices",
-      "link": "https://www.livescience.com/archaeology/medieval-babies-and-adults-buried-together-in-sweden-were-not-related-archaeologists-discover-raising-big-questions-about-early-christian-burial-practices",
-      "summary": "In an unexpected discovery, researchers found that three medieval Swedish cemeteries held children buried with unrelated adults.",
-      "date": "2026-07-10T18:57:14Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/rEWyU7NSyHmumYt8Gciw7f-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-10T19:43:31Z"
-    },
-    {
-      "title": "In tune with the local blackbirds | Letters",
-      "link": "https://www.theguardian.com/environment/2026/jul/10/in-tune-with-the-local-blackbirds",
-      "summary": "Readers tell us about hearing their musically inclined avian neighbours How I envy Jane Horne and her resident blackbird with a taste for musicals ( Letters, July ). Some years ago",
-      "date": "2026-07-10T16:40:10Z",
-      "image": "https://i.guim.co.uk/img/media/fe6394eb6aaa8c983bc25b48b35fe2ddd9cc919c/430_0_3473_2779/master/3473.jpg?width=140&quality=85&auto=format&fit=max&s=f3f44e1f5608bb7366b0a7d1857715b5",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-10T17:52:25Z"
-    },
-    {
-      "title": "Bald eagle released after more than 25 weeks of rehabilitation",
-      "link": "https://www.mercurynews.com/2026/06/24/bald-eagle-released-after-more-than-25-weeks-of-rehabilitation/",
-      "summary": "The eagle was rescued by the SPCA on Dec. 21, 2025 in Salinas and arrived with a broken coracoid – a bone that connects a bird’s shoulder to its keel and is necessary for flight. W",
-      "date": "2026-06-24T17:48:27Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/MCH-L-SPCAEAGLE-0624-01.jpeg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-07-10T17:52:30Z"
-    },
-    {
-      "title": "Detroit Will Surprise and Amaze You",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/detroit-will-surprise-and-amaze-you/",
-      "summary": "From scenic canal tours to open-air art walks, there’s so much to explore in the Motor City The post Detroit Will Surprise and Amaze You appeared first on Outside Online .",
-      "date": "2026-07-10T15:40:03Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/Detroit_5-scaled-e1783344095821.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-10T17:52:31Z"
-    },
-    {
-      "title": "An Ancient Sea Once Split North America Down the Middle. The Beautiful Multicolored Ammonite Shells From Its Waters Are So Perfectly Preserved That They Still Shimmer Today",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/an-ancient-sea-once-split-north-america-down-the-middle-the-beautiful-multicolored-ammonite-shells-from-its-waters-are-so-perfectly-preserved-that-they-still-shimmer-today-180989104/",
-      "summary": "Spectacular marine fossils tell the story of the long-gone Western Interior Seaway and the planet’s past aquatic life",
-      "date": "2026-07-10T16:30:59Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/ZjtyXBQ8Z4NcEh9gnjxLfRHsj8U=/420x240/filters:focal(754x503:755x504)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/79/1b/791bc42a-4527-4646-a6f1-f435460f9649/untitled.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-10T17:52:33Z"
-    },
-    {
-      "title": "DNA Reveals the Identity of a Teenager Who Died in the Revolutionary War, Cracking a Nearly 250-Year-Old Cold Case",
-      "link": "https://www.smithsonianmag.com/history/dna-reveals-the-identity-of-a-teenager-who-died-in-the-revolutionary-war-cracking-a-nearly-250-year-old-cold-case-180989095/",
-      "summary": "John Pumphrey was still a boy when he enlisted in the Continental Army in 1777. After archaeologists discovered his remains, a genetic genealogy analysis identified 20,000 DNA matc",
-      "date": "2026-07-10T16:07:49Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/uQgxFeu0vzCDO0QmFjmWuO47kLU=/420x240/filters:focal(2016x1517:2017x1518)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f2/1f/f21fd14f-3eff-49e4-abcf-8bf3ccdc8115/img_3924_1.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-10T17:52:33Z"
-    },
-    {
-      "title": "Bumblebees Seem to 'Lick Their Lips' After Sweet Treats and Shake Their Heads at Bad Tastes, Hinting at the Insects' Inner Lives",
-      "link": "https://www.smithsonianmag.com/smart-news/bumblebees-seem-to-lick-their-lips-after-sweet-treats-and-shake-their-heads-at-bad-tastes-hinting-at-the-insects-inner-lives-180989098/",
-      "summary": "Slow-motion videos suggest that the insects display distinct behaviors when they like or dislike a snack. The findings might offer a new way to study their emotion-like states",
-      "date": "2026-07-10T15:45:42Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/iS8aOIOlA8ONJ4AyfWbsdNz2Qbg=/420x240/filters:focal(3504x2002:3505x2003)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/00/dc/00dcd4f5-2093-4d54-83b6-2adc19413924/7_dsc06420.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-10T17:52:33Z"
-    },
-    {
-      "title": "Pluto has landslides",
-      "link": "https://www.sciencenews.org/article/pluto-landslides-nasa-new-horizons",
-      "summary": "New Horizons data reveal Pluto’s first six confirmed landslides along steep crater rims.",
-      "date": "2026-07-10T17:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/070626_KK_Plutolandslide_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-10T17:52:34Z"
-    },
-    {
-      "title": "UN space database aimed at easing global tensions is mysteriously down",
-      "link": "https://www.newscientist.com/article/2533721-un-space-database-aimed-at-easing-global-tensions-is-mysteriously-down/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "summary": "A list of global space launches designed to calm cold war tensions and promote transparency has been missing from the UN's website for months",
-      "date": "2026-07-10T15:11:26Z",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/07/10150517/SEI_304768873.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-10T17:52:36Z"
     }
   ]
 }
