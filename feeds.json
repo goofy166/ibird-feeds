@@ -1,8 +1,85 @@
 {
-  "updated": "2026-07-21T21:18:31Z",
-  "updated_utc": "2026-07-21T21:18:31Z",
+  "updated": "2026-07-21T23:03:52Z",
+  "updated_utc": "2026-07-21T23:03:52Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Ape cuddles could prevent conflicts",
+      "link": "https://www.sciencenews.org/article/ape-physical-touch-stress-relief-chimps",
+      "summary": "Humans could learn from chimpanzees and bonobos, who turn to group members for physical comfort during tense moments.",
+      "date": "Tue, 21 Jul 2026 23Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/072126_MR_primate-cuddles_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-21T23:03:45Z"
+    },
+    {
+      "title": "A native California wildflower isn't keeping up with climate change",
+      "link": "https://phys.org/news/2026-07-native-california-wildflower-isnt-climate.html",
+      "summary": "The mountain jewelflower inhabits a wide swath of California and Oregon, from summer-scorched foothills to high mountains where snow falls during winter. But it is already sufferin",
+      "date": "2026-07-21T22:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-native-california-wi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-21T23:03:48Z"
+    },
+    {
+      "title": "Cameras on whale sharks reveal they are the snackers of the sea",
+      "link": "https://phys.org/news/2026-07-cameras-whale-sharks-reveal-snackers.html",
+      "summary": "New video evidence has revealed whale sharks, the largest fish in the sea, are serial snackers, feeding on large amounts of small prey at all ocean depths, according to research le",
+      "date": "2026-07-21T22:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cameras-on-whale-shark.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-21T23:03:48Z"
+    },
+    {
+      "title": "Cone snail venom peptide could enable injectable non-opioid pain relief",
+      "link": "https://phys.org/news/2026-07-cone-snail-venom-peptide-enable.html",
+      "summary": "An international research team led by the Medical University of Vienna has investigated a new peptide derived from cone snail venom that significantly reduced inflammation-induced ",
+      "date": "2026-07-21T22:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-approach-to-the-de.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-21T23:03:48Z"
+    },
+    {
+      "title": "AI tool predicts how DNA sequences switch on genes across different cell types",
+      "link": "https://phys.org/news/2026-07-ai-tool-dna-sequences-genes.html",
+      "summary": "Deep learning approaches have transformed how scientists predict the activity and function of DNA sequences in the genome. A new AI tool called Corgi (Context-aware Regulatory Geno",
+      "date": "2026-07-21T21:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-ai-based-tool-allo.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-21T23:03:48Z"
+    },
+    {
+      "title": "São Paulo archipelago serves as a breeding ground for endangered sharks",
+      "link": "https://phys.org/news/2026-07-paulo-archipelago-ground-endangered-sharks.html",
+      "summary": "The critically endangered sand tiger shark (Carcharias taurus) appears to have found a refuge off the northern coast of the state of São Paulo, Brazil, for mating and reproduction.",
+      "date": "2026-07-21T21:30:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/archipelago-in-so-paul.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-21T23:03:48Z"
+    },
+    {
+      "title": "Tapeworm hijacks worker ants, giving them queen-like metabolism and longer lives",
+      "link": "https://phys.org/news/2026-07-tapeworm-hijacks-worker-ants-queen.html",
+      "summary": "A tapeworm fundamentally changes the lives of ants: Workers of the species Temnothorax nylanderi infected with the tapeworm Anomotaenia brevis live several times longer than their ",
+      "date": "2026-07-21T21:20:09Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tapeworms-make-ants-li.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-21T23:03:48Z"
+    },
     {
       "title": "Baby American mink rescued after wandering into North Bay yard",
       "link": "https://www.mercurynews.com/2026/07/13/rare-baby-american-mink-rescued-after-wandering-into-healdsburg-yard/",
@@ -5425,83 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-14T11:37:04Z"
-    },
-    {
-      "title": "Summer Triangle star Deneb is distant and luminous",
-      "link": "https://earthsky.org/brightest-stars/deneb-among-the-farthest-stars-to-be-seen/",
-      "summary": "When you gaze at the bright star Deneb, you’re gazing across thousands of light-years of space at one of the bright stars of the huge Summer Triangle asterism. The post Summer Tria",
-      "date": "Tue, 14 Jul 2026 09Z",
-      "image": "https://earthsky.org/upl/2022/07/Cygnus-East-Summer-Evenings-800x450-1.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-14T09:09:45Z"
-    },
-    {
-      "title": "'It affects your daily life suddenly': Sea level researcher explains why once-in-a-century floods could become the new normal",
-      "link": "https://www.livescience.com/planet-earth/climate-change/it-affects-your-daily-life-suddenly-sea-level-researcher-explains-why-once-in-a-century-floods-could-become-the-new-normal",
-      "summary": "Live Science spoke with sea level expert Sönke Dangendorf about how human-caused sea-level rise is increasing extreme water levels, as once-in-a-century flooding events become deca",
-      "date": "Tue, 14 Jul 2026 09Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Kgse6DgbafXKKSEZjPCjjd-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-14T09:09:57Z"
-    },
-    {
-      "title": "Space shuttle photobombs Earth for the final time, 15 years ago — Earth from space",
-      "link": "https://www.livescience.com/planet-earth/space-shuttle-photobombs-earth-for-the-final-time-15-years-ago-earth-from-space",
-      "summary": "This 2011 astronaut photo captured one of NASA's iconic space shuttles passing between Earth and the International Space Station for the very last time.",
-      "date": "Tue, 14 Jul 2026 08Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/9mdwhPMbim7i9W4AACY22X-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-14T09:09:57Z"
-    },
-    {
-      "title": "Can you spot the poacher’s handprint? Earth Photo award winners – in pictures",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2026/jul/14/earth-photo-award-winners",
-      "summary": "From scientific tricks to stop turtle traffickers to stranded seals and displaced workers, these images all scooped prizes at this year’s Earth Photo awards Continue reading...",
-      "date": "2026-07-14T06:00:22Z",
-      "image": "https://i.guim.co.uk/img/media/04f30e5f66646dc244a0eb4c8acadea709c39300/673_0_6728_5382/master/6728.jpg?width=140&quality=85&auto=format&fit=max&s=657cebf8d0a7b52cc6754c6386a6d647",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-14T06:18:21Z"
-    },
-    {
-      "title": "Country diary: Spot the young hare – they know how to make it hard | Ed Douglas",
-      "link": "https://www.theguardian.com/environment/2026/jul/14/country-diary-spot-the-young-hare-they-know-how-to-make-it-hard",
-      "summary": "Eyam Moor, Derbyshire: I go in search of a leveret, which is a tricky business. For them, subterfuge is key to survival High on Eyam Moor, there was no shortage of things to look a",
-      "date": "2026-07-14T04:30:19Z",
-      "image": "https://i.guim.co.uk/img/media/b1a07631342227ed0d00aed43f7b9ae203ed7d8f/159_0_4269_3414/master/4269.jpg?width=140&quality=85&auto=format&fit=max&s=f1e8e2c7c29ec74cafc73bf8f8e68e53",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-14T06:18:21Z"
-    },
-    {
-      "title": "The Pull-Up Is Overrated. A Certified Strength and Conditioning Specialist Shares 6 Exercises to Do Instead.",
-      "link": "https://www.outsideonline.com/health/training-performance/pull-up-alternatives-back-upper-body-strength/",
-      "summary": "The pull-up is overrated. A certified strength and conditioning specialist shares the best moves, broken down by outdoor sport, to build a stronger upper body and keep you agile on",
-      "date": "Tue, 14 Jul 2026 06Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/pull-ups-exercises-alternatives.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-14T06:18:27Z"
-    },
-    {
-      "title": "How redefining one word strips the Endangered Species Act's ability to protect vital habitat",
-      "link": "https://phys.org/news/2026-07-redefining-word-endangered-species-ability.html",
-      "summary": "It wouldn't make much sense to prohibit people from shooting a threatened woodpecker while allowing its forest to be cut down, or to bar killing endangered salmon while allowing a ",
-      "date": "2026-07-14T00:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-redefining-one-wor.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-14T03:23:11Z"
     }
   ]
 }
