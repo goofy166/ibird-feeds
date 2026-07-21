@@ -1,8 +1,107 @@
 {
-  "updated": "2026-07-21T19:42:12Z",
-  "updated_utc": "2026-07-21T19:42:12Z",
+  "updated": "2026-07-21T21:18:31Z",
+  "updated_utc": "2026-07-21T21:18:31Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Baby American mink rescued after wandering into North Bay yard",
+      "link": "https://www.mercurynews.com/2026/07/13/rare-baby-american-mink-rescued-after-wandering-into-healdsburg-yard/",
+      "summary": "A tiny American mink mistaken for an otter is recovering after wandering into a Healdsburg yard near the Russian River last month.",
+      "date": "2026-07-13T17:13:30Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/TPD-L-mink-071026-01_46dcc8-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-07-21T21:18:20Z"
+    },
+    {
+      "title": "Salmon fishing resumes off California coast for first time since 2022. Here’s what that means",
+      "link": "https://www.mercurynews.com/2026/07/13/salmon-fishing-resumes-off-california-coast-for-first-time-since-2022-heres-what-that-means-2/",
+      "summary": "The return marks a long-awaited milestone for a troubled industry that has endured historic losses in revenue and resources but industry veterans say questions remain about both th",
+      "date": "2026-07-13T14:58:07Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/TPD-L-SalmonFishing-070828-01-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-07-21T21:18:20Z"
+    },
+    {
+      "title": "We Lab-Tested $50 Amazon Running Shoes Against Name-Brand Kicks. Here’s What’s Actually Worth Buying.",
+      "link": "https://www.outsideonline.com/outdoor-gear/run/we-lab-tested-budget-running-shoes-against-expensive-brands/",
+      "summary": "Do expensive running shoes really perform better than budget models in head-to-head testing? We took to the lab to find out. The post We Lab-Tested $50 Amazon Running Shoes Against",
+      "date": "Tue, 21 Jul 2026 21Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/budget-vs-brand_h.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-21T21:18:22Z"
+    },
+    {
+      "title": "Decades-old strains reveal Brakhagea, a budding bacterial genus with bioactive potential",
+      "link": "https://phys.org/news/2026-07-decades-strains-reveal-brakhagea-budding.html",
+      "summary": "Some microorganisms that hold great promise for research have long lain dormant in historical collections. But only through new methods are their diversity and potential becoming a",
+      "date": "2026-07-21T21:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-bacterial-genus-br.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-21T21:18:28Z"
+    },
+    {
+      "title": "Truffles are on the menu for threatened marsupials returning to a World Heritage area",
+      "link": "https://phys.org/news/2026-07-truffles-menu-threatened-marsupials-world.html",
+      "summary": "A new study from Edith Cowan University (ECU) confirms that the presence of fungal food resources is important for supporting the reintroduction of two threatened marsupials to the",
+      "date": "2026-07-21T21:00:09Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/truffles-are-on-the-me.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-21T21:18:28Z"
+    },
+    {
+      "title": "Uproar in France over reintroduction of bee-harming pesticides",
+      "link": "https://phys.org/news/2026-07-uproar-france-reintroduction-bee-pesticides.html",
+      "summary": "France's parliament on Tuesday backed a controversial bill authorizing farmers to use two bee-harming pesticides despite an outcry from environmentalists and left-wing politicians.",
+      "date": "2026-07-21T20:40:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-has-found-ace.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-21T21:18:28Z"
+    },
+    {
+      "title": "New peptide strategy aims to make cancer targeting more precise",
+      "link": "https://phys.org/news/2026-07-peptide-strategy-aims-cancer-precise.html",
+      "summary": "Researchers at the University of Tennessee, Knoxville, are working on a promising strategy to make cancer therapies smarter and more precise, using peptides that switch on in the a",
+      "date": "2026-07-21T20:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-peptide-strategy-a.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-21T21:18:28Z"
+    },
+    {
+      "title": "Invasive plants boost mosquitoes in low-income areas of Baltimore and DC",
+      "link": "https://phys.org/news/2026-07-invasive-boost-mosquitoes-income-areas.html",
+      "summary": "In many urban areas, low-income neighborhoods have more mosquitoes, making residents more vulnerable to mosquito-borne diseases. A new study co-authored by scientists at Cary Insti",
+      "date": "2026-07-21T20:30:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/invasive-plants-boost.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-21T21:18:28Z"
+    },
+    {
+      "title": "Researchers develop automated system to accelerate outbreak detection and disease surveillance",
+      "link": "https://phys.org/news/2026-07-automated-outbreak-disease-surveillance.html",
+      "summary": "Biomedical engineers at Brown University have developed a fully automated workflow that simplifies and accelerates the preparation of bacterial samples for genetic sequencing. The ",
+      "date": "2026-07-21T19:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-au.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-21T21:18:28Z"
+    },
     {
       "title": "Can an Oakland raccoon family be discouraged from eating food meant for cats?",
       "link": "https://www.mercurynews.com/2026/07/13/can-an-oakland-raccoon-family-be-discouraged-from-eating-food-meant-for-cats/",
@@ -5403,105 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-14T03:23:11Z"
-    },
-    {
-      "title": "President Trump Just Took a Hatchet to Bears Ears and Grand Staircase National Monuments",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/president-trump-just-took-a-hatchet-to-bears-ears-and-grand-staircase-national-monuments/",
-      "summary": "Trump signed an order slashing Utah’s Bears Ears and Grand Staircase-Escalante national monuments by nearly 3 million acres. The post President Trump Just Took a Hatchet to Bears E",
-      "date": "2026-07-13T23:12:23Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/GettyImages-507916864.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-13T23:58:17Z"
-    },
-    {
-      "title": "Maya mathematician’s name decoded alongside astronomical formula",
-      "link": "https://www.newscientist.com/article/2578746-maya-mathematicians-name-decoded-alongside-astronomical-formula/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Hieroglyphs on the wall of a Maya building record calculations concerning the orbits of Earth, Mars and Venus, as well as the name of a mathematician who wrote the text around 1200",
-      "date": "2026-07-13T23:01:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305097838.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-13T23:58:22Z"
-    },
-    {
-      "title": "A Yellowstone Bison Launched a Person 8 Feet Into the Air. The Scariest Part? He Did Everything Right.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/aggressive-bull-bison-attack-yellowstone-campground-rut/",
-      "summary": "Most wildlife incidents involve tourists getting too close. A recent, unprovoked attack in Yellowstone shows how surging hormones turn bull bison into unpredictable tanks. The post",
-      "date": "2026-07-13T20:55:35Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/GettyImages-1077369526.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-13T22:01:38Z"
-    },
-    {
-      "title": "This T. Rex Fossil Could Fetch the Largest Sum of Any Dinosaur Ever Auctioned. Scientists Worry They'll Lose the Chance to Study It",
-      "link": "https://www.smithsonianmag.com/smart-news/this-t-rex-fossil-could-fetch-the-largest-sum-of-any-dinosaur-ever-auctioned-scientists-worry-theyll-lose-the-chance-to-study-it-180989114/",
-      "summary": "Bids on \"Gus\" will start at $19 million, a steep price for public institutions. Specimens in private collections can be harder for researchers to examine, and they're practically i",
-      "date": "2026-07-13T20:13:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/LFp-_ka-F57N1Ko75mnvVeANIkc=/420x240/filters:focal(3352x2005:3353x2006)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/54/d2/54d2a89c-e839-4a90-8c40-3c6c354825d4/photo_credit__matthew_sherman_3.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-13T22:01:40Z"
-    },
-    {
-      "title": "Rattlesnake Master Plant Care and Growing Tips",
-      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/rattlesnake-master/",
-      "summary": "Rattlesnake master is an unusual beauty packed with pollinator perks. Learn how — and why — to add this prairie plant to your garden. The post Rattlesnake Master Plant Care and Gro",
-      "date": "2026-06-26T15:19:17Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/GettyImages-1422828688.jpg?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-07-13T20:19:17Z"
-    },
-    {
-      "title": "The Nolan Wells Case Reminds Us That Group Separation in the Outdoors Can Be Deadly. Experts Share Their Best Advice for Avoiding Tragedy.",
-      "link": "https://www.outsideonline.com/culture/opinion/nolan-wells-outdoor-separation-prevention/",
-      "summary": "Nolan Wells, the Black teen who went on a boating trip with white friends over the July 4th weekend, didn't come home. Search-and-rescue expert Robert J. Koester and psychotherapis",
-      "date": "2026-07-13T19:42:05Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/nolan-wells-featured-image-deep-sea-water-final-2.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-13T20:19:28Z"
-    },
-    {
-      "title": "Artemis 1's Orion Spacecraft Withstood the Heat of Re-entry in a Critical Test for Humans' Return to the Moon. Now, NASA Will Loan the Historic Capsule to the Smithsonian's National Air and Space Museum",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/artemis-1s-orion-spacecraft-withstood-the-heat-of-re-entry-in-a-critical-test-for-humans-return-to-the-moon-now-nasa-will-loan-the-historic-capsule-to-the-smithsonians-national-air-and-space-museum-180989094/",
-      "summary": "The exact timeline for the spacecraft's display hasn’t been announced, but the artifact will fit into an upcoming exhibition on how humans have built a long-term presence in Earth ",
-      "date": "2026-07-13T19:09:02Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/tbc9AFUC093hmo_1zPtg01K67lA=/420x240/filters:focal(2000x1505:2001x1506)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6f/ba/6fbae80b-16ca-4542-9ddc-5569dbcb1699/artemis_i_earth_moon_side_by_side.webp",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-13T20:19:30Z"
-    },
-    {
-      "title": "Scientists uncover molecular mechanism linking water-saving irrigation to cadmium accumulation in rice",
-      "link": "https://phys.org/news/2026-07-scientists-uncover-molecular-mechanism-linking.html",
-      "summary": "Water-saving irrigation practices, including intermittent irrigation, are essential for sustainable rice cultivation amid growing freshwater shortages. However, periodic drainage c",
-      "date": "2026-07-13T20:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-uncover-mol-4.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-13T20:19:35Z"
-    },
-    {
-      "title": "The family tree of viruses just grew, and it paves the way for a new approach to agricultural research",
-      "link": "https://phys.org/news/2026-07-family-tree-viruses-grew-paves.html",
-      "summary": "Researchers have discovered that a group of viruses known to infect an agriculturally important plant pathogen has remained genetically stable for an astonishing four decades. The ",
-      "date": "2026-07-13T18:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-family-tree-of-vir.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-13T20:19:35Z"
     }
   ]
 }
