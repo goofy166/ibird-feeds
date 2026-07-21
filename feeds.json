@@ -1,8 +1,30 @@
 {
-  "updated": "2026-07-20T22:06:49Z",
-  "updated_utc": "2026-07-20T22:06:49Z",
+  "updated": "2026-07-21T00:03:05Z",
+  "updated_utc": "2026-07-21T00:03:05Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How, Exactly, Could Deep-Sea Mining Benefit All of Humanity?",
+      "link": "https://hakaimagazine.com/news/how-exactly-could-deep-sea-mining-benefit-all-of-humanity/",
+      "summary": "When Arvid Pardo, a Maltese diplomat, took the floor at the United Nations General Assembly in New York in 1967 and began speaking at length on international law, the room was spar",
+      "date": "2024-12-20T08:01:54Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-benefit-of-humanity.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-07-21T00:02:52Z"
+    },
+    {
+      "title": "Unusual three-way bestows magnetic sense to single-celled organism",
+      "link": "https://phys.org/news/2026-07-unusual-bestows-magnetic-celled.html",
+      "summary": "How do microorganisms orient themselves to find the optimal habitat? Scientists have thoroughly investigated so-called magnetotactic bacteria, which use the Earth's magnetic field ",
+      "date": "2026-07-20T23:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unique-symbiosis-besto.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-21T00:03:01Z"
+    },
     {
       "title": "Could You Survive a Wildfire? 10 Lessons from Veteran Firefighters That Could Save Your Life.",
       "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/wildfire-survival-guide-backcountry/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-07-12T15:04:14Z"
-    },
-    {
-      "title": "4th batch of Pentagon UAP files: ‘Floating brain’ goes viral",
-      "link": "https://earthsky.org/human-world/pentagon-uap-files-4th-batch-ufos/",
-      "summary": "The 4th batch of the Pentagon UAP files has just been released. The files range from a \"floating brain\" video to more historical documents, including from NASA. The post 4th batch ",
-      "date": "2026-07-12T12:00:37Z",
-      "image": "https://earthsky.org/upl/2026/07/floating-brain-UAP-UFO-Forbes-4th-batch.webp",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-12T13:43:17Z"
-    },
-    {
-      "title": "The First First Responders",
-      "link": "https://hakaimagazine.com/features/the-first-first-responders/",
-      "summary": "When a ship wrecks on an unfamiliar coastline, an already desperate situation is all the more dire. Blinded by the night, and lost, the captain and crew of the Puritan, a four-mast",
-      "date": "Tue, 24 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-first-first-responder.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-07-12T13:43:18Z"
     }
   ]
 }
