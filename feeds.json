@@ -1,8 +1,151 @@
 {
-  "updated": "2026-07-21T17:36:46Z",
-  "updated_utc": "2026-07-21T17:36:46Z",
+  "updated": "2026-07-21T19:42:12Z",
+  "updated_utc": "2026-07-21T19:42:12Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Can an Oakland raccoon family be discouraged from eating food meant for cats?",
+      "link": "https://www.mercurynews.com/2026/07/13/can-an-oakland-raccoon-family-be-discouraged-from-eating-food-meant-for-cats/",
+      "summary": "The trick is that keeping food safe from raccoons probably means the cats can't eat it either",
+      "date": "2026-07-13T13:30:52Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/SJM-L-JOANCOL-0713-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-07-21T19:42:01Z"
+    },
+    {
+      "title": "Ultimate Mountain Athlete: Episode 7",
+      "link": "https://www.outsideonline.com/outdoor-adventure/snow-sports/ultimate-mountain-athlete-episode-7/",
+      "summary": "After trading bikes for skis, athletes get one final shot for glory with the freestyle event on Silverton Mountain The post Ultimate Mountain Athlete: Episode 7 appeared first on O",
+      "date": "Tue, 21 Jul 2026 19Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/justinross_UMA-Season-2_freeride_silverton-mountain_high-res-87-scaled-e1784051164941.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-21T19:42:02Z"
+    },
+    {
+      "title": "Ultimate Mountain Athlete: Episode 8",
+      "link": "https://www.outsideonline.com/outdoor-gear/cars-trucks/ultimate-mountain-athlete-episode-8/",
+      "summary": "And the winner is… The post Ultimate Mountain Athlete: Episode 8 appeared first on Outside Online .",
+      "date": "Tue, 21 Jul 2026 19Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/justinross_UMA-Season-2_final-day-awards_high-res-52-scaled.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-21T19:42:02Z"
+    },
+    {
+      "title": "A Volunteer Stumbled Upon a Strange Document in the U.K. National Archives. It Turned Out to Be a Rare Copy of the Declaration of Independence Printed in July 1776",
+      "link": "https://www.smithsonianmag.com/smart-news/a-volunteer-stumbled-upon-a-strange-document-in-the-uk-national-archives-it-turned-out-to-be-a-rare-copy-of-the-declaration-of-independence-printed-in-july-1776-180989169/",
+      "summary": "Michael Scurr, a retired insurance broker, found the text while cataloging boxes of 18th-century correspondence housed at the London archives. It's the only known copy of its kind ",
+      "date": "Tue, 21 Jul 2026 19Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/5hgLZYQoquEJ4B2INsu3T-n99jg=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0d/bd/0dbdb598-3662-410d-80ac-e487c47b7ef2/declaration-of-independence-archives.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-21T19:42:04Z"
+    },
+    {
+      "title": "Naked Mole-Rat Queens Emit a Special Scent to Stop Their Rivals From Reproducing, a New Study Suggests",
+      "link": "https://www.smithsonianmag.com/smart-news/naked-mole-rat-queens-emit-a-special-scent-to-stop-their-rivals-from-reproducing-a-new-study-suggests-180989148/",
+      "summary": "The strange-looking creatures are one of two known mammals that use a social structure like that of bees and ants. A ruling rodent maintains power over her colony via one key chemi",
+      "date": "Tue, 21 Jul 2026 19Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/k6x-9yDmJL3rkclGVa8-GhSIGJA=/420x240/filters:focal(1440x754:1441x755)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/94/a8/94a86081-317b-4091-aae2-53afb883fb9f/09-05_photo_naked_mole-rats_khallaf__lewin_felix_petermann_max_delbruck_center-5984.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-21T19:42:04Z"
+    },
+    {
+      "title": "Sleeping sickness parasite reveals enzyme weak spot that could guide safer drugs",
+      "link": "https://phys.org/news/2026-07-sickness-parasite-reveals-enzyme-weak.html",
+      "summary": "African sleeping sickness and related diseases can be treated only with toxic and sometimes ineffective drugs. Now, University of Connecticut researchers show in Nucleic Acids Rese",
+      "date": "2026-07-21T19:20:13Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sleeping-sickness-para.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-21T19:42:09Z"
+    },
+    {
+      "title": "Understudied dogs may reshape what science knows about canine behavior",
+      "link": "https://phys.org/news/2026-07-understudied-dogs-reshape-science-canine.html",
+      "summary": "Dogs are humans' best friends in many places across the globe. But does a dog in New York City respond in the same way as a dog in Kyoto or Buenos Aires?",
+      "date": "2026-07-21T19:10:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/dog.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-21T19:42:09Z"
+    },
+    {
+      "title": "Researchers call for a shift in crop development to tackle hunger, malnutrition, and climate change",
+      "link": "https://phys.org/news/2026-07-shift-crop-tackle-hunger-malnutrition.html",
+      "summary": "Feeding a growing global population is no longer enough. Scientists say the next generation of crops must also deliver better nutrition while withstanding the increasing impacts of",
+      "date": "2026-07-21T18:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-call-for-a-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-21T19:42:09Z"
+    },
+    {
+      "title": "Hawaiian stilt reclassified from endangered to threatened after 50 years of conservation efforts",
+      "link": "https://phys.org/news/2026-07-hawaiian-stilt-reclassified-endangered-threatened.html",
+      "summary": "The U.S. Fish and Wildlife Service announced the reclassification of the Aʻeo, or Hawaiian stilt (Himantopus mexicanus knudseni), from endangered to threatened under the Endangered",
+      "date": "2026-07-21T18:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mnoa-aeo-hawaiian-stil.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-21T19:42:09Z"
+    },
+    {
+      "title": "New insights into how DNA, the body's instruction manual for life, is regulated",
+      "link": "https://phys.org/news/2026-07-insights-dna-body-manual-life.html",
+      "summary": "Scientists at the Peter MacCallum Cancer Center have uncovered new insights into how cells regulate DNA methylation, a fundamental process that helps keep potentially harmful viral",
+      "date": "2026-07-21T18:10:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dna.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-21T19:42:09Z"
+    },
+    {
+      "title": "Study shows nutrient loss in vineyards can be attributed to factors beyond fruit harvest",
+      "link": "https://phys.org/news/2026-07-nutrient-loss-vineyards-attributed-factors.html",
+      "summary": "New research from Washington State University could help grape growers improve nutrient use efficiency and develop a more accurate fertilizer budget, helping ensure high fruit qual",
+      "date": "2026-07-21T17:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-shows-nutrient-l.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-21T19:42:09Z"
+    },
+    {
+      "title": "Zoo elephant survival has improved substantially over 6 decades, international study finds",
+      "link": "https://phys.org/news/2026-07-zoo-elephant-survival-substantially-decades.html",
+      "summary": "Elephants living in modern zoos are living significantly longer than they did half a century ago, according to a study published in the journal Scientific Reports. The research—led",
+      "date": "2026-07-21T17:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/elephant-zoo.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-21T19:42:09Z"
+    },
+    {
+      "title": "Greenland meltwater will drive a 'strong weakening, but not a shutdown' of key Atlantic currents, study finds",
+      "link": "https://www.livescience.com/planet-earth/rivers-oceans/greenland-meltwater-will-drive-a-strong-weakening-but-not-a-shutdown-of-key-atlantic-currents-study-finds",
+      "summary": "New modeling suggests meltwater from the Greenland ice sheet has a big weakening influence on the Atlantic Meridional Overturning Circulation, but the runoff likely won't cause a c",
+      "date": "Tue, 21 Jul 2026 18Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZSaTu67uS6r7bQkzhriURk-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-21T19:42:10Z"
+    },
     {
       "title": "Bird Friendly Certification: 8 Requirements Coffee Farms Need to Satisify",
       "link": "https://birdwatchinghq.com/bird-friendly-certification-requirements-for-coffee-farms/",
@@ -5359,149 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-13T20:19:35Z"
-    },
-    {
-      "title": "Famous puzzle-solving chimps lost 20 years of life after harsh Berlin winters",
-      "link": "https://phys.org/news/2026-07-famous-puzzle-chimps-lost-years.html",
-      "summary": "A University of Auckland scientist has uncovered the fates of chimpanzees who starred in seminal psychological studies of the early 20th century.",
-      "date": "2026-07-13T18:10:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fates-of-famous-proble.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-13T20:19:35Z"
-    },
-    {
-      "title": "5 'extremely rare' iron shackles discovered in France highlight Celtic slave trade 2,300 years ago",
-      "link": "https://www.livescience.com/archaeology/5-extremely-rare-iron-shackles-discovered-in-france-highlight-celtic-slave-trade-2-300-years-ago",
-      "summary": "Archaeologists were surprised to find evidence of shackles in a pre-Roman settlement in France.",
-      "date": "2026-07-13T19:50:21Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/aMfKqPgkPmaAtmqb3UYdqH-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-13T20:19:36Z"
-    },
-    {
-      "title": "Baby American mink rescued after wandering into North Bay yard",
-      "link": "https://www.mercurynews.com/2026/07/13/rare-baby-american-mink-rescued-after-wandering-into-healdsburg-yard/",
-      "summary": "A tiny American mink mistaken for an otter is recovering after wandering into a Healdsburg yard near the Russian River last month.",
-      "date": "2026-07-13T17:13:30Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/TPD-L-mink-071026-01_46dcc8-1.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-07-13T18:00:36Z"
-    },
-    {
-      "title": "The Largest Operating Steam Locomotive in the World Weighs 1.2 Million Pounds. Now, the Historic Train May Be Coming to Your Town",
-      "link": "https://www.smithsonianmag.com/smart-news/the-largest-operating-steam-locomotive-in-the-world-weighs-1-2-million-pounds-now-the-historic-train-may-be-coming-to-your-town-180989112/",
-      "summary": "Built in the 1940s, Big Boy No. 4014 retired in 1961 after traveling for more than one million miles. It's now making its way across the country in honor of America's 250th birthda",
-      "date": "2026-07-13T17:26:51Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/rw43S71GvFc31TBThOgp5YGbUI8=/420x240/filters:focal(958x548:959x549)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e5/46/e546a24a-94be-4def-9605-0cef79c7adc6/big_boy_no_4014_on_display_in_philadelphia.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-13T18:00:39Z"
-    },
-    {
-      "title": "Cancer Cases Are Expected to Nearly Double by 2050, Warns the WHO. Low-Income Countries Will Be Disproportionately Affected",
-      "link": "https://www.smithsonianmag.com/smart-news/cancer-cases-are-expected-to-nearly-double-by-2050-warns-the-who-low-income-countries-will-be-disproportionately-affected-180989102/",
-      "summary": "In a new report, the World Health Organization predicts that new annual diagnoses will rise from about 20.6 million today to almost 35 million by 2050. The biggest increases will b",
-      "date": "2026-07-13T15:44:42Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/uxjjPi2CV-G9SEmJPZowDKtXspc=/420x240/filters:focal(2850x1900:2851x1901)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/70/7d/707d30f5-3f4a-4e4d-bd89-9ecf92beaec6/cancer.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-13T18:00:39Z"
-    },
-    {
-      "title": "How humans evolved to be twice as big as our ancestors",
-      "link": "https://www.newscientist.com/article/2533221-how-humans-evolved-to-be-twice-as-big-as-our-ancestors/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Artistic representations of ancient humans often show large men with bulging muscles – but our ancestors were actually smaller than us, in both height and body mass. Columnist Mich",
-      "date": "2026-07-13T17:00:03Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/07160623/sei304388760.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-13T18:00:42Z"
-    },
-    {
-      "title": "Shrimp feeding behavior observed under simulated microgravity",
-      "link": "https://phys.org/news/2026-07-shrimp-behavior-simulated-microgravity.html",
-      "summary": "The Space Aquaculture Project at Okayama University of Science is an ambitious research initiative aimed at cultivating fish and crustaceans on the moon and Mars, which are expecte",
-      "date": "2026-07-13T17:54:20Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shrimp-feeding-behavio.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-13T18:00:44Z"
-    },
-    {
-      "title": "Hidden in plain sight: Caribbean reef fish nestle in tube worms, revealing previously undocumented partnership",
-      "link": "https://phys.org/news/2026-07-hidden-plain-sight-caribbean-reef.html",
-      "summary": "On Caribbean coral reefs, an unlikely partnership has gone largely unnoticed: Tiny fish regularly nestle within the feathery structures of tube worms. While these sensitive worms t",
-      "date": "2026-07-13T17:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-in-plain-sight-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-13T18:00:44Z"
-    },
-    {
-      "title": "Big bees have the most to lose as global CO₂ levels rise: New research",
-      "link": "https://phys.org/news/2026-07-big-bees-global.html",
-      "summary": "Pollinators—including bees, flies, wasps, moths, butterflies and some nectar-loving birds—are a cornerstone of our natural environment. By helping plants reproduce, they keep our e",
-      "date": "2026-07-13T16:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bombus-asiaticus.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-07-13T18:00:44Z"
-    },
-    {
-      "title": "Dolphin deaths in South Australia spike after algal bloom decimates food sources",
-      "link": "https://www.theguardian.com/environment/2026/jul/14/dolphin-deaths-south-australia-algal-bloom",
-      "summary": "The March 2025 marine disaster may be linked to a high number of dolphin deaths in the region, scientists say Get our breaking news email , free app or daily news podcast The numbe",
-      "date": "2026-07-13T15:00:51Z",
-      "image": "https://i.guim.co.uk/img/media/27f054e5f47882e15d3af0749ba2c2ac04db24c7/83_0_2274_1820/master/2274.jpg?width=140&quality=85&auto=format&fit=max&s=bec7b44d6841b89023ad48c45ba0080c",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-13T15:45:45Z"
-    },
-    {
-      "title": "First came the dead fish, then invasive plants. A year later and Lake Suchitlán’s pollution remains a mystery",
-      "link": "https://www.theguardian.com/global-development/2026/jul/13/el-salvador-lake-suchitlan-pollution-waste-water-invasive-plants-fish",
-      "summary": "Fishers on El Salvador’s largest lake are still looking for answers after the die-off, with no explanation provided by the government From the village of Copapayo, Noel Avalos reca",
-      "date": "2026-07-13T13:00:48Z",
-      "image": "https://i.guim.co.uk/img/media/e5a76a4f6f71a1b3a84260d40ddb11550d10af65/542_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7a7e4864e3197212b6e9d518bbf8158a",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-13T15:45:45Z"
-    },
-    {
-      "title": "The giraffe weevil: When a beetle grows a giraffe’s neck",
-      "link": "https://earthsky.org/earth/the-giraffe-weevil-when-a-beetle-grows-a-giraffes-neck/",
-      "summary": "The giraffe weevil is a tiny Madagascan beetle with a super-long neck, leaf-rolling skills and a fantastic evolutionary story. The post The giraffe weevil: When a beetle grows a gi",
-      "date": "2026-07-13T12:15:34Z",
-      "image": "https://earthsky.org/upl/2026/07/giraffe-weevil-thumbnail_Magnusforsberg-iNaturalist-e1783798056785.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-13T15:45:47Z"
-    },
-    {
-      "title": "Salmon fishing resumes off California coast for first time since 2022. Here’s what that means",
-      "link": "https://www.mercurynews.com/2026/07/13/salmon-fishing-resumes-off-california-coast-for-first-time-since-2022-heres-what-that-means-2/",
-      "summary": "The return marks a long-awaited milestone for a troubled industry that has endured historic losses in revenue and resources but industry veterans say questions remain about both th",
-      "date": "2026-07-13T14:58:07Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/TPD-L-SalmonFishing-070828-01-1.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-07-13T15:45:50Z"
     }
   ]
 }
