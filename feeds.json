@@ -1,8 +1,30 @@
 {
-  "updated": "2026-07-21T04:20:04Z",
-  "updated_utc": "2026-07-21T04:20:04Z",
+  "updated": "2026-07-21T07:37:14Z",
+  "updated_utc": "2026-07-21T07:37:14Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Sun news: Fast solar wind on its way to Earth",
+      "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+      "summary": "Sun news July 20, 2026: The sun stayed quiet, but a big coronal hole's fast wind arrives July 21-22. G1 (minor) storms and auroras are possible. The post Sun news: Fast solar wind ",
+      "date": "2026-07-20T09:00:53Z",
+      "image": "https://earthsky.org/upl/2025/06/SolarWind_Animation_fast_June6-featured-NASA-SVS.webp",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-07-21T07:37:00Z"
+    },
+    {
+      "title": "Giant, milky-green vortex swirls across massive 'cryptodepression' lake in Southern Europe — Earth from space",
+      "link": "https://www.livescience.com/planet-earth/giant-milky-green-vortex-swirls-across-massive-cryptodepression-lake-in-southern-europe-earth-from-space",
+      "summary": "A 2020 astronaut photo shows a massive, milky-green vortex in Lake Skadar, which lies on the border between Montenegro and Albania.",
+      "date": "Tue, 21 Jul 2026 07Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Ms8Uoi2GdfsT4KxfAnocbi-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-21T07:37:12Z"
+    },
     {
       "title": "Google wants to release 32 million sterile mosquitoes. Our Australian tests offer a valuable lesson | Nigel Beebe for the Conversation",
       "link": "https://www.theguardian.com/environment/2026/jul/21/google-mosquito-project-release-debug-australia-test",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-12T17:07:45Z"
-    },
-    {
-      "title": "'The moon looked wrong': Artemis II mission controller Chris White on taking historic lunar flyby photos from 250,000 miles away",
-      "link": "https://www.livescience.com/space/space-exploration/the-moon-looked-wrong-artemis-ii-mission-controller-chris-white-on-taking-historic-lunar-flyby-photos-from-250-000-miles-away",
-      "summary": "Artemis II lead communications officer Chris White describes the tensest and most shocking moments of the historic moon mission, as seen from his desk at mission control in Houston",
-      "date": "2026-07-12T16:30:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/9npPm6pugmr2myA6wBqZK4-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-12T17:07:46Z"
-    },
-    {
-      "title": "AI is giving people bad money advice. Here's what I worry about most, as a finance professor.",
-      "link": "https://www.livescience.com/technology/artificial-intelligence/ai-is-giving-people-bad-money-advice-heres-what-i-worry-about-most-as-a-finance-professor",
-      "summary": "When managing your money, take a chatbot's ‘confidence’ with a grain of salt",
-      "date": "2026-07-12T16:15:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/6n4pvqbHbWWdKgCoXB2n6L-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-12T17:07:46Z"
     }
   ]
 }
