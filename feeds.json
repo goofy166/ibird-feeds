@@ -1,8 +1,74 @@
 {
-  "updated": "2026-07-21T07:37:14Z",
-  "updated_utc": "2026-07-21T07:37:14Z",
+  "updated": "2026-07-21T10:30:52Z",
+  "updated_utc": "2026-07-21T10:30:52Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Summer Triangle star: Altair is variable and spins fast!",
+      "link": "https://earthsky.org/brightest-stars/altair-the-bluish-jewel-of-the-eagle/",
+      "summary": "Altair, in the constellation Aquila the Eagle, is one of the closest stars to our solar system. It's variable in an unusual way, and it spins very fast! The post Summer Triangle st",
+      "date": "Tue, 21 Jul 2026 07Z",
+      "image": "https://earthsky.org/upl/2021/07/altair-aquila-east-summer-evenings.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-07-21T10:30:38Z"
+    },
+    {
+      "title": "What ‘Yesteryear’ Gets Right (and Wrong) About Homesteading and Outdoors Influencers",
+      "link": "https://www.outsideonline.com/culture/books-media/yesteryear-novel-homesteading-influencers-reality/",
+      "summary": "Caro Claire Burke’s hit novel sends a tradwife influencer back to 1855. Real homesteading and outdoors-focused digital creators explain what the book gets right about the gap betwe",
+      "date": "Tue, 21 Jul 2026 09Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/yesteryear.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-21T10:30:42Z"
+    },
+    {
+      "title": "Everything from cells to stars to particles exists on the edge of chaos",
+      "link": "https://www.newscientist.com/article/2580285-everything-from-cells-to-stars-to-particles-exists-on-the-edge-of-chaos/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Complex systems, be they living beings or fundamental particles, need to have enough structure to hang together along with unpredictability that can allow for change. Columnist Tho",
+      "date": "Tue, 21 Jul 2026 08Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305287616.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-21T10:30:46Z"
+    },
+    {
+      "title": "Indigenous knowledge key to building healthier and more sustainable food systems",
+      "link": "https://phys.org/news/2026-07-indigenous-knowledge-key-healthier-sustainable.html",
+      "summary": "Traditional and Indigenous knowledge could play a vital role in addressing some of the world's most pressing challenges, including climate change, biodiversity loss and poor health",
+      "date": "2026-07-21T09:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/indigenous-cooking.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-21T10:30:48Z"
+    },
+    {
+      "title": "Great Barrier Reef at risk of 'collapse', scientists warn",
+      "link": "https://phys.org/news/2026-07-great-barrier-reef-collapse-scientists.html",
+      "summary": "Australia's Great Barrier Reef is at very high risk of extreme and widespread bleaching and \"ecosystem collapse\" linked to this year's El Niño weather phenomenon, leading scientist",
+      "date": "2026-07-21T08:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-great-barrier-reef.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-21T10:30:48Z"
+    },
+    {
+      "title": "Science word of the day: Cryptology",
+      "link": "https://www.livescience.com/physics-mathematics/mathematics/science-word-of-the-day-cryptology",
+      "summary": "What does 'cryptology' mean?",
+      "date": "Tue, 21 Jul 2026 08Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/eHQqKhJiUzqiwXVacVU3Tb-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-21T10:30:49Z"
+    },
     {
       "title": "Sun news: Fast solar wind on its way to Earth",
       "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
@@ -5436,72 +5502,6 @@
       "category": "birds",
       "color": 4,
       "fetched_at": "2026-07-12T22:02:04Z"
-    },
-    {
-      "title": "So Long, and Thanks for All the Fish",
-      "link": "https://hakaimagazine.com/article-short/so-long-and-thanks-for-all-the-fish/",
-      "summary": "We started Hakai Magazine over 10 years ago because the ocean and its coastlines needed a voice. No other outlet was exclusively covering issues at the interface of sea and land—or",
-      "date": "2024-12-27T08:05:43Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-so-long-and-thanks-for-all-the-fish.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-07-12T20:59:28Z"
-    },
-    {
-      "title": "Bull bison tosses Yellowstone tourist 8ft in air, with run-in caught on video",
-      "link": "https://www.theguardian.com/us-news/2026/jul/12/yellowstone-bull-bison-throws-tourist-in-air",
-      "summary": "Man reportedly seriously injured by the bison, described as ‘agitated’ and ‘charging anything’ by photographer An enraged, 2,000lb (900kg) bull bison hooked a tourist and tossed hi",
-      "date": "2026-07-12T17:33:54Z",
-      "image": "https://i.guim.co.uk/img/media/b33908a1255d2c93e1b78f4b618192fb41900aba/755_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=2e322c9fae923907145a65217f24c2b9",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-12T19:15:11Z"
-    },
-    {
-      "title": "Climate change leaves northern tree swallows more vulnerable those in the southern US",
-      "link": "https://phys.org/news/2026-07-climate-northern-tree-swallows-vulnerable.html",
-      "summary": "Tree swallows in the northern U.S. and Canada face the greatest risk from climate change despite responding to temperature the same way as tree swallows in the southern U.S., accor",
-      "date": "2026-07-12T19:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/treeswallow.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-12T19:15:22Z"
-    },
-    {
-      "title": "Neil the seal is more than a viral animal. He's become a global folk hero",
-      "link": "https://phys.org/news/2026-07-neil-viral-animal-global-folk.html",
-      "summary": "I am one of Hobart's many residents who traveled to a nearby beach to witness Neil the seal—an animal that has been receiving global attention for his wild personality and humorous",
-      "date": "2026-07-12T17:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/neil-the-seal.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-12T17:07:45Z"
-    },
-    {
-      "title": "Scientists decipher how a psychedelic substance is created, then engineer a plant to produce several at once",
-      "link": "https://phys.org/news/2026-07-scientists-decipher-psychedelic-substance.html",
-      "summary": "Long before scientists began studying them in the lab, mind-altering substances were already being gathered from plants, fungi and even animals for use in rituals, healing practice",
-      "date": "2026-07-12T17:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-plant-three-kingdo-3.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-12T17:07:45Z"
-    },
-    {
-      "title": "In deep oceans, evolution is supercharged. This diversity could help unlock humanity's greatest challenges",
-      "link": "https://phys.org/news/2026-07-deep-oceans-evolution-supercharged-diversity.html",
-      "summary": "Far beneath the surface of the ocean lies the largest and least explored habitat on Earth. The deep sea is cold, dark, highly pressurized—and home to a huge amount of undiscovered ",
-      "date": "2026-07-12T15:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/deep-ocean.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-12T17:07:45Z"
     }
   ]
 }
