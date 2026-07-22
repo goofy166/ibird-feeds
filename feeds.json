@@ -1,8 +1,85 @@
 {
-  "updated": "2026-07-22T20:16:25Z",
-  "updated_utc": "2026-07-22T20:16:25Z",
+  "updated": "2026-07-22T22:10:47Z",
+  "updated_utc": "2026-07-22T22:10:47Z",
   "count": 500,
   "stories": [
+    {
+      "title": "6 Amazing Raccoon Facts That Might Surprise You",
+      "link": "https://www.birdsandblooms.com/gardening/backyard-wildlife/raccoon-facts/",
+      "summary": "How fast do raccoons run? Why do they have a black 'mask?' Learn all about these adorable critters with our collection of raccoon facts. The post 6 Amazing Raccoon Facts That Might",
+      "date": "2026-07-22T20:41:29Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2024/01/GettyImages-1456624849-e1784752501405.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-07-22T22:10:27Z"
+    },
+    {
+      "title": "Northern California hospital runs out of antivenom saving man bitten by rattlesnake",
+      "link": "https://www.mercurynews.com/2026/07/14/northern-california-hospital-runs-out-of-antivenom-saving-man-bitten-by-rattlesnake/",
+      "summary": "The encounter is one in a \"concerning\" surge in rattlesnake bites in California this year, including 3 fatal incidents.",
+      "date": "2026-07-15T00:37:56Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/GettyImages-531151433.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-07-22T22:10:35Z"
+    },
+    {
+      "title": "We Saw the Future of Outdoor Gear at OMA. It’s Cheaper, Lighter, and More Practical.",
+      "link": "https://www.outsideonline.com/outdoor-gear/gear-news/oma-gear-show-recap-2026/",
+      "summary": "From budget-friendly two-person tents to breathable rain jackets, major outdoor brands are tackling long-standing design flaws while making equipment far easier to pack. The post W",
+      "date": "2026-07-22T21:27:10Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/OMA1.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-22T22:10:37Z"
+    },
+    {
+      "title": "Aboriginal Spiritual Leaders Performed ‘Magic, Healing, Cursing’ Rituals in This Australian Cave for 25,000 Years, New Research Finds",
+      "link": "https://www.smithsonianmag.com/smart-news/aboriginal-spiritual-leaders-performed-magic-healing-cursing-rituals-in-this-australian-cave-for-25000-years-new-research-finds-180989178/",
+      "summary": "Archaeologists collaborated with members of the GunaiKurnai Aboriginal community to explore layers of ash from burned grasses dating back thousands of years inside Cloggs Cave",
+      "date": "2026-07-22T21:25:07Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/AF39i_rBh1t2MhLMqQWLb6cUU8c=/420x240/filters:focal(2464x1643:2465x1644)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/23/70/23705538-d2ee-463f-af65-f4575f938f7a/frontiers-environmental-archaeology-cloggs-cave-01.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-22T22:10:39Z"
+    },
+    {
+      "title": "Kids Can Try Out the 'Oliver Twist' Lifestyle at This English Museum Revealing Conditions for Poor People in a Victorian Workhouse",
+      "link": "https://www.smithsonianmag.com/smart-news/kids-can-try-out-the-oliver-twist-lifestyle-at-this-english-museum-revealing-conditions-for-poor-people-in-a-victorian-workhouse-180989175/",
+      "summary": "After a restoration, the Ripon Workhouse Museum reopened to the public, showcasing the sights, sounds and rules of England’s 19th-century “solution to poverty”",
+      "date": "2026-07-22T20:10:27Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/u4ktmN5EVqYhp-DqrGPklBlpQP8=/420x240/filters:focal(1024x683:1025x684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d5/0e/d50ec7ba-d971-4c64-b777-7f67d0e2a62b/749403925_1693376916125000_4638767423948690313_n.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-22T22:10:39Z"
+    },
+    {
+      "title": "Even a slight overproduction of tubulin can tip the balance of cellular health, study shows",
+      "link": "https://phys.org/news/2026-07-slight-overproduction-tubulin-cellular-health.html",
+      "summary": "For cells to function properly, they must produce the right amount of each protein. It is a delicate balance: Both too little and too much can compromise essential cellular functio",
+      "date": "2026-07-22T21:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/protein-excess-tips-th.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-22T22:10:43Z"
+    },
+    {
+      "title": "NASA's New Horizons spacecraft awakens from yearlong hibernation to do unprecedented science beyond Pluto",
+      "link": "https://www.livescience.com/space/space-exploration/nasas-new-horizons-spacecraft-awakens-from-yearlong-hibernation-to-do-unprecedented-science-beyond-pluto",
+      "summary": "NASA's record-breaking New Horizons spacecraft has awoken from a 321-day hibernation in \"good health\" as it resumes unprecedented science at the solar system's edge.",
+      "date": "2026-07-22T22:06:38Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/XrNXWLZPoT9SZVhfmb8Hsm-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-22T22:10:44Z"
+    },
     {
       "title": "Hawks in Georgia",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/hawks-in-georgia/",
@@ -5425,83 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-07-15T15:42:07Z"
-    },
-    {
-      "title": "AI is not ready to fly solo in space",
-      "link": "https://www.sciencenews.org/article/ai-task-completion-ability-space-scifi",
-      "summary": "In sci-fi, AI can navigate the unknowns and — ideally — keep human travelers safe. But it’s not intelligent enough to do that yet.",
-      "date": "2026-07-15T14:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/0826_tech-fic.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-15T15:42:08Z"
-    },
-    {
-      "title": "Nicotine pouches may cause receding gums",
-      "link": "https://www.newscientist.com/article/2579647-nicotine-pouches-may-cause-receding-gums/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Nicotine pouches aren't typically associated with the same health harms as similar products that also contain tobacco, but they have now been linked to receding gums and oral irrit",
-      "date": "2026-07-15T15:30:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_304620650.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-15T15:42:09Z"
-    },
-    {
-      "title": "We’re finally learning what happens to gifted children in adulthood",
-      "link": "https://www.newscientist.com/article/2532698-were-finally-learning-what-happens-to-gifted-children-in-adulthood/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "A spate of new studies is revealing the lifelong impact of being marked as exceptional during childhood – and the results suggest we may need to revise how we view giftedness",
-      "date": "2026-07-15T15:00:09Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/07160609/SEI_304385602.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-15T15:42:09Z"
-    },
-    {
-      "title": "Queen’s powerful smell suppresses rivals in naked mole rat colonies",
-      "link": "https://www.newscientist.com/article/2579526-queens-powerful-smell-suppresses-rivals-in-naked-mole-rat-colonies/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "In naked mole rat colonies, only the queen can breed – and now we have found out how she maintains control",
-      "date": "2026-07-15T15:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305176049.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-15T15:42:09Z"
-    },
-    {
-      "title": "Kohlrabi greenhouse trial shows nutrients recovered from human excreta can replace mineral fertilizer",
-      "link": "https://phys.org/news/2026-07-kohlrabi-greenhouse-trial-nutrients-recovered.html",
-      "summary": "A new study by Caroline Ganglo and Stefan Karlowsky from the Leibniz Institute for Horticultural Sciences (IGZ) investigated whether human excreta-derived fertilizers are suitable ",
-      "date": "2026-07-15T15:20:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kohlrabi-greenhouse-tr.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-15T15:42:11Z"
-    },
-    {
-      "title": "Naked mole-rat queens produce an odorous chemical that ensures that only they can reproduce",
-      "link": "https://phys.org/news/2026-07-naked-mole-rat-queens-odorous.html",
-      "summary": "An international team led by Dr. Gary Lewin, group leader of the Molecular Physiology of Somatosensory Perception lab at the Max Delbrück Center in Berlin, has discovered that the ",
-      "date": "2026-07-15T15:00:33Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/1-nakedmolerat.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-15T15:42:11Z"
-    },
-    {
-      "title": "Healthier, more sustainable diets could reshape global agriculture: New study shows by how much",
-      "link": "https://phys.org/news/2026-07-healthier-sustainable-diets-reshape-global.html",
-      "summary": "There is a clear need to shift toward healthier and more sustainable food systems. According to the 2025 EAT-Lancet Commission Report, global adoption of a flexitarian Planetary He",
-      "date": "2026-07-15T15:00:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/healthy-diet.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-15T15:42:11Z"
     }
   ]
 }
