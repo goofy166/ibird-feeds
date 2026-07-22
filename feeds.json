@@ -1,8 +1,63 @@
 {
-  "updated": "2026-07-21T23:03:52Z",
-  "updated_utc": "2026-07-21T23:03:52Z",
+  "updated": "2026-07-22T03:27:20Z",
+  "updated_utc": "2026-07-22T03:27:20Z",
   "count": 500,
   "stories": [
+    {
+      "title": "British Intelligence Turned This Mansion Into a Bugged Spy Trap for Nazi Prisoners of War During World War II",
+      "link": "https://www.smithsonianmag.com/smart-news/british-intelligence-turned-this-mansion-into-a-bugged-spy-trap-for-nazi-prisoners-of-war-during-world-war-ii-180989166/",
+      "summary": "Visitors can now tour the house, where German generals relaxed and gabbed upstairs while Jewish refugees working as spies and translators for the British government listened in fro",
+      "date": "2026-07-22T00:59:49Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/U8L8JfxvvQPQ422_VJfg6f_v394=/420x240/filters:focal(600x400:601x401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e7/18/e718c2a2-c93b-4c84-b3ef-45fab1658994/untitled_design_-_1.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-22T03:27:11Z"
+    },
+    {
+      "title": "Rapid bacterial community profiling of equine microbiomes using Oxford Nanopore sequencing",
+      "link": "https://phys.org/news/2026-07-rapid-bacterial-community-profiling-equine.html",
+      "summary": "Members of the Horse Microbiome Research Group recently published a new study in the Journal of Medical Microbiology, led by Dr. Joy Leng, who is currently undertaking the Alborada",
+      "date": "2026-07-22T02:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/foals.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-22T03:27:16Z"
+    },
+    {
+      "title": "Birds flying in 'V' formation save energy with flatter flaps, new research shows",
+      "link": "https://phys.org/news/2026-07-birds-flying-formation-energy-flatter.html",
+      "summary": "Scientists have known for years that birds like geese and ibises gain an aerodynamic advantage from flying in a \"V\" formation. Now, researchers from Brown University have provided ",
+      "date": "2026-07-22T01:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/geese-formation-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-22T03:27:16Z"
+    },
+    {
+      "title": "Testing innovation speeds up detection of deadly tick-borne disease",
+      "link": "https://phys.org/news/2026-07-deadly-borne-disease.html",
+      "summary": "A new method at the University of Missouri could transform how Rocky Mountain spotted fever is diagnosed. The method detects the deadly tick-borne disease in just 40 minutes—a leap",
+      "date": "2026-07-22T00:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mizzou-innovation-spee.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-22T03:27:16Z"
+    },
+    {
+      "title": "New study into humans' closest ape relatives suggests physical touch can promote social harmony",
+      "link": "https://phys.org/news/2026-07-humans-closest-ape-physical-social.html",
+      "summary": "Physical touch may be an important evolutionary tool to help manage social tension and keep the peace. That is according to a new study led by Durham University in the UK, analyzin",
+      "date": "2026-07-21T23:10:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/try-a-little-tendernes.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-22T03:27:16Z"
+    },
     {
       "title": "Ape cuddles could prevent conflicts",
       "link": "https://www.sciencenews.org/article/ape-physical-touch-stress-relief-chimps",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-07-14T11:37:00Z"
-    },
-    {
-      "title": "The US-China AI arms race has taken an unexpected turn",
-      "link": "https://www.newscientist.com/article/2532952-who-is-winning-the-ai-arms-race-between-the-us-and-china/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Powerful artificial intelligence models built by Chinese companies have gone from inducing widespread panic to being met with a shrug of the shoulders – what changed?",
-      "date": "Tue, 14 Jul 2026 11Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305099525.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-14T11:37:02Z"
-    },
-    {
-      "title": "Do we owe our existence to weird ‘virtual’ particles?",
-      "link": "https://www.newscientist.com/article/2579077-do-we-owe-our-existence-to-weird-virtual-particles/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "When considering what makes up a human body, a physicist drills down beyond the atomic level. Columnist Chanda Prescod-Weinstein explores the not-exactly-real particles that allow ",
-      "date": "Tue, 14 Jul 2026 10Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305123318.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-14T11:37:02Z"
-    },
-    {
-      "title": "Weather it together: Farmers speaking up about mental health",
-      "link": "https://phys.org/news/2026-07-weather-farmers-mental-health.html",
-      "summary": "Rain or shine, Aussie farmers and farming communities have always looked out for one another. But when it comes to their own mental health, asking for help hasn't always come easil",
-      "date": "2026-07-14T11:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/weather-it-together-fa.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-14T11:37:04Z"
-    },
-    {
-      "title": "First-of-its-kind surgery performed on western lowland gorilla at the San Diego Zoo Safari Park",
-      "link": "https://phys.org/news/2026-07-kind-surgery-western-lowland-gorilla.html",
-      "summary": "Mizani, a 12-year-old male western lowland gorilla at the San Diego Zoo Safari Park, underwent a first-of-its-kind mastoidectomy to treat an infection that had spread into portions",
-      "date": "2026-07-14T11:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-of-its-kind-surg.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-14T11:37:04Z"
-    },
-    {
-      "title": "Research brings the era of microbial cell factories one step closer",
-      "link": "https://phys.org/news/2026-07-era-microbial-cell-factories-closer.html",
-      "summary": "The era of \"biomanufacturing,\" in which microbes, not petroleum, produce chemical products, is one step closer. A KAIST research team has analyzed the key challenges limiting the c",
-      "date": "2026-07-14T10:35:14Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-brings-the-era-o.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-14T11:37:04Z"
     }
   ]
 }
