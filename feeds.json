@@ -1,8 +1,129 @@
 {
-  "updated": "2026-07-23T17:38:39Z",
-  "updated_utc": "2026-07-23T17:38:39Z",
+  "updated": "2026-07-23T19:36:22Z",
+  "updated_utc": "2026-07-23T19:36:22Z",
   "count": 500,
   "stories": [
+    {
+      "title": "We Now Know What Happend During the Glacier Grizzly Bear Attack That Killed Anthony Pollio",
+      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/anthony-pollio-glacier-bear-attack-report/",
+      "summary": "An investigation into a fatal grizzly attack in Glacier National Park explains why a hiker’s bear spray failed to stop a defensive charge in total darkness. The post We Now Know Wh",
+      "date": "Thu, 23 Jul 2026 18Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/GettyImages-1347287138.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-23T19:36:13Z"
+    },
+    {
+      "title": "Months After Burglars Stole Crown Jewels From the Louvre, the Apollo Gallery Reopens, Highlighting Its Origins as a Royal Reception Hall",
+      "link": "https://www.smithsonianmag.com/smart-news/months-after-burglars-stole-crown-jewels-from-the-louvre-the-apollo-gallery-reopens-highlighting-its-origins-as-a-royal-reception-hall-180989182/",
+      "summary": "Museum officials hope visitors will appreciate the gilded hall, conceived by Louis XIV more than 360 years ago, for its history and ornamentation, even without the crown jewels",
+      "date": "Thu, 23 Jul 2026 19Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/Kb1Ad8PVNoFWtEmBP1UnzPoEAN0=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f5/70/f570985a-3884-4083-99ff-1bd64c0c0807/c1e0c953ac25da403ebc5821d495c762-1500x1000.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-23T19:36:14Z"
+    },
+    {
+      "title": "Wacky, Mysterious Paintings by This Surrealist Still Influence Contemporary Artists. An Exhibition in London Will Explore the Legacy of René Magritte",
+      "link": "https://www.smithsonianmag.com/smart-news/wacky-mysterious-paintings-by-this-surrealist-still-influence-contemporary-artists-an-exhibition-in-london-will-explore-the-legacy-of-rene-magritte-180989181/",
+      "summary": "The Belgian Surrealist was famous for his playful subversion, like when he created a painting of a pipe and then defiantly declared it wasn’t a pipe, after all",
+      "date": "Thu, 23 Jul 2026 17Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/jY97gjOEH2K9qDMjKE3DZCHHTAM=/420x240/filters:focal(1101x745:1102x746)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4c/00/4c00b687-1317-4916-940b-a3e72f2e3ebb/screenshot_2026-07-23_at_120334pm.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-23T19:36:14Z"
+    },
+    {
+      "title": "Different moon rocks tell different tales about a long-ago bombardment",
+      "link": "https://www.sciencenews.org/article/farside-moon-rocks-late-heavy-battering",
+      "summary": "Prior moon rock samples, including from Apollo, seem heavily influenced by one impact. The farside samples tweak the story.",
+      "date": "Thu, 23 Jul 2026 18Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/072326_LG_old-moon-rocks_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-23T19:36:15Z"
+    },
+    {
+      "title": "The golden age of language was a few thousand years ago",
+      "link": "https://www.sciencenews.org/article/golden-age-language-history-diversity",
+      "summary": "A few millennia ago, people worldwide may have spoken or signed up to 10 times as many languages as they do today.",
+      "date": "Thu, 23 Jul 2026 18Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/072326_sg_linguistic-golden-age_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-23T19:36:15Z"
+    },
+    {
+      "title": "This El Niño will be the hottest by a huge margin",
+      "link": "https://www.newscientist.com/article/2581151-this-el-nino-will-be-the-hottest-by-a-huge-margin/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "The super El Niño now developing in the tropical Pacific has a 90 per cent chance of becoming the strongest in 150 years, breaking global temperature records and unleashing extreme",
+      "date": "Thu, 23 Jul 2026 18Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306139086.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-23T19:36:17Z"
+    },
+    {
+      "title": "Zebrafish rebuild damaged 'second brain' networks in nine days, offering clues for nerve repair",
+      "link": "https://phys.org/news/2026-07-zebrafish-rebuild-brain-networks-days.html",
+      "summary": "Why can zebrafish regenerate damaged gut nerves while humans largely cannot? Michigan State University researchers have developed a new research tool that allows them to remove gut",
+      "date": "2026-07-23T19:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-create-new-3.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-23T19:36:19Z"
+    },
+    {
+      "title": "Yeast survives after all 300 known spliceosomal introns are removed",
+      "link": "https://phys.org/news/2026-07-yeast-survives-spliceosomal-introns.html",
+      "summary": "Spliceosomal introns are noncoding DNA sequences located between exons in many eukaryotic protein-coding genes. Most are removed post-transcriptionally by RNA splicing and do not e",
+      "date": "2026-07-23T19:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-construct.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-23T19:36:19Z"
+    },
+    {
+      "title": "Trace DNA reveals critically endangered Chinese bahaba in Hong Kong after decade without records",
+      "link": "https://phys.org/news/2026-07-dna-reveals-critically-endangered-chinese.html",
+      "summary": "The Chinese bahaba (Bahaba taipingensis), a marine fish species endemic to the Chinese coast and known as the \"Panda of the Sea,\" is critically endangered and one of the few marine",
+      "date": "2026-07-23T19:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lingnan-university-fin.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-23T19:36:19Z"
+    },
+    {
+      "title": "Human impacts rewrite the rules of island biodiversity around the globe",
+      "link": "https://phys.org/news/2026-07-human-impacts-rewrite-island-biodiversity.html",
+      "summary": "A new study reveals that human activities have fundamentally reshaped biodiversity patterns on islands across the globe, with important implications for how scientists understand e",
+      "date": "2026-07-23T18:00:13Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/human-impacts-rewrite.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-23T19:36:19Z"
+    },
+    {
+      "title": "How insect submariners survive the depths without imploding",
+      "link": "https://phys.org/news/2026-07-insect-submariners-survive-depths-imploding.html",
+      "summary": "Deep-diving insect larvae are challenging a long-held idea about why there are almost no insects in the ocean, thanks to sturdy air sacs. In Lake Malawi in East Africa, billions of",
+      "date": "2026-07-23T18:00:11Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/insect-submariners-sur.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-23T19:36:19Z"
+    },
     {
       "title": "Jackson Hole’s New Corbet’s Couloir Via Ferrata Just Opened. Here’s What It’s Like.",
       "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/corbets-couloir-via-ferrata-jackson-hole/",
@@ -5381,127 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-07-15T21:07:50Z"
-    },
-    {
-      "title": "Scientists Ranked Hundreds of Spider Species by Running Speed. Australia's Huge, Hairy Brown Huntsman Came Out on Top",
-      "link": "https://www.smithsonianmag.com/smart-news/scientists-ranked-hundreds-of-spider-species-by-running-speed-australias-huge-hairy-brown-huntsman-came-out-on-top-180989132/",
-      "summary": "The brown huntsman can sprint at a maximum speed of eight miles per hour, although it can only maintain that pace for a fraction of a second. The research will lead to a better und",
-      "date": "2026-07-15T20:02:54Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/iwkTlC1Rf26-enuRoDAZmafb5wc=/420x240/filters:focal(960x695:961x696)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9d/f3/9df3e6fc-5c7b-48c3-b188-7178945996ac/huntsman_inside_lampshade.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-15T21:07:50Z"
-    },
-    {
-      "title": "Astronomers Noticed a Mysterious Spot Appearing in Telescope Images. It Turned Out to Be the Faintest Exoplanet Ever Imaged From Earth",
-      "link": "https://www.smithsonianmag.com/smart-news/astronomers-noticed-a-mysterious-spot-appearing-in-telescope-images-it-turned-out-to-be-the-faintest-exoplanet-ever-imaged-from-earth-180989133/",
-      "summary": "The gas giant, called Beta Pictoris d, had been hiding in plain sight for more than a decade, until two independent teams verified its existence",
-      "date": "2026-07-15T19:40:22Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/rnLs9P4AErWm2zv27n0erorh8NY=/420x240/filters:focal(1664x1097:1665x1098)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/18/04/1804a2ba-72c0-44ff-8846-30f5b46b3834/stsci-01kx448cebrhbbjw579ag64g0h.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-15T21:07:50Z"
-    },
-    {
-      "title": "Helpful microbes could battle pathogens in our hospitals and schools—with the help of AI to make it work",
-      "link": "https://phys.org/news/2026-07-microbes-pathogens-hospitals-schools-ai.html",
-      "summary": "Helpful microbes that combat harmful pathogens could be the answer to rising antimicrobial resistance—particularly within built environments such as hospitals, homes and schools.",
-      "date": "2026-07-15T20:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/helpful-microbes-could.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-15T21:07:54Z"
-    },
-    {
-      "title": "Epigenetic mechanism explains how some plants cope with salt stress",
-      "link": "https://phys.org/news/2026-07-epigenetic-mechanism-cope-salt-stress.html",
-      "summary": "Due to artificial irrigation and rising temperatures, the concentration of salts (including sodium chloride, or \"table salt\") is increasing in soils worldwide. This is not only an ",
-      "date": "2026-07-15T20:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-discover-a-15.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-15T21:07:54Z"
-    },
-    {
-      "title": "Bacteria form 'herds' to survive predators, offering fresh insight into Earth's carbon cycle",
-      "link": "https://phys.org/news/2026-07-bacteria-herds-survive-predators-fresh.html",
-      "summary": "Researchers at Queen Mary University of London have discovered that tiny photosynthetic bacteria band together into protective \"herds\" when attacked by predators—a survival strateg",
-      "date": "2026-07-15T20:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bacteria-form-herds-to-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-15T21:07:54Z"
-    },
-    {
-      "title": "Marsupial newborns get early arms as embryos bypass usual limb-building sequence",
-      "link": "https://phys.org/news/2026-07-marsupial-newborns-early-arms-embryos.html",
-      "summary": "Scientists have discovered that marsupial forelimbs (arms) develop much earlier before birth than previously thought, providing new insights into evolutionary innovation and biolog",
-      "date": "2026-07-15T20:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/evolution-gives-marsup.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-15T21:07:54Z"
-    },
-    {
-      "title": "New algorithm improves gene expression marker identification across diverse biological systems",
-      "link": "https://phys.org/news/2026-07-algorithm-gene-marker-identification-diverse.html",
-      "summary": "Researchers have developed a new computational approach that enables more accurate selection of genes that characterize different cellular states from mRNA-seq data, offering a mor",
-      "date": "2026-07-15T20:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-algorithm-improves.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-15T21:07:54Z"
-    },
-    {
-      "title": "A new class of root-dwelling fungi named after the King of Sweden",
-      "link": "https://phys.org/news/2026-07-class-root-fungi-king-sweden.html",
-      "summary": "Researchers at Uppsala University have discovered a completely new fungal species, which they named after the king of Sweden. The species has been given the Latin name Semicentenia",
-      "date": "2026-07-15T19:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-class-of-fungi-n.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-15T21:07:54Z"
-    },
-    {
-      "title": "Scientists explain how nucleolus sub-compartments drive ribosome assembly",
-      "link": "https://phys.org/news/2026-07-scientists-nucleolus-compartments-ribosome.html",
-      "summary": "The nucleolus is a liquid-like cellular organelle where protein factories called ribosomes are assembled. Researchers knew of three distinct compartments within the nucleolus, but ",
-      "date": "2026-07-15T19:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-explains-how.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-15T21:07:54Z"
-    },
-    {
-      "title": "Should You Take Down Your Hummingbird Feeder on Vacation?",
-      "link": "https://www.birdsandblooms.com/birding/attracting-hummingbirds/hummingbird-feeder-vacation/",
-      "summary": "If you're preparing for a long summer trip, add hummingbirds to the checklist. Learn how to safely feed hummingbirds on your vacation. The post Should You Take Down Your Hummingbir",
-      "date": "Tue, 07 Jul 2026 15Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/309454329_1_Timothy_South_BNB_PC_2022.jpg?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-07-15T19:22:26Z"
-    },
-    {
-      "title": "Why Do Birds Stand on One Leg?",
-      "link": "https://www.birdsandblooms.com/birding/birding-basics/why-do-birds-stand-on-one-leg/",
-      "summary": "Birds have impressive balancing skills. Learn how birds stand on one leg and stay upright even while they're sleeping. The post Why Do Birds Stand on One Leg? appeared first on Bir",
-      "date": "2026-06-29T14:32:58Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/09_Gilberto-Sanchez_BBXsummer26.jpg?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-07-15T19:22:26Z"
     }
   ]
 }
