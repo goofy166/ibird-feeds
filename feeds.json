@@ -1,8 +1,52 @@
 {
-  "updated": "2026-07-22T22:10:47Z",
-  "updated_utc": "2026-07-22T22:10:47Z",
+  "updated": "2026-07-23T00:07:38Z",
+  "updated_utc": "2026-07-23T00:07:38Z",
   "count": 500,
   "stories": [
+    {
+      "title": "More than a gut feeling",
+      "link": "https://www.newscientist.com/article/2580414-more-than-a-gut-feeling/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Long overlooked, the connection between our gut microbes and brain is yielding new insights into mental health",
+      "date": "Thu, 23 Jul 2026 00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/iStock-1454103891.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-23T00:07:31Z"
+    },
+    {
+      "title": "Genome tool places large genetic sequences precisely in rice and tobacco without DNA breaks",
+      "link": "https://phys.org/news/2026-07-genome-tool-large-genetic-sequences.html",
+      "summary": "Researchers at King Abdullah University of Science and Technology (KAUST) have developed a new way to add large pieces of genetic information to plants, overcoming a challenge that",
+      "date": "2026-07-22T23:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaust-researchers-deve-4.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-23T00:07:33Z"
+    },
+    {
+      "title": "Marine animals first colonized empty seashells about 470 million years ago",
+      "link": "https://phys.org/news/2026-07-marine-animals-colonized-seashells-million.html",
+      "summary": "An international study led by researchers from the University of Tartu shows that approximately 470 million years ago, a significant ecological change took place in the world's oce",
+      "date": "2026-07-22T23:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/empty-seashells-became.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-23T00:07:33Z"
+    },
+    {
+      "title": "'Once we were like you': Striking reconstructions reveal the faces of 16 people from Roman-era Hungary",
+      "link": "https://www.livescience.com/archaeology/romans/once-we-were-like-you-striking-reconstructions-reveal-the-faces-of-16-people-from-roman-era-hungary",
+      "summary": "DNA analysis, 3D-printed skulls and forensic sculpture helped experts recreate people who lived near the ancient Roman frontier city of Aquincum nearly 1,700 years ago.",
+      "date": "2026-07-22T23:17:50Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/bRpZxkJs6J3rxXrnuZSUcY-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-23T00:07:35Z"
+    },
     {
       "title": "6 Amazing Raccoon Facts That Might Surprise You",
       "link": "https://www.birdsandblooms.com/gardening/backyard-wildlife/raccoon-facts/",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-15T17:24:30Z"
-    },
-    {
-      "title": "New study reveals what drives the evolution of remarkable eyes in deep‑sea hyperiid amphipods",
-      "link": "https://phys.org/news/2026-07-reveals-evolution-remarkable-eyes-deepsea.html",
-      "summary": "Hyperiid amphipods are a small but anatomically diverse group of shrimp-like crustaceans with remarkable adaptations for life in the ocean's twilight zone. A team of researchers fr",
-      "date": "2026-07-15T16:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-reveals-f.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-15T17:24:30Z"
-    },
-    {
-      "title": "We tested Canon’s $10,000 wildlife zoom — can it replace a prime lens?",
-      "link": "https://www.livescience.com/products/optics/we-tested-canons-usd10-000-wildlife-zoom-can-it-replace-a-prime-lens",
-      "summary": "We spent a week with the Canon RF 100-300mm f/2.8L IS USM lens to find out if it’s really worth the eye-watering price tag.",
-      "date": "2026-07-15T16:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/mANzkh26B8pLZzwd2qVb9a-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-15T17:24:31Z"
-    },
-    {
-      "title": "Greater gliders not as great at gliding as thought – but still look like magic carpets, experts say",
-      "link": "https://www.theguardian.com/environment/2026/jul/16/greater-gliders-gliding-study",
-      "summary": "While new study challenges assumptions about how far they travel, witnessing them in action still takes your breath away, scientists say Follow our Australia news live blog for lat",
-      "date": "2026-07-15T15:01:00Z",
-      "image": "https://i.guim.co.uk/img/media/27ed07274312f7382b5a3e937fe2be3492da114b/0_107_2540_2033/master/2540.jpg?width=140&quality=85&auto=format&fit=max&s=0f4edc77ccccde857c9a2b492efcd51f",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-15T15:41:59Z"
-    },
-    {
-      "title": "In a First, Astronomers Find Sugar in the Space Between Stars, Providing New Clues About the Origins of Life on Earth",
-      "link": "https://www.smithsonianmag.com/smart-news/in-a-first-astronomers-find-sugar-in-the-space-between-stars-providing-new-clues-about-the-origins-of-life-on-earth-180989122/",
-      "summary": "Sugars are crucial components of RNA and DNA, the basis of all known organisms alive today. In a new study, the sugar erythrulose was detected in a gas- and dust-filled cloud near ",
-      "date": "2026-07-15T14:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/QoLt5GlCXHQfhioQMn04X4Fma30=/420x240/filters:focal(521x367:522x368)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/93/9f/939f2207-d63e-4c4a-84de-dd7e9f60f96a/ssc2006-02a_0.webp",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-15T15:42:07Z"
     }
   ]
 }
