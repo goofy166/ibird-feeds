@@ -1,8 +1,107 @@
 {
-  "updated": "2026-07-23T15:16:24Z",
-  "updated_utc": "2026-07-23T15:16:24Z",
+  "updated": "2026-07-23T17:38:39Z",
+  "updated_utc": "2026-07-23T17:38:39Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Jackson Hole’s New Corbet’s Couloir Via Ferrata Just Opened. Here’s What It’s Like.",
+      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/corbets-couloir-via-ferrata-jackson-hole/",
+      "summary": "Jackson Hole just opened three new via ferrata routes across the iconic Corbet’s Couloir, one of the most terrifying ski runs in the U.S. The editor-in-chief of Climbing tests it o",
+      "date": "Thu, 23 Jul 2026 16Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/iron-journey-bridge-2.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-23T17:38:30Z"
+    },
+    {
+      "title": "Hunter-Gatherers Brought Trout to a Norwegian Mountain Lake 7,000 Years Ago, the Earliest Known Example of Humans Translocating Fish",
+      "link": "https://www.smithsonianmag.com/smart-news/hunter-gatherers-brought-trout-to-a-norwegian-mountain-lake-7000-years-ago-the-earliest-known-example-of-humans-translocating-fish-180989167/",
+      "summary": "Researchers have long known that the animals were introduced into the region's high-altitude bodies of water, but they weren't sure when it happened or whether humans had a hand. A",
+      "date": "Thu, 23 Jul 2026 15Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/JctVM_ItnrH5mcWobKu40scCdPY=/420x240/filters:focal(2144x1429:2145x1430)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e6/f7/e6f75585-0f81-4909-9668-21912659459a/brown-trout.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-23T17:38:31Z"
+    },
+    {
+      "title": "Extremely basic AI prompt cracks decades-old maths problem",
+      "link": "https://www.newscientist.com/article/2580932-extremely-basic-ai-prompt-cracks-decades-old-maths-problem/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "For the second time in a week, a long-standing conjecture has been disproved by artificial intelligence, highlighting the advanced mathematical capabilities of ChatGPT and its ilk",
+      "date": "Thu, 23 Jul 2026 15Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306155806.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-23T17:38:33Z"
+    },
+    {
+      "title": "How the encephalomyocarditis virus hijacks host protein machinery",
+      "link": "https://phys.org/news/2026-07-encephalomyocarditis-virus-hijacks-host-protein.html",
+      "summary": "Viruses lack the molecular machinery required for protein synthesis. Instead, they hijack the host's protein-making machinery, specifically ribosomes and translational factors. Thi",
+      "date": "2026-07-23T17:20:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-the-encephalomyoca.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-23T17:38:35Z"
+    },
+    {
+      "title": "Environmental bacteria ferry genes that boost antibiotic resistance over 10,000-fold",
+      "link": "https://phys.org/news/2026-07-environmental-bacteria-ferry-genes-boost.html",
+      "summary": "A patient with a severe infection is prescribed a potent antibiotic. Hopes for improvement are high, but just after treatment is given, resistance to the drug increases thousands o",
+      "date": "2026-07-23T17:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/partners-in-crime-prod.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-23T17:38:35Z"
+    },
+    {
+      "title": "Heat is coming for Hawaiian corals, but study finds there may be time to adapt",
+      "link": "https://phys.org/news/2026-07-hawaiian-corals.html",
+      "summary": "Since the first major bleaching event in 1996, Hawaiian corals have been subject to increasing heat stress and more frequent bleaching events. New research from oceanographers at t",
+      "date": "2026-07-23T17:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/heat-is-coming-for-haw.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-23T17:38:35Z"
+    },
+    {
+      "title": "Training microbes to prepare soils for the impacts of climate change",
+      "link": "https://phys.org/news/2026-07-microbes-soils-impacts-climate.html",
+      "summary": "Scientists at the University of Lincoln have discovered a promising new way to help protect crops from one of climate change's growing threats to global food production—increasing ",
+      "date": "2026-07-23T16:40:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-find-way-t-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-23T17:38:35Z"
+    },
+    {
+      "title": "More than half of Earth's migratory bird species are declining—here's how we can still save them",
+      "link": "https://phys.org/news/2026-07-earth-migratory-bird-species-declining.html",
+      "summary": "Every year, billions of migratory birds connect the world's continents, oceans and ecosystems as they undertake epic journeys between their foraging habitats and breeding grounds.",
+      "date": "2026-07-23T16:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/more-than-half-of-eart.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-23T17:38:35Z"
+    },
+    {
+      "title": "Peptide isolated from a Cerrado frog increases strawberry shelf life",
+      "link": "https://phys.org/news/2026-07-peptide-isolated-cerrado-frog-strawberry.html",
+      "summary": "Five minutes. That was the amount of time that Oso Grande strawberries remained in contact with the Ctx(Ile21)-Ha peptide—a molecule isolated from a frog native to the Brazilian Ce",
+      "date": "2026-07-23T15:20:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/strawberries.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-23T17:38:35Z"
+    },
     {
       "title": "Are We Witnessing the Highest VO2 Max Ever?",
       "link": "https://www.outsideonline.com/health/training-performance/tadej-pogacar-vo2-max-tour-de-france-study/",
@@ -5403,105 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-07-15T19:22:26Z"
-    },
-    {
-      "title": "Food supplements could help bees cope with climate crisis, research suggests",
-      "link": "https://www.theguardian.com/environment/2026/jul/15/food-supplements-could-help-bees-cope-with-climate-crisis",
-      "summary": "Insects in study fared better in cold when given a probiotic and prebiotic mix alongside their usual sugar diet Food supplements for honeybees could help the insects better withsta",
-      "date": "2026-07-15T18:00:01Z",
-      "image": "https://i.guim.co.uk/img/media/ff3e5126d6fec2fbba40259b2fa02e8d8aee54cc/605_187_3712_2970/master/3712.jpg?width=140&quality=85&auto=format&fit=max&s=834491e662ad211137c4f1758cffb90e",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-15T19:22:30Z"
-    },
-    {
-      "title": "What Does a Tour de France Rider Eat in a Day? We Break Down Their 8,000-Calorie Menu.",
-      "link": "https://www.outsideonline.com/health/nutrition/tour-de-france-rider-diet/",
-      "summary": "The gut-buster diet of a Tour de France rider looks like it's been inspired by both a kid's party and a boutique restaurant. Here's what's on the menu and why. The post What Does a",
-      "date": "2026-07-15T17:43:04Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/tour-de-france-8000-cal.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-15T19:22:37Z"
-    },
-    {
-      "title": "A.I. Music Is Already Here. To Protect Human Artists, the Record Industry Proposes New Labels, Like Those for Explicit Lyrics",
-      "link": "https://www.smithsonianmag.com/smart-news/ai-music-is-already-here-to-protect-human-artists-the-record-industry-proposes-labels-for-it-like-those-for-explicit-lyrics-180989128/",
-      "summary": "The proposal comes as A.I.-generated music makes up an increasing share of what’s available on streaming platforms",
-      "date": "2026-07-15T18:47:10Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/4F2B96KayelmQ8mRaOHoQrnBKoU=/420x240/filters:focal(1580x993:1581x994)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e4/36/e4361ac6-30ab-444f-9288-ac252ac60ea0/among_friends__the_lindenberg_player_piano_postcard_-_dpla_-f34652e74335cf4124fc41e169539f52.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-15T19:22:38Z"
-    },
-    {
-      "title": "Ancient Egyptians Believed That These Newly Discovered Gold Tongues Allowed the Dead to Communicate in the Afterlife",
-      "link": "https://www.smithsonianmag.com/smart-news/ancient-egyptians-believed-that-these-newly-discovered-gold-tongues-allowed-the-dead-to-communicate-in-the-afterlife-180989127/",
-      "summary": "Excavations at Marina el-Alamein, an archaeological site west of Alexandria, unearthed about two dozen of the rare artifacts, including one shaped like the Eye of Horus",
-      "date": "2026-07-15T17:31:42Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/hZKPl1ZzKQZPyQfyZzR2VaGrWT0=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fe/d8/fed80326-64d2-4127-99a2-e8a7c60fe82c/gold-tongues.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-15T19:22:38Z"
-    },
-    {
-      "title": "The 2024 New York City meteorite contains amino acids",
-      "link": "https://www.sciencenews.org/article/new-york-city-2024-meteorite-amino-acid",
-      "summary": "The brine-formed meteorite that crashed into a New Jersey roof in 2024 could teach us about how life first arrived on Earth.",
-      "date": "2026-07-15T18:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/071425_lg_nyc-meteorite_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-15T19:22:40Z"
-    },
-    {
-      "title": "Best treatment for multiple sclerosis may be antivirals",
-      "link": "https://www.newscientist.com/article/2579595-best-treatment-for-multiple-sclerosis-may-be-anti-virals/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Low levels of replicating Epstein-Barr viruses might be the main driver of the autoimmune condition multiple sclerosis. This may mean that targeting them would be as effective as s",
-      "date": "2026-07-15T18:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305300761.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-15T19:22:41Z"
-    },
-    {
-      "title": "Congolese monkey with mask-like face and strong BO is new to science",
-      "link": "https://www.newscientist.com/article/2579257-congolian-monkey-with-mask-like-face-and-strong-bo-is-new-to-science/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "A black colobus monkey from a remote part of the Congo Basin rainforest, known locally as likweli, is thought to be severely threatened by poaching",
-      "date": "2026-07-15T18:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305157117.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-15T19:22:41Z"
-    },
-    {
-      "title": "T. rex babies were born ready to run and feed themselves",
-      "link": "https://phys.org/news/2026-07-rex-babies-born-ready.html",
-      "summary": "Tyrannosaurus rex was a giant of the prehistoric world, standing up to 13 feet (4 meters) tall and weighing around 9 tons (8 tonnes). So you might expect that its hatchlings were a",
-      "date": "2026-07-15T18:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/t-rex-babies-were-born.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-15T19:22:43Z"
-    },
-    {
-      "title": "Prey accessibility, not abundance, may shape predator behavior in penguins",
-      "link": "https://phys.org/news/2026-07-prey-accessibility-abundance-predator-behavior.html",
-      "summary": "Large seabird colonies have a surrounding boundary known as Ashmole's halo, where food sources are depleted, forcing the birds to travel farther to gather the food they need. The r",
-      "date": "2026-07-15T18:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/prey-accessibility--no.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-15T19:22:43Z"
     }
   ]
 }
