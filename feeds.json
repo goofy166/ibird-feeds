@@ -1,8 +1,74 @@
 {
-  "updated": "2026-07-23T00:07:38Z",
-  "updated_utc": "2026-07-23T00:07:38Z",
+  "updated": "2026-07-23T04:20:52Z",
+  "updated_utc": "2026-07-23T04:20:52Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Orcas seen ramming prey so hard it explodes may be playing game",
+      "link": "https://www.theguardian.com/environment/2026/jul/23/orcas-ramming-prey-hard-explodes-playing-game",
+      "summary": "Scientists believe sunfish-smashing behaviour could be form of entertainment or to help younger whales feed Orcas have been observed ramming into giant fish so hard that the prey e",
+      "date": "2026-07-23T04:00:34Z",
+      "image": "https://i.guim.co.uk/img/media/d416e37861f66d650a0cb57dd96bc62ad21bc51c/487_0_4392_3514/master/4392.jpg?width=140&quality=85&auto=format&fit=max&s=a0de7c22634117239afbceeb6b53ec28",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-23T04:20:36Z"
+    },
+    {
+      "title": "Video Captures Orcas Ramming a Sunfish So Hard It Explodes. The Mysterious Behavior Might Be a Form of Play or Juvenile Care",
+      "link": "https://www.smithsonianmag.com/smart-news/video-captures-orcas-ramming-a-sunfish-so-hard-it-explodes-the-mysterious-behavior-might-be-a-form-of-play-or-juvenile-care-180989153/",
+      "summary": "In two incidents documented in Mexico’s Gulf of California, orcas worked together to blast sunfish into smithereens after they had killed the enormous animals",
+      "date": "Thu, 23 Jul 2026 04Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/ytFuADGxQQ1WyFeVmHXBTpTKtlY=/420x240/filters:focal(473x427:474x428)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/96/75/9675eece-aab9-4d09-bea8-395b5d0e9675/screenshot_2026-07-22_at_23850pm.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-23T04:20:44Z"
+    },
+    {
+      "title": "Watch an orca ram into a sunfish so hard it explodes",
+      "link": "https://www.sciencenews.org/article/orca-ram-into-sunfish-explodes",
+      "summary": "This strategy expands orcas’ already broad repertoire for dispatching different types of prey.",
+      "date": "Thu, 23 Jul 2026 04Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/072126_MT_sunfish-pinatas_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-23T04:20:45Z"
+    },
+    {
+      "title": "Orcas filmed making sunfish explode by ramming them at high speed",
+      "link": "https://www.newscientist.com/article/2580817-orcas-filmed-making-sunfish-explode-by-ramming-it-at-high-speed/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Orcas have been seen smashing into sharp-tail sunfish so hard that the fish bursts into thousands of fragments, perhaps as a form of play as well as food processing",
+      "date": "Thu, 23 Jul 2026 04Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306060654.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-23T04:20:46Z"
+    },
+    {
+      "title": "Orcas filmed ramming one of the world's heaviest fish so hard it explodes, possibly for fun",
+      "link": "https://phys.org/news/2026-07-orcas-ramming-world-heaviest-fish.html",
+      "summary": "Orcas are known to be smart and ruthless hunters. They've been observed hunting a variety of prey, with some species, such as whales, larger than themselves. They use a wide range ",
+      "date": "2026-07-23T04:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/orca.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-23T04:20:48Z"
+    },
+    {
+      "title": "'It was unlike anything I'd witnessed before': Orcas seen headbutting a sunfish so hard that it exploded",
+      "link": "https://www.livescience.com/animals/orcas/it-was-unlike-anything-id-witnessed-before-orcas-seen-headbutting-a-sunfish-so-hard-that-it-exploded",
+      "summary": "In two encounters in the Gulf of California, one orca held a dead sunfish in place while another rammed it at high speed, breaking the carcass into what appear to be bite-sized pie",
+      "date": "Thu, 23 Jul 2026 04Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/DSMCv6pzRGcVkrrohY4WC7-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-23T04:20:49Z"
+    },
     {
       "title": "More than a gut feeling",
       "link": "https://www.newscientist.com/article/2580414-more-than-a-gut-feeling/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -5436,72 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-07-15T17:24:28Z"
-    },
-    {
-      "title": "Negatives saved from Shackleton’s Antarctic trip reveal hidden details",
-      "link": "https://www.newscientist.com/article/2533435-negatives-saved-from-shackletons-antarctic-trip-reveal-hidden-details/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Frank Hurley rescued hundreds of photo negatives from the Endurance when it sank off Antarctica in 1915. Now a book of his surviving images casts new light on the fateful expeditio",
-      "date": "2026-07-15T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/08093715/sei304494769.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-15T17:24:28Z"
-    },
-    {
-      "title": "Oxygenic photosynthesis works with one photosystem, overturning 50-year textbook rule",
-      "link": "https://phys.org/news/2026-07-oxygenic-photosynthesis-photosystem-overturning-year.html",
-      "summary": "LMU researchers demonstrate that oxygenic photosynthesis can occur with only a single photosystem, overturning a fundamental principle of biology.",
-      "date": "2026-07-15T17:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/discovery-oxygenic-pho.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-15T17:24:30Z"
-    },
-    {
-      "title": "Birds respond differently to environmental change—and their traits explain why",
-      "link": "https://phys.org/news/2026-07-birds-differently-environmental-traits.html",
-      "summary": "A sweeping new Cal Poly study of North American birds reveals that environmental change does not affect all species equally and that a bird's traits can explain whether populations",
-      "date": "2026-07-15T17:16:25Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/birds-respond-differen.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-15T17:24:30Z"
-    },
-    {
-      "title": "Medaka males can mate 27 times daily, but sperm performance drops fast",
-      "link": "https://phys.org/news/2026-07-medaka-males-daily-sperm-fast.html",
-      "summary": "Oryzias latipes, commonly known as medaka, is a small fish measuring about 2–3 cm (0.8–1.2 inches) in length that exhibits highly active spawning behavior during the breeding seaso",
-      "date": "2026-07-15T16:49:55Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/speed-matters-successi.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-15T17:24:30Z"
-    },
-    {
-      "title": "Scientists recover sub-Saharan Africa's oldest ancient animal DNA",
-      "link": "https://phys.org/news/2026-07-scientists-recover-saharan-africa-oldest.html",
-      "summary": "Ancient DNA can be a powerful tool for helping us reconstruct the long-dead past. Most surviving genetic material comes from the bones and teeth of animals that lived in cold envir",
-      "date": "2026-07-15T16:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-recover-sub.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-15T17:24:30Z"
-    },
-    {
-      "title": "Not the greatest glider: First study puts Australia's biggest glider to the test",
-      "link": "https://phys.org/news/2026-07-greatest-glider-australia-biggest.html",
-      "summary": "Australia's largest gliding marsupial may not be the country's best glider after all, according to new research from The Australian National University (ANU) that challenges a deca",
-      "date": "2026-07-15T16:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/not-the-greatest-glide-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-15T17:24:30Z"
     }
   ]
 }
