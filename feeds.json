@@ -1,8 +1,107 @@
 {
-  "updated": "2026-07-24T17:44:28Z",
-  "updated_utc": "2026-07-24T17:44:28Z",
+  "updated": "2026-07-24T19:40:21Z",
+  "updated_utc": "2026-07-24T19:40:21Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Big Bear bald eagles’ habitat saved; $10 million goal to buy land has been met",
+      "link": "https://www.mercurynews.com/2026/07/24/habitat-of-big-bears-famed-eagles-to-be-saved-after-fundraiser-achieves-10-million-goal-to-buy-land/",
+      "summary": "Friends of Big Bear Valley announced the news on its website and social media pages Friday morning.",
+      "date": "2026-07-24T17:47:56Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/SBS-L-MOONCAMP-0724-01-PB-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-07-24T19:40:10Z"
+    },
+    {
+      "title": "Hollywood's Iconic Cinerama Dome, One of the World's Most Famous Movie Theaters, Is Set to Reopen in Early 2028",
+      "link": "https://www.smithsonianmag.com/smart-news/hollywoods-iconic-cinerama-dome-one-of-the-worlds-most-famous-movie-theatres-is-set-to-reopen-in-early-2028-180989190/",
+      "summary": "Shuttered since the Covid-19 pandemic, the Los Angeles landmark is being revived as more Americans buy tickets to see movies in theaters",
+      "date": "2026-07-24T19:24:43Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/SaU8bBRqFiS_DesDFh4qBaD1VA4=/420x240/filters:focal(1611x982:1612x983)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/83/e4/83e404be-f007-420f-a287-a5b780c3cc99/cinerama_dome_front.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-24T19:40:13Z"
+    },
+    {
+      "title": "Clothes made from living fungi can clean and repair themselves",
+      "link": "https://www.newscientist.com/article/2581227-clothes-made-from-living-fungi-can-clean-and-repair-themselves/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Researchers have created a textile made from the parasitic fungus Cordyceps militaris, which is biodegradable and can be adapted for different purposes with various microbes",
+      "date": "2026-07-24T18:01:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306130565.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-24T19:40:16Z"
+    },
+    {
+      "title": "Scientists turn modern biobanks into a new window on human evolution",
+      "link": "https://phys.org/news/2026-07-scientists-modern-biobanks-window-human.html",
+      "summary": "For more than a century, scientists have sought to reconstruct human evolution using diverse lines of evidence, including fossils, genetic variation across populations and ancient ",
+      "date": "2026-07-24T19:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-turn-modern-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-24T19:40:17Z"
+    },
+    {
+      "title": "Cutting out the noise: How horseshoe bats adapt their echolocation behavior in colonies",
+      "link": "https://phys.org/news/2026-07-noise-horseshoe-echolocation-behavior-colonies.html",
+      "summary": "Imagine searching for a gemstone in a dark cave: You use a flashlight, looking for a rainbow-colored glint in the darkness. Now, imagine 10 other people in the cave with you, using",
+      "date": "2026-07-24T18:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/flying-bats.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-24T19:40:17Z"
+    },
+    {
+      "title": "Native fine-flavor cacao can match commercial varieties in yield, study finds",
+      "link": "https://phys.org/news/2026-07-native-fine-flavor-cacao-commercial.html",
+      "summary": "A study carried out on smallholder farms in northern Peru shows that Blanco de Piura, a native fine-flavor cacao variety, can achieve productivity levels comparable to those of com",
+      "date": "2026-07-24T18:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/native-fine-flavor-cac-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-24T19:40:17Z"
+    },
+    {
+      "title": "How did inbred brown tree snakes take over the island of Guam?",
+      "link": "https://phys.org/news/2026-07-inbred-brown-tree-snakes-island.html",
+      "summary": "If you look up invasive species in a textbook, there's a good chance you'll find a picture of a brown tree snake. Native to Australia and the South Pacific, the brown tree snake ar",
+      "date": "2026-07-24T18:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-did-inbred-brown-t.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-24T19:40:17Z"
+    },
+    {
+      "title": "Hydrogel electrode improves stability of insect-based odor sensors for drones",
+      "link": "https://phys.org/news/2026-07-hydrogel-electrode-stability-insect-based.html",
+      "summary": "Drones are increasingly being used for disaster response, infrastructure inspection and environmental monitoring. However, most drone systems rely primarily on cameras and other vi",
+      "date": "2026-07-24T18:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/water-retaining-hydrog.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-24T19:40:17Z"
+    },
+    {
+      "title": "6-year-old in China dies after experimental treatment, investigation finds, raising questions about the country's gene therapy regulations",
+      "link": "https://www.livescience.com/health/genetics/6-year-old-in-china-dies-after-experimental-treatment-investigation-finds-raising-questions-about-the-countrys-gene-therapy-regulations",
+      "summary": "A young girl in China died after being given an experimental gene therapy intended to treat a neurodevelopmental syndrome, an investigation by Science and Retraction Watch revealed",
+      "date": "2026-07-24T18:02:20Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/KiVkhCRK3qChHZWthR4pUM-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-24T19:40:19Z"
+    },
     {
       "title": "A tale of a twitch",
       "link": "https://www.10000birds.com/a-tale-of-a-twitch.htm?utm_source=rss&utm_medium=rss&utm_campaign=a-tale-of-a-twitch",
@@ -5403,105 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-07-16T20:06:23Z"
-    },
-    {
-      "title": "Buckingham Palace's Royal Picture Gallery Revives the Salon-Style Hang, Doubling the Number of Masterpieces on View",
-      "link": "https://www.smithsonianmag.com/smart-news/buckingham-palaces-royal-picture-gallery-revives-the-salon-style-hang-doubling-the-number-of-masterpieces-on-view-180989135/",
-      "summary": "Charles III reportedly had a say in the stylistic switch, which rearranged and added artworks by the likes of Rembrandt, Rubens, Vermeer and Van Dyck",
-      "date": "Thu, 16 Jul 2026 18Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/OxejDArksZ1nJKfxLFWH4UqXK64=/420x240/filters:focal(2943x1962:2944x1963)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/55/e3/55e32f0a-6f5b-4b30-b059-bf3cfd601093/060726_photo_ben_fitzpatrick_-_picture_gallery_final_touches_2jpg.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-16T20:06:27Z"
-    },
-    {
-      "title": "Climate change reshapes waterborne disease risks as pathogens respond differently, review finds",
-      "link": "https://phys.org/news/2026-07-climate-reshapes-waterborne-disease-pathogens.html",
-      "summary": "Climate change is altering the spread of waterborne diseases around the world, according to a comprehensive review published today in Nature Reviews Microbiology. The publication i",
-      "date": "2026-07-16T20:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-is-climate-change.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-16T20:06:31Z"
-    },
-    {
-      "title": "Glyphosate ban could cost Illinois farmers millions annually",
-      "link": "https://phys.org/news/2026-07-glyphosate-illinois-farmers-millions-annually.html",
-      "summary": "A new analysis from the University of Illinois Urbana-Champaign and the Illinois Soybean Association finds that Illinois corn and soybean farmers could lose up to $609 million per ",
-      "date": "2026-07-16T18:40:10Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-would-it-cost-far.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-16T20:06:31Z"
-    },
-    {
-      "title": "Living alligators expose why juvenile fossils can fool classification methods",
-      "link": "https://phys.org/news/2026-07-alligators-expose-juvenile-fossils-classification.html",
-      "summary": "Fossil finds are exciting moments that sometimes introduce the world to an ancient mammal or dinosaur that existed millions of years ago. But a longstanding problem in paleontology",
-      "date": "2026-07-16T18:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-approach-for-pal.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-16T20:06:31Z"
-    },
-    {
-      "title": "Invertebrates can distinguish good from bad bacteria",
-      "link": "https://phys.org/news/2026-07-invertebrates-distinguish-good-bad-bacteria.html",
-      "summary": "Researchers from Heinrich Heine University Düsseldorf (HHU) and Kiel University (CAU) have examined immune system function in an early-branching animal—a sea anemone. They discover",
-      "date": "2026-07-16T18:20:11Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/even-invertebrates-can.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-16T20:06:31Z"
-    },
-    {
-      "title": "Ancient chariot emerges among remains of mysterious society that burned down its own buildings and then disappeared",
-      "link": "https://www.livescience.com/archaeology/ancient-chariot-emerges-among-remains-of-mysterious-society-that-burned-down-its-own-buildings-and-then-disappeared",
-      "summary": "An ancient bronze chariot recently discovered in Spain was used by a culture that mysteriously disappeared from the archaeological record.",
-      "date": "Thu, 16 Jul 2026 20Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/uhEhx2wmBeJNpowD5ZUERX-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-16T20:06:32Z"
-    },
-    {
-      "title": "Nobel Prize-winning physicist and team use Claude AI to solve decades-old math puzzle",
-      "link": "https://www.livescience.com/physics-mathematics/mathematics/nobel-prize-winning-physicist-and-team-use-claude-ai-to-solve-decades-old-math-puzzle",
-      "summary": "A decade after uncovering a mysterious mathematical relationship in the physics of \"jamming,\" Nobel laureate Giorgio Parisi and collaborator Francesco Zamponi have finally cracked ",
-      "date": "Thu, 16 Jul 2026 19Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/psftQRQ69aMQmthVeb4fnT-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-16T20:06:32Z"
-    },
-    {
-      "title": "How Do Birds Keep Cool in Hot Weather?",
-      "link": "https://www.birdsandblooms.com/birding/birding-basics/how-birds-keep-cool-hot-weather/",
-      "summary": "Birds don’t sweat in hot weather, but they do keep cool in some ways that we do—afternoon nap, anyone? See more bird tricks to beat the heat. The post How Do Birds Keep Cool in Hot",
-      "date": "Tue, 30 Jun 2026 18Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/06/277196372_1_Jean_Sullivan_BNB_BYPC_2021-e1782841433533.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-07-16T18:11:39Z"
-    },
-    {
-      "title": "Back-to-back humpback whale strandings reported on Northern California beaches",
-      "link": "https://www.mercurynews.com/2026/07/16/back-to-back-humpback-whale-strandings-reported-on-humboldt-county-beaches/",
-      "summary": "Two humpback whales that washed ashore on Humboldt County beaches within the past week were too decomposed for investigators to determine how they died",
-      "date": "Thu, 16 Jul 2026 16Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/California_Whale_Dies_66896.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-07-16T18:11:48Z"
     }
   ]
 }
