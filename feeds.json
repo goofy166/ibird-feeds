@@ -1,8 +1,85 @@
 {
-  "updated": "2026-07-24T11:47:22Z",
-  "updated_utc": "2026-07-24T11:47:22Z",
+  "updated": "2026-07-24T14:00:21Z",
+  "updated_utc": "2026-07-24T14:00:21Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Why Are These Whales Floating Upside-Down? They Might Just Be Moms Who Need a Break From Feeding Their Babies",
+      "link": "https://www.smithsonianmag.com/smart-news/why-are-these-whales-floating-upside-down-they-might-just-be-moms-who-need-a-break-from-feeding-their-babies-180989184/",
+      "summary": "Each year, southern right whales migrate thousands of miles from their feeding grounds to breed, give birth and raise their young. Taking rests and regulating their calves' nursing",
+      "date": "2026-07-24T13:39:39Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/kvPiX4o0MVxn_gQkgaJ_iE9Lwxg=/420x240/filters:focal(800x411:801x412)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/63/7f/637f114f-ffdf-48dc-b200-f219c89f63bc/upside-down-whale.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-24T14:00:13Z"
+    },
+    {
+      "title": "These Photos of Nashville Will Have You Packing Your Bags for Music City, USA",
+      "link": "https://www.smithsonianmag.com/travel/these-photos-of-nashville-will-have-you-packing-your-bags-for-music-city-usa-180989180/",
+      "summary": "These 15 images from the archives of the Smithsonian Magazine Photo Contest give us a glimpse of life in Tennessee’s capital city",
+      "date": "2026-07-24T12:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/P1kGcCb7jEw0WC7hLnPOtvHiisk=/420x240/filters:focal(1000x686:1001x687)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5f/e0/5fe09fa3-e328-4b40-a064-7acf1443d26a/72c0100e-66f7-4c1f-8ca0-3453475fbe66.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-24T14:00:13Z"
+    },
+    {
+      "title": "What kinds of black holes exist — and how are they different?",
+      "link": "https://www.sciencenews.org/article/video-black-hole-types",
+      "summary": "Scientists have identified four types of black holes, classified mostly by their masses. But these mysterious objects continue to challenge our understanding of the universe.",
+      "date": "2026-07-24T13:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/072126_LG_black-holes_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-24T14:00:14Z"
+    },
+    {
+      "title": "Having a young biological age could help with weight loss",
+      "link": "https://www.newscientist.com/article/2581243-having-a-young-biological-age-could-help-with-weight-loss/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "In a small study, restricting calories led to greater weight loss among people with a biological age younger than their chronological age",
+      "date": "2026-07-24T12:57:26Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306239118.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-24T14:00:15Z"
+    },
+    {
+      "title": "Plumage reflectance framework offers new insight into how birds evolved heat-controlling feathers",
+      "link": "https://phys.org/news/2026-07-plumage-framework-insight-birds-evolved.html",
+      "summary": "Birds can inhabit various environments with different climates and temperatures, ranging from cold polar regions to scorching hot deserts. To survive and thrive in these very diffe",
+      "date": "2026-07-24T13:40:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bird-in-the-sun.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-24T14:00:17Z"
+    },
+    {
+      "title": "Differences in human and great ape laughter reveal clues to the origin of speech",
+      "link": "https://phys.org/news/2026-07-differences-human-great-ape-laughter.html",
+      "summary": "Humans are not the only animals that communicate. Birds sing to attract mates, dolphins use signature whistles that identify individuals, and many primates produce complex vocaliza",
+      "date": "2026-07-24T13:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chimp-laughing.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-24T14:00:17Z"
+    },
+    {
+      "title": "Vegan dog and cat food generally well digested",
+      "link": "https://phys.org/news/2026-07-vegan-dog-cat-food-generally.html",
+      "summary": "A new scientific review has found that nutritionally sound vegan dog food, vegan cat food and vegetarian pet diets are generally well digested and broadly comparable to conventiona",
+      "date": "2026-07-24T12:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dog-eating-veggie.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-24T14:00:17Z"
+    },
     {
       "title": "Northern slopes of Sierra de Bahoruco National Park, Dominican Republic – Profile for Birders",
       "link": "https://www.10000birds.com/northern-slopes-of-sierra-de-bahoruco-national-park-dominican-republic-profile-for-birders.htm?utm_source=rss&utm_medium=rss&utm_campaign=northern-slopes-of-sierra-de-bahoruco-national-park-dominican-republic-profile-for-birders",
@@ -5425,83 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-16T16:23:07Z"
-    },
-    {
-      "title": "What animals do before going to war",
-      "link": "https://phys.org/news/2026-07-animals-war.html",
-      "summary": "Social animals use a suite of preemptive behaviors in anticipation of conflict, including staying quiet, monitoring their surroundings, conducting raids and bonding through play. I",
-      "date": "2026-07-16T15:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-animals-do-before.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-16T16:23:07Z"
-    },
-    {
-      "title": "Squirrel Lifespan: How Long Do Squirrels Live?",
-      "link": "https://www.birdsandblooms.com/gardening/backyard-wildlife/how-long-squirrels-live/",
-      "summary": "You see them often, but how long are you seeing the same squirrels? Find out how long squirrels live, and what affects a squirrel's lifespan. The post Squirrel Lifespan: How Long D",
-      "date": "2026-07-08T15:13:49Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/GettyImages-1928401854-e1783439696569.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-07-16T14:10:03Z"
-    },
-    {
-      "title": "Is Picking Up and Saving a Bird Feather Illegal?",
-      "link": "https://www.birdsandblooms.com/birding/birding-basics/illegal-picking-up-bird-feather/",
-      "summary": "Can you pick up a bird feather you found on the trail and bring it home? In most cases, no — and there could be legal consequences if you do. The post Is Picking Up and Saving a Bi",
-      "date": "2026-07-08T14:26:27Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/GettyImages-1409055564-e1783519083481.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-07-16T14:10:03Z"
-    },
-    {
-      "title": "Genes offer new clues to stopping Huntington’s disease in its tracks",
-      "link": "https://www.sciencenews.org/article/genes-huntingtons-therapy-expansion",
-      "summary": "A new generation of therapies aims to intervene at a recently discovered gap between the disease’s molecular march and its neurological consequences.",
-      "date": "Thu, 16 Jul 2026 14Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/0826_huntingtons_feat.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-16T14:10:16Z"
-    },
-    {
-      "title": "An ancient Maya astronomer finally has a name",
-      "link": "https://www.sciencenews.org/article/ancient-maya-astronomer-name-sak-tahn-waax",
-      "summary": "A Maya calendar formula bears the name Sak Tahn Waax, the first known Classic Maya mathematician-astronomer directly credited for such work.",
-      "date": "Thu, 16 Jul 2026 12Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/071326_TM_maya-astronomer_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-16T14:10:16Z"
-    },
-    {
-      "title": "Cave-dwelling snail discovered in Greece, named after Hermes and the nymph who nurtured him",
-      "link": "https://phys.org/news/2026-07-cave-snail-greece-hermes-nymph.html",
-      "summary": "A team of researchers from the National and Kapodistrian University of Athens has discovered a completely new genus and species of subterranean freshwater snail in the Peloponnese ",
-      "date": "2026-07-16T13:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cave-dwelling-snail-di.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-16T14:10:19Z"
-    },
-    {
-      "title": "Rare Australian wattle is on the brink of extinction",
-      "link": "https://phys.org/news/2026-07-rare-australian-wattle-brink-extinction.html",
-      "summary": "The spidery wattle (Acacia araneosa) is a national treasure. The plant is named for its spidery, leaflike phyllodes and shares the same iconic golden flowers as Australia's floral ",
-      "date": "2026-07-16T13:20:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/this-rare-australian-w.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-16T14:10:19Z"
     }
   ]
 }
