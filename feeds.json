@@ -1,8 +1,63 @@
 {
-  "updated": "2026-07-24T21:12:38Z",
-  "updated_utc": "2026-07-24T21:12:38Z",
+  "updated": "2026-07-24T23:08:49Z",
+  "updated_utc": "2026-07-24T23:08:49Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Gardening and Wildfire Smoke: What You Need to Know",
+      "link": "https://www.birdsandblooms.com/gardening/gardening-basics/gardening-wildfire-smoke/",
+      "summary": "Gardening is a beloved summer activity, but what happens when wildfire smoke and ash blows in? Find out if the smoke will impact your plants. The post Gardening and Wildfire Smoke:",
+      "date": "Thu, 16 Jul 2026 19Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/GettyImages-2284407704-e1784295573517.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-07-24T23:08:29Z"
+    },
+    {
+      "title": "San Diego Safari Park gorilla undergoes landmark surgery for bone infection with help from UCSD",
+      "link": "https://www.mercurynews.com/2026/07/16/san-diego-safari-park-gorilla-undergoes-landmark-surgery-for-bone-infection-with-help-from-ucsd/",
+      "summary": "UC San Diego surgeons adapted human medicine techniques to perform the surgery on Mizani the gorilla Saturday.",
+      "date": "Thu, 16 Jul 2026 18Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/SUT-L-GORILLA-SURGERY-02.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-07-24T23:08:37Z"
+    },
+    {
+      "title": "Three Millennia Ago, Humans May Have Spoken Thousands More Languages Than We Have Today, During a Linguistic 'Golden Age'",
+      "link": "https://www.smithsonianmag.com/smart-news/three-millennia-ago-humans-may-have-spoken-thousands-more-languages-than-we-have-today-during-a-linguistic-golden-age-180989197/",
+      "summary": "A new study suggests linguistic diversity reached its peak between 1000 B.C.E. and 1000 C.E. before declining",
+      "date": "2026-07-24T21:42:54Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/7Z-ggEfOIWVrfA7mOasdaTuIJeE=/420x240/filters:focal(600x317:601x318)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3d/ed/3dedf986-0087-44f0-9c5a-d7bc444bedec/map.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-24T23:08:41Z"
+    },
+    {
+      "title": "One of NASA’s crucial links to deep space is at risk of burning down",
+      "link": "https://www.newscientist.com/article/2581311-one-of-nasas-crucial-links-to-deep-space-is-at-risk-of-burning-down/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "The Deep Space Network is our best way to communicate with spacecraft beyond Earth’s orbit, and one of its three stations around the world is in the middle of a wildfire",
+      "date": "2026-07-24T21:30:01Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/Canberra-DSN.webp",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-24T23:08:43Z"
+    },
+    {
+      "title": "Wound odors may unlock better traps for flesh-eating New World screwworm",
+      "link": "https://phys.org/news/2026-07-wound-odors-flesh-world-screwworm.html",
+      "summary": "Jessica Metcalf's work stinks. Literally. But the Colorado State University professor's research may be key to protecting livestock and wildlife from a flesh-eating parasite.",
+      "date": "2026-07-24T22:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-on-foul-odors-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-24T23:08:45Z"
+    },
     {
       "title": "Back-to-back humpback whale strandings reported on Northern California beaches",
       "link": "https://www.mercurynews.com/2026/07/16/back-to-back-humpback-whale-strandings-reported-on-humboldt-county-beaches/",
@@ -5447,61 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-07-17T00:03:54Z"
-    },
-    {
-      "title": "Researchers discover rare freshwater mussels in Moosup River",
-      "link": "https://phys.org/news/2026-07-rare-freshwater-mussels-moosup-river.html",
-      "summary": "When University of Rhode Island researchers slipped beneath the surface of the Moosup River recently, they did not expect to find a living freshwater mussel community. The discover",
-      "date": "2026-07-17T00:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uri-researchers-discov.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-17T00:04:01Z"
-    },
-    {
-      "title": "For biodiversity to thrive across Europe, laws should treat wildlife as individuals capable of suffering, experts argue",
-      "link": "https://phys.org/news/2026-07-biodiversity-europe-laws-wildlife-individuals.html",
-      "summary": "Wildlife protection frameworks in both the EU and the UK need stronger and more consistent implementation—and must recognize animals as \"individuals capable of experiencing sufferi",
-      "date": "2026-07-16T23:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wild-ponies.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-17T00:04:01Z"
-    },
-    {
-      "title": "How Does Wildfire Smoke Affect Birds?",
-      "link": "https://www.birdsandblooms.com/birding/birding-basics/wildfire-smoke-birds/",
-      "summary": "Wildfire smoke isn't good for anyone — human or bird. Here's how smoke affects wild birds, and what you can do to help them. The post How Does Wildfire Smoke Affect Birds? appeared",
-      "date": "Thu, 16 Jul 2026 20Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/277245887_1_Meghan_Dyckova_BNB_BYPC_2021-scaled-e1784228973527.jpeg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-07-16T22:08:40Z"
-    },
-    {
-      "title": "Submit Nominations for Outside’s 2027 Travel Awards",
-      "link": "https://www.outsideonline.com/adventure-travel/news-analysis/submit-nominations-for-outsides-2027-travel-awards/",
-      "summary": "We're calling for nominations for Outside's 2027 Travel Awards. Please submit your nominations for best places to stay, travel companies, trails, and trailblazers. The post Submit ",
-      "date": "Thu, 16 Jul 2026 21Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/travel-awards-2026-featured-CMS-image.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-16T22:08:51Z"
-    },
-    {
-      "title": "Buzz Aldrin Used This Humble Felt-Tip Pen to Save the Apollo II Astronauts. It Just Sold for More Than $850,000",
-      "link": "https://www.smithsonianmag.com/smart-news/buzz-aldrin-used-this-humble-felt-tip-pen-to-save-the-apollo-ii-astronauts-it-just-sold-for-more-than-850000-180989142/",
-      "summary": "In July 1969, a quick-thinking Aldrin used the writing instrument to rearm the engine arm circuit of the lunar module \"Eagle\" after the switch broke off during the moon landing",
-      "date": "Thu, 16 Jul 2026 21Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/t0QJfT8i8O4HCjh2JDuBgOtrEFo=/420x240/filters:focal(384x227:385x228)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4e/ef/4eef342c-0f1c-48ce-a941-bfb64c516a24/screenshot_2026-07-16_at_20301pm.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-16T22:08:52Z"
     }
   ]
 }
