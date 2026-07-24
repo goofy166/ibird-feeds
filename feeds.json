@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-24T03:28:25Z",
-  "updated_utc": "2026-07-24T03:28:25Z",
+  "updated": "2026-07-24T06:33:32Z",
+  "updated_utc": "2026-07-24T06:33:32Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Rare heron seen at Somerset estate where river has been allowed to run free",
+      "link": "https://www.theguardian.com/environment/2026/jul/24/rare-night-heron-somerset-holnicote-river-reset",
+      "summary": "Black-crowned night heron one of many species thriving at Holnicote Estate where river ‘reset’ has transformed area into lush oasis A rare black-crowned night heron has been spotte",
+      "date": "2026-07-24T04:00:04Z",
+      "image": "https://i.guim.co.uk/img/media/fc7f9658b16fb1c9b9a84e11c30f22a1e86e0191/560_0_4776_3821/master/4776.jpg?width=140&quality=85&auto=format&fit=max&s=2f853e81f54aef4272c5ed480747f9e3",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-24T06:33:16Z"
+    },
     {
       "title": "Hydroponic Gardening Basics: No Soil Required",
       "link": "https://www.birdsandblooms.com/gardening/fruit-and-vegetable-gardening/hydroponic-gardening/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-16T11:46:12Z"
-    },
-    {
-      "title": "New 3D silicon chip stacks circuits on top of each other to boost computing power",
-      "link": "https://www.livescience.com/technology/electronics/new-3d-silicon-chip-stacks-circuits-on-top-of-each-other-to-boost-computing-power",
-      "summary": "Researchers have found a way to build a three-layered silicon chip without the chip overheating.",
-      "date": "Thu, 16 Jul 2026 09Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/VXgVC94jx2aUzAv8MgM6SF-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-16T11:46:13Z"
     }
   ]
 }
