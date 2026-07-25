@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-25T11:18:04Z",
-  "updated_utc": "2026-07-25T11:18:04Z",
+  "updated": "2026-07-25T13:51:13Z",
+  "updated_utc": "2026-07-25T13:51:13Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Archaeologists find 2,800-year-old burial of person clutching sea turtle vessel in El Salvador",
+      "link": "https://www.livescience.com/archaeology/americas/archaeologists-find-2-800-year-old-burial-of-person-clutching-sea-turtle-vessel-in-el-salvador",
+      "summary": "An unusual 2,800-year-old Mesoamerican burial found in El Salvador included a face-down skeleton clutching a sea turtle vessel.",
+      "date": "2026-07-25T13:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/zp2qmk9bRAvvNEWa72JjJC-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-25T13:51:10Z"
+    },
     {
       "title": "Dipper",
       "link": "https://www.10000birds.com/dipper-2.htm?utm_source=rss&utm_medium=rss&utm_campaign=dipper-2",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-07-17T12:15:44Z"
-    },
-    {
-      "title": "Math puzzle: A sequence of odd events",
-      "link": "https://www.sciencenews.org/article/math-puzzle-2026-august-odd-family",
-      "summary": "Solve the math puzzle from our August 2026 issue, in which a family investigates an odd happening.",
-      "date": "2026-07-17T12:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/0826_puzzle_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-17T12:15:45Z"
     }
   ]
 }
