@@ -1,8 +1,30 @@
 {
-  "updated": "2026-07-24T23:08:49Z",
-  "updated_utc": "2026-07-24T23:08:49Z",
+  "updated": "2026-07-25T03:26:24Z",
+  "updated_utc": "2026-07-25T03:26:24Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How Does Wildfire Smoke Affect Birds?",
+      "link": "https://www.birdsandblooms.com/birding/birding-basics/wildfire-smoke-birds/",
+      "summary": "Wildfire smoke isn't good for anyone — human or bird. Here's how smoke affects wild birds, and what you can do to help them. The post How Does Wildfire Smoke Affect Birds? appeared",
+      "date": "Thu, 16 Jul 2026 20Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/277245887_1_Meghan_Dyckova_BNB_BYPC_2021-scaled-e1784228973527.jpeg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-07-25T03:26:04Z"
+    },
+    {
+      "title": "A Yellowstone Driver Tried to Pass a Bison. The Bull Attacked.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/yellowstone-bison-pops-car-tire-video/",
+      "summary": "A bison popped an SUV tire in Yellowstone's Hayden Valley after the vehicle got too close. The post A Yellowstone Driver Tried to Pass a Bison. The Bull Attacked. appeared first on",
+      "date": "2026-07-24T23:29:44Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-5.21.45-PM.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-25T03:26:15Z"
+    },
     {
       "title": "Gardening and Wildfire Smoke: What You Need to Know",
       "link": "https://www.birdsandblooms.com/gardening/gardening-basics/gardening-wildfire-smoke/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-07-17T04:13:20Z"
-    },
-    {
-      "title": "Did ancient Egyptian princesses use weapons? Controversial study claims they hunted or trained with the military, but not all experts agree.",
-      "link": "https://www.livescience.com/archaeology/ancient-egyptians/did-ancient-egyptian-princesses-use-weapons-controversial-study-claims-they-hunted-or-trained-with-the-military-but-not-all-experts-agree",
-      "summary": "Nearly 4,000-year-old skeletal remains show that several royal women repeatedly used their upper-body muscles. Researchers link those changes to archery and weapon training, but ou",
-      "date": "2026-07-17T04:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZLiJzee29CeZYxjQCdSGQM-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-17T04:13:23Z"
-    },
-    {
-      "title": "The Best Budget, Mid-Priced, and Splurgey Camping Mattresses and Sleeping Pads",
-      "link": "https://www.outsideonline.com/outdoor-gear/camping/budget-mid-splurge-sleeping-pads/",
-      "summary": "The difference between a miserable night in the woods and a restful one often comes down to a few inches of foam and air. Whether you’re hauling in a plush camping mattress or roll",
-      "date": "Thu, 16 Jul 2026 22Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/Untitled-design-2.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-17T00:03:54Z"
     }
   ]
 }
