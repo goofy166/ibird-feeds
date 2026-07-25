@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-25T13:51:13Z",
-  "updated_utc": "2026-07-25T13:51:13Z",
+  "updated": "2026-07-25T15:10:29Z",
+  "updated_utc": "2026-07-25T15:10:29Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Herbivore species dynamics is key to grassland food web stability",
+      "link": "https://phys.org/news/2026-07-herbivore-species-dynamics-key-grassland.html",
+      "summary": "Ecologists have long understood that biodiversity is paramount to ecosystem stability. Until now, however, most ecological research has focused on a single layer of ecological life",
+      "date": "2026-07-25T15:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/herbivore-species-dyna.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-25T15:10:25Z"
+    },
     {
       "title": "Archaeologists find 2,800-year-old burial of person clutching sea turtle vessel in El Salvador",
       "link": "https://www.livescience.com/archaeology/americas/archaeologists-find-2-800-year-old-burial-of-person-clutching-sea-turtle-vessel-in-el-salvador",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-07-17T12:15:38Z"
-    },
-    {
-      "title": "15 Kitten Photos That Will Make You Feel as Warm and Fuzzy as the Tiny Felines Themselves",
-      "link": "https://www.smithsonianmag.com/travel/15-kitten-photos-that-will-make-you-feel-as-warm-and-fuzzy-as-the-tiny-felines-themselves-180989111/",
-      "summary": "These moments from the Smithsonian Magazine Photo Contest highlight curious kittens from around the world",
-      "date": "2026-07-17T11:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/aEKHQApo8L_21r7gSN4UrDKuKvs=/420x240/filters:focal(1585x699:1586x700)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/51/78/5178f475-2b21-49f2-83ab-dfef6d8bae5d/14-d124fe1fb4c35ab8af7bcbcda67e7014e28619de.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-17T12:15:44Z"
     }
   ]
 }
