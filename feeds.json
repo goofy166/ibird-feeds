@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-26T16:08:35Z",
-  "updated_utc": "2026-07-26T16:08:35Z",
+  "updated": "2026-07-26T18:05:37Z",
+  "updated_utc": "2026-07-26T18:05:37Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Trace molecules emerge as chemical 'keystones' that steer life's communities",
+      "link": "https://phys.org/news/2026-07-molecules-emerge-chemical-keystones-life.html",
+      "summary": "In nature, the rarest ingredient can be the one that holds everything together. In a new article published in Trends in Ecology & Evolution, Dr. Erika C. Freeman of the Leibniz Ins",
+      "date": "2026-07-26T17:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-few-that-shape-the.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-26T18:05:33Z"
+    },
     {
       "title": "DNA vacuum captures animal traces from air to map Danish wildlife",
       "link": "https://phys.org/news/2026-07-dna-vacuum-captures-animal-air.html",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-07-17T14:48:34Z"
-    },
-    {
-      "title": "Meet the Orange-Lipped 'Likweli' Monkey, a New Species That Was Discovered in the Congo Rainforest",
-      "link": "https://www.smithsonianmag.com/smart-news/meet-the-orange-lipped-likweli-monkey-a-new-species-that-was-discovered-in-the-congo-rainforest-180989140/",
-      "summary": "The creatures, which weigh about the same as a small dog, have spiky black hair, orange-cream skin around their mouths and a white patch on their rear ends. Scientists say that the",
-      "date": "2026-07-17T14:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/Xe8gKtdZeRM8zzy_pYqop29tac0=/420x240/filters:focal(612x396:613x397)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/28/36/2836c35b-9e1f-4646-b86b-8544a0060ac5/ccongoensis.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-17T14:48:42Z"
     }
   ]
 }
