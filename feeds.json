@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-26T12:10:13Z",
-  "updated_utc": "2026-07-26T12:10:13Z",
+  "updated": "2026-07-26T14:41:43Z",
+  "updated_utc": "2026-07-26T14:41:43Z",
   "count": 500,
   "stories": [
+    {
+      "title": "DNA vacuum captures animal traces from air to map Danish wildlife",
+      "link": "https://phys.org/news/2026-07-dna-vacuum-captures-animal-air.html",
+      "summary": "Researchers have developed a DNA vacuum that can suck genetic traces from animals out of the air and reveal which animals live in an area. In two new studies, the researchers colle",
+      "date": "2026-07-26T14:30:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dna-vacuum-reveals-loc.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-26T14:41:39Z"
+    },
     {
       "title": "The Murder That Never Happened",
       "link": "https://www.10000birds.com/the-murder-that-never-happened.htm?utm_source=rss&utm_medium=rss&utm_campaign=the-murder-that-never-happened",
@@ -5487,17 +5498,6 @@
       "summary": "The creatures, which weigh about the same as a small dog, have spiky black hair, orange-cream skin around their mouths and a white patch on their rear ends. Scientists say that the",
       "date": "2026-07-17T14:00:00Z",
       "image": "https://th-thumbnailer.cdn-si-edu.com/Xe8gKtdZeRM8zzy_pYqop29tac0=/420x240/filters:focal(612x396:613x397)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/28/36/2836c35b-9e1f-4646-b86b-8544a0060ac5/ccongoensis.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-17T14:48:42Z"
-    },
-    {
-      "title": "These 16 Splendid Aerial Views Capture Wildlife From Above, Revealing the Beauty and Mystery of Nature",
-      "link": "https://www.smithsonianmag.com/smart-news/these-16-splendid-aerial-views-capture-wildlife-from-above-revealing-the-beauty-and-mystery-of-nature-180989141/",
-      "summary": "The second International Aerial Photographer of the Year contest selected its winners and 101 top images. Here’s a selection of the photos that spotlight animals from a new perspec",
-      "date": "2026-07-17T13:36:40Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/CGHa32eXrsbrbxnIfsDgjCwIoEo=/420x240/filters:focal(1177x1269:1178x1270)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/98/69/9869f609-2225-47ad-8fd3-d68aa66df7ab/67363_rhiannon_lawler_holding_on.jpg",
       "name": "Smithsonian",
       "category": "insects",
       "color": 10,
