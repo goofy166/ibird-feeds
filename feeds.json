@@ -1,8 +1,41 @@
 {
-  "updated": "2026-07-27T00:07:08Z",
-  "updated_utc": "2026-07-27T00:07:08Z",
+  "updated": "2026-07-27T04:42:49Z",
+  "updated_utc": "2026-07-27T04:42:49Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Spines of saber-toothed cats tell a tale of the doomed species",
+      "link": "https://www.sciencenews.org/article/spine-saber-toothed-cat-tumor-extinct",
+      "summary": "Remains pulled from the La Brea Tar Pits revealed deformed vertebrae and rare tumors, possible signs of inbreeding among now-extinct saber-toothed cats.",
+      "date": "2026-07-27T04:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/072326_JB_saber-toothed-tumors_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-27T04:42:43Z"
+    },
+    {
+      "title": "Saber-toothed cats' spinal tumors suggest inbred species struggled to survive",
+      "link": "https://phys.org/news/2026-07-saber-toothed-cats-spinal-tumors.html",
+      "summary": "The fossilized spines of saber-toothed cats in the La Brea Tar Pits reveal evidence of an unexpectedly high prevalence of rare spinal nerve tumors, suggesting that the species beca",
+      "date": "2026-07-27T04:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/saber-toothed-cats-spi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-27T04:42:46Z"
+    },
+    {
+      "title": "Tigray's old grapevines have survived against the odds: New research uncovers their genetic and historic value",
+      "link": "https://phys.org/news/2026-07-tigray-grapevines-survived-odds-uncovers.html",
+      "summary": "The northern highlands of Ethiopia are among Africa's oldest agricultural landscapes. Some of the world's most important crops originated here, particularly pulses and grains, incl",
+      "date": "2026-07-27T00:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tigrays-old-grapevines.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-27T04:42:46Z"
+    },
     {
       "title": "Trace molecules emerge as chemical 'keystones' that steer life's communities",
       "link": "https://phys.org/news/2026-07-molecules-emerge-chemical-keystones-life.html",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-07-17T16:20:53Z"
-    },
-    {
-      "title": "'Explosive diarrhea' parasite infections in 5 states linked to Taco Bell lettuce; other cases still under investigation",
-      "link": "https://www.livescience.com/health/viruses-infections-disease/explosive-diarrhea-parasite-infections-in-5-states-linked-to-taco-bell-lettuce-other-cases-still-under-investigation",
-      "summary": "Lettuce served at Taco Bell has been identified as a source of Cyclospora infections affecting people across five states.",
-      "date": "2026-07-17T15:48:36Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/PNio36uuhfVrNzwhJZftFW-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-17T16:20:53Z"
-    },
-    {
-      "title": "'Shared cosmic experience': 'Potentially hazardous' asteroid Apophis could be visible to 90% of Earth's population during ultraclose 2029 flyby, new maps reveal",
-      "link": "https://www.livescience.com/space/asteroids/shared-cosmic-experience-potentially-hazardous-asteroid-apophis-could-be-visible-to-90-percent-of-earths-population-during-ultraclose-2029-flyby-new-maps-reveal",
-      "summary": "Researchers predict that up to 7.6 billion people will be able to see the potentially hazardous asteroid Apophis fly past Earth on April 13, 2029. The skyscraper-size space rock wi",
-      "date": "2026-07-17T14:47:06Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/SPKRo4dWa5xKUuQYN5s7SR-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-17T16:20:53Z"
-    },
-    {
-      "title": "Biodiversity fears as human-bred hybrid fish integrate into Philippines lake",
-      "link": "https://www.theguardian.com/environment/2026/jul/17/biodiversity-fears-flowerhorn-cichlids-philippines-lake",
-      "summary": "Escaped flowerhorn cichlids are causing concern for native species and about parasites capable of infecting humans Escaped ornamental aquarium fish have integrated into a local eco",
-      "date": "2026-07-17T14:00:31Z",
-      "image": "https://i.guim.co.uk/img/media/93a89474678a86ed946597a7aeb48c0c3c551743/406_0_4022_3217/master/4022.jpg?width=140&quality=85&auto=format&fit=max&s=0fc7ba732d7c827b8f8e88d6f62b29eb",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-17T14:48:34Z"
     }
   ]
 }
