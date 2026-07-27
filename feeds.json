@@ -1,8 +1,118 @@
 {
-  "updated": "2026-07-27T21:18:17Z",
-  "updated_utc": "2026-07-27T21:18:17Z",
+  "updated": "2026-07-27T23:11:56Z",
+  "updated_utc": "2026-07-27T23:11:56Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A ‘Freak Accident’ Left a Salmon River Rafter Crushed Beneath a Tree. His Fellow Campers’ Quick Thinking Saved His Life.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/salmon-river-tree-crush-rafter-rescue/",
+      "summary": "Two Bear Air helicopter team rescued a camper who was crushed by a tree while sleeping in his tent along the Salmon River in Idaho. The post A ‘Freak Accident’ Left a Salmon River ",
+      "date": "2026-07-27T22:05:11Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/two-bear-air.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-27T23:11:46Z"
+    },
+    {
+      "title": "Sharks Sightings Are Up at Popular U.S. Beaches. How Concerned Should You Be?",
+      "link": "https://www.outsideonline.com/adventure-travel/news-analysis/sharks-us-beaches/",
+      "summary": "Sharks are moving into new waters, and drones are catching every fin. We talk to a leading shark scientist about what that actually means for beachgoers— and how to stay safe in th",
+      "date": "2026-07-27T21:22:03Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/GettyImages-2279886768.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-27T23:11:46Z"
+    },
+    {
+      "title": "Seabirds trade their own survival to raise more chicks after energy-intensive breeding seasons",
+      "link": "https://phys.org/news/2026-07-seabirds-survival-chicks-energy-intensive.html",
+      "summary": "Wild seabirds that face high energy demands during the breeding season go on to migrate farther and raise more chicks the next year, but at a cost to their own survival. An interna",
+      "date": "2026-07-27T23:00:11Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seabirds-trade-their-s.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-27T23:11:52Z"
+    },
+    {
+      "title": "Researchers develop model that predicts which Red Sea fish are most likely to invade the Mediterranean",
+      "link": "https://phys.org/news/2026-07-red-sea-fish-invade-mediterranean.html",
+      "summary": "More than 120 fish species have migrated from the Red Sea to the Mediterranean since the Suez Canal opened more than 150 years ago. Now, researchers at Tel Aviv University have dev",
+      "date": "2026-07-27T23:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-mo-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-27T23:11:52Z"
+    },
+    {
+      "title": "Molecular switch that activates cell growth signaling may offer more precise route for anticancer therapy",
+      "link": "https://phys.org/news/2026-07-molecular-cell-growth-precise-route.html",
+      "summary": "Cells carry their own growth switches. When enough nutrients—amino acids in particular—are available, cells flip this switch on and begin to grow. Researchers at KAIST and Yonsei U",
+      "date": "2026-07-27T22:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-identifies-a-mol-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-27T23:11:52Z"
+    },
+    {
+      "title": "Prolonged stretching reorganizes tissue scaffolds and uncages cell nuclei",
+      "link": "https://phys.org/news/2026-07-prolonged-tissue-scaffolds-uncages-cell.html",
+      "summary": "How do tissues cope with being stretched for hours or even days? A study led by researchers at the Institute for Bioengineering of Catalonia (IBEC) has uncovered an unexpected answ",
+      "date": "2026-07-27T22:30:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/under-pressure-when-te.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-27T23:11:52Z"
+    },
+    {
+      "title": "Microscopic atlas reveals how citrus Huanglongbing disease progresses through trees",
+      "link": "https://phys.org/news/2026-07-microscopic-atlas-reveals-citrus-huanglongbing.html",
+      "summary": "What happens inside a citrus tree long before leaves turn yellow, roots decline, and fruit quality suffers? Researchers from the University of Florida Citrus Research and Education",
+      "date": "2026-07-27T22:00:09Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/microscopic-atlas-reve.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-27T23:11:52Z"
+    },
+    {
+      "title": "Harmful bugs can thrive in your kitchen sponge for weeks, and you won't be able to tell",
+      "link": "https://phys.org/news/2026-07-bugs-kitchen-sponge-weeks-wont.html",
+      "summary": "That kitchen sponge sitting by your sink is not as innocent as it looks. It could be harboring Salmonella enteritidis, E. coli or Staphylococcus aureus—and there's no way to tell j",
+      "date": "2026-07-27T21:40:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kitchen-sponge.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-27T23:11:52Z"
+    },
+    {
+      "title": "Purple corn offers a stable natural alternative to artificial food dyes",
+      "link": "https://phys.org/news/2026-07-purple-corn-stable-natural-alternative.html",
+      "summary": "University of Missouri researchers are turning a unique variety of corn into an effective natural alternative to artificial food dyes.",
+      "date": "2026-07-27T21:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-discover-n-13.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-27T23:11:52Z"
+    },
+    {
+      "title": "Low-cost spray can help tomatoes grow in salty soils",
+      "link": "https://phys.org/news/2026-07-spray-tomatoes-salty-soils.html",
+      "summary": "A simple, low-dose leaf spray could give farmers a practical new tool to keep growing tomatoes on land that salt has rendered increasingly unproductive, according to a study led by",
+      "date": "2026-07-27T21:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/utep-researcher-helps.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-27T23:11:52Z"
+    },
     {
       "title": "How Does a Bilingual Speaker's Brain Process Two Languages? New Research Suggests That Both Rely on the Same Neural Wiring",
       "link": "https://www.smithsonianmag.com/smart-news/how-does-a-bilingual-speakers-brain-process-two-languages-new-research-suggests-that-both-rely-on-the-same-neural-wiring-180989202/",
@@ -5392,116 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-07-20T11:51:56Z"
-    },
-    {
-      "title": "The pet I’ll never forget: Bird the hawk – the predator who once hugged me for 20 minutes",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jul/20/pet-ill-never-forget-bird-hawk-hugged-me-for-20-minutes",
-      "summary": "A Harris’s hawk, she is capable of flying at more than 35mph, scouring the ground for prey, while also judging my footwear. The moments of connection with this wild creature are in",
-      "date": "2026-07-20T10:00:52Z",
-      "image": "https://i.guim.co.uk/img/media/3952bdf77f6aa06db85efc87c02312cc48a8689c/1093_0_3687_2950/master/3687.jpg?width=140&quality=85&auto=format&fit=max&s=fe6befb11f43fdcf0c002e1ac3e12208",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-20T11:52:01Z"
-    },
-    {
-      "title": "Did These Ancient Egyptian Princesses Wield Weapons and Train in Martial Arts, Just Like the Men of Their Time?",
-      "link": "https://www.smithsonianmag.com/smart-news/did-these-ancient-egyptian-princesses-wield-weapons-and-train-in-martial-arts-just-like-the-men-of-their-time-180989151/",
-      "summary": "A new analysis of their bones suggests they were buried alongside arrows, maces and daggers because they had repeatedly used those weapons in life",
-      "date": "2026-07-20T10:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/ag2S6uzzysjg03LFOclbp3d_STc=/420x240/filters:focal(420x280:421x281)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c0/94/c094d9cf-b2c9-4b5d-9298-7501cd515867/sei_305407141.webp",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-20T11:52:09Z"
-    },
-    {
-      "title": "On the hunt for Earth's first complex life",
-      "link": "https://phys.org/news/2026-07-earth-complex-life.html",
-      "summary": "How life started on our own planet may not seem as interesting as finding evidence of life on Mars or the icy moons Europa or Enceladus. But the search for the first eukaryotes on ",
-      "date": "2026-07-20T11:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/on-the-hunt-for-earths.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-20T11:52:13Z"
-    },
-    {
-      "title": "AI tool reveals climate shifts may have fueled bursts of bird evolution",
-      "link": "https://phys.org/news/2026-07-ai-tool-reveals-climate-shifts.html",
-      "summary": "University of Michigan researchers have used an AI tool to demonstrate that birds in the group Passeriformes evolved in rapid evolutionary bursts and that these bursts frequently c",
-      "date": "2026-07-20T09:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-tool-reveals-climat.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-20T11:52:13Z"
-    },
-    {
-      "title": "Scientists map how the flu virus rewires the human cell from the inside",
-      "link": "https://phys.org/news/2026-07-scientists-flu-virus-rewires-human.html",
-      "summary": "Researchers at EMBL Hamburg and collaborators at the Leibniz Research Institute for Molecular Pharmacology (FMP) have mapped how the influenza A virus rewires infected human cells ",
-      "date": "2026-07-20T09:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-map-how-the.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-20T11:52:13Z"
-    },
-    {
-      "title": "'We were genuinely surprised': 'Superworms' can clean extremely delicate skeletons lickety-split, and that's a game changer for museums",
-      "link": "https://www.livescience.com/animals/we-were-genuinely-surprised-superworms-can-clean-extremely-delicate-skeletons-lickety-split-and-thats-a-game-changer-for-museums",
-      "summary": "Biologists Niloofar Alaei Kakhki and Morteza Monfared tell Live Science how beetle larvae could be repurposed from pet food to a cleaner for museums and laboratories.",
-      "date": "2026-07-20T11:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/kvY9u6diAGsyQtovsWXywQ-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-20T11:52:15Z"
-    },
-    {
-      "title": "Mummy mask with wig: A 1,000-year-old 'false head' found in Peru that was crafted with real human hair and toxic red cinnabar",
-      "link": "https://www.livescience.com/archaeology/americas/mummy-mask-with-wig-a-1-000-year-old-false-head-found-in-peru-that-was-crafted-with-real-human-hair-and-toxic-red-cinnabar",
-      "summary": "Stylized masks like this one adorned pre-Inca mummies in Peru hundreds of years ago.",
-      "date": "2026-07-20T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ADBpw3Wrr68pkGXL9P97tS-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-20T11:52:15Z"
-    },
-    {
-      "title": "Country diary 1906: Large numbers of insects are thirsting for our blood",
-      "link": "https://www.theguardian.com/environment/2026/jul/20/country-diary-1906-large-numbers-of-insects-thirsting-for-our-blood",
-      "summary": "27 July 1906 : The bitter cry of two tormented correspondents has reached me from Stockport and Chester The country at present, though so full of charm, is not without drawbacks, f",
-      "date": "2026-07-20T05:00:48Z",
-      "image": "https://i.guim.co.uk/img/media/3402868c14d689e09f418031beb025d0b62481ef/356_0_3560_2848/master/3560.jpg?width=140&quality=85&auto=format&fit=max&s=19c2fcee7feea855525a317c3a578308",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-20T08:11:56Z"
-    },
-    {
-      "title": "Science word of the day: Heliosphere",
-      "link": "https://www.livescience.com/space/science-word-of-the-day-heliosphere",
-      "summary": "What does 'heliosphere' mean?",
-      "date": "2026-07-20T08:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/E8KnNbRDAViQcQ9UqSLJxi-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-20T08:12:14Z"
-    },
-    {
-      "title": "Country diary: Beaver-style flood defences take root amid a hosepipe ban | Kate Blincoe",
-      "link": "https://www.theguardian.com/environment/2026/jul/20/country-diary-beaver-style-flood-defences-take-root-amid-a-hosepipe-ban",
-      "summary": "Caistor St Edmund, Norfolk: Underfoot the ground is as hard as metal, while the council’s ‘leaky dams’ are set for the next deluge Catkins fall from the sweet chestnut trees like l",
-      "date": "2026-07-20T04:30:46Z",
-      "image": "https://i.guim.co.uk/img/media/29ed384e6b807e9aae7fd0aa054920091a406c23/0_0_5354_4284/master/5354.jpg?width=140&quality=85&auto=format&fit=max&s=ace2656780bc0ce84e694f23c0388225",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-20T04:40:47Z"
     }
   ]
 }
