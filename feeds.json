@@ -1,8 +1,129 @@
 {
-  "updated": "2026-07-28T09:40:32Z",
-  "updated_utc": "2026-07-28T09:40:32Z",
+  "updated": "2026-07-28T12:02:36Z",
+  "updated_utc": "2026-07-28T12:02:36Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Tunisia – Profile for Birders",
+      "link": "https://www.10000birds.com/tunisia-profile-for-birders.htm?utm_source=rss&utm_medium=rss&utm_campaign=tunisia-profile-for-birders",
+      "summary": "Highlights Discover a hidden paradise for birdwatchers where the Mediterranean meets the Sahara. Tunisia offers an astonishing diversity of ecosystems packed into a compact, easily",
+      "date": "Tue, 28 Jul 2026 11Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/4188191315_ca28b1faf2_z.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-07-28T12:02:15Z"
+    },
+    {
+      "title": "Bird Guides of the World: Sudheesh Thattekad, South India",
+      "link": "https://www.10000birds.com/bird-guides-of-the-world-sudheesh-thattekad-south-india.htm?utm_source=rss&utm_medium=rss&utm_campaign=bird-guides-of-the-world-sudheesh-thattekad-south-india",
+      "summary": "What is your favorite bird species? My favorite bird species are the Sri Lanka Frogmouth (Batrachostomus moniliger) and the Ceylon Bay Owl (Phodilus assimilis). Both are highly noc",
+      "date": "Tue, 28 Jul 2026 11Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/06/1000222289.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-07-28T12:02:15Z"
+    },
+    {
+      "title": "Companion for Betelgeuse update! A new image",
+      "link": "https://earthsky.org/space/has-the-betelgeuse-companion-star-been-imaged/",
+      "summary": "A recent image appears to show the faint companion for Betelgeuse. It's the strongest evidence yet that the beloved red supergiant star has a companion star. The post Companion for",
+      "date": "Tue, 28 Jul 2026 12Z",
+      "image": "https://earthsky.org/upl/2026/07/Betelgeuse-and-its-companion-ESO-July-27-2026.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-07-28T12:02:22Z"
+    },
+    {
+      "title": "The July full moon is the beautiful Buck Moon",
+      "link": "https://earthsky.org/moon-phases/july-full-moon/",
+      "summary": "The crest of the July full moon, or Buck Moon, falls at 14:36 UTC on July 29. But it will also appear full when it rises in the evening on July 28 and 29. The post The July full mo",
+      "date": "Tue, 28 Jul 2026 11Z",
+      "image": "https://earthsky.org/upl/2026/07/2026-July-Full-Moon-rise.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-07-28T12:02:22Z"
+    },
+    {
+      "title": "Return of Orion the Hunter, ghost of the summer dawn",
+      "link": "https://earthsky.org/tonight/orion-the-hunter-ghost-of-the-summer-dawn/",
+      "summary": "Orion the Hunter returns to the east at dawn at this time every year. Here's how to watch for this most noticeable of constellations. The post Return of Orion the Hunter, ghost of ",
+      "date": "Tue, 28 Jul 2026 11Z",
+      "image": "https://earthsky.org/upl/2021/07/East-Orion-Betelgeuse-Rigel-Orions-Belt-July-2021.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-07-28T12:02:22Z"
+    },
+    {
+      "title": "Meet Shaula and Lesath, the Scorpion’s Stinger stars",
+      "link": "https://earthsky.org/brightest-stars/shaula-and-lesath-scorpions-stinger-stars/",
+      "summary": "Shaula and Lesath, known as the Stinger of the Scorpion, are easy to see at the end of Scorpius's tail. The post Meet Shaula and Lesath, the Scorpion’s Stinger stars first appeared",
+      "date": "Tue, 28 Jul 2026 10Z",
+      "image": "https://earthsky.org/upl/2022/07/Scorpius-antares-shaula-Lesath-Daniel-McVey-sq.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-07-28T12:02:22Z"
+    },
+    {
+      "title": "New images reveal Betelgeuse’s buddy star",
+      "link": "https://www.sciencenews.org/article/new-images-betelgeuse-star",
+      "summary": "A century of hints has suggested the famed red supergiant had a star pal but seeing it amid Betelgeuse’s brightness has been hard — until now.",
+      "date": "Tue, 28 Jul 2026 12Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/072726_LG_Betelgeusebuddy_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-28T12:02:29Z"
+    },
+    {
+      "title": "Cracking the axolotl code: How to regrow limbs and stay young",
+      "link": "https://phys.org/news/2026-07-axolotl-code-regrow-limbs-stay.html",
+      "summary": "Minor cuts and scrapes usually heal in time, but losing a finger or a whole limb? For most vertebrates, that's a done deal. Unless, of course, you've got the self-healing machinery",
+      "date": "2026-07-28T12:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cracking-the-axolotl-c.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-28T12:02:33Z"
+    },
+    {
+      "title": "AI-powered camera system offers low-cost way to monitor bumblebees, potentially other insects",
+      "link": "https://phys.org/news/2026-07-ai-powered-camera-bumblebees-potentially.html",
+      "summary": "Researchers have developed a low-cost, semi-automated, AI-driven method that uses remote cameras to survey bumblebees and potentially other insects. The new tool could have importa",
+      "date": "2026-07-28T10:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-powered-camera-syst.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-28T12:02:33Z"
+    },
+    {
+      "title": "The ultimate packing list for Aug. 12, as a solar eclipse coincides with the Perseid meteors peak",
+      "link": "https://www.livescience.com/products/optics/the-ultimate-packing-list-for-aug-12-as-a-solar-eclipse-coincides-with-the-perseid-meteors-peak",
+      "summary": "From solar binoculars and smart telescopes to camp chairs and stargazing tents, here's what to consider for one of the greatest days of skywatching in years.",
+      "date": "Tue, 28 Jul 2026 11Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ffNeSNLEzA6z4ugamQGPNK-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-28T12:02:34Z"
+    },
+    {
+      "title": "Colossal scars of 60 million-year-long continental collision streak across warped mountains in Pakistan — Earth from space",
+      "link": "https://www.livescience.com/planet-earth/geology/colossal-scars-of-60-million-year-long-continental-collision-streak-across-warped-mountains-in-pakistan-earth-from-space",
+      "summary": "A 2011 satellite photo shows off an \"imbricate fan\" of alternating rocks in Pakistan's Sulaiman Range. The striking structure formed along the boundary of two tectonic plates that ",
+      "date": "Tue, 28 Jul 2026 10Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/PRM9A2bHYSMKAjWZHjVKLU-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-28T12:02:34Z"
+    },
     {
       "title": "What’s an airplane glory? Here’s how to spot one",
       "link": "https://earthsky.org/earth/what-is-an-airplane-glory/",
@@ -5381,127 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-07-20T16:37:41Z"
-    },
-    {
-      "title": "Where to See the Milky Way in Nebraska",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/where-to-see-the-milky-way-in-nebraska/",
-      "summary": "If you think there’s nothing in Nebraska, all you have to do is look up The post Where to See the Milky Way in Nebraska appeared first on Outside Online .",
-      "date": "2026-07-20T15:04:44Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/Stargazing_featured_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-20T16:37:41Z"
-    },
-    {
-      "title": "Thousands of Kidnapped Africans Died on an Island in the Atlantic After Being Rescued From Slave Ships. Evidence in Their Teeth Traces Their Journeys",
-      "link": "https://www.smithsonianmag.com/smart-news/thousands-of-kidnapped-africans-died-on-an-island-in-the-atlantic-after-being-rescued-from-slave-ships-evidence-in-their-teeth-traces-their-journeys-180989145/",
-      "summary": "Remains in the graves of St. Helena, where the British military housed \"liberated\" enslaved Africans, contain isotopes from inland Angola and Zimbabwe",
-      "date": "2026-07-20T16:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/fjElvf1DF3SpN-8Lw1OuMO3oy44=/420x240/filters:focal(1024x683:1025x684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/77/d2/77d2b0e0-d3fc-47b4-86a7-52fb9521e411/470228757_566058682883034_8499493774015563765_n.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-20T16:37:42Z"
-    },
-    {
-      "title": "Koalas Are at Risk of Extinction in Some Parts of Australia. Can Freezing Their Sperm and Eggs Help Save the Iconic Marsupials?",
-      "link": "https://www.smithsonianmag.com/smart-news/koalas-are-at-risk-of-extinction-in-some-parts-of-australia-can-freezing-their-sperm-and-eggs-help-save-the-iconic-marsupials-180989147/",
-      "summary": "Scientists are preserving the animals' reproductive cells in liquid nitrogen in a bid to boost genetic diversity in future populations",
-      "date": "2026-07-20T15:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/GFxOKzcN6osfItqtfsVIYcH5QI8=/420x240/filters:focal(960x549:961x550)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/17/90/1790ef6c-fa5f-4cdc-8f80-f7ba55ea7617/uq-healthy_koala_during_survey.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-20T16:37:42Z"
-    },
-    {
-      "title": "AI ‘ghosts’ can comfort mourners — even when the bots get the facts wrong",
-      "link": "https://www.sciencenews.org/article/ai-ghosts-grief-facts-wrong-chatbot",
-      "summary": "A small study suggests emotional fit, not perfect accuracy, may make chatbot versions of dead loved ones feel real.",
-      "date": "2026-07-20T15:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/071326_KH_AIghost_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-20T16:37:44Z"
-    },
-    {
-      "title": "Inhaling high dose CO2 clears Alzheimer’s proteins from the brain",
-      "link": "https://www.newscientist.com/article/2580471-inhaling-high-dose-co2-clears-alzheimers-proteins-from-the-brain/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Intermittingly inhaling a high dose of carbon dioxide seems to remove the proteins amyloid and tau, which are implicated in Alzheimer's disease, from the brain by boosting its glym",
-      "date": "2026-07-20T16:31:27Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305894556.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-20T16:37:45Z"
-    },
-    {
-      "title": "AI’s solution to 87-year-old riddle takes mathematicians by surprise",
-      "link": "https://www.newscientist.com/article/2580374-ais-solution-to-87-year-old-riddle-takes-mathematicians-by-surprise/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Mathematicians have been trying to prove the Jacobian conjecture for nearly a century, but now the Claude Fable 5 AI has apparently found a counterexample that disproves it",
-      "date": "2026-07-20T15:26:43Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305896618.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-20T16:37:45Z"
-    },
-    {
-      "title": "How to maximise the mental health benefits of your vacation",
-      "link": "https://www.newscientist.com/article/2533414-how-to-maximise-the-mental-health-benefits-of-your-vacation/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Don’t just hit the beach. Research is revealing how to have a holiday that leaves you mentally restored and refreshed – with long-lasting effect",
-      "date": "2026-07-20T15:00:37Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/10105702/new-scientist_holiday-animation_260709_1350x900-15fps.gif",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-20T16:37:45Z"
-    },
-    {
-      "title": "Bee brains reveal how colonies divide work without central planning",
-      "link": "https://phys.org/news/2026-07-bee-brains-reveal-colonies-central.html",
-      "summary": "What determines which tasks bees perform in their colony? Biologists from Heinrich Heine University Düsseldorf (HHU) and the universities in Cologne and Frankfurt/Main have investi",
-      "date": "2026-07-20T15:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/task-organisation-in-t.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-20T16:37:47Z"
-    },
-    {
-      "title": "Prescribed burns may be lethal for lizards",
-      "link": "https://phys.org/news/2026-07-lethal-lizards.html",
-      "summary": "Scientists are calling for wildlife surveys to be conducted within hours of prescribed burns after new research revealed that evidence of animal deaths can disappear in less than t",
-      "date": "2026-07-20T14:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/prescribed-burns-may-b.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-20T16:37:47Z"
-    },
-    {
-      "title": "New machine-learning tool improves accuracy of genomics research",
-      "link": "https://phys.org/news/2026-07-machine-tool-accuracy-genomics.html",
-      "summary": "University of Virginia School of Medicine scientists have identified a widespread source of error in a popular method for studying the genome and created a machine-learning tool to",
-      "date": "2026-07-20T14:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-machine-learning-t-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-20T16:37:47Z"
-    },
-    {
-      "title": "Poop From Southern Right Whales Reveals That the Animals Might Be More Resilient to Climate Change Than We Thought",
-      "link": "https://www.smithsonianmag.com/smart-news/poop-from-southern-right-whales-reveals-that-the-animals-might-be-more-resilient-to-climate-change-than-we-thought-180989131/",
-      "summary": "Scientists long believed that these whales, which swim throughout the Southern Hemisphere, mainly feasted on krill and small crustaceans called copepods, which are disappearing fro",
-      "date": "2026-07-20T14:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/npxXFywrlBl7-nt8xG8rfh7fQEk=/420x240/filters:focal(4032x2688:4033x2689)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c5/34/c53489ab-1ea2-45a0-be88-1eb7d48c4164/southern-right-whale.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-20T14:23:43Z"
     }
   ]
 }
