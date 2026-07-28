@@ -1,8 +1,129 @@
 {
-  "updated": "2026-07-28T19:42:56Z",
-  "updated_utc": "2026-07-28T19:42:56Z",
+  "updated": "2026-07-28T21:14:20Z",
+  "updated_utc": "2026-07-28T21:14:20Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Personal Toll of Canada’s Broken Fishing Promises",
+      "link": "https://hakaimagazine.com/features/the-personal-toll-of-canadas-broken-fishing-promises/",
+      "summary": "August 29, 2020, dawned clear over southwest Nova Scotia. In the cabin of his lobster boat, the Mystique Lady, Matthew Cope was chatting with the other members of his crew as they ",
+      "date": "Tue, 17 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-matt-cope-moderate-livelihood.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-07-28T21:14:04Z"
+    },
+    {
+      "title": "This Alligator-Infested Swamp in the American South Just Joined the UNESCO World Heritage List, Along With the Home of the Greek Gods",
+      "link": "https://www.smithsonianmag.com/smart-news/this-alligator-infested-swamp-in-the-american-south-just-joined-the-unesco-world-heritage-list-along-with-the-homes-of-the-greek-gods-180989213/",
+      "summary": "The 25 new locations, determined to bear \"outstanding universal value\" for the world, also include the D-Day landing site in Normandy, France",
+      "date": "Tue, 28 Jul 2026 21Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/NA7sZHZTjWPQfcp_ZTez6zixVto=/420x240/filters:focal(2304x1733:2305x1734)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c1/71/c1713dfc-2ae8-47d4-bdad-8b343dbf55ff/usfws-okefenokee-national-wildlife-refuge.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-28T21:14:10Z"
+    },
+    {
+      "title": "A Little-Known Photographer Captured the First Clear Image of a Total Solar Eclipse 175 Years Ago. Today, These Celestial Events Still Reveal the Mysteries of the Sun",
+      "link": "https://www.smithsonianmag.com/science-nature/a-little-known-photographer-captured-the-first-clear-image-of-a-total-solar-eclipse-175-years-ago-today-these-celestial-events-still-reveal-the-mysteries-of-the-sun-180989208/",
+      "summary": "Ever since that first daguerreotype on a light-sensitive metal plate, eclipse observations have continued to unveil the star's corona and bring people together to experience the so",
+      "date": "Tue, 28 Jul 2026 20Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/qbccz0QeAlTJ3xe4y4lKiYYgFe0=/420x240/filters:focal(233x235:234x236)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2b/f8/2bf8fcd4-1756-46ef-927b-394ec4814573/1851_07_28_berkowski.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-28T21:14:10Z"
+    },
+    {
+      "title": "Keep an Eye Out for Two Stellar Meteor Showers Peaking This Week, the Southern Delta Aquariids and the Alpha Capricornids",
+      "link": "https://www.smithsonianmag.com/smart-news/keep-eye-out-two-stellar-meteor-showers-peak-this-week-southern-delta-aquariids-alpha-capricornids-180989215/",
+      "summary": "A nearly full moon may obscure the fireballs falling from the remains of two comets that passed through Earth's orbit",
+      "date": "Tue, 28 Jul 2026 20Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/PgIolM4ko1jBjfB_DEuXFNr0pRM=/420x240/filters:focal(1920x1125:1921x1126)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7b/bf/7bbf5505-5295-49a1-806e-2a95cbb331b3/3840px-meteor_shower_nhq202508030001.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-28T21:14:10Z"
+    },
+    {
+      "title": "This Medieval Byzantine Shipwreck Boasts More Gold Treasures Than Any Other Vessel Found Beneath the Mediterranean",
+      "link": "https://www.smithsonianmag.com/smart-news/this-medieval-byzantine-shipwreck-boasts-more-gold-treasures-than-any-other-vessel-found-beneath-the-mediterranean-180989217/",
+      "summary": "The vessel sank in the Adriatic Sea in the seventh or eighth century C.E. Its cargo included a gold signet ring likely associated with the emperor Heraclius and gold belts encruste",
+      "date": "Tue, 28 Jul 2026 20Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/dVeT8KUOV49UkGIZGkpbJyTXETA=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1e/4c/1e4c7268-63f9-4970-8549-265d402affea/gold-artifact.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-28T21:14:10Z"
+    },
+    {
+      "title": "TSA Officers Found Five Cannonballs Stolen From a Civil War Fort in a Checked Suitcase at an Alabama Airport",
+      "link": "https://www.smithsonianmag.com/smart-news/tsa-officers-found-five-cannonballs-stolen-from-a-civil-war-fort-in-a-checked-suitcase-at-an-alabama-airport-180989212/",
+      "summary": "The inert artifacts gave security officers in Gulf Shores a good scare. Investigators say the weapons came from Fort Morgan, which guards Mobile Bay",
+      "date": "Tue, 28 Jul 2026 19Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/jVrf5SOchds7tWoJO8vofrIDeis=/420x240/filters:focal(1418x945:1419x946)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2a/17/2a17f943-345f-4daf-bcaa-4d8dc5460c1a/cannonball_single_high-res.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-28T21:14:10Z"
+    },
+    {
+      "title": "Juvenile great white sharks fled their nursery during tropical storm Hilary, research reveals",
+      "link": "https://phys.org/news/2026-07-juvenile-great-white-sharks-fled.html",
+      "summary": "In August 2023, communities across Southern California braced for Tropical Storm Hilary—the first tropical storm to directly impact the region this century. Although the storm weak",
+      "date": "2026-07-28T21:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/juvenile-great-white-s.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-28T21:14:15Z"
+    },
+    {
+      "title": "Diets high in a particular type of fat help protect bees against pesticides",
+      "link": "https://phys.org/news/2026-07-diets-high-fat-bees-pesticides.html",
+      "summary": "Diets rich in polyunsaturated fatty acids—a type of fat that supports brain function, cell growth and heart health—may help protect honey bees against the toxic effects of pesticid",
+      "date": "2026-07-28T20:40:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/honey-bees.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-28T21:14:15Z"
+    },
+    {
+      "title": "Global hotspots where drought poses the greatest threat to crop production mapped",
+      "link": "https://phys.org/news/2026-07-global-hotspots-drought-poses-greatest.html",
+      "summary": "As temperature and precipitation fluctuations continue to influence crop production worldwide, it is important to understand where crops are most vulnerable to these environmental ",
+      "date": "2026-07-28T20:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/global-hotspots-mapped.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-28T21:14:15Z"
+    },
+    {
+      "title": "New cell-based method could expand human milk oligosaccharides available for infant formula",
+      "link": "https://phys.org/news/2026-07-cell-based-method-human-oligosaccharides.html",
+      "summary": "Researchers have developed a new cell-based approach to produce several sugars naturally found in human breast milk. Human milk oligosaccharides (HMOs) are complex sugars in human ",
+      "date": "2026-07-28T20:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-cell-based-method.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-28T21:14:15Z"
+    },
+    {
+      "title": "'Not alike any we've ever seen before': Three of the 12 galaxies in this cosmic string are missing a crucial component of the universe",
+      "link": "https://www.livescience.com/space/not-alike-any-weve-ever-seen-before-three-of-the-12-galaxies-in-this-cosmic-string-are-missing-a-crucial-component-of-the-universe",
+      "summary": "Astronomers have discovered a third galaxy without dark matter in a strange string of a dozen dwarf galaxies. A violent collision is likely to blame.",
+      "date": "Tue, 28 Jul 2026 20Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/wh3jjzoQVgN7Ya2k4GTtA7-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-28T21:14:16Z"
+    },
     {
       "title": "To Speak the Language of the Land",
       "link": "https://hakaimagazine.com/features/to-speak-the-language-of-the-land/",
@@ -5381,127 +5502,6 @@
       "category": "wildlife",
       "color": 7,
       "fetched_at": "2026-07-21T00:02:52Z"
-    },
-    {
-      "title": "Unusual three-way bestows magnetic sense to single-celled organism",
-      "link": "https://phys.org/news/2026-07-unusual-bestows-magnetic-celled.html",
-      "summary": "How do microorganisms orient themselves to find the optimal habitat? Scientists have thoroughly investigated so-called magnetotactic bacteria, which use the Earth's magnetic field ",
-      "date": "2026-07-20T23:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unique-symbiosis-besto.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-21T00:03:01Z"
-    },
-    {
-      "title": "Could You Survive a Wildfire? 10 Lessons from Veteran Firefighters That Could Save Your Life.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/wildfire-survival-guide-backcountry/",
-      "summary": "What happens if you're caught in a wildfire? Veteran fire experts share life-saving strategies, tools, and backcountry survival skills. The post Could You Survive a Wildfire? 10 Le",
-      "date": "2026-07-20T22:00:16Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/GettyImages-1229926011.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-20T22:06:40Z"
-    },
-    {
-      "title": "The Helinox Cot One Convertible Was the Surprise Hero of My Grand Canyon Rafting Trip",
-      "link": "https://www.outsideonline.com/outdoor-gear/camping/helinox-cot-one-convertible-review/",
-      "summary": "The Helinox Cot One Convertible isn’t cheap. In fact, it’s probably one of the more indulgent pieces of camping gear you can buy. But after sleeping on one for 16 nights while raft",
-      "date": "2026-07-20T21:27:15Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/Untitled-design-12.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-20T22:06:40Z"
-    },
-    {
-      "title": "The Tower of London Plans to Turn Its Moat Into a ‘Green Classroom’ and Show Off Its Architecture Archives in a Major Renovation",
-      "link": "https://www.smithsonianmag.com/smart-news/the-tower-of-london-plans-to-turn-its-moat-into-a-green-classroom-and-show-off-its-architecture-archive-in-a-major-renovation-180989161/",
-      "summary": "The landmark, nearly a millennium old, has housed kings, hosted royal executions and safeguarded Britain's crown jewels. New education centers aim to invite more people to learn ab",
-      "date": "2026-07-20T21:36:53Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/gMZz5ax9ThUk43bwFKLNc9NvTHM=/420x240/filters:focal(1920x1097:1921x1098)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2a/88/2a88b41f-f5df-4136-bb29-c54571965c9e/3840px-aerial_tower_of_london.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-20T22:06:42Z"
-    },
-    {
-      "title": "New cell imaging method measures protein folding in living organelles",
-      "link": "https://phys.org/news/2026-07-cell-imaging-method-protein-organelles.html",
-      "summary": "Protein aggregates are associated with the development of diseases like Alzheimer's and Parkinson's. These are found more often in certain areas of cells known as membraneless orga",
-      "date": "2026-07-20T22:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-compare-pr-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-20T22:06:46Z"
-    },
-    {
-      "title": "Ancestral variation, not new mutations, may impact survival of species facing climate change",
-      "link": "https://phys.org/news/2026-07-ancestral-variation-mutations-impact-survival.html",
-      "summary": "Research co-authored by an Oklahoma Museum of Natural History curator, her graduate student and an international team of scientists has shed new light on the evolutionary \"toolkit\"",
-      "date": "2026-07-20T21:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-reveal-how-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-20T22:06:46Z"
-    },
-    {
-      "title": "Heat shock reveals rapid protein-control system cells may use to survive",
-      "link": "https://phys.org/news/2026-07-reveals-rapid-protein-cells-survive.html",
-      "summary": "The planet is getting hotter, and life will need to adapt to rising temperatures to survive. One way cells adapt to changing conditions is by synthesizing new proteins. That works ",
-      "date": "2026-07-20T21:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-finds-heat-s.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-20T22:06:46Z"
-    },
-    {
-      "title": "How rainfall timing can dramatically reshape entire plant communities",
-      "link": "https://phys.org/news/2026-07-rainfall-reshape-entire-communities.html",
-      "summary": "Every spring, millions of people around the world head outdoors to admire wildflowers. But flowering is much more than a beautiful seasonal display. It is one of the most important",
-      "date": "2026-07-20T20:40:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-timing-of-drought-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-20T22:06:46Z"
-    },
-    {
-      "title": "Visible planets and night sky guide for July",
-      "link": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
-      "summary": "EarthSky's visible planets and night sky guide. This evening, look for the almost first quarter moon near the star Spica, in Virgo the Maiden. Plus meteors! The post Visible planet",
-      "date": "2026-07-20T08:00:08Z",
-      "image": "https://earthsky.org/upl/2026/06/2026-July-20-Moon-C.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-20T20:36:25Z"
-    },
-    {
-      "title": "The Canoe in the Forest",
-      "link": "https://hakaimagazine.com/features/the-canoe-in-the-forest/",
-      "summary": "When I first see the canoe, in May, it takes a moment to distinguish the long, shapely slab of cedar from the patch of earth that has spent more than a century trying to reclaim it",
-      "date": "Thu, 19 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-haida-canoe.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-07-20T20:36:26Z"
-    },
-    {
-      "title": "What’s Next for Deep-Sea Mining?",
-      "link": "https://hakaimagazine.com/news/whats-next-for-deep-sea-mining/",
-      "summary": "Earlier this year, Leticia Carvalho, a Brazilian oceanographer and environmental policy expert, took the helm of the International Seabed Authority (ISA) as secretary general. The ",
-      "date": "2024-12-18T08:01:59Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-deep-sea-mining-1.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-07-20T20:36:26Z"
     }
   ]
 }
