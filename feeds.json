@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-28T03:19:53Z",
-  "updated_utc": "2026-07-28T03:19:53Z",
+  "updated": "2026-07-28T06:33:31Z",
+  "updated_utc": "2026-07-28T06:33:31Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: Dark against the gold wheat stubble, the hares sit tall like a hieroglyph | Amy-Jane Beer",
+      "link": "https://www.theguardian.com/environment/2026/jul/28/country-diary-dark-against-the-gold-wheat-stubble-the-hares-sit-tall-like-a-hieroglyph",
+      "summary": "North Yorkshire: It’s been a remarkable breeding season for these gorgeous creatures with ripped physiques and all-seeing eyes “Just seen a gorgeous hare and thought of you. They’v",
+      "date": "2026-07-28T04:30:28Z",
+      "image": "https://i.guim.co.uk/img/media/026c9899d1dd19b95d8493524574994b17098000/64_0_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=f9d97dc50b1ae16b88cabb2772958c9c",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-28T06:33:14Z"
+    },
     {
       "title": "1 Climber Dead, 3 Injured in Early-Morning Rockfall on Mount Rainier’s Disappointment Cleaver",
       "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/mount-rainier-disappointment-cleaver-fatal-rockfall/",
@@ -5487,17 +5498,6 @@
       "summary": "The choices people make to control mosquitoes in their own backyards may be helping some of those mosquitoes survive the very insecticides meant to kill them, according to two new ",
       "date": "2026-07-20T13:40:08Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/mosquito-3.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-20T14:23:47Z"
-    },
-    {
-      "title": "How the most widespread parasite on Earth reads its genome",
-      "link": "https://phys.org/news/2026-07-widespread-parasite-earth-genome.html",
-      "summary": "A parasite carried by billions of people worldwide often causes harmful infections during pregnancy and in immunocompromised individuals and is a leading infectious cause of blindn",
-      "date": "2026-07-20T13:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-the-most-widesprea.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
