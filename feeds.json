@@ -1,8 +1,107 @@
 {
-  "updated": "2026-07-28T17:41:22Z",
-  "updated_utc": "2026-07-28T17:41:22Z",
+  "updated": "2026-07-28T19:42:56Z",
+  "updated_utc": "2026-07-28T19:42:56Z",
   "count": 500,
   "stories": [
+    {
+      "title": "To Speak the Language of the Land",
+      "link": "https://hakaimagazine.com/features/to-speak-the-language-of-the-land/",
+      "summary": "Nearly 200 of us cram into Tarāwhai, a traditional wooden Māori meeting house, under the gaze of the ancestors and deities carved into the posts and walls. We’re here in the home o",
+      "date": "Thu, 12 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-maori-language-and-place.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-07-28T19:42:43Z"
+    },
+    {
+      "title": "Caviar Pizzas, New Money, and the Death of an Ancient Fish",
+      "link": "https://hakaimagazine.com/features/caviar-pizzas-new-money-and-the-death-of-an-ancient-fish/",
+      "summary": "I am sitting at a slick Manhattan waterfront restaurant on the banks of the East River, New York City, trying to decide why I find the caviar pizza on the menu so disturbing. Jonat",
+      "date": "Tue, 10 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-21st-century-sturgeon.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-07-28T19:42:43Z"
+    },
+    {
+      "title": "The Destructive Legacy of Failed Aquaculture",
+      "link": "https://hakaimagazine.com/news/the-destructive-legacy-of-failed-aquaculture/",
+      "summary": "Aquaculture is big business in Canada. In 2023, open-net-pen salmon farming in British Columbia alone produced 50,000 tonnes of fish worth just over US $350-million. But on June 30",
+      "date": "2024-12-06T08:01:14Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-aquaculture-cleanup.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-07-28T19:42:43Z"
+    },
+    {
+      "title": "Conjuring the Lost Land Beneath the North Sea",
+      "link": "https://hakaimagazine.com/features/conjuring-the-lost-land-beneath-the-north-sea/",
+      "summary": "The North Sea is a hard place to love. It’s not the cold, or the silty gray-brown waters that seem to suck the brightness out of the sky that make it unappealing, it’s what people ",
+      "date": "Thu, 05 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-doggerland.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-07-28T19:42:43Z"
+    },
+    {
+      "title": "Did a Man in a Bison Costume Get Arrested for Chasing Tourists in Yellowstone?",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/yellowstone-bison-costume-man-arrested-fact-check/",
+      "summary": "Did a man dressed in a homemade bison costume get arrested in Yellowstone National Park? Here's what park officials said. The post Did a Man in a Bison Costume Get Arrested for Cha",
+      "date": "Tue, 28 Jul 2026 18Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/GettyImages-1345392348.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-28T19:42:47Z"
+    },
+    {
+      "title": "Scientists uncover two new ways doxycycline disables bacterial ribosomes",
+      "link": "https://phys.org/news/2026-07-scientists-uncover-ways-doxycycline-disables.html",
+      "summary": "Scientists have discovered two new mechanisms for how a well-established antibiotic works, paving the way for the potential development of new antibiotic treatments.",
+      "date": "2026-07-28T19:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-antibiotic-mechani.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-28T19:42:52Z"
+    },
+    {
+      "title": "Tropical insects may be running out of room as temperatures rise",
+      "link": "https://phys.org/news/2026-07-tropical-insects-room-temperatures.html",
+      "summary": "New research from Costa Rica's Área de Conservación Guanacaste (ACG) suggests that tropical insects may be vulnerable to rising temperatures. The study, published in the Proceeding",
+      "date": "2026-07-28T18:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tropical-insects-may-b.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-28T19:42:52Z"
+    },
+    {
+      "title": "Sargassum, the smelly nemesis of beach vacations, has become a self‑sustaining disaster that will keep coming back",
+      "link": "https://phys.org/news/2026-07-sargassum-smelly-nemesis-beach-vacations.html",
+      "summary": "You've been planning your dream beach vacation for months, only to arrive and find the shoreline covered in large piles of smelly, brown seaweed, with even more floating offshore. ",
+      "date": "2026-07-28T18:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/sargassum-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-28T19:42:52Z"
+    },
+    {
+      "title": "Scientists may have found a clue to prevent muscles from aging, study hints",
+      "link": "https://www.livescience.com/health/aging/scientists-may-have-found-a-clue-to-prevent-muscles-from-aging-study-hints",
+      "summary": "Scientists have identified a compound that may help preserve muscle in aging mice. Someday, this may help people with muscle atrophy.",
+      "date": "Tue, 28 Jul 2026 19Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/VsrJz7sU3hbrSsWGeQQuhQ-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-28T19:42:54Z"
+    },
     {
       "title": "Internet-Famous Bald Eagle Jackie Injured in California",
       "link": "https://www.birdsandblooms.com/birding/birding-basics/injured-bald-eagle-jackie/",
@@ -5403,105 +5502,6 @@
       "category": "wildlife",
       "color": 7,
       "fetched_at": "2026-07-20T20:36:26Z"
-    },
-    {
-      "title": "The Personal Toll of Canada’s Broken Fishing Promises",
-      "link": "https://hakaimagazine.com/features/the-personal-toll-of-canadas-broken-fishing-promises/",
-      "summary": "August 29, 2020, dawned clear over southwest Nova Scotia. In the cabin of his lobster boat, the Mystique Lady, Matthew Cope was chatting with the other members of his crew as they ",
-      "date": "Tue, 17 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-matt-cope-moderate-livelihood.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-07-20T20:36:26Z"
-    },
-    {
-      "title": "An Unusual-Looking Raccoon Nicknamed Jimothy Is Winning Hearts Across the Internet for His Short, Round Body",
-      "link": "https://www.smithsonianmag.com/smart-news/an-unusual-looking-raccoon-nicknamed-jimothy-is-winning-hearts-across-the-internet-for-his-short-round-body-180989157/",
-      "summary": "Jimothy has become a local celebrity in Seattle's Ballard neighborhood and likely has a rare congenital spine condition",
-      "date": "2026-07-20T20:11:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/Z8cMIgSfS88NsGuxCbEEZc3pjcQ=/420x240/filters:focal(168x107:169x108)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ce/7b/ce7b8e6c-5898-435b-a091-d728045d1e82/screenshot_2026-07-20_at_102605am.png",
-      "name": "Smithsonian",
-      "category": "butterflies",
-      "color": 10,
-      "fetched_at": "2026-07-20T20:36:31Z"
-    },
-    {
-      "title": "A Man With Paralysis Has Regained Feeling and Movement in His Hands After an Experimental Brain Implant",
-      "link": "https://www.smithsonianmag.com/smart-news/a-man-with-paralysis-has-regained-feeling-and-movement-in-his-hands-after-an-experimental-brain-implant-180989156/",
-      "summary": "After months of training, the patient can now move his arms and hands and feel the sensation of touch",
-      "date": "2026-07-20T19:35:28Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/qPH-8A42VtOqfRTAaBmLKNxZnvM=/420x240/filters:focal(1050x750:1051x751)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ff/9d/ff9d2de9-cf9d-498f-a946-b83c144cbbaa/2-keithdrinksfromcup.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-20T20:36:31Z"
-    },
-    {
-      "title": "New Women's Pro Baseball League Teams Are Named for These Pioneering American Women, Giving Female Players Another League of Their Own",
-      "link": "https://www.smithsonianmag.com/smart-news/new-womens-pro-baseball-league-teams-are-named-for-these-pioneering-women-giving-female-players-another-league-of-their-own-180989159/",
-      "summary": "The Firebells, Heights, Queens and Hunters—of San Francisco, New York, Los Angeles and Boston—were inspired by an honorary firefighter, a civil rights activist, a first basewoman a",
-      "date": "2026-07-20T19:34:12Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/TH_7PrZgCb2m75yFN8KbKWkKpek=/420x240/filters:focal(1024x683:1025x684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cd/70/cd70b233-1f78-4b9b-9391-7a23e37002ba/737746587_122179935488606032_3282583173228159657_n.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-20T20:36:31Z"
-    },
-    {
-      "title": "Oystercatchers, known for sharp bills and beady eyes, are making a comeback thanks to conservation",
-      "link": "https://phys.org/news/2026-07-oystercatchers-sharp-bills-beady-eyes.html",
-      "summary": "On a pristine Rhode Island beach teeming with noisy seabirds, a group of biologists armed with nets sneak up on a pair of American oystercatcher chicks.",
-      "date": "2026-07-20T20:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oystercatchers-known-f-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-20T20:36:36Z"
-    },
-    {
-      "title": "New web tool maps fossil locations across ancient continents in seconds",
-      "link": "https://phys.org/news/2026-07-web-tool-fossil-ancient-continents.html",
-      "summary": "Calculating a fossil's position throughout geological history is a complex process. In paleontology and other disciplines, determining a location in the past is a challenge that re",
-      "date": "2026-07-20T20:00:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/where-was-this-fossil.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-20T20:36:36Z"
-    },
-    {
-      "title": "Move over quokkas—Rottnest's salt lake bacteria could be the island's next big claim to fame",
-      "link": "https://phys.org/news/2026-07-quokkas-rottnest-salt-lake-bacteria.html",
-      "summary": "Scientists at Murdoch University have read the full genetic code of bacteria from the salt lakes of Wadjemup (Rottnest Island), giving them their clearest picture yet of how these ",
-      "date": "2026-07-20T19:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/move-over-quokkasrottn.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-20T20:36:36Z"
-    },
-    {
-      "title": "Children and monkeys share common understanding of geometry",
-      "link": "https://phys.org/news/2026-07-children-monkeys-common-geometry.html",
-      "summary": "With their ability to use tools, remember faces and even learn how to communicate with humans through sign language, nonhuman primates are considered to be among the smartest creat",
-      "date": "2026-07-20T19:00:11Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/children-and-monkeys-s-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-20T20:36:36Z"
-    },
-    {
-      "title": "The bacteria behind gum disease may also harm your heart valves, early research suggests",
-      "link": "https://www.livescience.com/health/heart-circulation/the-bacteria-behind-gum-disease-may-also-harm-your-heart-valves-early-research-suggests",
-      "summary": "A bacterium linked to gum disease may contribute to heart valve disease by setting off inflammation that can lead to calcium buildup.",
-      "date": "2026-07-20T20:15:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/WiLA5ESjXTjpETf5HuXpGd-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-20T20:36:37Z"
     }
   ]
 }
