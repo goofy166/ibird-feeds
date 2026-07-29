@@ -1,8 +1,118 @@
 {
-  "updated": "2026-07-28T23:07:37Z",
-  "updated_utc": "2026-07-28T23:07:37Z",
+  "updated": "2026-07-29T03:21:43Z",
+  "updated_utc": "2026-07-29T03:21:43Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
+      "link": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
+      "summary": "Potential toxic substance detected in several of 15 elephants found dead in Kenya’s Amboseli national park Officials are investigating the deaths of 15 elephants over the past mont",
+      "date": "2026-07-29T00:48:07Z",
+      "image": "https://i.guim.co.uk/img/media/b500bdd0173c6f8a990089b80259c05e4a80b84d/512_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=6ef2e22d0100a8f4a08e8e14888d0df9",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-29T03:21:27Z"
+    },
+    {
+      "title": "Sun news: A synchronized double sun eruption",
+      "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+      "summary": "Sun news July 28, 2026: Flares stayed low, but the sun blasted a dramatic double eruption, a filament and a prominence, almost in perfect sync. The post Sun news: A synchronized do",
+      "date": "Tue, 28 Jul 2026 11Z",
+      "image": "https://earthsky.org/upl/2026/07/sundoubleblast-ezgif.com-resize.webp",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-07-29T03:21:29Z"
+    },
+    {
+      "title": "The First First Responders",
+      "link": "https://hakaimagazine.com/features/the-first-first-responders/",
+      "summary": "When a ship wrecks on an unfamiliar coastline, an already desperate situation is all the more dire. Blinded by the night, and lost, the captain and crew of the Puritan, a four-mast",
+      "date": "Tue, 24 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-first-first-responder.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-07-29T03:21:30Z"
+    },
+    {
+      "title": "How, Exactly, Could Deep-Sea Mining Benefit All of Humanity?",
+      "link": "https://hakaimagazine.com/news/how-exactly-could-deep-sea-mining-benefit-all-of-humanity/",
+      "summary": "When Arvid Pardo, a Maltese diplomat, took the floor at the United Nations General Assembly in New York in 1967 and began speaking at length on international law, the room was spar",
+      "date": "2024-12-20T08:01:54Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-benefit-of-humanity.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-07-29T03:21:30Z"
+    },
+    {
+      "title": "In This Bee Species, Why Do Some Daughters Leave Home While Others Stay 'Bee-hind' to Help Mom?",
+      "link": "https://www.smithsonianmag.com/smart-news/in-this-bee-species-why-do-some-of-daughters-leave-home-while-others-stay-bee-hind-to-help-mom-180989218/",
+      "summary": "Biologists at the Smithsonian Tropical Research Institute investigated a flexible social bee species, which helps shed light on the evolution of more complex organizational structu",
+      "date": "Tue, 28 Jul 2026 23Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/GsUu2Ppw2V-ifW4p-EkdPLoI-1E=/420x240/filters:focal(600x449:601x450)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/76/3c/763cfe35-3de5-449b-b95a-a69e128179c0/sweat_bee_1_carmelo_lopez.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-29T03:21:35Z"
+    },
+    {
+      "title": "AI technology sees through leaves to transform horticulture",
+      "link": "https://phys.org/news/2026-07-ai-technology-horticulture.html",
+      "summary": "University of Canterbury (UC) computer science professor Richard Green leads UC Vision, with researcher Dr. Richie Ellingham developing AI and computer vision technology that can i",
+      "date": "2026-07-29T03:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/horticulture-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-29T03:21:40Z"
+    },
+    {
+      "title": "Updating Darwin: Biologists are returning to an older theory to explain anomalies in evolution",
+      "link": "https://phys.org/news/2026-07-darwin-biologists-older-theory-anomalies.html",
+      "summary": "Evolution is a fact of life. So much so that even the theory of evolution is evolving. Lately, a centuries-old discredited idea has been making a strong comeback. It helps us expla",
+      "date": "2026-07-29T00:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2017/charlesdarwin.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-29T03:21:40Z"
+    },
+    {
+      "title": "100% organic free-range egg production could have negative consequences for climate and nature",
+      "link": "https://phys.org/news/2026-07-free-range-egg-production-negative.html",
+      "summary": "A study published in Royal Society Open Science reveals striking trade-offs when it comes to different methods of egg production. Using UK data, the study compared several possible",
+      "date": "2026-07-29T00:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/free-range-chicken.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-29T03:21:40Z"
+    },
+    {
+      "title": "Queen bee pheromones help daughters decide whether to stay or leave the nest",
+      "link": "https://phys.org/news/2026-07-queen-bee-pheromones-daughters-stay.html",
+      "summary": "Female sweat bees need to make a pivotal life decision: remain in the nest to help their mother raise more offspring or leave to establish nests of their own. New research from the",
+      "date": "2026-07-28T23:10:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/queen-bee-pheromones-h.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-07-29T03:21:40Z"
+    },
+    {
+      "title": "Deformed head shapes in fossilized humans show their infants were probably just as helpless as modern human babies",
+      "link": "https://phys.org/news/2026-07-deformed-fossilized-humans-infants-helpless.html",
+      "summary": "Archaic human parents had to look after helpless infants like modern-day parents do, according to new research. Human babies are born less developed than those of other great apes ",
+      "date": "2026-07-28T23:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/archaic-human-parents-3.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-29T03:21:40Z"
+    },
     {
       "title": "Visible planets and night sky guide for July and August",
       "link": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
@@ -5392,116 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-07-21T12:26:51Z"
-    },
-    {
-      "title": "Large Hadron Collider upgrade could demystify Higgs boson",
-      "link": "https://earthsky.org/human-world/large-hadron-collider-upgrade-could-demystify-higgs-boson/",
-      "summary": "An ongoing Large Hadron Collider upgrade could transform the machine's capability, helping it unlock the secrets of the Higgs boson particle. The post Large Hadron Collider upgrade",
-      "date": "Tue, 21 Jul 2026 11Z",
-      "image": "https://earthsky.org/upl/2008/09/LargeHadronCollider_CERN.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-21T12:26:51Z"
-    },
-    {
-      "title": "So Long, and Thanks for All the Fish",
-      "link": "https://hakaimagazine.com/article-short/so-long-and-thanks-for-all-the-fish/",
-      "summary": "We started Hakai Magazine over 10 years ago because the ocean and its coastlines needed a voice. No other outlet was exclusively covering issues at the interface of sea and land—or",
-      "date": "2024-12-27T08:05:43Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-so-long-and-thanks-for-all-the-fish.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-07-21T12:26:52Z"
-    },
-    {
-      "title": "Neuroscience findings often can't be replicated ‪—‬ and it's a big problem for what we know about the brain",
-      "link": "https://www.livescience.com/health/neuroscience/neuroscience-findings-often-cant-be-replicated-and-its-a-big-problem-for-what-we-know-about-the-brain",
-      "summary": "The findings in several foundational brain imaging studies don't hold up in follow-up research.",
-      "date": "Tue, 21 Jul 2026 12Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/kJYT7yzP6g9WK8QJfXeYaU-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-21T12:27:03Z"
-    },
-    {
-      "title": "Startup's 'oscillator-based' AI technology could be 1,000 times more energy efficient than conventional computing",
-      "link": "https://www.livescience.com/technology/artificial-intelligence/startups-oscillator-based-ai-technology-could-be-1-000-times-more-energy-efficient-than-conventional-computing",
-      "summary": "Engineers say an AI image generator built on a new type of physical computing could use far less power than existing stable diffusion-based methods.",
-      "date": "Tue, 21 Jul 2026 11Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/42DaKU6u7kgfeWoAeRCtzV-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-21T12:27:03Z"
-    },
-    {
-      "title": "Summer Triangle star: Altair is variable and spins fast!",
-      "link": "https://earthsky.org/brightest-stars/altair-the-bluish-jewel-of-the-eagle/",
-      "summary": "Altair, in the constellation Aquila the Eagle, is one of the closest stars to our solar system. It's variable in an unusual way, and it spins very fast! The post Summer Triangle st",
-      "date": "Tue, 21 Jul 2026 07Z",
-      "image": "https://earthsky.org/upl/2021/07/altair-aquila-east-summer-evenings.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-21T10:30:38Z"
-    },
-    {
-      "title": "What ‘Yesteryear’ Gets Right (and Wrong) About Homesteading and Outdoors Influencers",
-      "link": "https://www.outsideonline.com/culture/books-media/yesteryear-novel-homesteading-influencers-reality/",
-      "summary": "Caro Claire Burke’s hit novel sends a tradwife influencer back to 1855. Real homesteading and outdoors-focused digital creators explain what the book gets right about the gap betwe",
-      "date": "Tue, 21 Jul 2026 09Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/yesteryear.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-21T10:30:42Z"
-    },
-    {
-      "title": "Everything from cells to stars to particles exists on the edge of chaos",
-      "link": "https://www.newscientist.com/article/2580285-everything-from-cells-to-stars-to-particles-exists-on-the-edge-of-chaos/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Complex systems, be they living beings or fundamental particles, need to have enough structure to hang together along with unpredictability that can allow for change. Columnist Tho",
-      "date": "Tue, 21 Jul 2026 08Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305287616.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-21T10:30:46Z"
-    },
-    {
-      "title": "Indigenous knowledge key to building healthier and more sustainable food systems",
-      "link": "https://phys.org/news/2026-07-indigenous-knowledge-key-healthier-sustainable.html",
-      "summary": "Traditional and Indigenous knowledge could play a vital role in addressing some of the world's most pressing challenges, including climate change, biodiversity loss and poor health",
-      "date": "2026-07-21T09:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/indigenous-cooking.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-21T10:30:48Z"
-    },
-    {
-      "title": "Great Barrier Reef at risk of 'collapse', scientists warn",
-      "link": "https://phys.org/news/2026-07-great-barrier-reef-collapse-scientists.html",
-      "summary": "Australia's Great Barrier Reef is at very high risk of extreme and widespread bleaching and \"ecosystem collapse\" linked to this year's El Niño weather phenomenon, leading scientist",
-      "date": "2026-07-21T08:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-great-barrier-reef.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-21T10:30:48Z"
-    },
-    {
-      "title": "Science word of the day: Cryptology",
-      "link": "https://www.livescience.com/physics-mathematics/mathematics/science-word-of-the-day-cryptology",
-      "summary": "What does 'cryptology' mean?",
-      "date": "Tue, 21 Jul 2026 08Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/eHQqKhJiUzqiwXVacVU3Tb-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-21T10:30:49Z"
     }
   ]
 }
