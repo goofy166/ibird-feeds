@@ -1,8 +1,74 @@
 {
-  "updated": "2026-07-29T03:21:43Z",
-  "updated_utc": "2026-07-29T03:21:43Z",
+  "updated": "2026-07-29T06:38:36Z",
+  "updated_utc": "2026-07-29T06:38:36Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Ships stuck in strait of Hormuz pose ‘super-spreader’ biodiversity threat, scientists warn",
+      "link": "https://www.theguardian.com/environment/2026/jul/29/biodiversity-superspreader-invasive-species-threat-ships-stuck-strait-hormuz-gulf",
+      "summary": "Biologists say cargo ships stranded in Gulf may carry highly potent invasive species around the world as trade resumes The closure of the strait of Hormuz has created conditions fo",
+      "date": "2026-07-29T05:00:23Z",
+      "image": "https://i.guim.co.uk/img/media/d61fdd81090c720e245c50503d599ae82ef1c846/591_0_3053_2443/master/3053.jpg?width=140&quality=85&auto=format&fit=max&s=4eace91b4be5457215af384597617157",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-29T06:38:20Z"
+    },
+    {
+      "title": "Birdwatch: A song thrush connects me with the great-grandfather I never knew",
+      "link": "https://www.theguardian.com/environment/2026/jul/29/birdwatch-a-song-thrush-connects-me-with-the-great-grandfather-i-never-knew",
+      "summary": "No other bird speaks to us quite so directly, its serenade conjuring memories of old family tales I wake early on these bright summer mornings. And now that the birds in my garden ",
+      "date": "2026-07-29T05:00:23Z",
+      "image": "https://i.guim.co.uk/img/media/e7a6c4b0e68802311e57b6b56b2db9b88a6bc0a5/300_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=8a0b772f837c480591c853f8396c9405",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-29T06:38:20Z"
+    },
+    {
+      "title": "Country diary: In poet John Clare’s garden, I contemplate my ancestor who lived here too | Nic Wilson",
+      "link": "https://www.theguardian.com/environment/2026/jul/29/country-diary-in-poet-john-clares-garden-i-contemplate-my-ancestor-who-lived-here-too",
+      "summary": "Helpston, Cambridgeshire: I picture Henry as a young lad, hiding in flowerbeds, chasing butterflies, learning to love nature If there’s one thing better than a gatekeeper butterfly",
+      "date": "2026-07-29T04:30:22Z",
+      "image": "https://i.guim.co.uk/img/media/3fe31156647ae0d81762c4f58b2177951fa32c5d/73_0_4337_3472/master/4337.jpg?width=140&quality=85&auto=format&fit=max&s=052fedd057313a489228cf3424ff134c",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-29T06:38:20Z"
+    },
+    {
+      "title": "So Long, and Thanks for All the Fish",
+      "link": "https://hakaimagazine.com/article-short/so-long-and-thanks-for-all-the-fish/",
+      "summary": "We started Hakai Magazine over 10 years ago because the ocean and its coastlines needed a voice. No other outlet was exclusively covering issues at the interface of sea and land—or",
+      "date": "2024-12-27T08:05:43Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-so-long-and-thanks-for-all-the-fish.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-07-29T06:38:23Z"
+    },
+    {
+      "title": "Mosquitoes are rapidly activating enzymes against common insecticide, researchers warn",
+      "link": "https://phys.org/news/2026-07-mosquitoes-rapidly-enzymes-common-insecticide.html",
+      "summary": "Traditionally, public health programs have relied on chemicals for mosquito management, which may be why combating mosquitoes is becoming more difficult. Over time, insecticides tr",
+      "date": "2026-07-29T04:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mosquitoes-most-powerf.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-29T06:38:32Z"
+    },
+    {
+      "title": "The cost of memory: How organisms balance thinking and sensing",
+      "link": "https://phys.org/news/2026-07-memory.html",
+      "summary": "Remembering the past can help living organisms make better decisions, but memory comes at a cost. Whether it is an animal searching for food or a single cell responding to its surr",
+      "date": "2026-07-29T04:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-cost-of-memory-how.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-29T06:38:32Z"
+    },
     {
       "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
       "link": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
@@ -5436,72 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-21T15:09:02Z"
-    },
-    {
-      "title": "New wasp species named after Ernest Hemingway amid efforts to control destructive sugar beet pest",
-      "link": "https://phys.org/news/2026-07-wasp-species-ernest-hemingway-efforts.html",
-      "summary": "Earth remains full of undiscovered species and unexplored interactions that continue to fascinate us, including, in the most ordinary places, the fields where our food is grown.",
-      "date": "2026-07-21T13:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-wasp-species-named.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-21T15:09:02Z"
-    },
-    {
-      "title": "Tanzania – Profile for Birders",
-      "link": "https://www.10000birds.com/tanzania-profile-for-birders.htm?utm_source=rss&utm_medium=rss&utm_campaign=tanzania-profile-for-birders",
-      "summary": "Highlights Tanzania is one of the top birding destinations in the world. The country boasts an extraordinary wealth of birdlife; in fact, more than 10% of the world’s birds and hal",
-      "date": "Tue, 21 Jul 2026 11Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/500px-Tanzania_map-en.svg_.webp",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-07-21T12:26:44Z"
-    },
-    {
-      "title": "A Birdwatcher’s Guide To Norway – Enhanced 2nd Edition: A Review",
-      "link": "https://www.10000birds.com/a-birdwatchers-guide-to-norway-enhanced-2nd-edition-a-review.htm?utm_source=rss&utm_medium=rss&utm_campaign=a-birdwatchers-guide-to-norway-enhanced-2nd-edition-a-review",
-      "summary": "Pelagic Publishing’s “A Birdwatcher’s Guide To Norway” has recently been released in an enhanced second edition, and it’s a welcome update for anyone planning a birding trip to thi",
-      "date": "Tue, 21 Jul 2026 11Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/Screenshot-2026-07-21-075901.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-07-21T12:26:44Z"
-    },
-    {
-      "title": "Black-capped Vireos at Balcones Canyonlands NWR",
-      "link": "https://www.10000birds.com/black-capped-vireos-at-balcones-canyonlands-nwr.htm?utm_source=rss&utm_medium=rss&utm_campaign=black-capped-vireos-at-balcones-canyonlands-nwr",
-      "summary": "On a recent trip to Texas for the Spring Chirp bird festival, we had a chance to do a little exploring. I have done a bit of birding around the Hill Country, but there is just so m",
-      "date": "Tue, 21 Jul 2026 11Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/Black-capped-Vireo-4-e1784508902153.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-07-21T12:26:44Z"
-    },
-    {
-      "title": "Bird Guides of the World: Iordan Hristov, Bulgaria",
-      "link": "https://www.10000birds.com/bird-guides-of-the-world-iordan-hristov-bulgaria.htm?utm_source=rss&utm_medium=rss&utm_campaign=bird-guides-of-the-world-iordan-hristov-bulgaria",
-      "summary": "What is your favourite bird species? To be fair, I don’t have a specific favourite bird! I get joy from showing birds to people and get excited when they see them. Seeing the joy o",
-      "date": "Tue, 21 Jul 2026 11Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/06/Iordan-Hristov-.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-07-21T12:26:44Z"
-    },
-    {
-      "title": "1st atmosphere detected on Earth-like, habitable-zone world",
-      "link": "https://earthsky.org/space/1st-atmosphere-detected-on-rocky-habitable-zone-exoplanet-lhs-1140-b/",
-      "summary": "Scientists have found an atmosphere on rocky exoplanet LHS 1140 b. It's the 1st atmosphere detected on a rocky world in the habitable zone of its star. The post 1st atmosphere dete",
-      "date": "Tue, 21 Jul 2026 11Z",
-      "image": "https://earthsky.org/upl/2026/07/LHS-1140b-artists-concept-exoplanet-July-16-2026-full-size-800x533.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-21T12:26:51Z"
     }
   ]
 }
