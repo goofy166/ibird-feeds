@@ -1,8 +1,107 @@
 {
-  "updated": "2026-07-30T18:22:25Z",
-  "updated_utc": "2026-07-30T18:22:25Z",
+  "updated": "2026-07-30T20:19:10Z",
+  "updated_utc": "2026-07-30T20:19:10Z",
   "count": 500,
   "stories": [
+    {
+      "title": "9 Bird Photography Mistakes You Should Never Make",
+      "link": "https://www.birdsandblooms.com/birding/bird-photography/bird-photography-mistakes/",
+      "summary": "Frustrated that your bird photos don't look very good? Stop making these common bird photography mistakes and you'll see your images improve. The post 9 Bird Photography Mistakes Y",
+      "date": "Thu, 30 Jul 2026 19Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/GettyImages-172511055-e1785421782297.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-07-30T20:18:50Z"
+    },
+    {
+      "title": "These Shark Look-Alikes Have Long Confounded Fishers and Scientists on the East Coast. Tracking Where They Migrate Could Help Clear the Confusion",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/these-shark-look-alikes-have-long-confounded-fishers-and-scientists-on-the-east-coast-tracking-where-they-migrate-could-help-clear-the-confusion-180989210/",
+      "summary": "Researchers are tagging and tracking spinner sharks to map out their geographic distribution, because they've seen that the range of the very similar blacktip shark has shifted",
+      "date": "Thu, 30 Jul 2026 19Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/Y5z_KR7ITgY-CSKhUJfI_oI-L-g=/420x240/filters:focal(877x593:878x594)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5c/64/5c64368d-c21e-4dca-9b47-11a3225c0abb/blacktip_stephen_kajiura_hi_res.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-30T20:19:02Z"
+    },
+    {
+      "title": "A Strange, Never-Before-Seen Cancer Seems to Be Spreading Among Catfish in a New England Lake",
+      "link": "https://www.smithsonianmag.com/smart-news/a-strange-never-before-seen-cancer-seems-to-be-spreading-among-catfish-in-a-new-england-lake-180989195/",
+      "summary": "More than a decade ago, fishers and biologists noticed jet-black tumors on the skin of brown bullhead catfish in Lake Memphremagog. Genetic testing hints that they are caused by th",
+      "date": "Thu, 30 Jul 2026 18Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/M_vHpA45V8yCogL4oqdlpAAKQow=/420x240/filters:focal(720x405:721x406)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ae/84/ae84524c-8c0d-4ee3-8ae6-b554fcc37f9a/catfish-with-melanoma1440x810jpg.webp",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-30T20:19:02Z"
+    },
+    {
+      "title": "Dangerous 'Fire Clouds' Are Making France's Wildfires Even More Destructive",
+      "link": "https://www.smithsonianmag.com/smart-news/dangerous-fire-clouds-are-making-frances-wildfires-even-more-destructive-180989234/",
+      "summary": "It's the first time the phenomenon, which is fairly common in North America, has been observed in France",
+      "date": "Thu, 30 Jul 2026 18Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/DXqqpXy369yi3MHnZOtgCaSq_T0=/420x240/filters:focal(1766x1177:1767x1178)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c8/b4/c8b432ed-ce19-49f6-959c-1fbb5b6b660f/gettyimages-2286803963.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-30T20:19:02Z"
+    },
+    {
+      "title": "Mammals moving between the Americas stopped over in Mexico",
+      "link": "https://www.sciencenews.org/article/mammals-moving-americas-stopped-mexico",
+      "summary": "Ancient mammals may have had an easier time moving across the Isthmus of Panama from north to south thanks to Mexico’s climate.",
+      "date": "Thu, 30 Jul 2026 19Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/073026_BB_landbridge_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-30T20:19:03Z"
+    },
+    {
+      "title": "Mammoth bones found on parched bed of Danube in Bulgaria",
+      "link": "https://phys.org/news/2026-07-mammoth-bones-parched-bed-danube.html",
+      "summary": "Sinking water levels in the Danube River have unveiled mammoth bones in Bulgaria and could lead to further discoveries, a local museum director told AFP on Thursday.",
+      "date": "2026-07-30T20:10:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-water-in-the-danube.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-07-30T20:19:06Z"
+    },
+    {
+      "title": "Connecting surface-level observations to molecular-level data uncovers plant stress coping mechanism",
+      "link": "https://phys.org/news/2026-07-surface-molecular-uncovers-stress-coping.html",
+      "summary": "Unlike humans, plants cannot make simple lifestyle adjustments to adapt to changing environments. When exposed to conditions like extreme heat or water scarcity, instead of putting",
+      "date": "2026-07-30T19:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/connecting-surface-lev.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-30T20:19:06Z"
+    },
+    {
+      "title": "Scientists discover 2 new 'ghost' lineages that contributed DNA to modern humans",
+      "link": "https://www.livescience.com/archaeology/human-evolution/scientists-discover-2-new-ghost-lineages-that-contributed-dna-to-modern-humans",
+      "summary": "A new method of analyzing modern humans' DNA is revealing secrets about our extinct ancestors.",
+      "date": "Thu, 30 Jul 2026 19Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/aKajQxD3VwQRNNvwp2SPpZ-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-30T20:19:08Z"
+    },
+    {
+      "title": "Scientists put cameras on whale sharks for the first time and saw something they'd never seen before",
+      "link": "https://www.livescience.com/animals/sharks/scientists-put-cameras-on-whale-sharks-for-the-first-time-and-saw-something-theyd-never-seen-before",
+      "summary": "Animal-borne cameras have revealed that the world's largest fish spends far more time feeding below the surface than scientists realized.",
+      "date": "Thu, 30 Jul 2026 19Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/AuDZfcBLs9C3LVhJNGsEaJ-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-30T20:19:08Z"
+    },
     {
       "title": "Hawks in Georgia",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/hawks-in-georgia/",
@@ -5403,105 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-23T17:38:35Z"
-    },
-    {
-      "title": "More than half of Earth's migratory bird species are declining—here's how we can still save them",
-      "link": "https://phys.org/news/2026-07-earth-migratory-bird-species-declining.html",
-      "summary": "Every year, billions of migratory birds connect the world's continents, oceans and ecosystems as they undertake epic journeys between their foraging habitats and breeding grounds.",
-      "date": "2026-07-23T16:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/more-than-half-of-eart.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-23T17:38:35Z"
-    },
-    {
-      "title": "Peptide isolated from a Cerrado frog increases strawberry shelf life",
-      "link": "https://phys.org/news/2026-07-peptide-isolated-cerrado-frog-strawberry.html",
-      "summary": "Five minutes. That was the amount of time that Oso Grande strawberries remained in contact with the Ctx(Ile21)-Ha peptide—a molecule isolated from a frog native to the Brazilian Ce",
-      "date": "2026-07-23T15:20:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/strawberries.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-23T17:38:35Z"
-    },
-    {
-      "title": "Are We Witnessing the Highest VO2 Max Ever?",
-      "link": "https://www.outsideonline.com/health/training-performance/tadej-pogacar-vo2-max-tour-de-france-study/",
-      "summary": "Forget lab tests: the Tour de France provides a real-world look at the limits of human fitness. The post Are We Witnessing the Highest VO2 Max Ever? appeared first on Outside Onlin",
-      "date": "Thu, 23 Jul 2026 14Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/tour.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-23T15:16:14Z"
-    },
-    {
-      "title": "Would You Chat With an A.I. 'Ghost' of a Deceased Loved One? New Research Suggests That the Tech Can Provide Comfort and Closure",
-      "link": "https://www.smithsonianmag.com/smart-news/would-you-chat-with-an-ai-ghost-of-a-deceased-loved-one-new-research-suggests-that-the-tech-can-provide-comfort-and-closure-180989176/",
-      "summary": "Commercial \"griefbots\" are becoming more popular, and many experts have questions about their psychological and ethical impacts. A new study aims to ensure that the bots are design",
-      "date": "Thu, 23 Jul 2026 14Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/CqfclW1naSQwn6_ZHKty29sb4wg=/420x240/filters:focal(2230x1487:2231x1488)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b0/0f/b00f9c2e-de3a-416a-9261-0b36ce7411bf/stocksnap-laptop-2562361.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-23T15:16:15Z"
-    },
-    {
-      "title": "Can sounds make plants grow bigger? A start-up says they can",
-      "link": "https://www.newscientist.com/article/2581022-can-sounds-make-plants-grow-bigger-a-start-up-says-they-can/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Haivya has developed acoustic signals designed to influence plant development, and its trials reportedly show large yield increases in soybean, pepper and cannabis crops",
-      "date": "Thu, 23 Jul 2026 15Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305960378.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-23T15:16:18Z"
-    },
-    {
-      "title": "Fields medal 2026: Work on unifying laws of physics wins maths prize",
-      "link": "https://www.newscientist.com/article/2580296-fields-medal-2026-work-on-unifying-laws-of-physics-wins-maths-prize/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Mathematicians who helped unify laws of physics and cracked decades-old problems in geometry are among this year's recipients of the Fields medal",
-      "date": "Thu, 23 Jul 2026 13Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305883935.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-23T15:16:18Z"
-    },
-    {
-      "title": "Dark energy doesn’t exist, claims controversial paper",
-      "link": "https://www.newscientist.com/article/2580973-dark-energy-doesnt-exist-claims-controversial-paper/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "An analysis of supernovae argues that the universe’s expansion is not speeding up, so there is no need for dark energy to exist to explain it",
-      "date": "Thu, 23 Jul 2026 13Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_304507925.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-23T15:16:18Z"
-    },
-    {
-      "title": "Fig-leaf enzyme turns tannery waste into high-value collagen",
-      "link": "https://phys.org/news/2026-07-fig-leaf-enzyme-tannery-high.html",
-      "summary": "Tanneries generate large quantities of skin trimmings before hides are tanned. These trimmings contain collagen but are commonly treated as low-value waste. An international resear",
-      "date": "2026-07-23T13:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fig-leaf-enzyme-turns.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-23T15:16:20Z"
-    },
-    {
-      "title": "'We're trying this out of frustration': Marmots star in OnlyFans account as researchers desperately look for ways to raise funds amid US budget cuts",
-      "link": "https://www.livescience.com/animals/land-mammals/were-trying-this-out-of-frustration-marmots-star-in-onlyfans-account-as-researchers-desperately-look-for-ways-to-raise-funds-amid-us-budget-cuts",
-      "summary": "As U.S. federal research budgets continue to be slashed, a team of marmot researchers have turned to unconventional sources of funding.",
-      "date": "Thu, 23 Jul 2026 14Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/apFALHKKDcu6Wt9x8E7x3X-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-23T15:16:21Z"
     }
   ]
 }
