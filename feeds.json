@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-29T23:03:44Z",
-  "updated_utc": "2026-07-29T23:03:44Z",
+  "updated": "2026-07-30T02:54:57Z",
+  "updated_utc": "2026-07-30T02:54:57Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A climate resilience strategy to strengthen US seafood competitiveness",
+      "link": "https://phys.org/news/2026-07-climate-resilience-strategy-seafood-competitiveness.html",
+      "summary": "As the U.S. looks to expand domestic seafood production, a new University of Miami study argues that long-term competitiveness will depend on how well fisheries can withstand clima",
+      "date": "2026-07-29T23:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/fishery.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-30T02:54:53Z"
+    },
     {
       "title": "A Mushroom Foraging Trip Outside Yellowstone Just Sent 11 People to the Hospital",
       "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/montana-yellowstone-wild-mushroom-poisoning/",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-07-22T16:25:21Z"
-    },
-    {
-      "title": "My Swiss Army Knife Is Far More than a Multitool",
-      "link": "https://www.outsideonline.com/outdoor-gear/tools/ode-to-my-swiss-army-knife/",
-      "summary": "A vacation purchase brings back long-forgotten memories and reveals the emotional power of gear. The post My Swiss Army Knife Is Far More than a Multitool appeared first on Outside",
-      "date": "2026-07-22T14:27:48Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/swiss-army-knif-feature_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-22T16:25:27Z"
     }
   ]
 }
