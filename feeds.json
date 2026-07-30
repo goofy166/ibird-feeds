@@ -1,8 +1,151 @@
 {
-  "updated": "2026-07-30T11:15:11Z",
-  "updated_utc": "2026-07-30T11:15:11Z",
+  "updated": "2026-07-30T14:22:04Z",
+  "updated_utc": "2026-07-30T14:22:04Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Fifteen elephant deaths at Kenya park may be due to cyanide poisoning",
+      "link": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
+      "summary": "Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife Service The recent deaths of 15 elephants near a park in southern Kenya in",
+      "date": "2026-07-30T12:46:50Z",
+      "image": "https://i.guim.co.uk/img/media/8a229e914e527ca2c03aa7e248aa1ddf24ea0d3e/278_50_4532_3627/master/4532.jpg?width=140&quality=85&auto=format&fit=max&s=f7b778364626fbe621844285510d4071",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-30T14:21:48Z"
+    },
+    {
+      "title": "The Dino-Killing Asteroid Strike May Have Transformed Our Planet Into a Hellish Inferno, Charbroiling Most Creatures Within Hours",
+      "link": "https://www.smithsonianmag.com/smart-news/the-dino-killing-asteroid-strike-may-have-transformed-our-planet-into-a-hellish-inferno-charbroiling-most-creatures-within-hours-180989226/",
+      "summary": "Based on computer simulations and geologic evidence, scientists propose that the deadly event may have caused global wildfires and trapped heat in the atmosphere, roasting any anim",
+      "date": "Thu, 30 Jul 2026 14Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/BE1R4D_mINKld_hEzJAkMQIs7Fo=/420x240/filters:focal(2810x1766:2811x1767)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7c/a4/7ca43c2f-d4fd-4eb9-8cae-a0deb1876934/dino-asteroid.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-30T14:21:56Z"
+    },
+    {
+      "title": "Stanford University's Founding Matriarch Was a Travel-Loving Philanthropist Who Met a Tragic End. A New Exhibition Explores Her Life, Grief and Death by Poison",
+      "link": "https://www.smithsonianmag.com/history/stanford-universitys-founding-matriarch-was-a-travel-loving-philanthropist-who-met-a-tragic-end-a-new-exhibition-explores-her-life-grief-and-death-by-poison-180989211/",
+      "summary": "Jane Stanford's legacy is the focus of a new showcase at the California university. The display features artifacts that have never previously been exhibited",
+      "date": "Thu, 30 Jul 2026 11Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/RqCz4F_EwWgk3pg_Wu-wiSG3Hms=/420x240/filters:focal(1500x1000:1501x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cb/f5/cbf53a8f-ab25-4f04-9809-58da970031e4/2026-07_jane_gc-4-web.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-30T14:21:56Z"
+    },
+    {
+      "title": "A new monkey species has been found deep in Congo’s forests",
+      "link": "https://www.sciencenews.org/article/new-monkey-species-endangered",
+      "summary": "A canopy call, a partial photo and DNA revealed a new primate species — one that may already be at risk of extinction.",
+      "date": "Thu, 30 Jul 2026 13Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/072226_tk_likweli_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-30T14:21:57Z"
+    },
+    {
+      "title": "Origami-inspired sensor could continuously monitor our vital signs",
+      "link": "https://www.newscientist.com/article/2582486-origami-inspired-sensor-could-continuously-monitor-our-vital-signs/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "A tiny sensor that unfolds within the body could continuously monitor our heart activity and breathing after showing promise in rats",
+      "date": "Thu, 30 Jul 2026 14Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306791973.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-30T14:21:58Z"
+    },
+    {
+      "title": "Henrietta Lacks’s descendant on her legacy – and Rebecca Skloot’s book",
+      "link": "https://www.newscientist.com/article/2582362-henrietta-lackss-descendant-on-her-legacy-and-rebecca-skloots-book/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Rebecca Skloot told the story of Henrietta Lacks and how her cells were taken without her permission in a bestselling book, The Immortal Life of Henrietta Lacks. Reading it left Al",
+      "date": "Thu, 30 Jul 2026 12Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI306884919.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-30T14:21:58Z"
+    },
+    {
+      "title": "New research shows the Golgi complex is involved in DNA repair control",
+      "link": "https://phys.org/news/2026-07-golgi-complex-involved-dna.html",
+      "summary": "Our DNA is under constant threat. Chemicals, radiation and the everyday errors of cell division all damage it, and if left unrepaired, this can lead to diseases such as cancer. Cel",
+      "date": "2026-07-30T14:00:10Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-shows-the.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-30T14:22:00Z"
+    },
+    {
+      "title": "Mapping endangered habitats with the help of citizen scientists and satellite data",
+      "link": "https://phys.org/news/2026-07-endangered-habitats-citizen-scientists-satellite.html",
+      "summary": "As biodiversity declines and many of the UK's most important habitats become smaller and more fragmented, conservation organizations need accurate, up-to-date maps to protect wildl",
+      "date": "2026-07-30T13:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mapping-endangered-hab.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-30T14:22:00Z"
+    },
+    {
+      "title": "Two Arctic charr populations evolved in less than a century, study finds",
+      "link": "https://phys.org/news/2026-07-arctic-charr-populations-evolved-century.html",
+      "summary": "Evolution, the process through which animals and other living organisms change their inherited traits over time, typically unfolds slowly over thousands or even millions of years. ",
+      "date": "2026-07-30T13:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-arctic-charr-popul.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-30T14:22:00Z"
+    },
+    {
+      "title": "First dogs in the UK treated with new bee and wasp venom immunotherapy",
+      "link": "https://phys.org/news/2026-07-dogs-uk-bee-wasp-venom.html",
+      "summary": "The University of Glasgow's Small Animal Hospital is the first in the UK to use a treatment for dogs suffering from serious allergic reactions to bee and wasp stings. The treatment",
+      "date": "2026-07-30T12:40:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-dogs-in-the-uk-t.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-30T14:22:00Z"
+    },
+    {
+      "title": "Tread softly: A new 'light touch' way to detect kauri dieback",
+      "link": "https://phys.org/news/2026-07-softly-kauri-dieback.html",
+      "summary": "Kauri dieback is one of the most serious threats facing Aotearoa New Zealand's kauri forests. The disease is caused by a soil-dwelling microbe, Phytophthora agathidicida, which inf",
+      "date": "2026-07-30T12:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tread-softly-a-new-lig-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-30T14:22:00Z"
+    },
+    {
+      "title": "Learning more about Australia's remote Northwest reefs with Indigenous rangers",
+      "link": "https://phys.org/news/2026-07-australia-remote-northwest-reefs-indigenous.html",
+      "summary": "Offshore Northwest reefs Rankin Bank and Glomar Shoal are remote and little known, but Australian Institute of Marine Science (AIMS) researchers are using technology and people pow",
+      "date": "2026-07-30T11:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/learning-more-about-au.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-30T14:22:00Z"
+    },
+    {
+      "title": "Inflammation may trigger persistent 'out-of-body' experiences, emerging research hints",
+      "link": "https://www.livescience.com/health/neuroscience/inflammation-may-trigger-persistent-out-of-body-experiences-emerging-research-hints",
+      "summary": "Researchers are investigating whether immune dysfunction can help explain dissociative disorders.",
+      "date": "Thu, 30 Jul 2026 12Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Gdz4m5eSPCv4aYnorFVS8E-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-30T14:22:02Z"
+    },
     {
       "title": "Owls in Virginia: 8 Stunning Nighttime Predators for You to See",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/owls-in-virginia-8-stunning-nighttime-predators-for-you-to-see/",
@@ -5359,149 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-07-22T20:16:14Z"
-    },
-    {
-      "title": "A SpaceX Rocket Part Is Expected to Smack Into the Moon in August, Highlighting the Growing Problem of Space Junk",
-      "link": "https://www.smithsonianmag.com/smart-news/A-spacex-rocket-part-is-expected-to-smack-into-the-moon-in-august-highlighting-the-growing-problem-of-space-junk-180989173/",
-      "summary": "The unintended event also creates an opportunity for scientists and skywatchers to witness lunar impact dynamics in real time, although the debris will hit a sunlit portion of the ",
-      "date": "2026-07-22T19:44:04Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/iKxGlR3CaaPbVJkuBeUnnTHttUo=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/21/5e/215e21b7-08e1-4800-8e7f-ccbccba79384/smithsonian_feature_images_9.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-22T20:16:16Z"
-    },
-    {
-      "title": "CRISPR-Cas coordinates a layered bacterial defense network in innate immunity",
-      "link": "https://phys.org/news/2026-07-crispr-cas-layered-bacterial-defense.html",
-      "summary": "All cellular life—from humans to bacteria—possesses two layers of immunity: innate and adaptive. Scientists have long understood how these two types of immunity work together in hi",
-      "date": "2026-07-22T19:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/crispr-cas-coordinates.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-22T20:16:21Z"
-    },
-    {
-      "title": "First ever reported cryo-EM visualization of E. coli TGT structure",
-      "link": "https://phys.org/news/2026-07-cryo-em-visualization-coli-tgt.html",
-      "summary": "The enzyme tRNA-guanine transglycosylase (TGT) chemically modifies transfer RNA (tRNA) and plays a key role in how disease-causing bacteria control the production of proteins neede",
-      "date": "2026-07-22T19:20:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-ever-reported-cr.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-22T20:16:21Z"
-    },
-    {
-      "title": "Spread of invasive malaria mosquito from Asia to Africa traced in new genomic study",
-      "link": "https://phys.org/news/2026-07-invasive-malaria-mosquito-asia-africa.html",
-      "summary": "A genomic surveillance study has shed new light on how an invasive urban malaria mosquito species spread from Asia to Africa, potentially threatening public health across a rapidly",
-      "date": "2026-07-22T18:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/anopheles-stephensi.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-22T20:16:21Z"
-    },
-    {
-      "title": "Owls in Louisiana: 9 Species That You Can See with Pictures",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/owls-in-louisiana-9-species-that-you-can-see-with-pictures-2/",
-      "summary": "Louisiana has a rich history as it’s the home to Jazz music and the delicious Creole and Cajun cuisines. But nature lovers are in for a treat … Read More \"Owls in Louisiana: 9 Spec",
-      "date": "2026-05-10T23:26:56Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2024/08/Burrowing-Owl2_DSC2794-1985x2048-1.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-07-22T18:13:52Z"
-    },
-    {
-      "title": "Do Penguins Have Knees?",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/do-penguins-have-knees/",
-      "summary": "What makes penguins a sweet sight in the bird world is their waddling. They don’t seem to have legs as their feet appear right out … Read More \"Do Penguins Have Knees?\"",
-      "date": "2026-05-10T23:24:50Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/03/Penguin-by-Joshua-Ryder.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-07-22T18:13:52Z"
-    },
-    {
-      "title": "Do Birds and Squirrels Get Along? Forest Friends or Foes",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/do-birds-and-squirrels-get-along-forest-friends-or-foes/",
-      "summary": "Squirrels are fantastic acrobats and will go to great lengths to get what they want. Birdseed and nuts are among their favorite meal options. If … Read More \"Do Birds and Squirrels",
-      "date": "2026-05-10T23:22:53Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/02/downy-woodpecker-feeding-scaled.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-07-22T18:13:52Z"
-    },
-    {
-      "title": "Woodpeckers in Minnesota: Top 8 Species with Pictures",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/woodpeckers-in-minnesota-top-8-species-with-pictures/",
-      "summary": "Did you know that woodpeckers can peck up to 20 times in one second? The speed of how they move their heads sometimes exceeds 15 … Read More \"Woodpeckers in Minnesota: Top 8 Specie",
-      "date": "2026-05-10T23:20:58Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2024/08/red-breasted-sapsucker-alexander-viduetsky-410x465-1.jpeg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-07-22T18:13:52Z"
-    },
-    {
-      "title": "Woodpeckers in Virginia: The Top 8 Species with Pictures",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/woodpeckers-in-virginia-the-top-8-species-with-pictures/",
-      "summary": "Virginia is a beautiful state that has a lot of appealing, culturally diverse sites to offer its people. The one thing that will stand out … Read More \"Woodpeckers in Virginia: The",
-      "date": "2026-05-10T23:17:26Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2024/08/Red-headedWoodpecker-Rushing.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-07-22T18:13:52Z"
-    },
-    {
-      "title": "Do Birds Eat Wasps, Hornets and Bees?",
-      "link": "https://www.birdsandblooms.com/birding/birding-basics/do-birds-eat-wasps/",
-      "summary": "Many birds eat a variety of foods, but are wasps on the menu? Our experts explain whether birds eat wasps, and which birds may snack on them. The post Do Birds Eat Wasps, Hornets a",
-      "date": "2026-07-22T16:22:25Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/GettyImages-1445334528-e1784737274714.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-07-22T18:13:55Z"
-    },
-    {
-      "title": "Bill Ott Disappeared While Hiking the Grand Canyon 14 Years Ago. Authorities Just Found His Remains.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/bill-ott-remains-found-grand-canyon/",
-      "summary": "DNA testing has confirmed human remains found in a remote section of the Grand Canyon belong to legendary expedition hiker Bill Ott, missing since 2012. The post Bill Ott Disappear",
-      "date": "2026-07-22T16:23:29Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/bill-ott-.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-22T18:14:04Z"
-    },
-    {
-      "title": "This Letter Penned on the ‘Titanic’ Days Before It Sank Shares the Perspective of the Ship's Second-Class Passengers",
-      "link": "https://www.smithsonianmag.com/smart-news/this-letter-penned-on-the-titanic-days-before-it-sank-shares-the-perspective-of-the-ships-second-class-passengers-180989174/",
-      "summary": "The letter, now up for auction, describes good weather and bustling activity as the \"Titanic\" prepared to set off across the Atlantic Ocean",
-      "date": "2026-07-22T17:59:09Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/D5DbKIO_9n9QD_DJrqTHHxMlA-g=/420x240/filters:focal(480x352:481x353)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f1/5a/f15a9581-481b-4311-9350-908e2ee67411/rms_titanic_3.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-22T18:14:06Z"
-    },
-    {
-      "title": "People Aren't Born as Righties or Lefties—They Develop Hand Dominance With Practice, a New Study Suggests",
-      "link": "https://www.smithsonianmag.com/smart-news/people-arent-born-with-as-righties-or-lefties-they-develop-hand-dominance-with-practice-a-new-study-suggests-180989168/",
-      "summary": "Humans do have a biological preference for using one side of their body, which might prime them for using limbs on that side for complex motor tasks like writing—and honing those s",
-      "date": "2026-07-22T16:59:55Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/5i33Z2G54y6U925q1qCY5ucOJXU=/420x240/filters:focal(3008x2020:3009x2021)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6a/3b/6a3b6999-b7a0-408c-921b-1f203dc6fad7/close-up-businesswoman-making-notes-personal-organizer.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-22T18:14:06Z"
     }
   ]
 }
