@@ -1,8 +1,85 @@
 {
-  "updated": "2026-07-30T20:19:10Z",
-  "updated_utc": "2026-07-30T20:19:10Z",
+  "updated": "2026-07-30T22:13:27Z",
+  "updated_utc": "2026-07-30T22:13:27Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Nirmal “Nims” Purja Missing After an Avalanche in Pakistan",
+      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/nirmal-nims-purja-missing-after-avalanche-in-pakistan/",
+      "summary": "A massive avalanche on the 26,400-foot-tall Broad Peak has left ten climbers missing, including Nirmal “Nims” Purja. The post Nirmal “Nims” Purja Missing After an Avalanche in Paki",
+      "date": "Thu, 30 Jul 2026 21Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/nims-2.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-30T22:13:17Z"
+    },
+    {
+      "title": "Audio Engineers Restored Hidden Notes and Revealed Lost Instruments in This New Treasure Trove of Songs by the Pioneering 'Mother of the Blues'",
+      "link": "https://www.smithsonianmag.com/smart-news/audio-engineers-restored-hidden-notes-and-revealed-lost-instruments-in-this-new-treasure-trove-of-songs-by-the-pioneering-mother-of-the-blues-180989228/",
+      "summary": "The 118-track collection is the most complete set ever compiled of recordings by American blues icon Ma Rainey",
+      "date": "Thu, 30 Jul 2026 20Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/E7-My4rO2MOe-a-R6JnOhdbXncc=/420x240/filters:focal(965x717:966x718)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b9/6b/b96bad73-e2aa-4e5c-b61c-dd86e41d0c4b/box-set-flat.jpg",
+      "name": "Smithsonian",
+      "category": "butterflies",
+      "color": 10,
+      "fetched_at": "2026-07-30T22:13:19Z"
+    },
+    {
+      "title": "Uncovering the structure of the poxvirus 'portal complex'",
+      "link": "https://phys.org/news/2026-07-uncovering-poxvirus-portal-complex.html",
+      "summary": "Poxviruses have a long history in human disease as well as medicine: The first-ever vaccine was developed to protect against smallpox, which has since been eradicated. Despite this",
+      "date": "2026-07-30T22:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tuning-into-the-channe.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-30T22:13:23Z"
+    },
+    {
+      "title": "Scientists solve mystery of how muscle cells grow and stay healthy",
+      "link": "https://phys.org/news/2026-07-scientists-mystery-muscle-cells-stay.html",
+      "summary": "In a study published in Nature Communications biophysicists unravel the mystery of how muscles form at the molecular level and maintain their function. The findings may help design",
+      "date": "2026-07-30T21:40:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-solve-myste.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-30T22:13:23Z"
+    },
+    {
+      "title": "Study investigates how seven different Central European tree species respond to metal-contaminated soils",
+      "link": "https://phys.org/news/2026-07-central-european-tree-species-metal.html",
+      "summary": "For centuries, artisanal and industrial activities have left many soils polluted with excessive levels of heavy metals such as zinc, cadmium, copper and lead, posing a threat to th",
+      "date": "2026-07-30T21:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-investigates-how-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-30T22:13:23Z"
+    },
+    {
+      "title": "Combined rattlesnake proteins prove 10 times more potent than current antivenom in lab tests",
+      "link": "https://phys.org/news/2026-07-combined-rattlesnake-proteins-potent-current.html",
+      "summary": "University of Maryland researchers discovered a new approach to treating venomous snakebites—using the same toxin-blocking proteins that snakes evolved to protect themselves. The t",
+      "date": "2026-07-30T20:40:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-an-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-30T22:13:23Z"
+    },
+    {
+      "title": "In a cosmic first, astronomers detect 2 sibling supernovas that came from a pair of bound stars",
+      "link": "https://www.livescience.com/space/in-a-cosmic-first-astronomers-detect-2-sibling-supernovas-that-came-from-a-pair-of-bound-stars",
+      "summary": "Astronomers have identified a supernova remnant beside the well-known Jellyfish Nebula (IC 443), and evidence suggests both are the wreckage of two stars that once orbited each oth",
+      "date": "Thu, 30 Jul 2026 20Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/CLqGfWBQiaKSjubD3rBAnY-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-30T22:13:24Z"
+    },
     {
       "title": "9 Bird Photography Mistakes You Should Never Make",
       "link": "https://www.birdsandblooms.com/birding/bird-photography/bird-photography-mistakes/",
@@ -5425,83 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-23T19:36:19Z"
-    },
-    {
-      "title": "Jackson Hole’s New Corbet’s Couloir Via Ferrata Just Opened. Here’s What It’s Like.",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/corbets-couloir-via-ferrata-jackson-hole/",
-      "summary": "Jackson Hole just opened three new via ferrata routes across the iconic Corbet’s Couloir, one of the most terrifying ski runs in the U.S. The editor-in-chief of Climbing tests it o",
-      "date": "Thu, 23 Jul 2026 16Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/iron-journey-bridge-2.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-23T17:38:30Z"
-    },
-    {
-      "title": "Hunter-Gatherers Brought Trout to a Norwegian Mountain Lake 7,000 Years Ago, the Earliest Known Example of Humans Translocating Fish",
-      "link": "https://www.smithsonianmag.com/smart-news/hunter-gatherers-brought-trout-to-a-norwegian-mountain-lake-7000-years-ago-the-earliest-known-example-of-humans-translocating-fish-180989167/",
-      "summary": "Researchers have long known that the animals were introduced into the region's high-altitude bodies of water, but they weren't sure when it happened or whether humans had a hand. A",
-      "date": "Thu, 23 Jul 2026 15Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/JctVM_ItnrH5mcWobKu40scCdPY=/420x240/filters:focal(2144x1429:2145x1430)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e6/f7/e6f75585-0f81-4909-9668-21912659459a/brown-trout.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-23T17:38:31Z"
-    },
-    {
-      "title": "Extremely basic AI prompt cracks decades-old maths problem",
-      "link": "https://www.newscientist.com/article/2580932-extremely-basic-ai-prompt-cracks-decades-old-maths-problem/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "For the second time in a week, a long-standing conjecture has been disproved by artificial intelligence, highlighting the advanced mathematical capabilities of ChatGPT and its ilk",
-      "date": "Thu, 23 Jul 2026 15Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306155806.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-23T17:38:33Z"
-    },
-    {
-      "title": "How the encephalomyocarditis virus hijacks host protein machinery",
-      "link": "https://phys.org/news/2026-07-encephalomyocarditis-virus-hijacks-host-protein.html",
-      "summary": "Viruses lack the molecular machinery required for protein synthesis. Instead, they hijack the host's protein-making machinery, specifically ribosomes and translational factors. Thi",
-      "date": "2026-07-23T17:20:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-the-encephalomyoca.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-23T17:38:35Z"
-    },
-    {
-      "title": "Environmental bacteria ferry genes that boost antibiotic resistance over 10,000-fold",
-      "link": "https://phys.org/news/2026-07-environmental-bacteria-ferry-genes-boost.html",
-      "summary": "A patient with a severe infection is prescribed a potent antibiotic. Hopes for improvement are high, but just after treatment is given, resistance to the drug increases thousands o",
-      "date": "2026-07-23T17:20:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/partners-in-crime-prod.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-23T17:38:35Z"
-    },
-    {
-      "title": "Heat is coming for Hawaiian corals, but study finds there may be time to adapt",
-      "link": "https://phys.org/news/2026-07-hawaiian-corals.html",
-      "summary": "Since the first major bleaching event in 1996, Hawaiian corals have been subject to increasing heat stress and more frequent bleaching events. New research from oceanographers at t",
-      "date": "2026-07-23T17:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/heat-is-coming-for-haw.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-23T17:38:35Z"
-    },
-    {
-      "title": "Training microbes to prepare soils for the impacts of climate change",
-      "link": "https://phys.org/news/2026-07-microbes-soils-impacts-climate.html",
-      "summary": "Scientists at the University of Lincoln have discovered a promising new way to help protect crops from one of climate change's growing threats to global food production—increasing ",
-      "date": "2026-07-23T16:40:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-find-way-t-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-23T17:38:35Z"
     }
   ]
 }
