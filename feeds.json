@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-30T02:54:57Z",
-  "updated_utc": "2026-07-30T02:54:57Z",
+  "updated": "2026-07-30T05:49:41Z",
+  "updated_utc": "2026-07-30T05:49:41Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Chicken kidney sponge could be 'outstanding' at cleaning up polluted ports",
+      "link": "https://phys.org/news/2026-07-chicken-kidney-sponge-outstanding-polluted.html",
+      "summary": "Ports rank among the most disturbed marine environments. Pollutants like trash, oil and toxins from antifouling paints tend to accumulate in enclosed harbors. Invasive species arri",
+      "date": "2026-07-30T04:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chicken-kidney-sponge.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-30T05:49:38Z"
+    },
     {
       "title": "A climate resilience strategy to strengthen US seafood competitiveness",
       "link": "https://phys.org/news/2026-07-climate-resilience-strategy-seafood-competitiveness.html",
@@ -5491,17 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-07-22T16:25:16Z"
-    },
-    {
-      "title": "Have we found the first exomoon … around a brown dwarf?",
-      "link": "https://earthsky.org/space/first-exomoon-brown-dwarf-cd-35-2722/",
-      "summary": "Have astronomers found the first exomoon? We think of moons as objects that orbit planets. So what do we call this object, which orbits a brown dwarf? The post Have we found the fi",
-      "date": "2026-07-22T15:56:08Z",
-      "image": "https://earthsky.org/upl/2026/07/star-exomoon-and-brown-dwarf-ESO-M-Kornmesser-e1784727535792.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-22T16:25:21Z"
     }
   ]
 }
