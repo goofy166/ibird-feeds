@@ -1,8 +1,63 @@
 {
-  "updated": "2026-07-31T20:26:18Z",
-  "updated_utc": "2026-07-31T20:26:18Z",
+  "updated": "2026-07-31T22:10:59Z",
+  "updated_utc": "2026-07-31T22:10:59Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Northern Lights Could Be Visible Across Parts of the U.S. This Weekend",
+      "link": "https://www.outsideonline.com/adventure-travel/news-analysis/northern-lights-forecast-tonight/",
+      "summary": "The latest aurora borealis forecast is calling for displays across much of Canada and parts of the northern U.S. states on Friday, July 31, through Sunday, Aug. 2. The post The Nor",
+      "date": "2026-07-31T21:33:59Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/GettyImages-2263858554.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-31T22:10:50Z"
+    },
+    {
+      "title": "Raide’s LF 5L Vest Is a Creatively Designed Pack for Big Trail Adventures",
+      "link": "https://www.outsideonline.com/outdoor-gear/run/raide-lf-5l-vest-review/",
+      "summary": "The LF 5L offers thoughtfully designed innovations that promise to ease the burden of carrying gear on the trails. The post Raide’s LF 5L Vest Is a Creatively Designed Pack for Big",
+      "date": "2026-07-31T21:06:57Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/raidevestonwill_h.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-31T22:10:50Z"
+    },
+    {
+      "title": "Smarter fish farms could cut electricity use and CO₂ while keeping fish safe",
+      "link": "https://phys.org/news/2026-07-smarter-fish-farms-electricity-safe.html",
+      "summary": "Recirculating aquaculture systems (RAS) are attracting growing attention as a sustainable aquaculture technology that can reduce water use, control rearing conditions and lower env",
+      "date": "2026-07-31T21:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/smarter-fish-farms-cou.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-31T22:10:55Z"
+    },
+    {
+      "title": "A new genetic tool helps researchers uncover the logic of gene regulation",
+      "link": "https://phys.org/news/2026-07-genetic-tool-uncover-logic-gene.html",
+      "summary": "The human genome contains more than 20,000 genes. However, at any given time and in a given cell, only a fraction are active. Researchers from EMBL Heidelberg's Krebs Group have de",
+      "date": "2026-07-31T21:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-genetic-tool-hel.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-31T22:10:55Z"
+    },
+    {
+      "title": "Newly discovered mechanism protects DNA during cell division",
+      "link": "https://phys.org/news/2026-07-newly-mechanism-dna-cell-division.html",
+      "summary": "Every time a cell divides, it must accurately copy and distribute its DNA between two new cells. However, in some cases, chromosomes do not fully separate, leaving behind thin stra",
+      "date": "2026-07-31T20:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-mechanism-discover.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-31T22:10:55Z"
+    },
     {
       "title": "Can Growing Mountain Towns Keep Their Soul? Bend Has a Plan.",
       "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/mountain-towns-overtourism-bend-oregon/",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-07-24T17:44:22Z"
-    },
-    {
-      "title": "How fishing may be changing one fish species at the molecular level",
-      "link": "https://phys.org/news/2026-07-fishing-fish-species-molecular.html",
-      "summary": "The pearly razorfish (Xyrichtys novacula) is a small marine animal that lives in sandy coastal waters and feeds on creatures like shrimp. Known locally in Spain's Balearic Islands ",
-      "date": "2026-07-24T17:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-fishing-may-be-cha.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-24T17:44:25Z"
-    },
-    {
-      "title": "Malaria parasite selectively consumes linoleic acid fats, revealing drug target potential",
-      "link": "https://phys.org/news/2026-07-malaria-parasite-consumes-linoleic-acid.html",
-      "summary": "Researchers at NYU Abu Dhabi have discovered that the malaria parasite relies on a specific type of fat to survive and multiply within the human host, uncovering a previously unkno",
-      "date": "2026-07-24T17:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/malaria-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-24T17:44:25Z"
-    },
-    {
-      "title": "Trust among farmers is key to scaling climate-smart innovations",
-      "link": "https://phys.org/news/2026-07-farmers-key-scaling-climate-smart.html",
-      "summary": "As the climate becomes increasingly variable and extreme events become more frequent, accelerating the use of innovations that can strengthen agricultural resilience has become a p",
-      "date": "2026-07-24T17:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/trust-among-farmers-is.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-24T17:44:25Z"
-    },
-    {
-      "title": "Fat-storing cell structures may block viral spread by recruiting antiviral proteins",
-      "link": "https://phys.org/news/2026-07-fat-cell-block-viral-antiviral.html",
-      "summary": "La Trobe University scientists have uncovered the critical role fatty cell structures play in our body's early detection and defense against viruses. Published in Nature Communicat",
-      "date": "2026-07-24T17:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fat-stores-power-the-b.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-24T17:44:25Z"
-    },
-    {
-      "title": "Why and how birdsong differs across the world—and the eight motifs that tie them together",
-      "link": "https://phys.org/news/2026-07-birdsong-differs-world-motifs.html",
-      "summary": "Birdsong carries meaning across open space, helping birds attract mates, defend territory and communicate with rivals. While there has been much research into the use of birdsong a",
-      "date": "2026-07-24T16:50:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/a-colorful-mosaic-of-b.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-24T17:44:25Z"
     }
   ]
 }
