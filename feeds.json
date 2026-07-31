@@ -1,8 +1,52 @@
 {
-  "updated": "2026-07-31T04:29:10Z",
-  "updated_utc": "2026-07-31T04:29:10Z",
+  "updated": "2026-07-31T07:56:00Z",
+  "updated_utc": "2026-07-31T07:56:00Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Suffolk wildfire near Sizewell nuclear plant ‘stabilising’ after 24 hours",
+      "link": "https://www.theguardian.com/uk-news/2026/jul/31/suffolk-wildfire-sizewell-nuclear-plant-dunwich-heath",
+      "summary": "More than 100 firefighters remain at scene after Dunwich Heath blaze spread across 150 hectares and forced evacuations Fire crews tackling a large wildfire burning for more than 24",
+      "date": "2026-07-31T07:48:44Z",
+      "image": "https://i.guim.co.uk/img/media/fcd48dcfd793e074babac2321e1d00f2b5571094/983_0_4917_3935/master/4917.jpg?width=140&quality=85&auto=format&fit=max&s=6883d768358a8840cb2a02fd1fca67dd",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-31T07:55:44Z"
+    },
+    {
+      "title": "Country diary: Rumours of glowworms set me off on a twilight stroll | Anita Roy",
+      "link": "https://www.theguardian.com/environment/2026/jul/31/country-diary-rumours-of-glowworms-set-me-off-on-a-twilight-stroll",
+      "summary": "Wellington, Somerset: Desiccated leaves crunch underfoot and ponds have shrunk to muddy pools. Will I catch a glimpse of bioluminescence? July is staggering to a close: exhausted, ",
+      "date": "2026-07-31T04:30:03Z",
+      "image": "https://i.guim.co.uk/img/media/913bfe897ea7449f7068d46b09d4510cabad8974/175_165_3302_2642/master/3302.jpg?width=140&quality=85&auto=format&fit=max&s=d9c739eb7f4735ec15df08ded7092359",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-31T07:55:44Z"
+    },
+    {
+      "title": "Look for Mercury farthest from the morning sun on August 2",
+      "link": "https://earthsky.org/astronomy-essentials/mercury-before-sunrise-greatest-elongation-west/",
+      "summary": "Mercury will reach its greatest elongation - greatest distance from the sunrise - on August 2, 2026. Look east at dawn. It'll be close to Jupiter on August 15. The post Look for Me",
+      "date": "2026-07-31T07:00:11Z",
+      "image": "https://earthsky.org/upl/2024/04/2024-May-Mercury-GWE.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-07-31T07:55:46Z"
+    },
+    {
+      "title": "The last trio: S.Africa's zoo elephants await their fate",
+      "link": "https://phys.org/news/2026-07-trio-safrica-zoo-elephants-await.html",
+      "summary": "The last three elephants still in a traditional South African zoo entered their enclosure in single file, with fruit and vegetables scattered on the ground to encourage natural for",
+      "date": "2026-07-31T07:03:11Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/johannesburg-city-park-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-31T07:55:56Z"
+    },
     {
       "title": "‘It makes your heart sing’: can a pioneering project show that rewilding really works? – podcast",
       "link": "https://www.theguardian.com/news/audio/2026/jul/31/it-makes-your-heart-sing-can-a-pioneering-project-show-that-rewilding-really-works-podcast",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-23T21:12:54Z"
-    },
-    {
-      "title": "Destructive crop caterpillar harbors fungi that can degrade Styrofoam",
-      "link": "https://phys.org/news/2026-07-destructive-crop-caterpillar-harbors-fungi.html",
-      "summary": "A moth caterpillar identified by the agribusiness sector as one of the most destructive pests of soybean, cotton and corn crops may harbor fungi and bacteria in its gut that can de",
-      "date": "2026-07-23T20:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/caterpillar-that-attac.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-07-23T21:12:54Z"
-    },
-    {
-      "title": "We Now Know What Happend During the Glacier Grizzly Bear Attack That Killed Anthony Pollio",
-      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/anthony-pollio-glacier-bear-attack-report/",
-      "summary": "An investigation into a fatal grizzly attack in Glacier National Park explains why a hiker’s bear spray failed to stop a defensive charge in total darkness. The post We Now Know Wh",
-      "date": "Thu, 23 Jul 2026 18Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/GettyImages-1347287138.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-23T19:36:13Z"
-    },
-    {
-      "title": "Months After Burglars Stole Crown Jewels From the Louvre, the Apollo Gallery Reopens, Highlighting Its Origins as a Royal Reception Hall",
-      "link": "https://www.smithsonianmag.com/smart-news/months-after-burglars-stole-crown-jewels-from-the-louvre-the-apollo-gallery-reopens-highlighting-its-origins-as-a-royal-reception-hall-180989182/",
-      "summary": "Museum officials hope visitors will appreciate the gilded hall, conceived by Louis XIV more than 360 years ago, for its history and ornamentation, even without the crown jewels",
-      "date": "Thu, 23 Jul 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/Kb1Ad8PVNoFWtEmBP1UnzPoEAN0=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f5/70/f570985a-3884-4083-99ff-1bd64c0c0807/c1e0c953ac25da403ebc5821d495c762-1500x1000.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-23T19:36:14Z"
-    },
-    {
-      "title": "Wacky, Mysterious Paintings by This Surrealist Still Influence Contemporary Artists. An Exhibition in London Will Explore the Legacy of René Magritte",
-      "link": "https://www.smithsonianmag.com/smart-news/wacky-mysterious-paintings-by-this-surrealist-still-influence-contemporary-artists-an-exhibition-in-london-will-explore-the-legacy-of-rene-magritte-180989181/",
-      "summary": "The Belgian Surrealist was famous for his playful subversion, like when he created a painting of a pipe and then defiantly declared it wasn’t a pipe, after all",
-      "date": "Thu, 23 Jul 2026 17Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/jY97gjOEH2K9qDMjKE3DZCHHTAM=/420x240/filters:focal(1101x745:1102x746)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4c/00/4c00b687-1317-4916-940b-a3e72f2e3ebb/screenshot_2026-07-23_at_120334pm.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-23T19:36:14Z"
     }
   ]
 }
