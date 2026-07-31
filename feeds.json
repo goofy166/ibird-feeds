@@ -1,8 +1,118 @@
 {
-  "updated": "2026-07-31T18:24:18Z",
-  "updated_utc": "2026-07-31T18:24:18Z",
+  "updated": "2026-07-31T20:26:18Z",
+  "updated_utc": "2026-07-31T20:26:18Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Can Growing Mountain Towns Keep Their Soul? Bend Has a Plan.",
+      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/mountain-towns-overtourism-bend-oregon/",
+      "summary": "As crowding and soaring costs strain popular adventure hubs, one town is using hotel taxes to rebuild trails, ease traffic, and win back local support. Can others follow their lead",
+      "date": "2026-07-31T20:04:05Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/GettyImages-1338118549.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-31T20:26:08Z"
+    },
+    {
+      "title": "Build a Go Kit",
+      "link": "https://www.outsideonline.com/adventure-travel/build-a-go-kit/",
+      "summary": "Stay nimble, be ready to hit the road. Or the trail, the rock, the water, or any adventure that presents itself. The post Build a Go Kit appeared first on Outside Online .",
+      "date": "2026-07-31T19:33:37Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/2025-12-10_FjallravenSS26_72-1-scaled-e1783619807337.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-31T20:26:08Z"
+    },
+    {
+      "title": "This Man Turned Human Corpses Into Popular Museum Displays. Now, the Creator of These Controversial ‘Body Worlds’ Has Donated His Own Body to Science",
+      "link": "https://www.smithsonianmag.com/smart-news/this-man-turned-human-corpses-into-popular-museum-displays-now-the-creator-of-these-controversial-body-worlds-has-donated-his-own-body-to-science-180989242/",
+      "summary": "Gunther von Hagens, who invented plastination, a method of preserving bodies by replacing their natural fluids with polymers, recently died at age 81",
+      "date": "2026-07-31T19:56:10Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/dYZHh2-HwXTiZD16vseHNS2Ede0=/420x240/filters:focal(702x468:703x469)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/70/ee/70ee555f-00f8-4fe2-a79c-9671c39f1b6c/dr_gunther_von_hagens_inventor_of_plastination__creator_of_-9e865944bb665f2e95e10afdde7d28df.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-31T20:26:10Z"
+    },
+    {
+      "title": "Rare Fossil Reveals a Three-Tier Food Chain Frozen in Time: a Pterosaur Eaten by an Ichthyosaur Eaten by a Pliosaur",
+      "link": "https://www.smithsonianmag.com/smart-news/rare-fossil-reveals-a-three-tier-food-chain-frozen-in-time-a-pterosaur-eaten-by-an-ichthyosaur-eaten-by-a-pliosaur-180989243/",
+      "summary": "Uncovered in part by amateur fossil hunters in Australia, the fossil preserves a unique look at prehistoric predatory dynamics",
+      "date": "2026-07-31T18:40:06Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/ufULBqvzZcqYdE7qq-Nzbae3YYc=/420x240/filters:focal(699x418:700x419)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3f/c5/3fc574fc-c2e6-47f2-9d3a-34269b6af619/bob-ptero-platy-krono-cretaceous-reconst-pt-72ppi-20x20ins.webp",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-31T20:26:10Z"
+    },
+    {
+      "title": "Lichen-like life 600 million years ago may push back origins of fungal-algal partnerships",
+      "link": "https://phys.org/news/2026-07-lichen-life-million-years-fungal.html",
+      "summary": "Two organisms inhabiting a common environment can sometimes mutually influence each other, either benefiting or, in some cases, damaging one another. This mutually beneficial or am",
+      "date": "2026-07-31T19:40:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-of-ancient-funga.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-31T20:26:14Z"
+    },
+    {
+      "title": "A backup fluoride defense in soil bacteria could aid greener chemical production",
+      "link": "https://phys.org/news/2026-07-backup-fluoride-defense-soil-bacteria.html",
+      "summary": "Researchers at the University of Tartu have discovered a mechanism in bacteria that helps them adapt to fluoride, which is toxic to most organisms above relatively low threshold co",
+      "date": "2026-07-31T19:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-discovery-could-ho.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-31T20:26:14Z"
+    },
+    {
+      "title": "Shark finning regulations have not significantly changed global trade, new analysis finds",
+      "link": "https://phys.org/news/2026-07-shark-finning-significantly-global-analysis.html",
+      "summary": "Much like caviar, shark fins are a luxury product and delicacy in parts of the world. And like wild caviar, demand for shark fins has posed an incredible threat to species that can",
+      "date": "2026-07-31T19:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/sharks.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-31T20:26:14Z"
+    },
+    {
+      "title": "A single RNA-based therapeutics approach against multiple types of RNA viruses",
+      "link": "https://phys.org/news/2026-07-rna-based-therapeutics-approach-multiple.html",
+      "summary": "The high frequency of RNA virus mutations and outbreaks of emerging RNA viral infections are challenging public health issues. Developing a drug that can overcome viral mutations w",
+      "date": "2026-07-31T19:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-single-rna-based-the-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-31T20:26:14Z"
+    },
+    {
+      "title": "Cretaceous beetle fossil reveals early evolution of firefly sensory and signaling systems",
+      "link": "https://phys.org/news/2026-07-cretaceous-beetle-fossil-reveals-early.html",
+      "summary": "Scientists have discovered a remarkably well-preserved 100-million-year-old beetle fossil that provides a rare glimpse into the evolution of the intricate sensory and communication",
+      "date": "2026-07-31T18:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cretaceous-beetle-foss-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-31T20:26:14Z"
+    },
+    {
+      "title": "Mathematical model devised to protect bacteriophages without hindering their action",
+      "link": "https://phys.org/news/2026-07-mathematical-bacteriophages-hindering-action.html",
+      "summary": "A study by researchers in the UAB Department of Mathematics and the Center for Mathematical Research (CRM) presents a model describing the behavior of encapsulated bacteriophages w",
+      "date": "2026-07-31T18:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mathematics-to-protect.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-31T20:26:14Z"
+    },
     {
       "title": "Ponds need more than a drop of protection | Letters",
       "link": "https://www.theguardian.com/environment/2026/jul/31/ponds-need-more-than-a-drop-of-protection",
@@ -5392,116 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-24T17:44:25Z"
-    },
-    {
-      "title": "Baby monkey Punch to celebrate first birthday",
-      "link": "https://phys.org/news/2026-07-baby-monkey-celebrate-birthday.html",
-      "summary": "Punch, a plush-clutching Japanese baby monkey that has become a global online sensation, will celebrate his first birthday on Sunday as his zoo is flooded with fan letters from aro",
-      "date": "2026-07-24T16:35:23Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/baby-monkey-punch-and.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-24T17:44:25Z"
-    },
-    {
-      "title": "Sun Valley Resort Just Became the First DarkSky-Certified Ski Resort in the U.S.",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/sun-valley-dark-sky-certified-resort/",
-      "summary": "As a lifelong local of the Sun Valley, Idaho, area, home to the famous Sun Valley Resort, I’ve lived my life with a backdrop of towering peaks, flowing rivers, and an expansive and",
-      "date": "2026-07-24T15:16:32Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/SVR_Cooper_Morton__Sun_Peak_Night_Lapse_DarkSky_2022__DSC2384.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-24T15:39:26Z"
-    },
-    {
-      "title": "Mangroves Are Key to Coastal Ecosystems. See 20 Breathtaking Photos That Reveal How the Trees Support Wildlife and Face Threats",
-      "link": "https://www.smithsonianmag.com/smart-news/mangroves-are-key-to-coastal-ecosystems-see-20-breathtaking-photos-that-reveal-how-the-trees-support-wildlife-and-face-threats-180989186/",
-      "summary": "The Mangrove Photography Awards honor images that show off the beauty—and the fragility—of these valuable intertidal forests",
-      "date": "2026-07-24T15:23:11Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/cUPKKbpWb_WIpgRd0ahtylEboiQ=/420x240/filters:focal(1892x1279:1893x1280)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f2/dc/f2dca069-cf2b-4d15-a5b0-779aa3245413/wildlife_mammals_-_royal_mangrove_dweller_-_avijit_ghorai.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-24T15:39:27Z"
-    },
-    {
-      "title": "Students in Florida Discovered a 400-Year-Old Intact Pot That Reveals Conflict Among Indigenous, Spanish and English Powers",
-      "link": "https://www.smithsonianmag.com/smart-news/students-in-florida-discovered-a-400-year-old-intact-pot-that-reveals-conflict-among-indigenous-spanish-and-english-powers-180989188/",
-      "summary": "Archaeology students at the University of Florida discovered the rare vessel at the site of the former Mission San Francisco de Potano, established in 1606 when Florida was under S",
-      "date": "2026-07-24T14:09:21Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/anQiIL1aTR7kZ-Fx9W9SNbG4jSw=/420x240/filters:focal(1000x667:1001x668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/56/c0/56c0e9d9-e2dd-45a9-a77b-86acc725a0ea/751111359_955707160864416_4593662300171942136_n.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-24T15:39:27Z"
-    },
-    {
-      "title": "Struggling with a hard life choice? AI future selves have tips",
-      "link": "https://www.sciencenews.org/article/life-choice-ai-future-selves-decisions",
-      "summary": "A chat with aged avatars of future selves can guide people paralyzed by tough decisions. The question is what information to feed the bots.",
-      "date": "2026-07-24T15:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/071626_SG_digital-twin_feat.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-24T15:39:28Z"
-    },
-    {
-      "title": "Earth is heating up faster than at any time in its history",
-      "link": "https://www.newscientist.com/article/2581280-earth-is-heating-up-faster-than-at-any-time-in-its-history/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "To understand where climate change is heading, we have to look at the planet’s distant past and appreciate the disturbing uniqueness of our situation, says Bill McGuire",
-      "date": "2026-07-24T15:25:47Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306250646.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-24T15:39:30Z"
-    },
-    {
-      "title": "Colorado prepares for screwworms, as the pest that was eradicated in 1966 returns to the US",
-      "link": "https://phys.org/news/2026-07-colorado-screwworms-pest-eradicated.html",
-      "summary": "New World screwworm, a concerning pest that mainly affects livestock and wildlife, was detected in South Texas in June 2026. It has since expanded northward in Texas, and there was",
-      "date": "2026-07-24T15:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/colorado-prepares-for-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-24T15:39:31Z"
-    },
-    {
-      "title": "Why evolution never produced mammal teeth that slice and crush equally well",
-      "link": "https://phys.org/news/2026-07-evolution-mammal-teeth-slice-equally.html",
-      "summary": "Evolution is all about trade-offs. Traits that may be beneficial in one situation may backfire in another. Over millions of years, species can become specialized for one way of liv",
-      "date": "2026-07-24T15:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-evolution-never-pr.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-24T15:39:31Z"
-    },
-    {
-      "title": "Why you should think twice before rescuing a wild animal",
-      "link": "https://phys.org/news/2026-07-wild-animal.html",
-      "summary": "Imagine you're driving down a winding road when you spot an injured possum. Your instincts might tell you to hit the brakes, check what's wrong and bundle it into your car. Researc",
-      "date": "2026-07-24T14:40:11Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/possum.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-24T15:39:31Z"
-    },
-    {
-      "title": "Combining AI protein design with laboratory evolution improves engineered enzymes",
-      "link": "https://phys.org/news/2026-07-combining-ai-protein-laboratory-evolution.html",
-      "summary": "When scientists want to create a protein that can potentially treat disease, one approach is to begin with a different protein and evolve it in the lab, selecting over many generat",
-      "date": "2026-07-24T14:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/combining-ai-with-labo.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-24T15:39:31Z"
     }
   ]
 }
