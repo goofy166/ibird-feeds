@@ -1,8 +1,140 @@
 {
-  "updated": "2026-07-31T16:04:29Z",
-  "updated_utc": "2026-07-31T16:04:29Z",
+  "updated": "2026-07-31T18:24:18Z",
+  "updated_utc": "2026-07-31T18:24:18Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Ponds need more than a drop of protection | Letters",
+      "link": "https://www.theguardian.com/environment/2026/jul/31/ponds-need-more-than-a-drop-of-protection",
+      "summary": "Readers respond to an editorial arguing that freshwater havens require a law of their own I agree with the need for protection of the vital habitat wildlife ponds create ( Editoria",
+      "date": "2026-07-31T17:10:31Z",
+      "image": "https://i.guim.co.uk/img/media/f30744c2044109eb51f245a25676576e2f9218e2/108_0_3255_2604/master/3255.jpg?width=140&quality=85&auto=format&fit=max&s=a3d419003d958bfa4ab1704684ef24fd",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-07-31T18:24:02Z"
+    },
+    {
+      "title": "I Tested the $700 Pecos Camp Table That’s All Over Your Feed",
+      "link": "https://www.outsideonline.com/outdoor-gear/camping/pecos-camp-table-review/",
+      "summary": "It sounded like overkill—until I stood on it, leveled it on uneven ground, and used it as my office desk. The post I Tested the $700 Pecos Camp Table That’s All Over Your Feed appe",
+      "date": "2026-07-31T18:16:59Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/Pecos-Table_Averill.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-31T18:24:09Z"
+    },
+    {
+      "title": "The Best Commuter E-Bikes of 2026, Tested and Reviewed",
+      "link": "https://www.outsideonline.com/outdoor-gear/bikes-and-biking/best-commuter-e-bikes/",
+      "summary": "Gas is expensive. Ditch your car and ride one of these e-bikes to work or run errands. The post The Best Commuter E-Bikes of 2026, Tested and Reviewed appeared first on Outside Onl",
+      "date": "2026-07-31T17:50:49Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/Electra-Townie-Go.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-31T18:24:09Z"
+    },
+    {
+      "title": "This Electric Kayak Comes With Pedal Assist and Cruise Control. But Does It Beat a Regular Old Kayak?",
+      "link": "https://www.outsideonline.com/outdoor-gear/water-sports-gear/malibu-electric-kayak-review/",
+      "summary": "I paddled down the Chicago River to see if this $5,500 e-kayak is worth the splurge. Here’s my take, along with several cheaper alternatives. The post This Electric Kayak Comes Wit",
+      "date": "2026-07-31T17:33:20Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/IMG_9251_h.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-31T18:24:09Z"
+    },
+    {
+      "title": "A Hiker Was Impaled by His Trekking Pole. This Is a Mile-by-Mile Account of His Hike to Help.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/hiker-impaled-trekking-pole-granite-peak/",
+      "summary": "Facing a costly helicopter rescue, David Cifaldi spent hours navigating ten miles of rough backcountry terrain with a steel-tipped pole lodged in his torso. The post A Hiker Was Im",
+      "date": "2026-07-31T16:59:23Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/trekking-pole-hero.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-31T18:24:09Z"
+    },
+    {
+      "title": "The Iconic Watts Towers in Los Angeles Will Get a $22 Million Campus Expansion Ahead of the 2028 Summer Olympics",
+      "link": "https://www.smithsonianmag.com/smart-news/the-iconic-watts-towers-in-los-angeles-will-get-a-22-million-campus-expansion-ahead-of-the-2028-summer-olympics-180989240/",
+      "summary": "Five acres of green space will surround the 17-structure landmark, a folk art masterpiece that an Italian immigrant built over the course of three decades",
+      "date": "2026-07-31T18:05:19Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/iOtjZ5okcKT4yXONYh4TBIcBKFU=/420x240/filters:focal(1632x1228:1633x1229)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/58/60/5860f436-518c-44e8-8e30-4abdbdcd895d/watts_towers_arts_center.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-07-31T18:24:10Z"
+    },
+    {
+      "title": "Archaeologists Discover Two Thumbnail-Sized Bird Sculptures Carved From Mammoth Ivory 40,000 Years Ago",
+      "link": "https://www.smithsonianmag.com/smart-news/archaeologists-discover-two-thumbnail-sized-bird-sculptures-carved-from-mammoth-ivory-40000-years-ago-180989239/",
+      "summary": "Measuring less than an inch long, the figurines were buried beneath Germany's Hohle Fels Cave, where some of the world's oldest known figurative artworks have been found",
+      "date": "2026-07-31T18:01:04Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/fLh5b6gLljqPA_lKNFKIA0QhxUY=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/07/9b/079ba559-4697-4610-91c2-fe0ba5d9aa2e/birds.jpg",
+      "name": "Smithsonian",
+      "category": "butterflies",
+      "color": 10,
+      "fetched_at": "2026-07-31T18:24:10Z"
+    },
+    {
+      "title": "Ice Age Humans Mostly Killed Female Woolly Mammoths, Suggests Ancient DNA",
+      "link": "https://www.smithsonianmag.com/smart-news/ice-age-humans-mostly-killed-female-woolly-mammoths-suggests-ancient-dna-180989241/",
+      "summary": "After analyzing more than 500 mammoth bones, researchers found that ancient humans disproportionately hunted female mammoths for reasons still unknown",
+      "date": "2026-07-31T17:41:16Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/IhAV07_9LPY_QrKzjMCkp4_OGdY=/420x240/filters:focal(2016x1171:2017x1172)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0c/47/0c47a6d0-7d89-4b9a-8466-7cbd9162cb43/2_img_4244_webb.jpg",
+      "name": "Smithsonian",
+      "category": "butterflies",
+      "color": 10,
+      "fetched_at": "2026-07-31T18:24:10Z"
+    },
+    {
+      "title": "To detect CTE while alive, a test for another brain disease may help",
+      "link": "https://www.sciencenews.org/article/alzheimers-protein-test-brain-cte",
+      "summary": "A protein that is a hallmark of Alzheimer’s disease may also ID a brain condition associated with head trauma in contact sports, early findings suggest.",
+      "date": "2026-07-31T17:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/072826_RJM_CTEtest_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-07-31T18:24:11Z"
+    },
+    {
+      "title": "How Europe can make its landscapes more fire-resilient",
+      "link": "https://www.newscientist.com/article/2582716-how-europe-can-make-its-landscapes-more-fire-resilient/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Paradoxically, suppressing wildfires has also made European countries more vulnerable to huge blazes like those seen in France and Spain this week. With global warming also amplify",
+      "date": "2026-07-31T16:19:40Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_307004486.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-07-31T18:24:12Z"
+    },
+    {
+      "title": "Agricultural waste could fuel protein-rich black soldier fly larvae for human foods",
+      "link": "https://phys.org/news/2026-07-agricultural-fuel-protein-rich-black.html",
+      "summary": "They're wriggly black grubs more commonly tossed to backyard hens than served at the dinner table, but black soldier fly larvae could soon play a key role in building a more sustai",
+      "date": "2026-07-31T16:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/waste-not-want-not-far-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-31T18:24:14Z"
+    },
+    {
+      "title": "'We are not giving up yet': Private mission to rescue NASA's Swift telescope is spinning out of control, and engineers are racing to fix it",
+      "link": "https://www.livescience.com/space/space-exploration/we-are-not-giving-up-yet-private-mission-to-rescue-nasas-swift-telescope-is-spinning-out-of-control-and-engineers-are-racing-to-fix-it",
+      "summary": "Katalyst Space's LINK spacecraft is recovering from an unexpected spin in orbit, and will need a little more time to rescue NASA's falling Swift observatory.",
+      "date": "2026-07-31T16:13:50Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/X4Cbh5P25cBdrnXHZuC6VK-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-07-31T18:24:15Z"
+    },
     {
       "title": "Birding highs in High Summer",
       "link": "https://www.10000birds.com/birding-highs-in-high-summer.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-highs-in-high-summer",
@@ -5370,138 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-24T15:39:31Z"
-    },
-    {
-      "title": "'Jimothy' the raccoon has short spine syndrome—but this condition can affect dogs, too",
-      "link": "https://phys.org/news/2026-07-jimothy-raccoon-short-spine-syndrome.html",
-      "summary": "If you've been anywhere near the internet in recent days, you will likely have seen the viral footage of \"Jimothy\": an unusually round raccoon in Seattle that hops and skips along ",
-      "date": "2026-07-24T14:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/jimothy-the-raccoon-ha.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-07-24T15:39:31Z"
-    },
-    {
-      "title": "'Much more violent than predicted': A chunk of the universe's missing matter was powerfully hurled out of galaxies",
-      "link": "https://www.livescience.com/space/astronomy/much-more-violent-than-predicted-a-chunk-of-the-universes-missing-matter-was-powerfully-hurled-out-of-galaxies",
-      "summary": "The total amount of ordinary matter in our universe adds up to roughly one-tenth of what's expected. Now, scientists think they may have found some of it between galaxies.",
-      "date": "2026-07-24T15:36:22Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/FBp8A668Zub3zw9sP2sMj8-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-24T15:39:33Z"
-    },
-    {
-      "title": "AI web browsers 'aren't ready for the public,' scientists warn as they highlight massive security red flags",
-      "link": "https://www.livescience.com/technology/computing/ai-web-browsers-arent-ready-for-the-public-scientists-warn-as-they-highlight-massive-security-red-flags",
-      "summary": "By enhancing the functionality of agentic browsers, they have become insecure and could be sharing personal information.",
-      "date": "2026-07-24T15:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/F3r8sGbvewuqcfVn4L9b7U-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-24T15:39:33Z"
-    },
-    {
-      "title": "Why Are These Whales Floating Upside-Down? They Might Just Be Moms Who Need a Break From Feeding Their Babies",
-      "link": "https://www.smithsonianmag.com/smart-news/why-are-these-whales-floating-upside-down-they-might-just-be-moms-who-need-a-break-from-feeding-their-babies-180989184/",
-      "summary": "Each year, southern right whales migrate thousands of miles from their feeding grounds to breed, give birth and raise their young. Taking rests and regulating their calves' nursing",
-      "date": "2026-07-24T13:39:39Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/kvPiX4o0MVxn_gQkgaJ_iE9Lwxg=/420x240/filters:focal(800x411:801x412)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/63/7f/637f114f-ffdf-48dc-b200-f219c89f63bc/upside-down-whale.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-24T14:00:13Z"
-    },
-    {
-      "title": "These Photos of Nashville Will Have You Packing Your Bags for Music City, USA",
-      "link": "https://www.smithsonianmag.com/travel/these-photos-of-nashville-will-have-you-packing-your-bags-for-music-city-usa-180989180/",
-      "summary": "These 15 images from the archives of the Smithsonian Magazine Photo Contest give us a glimpse of life in Tennessee’s capital city",
-      "date": "2026-07-24T12:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/P1kGcCb7jEw0WC7hLnPOtvHiisk=/420x240/filters:focal(1000x686:1001x687)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5f/e0/5fe09fa3-e328-4b40-a064-7acf1443d26a/72c0100e-66f7-4c1f-8ca0-3453475fbe66.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-24T14:00:13Z"
-    },
-    {
-      "title": "What kinds of black holes exist — and how are they different?",
-      "link": "https://www.sciencenews.org/article/video-black-hole-types",
-      "summary": "Scientists have identified four types of black holes, classified mostly by their masses. But these mysterious objects continue to challenge our understanding of the universe.",
-      "date": "2026-07-24T13:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/072126_LG_black-holes_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-24T14:00:14Z"
-    },
-    {
-      "title": "Having a young biological age could help with weight loss",
-      "link": "https://www.newscientist.com/article/2581243-having-a-young-biological-age-could-help-with-weight-loss/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "In a small study, restricting calories led to greater weight loss among people with a biological age younger than their chronological age",
-      "date": "2026-07-24T12:57:26Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306239118.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-24T14:00:15Z"
-    },
-    {
-      "title": "Plumage reflectance framework offers new insight into how birds evolved heat-controlling feathers",
-      "link": "https://phys.org/news/2026-07-plumage-framework-insight-birds-evolved.html",
-      "summary": "Birds can inhabit various environments with different climates and temperatures, ranging from cold polar regions to scorching hot deserts. To survive and thrive in these very diffe",
-      "date": "2026-07-24T13:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bird-in-the-sun.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-24T14:00:17Z"
-    },
-    {
-      "title": "Differences in human and great ape laughter reveal clues to the origin of speech",
-      "link": "https://phys.org/news/2026-07-differences-human-great-ape-laughter.html",
-      "summary": "Humans are not the only animals that communicate. Birds sing to attract mates, dolphins use signature whistles that identify individuals, and many primates produce complex vocaliza",
-      "date": "2026-07-24T13:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chimp-laughing.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-24T14:00:17Z"
-    },
-    {
-      "title": "Vegan dog and cat food generally well digested",
-      "link": "https://phys.org/news/2026-07-vegan-dog-cat-food-generally.html",
-      "summary": "A new scientific review has found that nutritionally sound vegan dog food, vegan cat food and vegetarian pet diets are generally well digested and broadly comparable to conventiona",
-      "date": "2026-07-24T12:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dog-eating-veggie.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-24T14:00:17Z"
-    },
-    {
-      "title": "Northern slopes of Sierra de Bahoruco National Park, Dominican Republic – Profile for Birders",
-      "link": "https://www.10000birds.com/northern-slopes-of-sierra-de-bahoruco-national-park-dominican-republic-profile-for-birders.htm?utm_source=rss&utm_medium=rss&utm_campaign=northern-slopes-of-sierra-de-bahoruco-national-park-dominican-republic-profile-for-birders",
-      "summary": "Highlights The Sierra de Bahoruco is Hispaniola’s premier birding area. Accessing these north-slope sites will bring you into a variety of habitats, including dry forest, semi-deci",
-      "date": "2026-07-24T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/unnamed-8.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-07-24T11:46:59Z"
-    },
-    {
-      "title": "Species Spotlight: Pileated Woodpecker",
-      "link": "https://www.10000birds.com/species-spotlight-pileated-woodpecker.htm?utm_source=rss&utm_medium=rss&utm_campaign=species-spotlight-pileated-woodpecker",
-      "summary": "The Pileated Woodpecker is what one might call “charismatic”, which, fortunately, unlike when used for politicians, does not mean it is popular despite constantly lying to the publ",
-      "date": "2026-07-24T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/Pileated-Woodpecker_DSC8623_Bath-Maine-mid-Jun-2026.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-07-24T11:46:59Z"
     }
   ]
 }
