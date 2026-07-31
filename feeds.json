@@ -1,8 +1,74 @@
 {
-  "updated": "2026-07-30T22:13:27Z",
-  "updated_utc": "2026-07-30T22:13:27Z",
+  "updated": "2026-07-31T00:09:51Z",
+  "updated_utc": "2026-07-31T00:09:51Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Feds Just Opened Public Lands to AI Data Centers—Starting Near Lake Mead",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/blm-ai-data-center-lake-mead/",
+      "summary": "The BLM approved an 86-acre AI data center near Lake Mead, triggering fears over water depletion and public land privatization. The post The Feds Just Opened Public Lands to AI Dat",
+      "date": "Thu, 30 Jul 2026 22Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/GettyImages-1134220019.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-07-31T00:09:41Z"
+    },
+    {
+      "title": "Bacteria build a mineral shield that could help marine infrastructure resist rust",
+      "link": "https://phys.org/news/2026-07-bacteria-mineral-shield-marine-infrastructure.html",
+      "summary": "Researchers at Reichman University have developed a biological method for protecting marine infrastructure from corrosion caused by prolonged exposure to seawater. The study, publi",
+      "date": "2026-07-30T23:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-bi-3.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-31T00:09:47Z"
+    },
+    {
+      "title": "Natural emulsion manages to stop fungus that threatens up to 80% of cocoa production",
+      "link": "https://phys.org/news/2026-07-natural-emulsion-fungus-threatens-cocoa.html",
+      "summary": "An innovative formulation based on natural compounds could become a sustainable alternative for controlling moniliasis, one of the most devastating diseases affecting cocoa in Lati",
+      "date": "2026-07-30T22:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-natural-emulsion-m.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-31T00:09:47Z"
+    },
+    {
+      "title": "Female birds have shorter lifespans than male birds across 35 North American species, researchers find",
+      "link": "https://phys.org/news/2026-07-female-birds-shorter-lifespans-male.html",
+      "summary": "Birds have a lot to do in their short lives: defend territories, build nests, raise chicks and feed themselves. But the toll of these activities may be greater for female birds tha",
+      "date": "2026-07-30T22:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/female-birds-have-shor.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-31T00:09:47Z"
+    },
+    {
+      "title": "How an embryo draws the line between body and germline",
+      "link": "https://phys.org/news/2026-07-embryo-line-body-germline.html",
+      "summary": "Every embryo of an organism that reproduces sexually faces an early and consequential decision: which of its cell lineages will make up the mortal body, and which will become the g",
+      "date": "2026-07-30T22:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-an-embryo-draws-th.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-31T00:09:47Z"
+    },
+    {
+      "title": "Bacteria may identify a virus without recognizing its DNA",
+      "link": "https://phys.org/news/2026-07-bacteria-virus-dna.html",
+      "summary": "When a virus enters a cell, its top priority is to replicate its genome rapidly, creating new viruses to infect elsewhere. The host has the opposite priority: to destroy the virus,",
+      "date": "2026-07-30T22:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bacteria-may-identify.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-07-31T00:09:47Z"
+    },
     {
       "title": "Nirmal “Nims” Purja Missing After an Avalanche in Pakistan",
       "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/nirmal-nims-purja-missing-after-avalanche-in-pakistan/",
@@ -5436,72 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-07-23T19:36:15Z"
-    },
-    {
-      "title": "This El Niño will be the hottest by a huge margin",
-      "link": "https://www.newscientist.com/article/2581151-this-el-nino-will-be-the-hottest-by-a-huge-margin/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "The super El Niño now developing in the tropical Pacific has a 90 per cent chance of becoming the strongest in 150 years, breaking global temperature records and unleashing extreme",
-      "date": "Thu, 23 Jul 2026 18Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306139086.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-23T19:36:17Z"
-    },
-    {
-      "title": "Zebrafish rebuild damaged 'second brain' networks in nine days, offering clues for nerve repair",
-      "link": "https://phys.org/news/2026-07-zebrafish-rebuild-brain-networks-days.html",
-      "summary": "Why can zebrafish regenerate damaged gut nerves while humans largely cannot? Michigan State University researchers have developed a new research tool that allows them to remove gut",
-      "date": "2026-07-23T19:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-create-new-3.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-23T19:36:19Z"
-    },
-    {
-      "title": "Yeast survives after all 300 known spliceosomal introns are removed",
-      "link": "https://phys.org/news/2026-07-yeast-survives-spliceosomal-introns.html",
-      "summary": "Spliceosomal introns are noncoding DNA sequences located between exons in many eukaryotic protein-coding genes. Most are removed post-transcriptionally by RNA splicing and do not e",
-      "date": "2026-07-23T19:20:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-construct.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-23T19:36:19Z"
-    },
-    {
-      "title": "Trace DNA reveals critically endangered Chinese bahaba in Hong Kong after decade without records",
-      "link": "https://phys.org/news/2026-07-dna-reveals-critically-endangered-chinese.html",
-      "summary": "The Chinese bahaba (Bahaba taipingensis), a marine fish species endemic to the Chinese coast and known as the \"Panda of the Sea,\" is critically endangered and one of the few marine",
-      "date": "2026-07-23T19:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lingnan-university-fin.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-23T19:36:19Z"
-    },
-    {
-      "title": "Human impacts rewrite the rules of island biodiversity around the globe",
-      "link": "https://phys.org/news/2026-07-human-impacts-rewrite-island-biodiversity.html",
-      "summary": "A new study reveals that human activities have fundamentally reshaped biodiversity patterns on islands across the globe, with important implications for how scientists understand e",
-      "date": "2026-07-23T18:00:13Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/human-impacts-rewrite.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-23T19:36:19Z"
-    },
-    {
-      "title": "How insect submariners survive the depths without imploding",
-      "link": "https://phys.org/news/2026-07-insect-submariners-survive-depths-imploding.html",
-      "summary": "Deep-diving insect larvae are challenging a long-held idea about why there are almost no insects in the ocean, thanks to sturdy air sacs. In Lake Malawi in East Africa, billions of",
-      "date": "2026-07-23T18:00:11Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/insect-submariners-sur.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-23T19:36:19Z"
     }
   ]
 }
