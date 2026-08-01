@@ -1,8 +1,30 @@
 {
-  "updated": "2026-07-31T22:10:59Z",
-  "updated_utc": "2026-07-31T22:10:59Z",
+  "updated": "2026-08-01T00:06:14Z",
+  "updated_utc": "2026-08-01T00:06:14Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Yellowstone Is Among the World's Best Places to See Wild Wolves. Here's the Story of the Animal Called Both 'Public Enemy' and Cultural Icon",
+      "link": "https://www.smithsonianmag.com/science-nature/yellowstone-is-among-the-worlds-best-places-to-see-wild-wolves-heres-the-story-of-the-animal-simultaneously-dubbed-public-enemy-and-cultural-icon-180989194/",
+      "summary": "A century ago, resident wolves were eliminated from the park. In 1995, biologists brought them back, marking a historic reintroduction of a top carnivore",
+      "date": "2026-07-31T22:33:21Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/lD1DZjbcjLftY-U4aVFpOl7wrBQ=/420x240/filters:focal(1421x1306:1422x1307)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b2/b4/b2b4bc3f-eb65-4aef-b58e-3f6e9ecb4258/16700079786_2a6be19034_o.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-01T00:06:06Z"
+    },
+    {
+      "title": "Fish pathogens once limited to Asia and US emerge in Brazilian farms",
+      "link": "https://phys.org/news/2026-07-fish-pathogens-limited-asia-emerge.html",
+      "summary": "For the first time in Brazil, scientists have identified the presence of bacteria that cause columnaris disease, a serious disease in farmed fish intended for human consumption. Pr",
+      "date": "2026-07-31T22:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-detects-for-the.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-01T00:06:10Z"
+    },
     {
       "title": "The Northern Lights Could Be Visible Across Parts of the U.S. This Weekend",
       "link": "https://www.outsideonline.com/adventure-travel/news-analysis/northern-lights-forecast-tonight/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-07-24T17:44:20Z"
-    },
-    {
-      "title": "A Brief History of Hold Music, From Early Patents to the Soundtrack of Customer-Service Purgatory",
-      "link": "https://www.smithsonianmag.com/innovation/a-brief-history-of-hold-music-from-early-patents-to-the-soundtrack-of-customer-service-purgatory-180989185/",
-      "summary": "Sixty years ago, Alfred A. Levy patented his “telephone hold program system.” Little did he know a teenager’s unearthed New Age practice tape would become its enduring anthem",
-      "date": "2026-07-24T16:00:08Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/OihSm_c-X8mnO-a7neY5pnHD_gQ=/420x240/filters:focal(1040x723:1041x724)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e8/ff/e8ff034e-57b6-415a-add7-01e4dc96dc46/gettyimages-116782098.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-24T17:44:20Z"
-    },
-    {
-      "title": "What’s to blame for Canada’s wildfires?",
-      "link": "https://www.sciencenews.org/article/what-blame-canada-wildfires-toxic-smoke",
-      "summary": "The inferno that sent toxic smoke billowing toward the United States won't be the last. Officials are now battling both the wildfires and misinformation.",
-      "date": "2026-07-24T17:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/072326_CG_wildfire_social.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-24T17:44:22Z"
     }
   ]
 }
