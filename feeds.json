@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-01T04:25:27Z",
-  "updated_utc": "2026-08-01T04:25:27Z",
+  "updated": "2026-08-01T07:32:01Z",
+  "updated_utc": "2026-08-01T07:32:01Z",
   "count": 500,
   "stories": [
+    {
+      "title": "First Australian mass mortality event suspected as deadly bird flu virus rapidly escalates among native birds",
+      "link": "https://www.theguardian.com/world/2026/aug/01/first-australian-mass-mortality-event-suspected-as-deadly-bird-flu-virus-rapidly-escalates-among-native-birds",
+      "summary": "Helicopter surveillance finds dead and dying greater crested terns off South Australian coast as H5 virus spreads Get our breaking news email , free app or daily news podcast More ",
+      "date": "2026-08-01T06:12:27Z",
+      "image": "https://i.guim.co.uk/img/media/a3b388541a676657ddd7abfd461db42d1a846b5b/0_0_4265_3412/master/4265.jpg?width=140&quality=85&auto=format&fit=max&s=375224f2c23eedc1c9880238a5723fb4",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-01T07:31:44Z"
+    },
     {
       "title": "Our Profile Series",
       "link": "https://www.10000birds.com/our-profile-series.htm?utm_source=rss&utm_medium=rss&utm_campaign=our-profile-series",
@@ -5491,17 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-07-24T17:44:08Z"
-    },
-    {
-      "title": "The Guardian view on ponds: these freshwater havens need a law of their own | Editorial",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/24/the-guardian-view-on-ponds-these-freshwater-havens-need-a-law-of-their-own",
-      "summary": "Small pools don’t get the same attention as polluted rivers or seas. But they have a vital role to play in boosting nature Frogs; newts; small fish such as minnows and sticklebacks",
-      "date": "2026-07-24T16:48:12Z",
-      "image": "https://i.guim.co.uk/img/media/3d85f165b5d2d26bf468251a6e4284a03e6b9995/0_0_4859_3888/master/4859.jpg?width=140&quality=85&auto=format&fit=max&s=3f5282e9fe04f54f4f7beefa090e678d",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-24T17:44:12Z"
     }
   ]
 }
