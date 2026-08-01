@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-01T20:12:27Z",
-  "updated_utc": "2026-08-01T20:12:27Z",
+  "updated": "2026-08-01T22:02:30Z",
+  "updated_utc": "2026-08-01T22:02:30Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How molecular tethers and asynchronous replication drive parasite proliferation",
+      "link": "https://phys.org/news/2026-07-molecular-tethers-asynchronous-replication-parasite.html",
+      "summary": "Malaria parasites proliferate in an unusual way. Rather than dividing into two daughter cells like human cells, they first amplify their genetic material tenfold, hundredfold or ev",
+      "date": "2026-08-01T21:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-molecular-tethers.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-01T22:02:26Z"
+    },
     {
       "title": "AI opens new era in cognitive studies of wild primates",
       "link": "https://phys.org/news/2026-07-ai-era-cognitive-wild-primates.html",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-07-24T23:08:37Z"
-    },
-    {
-      "title": "Three Millennia Ago, Humans May Have Spoken Thousands More Languages Than We Have Today, During a Linguistic 'Golden Age'",
-      "link": "https://www.smithsonianmag.com/smart-news/three-millennia-ago-humans-may-have-spoken-thousands-more-languages-than-we-have-today-during-a-linguistic-golden-age-180989197/",
-      "summary": "A new study suggests linguistic diversity reached its peak between 1000 B.C.E. and 1000 C.E. before declining",
-      "date": "2026-07-24T21:42:54Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/7Z-ggEfOIWVrfA7mOasdaTuIJeE=/420x240/filters:focal(600x317:601x318)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3d/ed/3dedf986-0087-44f0-9c5a-d7bc444bedec/map.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-24T23:08:41Z"
     }
   ]
 }
