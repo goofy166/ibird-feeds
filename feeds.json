@@ -1,8 +1,52 @@
 {
-  "updated": "2026-08-01T12:05:53Z",
-  "updated_utc": "2026-08-01T12:05:53Z",
+  "updated": "2026-08-01T14:37:50Z",
+  "updated_utc": "2026-08-01T14:37:50Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Big Bear bald eagles’ habitat saved; $10 million goal to buy land has been met",
+      "link": "https://www.mercurynews.com/2026/07/24/habitat-of-big-bears-famed-eagles-to-be-saved-after-fundraiser-achieves-10-million-goal-to-buy-land/",
+      "summary": "Friends of Big Bear Valley announced the news on its website and social media pages Friday morning.",
+      "date": "2026-07-24T17:47:56Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/SBS-L-MOONCAMP-0724-01-PB-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-08-01T14:37:38Z"
+    },
+    {
+      "title": "Researchers investigate case of soft-tick borne relapsing fever in Austin area",
+      "link": "https://phys.org/news/2026-08-case-soft-borne-relapsing-fever.html",
+      "summary": "Researchers at Baylor College of Medicine and the Texas Department of State Health Services have reported a likely case of soft tick-borne relapsing fever (STRF) in an Austin-area ",
+      "date": "2026-08-01T13:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/austin-texas.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-01T14:37:47Z"
+    },
+    {
+      "title": "New immune-blocking strategy improves interspecies organ generation",
+      "link": "https://phys.org/news/2026-07-immune-blocking-strategy-interspecies-generation.html",
+      "summary": "Xenophagocytosis is a natural immune process that limits interspecies organ generation by eliminating living donor cells, researchers at the Institute of Science Tokyo, Japan, repo",
+      "date": "2026-08-01T12:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/blocking-xenophagocyto.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-01T14:37:47Z"
+    },
+    {
+      "title": "Could we prevent dementia? A new trial may point the way.",
+      "link": "https://www.livescience.com/health/alzheimers-dementia/could-we-prevent-dementia-a-new-trial-may-point-the-way",
+      "summary": "While much funding for dementia research goes toward treatments, some scientists want to reduce people's risk of developing the condition in the first place.",
+      "date": "2026-08-01T13:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/hubSAzwABcWChe2X5oDJR7-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-01T14:37:48Z"
+    },
     {
       "title": "The Mythical Snowcap",
       "link": "https://www.10000birds.com/the-mythical-snowcap.htm?utm_source=rss&utm_medium=rss&utm_campaign=the-mythical-snowcap",
@@ -5458,50 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-07-24T21:12:26Z"
-    },
-    {
-      "title": "It's Nature Vs. Culture as Europeans Vote on New Designs for Euro Banknotes That Pit Kingfishers Against Leonardo da Vinci",
-      "link": "https://www.smithsonianmag.com/smart-news/its-nature-versus-culture-as-europeans-vote-on-new-designs-for-euro-banknotes-that-pit-kingfishers-against-leonardo-da-vinci-180989193/",
-      "summary": "The European Central Bank released a shortlist of ten potential designs for a new series of printed banknotes, the first complete redesign since the Euro note was issued in 2002.",
-      "date": "2026-07-24T20:41:16Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/eCT9U_w3pj_-C4vQpa-xaiJGAzA=/420x240/filters:focal(1070x714:1071x715)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4a/62/4a625159-a9c3-4390-8e62-5afc2285cb64/screenshot_2026-07-24_at_11455pm.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-24T21:12:30Z"
-    },
-    {
-      "title": "This Robot Can Flap Its Wings to Both Fly and Swim. It Might One Day Help Scientists Study Diving Birds and Survey Ocean Habitats",
-      "link": "https://www.smithsonianmag.com/smart-news/this-robot-can-flap-its-wings-to-both-fly-and-swim-it-might-one-day-help-scientists-study-diving-birds-and-survey-ocean-habitats-180989172/",
-      "summary": "The bioinspired device, which weighs roughly half a pound and measures around three feet wide, was also modeled after aquatic birds like puffins, gulls and loons",
-      "date": "2026-07-24T20:28:24Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/pWj_jnGVjp-a9hi1lvP9OW9GtrM=/420x240/filters:focal(450x300:451x301)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/19/9b/199ba538-8871-4dae-9a16-b29452ee99fb/mit-flapping-robot-01-press_0.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-24T21:12:30Z"
-    },
-    {
-      "title": "1,200-year-old infant burial found near famous Temple of Artemis in Turkey contains twins — one with an unusual extra rib",
-      "link": "https://www.livescience.com/archaeology/1-200-year-old-infant-burial-found-near-famous-temple-of-artemis-in-turkey-contains-twins-one-with-an-unusual-extra-rib",
-      "summary": "The two infants buried in the same Byzantine-era grave may have been twins who died around the time of birth.",
-      "date": "2026-07-24T20:13:03Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/we7puoHgQkMBGnGWSSM3qe-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-24T21:12:35Z"
-    },
-    {
-      "title": "Cyclospora parasite outbreak linked to lettuce expands to 9 states, with over 1,900 people sickened",
-      "link": "https://www.livescience.com/health/viruses-infections-disease/cyclospora-parasite-outbreak-linked-to-lettuce-expands-to-9-states-with-over-1-900-people-sickened",
-      "summary": "Additional states have been added to the list of locations impacted by an outbreak of foodborne illness tied to iceberg lettuce.",
-      "date": "2026-07-24T19:53:31Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/WUUHzh99F2QdsiCmuzKujW-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-24T21:12:35Z"
     }
   ]
 }
