@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-01T07:32:01Z",
-  "updated_utc": "2026-08-01T07:32:01Z",
+  "updated": "2026-08-01T10:05:33Z",
+  "updated_utc": "2026-08-01T10:05:33Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Opinion: America’s wildlife refuges may no longer protect the animals",
+      "link": "https://www.mercurynews.com/2026/08/01/commentary-americas-wildlife-refuges-may-no-longer-protect-the-animals-2/",
+      "summary": "A proposed government expansion threatens to transform protected sanctuaries into arenas for blood sport.",
+      "date": "2026-08-01T09:45:19Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/202607260415MCT_____PHOTO____OPED-ENV-WILDLIFE-REFUGES-COMMENTARY-FILEPIC-LA_6845c3.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-08-01T10:05:21Z"
+    },
+    {
+      "title": "The best new science-fiction novels of August 2026",
+      "link": "https://www.newscientist.com/article/2582625-the-best-new-science-fiction-novels-of-august-2026/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Fascist empires and deadly sea monsters are on offer in the science fiction out this month, says Alison Flood",
+      "date": "2026-08-01T09:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI306906385.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-01T10:05:27Z"
+    },
+    {
+      "title": "Why do cats have 'leg whiskers'?",
+      "link": "https://www.livescience.com/animals/cats/why-do-cats-have-leg-whiskers",
+      "summary": "Here's why 'leg whiskers' are useful to cats and other animals.",
+      "date": "2026-08-01T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/YnRaRZmxEBba8w6CMVWLy-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-01T10:05:31Z"
+    },
     {
       "title": "First Australian mass mortality event suspected as deadly bird flu virus rapidly escalates among native birds",
       "link": "https://www.theguardian.com/world/2026/aug/01/first-australian-mass-mortality-event-suspected-as-deadly-bird-flu-virus-rapidly-escalates-among-native-birds",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-24T19:40:17Z"
-    },
-    {
-      "title": "Hydrogel electrode improves stability of insect-based odor sensors for drones",
-      "link": "https://phys.org/news/2026-07-hydrogel-electrode-stability-insect-based.html",
-      "summary": "Drones are increasingly being used for disaster response, infrastructure inspection and environmental monitoring. However, most drone systems rely primarily on cameras and other vi",
-      "date": "2026-07-24T18:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/water-retaining-hydrog.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-24T19:40:17Z"
-    },
-    {
-      "title": "6-year-old in China dies after experimental treatment, investigation finds, raising questions about the country's gene therapy regulations",
-      "link": "https://www.livescience.com/health/genetics/6-year-old-in-china-dies-after-experimental-treatment-investigation-finds-raising-questions-about-the-countrys-gene-therapy-regulations",
-      "summary": "A young girl in China died after being given an experimental gene therapy intended to treat a neurodevelopmental syndrome, an investigation by Science and Retraction Watch revealed",
-      "date": "2026-07-24T18:02:20Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/KiVkhCRK3qChHZWthR4pUM-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-24T19:40:19Z"
-    },
-    {
-      "title": "A tale of a twitch",
-      "link": "https://www.10000birds.com/a-tale-of-a-twitch.htm?utm_source=rss&utm_medium=rss&utm_campaign=a-tale-of-a-twitch",
-      "summary": "As twitches go, it was simple stuff",
-      "date": "2026-07-24T15:59:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/P7202427-scaled.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-07-24T17:44:08Z"
     }
   ]
 }
