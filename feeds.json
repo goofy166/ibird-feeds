@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-01T00:06:14Z",
-  "updated_utc": "2026-08-01T00:06:14Z",
+  "updated": "2026-08-01T04:25:27Z",
+  "updated_utc": "2026-08-01T04:25:27Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Our Profile Series",
+      "link": "https://www.10000birds.com/our-profile-series.htm?utm_source=rss&utm_medium=rss&utm_campaign=our-profile-series",
+      "summary": "On 10,000 Birds, we have three distinct series of profiles: Bird Guides Birding Lodges Birding Locations The table below shows how many profiles have been published in each series ",
+      "date": "2026-08-01T02:26:14Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/Screenshot-2026-08-01-100124.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-08-01T04:25:06Z"
+    },
     {
       "title": "Yellowstone Is Among the World's Best Places to See Wild Wolves. Here's the Story of the Animal Called Both 'Public Enemy' and Cultural Icon",
       "link": "https://www.smithsonianmag.com/science-nature/yellowstone-is-among-the-worlds-best-places-to-see-wild-wolves-heres-the-story-of-the-animal-simultaneously-dubbed-public-enemy-and-cultural-icon-180989194/",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-07-24T17:44:12Z"
-    },
-    {
-      "title": "Is This Giant Celestial Body a Moon, a Planet or Something in Between? The Strange Object Calls Astronomical Labels Into Question",
-      "link": "https://www.smithsonianmag.com/smart-news/is-this-giant-celestial-body-a-moon-a-planet-or-something-in-between-the-strange-object-calls-astrononomical-labels-into-question-180989183/",
-      "summary": "The newly found object, estimated to be roughly as massive as Jupiter, orbits a brown dwarf—a \"failed star\"—which in turn circles a small star. For now, researchers are calling the",
-      "date": "2026-07-24T17:14:09Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/FA7PTNThjRSEawLilz8f94QLMZQ=/420x240/filters:focal(640x384:641x385)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fa/9b/fa9b4b1c-b645-4c49-89ff-2292e66f4e6d/eso2610a.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-24T17:44:20Z"
     }
   ]
 }
