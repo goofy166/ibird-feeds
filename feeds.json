@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-01T16:06:40Z",
-  "updated_utc": "2026-08-01T16:06:40Z",
+  "updated": "2026-08-01T18:03:56Z",
+  "updated_utc": "2026-08-01T18:03:56Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Back-to-back humpback whale strandings reported on Northern California beaches",
+      "link": "https://www.mercurynews.com/2026/07/16/back-to-back-humpback-whale-strandings-reported-on-humboldt-county-beaches/",
+      "summary": "Two humpback whales that washed ashore on Humboldt County beaches within the past week were too decomposed for investigators to determine how they died",
+      "date": "Thu, 16 Jul 2026 16Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/California_Whale_Dies_66896.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-08-01T18:03:45Z"
+    },
     {
       "title": "Insights into bee biology could ease US rules for organic honey",
       "link": "https://phys.org/news/2026-07-insights-bee-biology-ease-honey.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-07-24T23:08:43Z"
-    },
-    {
-      "title": "Wound odors may unlock better traps for flesh-eating New World screwworm",
-      "link": "https://phys.org/news/2026-07-wound-odors-flesh-world-screwworm.html",
-      "summary": "Jessica Metcalf's work stinks. Literally. But the Colorado State University professor's research may be key to protecting livestock and wildlife from a flesh-eating parasite.",
-      "date": "2026-07-24T22:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-on-foul-odors-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-24T23:08:45Z"
     }
   ]
 }
