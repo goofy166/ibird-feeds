@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-01T18:03:56Z",
-  "updated_utc": "2026-08-01T18:03:56Z",
+  "updated": "2026-08-01T20:12:27Z",
+  "updated_utc": "2026-08-01T20:12:27Z",
   "count": 500,
   "stories": [
+    {
+      "title": "AI opens new era in cognitive studies of wild primates",
+      "link": "https://phys.org/news/2026-07-ai-era-cognitive-wild-primates.html",
+      "summary": "Scientists created an AI system that uses facial recognition and real-time touchscreen testing to automate cognitive studies of capuchin monkeys in the wild. The American Journal o",
+      "date": "2026-08-01T20:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-opens-new-era-in-co.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-01T20:12:24Z"
+    },
     {
       "title": "Back-to-back humpback whale strandings reported on Northern California beaches",
       "link": "https://www.mercurynews.com/2026/07/16/back-to-back-humpback-whale-strandings-reported-on-humboldt-county-beaches/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-07-24T23:08:41Z"
-    },
-    {
-      "title": "One of NASA’s crucial links to deep space is at risk of burning down",
-      "link": "https://www.newscientist.com/article/2581311-one-of-nasas-crucial-links-to-deep-space-is-at-risk-of-burning-down/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "The Deep Space Network is our best way to communicate with spacecraft beyond Earth’s orbit, and one of its three stations around the world is in the middle of a wildfire",
-      "date": "2026-07-24T21:30:01Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/Canberra-DSN.webp",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-24T23:08:43Z"
     }
   ]
 }
