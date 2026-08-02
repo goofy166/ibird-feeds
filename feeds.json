@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-01T22:02:30Z",
-  "updated_utc": "2026-08-01T22:02:30Z",
+  "updated": "2026-08-02T00:03:05Z",
+  "updated_utc": "2026-08-02T00:03:05Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How new informatics tools help turn biodiversity data into policy insights",
+      "link": "https://phys.org/news/2026-07-informatics-tools-biodiversity-policy-insights.html",
+      "summary": "Biodiversity loss has been among the central topics in public, policy and scientific debate for several decades. While its accelerating pace and impacts are well recognized, transl",
+      "date": "2026-08-01T23:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-new-informatics-to.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-02T00:03:01Z"
+    },
     {
       "title": "How molecular tethers and asynchronous replication drive parasite proliferation",
       "link": "https://phys.org/news/2026-07-molecular-tethers-asynchronous-replication-parasite.html",
@@ -5491,17 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-07-24T23:08:29Z"
-    },
-    {
-      "title": "San Diego Safari Park gorilla undergoes landmark surgery for bone infection with help from UCSD",
-      "link": "https://www.mercurynews.com/2026/07/16/san-diego-safari-park-gorilla-undergoes-landmark-surgery-for-bone-infection-with-help-from-ucsd/",
-      "summary": "UC San Diego surgeons adapted human medicine techniques to perform the surgery on Mizani the gorilla Saturday.",
-      "date": "Thu, 16 Jul 2026 18Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/SUT-L-GORILLA-SURGERY-02.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-07-24T23:08:37Z"
     }
   ]
 }
