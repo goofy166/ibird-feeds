@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-02T18:04:26Z",
-  "updated_utc": "2026-08-02T18:04:26Z",
+  "updated": "2026-08-02T20:14:12Z",
+  "updated_utc": "2026-08-02T20:14:12Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Newly unearthed mechanism that helps plants 'feel full' could help crops use fertilizer more efficiently",
+      "link": "https://phys.org/news/2026-07-newly-unearthed-mechanism-full-crops.html",
+      "summary": "New York University researchers have pinpointed the molecular players responsible for plants \"feeling full\" once they've taken up enough nitrogen—a finding that could help scientis",
+      "date": "2026-08-02T20:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-unearth-mec-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-02T20:14:09Z"
+    },
+    {
+      "title": "How simple amber lights could make nights safer for insects",
+      "link": "https://phys.org/news/2026-07-simple-amber-nights-safer-insects.html",
+      "summary": "Approximately 40% of insect species worldwide are thought to be in decline and under threat of extinction. Among the key causes are habitat loss, pollution and climate change. Anot",
+      "date": "2026-08-02T19:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-simple-amber-light.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-02T20:14:09Z"
+    },
     {
       "title": "Antibiotic resistance is spreading through South Africa's water systems. This study explains how",
       "link": "https://phys.org/news/2026-07-antibiotic-resistance-south-africa.html",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-07-26T10:07:13Z"
-    },
-    {
-      "title": "‘Scandalous, irrational and irresponsible’: French beekeepers’ fury at lifting of pesticides ban",
-      "link": "https://www.theguardian.com/world/2026/jul/26/french-beekeepers-fury-lifting-of-pesticides-ban",
-      "summary": "Allowing use of two neonicotinoids to combat crop-ruining disease will kill bees and reduce harvests, union says Beekeepers and environmentalists in France have reacted furiously a",
-      "date": "2026-07-26T05:00:03Z",
-      "image": "https://i.guim.co.uk/img/media/31d375bdec8fbe4786e9bb80d9b169023e6b76fe/230_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=d01298dc5b9b2be5f52c4d6907278416",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-26T07:40:26Z"
-    },
-    {
-      "title": "Cameras attached to whale sharks capture krill chases never witnessed before",
-      "link": "https://phys.org/news/2026-07-cameras-whale-sharks-capture-krill.html",
-      "summary": "Whale sharks (Rhincodon typus)—the world's biggest fish—are one of the most charismatic marine species. They connect with the hearts of anyone lucky enough to encounter them, makin",
-      "date": "2026-07-25T18:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/whale-shark.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-25T19:18:46Z"
     }
   ]
 }
