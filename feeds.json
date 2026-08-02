@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-02T00:03:05Z",
-  "updated_utc": "2026-08-02T00:03:05Z",
+  "updated": "2026-08-02T04:28:49Z",
+  "updated_utc": "2026-08-02T04:28:49Z",
   "count": 500,
   "stories": [
+    {
+      "title": "San Diego Safari Park gorilla undergoes landmark surgery for bone infection with help from UCSD",
+      "link": "https://www.mercurynews.com/2026/07/16/san-diego-safari-park-gorilla-undergoes-landmark-surgery-for-bone-infection-with-help-from-ucsd/",
+      "summary": "UC San Diego surgeons adapted human medicine techniques to perform the surgery on Mizani the gorilla Saturday.",
+      "date": "Thu, 16 Jul 2026 18Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/SUT-L-GORILLA-SURGERY-02.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-08-02T04:28:39Z"
+    },
+    {
+      "title": "Fluorescent probes offer sharper view of plant tissues",
+      "link": "https://phys.org/news/2026-07-fluorescent-probes-sharper-view-tissues.html",
+      "summary": "Researchers at the Indian Institute of Technology Gandhinagar (IITGN) and the Regional Centre for Biotechnology, Faridabad, have developed and tested a new class of fluorescent pro",
+      "date": "2026-08-02T00:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seeing-plant-tissues-i.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-02T04:28:46Z"
+    },
     {
       "title": "How new informatics tools help turn biodiversity data into policy insights",
       "link": "https://phys.org/news/2026-07-informatics-tools-biodiversity-policy-insights.html",
@@ -5480,28 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-07-25T03:26:04Z"
-    },
-    {
-      "title": "A Yellowstone Driver Tried to Pass a Bison. The Bull Attacked.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/yellowstone-bison-pops-car-tire-video/",
-      "summary": "A bison popped an SUV tire in Yellowstone's Hayden Valley after the vehicle got too close. The post A Yellowstone Driver Tried to Pass a Bison. The Bull Attacked. appeared first on",
-      "date": "2026-07-24T23:29:44Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-5.21.45-PM.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-25T03:26:15Z"
-    },
-    {
-      "title": "Gardening and Wildfire Smoke: What You Need to Know",
-      "link": "https://www.birdsandblooms.com/gardening/gardening-basics/gardening-wildfire-smoke/",
-      "summary": "Gardening is a beloved summer activity, but what happens when wildfire smoke and ash blows in? Find out if the smoke will impact your plants. The post Gardening and Wildfire Smoke:",
-      "date": "Thu, 16 Jul 2026 19Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/GettyImages-2284407704-e1784295573517.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-07-24T23:08:29Z"
     }
   ]
 }
