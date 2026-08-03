@@ -1,8 +1,63 @@
 {
-  "updated": "2026-08-03T21:12:18Z",
-  "updated_utc": "2026-08-03T21:12:18Z",
+  "updated": "2026-08-03T23:10:51Z",
+  "updated_utc": "2026-08-03T23:10:51Z",
   "count": 500,
   "stories": [
+    {
+      "title": "To Recover Artworks Looted by the Nazis, Researchers Are Getting Creative, With New Strategies Including an A.I. Chatbot and a Campaign of 'Wanted' Posters",
+      "link": "https://www.smithsonianmag.com/smart-news/to-recover-artworks-looted-by-the-nazis-researchers-are-getting-creative-with-new-strategies-including-an-ai-chatbot-and-a-campaign-of-wanted-posters-180989247/",
+      "summary": "University researchers hope their new artificial intelligence chatbot makes provenance research easier and more accessible",
+      "date": "2026-08-03T21:33:15Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/NbIGOKwLJNXBA7mWKqeWhIIoMYk=/420x240/filters:focal(1000x667:1001x668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2c/65/2c6578ec-9446-445d-a687-13c11766fd9b/20aeb8493decd864fed61c47c4df237c-l.webp",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-03T23:10:42Z"
+    },
+    {
+      "title": "Forest floors reveal overlooked seed dispersers: Slugs, beetles and crabs spread viable seeds",
+      "link": "https://phys.org/news/2026-08-forest-floors-reveal-overlooked-seed.html",
+      "summary": "A review led by the School of Biological Sciences at The University of Hong Kong (HKU) has revealed that tiny ground-dwelling invertebrates are overlooked but important seed disper",
+      "date": "2026-08-03T23:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hku-led-review-highlig.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-03T23:10:47Z"
+    },
+    {
+      "title": "Underground fungal networks come into 3D view without disturbing plant roots",
+      "link": "https://phys.org/news/2026-08-underground-fungal-networks-3d-view.html",
+      "summary": "Symbioses between plants and fungi are essential for most plants. Fungal structures known as mycorrhizae extend the area from which plants can draw water and nutrients from the soi",
+      "date": "2026-08-03T21:40:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/underground-fungal-net.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-03T23:10:47Z"
+    },
+    {
+      "title": "Pollen movement tracked from ground to sky with new modeling method",
+      "link": "https://phys.org/news/2026-08-pollen-movement-tracked-ground-sky.html",
+      "summary": "Plant biologists and engineers have extended their studies to the skies to track airborne pollen once it leaves a crop. In a new study, published in Environmental Monitoring and As",
+      "date": "2026-08-03T21:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-seeks-better.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-03T23:10:47Z"
+    },
+    {
+      "title": "Male sperm whales produce loudest communication sounds ever measured in any mammal",
+      "link": "https://phys.org/news/2026-08-male-sperm-whales-loudest-communication.html",
+      "summary": "Deep in the world's oceans, large male sperm whales emit slow, low-frequency clicks with the highest source levels of any animal communication sounds. These slow clicks are not the",
+      "date": "2026-08-03T21:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-worlds-most-powerf.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-03T23:10:47Z"
+    },
     {
       "title": "New Images Provide the Best Evidence Yet That Supergiant Star Betelgeuse Does, Indeed, Have a Long-Theorized Stellar Companion",
       "link": "https://www.smithsonianmag.com/smart-news/new-images-provide-the-best-evidence-yet-that-supergiant-star-betelgeuse-does-inded-have-a-long-theorized-stellar-companion-180989225/",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-07-27T19:45:07Z"
-    },
-    {
-      "title": "UN lists South Sudan antelope route as heritage in danger",
-      "link": "https://phys.org/news/2026-07-south-sudan-antelope-route-heritage.html",
-      "summary": "The United Nations has fast-tracked a vast antelope migration path in South Sudan onto its List of World Heritage in Danger, the young nation's first such listing.",
-      "date": "2026-07-27T19:40:27Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-million-animals-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-27T19:45:08Z"
-    },
-    {
-      "title": "Identify birds offline using AI: New app records animal sounds directly on your smartphone",
-      "link": "https://phys.org/news/2026-07-birds-offline-ai-app-animal.html",
-      "summary": "Previous apps for identifying animal calls regularly hit practical limits: Without a stable internet connection, real-time identification in forests or high mountains was impossibl",
-      "date": "2026-07-27T19:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/identify-birds-offline-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-27T19:45:08Z"
-    },
-    {
-      "title": "Industrial poultry farming is accelerating the spread of a major foodborne disease",
-      "link": "https://phys.org/news/2026-07-industrial-poultry-farming-major-foodborne.html",
-      "summary": "A new study by the Ineos Oxford Institute for Antimicrobial Research at the University of Oxford reveals that industrial poultry farming has led to a more than 100-fold increase in",
-      "date": "2026-07-27T19:00:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/industrial-poultry-far.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-27T19:45:08Z"
-    },
-    {
-      "title": "Researchers uncover new mechanism behind DNA repair",
-      "link": "https://phys.org/news/2026-07-uncover-mechanism-dna.html",
-      "summary": "Roughly 20 million people receive a cancer diagnosis each year, and an estimated 1 in 5 people will receive a cancer diagnosis in their lifetime. Cancer cells arise from damage to ",
-      "date": "2026-07-27T19:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-uncover-ne-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-27T19:45:08Z"
-    },
-    {
-      "title": "Fossil footprints reveal body size and group dynamics of 1.4-million-year-old human relative",
-      "link": "https://phys.org/news/2026-07-fossil-footprints-reveal-body-size.html",
-      "summary": "Ancient footprints preserved along the shores of Kenya's Lake Turkana are reshaping scientists' understanding of one of humanity's extinct relatives. A paper published in Proceedin",
-      "date": "2026-07-27T19:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fossil-footprints-reve-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-27T19:45:08Z"
     }
   ]
 }
