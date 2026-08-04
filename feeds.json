@@ -1,8 +1,96 @@
 {
-  "updated": "2026-08-04T06:34:16Z",
-  "updated_utc": "2026-08-04T06:34:16Z",
+  "updated": "2026-08-04T09:42:58Z",
+  "updated_utc": "2026-08-04T09:42:58Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Are you part of a community environmental action group? We’d like to hear about your experience",
+      "link": "https://www.theguardian.com/environment/2026/aug/04/local-community-environmental-climate-action-group-tell-us-your-experience",
+      "summary": "We want to hear from people around the world who have been getting involved in local action on the climate We’d like to hear from people across the world who have been involved in ",
+      "date": "2026-08-04T08:59:32Z",
+      "image": "https://i.guim.co.uk/img/media/4530bbba1e2f79b0701ab8dd0f96bd63e33e1fdb/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=9ee458f2a52025358265c15e38162eb6",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-04T09:42:42Z"
+    },
+    {
+      "title": "Perseid meteor shower 2026: All you need to know",
+      "link": "https://earthsky.org/astronomy-essentials/everything-you-need-to-know-perseid-meteor-shower/",
+      "summary": "The Perseid meteor shower will peak around the mornings of August 13 in 2026 And you'll have a moonless sky to enhance your meteor shower viewing. The post Perseid meteor shower 20",
+      "date": "Tue, 04 Aug 2026 06Z",
+      "image": "https://earthsky.org/upl/2021/08/perseid-meteor-shower-radiant-point-1500px-e1628630279557.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-04T09:42:43Z"
+    },
+    {
+      "title": "California Wants to Prove That Economic Growth and Conservation Can Coexist. Is It Working?",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/california-conservation-policy/",
+      "summary": "Our most biodiverse state is also the world’s fourth-largest economy. It wants those things to thrive together. The post California Wants to Prove That Economic Growth and Conserva",
+      "date": "Tue, 04 Aug 2026 09Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/california-experiment.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-04T09:42:48Z"
+    },
+    {
+      "title": "Runners in Their 60s, 70s and 80s Reveal Their Secrets to Running Forever",
+      "link": "https://www.outsideonline.com/health/training-performance/running-tips-aging/",
+      "summary": "Aging—and slowing down—is inevitable. Runners in their 60s, 70s, and 80s explain how they keep running as they age. The post Runners in Their 60s, 70s and 80s Reveal Their Secrets ",
+      "date": "Tue, 04 Aug 2026 09Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/older-runner-aging.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-04T09:42:48Z"
+    },
+    {
+      "title": "Parts of the UK endure first ever month without any rain",
+      "link": "https://www.newscientist.com/article/2583057-parts-of-the-uk-endure-first-ever-month-without-any-rain/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "For the first time since records began, there was no rain at all for parts of southern England and Wales in July, in a “truly exceptional” month of heat and sunshine",
+      "date": "Tue, 04 Aug 2026 08Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307296228.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-04T09:42:52Z"
+    },
+    {
+      "title": "Last Scottish island bird hunt banned after almost 500 years",
+      "link": "https://phys.org/news/2026-08-scottish-island-bird-years.html",
+      "summary": "A centuries-old annual bird chick hunt on a remote Scottish island, known as the Guga Hunt, has been banned this year, authorities said Monday, citing conservation concerns.",
+      "date": "2026-08-04T07:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gannets-nesting-in-nor.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T09:42:54Z"
+    },
+    {
+      "title": "Tiger shark caught off Massachusetts could be sign of warming waters",
+      "link": "https://phys.org/news/2026-08-tiger-shark-caught-massachusetts.html",
+      "summary": "Nate Rouette and his brother Nelson went shark fishing on Cape Cod hoping for an exciting catch, but were shocked by what they reeled in—a tropical species of shark with a reputati",
+      "date": "2026-08-04T06:45:16Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiger-shark-caught-off.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T09:42:54Z"
+    },
+    {
+      "title": "'Even when knowledge improves, emotional anxiety does not easily disappear': Pediatrician Dr. Masahiko Sakamoto on educating parents about childhood illnesses",
+      "link": "https://www.livescience.com/health/medicine-drugs/even-when-knowledge-improves-emotional-anxiety-does-not-easily-disappear-pediatrician-dr-masahiko-sakamoto-on-educating-parents-about-childhood-illnesses",
+      "summary": "Parents may struggle to learn all there is to know about children's health. A pediatrician in Saku, Japan, has made it his mission to help.",
+      "date": "Tue, 04 Aug 2026 09Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/cHbRjcUesBvFMefRw8B9yb-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-04T09:42:55Z"
+    },
     {
       "title": "Three lions die of suspected heatstroke at Tokyo zoo as Japan swelters",
       "link": "https://www.theguardian.com/world/2026/aug/04/three-lions-dead-suspected-heatstroke-japan-zoo-heatwave",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-27T21:18:14Z"
-    },
-    {
-      "title": "Researchers identify useful tool for diagnosing endocrine dysfunction in sick foals",
-      "link": "https://phys.org/news/2026-07-tool-endocrine-dysfunction-sick-foals.html",
-      "summary": "Researchers have found that an arginine vasopressin stimulation (AVP) test offers a reliable way to assess endocrine function in sick foals. The work, published in the Journal of V",
-      "date": "2026-07-27T20:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/horse-and-foal.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-27T21:18:14Z"
-    },
-    {
-      "title": "Satellite images could help target sustainable farming support for small fields",
-      "link": "https://phys.org/news/2026-07-satellite-images-sustainable-farming-small.html",
-      "summary": "For decades, satellites have helped scientists observe Earth's changing landscapes. Now, they could also help answer one of agriculture's most pressing questions: How can the world",
-      "date": "2026-07-27T20:10:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/satellite-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-27T21:18:14Z"
-    },
-    {
-      "title": "First 3D views explain how primate cone pigments distinguish red from green",
-      "link": "https://phys.org/news/2026-07-3d-views-primate-cone-pigments.html",
-      "summary": "Human color vision depends on three types of cone cells in the retina. Although all three contain the same light-absorbing molecule, 11-cis-retinal, differences in the surrounding ",
-      "date": "2026-07-27T20:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-at-nagoya-i.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-27T21:18:14Z"
-    },
-    {
-      "title": "Soil carbon effectively measured by new, efficient AI model",
-      "link": "https://phys.org/news/2026-07-soil-carbon-effectively-efficient-ai.html",
-      "summary": "A new computer model is one of the first artificial intelligence tools to advance scientific discovery in agriculture and biogeochemistry and is 50 times more efficient than its pr",
-      "date": "2026-07-27T20:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/soil-carbon-effectivel-3.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-27T21:18:14Z"
-    },
-    {
-      "title": "Ancient human relative cannibalized both adults and children in a cave in Spain 850,000 years ago, fossils reveal",
-      "link": "https://www.livescience.com/archaeology/human-evolution/ancient-human-relative-cannibalized-both-adults-and-children-in-a-cave-in-spain-850-000-years-ago-fossils-reveal",
-      "summary": "Newly excavated bones from Gran Dolina cave in Spain reveal an ancient human relative practiced cannibalism on adults and children, but researchers still don't know why.",
-      "date": "2026-07-27T21:02:21Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/nujedsumG9FxWp6ruPQVS6-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-27T21:18:15Z"
-    },
-    {
-      "title": "A Lightning Strike Ignited a Wyoming Forest. Minutes Later, 20 Campers Were Fleeing for Their Lives.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/fish-creek-fire-batel-ranch-evacuation/",
-      "summary": "When a lightning-caused wildfire ignited near Wyoming’s Medicine Bow National Forest, camp leaders had less than 15 minutes to evacuate 25 people. Here’s how they escaped. The post",
-      "date": "2026-07-27T18:48:03Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/credit-Louis-Fico-1-scaled.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-27T19:45:03Z"
-    },
-    {
-      "title": "French Customs Detained This Marc Chagall Etching for Two Decades After an Attempted Border Crossing. Now It's Headed for Public Display",
-      "link": "https://www.smithsonianmag.com/smart-news/french-customs-detained-this-marc-chagall-etching-for-two-decades-after-an-attempted-border-crossing-now-its-headed-for-public-display-180989204/",
-      "summary": "An acrobat perches on a violin in the absurd scene, which draws on the Russian artist's favored motifs",
-      "date": "2026-07-27T19:08:59Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/GNdNhb0GZdR-ID9Utddz2Cua-FQ=/420x240/filters:focal(600x314:601x315)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a7/03/a7032901-b619-4425-8bef-d243477118ea/chagall_long.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-27T19:45:04Z"
-    },
-    {
-      "title": "Ancient Fossil Footsteps Found in Kenya May Hint That an Early Human Relative Was Larger Than Previously Thought",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/ancient-fossil-footsteps-found-in-kenya-may-hint-that-an-early-human-relative-was-larger-than-previously-thought-180989206/",
-      "summary": "The trackway sheds light on how some hominins moved around their environments and with one another",
-      "date": "2026-07-27T19:08:12Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/iwm1T7ZSLML0GqXnlYT4Rj_GVGk=/420x240/filters:focal(457x376:458x377)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/08/4a/084ae64f-ccc0-4d80-84d4-3c763b367b47/et_gaji10_2023_with_k_hatala.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-27T19:45:04Z"
     }
   ]
 }
