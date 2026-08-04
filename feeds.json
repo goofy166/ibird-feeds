@@ -1,8 +1,96 @@
 {
-  "updated": "2026-08-04T21:19:34Z",
-  "updated_utc": "2026-08-04T21:19:34Z",
+  "updated": "2026-08-04T23:09:45Z",
+  "updated_utc": "2026-08-04T23:09:45Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Controversial battery storage project in San Jose’s Coyote Valley is withdrawn",
+      "link": "https://www.mercurynews.com/2026/08/04/controversial-battery-storage-project-in-san-joses-coyote-valley-is-withdrawn/",
+      "summary": "Environmentalists, political leaders, parents at nearby school opposed plan on San Jose’s rural southern edges",
+      "date": "Tue, 04 Aug 2026 21Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/05/SJM-L-BATTERY-0528-3.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-08-04T23:09:33Z"
+    },
+    {
+      "title": "Take On Any Trail",
+      "link": "https://www.outsideonline.com/outdoor-gear/run/take-on-any-trail/",
+      "summary": "Experience the country’s best scenery and terrain—just start with this guide to top routes and get outfitted with the Cascadia Collection, a head-to-toe trail running kit designed ",
+      "date": "Tue, 04 Aug 2026 22Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/F26_Global_OCT_WA_Cascadia_H2T_4498_399500-1-e1785526861254.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-04T23:09:35Z"
+    },
+    {
+      "title": "Should you stop using preventive flea treatments on your pets?",
+      "link": "https://www.newscientist.com/article/2583235-should-you-stop-using-preventive-flea-treatments-on-your-pets/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "It has been assumed for decades that tick and flea treatments for pets pose no threat to wildlife or people, but there’s growing evidence that we have got it wrong",
+      "date": "Tue, 04 Aug 2026 23Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307367735.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-04T23:09:39Z"
+    },
+    {
+      "title": "Most people prefer AI-written stories – and can’t tell when they are made by humans",
+      "link": "https://www.newscientist.com/article/2583065-most-people-prefer-stories-written-by-ai-and-cant-tell-it-apart-from-human-work/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "People appear to prefer short stories created by AI over those written by humans. They are also no better than chance at telling which is which",
+      "date": "Tue, 04 Aug 2026 23Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307363975.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-04T23:09:39Z"
+    },
+    {
+      "title": "How a unique environment sets Australian chocolate apart",
+      "link": "https://phys.org/news/2026-08-unique-environment-australian-chocolate.html",
+      "summary": "University of Queensland research has shown microbes could give Australian-grown chocolate an edge in the global market. Working with growers in Far North Queensland, scientists fo",
+      "date": "2026-08-04T22:30:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-a-unique-environme.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T23:09:41Z"
+    },
+    {
+      "title": "Producing spider silk is a biological feat",
+      "link": "https://phys.org/news/2026-08-spider-silk-biological-feat.html",
+      "summary": "\"Spider-Man: Brand New Day\" turns organic web production into a superpower. In the 2026 film, Tom Holland's character, Peter Parker, begins producing webbing inside his body and sh",
+      "date": "2026-08-04T22:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spider-silk.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T23:09:41Z"
+    },
+    {
+      "title": "Perennial bioenergy grasses begin rebuilding Midwest soil carbon lost to maize",
+      "link": "https://phys.org/news/2026-08-perennial-bioenergy-grasses-rebuilding-midwest.html",
+      "summary": "Nearly two centuries of maize-based agriculture in the U.S. Midwest has halved soil organic carbon (SOC) stocks compared with tallgrass prairies native to the region. Replacing ann",
+      "date": "2026-08-04T21:50:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mitigating-the-soil-ca.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T23:09:41Z"
+    },
+    {
+      "title": "Expert discusses soil fertility and tropical forest productivity",
+      "link": "https://phys.org/news/2026-08-expert-discusses-soil-fertility-tropical.html",
+      "summary": "YCNCC Science Communications Fellow Samantha Tracy recently sat down with Wong to discuss the influence of soil fertility on tropical forests and their responses to global change. ",
+      "date": "2026-08-04T21:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/qa-expert-discusses-so.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T23:09:41Z"
+    },
     {
       "title": "How Artist Nick Cave Memorializes His Ancestors Through ‘Mammoth’ Work",
       "link": "https://www.smithsonianmag.com/smithsonian-institution/how-artist-nick-cave-memorializes-his-ancestors-through-mammoth-work-180989262/",
@@ -5414,94 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-07-28T19:42:47Z"
-    },
-    {
-      "title": "Scientists uncover two new ways doxycycline disables bacterial ribosomes",
-      "link": "https://phys.org/news/2026-07-scientists-uncover-ways-doxycycline-disables.html",
-      "summary": "Scientists have discovered two new mechanisms for how a well-established antibiotic works, paving the way for the potential development of new antibiotic treatments.",
-      "date": "2026-07-28T19:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-antibiotic-mechani.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-28T19:42:52Z"
-    },
-    {
-      "title": "Tropical insects may be running out of room as temperatures rise",
-      "link": "https://phys.org/news/2026-07-tropical-insects-room-temperatures.html",
-      "summary": "New research from Costa Rica's Área de Conservación Guanacaste (ACG) suggests that tropical insects may be vulnerable to rising temperatures. The study, published in the Proceeding",
-      "date": "2026-07-28T18:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tropical-insects-may-b.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-28T19:42:52Z"
-    },
-    {
-      "title": "Sargassum, the smelly nemesis of beach vacations, has become a self‑sustaining disaster that will keep coming back",
-      "link": "https://phys.org/news/2026-07-sargassum-smelly-nemesis-beach-vacations.html",
-      "summary": "You've been planning your dream beach vacation for months, only to arrive and find the shoreline covered in large piles of smelly, brown seaweed, with even more floating offshore. ",
-      "date": "2026-07-28T18:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/sargassum-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-28T19:42:52Z"
-    },
-    {
-      "title": "Scientists may have found a clue to prevent muscles from aging, study hints",
-      "link": "https://www.livescience.com/health/aging/scientists-may-have-found-a-clue-to-prevent-muscles-from-aging-study-hints",
-      "summary": "Scientists have identified a compound that may help preserve muscle in aging mice. Someday, this may help people with muscle atrophy.",
-      "date": "Tue, 28 Jul 2026 19Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/VsrJz7sU3hbrSsWGeQQuhQ-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-28T19:42:54Z"
-    },
-    {
-      "title": "Internet-Famous Bald Eagle Jackie Injured in California",
-      "link": "https://www.birdsandblooms.com/birding/birding-basics/injured-bald-eagle-jackie/",
-      "summary": "Jackie, one half of the beloved 'Jackie and Shadow' bald eagle pair, sustained an injury over the weekend of July 17. Here's what's being done to help. The post Internet-Famous Bal",
-      "date": "2026-07-20T15:47:34Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-9.48.34-AM-e1784560413124.png?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-07-28T17:41:04Z"
-    },
-    {
-      "title": "‘They’re part of folklore’: storks return to Derbyshire after 600-year absence",
-      "link": "https://www.theguardian.com/environment/2026/jul/28/storks-derbyshire-willington-wetlands",
-      "summary": "Conservationists are thrilled at the arrival of three juvenile birds at Willington Wetlands, hoping more will follow A long orange beak poked curiously out from its wooden crate, f",
-      "date": "2026-07-28T17:22:08Z",
-      "image": "https://i.guim.co.uk/img/media/3fbd8f25e20b6a4fd1845a1b0588498447954f9b/670_0_4688_3750/master/4688.jpg?width=140&quality=85&auto=format&fit=max&s=6ba98513a6605e50dead7dab02385ddb",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-28T17:41:07Z"
-    },
-    {
-      "title": "We All Know the Story of the Pompeii Victims Who Died When Mount Vesuvius Erupted 2,000 Years Ago. Archaeologists Are Still Learning About Those Who Made It Out Alive",
-      "link": "https://www.smithsonianmag.com/history/we-all-know-the-story-of-the-pompeii-victims-who-died-when-mount-vesuvius-erupted-2000-years-ago-archaeologists-are-still-learning-about-those-who-made-it-out-alive-180989207/",
-      "summary": "A semi-fictionalized documentary series hosted by actor Tom Hiddleston follows three people in the ancient towns of Pompeii and Herculaneum who experienced the disaster in 79 C.E.",
-      "date": "Tue, 28 Jul 2026 16Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/Ti4oKIAdG--gttDmkRIwcx7y1Lw=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/18/2a/182ab01e-864b-429e-a53a-0a1b41ecc75d/pompeii.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-28T17:41:14Z"
-    },
-    {
-      "title": "Small ants that evict coffee pests may gain reproductive boost while protecting crops",
-      "link": "https://phys.org/news/2026-07-small-ants-evict-coffee-pests.html",
-      "summary": "Ants are known allies in the fight against coffee pests known as coffee berry borers. Now, a discovery made by Jonathan \"Jonno\" Morris while he was a University of Michigan graduat",
-      "date": "2026-07-28T17:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/u-m-researcher-discove-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-28T17:41:19Z"
     }
   ]
 }
