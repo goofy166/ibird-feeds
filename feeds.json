@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-04T03:22:57Z",
-  "updated_utc": "2026-08-04T03:22:57Z",
+  "updated": "2026-08-04T06:34:16Z",
+  "updated_utc": "2026-08-04T06:34:16Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Three lions die of suspected heatstroke at Tokyo zoo as Japan swelters",
+      "link": "https://www.theguardian.com/world/2026/aug/04/three-lions-dead-suspected-heatstroke-japan-zoo-heatwave",
+      "summary": "Most of the zoo’s 16 lions have struggled to cope with high humidity this summer Three lions from a Tokyo zoo have died from suspected heatstroke and others are undergoing treatmen",
+      "date": "2026-08-04T05:46:06Z",
+      "image": "https://i.guim.co.uk/img/media/04514260d6d38e9e1a0ff13351bbd57563ce31bd/133_0_904_723/master/904.jpg?width=140&quality=85&auto=format&fit=max&s=43fed8a1b37c54fb532543ad687853cd",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-04T06:34:02Z"
+    },
+    {
+      "title": "Nine Lives, the feral cat that terrorised New Zealand’s rare ducks, is caught after three years",
+      "link": "https://www.theguardian.com/world/2026/aug/04/nine-lives-feral-cat-new-zealand-caught-trapped",
+      "summary": "Large tabby cat that wiped out dozens of rare pāteke, or brown teal, has been killed after eluding trappers with its ‘very erratic’ behaviour A notorious feral cat given the name “",
+      "date": "2026-08-04T05:45:57Z",
+      "image": "https://i.guim.co.uk/img/media/49f6b7dc7ac72ae8aaf71342c9fdcb9dff0ebd16/673_408_1018_815/master/1018.jpg?width=140&quality=85&auto=format&fit=max&s=d702e65ced7b5cbf88e07252db72159d",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-04T06:34:02Z"
+    },
+    {
+      "title": "The Wildlife Trusts’ fight to save a historic English landscape – podcast",
+      "link": "https://www.theguardian.com/science/audio/2026/aug/04/wildlife-trusts-fight-to-save-historic-english-landscape-podcast",
+      "summary": "Madeleine Finlay travels to the Rothbury estate in Northumberland, in north-east England. It’s a piece of land that has been in the same family for 700 years, but now it has been p",
+      "date": "2026-08-04T04:00:13Z",
+      "image": "https://i.guim.co.uk/img/media/feb2e795bef14ed64d090a3ab51fb84e465f3b72/1187_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=f4791537065cf2070fb7f238f8a8b8e7",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-04T06:34:02Z"
+    },
     {
       "title": "To Recover Artworks Looted by the Nazis, Researchers Are Getting Creative, With New Strategies Including an A.I. Chatbot and a Campaign of 'Wanted' Posters",
       "link": "https://www.smithsonianmag.com/smart-news/to-recover-artworks-looted-by-the-nazis-researchers-are-getting-creative-with-new-strategies-including-an-ai-chatbot-and-a-campaign-of-wanted-posters-180989247/",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-07-27T19:45:04Z"
-    },
-    {
-      "title": "Predatory Sharks Grew to Enormous Sizes in Prehistoric Times. These Five Strategies Helped Them Get So Big",
-      "link": "https://www.smithsonianmag.com/science-nature/predatory-sharks-grew-to-enormous-sizes-in-prehistoric-times-these-five-strategies-helped-them-get-so-big-180989199/",
-      "summary": "By cannibalizing their siblings in the womb or avoiding meat-eating pliosaurs, fearsome carnivores like the megalodon ballooned to proportions that would dwarf any shark alive toda",
-      "date": "2026-07-27T18:22:30Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/feJzcjOfsqwxa6MCZIgVKXejVr4=/420x240/filters:focal(800x602:801x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3e/c2/3ec2180a-a238-4b81-8841-2285409305be/img_2825.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-27T19:45:04Z"
-    },
-    {
-      "title": "Peptides are the latest wellness trend – but do they work?",
-      "link": "https://www.newscientist.com/article/2581574-peptides-are-the-latest-wellness-trend-but-do-they-work/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "A drug advisory committee in the US has recommended approval for several experimental peptides. But there have been no large-scale tests of these new compounds in humans, finds col",
-      "date": "2026-07-27T19:21:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306258577.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-27T19:45:07Z"
-    },
-    {
-      "title": "Mystery hominin left big footprints at ancient lake in Africa",
-      "link": "https://www.newscientist.com/article/2581351-mystery-hominin-left-big-footprints-at-ancient-lake-in-africa/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Over 1.4 million years ago, a group of eight ancient hominins walked across a shallow mudflat, but their footprints don’t match those of Paranthropus boisei or Homo erectus",
-      "date": "2026-07-27T19:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306572153.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-27T19:45:07Z"
     }
   ]
 }
