@@ -1,8 +1,151 @@
 {
-  "updated": "2026-08-04T12:06:27Z",
-  "updated_utc": "2026-08-04T12:06:27Z",
+  "updated": "2026-08-04T15:28:54Z",
+  "updated_utc": "2026-08-04T15:28:54Z",
   "count": 500,
   "stories": [
+    {
+      "title": "These Early Biplanes Documented the Arctic, Captured Newsreel Footage and Witnessed Lindbergh's Historic Flight. Now, a Rare Example Will Hang in a Museum",
+      "link": "https://www.smithsonianmag.com/smart-news/these-early-biplanes-documented-the-arctic-captured-newsreel-footage-and-witnessed-lindberghs-historic-flight-now-a-rare-example-will-hang-in-a-museum-180989253/",
+      "summary": "The Cradle of Aviation Museum recently acquired a Curtiss Oriole, three-seat biplane manufactured at a nearby Garden City factory",
+      "date": "Tue, 04 Aug 2026 15Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/Be8Dxd5UAPNHn8-vIIg58L7gtcA=/420x240/filters:focal(1486x1118:1487x1119)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0b/eb/0beb7ed4-553a-4f13-b019-60876e23627d/curtiss-oriole.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-04T15:28:46Z"
+    },
+    {
+      "title": "Ancient North American Mammals May Have Gathered in Mexico and Diversified Before Moving to South America, Priming Them to Thrive There",
+      "link": "https://www.smithsonianmag.com/smart-news/ancient-north-american-mammals-may-have-gathered-in-mexico-and-diversified-before-moving-to-south-america-priming-them-to-thrive-there-180989251/",
+      "summary": "An analysis of fossils from the country hints that animals from the north stayed in a \"holding pen\" between seven million and ten million years ago. The timeline might help explain",
+      "date": "Tue, 04 Aug 2026 14Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/_iUK3jK_Il48TFafCuwEjRWvFH4=/420x240/filters:focal(495x287:496x288)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/13/f7/13f7bba4-436a-4abd-9ef7-6103724b7a68/2-janis-thylacosmilus-image-contrast.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-04T15:28:46Z"
+    },
+    {
+      "title": "Is AI making us dumber? Maybe not. But our skills are at risk",
+      "link": "https://www.sciencenews.org/article/ai-making-us-dumber-learning-skills-risk",
+      "summary": "Studies suggest AI can weaken learning when it replaces effort, but tools that guide rather than answer may help people keep their skills.",
+      "date": "Tue, 04 Aug 2026 15Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/073126_MR_ailearning_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-08-04T15:28:47Z"
+    },
+    {
+      "title": "Emperor penguin chicks like these starved. An iceberg may be the cause",
+      "link": "https://www.sciencenews.org/article/penguin-chicks-starved-iceberg-cause",
+      "summary": "An emperor penguin colony in Antarctica saw a massive decline in chicks in 2025. The contours of a nearby grounded iceberg may have been the cause.",
+      "date": "Tue, 04 Aug 2026 13Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/072926_MH_penguins_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-08-04T15:28:47Z"
+    },
+    {
+      "title": "Darwin proved right about gnat-trapping carnivorous plant",
+      "link": "https://www.newscientist.com/article/2583122-darwin-proved-right-about-gnat-trapping-carnivorous-plant/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Botanists have finally proved what Charles Darwin was unable to nail down – that a genus of plants known to catch insects also digests them, suggesting the extent of plant carnivor",
+      "date": "Tue, 04 Aug 2026 15Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307342588.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-04T15:28:48Z"
+    },
+    {
+      "title": "We’re beginning to understand the sudden ‘grief attacks’ that hit mourners",
+      "link": "https://www.newscientist.com/article/2579641-were-beginning-to-understand-the-sudden-grief-attacks-that-hit-mourners/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "A few years ago, psychologist Sherman Lee experienced a \"grief attack\". When he set out to study them, he discovered just how powerful and all-consuming grief can be",
+      "date": "Tue, 04 Aug 2026 15Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305306924.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-04T15:28:48Z"
+    },
+    {
+      "title": "The best new popular science books of August 2026",
+      "link": "https://www.newscientist.com/article/2583176-the-best-new-popular-science-books-of-august-2026/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "From which diets work best to the ethics of octopus farming, here’s Liz Else’s round-up of the most interesting popular science books published this month",
+      "date": "Tue, 04 Aug 2026 14Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI307284308.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-04T15:28:48Z"
+    },
+    {
+      "title": "A resilient native seagrass species could help reshape coastal restoration",
+      "link": "https://phys.org/news/2026-08-resilient-native-seagrass-species-reshape.html",
+      "summary": "Seagrasses are among the most important foundation species in coastal ecosystems, providing habitat for marine life, stabilizing sediments and helping improve water quality. Yet ne",
+      "date": "2026-08-04T15:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-resilient-native-sea.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T15:28:51Z"
+    },
+    {
+      "title": "Could understanding leaf surfaces lead to new ways to prevent crop disease?",
+      "link": "https://phys.org/news/2026-08-leaf-surfaces-ways-crop-disease.html",
+      "summary": "Fungal diseases that affect grain crops can be devastating to global agriculture and food security. Fungicides are the most common preventive measure, but as fungal diseases become",
+      "date": "2026-08-04T15:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-understanding-le.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T15:28:51Z"
+    },
+    {
+      "title": "How the 'fecal revolution' changed Earth's ecosystems",
+      "link": "https://phys.org/news/2026-08-fecal-revolution-earth-ecosystems.html",
+      "summary": "An international study led by Flinders University has found a fertile area of inspiration to explain an important step in evolution—and it's a whole lot of poop. The new study desc",
+      "date": "2026-08-04T14:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-an-explosion-of-ex.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T15:28:51Z"
+    },
+    {
+      "title": "Repetitive genomic regions link structural genomic variation to species diversity",
+      "link": "https://phys.org/news/2026-08-repetitive-genomic-regions-link-variation.html",
+      "summary": "Researchers sequenced the genomes of three medaka, or Japanese rice fish, a common model organism used in biological research, nearly 10 and 20 years ago. While sequencing the geno",
+      "date": "2026-08-04T13:40:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/repetitive-genomic-reg.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T15:28:51Z"
+    },
+    {
+      "title": "Antibiotic-resistant seafood bacterium found in Vietnam fish farming waters near popular island destination",
+      "link": "https://phys.org/news/2026-08-antibiotic-resistant-seafood-bacterium-vietnam.html",
+      "summary": "A bacterium linked to seafood-related illness and capable of resisting multiple antibiotics has been detected in fish-farming waters near Cat Ba Island, Vietnam, according to a new",
+      "date": "2026-08-04T12:45:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/antibiotic-resistant-s.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T15:28:51Z"
+    },
+    {
+      "title": "Indoor moves prove easier than expected for most cats and owners",
+      "link": "https://phys.org/news/2026-08-indoor-easier-cats-owners.html",
+      "summary": "Moving a pet cat from an outdoor lifestyle to living indoors is easier than many owners expect, according to new research that could help improve feline welfare, protect wildlife a",
+      "date": "2026-08-04T12:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cat-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T15:28:51Z"
+    },
     {
       "title": "Not Quite the Bocas Trip I Had Planned",
       "link": "https://www.10000birds.com/not-quite-the-bocas-trip-i-had-planned.htm?utm_source=rss&utm_medium=rss&utm_campaign=not-quite-the-bocas-trip-i-had-planned",
@@ -5359,149 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-28T12:02:33Z"
-    },
-    {
-      "title": "The ultimate packing list for Aug. 12, as a solar eclipse coincides with the Perseid meteors peak",
-      "link": "https://www.livescience.com/products/optics/the-ultimate-packing-list-for-aug-12-as-a-solar-eclipse-coincides-with-the-perseid-meteors-peak",
-      "summary": "From solar binoculars and smart telescopes to camp chairs and stargazing tents, here's what to consider for one of the greatest days of skywatching in years.",
-      "date": "Tue, 28 Jul 2026 11Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ffNeSNLEzA6z4ugamQGPNK-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-28T12:02:34Z"
-    },
-    {
-      "title": "Colossal scars of 60 million-year-long continental collision streak across warped mountains in Pakistan — Earth from space",
-      "link": "https://www.livescience.com/planet-earth/geology/colossal-scars-of-60-million-year-long-continental-collision-streak-across-warped-mountains-in-pakistan-earth-from-space",
-      "summary": "A 2011 satellite photo shows off an \"imbricate fan\" of alternating rocks in Pakistan's Sulaiman Range. The striking structure formed along the boundary of two tectonic plates that ",
-      "date": "Tue, 28 Jul 2026 10Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/PRM9A2bHYSMKAjWZHjVKLU-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-28T12:02:34Z"
-    },
-    {
-      "title": "What’s an airplane glory? Here’s how to spot one",
-      "link": "https://earthsky.org/earth/what-is-an-airplane-glory/",
-      "summary": "An airplane glory is easy to see, if you watch for it. It's the plane's shadow cast on a cloud, or the ground, surrounded by a halo of light. The post What’s an airplane glory? Her",
-      "date": "Tue, 28 Jul 2026 09Z",
-      "image": "https://earthsky.org/upl/2022/11/glory-brocken-spectre-Karthik-Easvur-Hyderabad-to-Mumbai-India-May-7-2019-e1668787592771.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-28T09:40:17Z"
-    },
-    {
-      "title": "Unprecedented ‘fire clouds’ are fanning the flames in France",
-      "link": "https://www.newscientist.com/article/2581585-unprecedented-fire-clouds-are-fanning-the-flames-in-france/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Flame-generated thunderstorms known as pyrocumulonimbus clouds can make wildfires even more intense, and they are expected to become more common in Europe",
-      "date": "Tue, 28 Jul 2026 09Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306592811.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-28T09:40:26Z"
-    },
-    {
-      "title": "An entirely new kind of drug will help us treat the untreatable",
-      "link": "https://www.newscientist.com/article/2581300-an-entirely-new-kind-of-drug-will-help-us-treat-the-untreatable/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "The first of a new generation of drugs that works in a completely different way to existing ones has been approved. Columnist Michael Le Page says this approach could transform tre",
-      "date": "Tue, 28 Jul 2026 08Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306223416.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-28T09:40:26Z"
-    },
-    {
-      "title": "'World models' are the future of AI, but how do they work?",
-      "link": "https://www.livescience.com/technology/artificial-intelligence/world-models-are-the-future-of-ai-but-how-do-they-work",
-      "summary": "Scientists are increasingly looking at building world models to get AI equipped to handle and interact with our physical reality.",
-      "date": "Tue, 28 Jul 2026 08Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/iwQxzFGZyEDfwqJ72ybt9Z-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-28T09:40:29Z"
-    },
-    {
-      "title": "Science word of the day: Seamount",
-      "link": "https://www.livescience.com/planet-earth/rivers-oceans/science-word-of-the-day-seamount",
-      "summary": "Pronunciation: SEE'-mount",
-      "date": "Tue, 28 Jul 2026 08Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/uBTscNABjLdHYXotKjkDrh-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-28T09:40:29Z"
-    },
-    {
-      "title": "Country diary: Dark against the gold wheat stubble, the hares sit tall like a hieroglyph | Amy-Jane Beer",
-      "link": "https://www.theguardian.com/environment/2026/jul/28/country-diary-dark-against-the-gold-wheat-stubble-the-hares-sit-tall-like-a-hieroglyph",
-      "summary": "North Yorkshire: It’s been a remarkable breeding season for these gorgeous creatures with ripped physiques and all-seeing eyes “Just seen a gorgeous hare and thought of you. They’v",
-      "date": "2026-07-28T04:30:28Z",
-      "image": "https://i.guim.co.uk/img/media/026c9899d1dd19b95d8493524574994b17098000/64_0_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=f9d97dc50b1ae16b88cabb2772958c9c",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-28T06:33:14Z"
-    },
-    {
-      "title": "1 Climber Dead, 3 Injured in Early-Morning Rockfall on Mount Rainier’s Disappointment Cleaver",
-      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/mount-rainier-disappointment-cleaver-fatal-rockfall/",
-      "summary": "A Bellevue woman was killed, and three others were injured during a 3:30 A.M. rockfall on Mount Rainier’s Disappointment Cleaver route. The post 1 Climber Dead, 3 Injured in Early-",
-      "date": "2026-07-27T23:28:45Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/GettyImages-965903134.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-28T03:19:43Z"
-    },
-    {
-      "title": "Seawater samples may offer early clues to changing reef health",
-      "link": "https://phys.org/news/2026-07-seawater-samples-early-clues-reef.html",
-      "summary": "Doctors can often detect diseases in humans using minimally invasive methods, like blood or urine tests, before symptoms become severe. Now, researchers at the Woods Hole Oceanogra",
-      "date": "2026-07-28T00:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-shows-seawater-m-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-28T03:19:49Z"
-    },
-    {
-      "title": "Tropical species near thermal limits as global warming compresses safety margins",
-      "link": "https://phys.org/news/2026-07-tropical-species-thermal-limits-global.html",
-      "summary": "With global warming and extreme weather intensifying, can animals raise their thermal tolerance to cope with a continuously warming environment? A joint research project by the Div",
-      "date": "2026-07-27T23:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lingnan-university-joi.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-28T03:19:49Z"
-    },
-    {
-      "title": "How changing environments can preserve an ancient microbial survival strategy",
-      "link": "https://phys.org/news/2026-07-environments-ancient-microbial-survival-strategy.html",
-      "summary": "A research group led by Tetsuhiro Hatakeyama from the Earth-Life Science Institute (ELSI) at the Institute of Science Tokyo has revealed how a seemingly self-destructive survival s",
-      "date": "2026-07-27T23:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-changing-environme.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-28T03:19:49Z"
-    },
-    {
-      "title": "A ‘Freak Accident’ Left a Salmon River Rafter Crushed Beneath a Tree. His Fellow Campers’ Quick Thinking Saved His Life.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/salmon-river-tree-crush-rafter-rescue/",
-      "summary": "Two Bear Air helicopter team rescued a camper who was crushed by a tree while sleeping in his tent along the Salmon River in Idaho. The post A ‘Freak Accident’ Left a Salmon River ",
-      "date": "2026-07-27T22:05:11Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/two-bear-air.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-27T23:11:46Z"
     }
   ]
 }
