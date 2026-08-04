@@ -1,8 +1,107 @@
 {
-  "updated": "2026-08-04T19:47:25Z",
-  "updated_utc": "2026-08-04T19:47:25Z",
+  "updated": "2026-08-04T21:19:34Z",
+  "updated_utc": "2026-08-04T21:19:34Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How Artist Nick Cave Memorializes His Ancestors Through ‘Mammoth’ Work",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/how-artist-nick-cave-memorializes-his-ancestors-through-mammoth-work-180989262/",
+      "summary": "An exhibition at the Smithsonian American Art Museum spotlights how everyday objects can serve as the foundation for artistic expression",
+      "date": "Tue, 04 Aug 2026 20Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/mKxIwisbN5cY9sWLvdNHSMX1vso=/420x240/filters:focal(1500x1000:1501x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/99/0d/990dd160-ee95-423a-8461-6f7c19832a84/cave_in_his_studio_with_objects_included_in_a_lit_history.jpg",
+      "name": "Smithsonian",
+      "category": "butterflies",
+      "color": 10,
+      "fetched_at": "2026-08-04T21:19:25Z"
+    },
+    {
+      "title": "This American Pilot Downed 40 Enemy Aircraft During World War II. Researchers Discovered the Wreck of His Plane in a Pacific Jungle and Brought a Wing Back to His Home State",
+      "link": "https://www.smithsonianmag.com/smart-news/this-american-pilot-downed-4o-enemy-aircraft-during-world-war-ii-researchers-discovered-the-wreck-of-his-plane-in-a-pacific-jungle-and-brought-a-wing-back-to-his-home-state-180989259/",
+      "summary": "Richard I. Bong, flying a plane decorated with a portrait of his future wife Marge, became America's highest-scoring \"ace\" and received a Medal of Honor",
+      "date": "Tue, 04 Aug 2026 20Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/muBT3z2c2LpXi9FUAA85EmjjKbE=/420x240/filters:focal(3096x2064:3097x2065)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f0/ef/f0ef846a-b1d4-4b29-acb2-dc837c845e76/pacific_wrecks_marge_2026-still_16.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-04T21:19:25Z"
+    },
+    {
+      "title": "Feral cats likely kill far more Australian native animals than we thought: First DNA analysis",
+      "link": "https://phys.org/news/2026-08-feral-cats-australian-native-animals.html",
+      "summary": "Australia's unique animal species are in sharp decline, with more than 40 mammal extinctions over the past 238 years. This atrocious mammal conservation record is the worst in the ",
+      "date": "2026-08-04T21:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/feral-cats.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T21:19:30Z"
+    },
+    {
+      "title": "Multiple threats endanger the world's rarest great ape, a new study on the Tapanuli orangutan reveals",
+      "link": "https://phys.org/news/2026-08-multiple-threats-endanger-world-rarest.html",
+      "summary": "Deep in the forests of North Sumatra, Indonesia, lives the Tapanuli orangutan (Pongo tapanuliensis), the world's rarest great ape. Fewer than 800 individuals remain, confined to th",
+      "date": "2026-08-04T20:40:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/multiple-threats-endan.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T21:19:30Z"
+    },
+    {
+      "title": "Fossils from Wyoming's Smiley Draw deepen understanding of early primate evolution",
+      "link": "https://phys.org/news/2026-08-fossils-wyoming-smiley-deepen-early.html",
+      "summary": "A new study from the University of Kansas complicates the picture of primates living in North America some 55 million years ago during the Eocene, a warm period that allowed mammal",
+      "date": "2026-08-04T20:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fossils-from-wyomings.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T21:19:30Z"
+    },
+    {
+      "title": "Human norovirus capsid shifts between two shapes, cryo-EM reveals",
+      "link": "https://phys.org/news/2026-08-human-norovirus-capsid-shifts-cryo.html",
+      "summary": "A research team led by Kazuyoshi Murata has discovered that virus-like particles (VLPs) of human norovirus genotype GII.3 are not structurally rigid, but can adopt two distinct con",
+      "date": "2026-08-04T20:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/do-human-noroviruses-a.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T21:19:30Z"
+    },
+    {
+      "title": "Decades-old theory for how insect societies evolve challenged",
+      "link": "https://phys.org/news/2026-08-decades-theory-insect-societies-evolve.html",
+      "summary": "For more than 60 years, evolutionary biologists have debated whether a unique genetic system found in ants, bees and wasps helps explain one of nature's most remarkable innovations",
+      "date": "2026-08-04T20:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bee.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T21:19:30Z"
+    },
+    {
+      "title": "Snakes aren't simple tubes. Their bodies have five regions—including a short neck",
+      "link": "https://phys.org/news/2026-08-snakes-simple-tubes-bodies-regions.html",
+      "summary": "Snakes are seemingly simple in structure: a head attached to a long, unremarkable noodle. They do have some pretty cool features at the front end, with venomous fangs and the abili",
+      "date": "2026-08-04T20:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/snakes-arent-simple-tu.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T21:19:30Z"
+    },
+    {
+      "title": "Physicists find a way to control heat in a way once thought impossible",
+      "link": "https://www.livescience.com/physics-mathematics/physicists-find-a-way-to-control-heat-in-a-way-once-thought-impossible",
+      "summary": "Researchers designed a material that can independently control how it absorbs and emits heat, and it even retains those settings once the power is turned off.",
+      "date": "Tue, 04 Aug 2026 21Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ynr72cKe7MKqqCRsAubMZj-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-04T21:19:31Z"
+    },
     {
       "title": "Two People Died After Getting Sick With Cyclosporiasis, Marking the First Known Deaths Linked to the Ongoing Multi-State Outbreak",
       "link": "https://www.smithsonianmag.com/smart-news/two-peope-died-after-getting-sick-with-cyclosporiasis-marking-the-first-known-deaths-linked-to-the-ongoing-multi-state-outbreak-180989256/",
@@ -5403,105 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-28T17:41:19Z"
-    },
-    {
-      "title": "Elephant vaccine shows first signs of protection against deadly virus",
-      "link": "https://phys.org/news/2026-07-elephant-vaccine-deadly-virus.html",
-      "summary": "After more than 15 years of collaborative research, Baylor College of Medicine (BCM) and Houston Zoo have reached a major milestone in the fight against elephant endotheliotropic h",
-      "date": "2026-07-28T16:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/elephant-vaccine-shows.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-28T17:41:19Z"
-    },
-    {
-      "title": "AI-designed SARS-CoV-2 variants escape prevalent antibodies",
-      "link": "https://phys.org/news/2026-07-ai-sars-cov-variants-prevalent.html",
-      "summary": "While headlines warn that AI could unleash future biological threats, the technology also offers our best defense: a way to anticipate viral evolution and stress-test treatments. R",
-      "date": "2026-07-28T16:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-designed-sars-cov-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-28T17:41:19Z"
-    },
-    {
-      "title": "Killer whales sink another boat off the coast of Spain — why are they still doing this after 6 years?",
-      "link": "https://www.livescience.com/animals/orcas/killer-whales-sink-another-boat-off-the-coast-of-spain-why-are-they-still-doing-this-after-6-years",
-      "summary": "A small, endangered pod of orcas off Spain and Portugal has sunk at least eight boats since 2020, and despite speculation, the real explanation might have nothing to do with reveng",
-      "date": "Tue, 28 Jul 2026 16Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/bt6te7BW84WW6Ji8Fksi9E-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-28T17:41:20Z"
-    },
-    {
-      "title": "Condors Reach 600, But the Cause of Death Hasn’t Changed",
-      "link": "https://www.10000birds.com/condors-reach-600-but-the-cause-of-death-hasnt-changed.htm?utm_source=rss&utm_medium=rss&utm_campaign=condors-reach-600-but-the-cause-of-death-hasnt-changed",
-      "summary": "Decades of intensive conservation work brought the California Condor back from the brink of extinction, yet its recovery remains fragile. Despite all the effort, lead poisoning con",
-      "date": "Tue, 28 Jul 2026 14Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/image-4.jpeg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-07-28T15:26:03Z"
-    },
-    {
-      "title": "Earthquake in Japan triggers mall collapse in Kumamoto",
-      "link": "https://earthsky.org/earth/earthquake-in-japan-6-8-mall-collapse-in-kumamoto/",
-      "summary": "Japan earthquake triggers mall collapse in Kumamoto The Japan Meteorological Agency (JMA) reported an earthquake registering a magnitude 7.1 in... The post Earthquake in Japan trig",
-      "date": "Tue, 28 Jul 2026 15Z",
-      "image": "https://earthsky.org/upl/2026/07/Japan-Earthquake-USGS-Jul-28-2026-e1785250135664.png",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-28T15:26:09Z"
-    },
-    {
-      "title": "See a Rare Ceiling Fresco From Pompeii That Archaeologists Are Carefully Reassembling, Piece by Piece, Like an Ancient Puzzle",
-      "link": "https://www.smithsonianmag.com/smart-news/see-a-rare-ceiling-fresco-from-pompeii-that-archaeologists-are-carefully-reassembling-piece-by-piece-like-an-ancient-puzzle-180989209/",
-      "summary": "Located in the banquet hall of a home with an adjoining bakery, the fresco shows the mythological romance of Dionysus, the god of revelry and wine, and Ariadne, the Cretan princess",
-      "date": "Tue, 28 Jul 2026 14Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/VJITK9bsiSn1UNf22YSupng6u00=/420x240/filters:focal(596x510:597x511)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/23/1a/231a3df2-a7e7-4ef8-9039-1a7fb2f22c01/soffitto-casa-panificio-regio-ix-9-1-1191x1024.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-28T15:26:16Z"
-    },
-    {
-      "title": "An Endangered Kemp's Ridley Sea Turtle Named Pancake Makes a Triumphant Return to the Ocean After Months of Rehabilitation",
-      "link": "https://www.smithsonianmag.com/smart-news/an-endangered-kemps-ridley-sea-turtle-named-pancake-makes-a-triumphant-return-to-the-ocean-after-months-of-rehabilitation-180989205/",
-      "summary": "The cold-stunned turtle was rescued last fall on Cape Cod and has since made a full recovery. The reptile, whose sex remains unknown, is estimated to be between 2 and 5 years old a",
-      "date": "Tue, 28 Jul 2026 14Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/ixpjDgp27F6AcP6Hn1EuQM8JEmg=/420x240/filters:focal(800x602:801x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0b/4c/0b4c5c07-6f4e-41b1-9e45-40d5b79cac11/pancake_release_-_credit_mary_dixon_wcs_2.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-28T15:26:16Z"
-    },
-    {
-      "title": "This 1863 Massacre Was the Deadliest Slaughter of Native Americans in U.S. History. Now, the Shoshone Are Restoring the Site of the Attack",
-      "link": "https://www.smithsonianmag.com/history/this-1863-massacre-was-the-deadliest-slaughter-of-native-americans-in-us-history-now-the-shoshone-are-restoring-the-site-of-the-attack-180989200/",
-      "summary": "Amid mounting tensions between white settlers and the Shoshone, Union soldiers killed an estimated 250 to 500 Shoshone. Today, the Indigenous nation is working to bring \"nature bac",
-      "date": "Tue, 28 Jul 2026 12Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/lW40DlCB61VLA78to3JZrfAI6kM=/420x240/filters:focal(1128x752:1129x753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7c/51/7c51535e-f62b-4688-80a7-40a744294846/2m5hrrj.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-28T15:26:16Z"
-    },
-    {
-      "title": "‘Forever chemicals’ could be aging dolphins beyond their years",
-      "link": "https://www.sciencenews.org/article/forever-chemicals-aging-dolphins",
-      "summary": "Common dolphins in New Zealand are biologically older than their calendar ages. Trace metals and “forever chemicals” may be to blame.",
-      "date": "Tue, 28 Jul 2026 13Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/072026_LR_dolphin-aging_feat.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-28T15:26:17Z"
     }
   ]
 }
