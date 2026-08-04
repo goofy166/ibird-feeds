@@ -1,8 +1,107 @@
 {
-  "updated": "2026-08-04T17:56:19Z",
-  "updated_utc": "2026-08-04T17:56:19Z",
+  "updated": "2026-08-04T19:47:25Z",
+  "updated_utc": "2026-08-04T19:47:25Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Two People Died After Getting Sick With Cyclosporiasis, Marking the First Known Deaths Linked to the Ongoing Multi-State Outbreak",
+      "link": "https://www.smithsonianmag.com/smart-news/two-peope-died-after-getting-sick-with-cyclosporiasis-marking-the-first-known-deaths-linked-to-the-ongoing-multi-state-outbreak-180989256/",
+      "summary": "Both patients, who were in Michigan, had underlying health conditions, according to state officials. The parasite-caused infection usually isn't life-threatening",
+      "date": "Tue, 04 Aug 2026 19Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/mL-PsOTZ46OJf_5O67cHLIiKvYM=/420x240/filters:focal(2573x1715:2574x1716)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ca/4b/ca4b0251-c164-46ac-b5e3-81148b1a2fe0/cyclospora.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-04T19:47:16Z"
+    },
+    {
+      "title": "The Danube River Has Fallen to Record-Low Water Levels, Revealing Nazi Warships, Bombs and Woolly Mammoth Bones In Its Channel",
+      "link": "https://www.smithsonianmag.com/smart-news/the-danube-river-has-fallen-to-record-low-water-levels-revealing-nazi-warships-bombs-and-woolly-mammoth-bones-in-its-channel-180989255/",
+      "summary": "Residents and researchers are finding historic and prehistoric relics of the past as Europe's second-longest river dries",
+      "date": "Tue, 04 Aug 2026 18Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/98uC3i5Kq4IHCcl-I3rWklWP8bE=/420x240/filters:focal(810x540:811x541)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a6/ed/a6edd465-75b5-40a0-ad71-ad4d1271eef2/river_i.jpg",
+      "name": "Smithsonian",
+      "category": "butterflies",
+      "color": 10,
+      "fetched_at": "2026-08-04T19:47:16Z"
+    },
+    {
+      "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
+      "link": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
+      "summary": "A flowering plant has been confirmed as a new carnivorous lineage, according to research published in Nature Communications. The findings show that Saxifraga candelabrum can attrac",
+      "date": "2026-08-04T19:40:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/carnivorous-plants-con.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T19:47:21Z"
+    },
+    {
+      "title": "Miscanthus roots reveal deeper soils may retain more stable carbon",
+      "link": "https://phys.org/news/2026-08-miscanthus-roots-reveal-deeper-soils.html",
+      "summary": "Deeply rooted perennial plants may help build soil carbon (C) stocks, but most research has focused on shallow soils, resulting in gaps in our understanding of how the balance betw",
+      "date": "2026-08-04T19:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/1-soil.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T19:47:21Z"
+    },
+    {
+      "title": "Why some people are mosquito magnets while others get away unbitten",
+      "link": "https://phys.org/news/2026-08-people-mosquito-magnets-unbitten.html",
+      "summary": "Some mosquitoes really are picky eaters. They will not just stick their proboscis into any old human. We know this anecdotally, with some people claiming they are always bitten whi",
+      "date": "2026-08-04T19:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/mosquito-3.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T19:47:21Z"
+    },
+    {
+      "title": "3D DNA mapping in rare immune cells reveals new genes linked with autoimmune disease risk",
+      "link": "https://phys.org/news/2026-08-3d-dna-rare-immune-cells.html",
+      "summary": "Our DNA is often pictured as a simple spiral, like a piece of rope held taut. But inside cells, it folds into a complex three-dimensional structure, with 2 meters (6.6 feet) of DNA",
+      "date": "2026-08-04T19:00:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/dna.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T19:47:21Z"
+    },
+    {
+      "title": "Field trials support oil-rich sorghum as a potential sustainable aviation fuel feedstock",
+      "link": "https://phys.org/news/2026-08-field-trials-oil-rich-sorghum.html",
+      "summary": "In a new study by the Center for Advanced Bioenergy and Bioproducts Innovation (CABBI), researchers evaluated oil sorghum lines in Nebraska and Illinois over two years to quantify ",
+      "date": "2026-08-04T18:40:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2016/sorghum.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T19:47:21Z"
+    },
+    {
+      "title": "New method could sharpen diamond quantum sensors for tracking activity in single cells",
+      "link": "https://phys.org/news/2026-08-method-sharpen-diamond-quantum-sensors.html",
+      "summary": "A diamond-based quantum sensor inserted into a living cell can provide previously unseen levels of detail about how life works and how diseases form. \"Think of it as an EKG for a s",
+      "date": "2026-08-04T18:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-method-could-sharp.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T19:47:21Z"
+    },
+    {
+      "title": "Mythical mountain god inspires name for China's first freshwater cave snail",
+      "link": "https://phys.org/news/2026-08-mythical-mountain-god-china-freshwater.html",
+      "summary": "A team of scientists has announced the discovery of Erhaia dijiang, a species of eyeless freshwater cave snail.",
+      "date": "2026-08-04T18:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chinas-first-cave-dwel.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-04T19:47:21Z"
+    },
     {
       "title": "Forget the goals and PBs – just enjoy it | Brief letters",
       "link": "https://www.theguardian.com/sport/2026/aug/04/forget-the-goals-and-pbs-just-enjoy-it",
@@ -5403,105 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-07-28T15:26:17Z"
-    },
-    {
-      "title": "Jaguar makes epic 2100-kilometre journey across the Amazon",
-      "link": "https://www.newscientist.com/article/2581557-jaguar-makes-epic-2100-kilometre-journey-across-the-amazon/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "A jaguar that has been dubbed Gaspar traversed 2100 kilometres of the Amazon, crossing farms and roads. But why he set off on this mission is unclear",
-      "date": "Tue, 28 Jul 2026 15Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306589648.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-28T15:26:18Z"
-    },
-    {
-      "title": "An island has been waging a war on rats. They think they’ve finally won",
-      "link": "https://www.newscientist.com/article/2579731-an-island-has-been-waging-a-war-on-rats-they-think-theyve-finally-won/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Rats are a scourge on island wildlife all over the world. But an island off the coast of Ireland is showing how to successfully gain the upper hand",
-      "date": "Tue, 28 Jul 2026 15Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305186531.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-28T15:26:18Z"
-    },
-    {
-      "title": "Matcha is under threat from climate change – can genomics save it?",
-      "link": "https://www.newscientist.com/article/2581783-matcha-is-under-threat-from-climate-change-can-genomics-save-it/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Climate change is affecting the yields and flavour of the traditional Japanese tea matcha, but studying its seedlings' genetic tolerance for heat could future-proof the crop",
-      "date": "Tue, 28 Jul 2026 14Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305871463.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-28T15:26:18Z"
-    },
-    {
-      "title": "Asteroid strike caused global firestorm that incinerated the dinosaurs",
-      "link": "https://www.newscientist.com/article/2581822-asteroid-strike-caused-global-firestorm-that-incinerated-the-dinosaurs/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "After the Chicxulub impact 66 million years ago, trillions of tonnes of rock vapour was launched into space before falling back to Earth at ballistic speeds, creating a global blas",
-      "date": "Tue, 28 Jul 2026 13Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306667803.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-28T15:26:18Z"
-    },
-    {
-      "title": "Similarity between human and bovine cells could advance drug discovery",
-      "link": "https://phys.org/news/2026-07-similarity-human-bovine-cells-advance.html",
-      "summary": "Apoptosis is the natural process by which damaged or no longer needed cells are eliminated from the body. Researchers have long investigated how this mechanism might be manipulated",
-      "date": "2026-07-28T15:20:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cow.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-28T15:26:21Z"
-    },
-    {
-      "title": "A lipid switch that blocks anthrax from entering cells",
-      "link": "https://phys.org/news/2026-07-lipid-blocks-anthrax-cells.html",
-      "summary": "Every cell carefully builds and positions thousands of proteins that allow it to sense and respond to its surroundings. Even small changes to these proteins often determine whether",
-      "date": "2026-07-28T15:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-lipid-switch-that-bl.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-28T15:26:21Z"
-    },
-    {
-      "title": "One grain to rule them all: History of rice as a global food",
-      "link": "https://phys.org/news/2026-07-grain-history-rice-global-food.html",
-      "summary": "Rice is the most popular food in the world, providing sustenance to more than 3.5 billion people each day.",
-      "date": "2026-07-28T14:00:21Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-grain-to-rule-them.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-28T15:26:21Z"
-    },
-    {
-      "title": "New Ribo-Tweezer tool can pluck individual protein pieces out of a working ribosome",
-      "link": "https://phys.org/news/2026-07-ribo-tweezer-tool-pluck-individual.html",
-      "summary": "Every human cell has millions of ribosomes that make proteins. For decades, biologists thought of ribosomes as tiny, uniform machines. But now a Stanford Medicine team is showing t",
-      "date": "2026-07-28T13:40:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-ribo-tweezer-tool.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-28T15:26:21Z"
-    },
-    {
-      "title": "Review explains links between plasmids, horizontal gene transfer and antimicrobial resistance",
-      "link": "https://phys.org/news/2026-07-links-plasmids-horizontal-gene-antimicrobial.html",
-      "summary": "The arms race between bacteria and antibiotics is nothing new—antimicrobial resistance has been an emerging issue in human and animal health for a long time. But in a new review pu",
-      "date": "2026-07-28T13:20:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/pills-4.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-28T15:26:21Z"
     }
   ]
 }
