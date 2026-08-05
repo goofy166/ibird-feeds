@@ -1,8 +1,118 @@
 {
-  "updated": "2026-08-05T19:45:33Z",
-  "updated_utc": "2026-08-05T19:45:33Z",
+  "updated": "2026-08-05T21:19:12Z",
+  "updated_utc": "2026-08-05T21:19:12Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Total solar eclipse to dazzle observers on August 12",
+      "link": "https://earthsky.org/astronomy-essentials/total-solar-eclipse-visible-august-12-2026/",
+      "summary": "On August 12, 2026, a total solar eclipse will be visible from the Arctic, Greenland, Iceland, and Spain. And western Europe will see a partial eclipse. The post Total solar eclips",
+      "date": "2026-08-05T20:45:50Z",
+      "image": "https://earthsky.org/upl/2026/07/Aug-12-2026-eclipse-map-Michael-Zeiler-e1783696370183.png",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-05T21:18:57Z"
+    },
+    {
+      "title": "A.I. Went to the Opera, Creating Images for an Anniversary Production of Wagner's 'Ring Cycle' at the Theater Where He First Staged the Masterpiece",
+      "link": "https://www.smithsonianmag.com/smart-news/ai-went-to-the-opera-projecting-images-for-an-anniversary-production-of-wagners-ring-cycle-at-the-theater-where-he-first-staged-the-masterpiece-180989270/",
+      "summary": "It took Richard Wagner a quarter-century to complete the four-part opera. The new production, called \"10010110,\" uses generative artificial intelligence to explore the artwork’s ev",
+      "date": "2026-08-05T21:03:01Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/s4Kl2SOQoShTMKb9ese1gMLevWY=/420x240/filters:focal(721x542:722x543)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/23/cc/23cc4325-0370-4aab-9160-3f1e5dd3292a/droneshot-festspielhaus-c-corinna-weih.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-05T21:19:03Z"
+    },
+    {
+      "title": "Neptune May Have Once Witnessed a Lunar Massacre That Turned Its Original Moons 'Inside Out'",
+      "link": "https://www.smithsonianmag.com/smart-news/neptune-may-have-once-witnessed-a-lunar-massacre-that-turned-its-original-moons-inside-out-180989266/",
+      "summary": "A new study identifies an unexpected mineral in two of the planet’s inner moons, pointing to a destructive past in which a large object got pulled into the system and obliterated t",
+      "date": "2026-08-05T20:51:47Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/XbULV1Ntb8bXfqSxepVXnn5W-DY=/420x240/filters:focal(700x373:701x374)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ec/10/ec10052e-b603-4a08-b51e-49e8ad05ac32/brown_mike-neptune-inner-moons-news-webmax-1400x800.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-05T21:19:03Z"
+    },
+    {
+      "title": "Three factors in midlife can delay the onset of dementia by 13 years",
+      "link": "https://www.newscientist.com/article/2583480-three-factors-in-midlife-can-delay-the-onset-of-dementia-by-13-years/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "A study involving 12,000 adults in the US suggests that taking action to prevent dementia during your 50s can make a big difference later in life",
+      "date": "2026-08-05T20:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307430695.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-05T21:19:05Z"
+    },
+    {
+      "title": "Little-known protein helps the body restrain scar-forming signals",
+      "link": "https://phys.org/news/2026-08-protein-body-restrain-scar.html",
+      "summary": "U.K. and U.S. scientists have uncovered an important piece of the puzzle in the signaling pathway that causes damaging scar tissue to build up in the body, raising hopes for future",
+      "date": "2026-08-05T21:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/protein-discovery-shed.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-05T21:19:07Z"
+    },
+    {
+      "title": "Artificial cells reveal how living ones take shape",
+      "link": "https://phys.org/news/2026-08-artificial-cells-reveal.html",
+      "summary": "Using simple artificial cells, a research group led by Makito Miyazaki of the RIKEN Center for Integrative Medical Sciences (IMS) in Japan has uncovered fundamental physical princi",
+      "date": "2026-08-05T20:40:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/artificial-cells-revea.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-05T21:19:07Z"
+    },
+    {
+      "title": "Well-worn wins: Wild capuchin monkeys prefer stones with a proven track record of cracking nuts",
+      "link": "https://phys.org/news/2026-08-worn-wild-capuchin-monkeys-stones.html",
+      "summary": "A new study provides experimental evidence that wild capuchin monkeys use more than just physical cues when selecting stone tools; they also rely on visible signs that a stone has ",
+      "date": "2026-08-05T20:20:09Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/well-worn-wins-wild-ca.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-05T21:19:07Z"
+    },
+    {
+      "title": "A small molecular module helps time development of C. elegans",
+      "link": "https://phys.org/news/2026-08-small-molecular-module-elegans.html",
+      "summary": "For an animal to develop normally, cells must not only become the right types but also do so at the right time. In the worm C. elegans, the protein LIN28 has long been known as an ",
+      "date": "2026-08-05T20:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-small-molecular-modu.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-05T21:19:07Z"
+    },
+    {
+      "title": "Genomic evidence suggests coral reefs may be rewriting their genetic future in real time",
+      "link": "https://phys.org/news/2026-08-genomic-evidence-coral-reefs-rewriting.html",
+      "summary": "The 2019 heat wave that struck Mo'orea—a volcanic island in French Polynesia—swept through its coral reefs like an invisible wildfire. Colorful, lively corals bleached into ghostly",
+      "date": "2026-08-05T20:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-deadly-heat-waves-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-05T21:19:07Z"
+    },
+    {
+      "title": "A star 20 times the size of the sun died in a supernova — and telescopes around the world joined forces to watch it",
+      "link": "https://www.livescience.com/space/astronomy/a-star-20-times-the-size-of-the-sun-died-in-a-supernova-and-telescopes-around-the-world-joined-forces-to-watch-it",
+      "summary": "A team of telescopes around the world, including the newly activated Vera C. Rubin Observatory, joined forces to observe the first shocking moments of a supernova explosion in unpr",
+      "date": "2026-08-05T19:47:46Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/rkpkxdvfympkr7aaUSeUm7-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-05T21:19:09Z"
+    },
     {
       "title": "40 Types of Rabbit-Resistant Plants You Can Grow (2026)",
       "link": "https://birdwatchinghq.com/rabbit-resistant-plants/",
@@ -5392,116 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-07-29T17:21:56Z"
-    },
-    {
-      "title": "I Tried Jeremy Jones’ New Caddis Glasses. You Should Too.",
-      "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/jeremy-jones-caddis-glasses/",
-      "summary": "Snowboard legend Jeremy Jones partners with Caddis Eyewear on a new signature collection. The post I Tried Jeremy Jones’ New Caddis Glasses. You Should Too. appeared first on Outsi",
-      "date": "2026-07-29T15:13:52Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/Copy-of-Untitled-Design-6.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-29T17:21:56Z"
-    },
-    {
-      "title": "Heading to a National Park? Watch Out for Elk. They Attack People Way More Often Than Bears Do, According to a New Study",
-      "link": "https://www.smithsonianmag.com/smart-news/heading-to-a-national-park-watch-out-for-elk-they-attack-people-way-more-often-than-bears-do-according-to-a-new-study-180989191/",
-      "summary": "While many people worry about grizzlies, an analysis of almost 3,000 encounters with aggressive wildlife in Canadian national parks and historical sites found that the huge ungulat",
-      "date": "2026-07-29T15:08:46Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/1HUZY8sZXeeEkueYsltARui3vQ8=/420x240/filters:focal(3000x1914:3001x1915)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7c/43/7c433fd4-081a-4f89-9189-60761a816000/elk.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-29T17:21:58Z"
-    },
-    {
-      "title": "Our verdict on Claire North’s space opera Slow Gods: a big thumbs-up",
-      "link": "https://www.newscientist.com/article/2582069-our-verdict-on-claire-norths-space-opera-slow-gods-a-big-thumbs-up/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "There was unusual consensus amongst New Scientist Book Club members about our read for July, with readers falling over themselves to praise this big-concept slice of science fictio",
-      "date": "2026-07-29T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI306761493.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-29T17:22:00Z"
-    },
-    {
-      "title": "Worry about what your children eat, but don’t forget your own diet",
-      "link": "https://www.newscientist.com/article/2581627-worry-about-what-your-children-eat-but-dont-forget-your-own-diet/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Measures like bans on advertising junk food to children are essential for instilling healthy eating at a young age, but we shouldn't let adults off the hook when it comes to improv",
-      "date": "2026-07-29T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306579722.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-29T17:22:00Z"
-    },
-    {
-      "title": "Twisteddoodles on twin studies",
-      "link": "https://www.newscientist.com/article/2581501-twisteddoodles-on-twin-studies/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "This week's cartoon from Twisteddoodles",
-      "date": "2026-07-29T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306585575.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-29T17:22:00Z"
-    },
-    {
-      "title": "Tom Gauld on the Great Wise One",
-      "link": "https://www.newscientist.com/article/2581497-tom-gauld-on-the-great-wise-one/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Tom Gauld's weekly cartoon",
-      "date": "2026-07-29T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306585550.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-29T17:22:00Z"
-    },
-    {
-      "title": "A handy guide to the science of super-long fingernails",
-      "link": "https://www.newscientist.com/article/2581378-a-handy-guide-to-the-science-of-super-long-fingernails/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Feedback is delighted by a deep dive into why people sometimes wear \"artificially elongated fingernails\". But does it do more than just scratch the surface?",
-      "date": "2026-07-29T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306691819.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-29T17:22:00Z"
-    },
-    {
-      "title": "This week’s new questions",
-      "link": "https://www.newscientist.com/article/2581376-this-weeks-new-questions-356/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "If the sun suddenly disappeared, how long would life on Earth last, from humans and plants to subterranean bacteria? And why do humans so readily adopt fiction into our lives, and ",
-      "date": "2026-07-29T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306065072.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-29T17:22:00Z"
-    },
-    {
-      "title": "Are flies following a strategy when they keep hitting windows? Part 3",
-      "link": "https://www.newscientist.com/article/2581375-are-flies-following-a-strategy-when-they-keep-hitting-windows-part-3/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "An Australian reader with an abundance of flies in their locality tries to answer a question that has intrigued many of our readers",
-      "date": "2026-07-29T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_299710196_f52388.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-29T17:22:00Z"
-    },
-    {
-      "title": "Why don’t dogs look up when a low-flying plane passes overhead?",
-      "link": "https://www.newscientist.com/article/2581374-why-dont-dogs-look-up-when-a-low-flying-plane-passes-overhead/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "One correspondent with a particularly intelligent dog begs to differ with this question, while another looks to deepen the mystery",
-      "date": "2026-07-29T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_304354522.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-29T17:22:00Z"
     }
   ]
 }
