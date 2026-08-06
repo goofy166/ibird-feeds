@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-06T06:38:05Z",
-  "updated_utc": "2026-08-06T06:38:05Z",
+  "updated": "2026-08-06T09:44:24Z",
+  "updated_utc": "2026-08-06T09:44:24Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The 85-million-year timeline of human evolution",
+      "link": "https://www.newscientist.com/article/2583039-timeline-of-human-evolution/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Combining archaeological evidence with ancient DNA and data on past climates shows us how long and winding the story of human evolution is, stretching back millions of years to whe",
+      "date": "Thu, 06 Aug 2026 08Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_306154827.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-06T09:44:18Z"
+    },
+    {
+      "title": "Engineers build world's first portable diamond-powered quantum computer — it works at room temperature and can be plugged into an outlet",
+      "link": "https://www.livescience.com/technology/quantum/scientists-built-a-room-temperature-quantum-computer-with-diamond-based-qubits",
+      "summary": "The world's first portable, room-temperature quantum computer with more than 10 qubits utilizes flawed lab-made diamonds. The quantum system fits into a standard server rack and co",
+      "date": "Thu, 06 Aug 2026 09Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/zigq86fYYr5Xz7yYTbxtgU-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-06T09:44:21Z"
+    },
     {
       "title": "6 Secrets to Take Award-Worthy Hummingbird Photos",
       "link": "https://www.birdsandblooms.com/birding/bird-photography/how-take-hummingbird-photos/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-07-29T19:33:51Z"
-    },
-    {
-      "title": "Gonorrhea's own enzyme triggers therapy against multidrug-resistant strains in lab tests",
-      "link": "https://phys.org/news/2026-07-gonorrhea-enzyme-triggers-therapy-multidrug.html",
-      "summary": "Scientists at the Universities of Liverpool and Oxford have developed a promising new way to kill antibiotic-resistant strains of Neisseria gonorrhoeae, the bacterium that causes g",
-      "date": "2026-07-29T18:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/antimicrobial-resistan-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-29T19:33:53Z"
-    },
-    {
-      "title": "Monkey friendships with dogs, deer and even pigs offer clues to the evolutionary origins of pet-keeping",
-      "link": "https://phys.org/news/2026-07-monkey-friendships-dogs-deer-pigs.html",
-      "summary": "Why do humans keep pets? A new international study suggests that some of the behavioral foundations of human-animal companionship may have much deeper evolutionary roots than previ",
-      "date": "2026-07-29T18:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/monkey-friendships-wit.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-29T19:33:53Z"
     }
   ]
 }
