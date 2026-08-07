@@ -1,8 +1,96 @@
 {
-  "updated": "2026-08-07T17:53:14Z",
-  "updated_utc": "2026-08-07T17:53:14Z",
+  "updated": "2026-08-07T19:06:38Z",
+  "updated_utc": "2026-08-07T19:06:38Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The 18 Best Deals at the Backcountry Summer Sale",
+      "link": "https://www.outsideonline.com/outdoor-gear/gear-news/backcountry-summer-sale-2026/",
+      "summary": "Back-to-school sales may be dominating right now, but don’t assume only backpacks and water bottles are up for grabs. Backcountry’s Summer Semi-Annual Sale just dropped, and you ca",
+      "date": "2026-08-07T18:08:42Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/OOL-Deal-Tile-C-2400x1350-2.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-07T19:06:29Z"
+    },
+    {
+      "title": "One of Italy's Most Popular Attractions, the Uffizi Galleries in Florence, Reveals Plans for a Major Renovation Over the Next Two Years",
+      "link": "https://www.smithsonianmag.com/smart-news/one-of-italys-most-popular-attractions-the-uffizi-galleries-in-florence-reveals-plans-for-a-major-renovation-over-the-next-two-years-180989295/",
+      "summary": "The collection of treasures, many of them connected to the Medici family, includes Italian Renaissance masterpieces, a palace and a courtly garden",
+      "date": "2026-08-07T18:22:09Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/zGDMpMQI1U_jd_IjqQp2-n8wsQ8=/420x240/filters:focal(613x409:614x410)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c4/1e/c41e4480-acae-4ab4-bebc-4a7140b2f42e/uffizi1.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-07T19:06:30Z"
+    },
+    {
+      "title": "New platform speeds bacterial gene mapping for better biotech design",
+      "link": "https://phys.org/news/2026-08-platform-bacterial-gene-biotech.html",
+      "summary": "Scientists at the Department of Energy's Oak Ridge National Laboratory have created a platform that pinpoints genetic triggers that turn microbes into efficient factories for new c",
+      "date": "2026-08-07T19:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-platform-speeds-ba.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-07T19:06:35Z"
+    },
+    {
+      "title": "Mobile fungal 'Starship' carries protein that triggers crop leaf loss",
+      "link": "https://phys.org/news/2026-08-mobile-fungal-starship-protein-triggers.html",
+      "summary": "An international research team led by plant scientist Professor Dr. Bart Thomma of the Institute of Plant Sciences at the University of Cologne, the MiBiNet Collaborative Research ",
+      "date": "2026-08-07T18:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-discover-a-17.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-07T19:06:35Z"
+    },
+    {
+      "title": "First full zoysia grass genetic blueprint opens doors for drought-tolerant turf",
+      "link": "https://phys.org/news/2026-08-full-zoysia-grass-genetic-blueprint.html",
+      "summary": "A new genomic resource from the Texas A&M AgriLife Research plant genomics team is providing a powerful new foundation for faster, more precise turfgrass genetics and breeding. The",
+      "date": "2026-08-07T18:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-full-zoysia-gras.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-07T19:06:35Z"
+    },
+    {
+      "title": "The creatures born from code: Generative AI threatens to upend citizen science records",
+      "link": "https://phys.org/news/2026-08-creatures-born-code-generative-ai.html",
+      "summary": "You need to tread carefully among the leaf litter of the Indonesian scrubland and its tropical rainforests. The dead leaves might seem caught in a gentle breeze, but there's more h",
+      "date": "2026-08-07T18:00:11Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-creatures-born-fro.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-07T19:06:35Z"
+    },
+    {
+      "title": "Hidden hormone–habitat relationship revealed in reef fish",
+      "link": "https://phys.org/news/2026-08-hidden-hormonehabitat-relationship-revealed-reef.html",
+      "summary": "In the animal kingdom, only those that adapt to their environment survive. This adaptation takes a wide range of forms, from invisible internal shifts in gene expression to dramati",
+      "date": "2026-08-07T18:00:09Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-hormonehabitat.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-07T19:06:35Z"
+    },
+    {
+      "title": "Birdsong and whale song show patterns similar to human language",
+      "link": "https://phys.org/news/2026-08-birdsong-whale-song-patterns-similar.html",
+      "summary": "An international team of researchers has uncovered a previously undetected structure in the birdsong of Bengalese finches that has the same statistical patterns found in human lang",
+      "date": "2026-08-07T18:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/birdsong-and-whale-son.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-07T19:06:35Z"
+    },
     {
       "title": "Do Penguins Have Knees?",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/do-penguins-have-knees/",
@@ -5414,94 +5502,6 @@
       "category": "birds",
       "color": 0,
       "fetched_at": "2026-07-30T18:22:02Z"
-    },
-    {
-      "title": "Woodpeckers in Maryland: Top 8 Species with Pictures",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/woodpeckers-in-maryland-top-8-species-with-pictures/",
-      "summary": "There are many species of woodpeckers in the United States. They’re known for their colorful plumage and playful attitude. As the fifth greenest state, Maryland has the … Read More",
-      "date": "2026-05-10T23:34:23Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/05/Hairy-Woodpecker-by-Cephas.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-07-30T18:22:02Z"
-    },
-    {
-      "title": "How to Attract Goldfinches in Winter: The Complete Guide",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/how-to-attract-goldfinches-in-winter-the-complete-guide/",
-      "summary": "American Goldfinches are a joy to witness with their vibrant yellow coloring and black and white wing markings. Not to mention that the cheerful chirping … Read More \"How to Attrac",
-      "date": "2026-05-10T23:29:29Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/07/How-Goldfinches-Change-Colors-by-Season.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-07-30T18:22:02Z"
-    },
-    {
-      "title": "7 Amazing Raccoon Facts That Might Surprise You",
-      "link": "https://www.birdsandblooms.com/gardening/backyard-wildlife/raccoon-facts/",
-      "summary": "How fast do raccoons run? Why do they have a black 'mask?' Learn all about these adorable critters with our collection of raccoon facts. The post 7 Amazing Raccoon Facts That Might",
-      "date": "2026-07-22T20:41:29Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2024/01/GettyImages-1456624849-e1784752501405.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-07-30T18:22:06Z"
-    },
-    {
-      "title": "Autopsy of Monterey-area shark attack victim Erica Fox shows single crushing bite",
-      "link": "https://www.mercurynews.com/2026/07/30/autopsy-monterey-pacific-grove-lovers-point-shark-attack-erica-fox-single-large-bite/",
-      "summary": "The office of the Santa Cruz County Coroner determined Fox died from 'sharp and blunt force injuries and submersion in water due to a shark attack.'",
-      "date": "Thu, 30 Jul 2026 17Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2025/12/SJM-L-BODYFOUND-1229-20.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-07-30T18:22:13Z"
-    },
-    {
-      "title": "Northern California hospital runs out of antivenom saving man bitten by rattlesnake",
-      "link": "https://www.mercurynews.com/2026/07/14/northern-california-hospital-runs-out-of-antivenom-saving-man-bitten-by-rattlesnake/",
-      "summary": "The encounter is one in a \"concerning\" surge in rattlesnake bites in California this year, including 3 fatal incidents.",
-      "date": "2026-07-15T00:37:56Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/GettyImages-531151433.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-07-30T18:22:13Z"
-    },
-    {
-      "title": "Inside the Record-Breaking Snow Hitting South America’s Famed Ski Resorts Right Now",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/south-america/andes-snowstorm-2026-south-america-record-snowfall/",
-      "summary": "The U.S. ski season was a bust, but the Andes are getting hammered right now with their biggest snowstorms in decades. Our Chile-based contributor shares an inside look at the ulti",
-      "date": "Thu, 30 Jul 2026 17Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/South-America-Ski-Resort-Snowstorm-.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-30T18:22:16Z"
-    },
-    {
-      "title": "Want to Spend Some Alone Time With Stonehenge? This August, Lucky Visitors Get the Chance to Enter the Stone Circle Before the Site Opens to Tourists",
-      "link": "https://www.smithsonianmag.com/smart-news/want-to-spend-some-alone-time-with-stonehenge-this-august-lucky-visitors-get-the-chance-to-enter-the-stone-circle-before-the-site-opens-to-tourists-180989229/",
-      "summary": "Almost every day next month, management of the prehistoric landmark in England will draw a winning ticket and offer a unique experience to a visitor before the daily bustle begins",
-      "date": "Thu, 30 Jul 2026 18Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/_Cz9R-vCegcrS6ibPT_7TliAN-M=/420x240/filters:focal(1024x683:1025x684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7f/8c/7f8cb0af-0f79-41e4-b99e-c839de54393c/760105096_1068465752384744_4078152700966747378_n.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-30T18:22:17Z"
-    },
-    {
-      "title": "A Man Unearthed a Mysterious Metal Object Sticking Straight Up From the Ground. It Turned Out to Be a 2,700-Year-Old Sword",
-      "link": "https://www.smithsonianmag.com/smart-news/a-man-unearthed-a-mysterious-metal-object-sticking-straight-up-from-the-ground-it-turned-out-to-be-a-2700-year-old-sword-180989232/",
-      "summary": "Marcin Wiśniewski found the weapon while metal detecting in a forest near the Polish city of Gdańsk. Experts told him that it likely dates to between 900 and 700 B.C.E.",
-      "date": "Thu, 30 Jul 2026 17Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/ypG3tTZ5zDrLfkjJpxDz77esuzg=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/34/85/34858fb0-cf7e-419d-9b4d-2a63e21ee1b3/sword.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-30T18:22:17Z"
     }
   ]
 }
