@@ -1,8 +1,52 @@
 {
-  "updated": "2026-08-07T09:07:49Z",
-  "updated_utc": "2026-08-07T09:07:49Z",
+  "updated": "2026-08-07T10:59:13Z",
+  "updated_utc": "2026-08-07T10:59:13Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The electromagnetic spectrum: It’s more than visible light",
+      "link": "https://earthsky.org/space/what-is-the-electromagnetic-spectrum/",
+      "summary": "The light our eyes can detect is only a sliver of the light out there. The electromagnetic spectrum describes all the wavelengths of light, seen and unseen. The post The electromag",
+      "date": "2026-08-07T10:15:46Z",
+      "image": "https://earthsky.org/upl/2020/04/wavelength-light-e1587759003569.gif",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-07T10:58:59Z"
+    },
+    {
+      "title": "Drought and heat push Europe’s power grid to breaking point",
+      "link": "https://www.newscientist.com/article/2583740-drought-and-heat-push-europes-power-grid-to-breaking-point/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "High temperatures and low water levels have forced several countries to shut down nuclear reactors just as citizens turn up their air conditioning, forcing energy prices to spike a",
+      "date": "2026-08-07T09:52:11Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307605664.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-07T10:59:08Z"
+    },
+    {
+      "title": "NASA grants Voyager 2 probe another year of power with risky 'Big Bang' maneuver. Now, will it work for Voyager 1?",
+      "link": "https://www.livescience.com/space/space-exploration/nasa-grants-voyager-2-probe-another-year-of-power-with-risky-big-bang-maneuver-now-will-it-work-for-voyager-1",
+      "summary": "Voyager 1 is running low on power for science, but a successful energy-saving maneuver on Voyager 2 raises hope that the 50-year-old spacecraft can keep going.",
+      "date": "2026-08-07T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/UbGVdsGpa7MfEzeSc6yadJ-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-07T10:59:11Z"
+    },
+    {
+      "title": "AI found a weakness in one of the world's most studied encryption systems — is your data under threat?",
+      "link": "https://www.livescience.com/technology/artificial-intelligence/ai-found-a-weakness-in-one-of-the-worlds-most-studied-encryption-systems-is-your-data-under-threat",
+      "summary": "No, AI hasn't cracked the encryption protecting your bank account. But experts say Anthropic's latest research could change how tomorrow's cryptography is tested.",
+      "date": "2026-08-07T09:30:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/KrvcrDnyGHMnfmTgUzWmKa-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-07T10:59:11Z"
+    },
     {
       "title": "Owls in Virginia: 8 Stunning Nighttime Predators for You to See",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/owls-in-virginia-8-stunning-nighttime-predators-for-you-to-see/",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-07-30T14:21:57Z"
-    },
-    {
-      "title": "Origami-inspired sensor could continuously monitor our vital signs",
-      "link": "https://www.newscientist.com/article/2582486-origami-inspired-sensor-could-continuously-monitor-our-vital-signs/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "A tiny sensor that unfolds within the body could continuously monitor our heart activity and breathing after showing promise in rats",
-      "date": "Thu, 30 Jul 2026 14Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306791973.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-30T14:21:58Z"
-    },
-    {
-      "title": "Henrietta Lacks’s descendant on her legacy – and Rebecca Skloot’s book",
-      "link": "https://www.newscientist.com/article/2582362-henrietta-lackss-descendant-on-her-legacy-and-rebecca-skloots-book/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Rebecca Skloot told the story of Henrietta Lacks and how her cells were taken without her permission in a bestselling book, The Immortal Life of Henrietta Lacks. Reading it left Al",
-      "date": "Thu, 30 Jul 2026 12Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI306884919.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-30T14:21:58Z"
-    },
-    {
-      "title": "New research shows the Golgi complex is involved in DNA repair control",
-      "link": "https://phys.org/news/2026-07-golgi-complex-involved-dna.html",
-      "summary": "Our DNA is under constant threat. Chemicals, radiation and the everyday errors of cell division all damage it, and if left unrepaired, this can lead to diseases such as cancer. Cel",
-      "date": "2026-07-30T14:00:10Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-shows-the.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-30T14:22:00Z"
-    },
-    {
-      "title": "Mapping endangered habitats with the help of citizen scientists and satellite data",
-      "link": "https://phys.org/news/2026-07-endangered-habitats-citizen-scientists-satellite.html",
-      "summary": "As biodiversity declines and many of the UK's most important habitats become smaller and more fragmented, conservation organizations need accurate, up-to-date maps to protect wildl",
-      "date": "2026-07-30T13:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mapping-endangered-hab.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-30T14:22:00Z"
     }
   ]
 }
