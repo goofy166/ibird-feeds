@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-07T00:09:00Z",
-  "updated_utc": "2026-08-07T00:09:00Z",
+  "updated": "2026-08-07T03:54:35Z",
+  "updated_utc": "2026-08-07T03:54:35Z",
   "count": 500,
   "stories": [
+    {
+      "title": "6 Ways to Prep Your Garden for Winter",
+      "link": "https://www.birdsandblooms.com/gardening/gardening-basics/6-ways-to-prep-your-garden-for-winter/",
+      "summary": "Garden prep for winter smarter, not harder! These tips and tricks from Birds & Blooms readers make preparing fun — and easy, too. The post 6 Ways to Prep Your Garden for Winter app",
+      "date": "2026-07-22T14:29:21Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/GettyImages-2245129043-e1784730435152.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-08-07T03:54:16Z"
+    },
     {
       "title": "6 Fascinating Opossum Facts You Should Know",
       "link": "https://www.birdsandblooms.com/gardening/backyard-wildlife/opossum-facts/",
@@ -5491,17 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-07-30T11:14:51Z"
-    },
-    {
-      "title": "11 Fall Flower Pictures That Showcase Autumn’s Beauty",
-      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/fall-flower-pictures-that-showcase-autumns-beauty/",
-      "summary": "Appreciate the splendor of the season with these colorful fall flower pictures submitted by Birds & Blooms readers. The post 11 Fall Flower Pictures That Showcase Autumn’s Beauty a",
-      "date": "2026-07-22T15:39:56Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/17_David-Heilman_BBXfall25.jpg?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-07-30T11:14:53Z"
     }
   ]
 }
