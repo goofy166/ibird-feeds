@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-07T21:47:12Z",
-  "updated_utc": "2026-08-07T21:47:12Z",
+  "updated": "2026-08-07T22:45:06Z",
+  "updated_utc": "2026-08-07T22:45:06Z",
   "count": 500,
   "stories": [
+    {
+      "title": "9 Bird Photography Mistakes You Should Never Make",
+      "link": "https://www.birdsandblooms.com/birding/bird-photography/bird-photography-mistakes/",
+      "summary": "Frustrated that your bird photos don't look very good? Stop making these common bird photography mistakes and you'll see your images improve. The post 9 Bird Photography Mistakes Y",
+      "date": "Thu, 30 Jul 2026 19Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/GettyImages-172511055-e1785421782297.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-08-07T22:44:48Z"
+    },
+    {
+      "title": "The National Park Service Removed 51 Historical Signs. Court Filings Show at Least 13 Were Thrown Away.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/nps-removed-signs-discarded-lawsuit/",
+      "summary": "Court filings reveal the National Park Service threw out at least 13 signs and exhibits removed from parks under recent directives, with more unaccounted for. The post The National",
+      "date": "2026-08-07T21:55:58Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/GettyImages-2283943581.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-07T22:44:57Z"
+    },
     {
       "title": "Hawks in Georgia",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/hawks-in-georgia/",
@@ -5476,28 +5498,6 @@
       "summary": "In a study published in Nature Communications biophysicists unravel the mystery of how muscles form at the molecular level and maintain their function. The findings may help design",
       "date": "2026-07-30T21:40:07Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-solve-myste.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-30T22:13:23Z"
-    },
-    {
-      "title": "Study investigates how seven different Central European tree species respond to metal-contaminated soils",
-      "link": "https://phys.org/news/2026-07-central-european-tree-species-metal.html",
-      "summary": "For centuries, artisanal and industrial activities have left many soils polluted with excessive levels of heavy metals such as zinc, cadmium, copper and lead, posing a threat to th",
-      "date": "2026-07-30T21:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-investigates-how-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-30T22:13:23Z"
-    },
-    {
-      "title": "Combined rattlesnake proteins prove 10 times more potent than current antivenom in lab tests",
-      "link": "https://phys.org/news/2026-07-combined-rattlesnake-proteins-potent-current.html",
-      "summary": "University of Maryland researchers discovered a new approach to treating venomous snakebites—using the same toxin-blocking proteins that snakes evolved to protect themselves. The t",
-      "date": "2026-07-30T20:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-an-1.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
