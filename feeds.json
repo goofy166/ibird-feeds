@@ -1,8 +1,63 @@
 {
-  "updated": "2026-08-07T15:00:25Z",
-  "updated_utc": "2026-08-07T15:00:25Z",
+  "updated": "2026-08-07T16:05:22Z",
+  "updated_utc": "2026-08-07T16:05:22Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Sculptures: Birds in the House",
+      "link": "https://www.10000birds.com/sculptures-birds-in-the-house.htm?utm_source=rss&utm_medium=rss&utm_campaign=sculptures-birds-in-the-house",
+      "summary": "I am a failed artist. At the age of 18 my ambition was to become a bird artist and illustrator, I came as close to my dream as to be interviewed for a place at art school. I had al",
+      "date": "2026-08-07T15:59:00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/08/P8073168-scaled.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-08-07T16:05:03Z"
+    },
+    {
+      "title": "Traces of Two Extinct 'Ghost' Ancestors Were Found Hiding in Modern Human DNA, Hinting at Our Extremely Complex Family Tree",
+      "link": "https://www.smithsonianmag.com/smart-news/traces-of-two-extinct-ghost-ancestors-were-found-hiding-in-modern-human-dna-hinting-at-our-extremely-complex-family-tree-180989250/",
+      "summary": "Researchers used a new method to investigate past interbreeding with Homo sapiens that doesn't require ancient DNA. The technique identified areas of living humans' genomes that ca",
+      "date": "2026-08-07T15:34:44Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/wWamRrEAbJ5GCqZmNeq_cbTX16U=/420x240/filters:focal(1280x744:1281x745)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/34/e8/34e8ec6a-e29c-44fc-bd4b-046753d01071/updated_illustration_marohn-scaled.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-07T16:05:15Z"
+    },
+    {
+      "title": "Ancient Greek rings may have been forged with iron from meteorites",
+      "link": "https://www.sciencenews.org/article/bronze-age-greek-rings-iron-meteorites",
+      "summary": "Chemical analysis of Bronze Age iron objects indicate that Greek nobles may have indulged in signet rings made with precious metal from the sky.",
+      "date": "2026-08-07T16:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/080426_TM_meteoriterings_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-08-07T16:05:16Z"
+    },
+    {
+      "title": "Protein-enriched ketchup gets boost from algae extracts",
+      "link": "https://phys.org/news/2026-08-protein-enriched-ketchup-boost-algae.html",
+      "summary": "Added protein is showing up in foods from breakfast cereal to pasta, but not many condiments … yet. Researchers have now developed an enriched tomato ketchup by incorporating prote",
+      "date": "2026-08-07T16:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/protein-enriched-ketch.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-07T16:05:18Z"
+    },
+    {
+      "title": "Different genes, same result: How flies evolved multiple ways to define heads and tails",
+      "link": "https://phys.org/news/2026-08-genes-result-flies-evolved-multiple.html",
+      "summary": "One of the most important milestones in the early life of an organism is when the embryo breaks symmetry and arranges itself to form the head (anterior) at one end and tail (poster",
+      "date": "2026-08-07T15:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/different-genes-same-r.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-07T16:05:18Z"
+    },
     {
       "title": "First a Volcanic Eruption, Now a Crustacean Invasion? See the Giant Lobsters Taking Over the Ancient City of Pompeii",
       "link": "https://www.smithsonianmag.com/smart-news/first-a-volcanic-eruption-now-a-crustacean-invasion-see-the-giant-lobsters-taking-over-the-ancient-city-of-pompeii-180989275/",
@@ -5447,61 +5502,6 @@
       "category": "birds",
       "color": 0,
       "fetched_at": "2026-07-30T16:40:58Z"
-    },
-    {
-      "title": "Do Penguins Have Knees?",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/do-penguins-have-knees/",
-      "summary": "What makes penguins a sweet sight in the bird world is their waddling. They don’t seem to have legs as their feet appear right out … Read More \"Do Penguins Have Knees?\"",
-      "date": "2026-05-10T23:24:50Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/03/Penguin-by-Joshua-Ryder.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-07-30T16:40:58Z"
-    },
-    {
-      "title": "Do Birds and Squirrels Get Along? Forest Friends or Foes",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/do-birds-and-squirrels-get-along-forest-friends-or-foes/",
-      "summary": "Squirrels are fantastic acrobats and will go to great lengths to get what they want. Birdseed and nuts are among their favorite meal options. If … Read More \"Do Birds and Squirrels",
-      "date": "2026-05-10T23:22:53Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/02/downy-woodpecker-feeding-scaled.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-07-30T16:40:58Z"
-    },
-    {
-      "title": "Woodpeckers in Minnesota: Top 8 Species with Pictures",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/woodpeckers-in-minnesota-top-8-species-with-pictures/",
-      "summary": "Did you know that woodpeckers can peck up to 20 times in one second? The speed of how they move their heads sometimes exceeds 15 … Read More \"Woodpeckers in Minnesota: Top 8 Specie",
-      "date": "2026-05-10T23:20:58Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2024/08/red-breasted-sapsucker-alexander-viduetsky-410x465-1.jpeg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-07-30T16:40:58Z"
-    },
-    {
-      "title": "Woodpeckers in Virginia: The Top 8 Species with Pictures",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/woodpeckers-in-virginia-the-top-8-species-with-pictures/",
-      "summary": "Virginia is a beautiful state that has a lot of appealing, culturally diverse sites to offer its people. The one thing that will stand out … Read More \"Woodpeckers in Virginia: The",
-      "date": "2026-05-10T23:17:26Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2024/08/Red-headedWoodpecker-Rushing.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-07-30T16:40:58Z"
-    },
-    {
-      "title": "Do Birds Eat Wasps, Hornets and Bees?",
-      "link": "https://www.birdsandblooms.com/birding/birding-basics/do-birds-eat-wasps/",
-      "summary": "Many birds eat a variety of foods, but are wasps on the menu? Our experts explain whether birds eat wasps, and which birds may snack on them. The post Do Birds Eat Wasps, Hornets a",
-      "date": "2026-07-22T16:22:25Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/GettyImages-1445334528-e1784737274714.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-07-30T16:41:02Z"
     }
   ]
 }
