@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-07T05:45:49Z",
-  "updated_utc": "2026-08-07T05:45:49Z",
+  "updated": "2026-08-07T07:27:01Z",
+  "updated_utc": "2026-08-07T07:27:01Z",
   "count": 500,
   "stories": [
+    {
+      "title": "4 ways to watch a solar eclipse without burning your eyes",
+      "link": "https://www.newscientist.com/article/2582016-4-ways-to-watch-a-solar-eclipse-without-burning-your-eyes/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Even during a solar eclipse, it isn’t safe to look directly at the sun, but with a proper solar filter or a simple pinhole projector, you can still watch it disappear behind the mo",
+      "date": "2026-08-07T07:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306777552_e85cc7.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-07T07:26:56Z"
+    },
+    {
+      "title": "US firm takes on backyard mosquitoes—with 600,000 mosquitoes",
+      "link": "https://phys.org/news/2026-08-firm-backyard-mosquitoes.html",
+      "summary": "Todd Montgomery pops the lid off a small tube and taps out hundreds of mosquitoes into the backyard of a suburban home outside Washington.",
+      "date": "2026-08-07T07:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wolbachia-bacteria-is.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-07T07:26:58Z"
+    },
+    {
+      "title": "Camels find unlikely home in outback Australia",
+      "link": "https://phys.org/news/2026-08-camels-home-outback-australia.html",
+      "summary": "Far from their origins in the Arabian desert, hundreds of thousands of camels roam outback Australia, where they are used for wild races, an alternative milk source and even to mak",
+      "date": "2026-08-07T06:33:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/humpalicious-farms-cam.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-07T07:26:58Z"
+    },
     {
       "title": "11 Fall Flower Pictures That Showcase Autumn’s Beauty",
       "link": "https://www.birdsandblooms.com/gardening/flower-gardening/fall-flower-pictures-that-showcase-autumns-beauty/",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-30T14:22:00Z"
-    },
-    {
-      "title": "Learning more about Australia's remote Northwest reefs with Indigenous rangers",
-      "link": "https://phys.org/news/2026-07-australia-remote-northwest-reefs-indigenous.html",
-      "summary": "Offshore Northwest reefs Rankin Bank and Glomar Shoal are remote and little known, but Australian Institute of Marine Science (AIMS) researchers are using technology and people pow",
-      "date": "2026-07-30T11:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/learning-more-about-au.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-30T14:22:00Z"
-    },
-    {
-      "title": "Inflammation may trigger persistent 'out-of-body' experiences, emerging research hints",
-      "link": "https://www.livescience.com/health/neuroscience/inflammation-may-trigger-persistent-out-of-body-experiences-emerging-research-hints",
-      "summary": "Researchers are investigating whether immune dysfunction can help explain dissociative disorders.",
-      "date": "Thu, 30 Jul 2026 12Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Gdz4m5eSPCv4aYnorFVS8E-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-30T14:22:02Z"
-    },
-    {
-      "title": "Owls in Virginia: 8 Stunning Nighttime Predators for You to See",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/owls-in-virginia-8-stunning-nighttime-predators-for-you-to-see/",
-      "summary": "The state of Virginia houses eight gorgeous species of owls. Some appear in just about every region of the state—like Great Horned Owls and Barn … Read More \"Owls in Virginia: 8 St",
-      "date": "2026-05-10T23:10:49Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/11/snowy-owls-in-chicago-5-scaled.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-07-30T11:14:49Z"
     }
   ]
 }
