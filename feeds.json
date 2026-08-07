@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-07T03:54:35Z",
-  "updated_utc": "2026-08-07T03:54:35Z",
+  "updated": "2026-08-07T05:45:49Z",
+  "updated_utc": "2026-08-07T05:45:49Z",
   "count": 500,
   "stories": [
+    {
+      "title": "11 Fall Flower Pictures That Showcase Autumn’s Beauty",
+      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/fall-flower-pictures-that-showcase-autumns-beauty/",
+      "summary": "Appreciate the splendor of the season with these colorful fall flower pictures submitted by Birds & Blooms readers. The post 11 Fall Flower Pictures That Showcase Autumn’s Beauty a",
+      "date": "2026-07-22T15:39:56Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/17_David-Heilman_BBXfall25.jpg?fit=700,1024",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-08-07T05:45:30Z"
+    },
+    {
+      "title": "Week in wildlife: a tiger release, an Exmoor eagle and Pallas’s kittens",
+      "link": "https://www.theguardian.com/environment/gallery/2026/aug/07/week-in-wildlife-a-tiger-release-an-exmoor-eagle-and-pallass-kittens",
+      "summary": "This week’s best wildlife photographs from around the world Continue reading...",
+      "date": "2026-08-07T05:00:09Z",
+      "image": "https://i.guim.co.uk/img/media/ee11e6a063a981520119177678717409c4658bb8/725_197_1278_1023/master/1278.jpg?width=140&quality=85&auto=format&fit=max&s=d80cca3db4a060b9c852281fbdf41b62",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-07T05:45:34Z"
+    },
     {
       "title": "6 Ways to Prep Your Garden for Winter",
       "link": "https://www.birdsandblooms.com/gardening/gardening-basics/6-ways-to-prep-your-garden-for-winter/",
@@ -5480,28 +5502,6 @@
       "category": "birds",
       "color": 0,
       "fetched_at": "2026-07-30T11:14:49Z"
-    },
-    {
-      "title": "Ten Birds that are bad at being birds",
-      "link": "https://www.10000birds.com/ten-birds-that-are-bad-at-being-birds.htm?utm_source=rss&utm_medium=rss&utm_campaign=ten-birds-that-are-bad-at-being-birds",
-      "summary": "Well, they are not really bad at being birds – evolutionarily speaking, they are extremely good at being exactly the birds they are. But they fail at the things humans stereotypica",
-      "date": "Thu, 30 Jul 2026 11Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/6319592021_d3b6ab6855_c.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-07-30T11:14:51Z"
-    },
-    {
-      "title": "Demotivational Posters for Birds (XLII)",
-      "link": "https://www.10000birds.com/demotivational-posters-for-birds-xlii.htm?utm_source=rss&utm_medium=rss&utm_campaign=demotivational-posters-for-birds-xlii",
-      "summary": "Some readers have asked how long this series can possibly continue. The answer is simple: as long as birds keep making questionable decisions, adopting ridiculous poses, fighting o",
-      "date": "Thu, 30 Jul 2026 11Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/2-1.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-07-30T11:14:51Z"
     }
   ]
 }
