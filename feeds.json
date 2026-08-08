@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-08T19:35:43Z",
-  "updated_utc": "2026-08-08T19:35:43Z",
+  "updated": "2026-08-08T20:37:58Z",
+  "updated_utc": "2026-08-08T20:37:58Z",
   "count": 500,
   "stories": [
+    {
+      "title": "When bird flu hit the UK, suffering seabirds died in their thousands. Australia’s wild flocks will soon do the same",
+      "link": "https://www.theguardian.com/world/2026/aug/09/bird-flu-australia-thousands-of-deaths-expected-global-modelling",
+      "summary": "Australia’s bird population will experience ‘large mortalities’ and risk species loss, modelling based on global outbreaks shows Get our breaking news email , free app or daily new",
+      "date": "2026-08-08T20:00:09Z",
+      "image": "https://i.guim.co.uk/img/media/62db495f6c2c3fa2445c3c6cf01fcb97c01f2374/0_0_3537_2819/master/3537.jpg?width=140&quality=85&auto=format&fit=max&s=491c8252884899ee0ab96100037bbda0",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-08T20:37:42Z"
+    },
+    {
+      "title": "Fears of ‘catastrophic’ decline of giant Australian cuttlefish after only 44 counted in dive survey",
+      "link": "https://www.theguardian.com/environment/2026/aug/09/giant-australian-cuttlefish-population-catastrophic-decline",
+      "summary": "Calls for South Australian government to release official estimates for cuttlefish, which once numbered in hundreds of thousands in upper Spencer Gulf Get our breaking news email ,",
+      "date": "2026-08-08T20:00:09Z",
+      "image": "https://i.guim.co.uk/img/media/901f669dce8387f63abeb584d0c8f9246cbf0724/170_1323_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=4fa003a12e7507b57f4eec1245a4f145",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-08T20:37:42Z"
+    },
     {
       "title": "Butterfly ranges shift worldwide amid climate change, with most species expanding their reach",
       "link": "https://phys.org/news/2026-08-butterfly-ranges-shift-worldwide-climate.html",
@@ -5476,28 +5498,6 @@
       "summary": "In this extract from Peter Heller’s novel, the August read for the New Scientist Book Club, we are introduced to pilot Hig, who lives alone after most of the world was killed in a ",
       "date": "2026-07-31T08:25:00Z",
       "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI305970238.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-31T10:47:28Z"
-    },
-    {
-      "title": "How I wrote The Dog Stars, the novel behind Ridley Scott’s new film",
-      "link": "https://www.newscientist.com/article/2582498-how-i-wrote-the-dog-stars-the-novel-behind-ridley-scotts-new-film/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Set in an empty world after a superflu pandemic wipes out most of humanity, Peter Heller's The Dog Stars - the August read for the New Scientist Book Club - will be released as a f",
-      "date": "2026-07-31T08:15:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI305967715.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-31T10:47:28Z"
-    },
-    {
-      "title": "Why full-fledged quantum computers might always be five years away",
-      "link": "https://www.newscientist.com/article/2582565-why-full-fledged-quantum-computers-might-always-be-five-years-away/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "To predict when we’ll have a truly useful quantum computer, we need to know precisely what one is. Columnist Karmela Padavic-Callaghan finds that’s harder to pin down than you migh",
-      "date": "2026-07-31T08:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306891714.jpg",
       "name": "New Scientist",
       "category": "insects",
       "color": 12,
