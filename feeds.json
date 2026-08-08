@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-08T13:02:49Z",
-  "updated_utc": "2026-08-08T13:02:49Z",
+  "updated": "2026-08-08T14:38:28Z",
+  "updated_utc": "2026-08-08T14:38:28Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Dodos probably weren't as stupid as historians made them out to be: new research",
+      "link": "https://phys.org/news/2026-08-dodos-werent-stupid-historians.html",
+      "summary": "The dodo has been extinct for more than 300 years, wiped out within decades of humans arriving on its home island of Mauritius, but it lives on in the public imagination.",
+      "date": "2026-08-08T14:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dodos-probably-werent-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-08T14:38:25Z"
+    },
     {
       "title": "Gut cells may measure hunger by how watery their insides become",
       "link": "https://phys.org/news/2026-08-gut-cells-hunger-watery-insides.html",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-07-31T07:55:46Z"
-    },
-    {
-      "title": "The last trio: S.Africa's zoo elephants await their fate",
-      "link": "https://phys.org/news/2026-07-trio-safrica-zoo-elephants-await.html",
-      "summary": "The last three elephants still in a traditional South African zoo entered their enclosure in single file, with fruit and vegetables scattered on the ground to encourage natural for",
-      "date": "2026-07-31T07:03:11Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/johannesburg-city-park-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-31T07:55:56Z"
     }
   ]
 }
