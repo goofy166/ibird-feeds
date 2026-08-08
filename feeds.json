@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-08T21:37:05Z",
-  "updated_utc": "2026-08-08T21:37:05Z",
+  "updated": "2026-08-08T22:36:32Z",
+  "updated_utc": "2026-08-08T22:36:32Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Lion saved as cub from Ukraine war and brought to US battles rare fungal disease",
+      "link": "https://www.theguardian.com/us-news/2026/aug/08/ukrainian-lion-fights-fungal-disease",
+      "summary": "Four-year-old Taras, who now resides at a Minnesota sanctuary, was diagnosed with an often fatal infection A lion that escaped the war in Ukraine after being found as a four-month-",
+      "date": "2026-08-08T13:00:46Z",
+      "image": "https://i.guim.co.uk/img/media/cf66c14695c54ab16692a04eee41f66b379b3e14/0_0_7506_6009/master/7506.jpg?width=140&quality=85&auto=format&fit=max&s=c740d906d0c2c66584a959c765b3f0b2",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-08T22:36:17Z"
+    },
     {
       "title": "When bird flu hit the UK, suffering seabirds died in their thousands. Australia’s wild flocks will soon do the same",
       "link": "https://www.theguardian.com/world/2026/aug/09/bird-flu-australia-thousands-of-deaths-expected-global-modelling",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-07-31T10:47:20Z"
-    },
-    {
-      "title": "Read an extract from The Dog Stars by Peter Heller",
-      "link": "https://www.newscientist.com/article/2582512-read-an-extract-from-the-dog-stars-by-peter-heller/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "In this extract from Peter Heller’s novel, the August read for the New Scientist Book Club, we are introduced to pilot Hig, who lives alone after most of the world was killed in a ",
-      "date": "2026-07-31T08:25:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI305970238.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-31T10:47:28Z"
     }
   ]
 }
