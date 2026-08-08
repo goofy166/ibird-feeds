@@ -1,8 +1,52 @@
 {
-  "updated": "2026-08-08T09:44:55Z",
-  "updated_utc": "2026-08-08T09:44:55Z",
+  "updated": "2026-08-08T10:40:15Z",
+  "updated_utc": "2026-08-08T10:40:15Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Rosemary Parslow obituary",
+      "link": "https://www.theguardian.com/environment/2026/aug/08/rosemary-parslow-obituary",
+      "summary": "Conservationist who became an authority on the wildlife of the Isles of Scilly and collected specimens for the Natural History Museum Rosemary Parslow, who has died aged 90, spent ",
+      "date": "2026-08-08T10:00:43Z",
+      "image": "https://i.guim.co.uk/img/media/d0e6ee21bd302846af3ba016e4b0e4ea8555d447/326_181_768_615/master/768.jpg?width=140&quality=85&auto=format&fit=max&s=803c55c52031b3ddc02247853358a98e",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-08T10:39:59Z"
+    },
+    {
+      "title": "Christopher Harry on a summer of devastating wildfires – cartoon",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/aug/08/christopher-harry-on-a-summer-of-devastating-wildfires-cartoon",
+      "summary": "Continue reading...",
+      "date": "2026-08-08T10:00:43Z",
+      "image": "https://i.guim.co.uk/img/media/5b26637f6ff8e833bbc1f9447fa89186f371cb69/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8f75cc88e3aaa311b8f550a7bc35c709",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-08T10:39:59Z"
+    },
+    {
+      "title": "My Dream Grand Canyon River Trip Did Not Go As Planned. Neither Does Life.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/water-activities/grand-canyon-rafting-river-trip-life-lessons/",
+      "summary": "I have dreamed of rafting the Colorado River through the length of the Grand Canyon for as long as I can remember. My parents met on a river trip on the Rio Grande and raised my br",
+      "date": "2026-08-08T09:59:00Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/2CCC082E-21A2-4666-AD12-208276DE4ABE_1_102_o.jpeg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-08T10:40:05Z"
+    },
+    {
+      "title": "Nocturnal 'coffee frog' discovered in Costa Rica",
+      "link": "https://phys.org/news/2026-08-nocturnal-coffee-frog-costa-rica.html",
+      "summary": "A tiny greenish, nocturnal frog that thrives in coffee plantations has been discovered in Costa Rica's central Pacific region, where it also faces risks from agrochemicals used in ",
+      "date": "2026-08-08T10:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nicknamed-the-coffee-f.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-08T10:40:12Z"
+    },
     {
       "title": "What's the difference between sweet potatoes and yams?",
       "link": "https://www.livescience.com/planet-earth/whats-the-difference-between-sweet-potatoes-and-yams",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-31T00:09:47Z"
-    },
-    {
-      "title": "How an embryo draws the line between body and germline",
-      "link": "https://phys.org/news/2026-07-embryo-line-body-germline.html",
-      "summary": "Every embryo of an organism that reproduces sexually faces an early and consequential decision: which of its cell lineages will make up the mortal body, and which will become the g",
-      "date": "2026-07-30T22:20:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-an-embryo-draws-th.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-31T00:09:47Z"
-    },
-    {
-      "title": "Bacteria may identify a virus without recognizing its DNA",
-      "link": "https://phys.org/news/2026-07-bacteria-virus-dna.html",
-      "summary": "When a virus enters a cell, its top priority is to replicate its genome rapidly, creating new viruses to infect elsewhere. The host has the opposite priority: to destroy the virus,",
-      "date": "2026-07-30T22:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bacteria-may-identify.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-31T00:09:47Z"
-    },
-    {
-      "title": "Nirmal “Nims” Purja Missing After an Avalanche in Pakistan",
-      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/nirmal-nims-purja-missing-after-avalanche-in-pakistan/",
-      "summary": "A massive avalanche on the 26,400-foot-tall Broad Peak has left ten climbers missing, including Nirmal “Nims” Purja. The post Nirmal “Nims” Purja Missing After an Avalanche in Paki",
-      "date": "Thu, 30 Jul 2026 21Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/nims-2.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-30T22:13:17Z"
-    },
-    {
-      "title": "Audio Engineers Restored Hidden Notes and Revealed Lost Instruments in This New Treasure Trove of Songs by the Pioneering 'Mother of the Blues'",
-      "link": "https://www.smithsonianmag.com/smart-news/audio-engineers-restored-hidden-notes-and-revealed-lost-instruments-in-this-new-treasure-trove-of-songs-by-the-pioneering-mother-of-the-blues-180989228/",
-      "summary": "The 118-track collection is the most complete set ever compiled of recordings by American blues icon Ma Rainey",
-      "date": "Thu, 30 Jul 2026 20Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/E7-My4rO2MOe-a-R6JnOhdbXncc=/420x240/filters:focal(965x717:966x718)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b9/6b/b96bad73-e2aa-4e5c-b61c-dd86e41d0c4b/box-set-flat.jpg",
-      "name": "Smithsonian",
-      "category": "butterflies",
-      "color": 10,
-      "fetched_at": "2026-07-30T22:13:19Z"
     }
   ]
 }
