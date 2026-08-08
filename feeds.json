@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-08T17:37:11Z",
-  "updated_utc": "2026-08-08T17:37:11Z",
+  "updated": "2026-08-08T18:49:14Z",
+  "updated_utc": "2026-08-08T18:49:14Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Butterfly ranges shift worldwide amid climate change, with most species expanding their reach",
+      "link": "https://phys.org/news/2026-08-butterfly-ranges-shift-worldwide-climate.html",
+      "summary": "A global analysis of range-shift records for 1,758 butterfly species—10% of known butterfly species—found that 80% had expanded their range and that 79% of all recorded range shift",
+      "date": "2026-08-08T17:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/butterfly.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-08-08T18:49:10Z"
+    },
     {
       "title": "Pulsed radiofrequency magnetic fields may disorient migratory birds, experiments suggest",
       "link": "https://phys.org/news/2026-08-pulsed-radiofrequency-magnetic-fields-disorient.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-07-31T10:47:28Z"
-    },
-    {
-      "title": "Alzheimer's blood tests are transforming how patients get diagnosed — here's what to know",
-      "link": "https://www.livescience.com/health/alzheimers-dementia/alzheimers-blood-tests-are-transforming-how-patients-get-diagnosed-heres-what-to-know",
-      "summary": "New tests for Alzheimer's are helping people who are at risk of dementia get clarity on their condition, Live Science reports from the Alzheimer's Association International Confere",
-      "date": "2026-07-31T09:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Xd6o5UZzHLzJo6eBmA3wNM-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-31T10:47:32Z"
     }
   ]
 }
