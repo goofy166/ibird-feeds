@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-08T08:50:53Z",
-  "updated_utc": "2026-08-08T08:50:53Z",
+  "updated": "2026-08-08T09:44:55Z",
+  "updated_utc": "2026-08-08T09:44:55Z",
   "count": 500,
   "stories": [
+    {
+      "title": "What's the difference between sweet potatoes and yams?",
+      "link": "https://www.livescience.com/planet-earth/whats-the-difference-between-sweet-potatoes-and-yams",
+      "summary": "Here are the main differences between yams and sweet potatoes and how to tell them apart.",
+      "date": "2026-08-08T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/5fWMpMG6PGGWzQRsxVqs8W-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-08T09:44:52Z"
+    },
     {
       "title": "One million years without sex fails to erase stick insects' unused biological system",
       "link": "https://phys.org/news/2026-08-million-years-sex-erase-insects.html",
@@ -5491,17 +5502,6 @@
       "category": "butterflies",
       "color": 10,
       "fetched_at": "2026-07-30T22:13:19Z"
-    },
-    {
-      "title": "Uncovering the structure of the poxvirus 'portal complex'",
-      "link": "https://phys.org/news/2026-07-uncovering-poxvirus-portal-complex.html",
-      "summary": "Poxviruses have a long history in human disease as well as medicine: The first-ever vaccine was developed to protect against smallpox, which has since been eradicated. Despite this",
-      "date": "2026-07-30T22:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tuning-into-the-channe.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-30T22:13:23Z"
     }
   ]
 }
