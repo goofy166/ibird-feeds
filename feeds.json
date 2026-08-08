@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-08T14:38:28Z",
-  "updated_utc": "2026-08-08T14:38:28Z",
+  "updated": "2026-08-08T15:36:28Z",
+  "updated_utc": "2026-08-08T15:36:28Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Dodo birds more clever than we thought",
+      "link": "https://phys.org/news/2026-08-dodo-birds-clever-thought.html",
+      "summary": "The Mauritian dodo—a global symbol of human-caused extinction and one of the world's largest pigeons—may not have deserved its reputation as a silly simpleton and may have been the",
+      "date": "2026-08-08T15:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dodo-birds-more-clever.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-08T15:36:24Z"
+    },
+    {
+      "title": "How winter canola could profit Illinois farmers, improve sustainability",
+      "link": "https://phys.org/news/2026-08-winter-canola-profit-illinois-farmers.html",
+      "summary": "A new simulation study from the University of Illinois Urbana-Champaign suggests winter canola could be profitable and environmentally beneficial if added to a conventional corn-so",
+      "date": "2026-08-08T14:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-winter-canola-coul.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-08T15:36:24Z"
+    },
+    {
+      "title": "Using AI has an environmental impact — here are 4 ways you can minimize it",
+      "link": "https://www.livescience.com/technology/artificial-intelligence/using-ai-has-an-environmental-impact-here-are-4-ways-you-can-minimize-it",
+      "summary": "Escalating use of tools like Gemini and ChatGPT saps more and more power. Experts offer some tips on how to consume less.",
+      "date": "2026-08-08T15:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/D3taKMzD2gNtWcQLxdM37D-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-08T15:36:25Z"
+    },
     {
       "title": "Dodos probably weren't as stupid as historians made them out to be: new research",
       "link": "https://phys.org/news/2026-08-dodos-werent-stupid-historians.html",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-07-31T10:47:32Z"
-    },
-    {
-      "title": "Suffolk wildfire near Sizewell nuclear plant ‘stabilising’ after 24 hours",
-      "link": "https://www.theguardian.com/uk-news/2026/jul/31/suffolk-wildfire-sizewell-nuclear-plant-dunwich-heath",
-      "summary": "More than 100 firefighters remain at scene after Dunwich Heath blaze spread across 150 hectares and forced evacuations Fire crews tackling a large wildfire burning for more than 24",
-      "date": "2026-07-31T07:48:44Z",
-      "image": "https://i.guim.co.uk/img/media/fcd48dcfd793e074babac2321e1d00f2b5571094/983_0_4917_3935/master/4917.jpg?width=140&quality=85&auto=format&fit=max&s=6883d768358a8840cb2a02fd1fca67dd",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-31T07:55:44Z"
-    },
-    {
-      "title": "Country diary: Rumours of glowworms set me off on a twilight stroll | Anita Roy",
-      "link": "https://www.theguardian.com/environment/2026/jul/31/country-diary-rumours-of-glowworms-set-me-off-on-a-twilight-stroll",
-      "summary": "Wellington, Somerset: Desiccated leaves crunch underfoot and ponds have shrunk to muddy pools. Will I catch a glimpse of bioluminescence? July is staggering to a close: exhausted, ",
-      "date": "2026-07-31T04:30:03Z",
-      "image": "https://i.guim.co.uk/img/media/913bfe897ea7449f7068d46b09d4510cabad8974/175_165_3302_2642/master/3302.jpg?width=140&quality=85&auto=format&fit=max&s=d9c739eb7f4735ec15df08ded7092359",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-31T07:55:44Z"
-    },
-    {
-      "title": "Look for Mercury farthest from the morning sun on August 2",
-      "link": "https://earthsky.org/astronomy-essentials/mercury-before-sunrise-greatest-elongation-west/",
-      "summary": "Mercury will reach its greatest elongation - greatest distance from the sunrise - on August 2, 2026. Look east at dawn. It'll be close to Jupiter on August 15. The post Look for Me",
-      "date": "2026-07-31T07:00:11Z",
-      "image": "https://earthsky.org/upl/2024/04/2024-May-Mercury-GWE.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-31T07:55:46Z"
     }
   ]
 }
