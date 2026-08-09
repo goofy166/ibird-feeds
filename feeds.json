@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-09T08:52:52Z",
-  "updated_utc": "2026-08-09T08:52:52Z",
+  "updated": "2026-08-09T09:48:57Z",
+  "updated_utc": "2026-08-09T09:48:57Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Who are the least-contacted people on Earth?",
+      "link": "https://www.livescience.com/human-behavior/who-are-the-least-contacted-people-on-earth",
+      "summary": "\"Uncontacted\" and \"isolated\" peoples live in roughly 10 countries around the world, including one group that erases their footprints so they cannot easily be found.",
+      "date": "2026-08-09T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/FMA9iMyoAt8CmZvw4DfoQJ-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-09T09:48:54Z"
+    },
     {
       "title": "Venus greatest distance from the sun August 14-15, 2026",
       "link": "https://earthsky.org/astronomy-essentials/venus-after-sunset-greatest-elongation/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-31T13:01:27Z"
-    },
-    {
-      "title": "IBM scientists claim they've achieved 'quantum advantage' — and they've dared others to prove them wrong",
-      "link": "https://www.livescience.com/technology/quantum/ibm-scientists-claim-theyve-achieved-quantum-advantage-and-theyve-dared-others-to-prove-them-wrong",
-      "summary": "Using IBM's quantum computer, scientists say they have shown in three different experiments that quantum computers can outpace classical machines in useful computations.",
-      "date": "2026-07-31T11:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/8UEqNhkaX6BFmTMhqZ4bLM-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-07-31T13:01:28Z"
     }
   ]
 }
