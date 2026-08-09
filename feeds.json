@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-09T07:06:18Z",
-  "updated_utc": "2026-08-09T07:06:18Z",
+  "updated": "2026-08-09T08:52:52Z",
+  "updated_utc": "2026-08-09T08:52:52Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Venus greatest distance from the sun August 14-15, 2026",
+      "link": "https://earthsky.org/astronomy-essentials/venus-after-sunset-greatest-elongation/",
+      "summary": "In 2026, look for Venus after sunset! It's high in August evening sky for all to see. It'll be brightest in the evening sky on September 22. The post Venus greatest distance from t",
+      "date": "2026-08-09T07:50:11Z",
+      "image": "https://earthsky.org/upl/2025/04/Venus-in-phases-December-to-March-2025-P-Govardhana-Siddartha-India.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-09T08:52:38Z"
+    },
     {
       "title": "‘These are human fires, not wildfires’: Dunwich reflects on the devastation",
       "link": "https://www.theguardian.com/uk-news/2026/aug/09/these-are-human-fires-not-wildfires-dunwich-reflects-on-the-devastation",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-07-31T13:01:28Z"
-    },
-    {
-      "title": "Week in wildlife: snub-nosed monkeys, amorous cobras and a milk-snatching fox",
-      "link": "https://www.theguardian.com/environment/gallery/2026/jul/31/week-in-wildlife-photographs-world-monkeys-cobras-fox",
-      "summary": "This week’s best wildlife photographs from around the world Continue reading...",
-      "date": "2026-07-31T09:13:33Z",
-      "image": "https://i.guim.co.uk/img/media/91d0455608f255cdba2472ca898e1cd5f6717731/1261_1008_1471_1177/master/1471.jpg?width=140&quality=85&auto=format&fit=max&s=2d5b2ad9d2ef013348e205168b4a2d90",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-31T10:47:19Z"
     }
   ]
 }
