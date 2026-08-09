@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-09T17:37:29Z",
-  "updated_utc": "2026-08-09T17:37:29Z",
+  "updated": "2026-08-09T18:51:57Z",
+  "updated_utc": "2026-08-09T18:51:57Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Early snakes explored life underground, on land and at sea",
+      "link": "https://phys.org/news/2026-08-early-snakes-explored-life-underground.html",
+      "summary": "Snakes are highly modified lizards, with more than 4,000 living species today. The origin of snakes has long been one of evolutionary biology's most debated questions. Their sparse",
+      "date": "2026-08-09T18:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/early-snakes-explored-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-09T18:51:54Z"
+    },
     {
       "title": "Australia has pledged to restore nature. But could we ever bring back lost ecosystems?",
       "link": "https://phys.org/news/2026-08-australia-pledged-nature-lost-ecosystems.html",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-07-31T13:01:15Z"
-    },
-    {
-      "title": "Star formation in Andromeda – our neighbor – is winding down",
-      "link": "https://earthsky.org/space/star-formation-in-andromeda-galaxy-is-winding-down/",
-      "summary": "Star formation in Andromeda - the giant spiral next door to us - is winding down, astronomers say. And it could be related to a nearby dwarf satellite galaxy. The post Star formati",
-      "date": "2026-07-31T11:58:04Z",
-      "image": "https://earthsky.org/upl/2026/07/star-formation-in-andromeda-NASA-e1785345680290.png",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-31T13:01:16Z"
     }
   ]
 }
