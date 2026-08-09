@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-09T05:51:18Z",
-  "updated_utc": "2026-08-09T05:51:18Z",
+  "updated": "2026-08-09T07:06:18Z",
+  "updated_utc": "2026-08-09T07:06:18Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘These are human fires, not wildfires’: Dunwich reflects on the devastation",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/09/these-are-human-fires-not-wildfires-dunwich-reflects-on-the-devastation",
+      "summary": "As residents, nature wardens and experts consider the damage to the heathland and how to restore it, the climate crisis is foremost in their minds A local community pulling togethe",
+      "date": "2026-08-09T06:00:07Z",
+      "image": "https://i.guim.co.uk/img/media/25d17d180b05344d8881a3e06abf995abcce3a32/626_0_6536_5229/master/6536.jpg?width=140&quality=85&auto=format&fit=max&s=d194e8f90a6dc0c0d06f5d6ce186148d",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-09T07:06:01Z"
+    },
     {
       "title": "Lion saved as cub from Ukraine war and brought to US battles rare fungal disease",
       "link": "https://www.theguardian.com/us-news/2026/aug/08/ukrainian-lion-fights-fungal-disease",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-07-31T10:47:19Z"
-    },
-    {
-      "title": "Planet-observing tips: Here’s how to tour the solar system",
-      "link": "https://earthsky.org/astronomy-essentials/planet-observing-top-tips/",
-      "summary": "Get our top tips for planet-observing, from the innermost and elusive Mercury out to faint blue Neptune and everything in between. Top tips here! The post Planet-observing tips: He",
-      "date": "2026-07-31T08:00:33Z",
-      "image": "https://earthsky.org/upl/2026/06/Venus-Jupiter-conjunction_Vegastar-Photography_France_1June2026-e1780659996304.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-07-31T10:47:20Z"
     }
   ]
 }
