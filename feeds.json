@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-09T22:38:23Z",
-  "updated_utc": "2026-08-09T22:38:23Z",
+  "updated": "2026-08-09T23:38:17Z",
+  "updated_utc": "2026-08-09T23:38:17Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How dogs evolved differently across the globe to match human traits",
+      "link": "https://phys.org/news/2026-08-dogs-evolved-differently-globe-human.html",
+      "summary": "We call them \"man's best friend,\" and the evidence supports it. Dogs have been found buried alongside humans in graves dating back 14,000 years. They appear in ancient art from eve",
+      "date": "2026-08-09T23:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dog-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-09T23:38:12Z"
+    },
     {
       "title": "The Joy of Seeing Less: Birding Svalbard Slowly",
       "link": "https://www.10000birds.com/the-joy-of-seeing-less-birding-svalbard-slowly.htm?utm_source=rss&utm_medium=rss&utm_campaign=the-joy-of-seeing-less-birding-svalbard-slowly",
@@ -5487,17 +5498,6 @@
       "summary": "How could I not write a post about a bird with this name? This is a real cat, Wolfie, one of the 13 sharing my apartment with me. The HBW profile starts promisingly: “The Gray Catb",
       "date": "2026-07-31T11:00:00Z",
       "image": "https://www.10000birds.com/wp-content/uploads/2026/07/Grey-Catbird_DSC4720_Bath-Maine-mid-Jun-2026.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-07-31T13:01:10Z"
-    },
-    {
-      "title": "Interviews with 10,000 Birds Writers: Luca Feuerriegel",
-      "link": "https://www.10000birds.com/interviews-with-10000-birds-writers-luca-feuerriegel.htm?utm_source=rss&utm_medium=rss&utm_campaign=interviews-with-10000-birds-writers-luca-feuerriegel",
-      "summary": "Your Birding History And Future How long have you been a birder, and how did you get into birding? I started keeping a checklist and birding journal when I was 11 years old – the l",
-      "date": "2026-07-31T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/06/WildCRU-profile-1.jpg",
       "name": "10,000 Birds",
       "category": "birds",
       "color": 1,
