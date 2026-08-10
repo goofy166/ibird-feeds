@@ -1,8 +1,52 @@
 {
-  "updated": "2026-08-10T17:00:10Z",
-  "updated_utc": "2026-08-10T17:00:10Z",
+  "updated": "2026-08-10T17:58:21Z",
+  "updated_utc": "2026-08-10T17:58:21Z",
   "count": 500,
   "stories": [
+    {
+      "title": "What primates tell us about the evolutionary origins of keeping pets",
+      "link": "https://www.newscientist.com/article/2583030-what-primates-tell-us-about-the-evolutionary-origins-of-keeping-pets/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Keeping pets seems to be fairly recent behaviour in the timeline of human evolution. Columnist Michael Marshall turns to the latest research on primates to understand how long we’v",
+      "date": "2026-08-10T17:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307286803.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-10T17:58:15Z"
+    },
+    {
+      "title": "Forage crop gets growth boost from recently discovered beneficial bacterial species",
+      "link": "https://phys.org/news/2026-08-forage-crop-growth-boost-beneficial.html",
+      "summary": "From project to product—such success stories are rare in basic agricultural research. In this case, researchers at the Julius Kühn Institute (JKI) in Braunschweig discovered a new ",
+      "date": "2026-08-10T17:40:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/forage-crop-gets-growt.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-10T17:58:17Z"
+    },
+    {
+      "title": "Roads and dams put European eels at risk, scientists offer strategy to save them",
+      "link": "https://phys.org/news/2026-08-roads-european-eels-scientists-strategy.html",
+      "summary": "Roads, dams and other infrastructure built to make life easier for people have unintentionally made survival harder for another form of life—critically endangered European eels.",
+      "date": "2026-08-10T17:20:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/european-eels.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-10T17:58:17Z"
+    },
+    {
+      "title": "Both breeding and training influence dogs' capacity for communication, study finds",
+      "link": "https://phys.org/news/2026-08-dogs-capacity-communication.html",
+      "summary": "How have selectively breeding dogs across decades and individual training shaped the way that dogs communicate? New from JNeurosci, researchers at Harvard University, led by Mélina",
+      "date": "2026-08-10T17:00:09Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dog-with-human.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-10T17:58:17Z"
+    },
     {
       "title": "Rare animals threatened as wildfire ravages New Forest heathland",
       "link": "https://www.theguardian.com/world/2026/aug/10/rare-animals-threatened-as-wildfire-ravages-new-forest-heathland",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-01T00:06:10Z"
-    },
-    {
-      "title": "The Northern Lights Could Be Visible Across Parts of the U.S. This Weekend",
-      "link": "https://www.outsideonline.com/adventure-travel/news-analysis/northern-lights-forecast-tonight/",
-      "summary": "The latest aurora borealis forecast is calling for displays across much of Canada and parts of the northern U.S. states on Friday, July 31, through Sunday, Aug. 2. The post The Nor",
-      "date": "2026-07-31T21:33:59Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/GettyImages-2263858554.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-31T22:10:50Z"
-    },
-    {
-      "title": "Raide’s LF 5L Vest Is a Creatively Designed Pack for Big Trail Adventures",
-      "link": "https://www.outsideonline.com/outdoor-gear/run/raide-lf-5l-vest-review/",
-      "summary": "The LF 5L offers thoughtfully designed innovations that promise to ease the burden of carrying gear on the trails. The post Raide’s LF 5L Vest Is a Creatively Designed Pack for Big",
-      "date": "2026-07-31T21:06:57Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/raidevestonwill_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-31T22:10:50Z"
-    },
-    {
-      "title": "Smarter fish farms could cut electricity use and CO₂ while keeping fish safe",
-      "link": "https://phys.org/news/2026-07-smarter-fish-farms-electricity-safe.html",
-      "summary": "Recirculating aquaculture systems (RAS) are attracting growing attention as a sustainable aquaculture technology that can reduce water use, control rearing conditions and lower env",
-      "date": "2026-07-31T21:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/smarter-fish-farms-cou.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-31T22:10:55Z"
-    },
-    {
-      "title": "A new genetic tool helps researchers uncover the logic of gene regulation",
-      "link": "https://phys.org/news/2026-07-genetic-tool-uncover-logic-gene.html",
-      "summary": "The human genome contains more than 20,000 genes. However, at any given time and in a given cell, only a fraction are active. Researchers from EMBL Heidelberg's Krebs Group have de",
-      "date": "2026-07-31T21:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-genetic-tool-hel.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-31T22:10:55Z"
     }
   ]
 }
