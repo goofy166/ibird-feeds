@@ -1,8 +1,96 @@
 {
-  "updated": "2026-08-10T20:52:12Z",
-  "updated_utc": "2026-08-10T20:52:12Z",
+  "updated": "2026-08-10T21:50:07Z",
+  "updated_utc": "2026-08-10T21:50:07Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Beloved Bald Eagle ‘Jackie’ Dies After Weeks In Intensive Care",
+      "link": "https://www.birdsandblooms.com/birding/birding-basics/bald-eagle-jackie-dies/",
+      "summary": "Following testing and treatment for severe anemia, Jackie — half of the 'Jackie and Shadow' bald eagle pair — has died. The post Beloved Bald Eagle ‘Jackie’ Dies After Weeks In Int",
+      "date": "2026-08-10T20:56:16Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/08/Screenshot-2026-08-10-at-3.54.15-PM.png?fit=700,1024",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-08-10T21:49:49Z"
+    },
+    {
+      "title": "Opinion: America’s wildlife refuges may no longer protect the animals",
+      "link": "https://www.mercurynews.com/2026/08/01/commentary-americas-wildlife-refuges-may-no-longer-protect-the-animals-2/",
+      "summary": "A proposed government expansion threatens to transform protected sanctuaries into arenas for blood sport.",
+      "date": "2026-08-01T09:45:19Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/202607260415MCT_____PHOTO____OPED-ENV-WILDLIFE-REFUGES-COMMENTARY-FILEPIC-LA_6845c3.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-08-10T21:49:55Z"
+    },
+    {
+      "title": "The Best Minimalist Running Shoes 2026",
+      "link": "https://www.outsideonline.com/outdoor-gear/run/best-minimalist-running-shoes/",
+      "summary": "8 low-cushion road and trail running shoes that will set you free and strengthen your feet The post The Best Minimalist Running Shoes 2026 appeared first on Outside Online .",
+      "date": "2026-08-10T21:35:01Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/min-shoes-26_h.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-10T21:49:57Z"
+    },
+    {
+      "title": "A ‘Scallywag’ Schoolboy Swiped an Abbot's Kneecap 70 Years Ago. His Widow Just Returned It to Glastonbury Abbey",
+      "link": "https://www.smithsonianmag.com/smart-news/a-scallywag-schoolboy-swiped-an-abbots-kneecap-70-years-ago-his-widow-just-returned-it-to-glastonbury-abbey-180989308/",
+      "summary": "George Box kept the knee bone, along with a piece of tile from the same site, throughout his entire life. He confessed the origins of their acquisition to his wife in his later yea",
+      "date": "2026-08-10T20:59:58Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/kkz0_SYUHxXlYuC_HaKhPN8Zopg=/420x240/filters:focal(600x317:601x318)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d4/35/d435cbc4-4133-4ef8-bfac-d92150dad49c/longkneecapbox.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-10T21:49:59Z"
+    },
+    {
+      "title": "Common carp relatives blunt koi herpesvirus infections, offering clues to outbreak control",
+      "link": "https://phys.org/news/2026-08-common-carp-blunt-koi-herpesvirus.html",
+      "summary": "Common carp are among the world's most widely farmed freshwater fish, providing food and livelihoods for millions of people. But across fish farms and freshwater ecosystems, they f",
+      "date": "2026-08-10T21:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/common-carp.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-10T21:50:03Z"
+    },
+    {
+      "title": "Photosynthetic microorganisms achieve long-lasting and renewable chemical production",
+      "link": "https://phys.org/news/2026-08-photosynthetic-microorganisms-renewable-chemical-production.html",
+      "summary": "Photosynthetic microorganisms can use light energy to convert carbon dioxide into useful compounds under mild, environmentally compatible conditions. However, many current photosyn",
+      "date": "2026-08-10T21:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-achieve-lo.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-10T21:50:03Z"
+    },
+    {
+      "title": "Uncovering how Cryptococcus shifts from silent infection to killer fungus",
+      "link": "https://phys.org/news/2026-08-uncovering-cryptococcus-shifts-silent-infection.html",
+      "summary": "For most healthy people, Cryptococcus is an unnoticed infection. The immune system walls it off in the lungs and keeps it dormant for life. But in patients undergoing cancer chemot",
+      "date": "2026-08-10T21:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-begin-to-u.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-10T21:50:03Z"
+    },
+    {
+      "title": "FDA's approval of new mRNA vaccine does not necessarily signal the government's embrace of the technology, experts say",
+      "link": "https://www.livescience.com/health/medicine-drugs/fdas-approval-of-new-mrna-vaccine-does-not-necessarily-signal-the-governments-embrace-of-the-technology-experts-say",
+      "summary": "The U.S. Food and Drug Administration approved an mRNA-based vaccine for influenza. Live Science asked experts what that means for the future of mRNA vaccines in the U.S.",
+      "date": "2026-08-10T21:45:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/YcEMshpwY8rsdev3ZZHDKB-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-10T21:50:04Z"
+    },
     {
       "title": "6 Takeaways From the Slashing of Bears Ears and Grand Staircase-Escalante",
       "link": "https://www.outsideonline.com/outdoor-adventure/environment/bears-ears-6-takeaways/",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-01T16:06:37Z"
-    },
-    {
-      "title": "Big Bear bald eagles’ habitat saved; $10 million goal to buy land has been met",
-      "link": "https://www.mercurynews.com/2026/07/24/habitat-of-big-bears-famed-eagles-to-be-saved-after-fundraiser-achieves-10-million-goal-to-buy-land/",
-      "summary": "Friends of Big Bear Valley announced the news on its website and social media pages Friday morning.",
-      "date": "2026-07-24T17:47:56Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/SBS-L-MOONCAMP-0724-01-PB-1.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-08-01T14:37:38Z"
-    },
-    {
-      "title": "Researchers investigate case of soft-tick borne relapsing fever in Austin area",
-      "link": "https://phys.org/news/2026-08-case-soft-borne-relapsing-fever.html",
-      "summary": "Researchers at Baylor College of Medicine and the Texas Department of State Health Services have reported a likely case of soft tick-borne relapsing fever (STRF) in an Austin-area ",
-      "date": "2026-08-01T13:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/austin-texas.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-01T14:37:47Z"
-    },
-    {
-      "title": "New immune-blocking strategy improves interspecies organ generation",
-      "link": "https://phys.org/news/2026-07-immune-blocking-strategy-interspecies-generation.html",
-      "summary": "Xenophagocytosis is a natural immune process that limits interspecies organ generation by eliminating living donor cells, researchers at the Institute of Science Tokyo, Japan, repo",
-      "date": "2026-08-01T12:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/blocking-xenophagocyto.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-01T14:37:47Z"
-    },
-    {
-      "title": "Could we prevent dementia? A new trial may point the way.",
-      "link": "https://www.livescience.com/health/alzheimers-dementia/could-we-prevent-dementia-a-new-trial-may-point-the-way",
-      "summary": "While much funding for dementia research goes toward treatments, some scientists want to reduce people's risk of developing the condition in the first place.",
-      "date": "2026-08-01T13:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/hubSAzwABcWChe2X5oDJR7-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-01T14:37:48Z"
-    },
-    {
-      "title": "The Mythical Snowcap",
-      "link": "https://www.10000birds.com/the-mythical-snowcap.htm?utm_source=rss&utm_medium=rss&utm_campaign=the-mythical-snowcap",
-      "summary": "The Snowcap, unlike other hummingbirds, does not disappoint. Why is that, you may justifiably wonder. First, a male Snowcap in good light is burgundy with a white cap. In bad light",
-      "date": "2026-08-01T11:00:47Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/08/Untitled.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-08-01T12:05:32Z"
-    },
-    {
-      "title": "Kruger. The addiction that never gets satisfied",
-      "link": "https://www.10000birds.com/kruger-the-addiction-that-never-gets-satisfied.htm?utm_source=rss&utm_medium=rss&utm_campaign=kruger-the-addiction-that-never-gets-satisfied",
-      "summary": "By Adam Cruickshank Adam Cruickshank is a team member at Birding Ecotours and the host of The Birding Life Podcast. He is based in South Africa and spends much of his time explorin",
-      "date": "2026-08-01T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/image-1.jpeg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-08-01T12:05:32Z"
-    },
-    {
-      "title": "What is a Rail?",
-      "link": "https://www.10000birds.com/what-is-a-rail-2.htm?utm_source=rss&utm_medium=rss&utm_campaign=what-is-a-rail-2",
-      "summary": "This post is republished in our “From the Archives” series, featuring highlights of our vast back catalogue of more than 10,000 birding-related posts published over the last 15 yea",
-      "date": "2026-08-01T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/Clapper_Rail_featured.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-08-01T12:05:32Z"
-    },
-    {
-      "title": "Deadly blooms offer a genetic blueprint for making hard-to-synthesize medicinal compounds",
-      "link": "https://phys.org/news/2026-07-deadly-blooms-genetic-blueprint-hard.html",
-      "summary": "Two plants that cause neurotoxicity and paralysis in the tiniest doses are also known to counter pain, malaria, cancer and pests. For the first time, researchers discovered a way t",
-      "date": "2026-08-01T11:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-deadly-flowers-hav.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-01T12:05:50Z"
     }
   ]
 }
