@@ -1,8 +1,52 @@
 {
-  "updated": "2026-08-10T17:58:21Z",
-  "updated_utc": "2026-08-10T17:58:21Z",
+  "updated": "2026-08-10T19:09:23Z",
+  "updated_utc": "2026-08-10T19:09:23Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Perseid Meteor Shower Peaks This Week Amid Ideal Viewing Conditions. Here's How to Watch the Event's Bright Shooting Stars",
+      "link": "https://www.smithsonianmag.com/smart-news/the-perseid-meteor-shower-peaks-this-week-amid-ideal-viewing-conditions-heres-how-to-watch-the-events-bright-shooting-stars-180989298/",
+      "summary": "The much-anticipated annual event peaks on the night of August 12 into the next morning. This year, the moon won’t crash the party, as our natural satellite will be in its dark new",
+      "date": "2026-08-10T18:32:40Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/InbHcxuPFUBWnBljAKLeYSbaeYo=/420x240/filters:focal(1024x683:1025x684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1d/aa/1daa3fcb-db94-4440-8d21-4845ec98ed70/perseids_2024_preston_dyches.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-10T19:09:14Z"
+    },
+    {
+      "title": "Why Did the Ancient Romans Bury This Monumental Marble Statue Face Down? They Wanted to Repurpose It as a Paving Stone",
+      "link": "https://www.smithsonianmag.com/smart-news/why-did-the-ancient-romans-bury-this-monumental-marble-statue-face-down-they-wanted-to-repurpose-it-as-a-paving-stone-180989302/",
+      "summary": "Archaeologists discovered the roughly 2,500-year-old sculpture of a young man while conducting excavations at Sardis in western Turkey. The artwork reflects the different cultures ",
+      "date": "2026-08-10T18:01:20Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/J4tUuogCvnupYIBSDSI_-qEArMw=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/33/12/3312cae5-a69e-43a6-9e49-dd46a89ad9da/marble-statue.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-10T19:09:14Z"
+    },
+    {
+      "title": "Why some male anglerfish parasitically fuse with females",
+      "link": "https://phys.org/news/2026-08-male-anglerfish-parasitically-fuse-females.html",
+      "summary": "Reproduction is central to the survival of all living organisms. Over millions of years, animal species on Earth have evolved a remarkable variety of mating strategies, ranging fro",
+      "date": "2026-08-10T18:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-some-male-anglerfi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-10T19:09:19Z"
+    },
+    {
+      "title": "When fever isn't the answer: Infected tadpoles cool themselves to fight viruses",
+      "link": "https://phys.org/news/2026-08-fever-isnt-infected-tadpoles-cool.html",
+      "summary": "Fever is one of the best-known mechanisms by which animals combat infectious diseases. Sick animals can increase their body temperature in two ways: through physiological regulatio",
+      "date": "2026-08-10T18:00:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-fever-isnt-the-an.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-10T19:09:19Z"
+    },
     {
       "title": "What primates tell us about the evolutionary origins of keeping pets",
       "link": "https://www.newscientist.com/article/2583030-what-primates-tell-us-about-the-evolutionary-origins-of-keeping-pets/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-08-01T10:05:31Z"
-    },
-    {
-      "title": "First Australian mass mortality event suspected as deadly bird flu virus rapidly escalates among native birds",
-      "link": "https://www.theguardian.com/world/2026/aug/01/first-australian-mass-mortality-event-suspected-as-deadly-bird-flu-virus-rapidly-escalates-among-native-birds",
-      "summary": "Helicopter surveillance finds dead and dying greater crested terns off South Australian coast as H5 virus spreads Get our breaking news email , free app or daily news podcast More ",
-      "date": "2026-08-01T06:12:27Z",
-      "image": "https://i.guim.co.uk/img/media/a3b388541a676657ddd7abfd461db42d1a846b5b/0_0_4265_3412/master/4265.jpg?width=140&quality=85&auto=format&fit=max&s=375224f2c23eedc1c9880238a5723fb4",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-01T07:31:44Z"
-    },
-    {
-      "title": "Our Profile Series",
-      "link": "https://www.10000birds.com/our-profile-series.htm?utm_source=rss&utm_medium=rss&utm_campaign=our-profile-series",
-      "summary": "On 10,000 Birds, we have three distinct series of profiles: Bird Guides Birding Lodges Birding Locations The table below shows how many profiles have been published in each series ",
-      "date": "2026-08-01T02:26:14Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/Screenshot-2026-08-01-100124.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-08-01T04:25:06Z"
-    },
-    {
-      "title": "Yellowstone Is Among the World's Best Places to See Wild Wolves. Here's the Story of the Animal Called Both 'Public Enemy' and Cultural Icon",
-      "link": "https://www.smithsonianmag.com/science-nature/yellowstone-is-among-the-worlds-best-places-to-see-wild-wolves-heres-the-story-of-the-animal-simultaneously-dubbed-public-enemy-and-cultural-icon-180989194/",
-      "summary": "A century ago, resident wolves were eliminated from the park. In 1995, biologists brought them back, marking a historic reintroduction of a top carnivore",
-      "date": "2026-07-31T22:33:21Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/lD1DZjbcjLftY-U4aVFpOl7wrBQ=/420x240/filters:focal(1421x1306:1422x1307)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b2/b4/b2b4bc3f-eb65-4aef-b58e-3f6e9ecb4258/16700079786_2a6be19034_o.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-01T00:06:06Z"
-    },
-    {
-      "title": "Fish pathogens once limited to Asia and US emerge in Brazilian farms",
-      "link": "https://phys.org/news/2026-07-fish-pathogens-limited-asia-emerge.html",
-      "summary": "For the first time in Brazil, scientists have identified the presence of bacteria that cause columnaris disease, a serious disease in farmed fish intended for human consumption. Pr",
-      "date": "2026-07-31T22:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-detects-for-the.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-01T00:06:10Z"
     }
   ]
 }
