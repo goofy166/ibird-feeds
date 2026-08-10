@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-10T21:50:07Z",
-  "updated_utc": "2026-08-10T21:50:07Z",
+  "updated": "2026-08-10T22:46:25Z",
+  "updated_utc": "2026-08-10T22:46:25Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Big Bear bald eagles’ habitat saved; $10 million goal to buy land has been met",
+      "link": "https://www.mercurynews.com/2026/07/24/habitat-of-big-bears-famed-eagles-to-be-saved-after-fundraiser-achieves-10-million-goal-to-buy-land/",
+      "summary": "Friends of Big Bear Valley announced the news on its website and social media pages Friday morning.",
+      "date": "2026-07-24T17:47:56Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/SBS-L-MOONCAMP-0724-01-PB-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-08-10T22:46:13Z"
+    },
+    {
+      "title": "Off the Coast of Sicily, Divers Discovered a Roman-Era Shipwreck With Hundreds of Amphorae, Ancient Jars Frequently Used to Hold Wine",
+      "link": "https://www.smithsonianmag.com/smart-news/off-the-coast-of-sicily-divers-discovered-a-roman-era-shipwreck-with-hundreds-of-amphorae-ancient-jars-frequently-used-to-hold-wine-180989307/",
+      "summary": "The site could offer fresh insights into Mediterranean trade routes more than 2,000 years ago",
+      "date": "2026-08-10T21:53:11Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/IxP2wRauAZ5ZE2ulVgVK1HJfodw=/420x240/filters:focal(960x594:961x595)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/30/57/30579555-8228-49cb-9c4a-3f48317255e5/amphorae_wall.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-10T22:46:16Z"
+    },
+    {
+      "title": "DNA repair enzymes favor specific sequences, shaping mutation patterns in the human genome",
+      "link": "https://phys.org/news/2026-08-dna-enzymes-favor-specific-sequences.html",
+      "summary": "When a wound does not heal properly, it leaves a scar. Similarly, mutations—which are permanent changes to genetic code—are often the result of damaged DNA that has not been proper",
+      "date": "2026-08-10T22:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-dna-repair-crew-ha-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-10T22:46:21Z"
+    },
     {
       "title": "Beloved Bald Eagle ‘Jackie’ Dies After Weeks In Intensive Care",
       "link": "https://www.birdsandblooms.com/birding/birding-basics/bald-eagle-jackie-dies/",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-01T22:02:26Z"
-    },
-    {
-      "title": "AI opens new era in cognitive studies of wild primates",
-      "link": "https://phys.org/news/2026-07-ai-era-cognitive-wild-primates.html",
-      "summary": "Scientists created an AI system that uses facial recognition and real-time touchscreen testing to automate cognitive studies of capuchin monkeys in the wild. The American Journal o",
-      "date": "2026-08-01T20:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-opens-new-era-in-co.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-01T20:12:24Z"
-    },
-    {
-      "title": "Back-to-back humpback whale strandings reported on Northern California beaches",
-      "link": "https://www.mercurynews.com/2026/07/16/back-to-back-humpback-whale-strandings-reported-on-humboldt-county-beaches/",
-      "summary": "Two humpback whales that washed ashore on Humboldt County beaches within the past week were too decomposed for investigators to determine how they died",
-      "date": "Thu, 16 Jul 2026 16Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/California_Whale_Dies_66896.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-08-01T18:03:45Z"
-    },
-    {
-      "title": "Insights into bee biology could ease US rules for organic honey",
-      "link": "https://phys.org/news/2026-07-insights-bee-biology-ease-honey.html",
-      "summary": "Strict regulations have prevented continental U.S. beekeepers from participating in the lucrative organic honey market, but new research finds that bees' actual habits make certain",
-      "date": "2026-08-01T16:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/insights-into-bee-biol.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-01T16:06:37Z"
     }
   ]
 }
