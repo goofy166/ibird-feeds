@@ -1,8 +1,74 @@
 {
-  "updated": "2026-08-10T19:09:23Z",
-  "updated_utc": "2026-08-10T19:09:23Z",
+  "updated": "2026-08-10T20:52:12Z",
+  "updated_utc": "2026-08-10T20:52:12Z",
   "count": 500,
   "stories": [
+    {
+      "title": "6 Takeaways From the Slashing of Bears Ears and Grand Staircase-Escalante",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/bears-ears-6-takeaways/",
+      "summary": "Outside recently hosted an online roundtable with public lands advocates from across Utah. Here are conclusions they’re drawing from the Trump Administration’s downsizing of Bears ",
+      "date": "2026-08-10T19:15:19Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/Bears3-scaled.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-10T20:52:02Z"
+    },
+    {
+      "title": "This Dutch Painting Showed a 17th-Century Drinking Game Until Someone Smudged Out a Player, Spoiling the Fun. A Museum Just Restored the Imbibing Soldier",
+      "link": "https://www.smithsonianmag.com/smart-news/centuries-ago-this-soldier-was-smudged-out-of-a-famed-de-hooch-painting-restorers-have-painted-him-back-in-180989304/",
+      "summary": "Pieter de Hooch was known for his 17th-century portrayals of domestic life. Some scenes suggested scandal or taught a moral",
+      "date": "2026-08-10T19:24:11Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/YuMqmOQbbvJRZaeHoDxrgKz-ihE=/420x240/filters:focal(962x1200:963x1201)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/25/1c/251cf12c-fa2a-4087-9bf0-5cfafd2168ff/pieter_de_hooch_-_a_man_smoking_and_a_woman_drinking_in_a_courtyard_-1658-1660.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-10T20:52:04Z"
+    },
+    {
+      "title": "When meat doesn't matter: Female Guinea baboons do not prefer males who are better at acquiring or sharing meat",
+      "link": "https://phys.org/news/2026-08-meat-doesnt-female-guinea-baboons.html",
+      "summary": "Meat is a rare and highly prized resource for wild Guinea baboons (Papio papio). Yet, contrary to long-standing assumptions based on human hunter–gatherer societies, a new study by",
+      "date": "2026-08-10T20:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-meat-doesnt-matte.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-10T20:52:09Z"
+    },
+    {
+      "title": "Arctic fossil abandoned in 1948 proves to be record-size Triassic hunter",
+      "link": "https://phys.org/news/2026-08-arctic-fossil-abandoned-size-triassic.html",
+      "summary": "Nearly 80 years ago, a British expedition discovered the battered remains of a giant fossil on the peak of an Arctic island. Unable to take it with them, they snapped some pictures",
+      "date": "2026-08-10T19:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fossil-abandoned-in-th.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-10T20:52:09Z"
+    },
+    {
+      "title": "The lasting impacts of West Nile virus on Pennsylvania bird populations",
+      "link": "https://phys.org/news/2026-08-impacts-west-nile-virus-pennsylvania.html",
+      "summary": "A new study out of the University of Pennsylvania School of Veterinary Medicine suggests that West Nile virus (WNV) has had impacts on one in five Pennsylvania bird species, demons",
+      "date": "2026-08-10T19:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-lasting-impacts-of.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-10T20:52:09Z"
+    },
+    {
+      "title": "2,400-year-old grave of possible ancient pro wrestler discovered in Turkey",
+      "link": "https://www.livescience.com/archaeology/2-400-year-old-grave-of-possible-ancient-pro-wrestler-discovered-in-turkey",
+      "summary": "A tomb excavated in Aspendos, Turkey, revealed a skeleton buried with several coins featuring ancient wrestlers.",
+      "date": "2026-08-10T20:07:51Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/VRknRmB9MVJA5yRuQsX5gZ-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-10T20:52:10Z"
+    },
     {
       "title": "The Perseid Meteor Shower Peaks This Week Amid Ideal Viewing Conditions. Here's How to Watch the Event's Bright Shooting Stars",
       "link": "https://www.smithsonianmag.com/smart-news/the-perseid-meteor-shower-peaks-this-week-amid-ideal-viewing-conditions-heres-how-to-watch-the-events-bright-shooting-stars-180989298/",
@@ -5436,72 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-01T12:05:50Z"
-    },
-    {
-      "title": "Leave it: Dog trainers help pets avoid poisonous snakes",
-      "link": "https://phys.org/news/2026-08-dog-trainers-pets-poisonous-snakes.html",
-      "summary": "Ripley, a medium-sized dog with a strong prey drive, curiously approached Brian, a large western diamondback rattlesnake, until she got a quick zap on the neck meant to simulate a ",
-      "date": "2026-08-01T11:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/leave-it-dog-trainers.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-01T12:05:50Z"
-    },
-    {
-      "title": "Total eclipse, shooting stars, and the Milky Way: Why Aug. 12 could be the greatest single day and night for skywatching for years",
-      "link": "https://www.livescience.com/space/the-sun/total-eclipse-shooting-stars-and-the-milky-way-why-aug-12-could-be-the-greatest-single-day-and-night-for-skywatching-for-years",
-      "summary": "A solar eclipse, the peak of the Perseid meteor shower, Venus at dichotomy and the Milky Way at its annual best will create one of 2026's best days for skywatching.",
-      "date": "2026-08-01T12:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/vkZZRhqtqPFKZHGxrWQPfQ-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-01T12:05:51Z"
-    },
-    {
-      "title": "Science news this week: Secret lives of whale sharks revealed, Earth's coldest temperature registered, and Amazonian geoglyphs show clues to lost civilization",
-      "link": "https://www.livescience.com/animals/science-news-this-week-secret-lives-of-whale-sharks-revealed-earths-coldest-temperature-registered-and-amazonian-geoglyphs-show-clues-to-lost-civilization",
-      "summary": "August 1, 2026: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend",
-      "date": "2026-08-01T11:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/xtigPc9P4DLiGLSgPbZTh-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-01T12:05:51Z"
-    },
-    {
-      "title": "Opinion: America’s wildlife refuges may no longer protect the animals",
-      "link": "https://www.mercurynews.com/2026/08/01/commentary-americas-wildlife-refuges-may-no-longer-protect-the-animals-2/",
-      "summary": "A proposed government expansion threatens to transform protected sanctuaries into arenas for blood sport.",
-      "date": "2026-08-01T09:45:19Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/202607260415MCT_____PHOTO____OPED-ENV-WILDLIFE-REFUGES-COMMENTARY-FILEPIC-LA_6845c3.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-08-01T10:05:21Z"
-    },
-    {
-      "title": "The best new science-fiction novels of August 2026",
-      "link": "https://www.newscientist.com/article/2582625-the-best-new-science-fiction-novels-of-august-2026/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Fascist empires and deadly sea monsters are on offer in the science fiction out this month, says Alison Flood",
-      "date": "2026-08-01T09:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI306906385.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-01T10:05:27Z"
-    },
-    {
-      "title": "Why do cats have 'leg whiskers'?",
-      "link": "https://www.livescience.com/animals/cats/why-do-cats-have-leg-whiskers",
-      "summary": "Here's why 'leg whiskers' are useful to cats and other animals.",
-      "date": "2026-08-01T09:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/YnRaRZmxEBba8w6CMVWLy-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-01T10:05:31Z"
     }
   ]
 }
