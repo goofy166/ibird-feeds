@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-10T11:53:20Z",
-  "updated_utc": "2026-08-10T11:53:20Z",
+  "updated": "2026-08-10T13:24:21Z",
+  "updated_utc": "2026-08-10T13:24:21Z",
   "count": 500,
   "stories": [
+    {
+      "title": "An ambitious new project in Florida is giving marine scientists hope: ‘I just see so much potential’",
+      "link": "https://www.theguardian.com/us-news/2026/aug/10/florida-coastal-corridor-marine-life",
+      "summary": "Conservationists have created a ‘coastal corridor’ of ocean-based projects designed to preserve and nourish vulnerable marine life From disappearing manatees to bleached coral reef",
+      "date": "2026-08-10T12:00:44Z",
+      "image": "https://i.guim.co.uk/img/media/d0e7e6345d9f9b027db5bcf11838734970196df6/573_0_3539_2832/master/3539.jpg?width=140&quality=85&auto=format&fit=max&s=d03f67b266dfa008ead6e5c1456cdd3c",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-10T13:24:06Z"
+    },
+    {
+      "title": "Science backs calls for limiting screens in schools",
+      "link": "https://www.sciencenews.org/article/science-school-screen-limits-devices",
+      "summary": "School device use links with lower test scores and distractions abound. But reversing the entrenched pandemic pivot to screens will be hard.",
+      "date": "2026-08-10T13:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/0926_BeingHuman_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-08-10T13:24:15Z"
+    },
+    {
+      "title": "Earth extremophile can grow in near-Mars-like conditions",
+      "link": "https://www.newscientist.com/article/2583902-earth-extremophile-can-grow-in-near-mars-like-conditions/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "A salt-loving microorganism found in places like the Dead Sea can not just survive but actively grow in conditions close to those that may be found just under the Martian surface",
+      "date": "2026-08-10T13:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307885345.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-10T13:24:16Z"
+    },
     {
       "title": "Birding Lodges of the World: Nature’s Nest Goa, India",
       "link": "https://www.10000birds.com/birding-lodges-of-the-world-natures-nest-goa-india.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-lodges-of-the-world-natures-nest-goa-india",
@@ -5469,39 +5502,6 @@
       "category": "butterflies",
       "color": 10,
       "fetched_at": "2026-07-31T18:24:10Z"
-    },
-    {
-      "title": "To detect CTE while alive, a test for another brain disease may help",
-      "link": "https://www.sciencenews.org/article/alzheimers-protein-test-brain-cte",
-      "summary": "A protein that is a hallmark of Alzheimer’s disease may also ID a brain condition associated with head trauma in contact sports, early findings suggest.",
-      "date": "2026-07-31T17:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/072826_RJM_CTEtest_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-07-31T18:24:11Z"
-    },
-    {
-      "title": "How Europe can make its landscapes more fire-resilient",
-      "link": "https://www.newscientist.com/article/2582716-how-europe-can-make-its-landscapes-more-fire-resilient/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Paradoxically, suppressing wildfires has also made European countries more vulnerable to huge blazes like those seen in France and Spain this week. With global warming also amplify",
-      "date": "2026-07-31T16:19:40Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_307004486.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-07-31T18:24:12Z"
-    },
-    {
-      "title": "Agricultural waste could fuel protein-rich black soldier fly larvae for human foods",
-      "link": "https://phys.org/news/2026-07-agricultural-fuel-protein-rich-black.html",
-      "summary": "They're wriggly black grubs more commonly tossed to backyard hens than served at the dinner table, but black soldier fly larvae could soon play a key role in building a more sustai",
-      "date": "2026-07-31T16:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/waste-not-want-not-far-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-31T18:24:14Z"
     }
   ]
 }
