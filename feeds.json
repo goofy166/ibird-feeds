@@ -1,8 +1,129 @@
 {
-  "updated": "2026-08-10T13:24:21Z",
-  "updated_utc": "2026-08-10T13:24:21Z",
+  "updated": "2026-08-10T15:06:18Z",
+  "updated_utc": "2026-08-10T15:06:18Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Why do dragonflies dig a Mountain View dog park?",
+      "link": "https://www.mercurynews.com/2026/08/10/why-do-dragonflies-dig-a-mountain-view-dog-park/",
+      "summary": "The insects are probably hunting for a variety of smaller, soft-body insects that they feed on.",
+      "date": "2026-08-10T13:30:03Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/SJM-L-JOANCOL-0810-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-08-10T15:05:57Z"
+    },
+    {
+      "title": "'Like a Hole in the Universe': Artemis 2 Astronaut Victor Glover Reflects on Seeing a Total Solar Eclipse While Flying by the Moon",
+      "link": "https://www.smithsonianmag.com/science-nature/like-a-hole-in-the-universe-artemis-2-astronaut-victor-glover-reflects-on-seeing-a-total-solar-eclipse-while-flying-by-the-moon-180989284/",
+      "summary": "The four astronauts who rounded Earth’s natural satellite in April got an extremely rare view of the dark lunar disk blocking out the sun. Researchers say the observations provide ",
+      "date": "2026-08-10T14:11:30Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/CKl9ODCfa6RXJIuXQ9YT1Le0Bxs=/420x240/filters:focal(960x640:961x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/25/62/2562045d-82e2-464d-8843-0e06165e4b09/art002e009301large.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-10T15:06:10Z"
+    },
+    {
+      "title": "The Hiroshima Atomic Bombing Birthed a Strange, Never-Before-Seen Material, According to a New Study",
+      "link": "https://www.smithsonianmag.com/smart-news/the-hiroshima-atomic-bombing-birthed-a-strange-never-before-seen-material-according-to-a-new-study-180989249/",
+      "summary": "The devastating blast vaporized buildings, metal, glass, soil and water. When the substances cooled and condensed, the process created spherical glassy grains—and some of them seem",
+      "date": "2026-08-10T14:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/x8L0XGNoaotMHiglF3cSzlEwBN4=/420x240/filters:focal(900x866:901x867)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f5/de/f5ded64d-f8ed-4aa5-8883-62102ce2729b/sciadvaeg8299-f1.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-10T15:06:10Z"
+    },
+    {
+      "title": "One of the Most Important Cookbooks of the 20th Century Is Celebrating 50 Years. What Made Its French Author So Special in American Kitchens?",
+      "link": "https://www.smithsonianmag.com/smart-news/one-of-the-most-important-cookbooks-of-the-20th-century-celebrates-50-years-what-made-jacques-pepin-so-important-in-the-kitchen-180989297/",
+      "summary": "With instructions and images explaining how to carve vegetables and deconstruct a lamb, \"La Technique\" by Jacques Pépin became a how-to guide and an inspiration for countless cooks",
+      "date": "2026-08-10T13:41:02Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/6vA2XOBLeQQ8OTpqSSkeG-3DH-k=/420x240/filters:focal(960x722:961x723)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c4/de/c4de7283-caef-459a-b505-a8176ffe15ea/fabulous_food_show_-_jacques_pepin_8176949028.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-10T15:06:10Z"
+    },
+    {
+      "title": "Sad or afraid? Dogs may be able to read your face",
+      "link": "https://www.sciencenews.org/article/dogs-understand-emotions-humans-face",
+      "summary": "A new brain-imaging study suggests that dogs may be able to distinguish between certain negative human emotions just by looking at people’s faces.",
+      "date": "2026-08-10T15:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/080726_MR_dogemotions_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-08-10T15:06:11Z"
+    },
+    {
+      "title": "The shock revelation that light bulbs are wrecking your metabolism",
+      "link": "https://www.newscientist.com/article/2582914-the-shock-revelation-that-light-bulbs-are-wrecking-your-metabolism/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Since the 2000s, our light exposure has changed drastically as we make our buildings more energy-efficient. Now, we’re discovering how this may mess with our mitochondria, contribu",
+      "date": "2026-08-10T15:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307353181.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-10T15:06:12Z"
+    },
+    {
+      "title": "Your running style changes when you’re short of sleep",
+      "link": "https://www.newscientist.com/article/2583705-your-running-style-changes-when-youre-short-of-sleep/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "There are measurable changes in the way we run when we are short of sleep, which give us a clearer picture of how a lack of shut-eye affects our risk of injury",
+      "date": "2026-08-10T14:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307539104.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-10T15:06:12Z"
+    },
+    {
+      "title": "MRI study shows dogs can distinguish between human fear and sadness",
+      "link": "https://phys.org/news/2026-08-mri-dogs-distinguish-human-sadness.html",
+      "summary": "Scientists—and dog lovers—have long known that dogs are remarkably good at interpreting our laughs, frowns and tears. But the biology behind this ability has remained largely unexp",
+      "date": "2026-08-10T15:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dogs-can-distinguish-b-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-10T15:06:14Z"
+    },
+    {
+      "title": "New species of mountain horned dragon identified in Thailand's high-altitude forests",
+      "link": "https://phys.org/news/2026-08-species-mountain-horned-dragon-thailand.html",
+      "summary": "Scientists have described a new species of lizard from the high mountain forests of western Thailand and have given it a name straight out of an American fantasy drama television s",
+      "date": "2026-08-10T14:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-mountain-dragon-li-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-10T15:06:14Z"
+    },
+    {
+      "title": "Corn-stalk sugars feed new bacterial strain designed to make useful chemicals",
+      "link": "https://phys.org/news/2026-08-corn-stalk-sugars-bacterial-strain.html",
+      "summary": "Engineers have developed a strain of a common bacterial species that can feed exclusively on the three major sugars present in corn stalks. While the new multiple-sugar-consuming s",
+      "date": "2026-08-10T14:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/corn-stalk-sugars-feed.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-10T15:06:14Z"
+    },
+    {
+      "title": "Monsoon cooling helps Great Barrier Reef coral cover hold steady after bleaching",
+      "link": "https://phys.org/news/2026-08-monsoon-cooling-great-barrier-reef.html",
+      "summary": "A late-summer monsoon in 2026 brought the Great Barrier Reef a reprieve from unfolding coral bleaching, aiding its initial recovery from recent climate-induced disturbances, accord",
+      "date": "2026-08-10T14:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/relief-for-recovering.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-10T15:06:14Z"
+    },
     {
       "title": "An ambitious new project in Florida is giving marine scientists hope: ‘I just see so much potential’",
       "link": "https://www.theguardian.com/us-news/2026/aug/10/florida-coastal-corridor-marine-life",
@@ -5381,127 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-07-31T20:26:14Z"
-    },
-    {
-      "title": "A single RNA-based therapeutics approach against multiple types of RNA viruses",
-      "link": "https://phys.org/news/2026-07-rna-based-therapeutics-approach-multiple.html",
-      "summary": "The high frequency of RNA virus mutations and outbreaks of emerging RNA viral infections are challenging public health issues. Developing a drug that can overcome viral mutations w",
-      "date": "2026-07-31T19:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-single-rna-based-the-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-31T20:26:14Z"
-    },
-    {
-      "title": "Cretaceous beetle fossil reveals early evolution of firefly sensory and signaling systems",
-      "link": "https://phys.org/news/2026-07-cretaceous-beetle-fossil-reveals-early.html",
-      "summary": "Scientists have discovered a remarkably well-preserved 100-million-year-old beetle fossil that provides a rare glimpse into the evolution of the intricate sensory and communication",
-      "date": "2026-07-31T18:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cretaceous-beetle-foss-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-31T20:26:14Z"
-    },
-    {
-      "title": "Mathematical model devised to protect bacteriophages without hindering their action",
-      "link": "https://phys.org/news/2026-07-mathematical-bacteriophages-hindering-action.html",
-      "summary": "A study by researchers in the UAB Department of Mathematics and the Center for Mathematical Research (CRM) presents a model describing the behavior of encapsulated bacteriophages w",
-      "date": "2026-07-31T18:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mathematics-to-protect.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-07-31T20:26:14Z"
-    },
-    {
-      "title": "Ponds need more than a drop of protection | Letters",
-      "link": "https://www.theguardian.com/environment/2026/jul/31/ponds-need-more-than-a-drop-of-protection",
-      "summary": "Readers respond to an editorial arguing that freshwater havens require a law of their own I agree with the need for protection of the vital habitat wildlife ponds create ( Editoria",
-      "date": "2026-07-31T17:10:31Z",
-      "image": "https://i.guim.co.uk/img/media/f30744c2044109eb51f245a25676576e2f9218e2/108_0_3255_2604/master/3255.jpg?width=140&quality=85&auto=format&fit=max&s=a3d419003d958bfa4ab1704684ef24fd",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-07-31T18:24:02Z"
-    },
-    {
-      "title": "I Tested the $700 Pecos Camp Table That’s All Over Your Feed",
-      "link": "https://www.outsideonline.com/outdoor-gear/camping/pecos-camp-table-review/",
-      "summary": "It sounded like overkill—until I stood on it, leveled it on uneven ground, and used it as my office desk. The post I Tested the $700 Pecos Camp Table That’s All Over Your Feed appe",
-      "date": "2026-07-31T18:16:59Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/Pecos-Table_Averill.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-31T18:24:09Z"
-    },
-    {
-      "title": "The Best Commuter E-Bikes of 2026, Tested and Reviewed",
-      "link": "https://www.outsideonline.com/outdoor-gear/bikes-and-biking/best-commuter-e-bikes/",
-      "summary": "Gas is expensive. Ditch your car and ride one of these e-bikes to work or run errands. The post The Best Commuter E-Bikes of 2026, Tested and Reviewed appeared first on Outside Onl",
-      "date": "2026-07-31T17:50:49Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/Electra-Townie-Go.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-31T18:24:09Z"
-    },
-    {
-      "title": "This Electric Kayak Comes With Pedal Assist and Cruise Control. But Does It Beat a Regular Old Kayak?",
-      "link": "https://www.outsideonline.com/outdoor-gear/water-sports-gear/malibu-electric-kayak-review/",
-      "summary": "I paddled down the Chicago River to see if this $5,500 e-kayak is worth the splurge. Here’s my take, along with several cheaper alternatives. The post This Electric Kayak Comes Wit",
-      "date": "2026-07-31T17:33:20Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/IMG_9251_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-31T18:24:09Z"
-    },
-    {
-      "title": "A Hiker Was Impaled by His Trekking Pole. This Is a Mile-by-Mile Account of His Hike to Help.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/hiker-impaled-trekking-pole-granite-peak/",
-      "summary": "Facing a costly helicopter rescue, David Cifaldi spent hours navigating ten miles of rough backcountry terrain with a steel-tipped pole lodged in his torso. The post A Hiker Was Im",
-      "date": "2026-07-31T16:59:23Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/trekking-pole-hero.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-07-31T18:24:09Z"
-    },
-    {
-      "title": "The Iconic Watts Towers in Los Angeles Will Get a $22 Million Campus Expansion Ahead of the 2028 Summer Olympics",
-      "link": "https://www.smithsonianmag.com/smart-news/the-iconic-watts-towers-in-los-angeles-will-get-a-22-million-campus-expansion-ahead-of-the-2028-summer-olympics-180989240/",
-      "summary": "Five acres of green space will surround the 17-structure landmark, a folk art masterpiece that an Italian immigrant built over the course of three decades",
-      "date": "2026-07-31T18:05:19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/iOtjZ5okcKT4yXONYh4TBIcBKFU=/420x240/filters:focal(1632x1228:1633x1229)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/58/60/5860f436-518c-44e8-8e30-4abdbdcd895d/watts_towers_arts_center.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-07-31T18:24:10Z"
-    },
-    {
-      "title": "Archaeologists Discover Two Thumbnail-Sized Bird Sculptures Carved From Mammoth Ivory 40,000 Years Ago",
-      "link": "https://www.smithsonianmag.com/smart-news/archaeologists-discover-two-thumbnail-sized-bird-sculptures-carved-from-mammoth-ivory-40000-years-ago-180989239/",
-      "summary": "Measuring less than an inch long, the figurines were buried beneath Germany's Hohle Fels Cave, where some of the world's oldest known figurative artworks have been found",
-      "date": "2026-07-31T18:01:04Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/fLh5b6gLljqPA_lKNFKIA0QhxUY=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/07/9b/079ba559-4697-4610-91c2-fe0ba5d9aa2e/birds.jpg",
-      "name": "Smithsonian",
-      "category": "butterflies",
-      "color": 10,
-      "fetched_at": "2026-07-31T18:24:10Z"
-    },
-    {
-      "title": "Ice Age Humans Mostly Killed Female Woolly Mammoths, Suggests Ancient DNA",
-      "link": "https://www.smithsonianmag.com/smart-news/ice-age-humans-mostly-killed-female-woolly-mammoths-suggests-ancient-dna-180989241/",
-      "summary": "After analyzing more than 500 mammoth bones, researchers found that ancient humans disproportionately hunted female mammoths for reasons still unknown",
-      "date": "2026-07-31T17:41:16Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/IhAV07_9LPY_QrKzjMCkp4_OGdY=/420x240/filters:focal(2016x1171:2017x1172)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0c/47/0c47a6d0-7d89-4b9a-8466-7cbd9162cb43/2_img_4244_webb.jpg",
-      "name": "Smithsonian",
-      "category": "butterflies",
-      "color": 10,
-      "fetched_at": "2026-07-31T18:24:10Z"
     }
   ]
 }
