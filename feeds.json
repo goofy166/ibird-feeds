@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-10T02:22:13Z",
-  "updated_utc": "2026-08-10T02:22:13Z",
+  "updated": "2026-08-10T04:45:17Z",
+  "updated_utc": "2026-08-10T04:45:17Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: The thin, hungry fox goes for the sleeping hen | Nic Wilson",
+      "link": "https://www.theguardian.com/environment/2026/aug/10/country-diary-the-thin-hungry-fox-goes-for-the-sleeping-hen",
+      "summary": "Hitchin, Hertfordshire : A rare daytime attack on our chickens led to a standoff. But I could see this animal was suffering in the heatwave High-pitched shrieking shattered the mid",
+      "date": "2026-08-10T04:30:34Z",
+      "image": "https://i.guim.co.uk/img/media/8e90bc125e46942361858d0dcde7675ae5b3595e/0_265_1537_1229/master/1537.jpg?width=140&quality=85&auto=format&fit=max&s=768d8e33bc284bc10e21d21b393bd83a",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-10T04:45:01Z"
+    },
     {
       "title": "How dogs evolved differently across the globe to match human traits",
       "link": "https://phys.org/news/2026-08-dogs-evolved-differently-globe-human.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-07-31T16:04:26Z"
-    },
-    {
-      "title": "Species Spotlight: Grey Catbird",
-      "link": "https://www.10000birds.com/species-spotlight-grey-catbird.htm?utm_source=rss&utm_medium=rss&utm_campaign=species-spotlight-grey-catbird",
-      "summary": "How could I not write a post about a bird with this name? This is a real cat, Wolfie, one of the 13 sharing my apartment with me. The HBW profile starts promisingly: “The Gray Catb",
-      "date": "2026-07-31T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/Grey-Catbird_DSC4720_Bath-Maine-mid-Jun-2026.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-07-31T13:01:10Z"
     }
   ]
 }
