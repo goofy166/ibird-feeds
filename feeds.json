@@ -1,8 +1,52 @@
 {
-  "updated": "2026-08-10T22:46:25Z",
-  "updated_utc": "2026-08-10T22:46:25Z",
+  "updated": "2026-08-10T23:41:28Z",
+  "updated_utc": "2026-08-10T23:41:28Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Jackie, a beloved bald eagle and livestream star, dies of mysterious illness",
+      "link": "https://www.theguardian.com/us-news/2026/aug/10/jackie-bald-eagle-california-dead",
+      "summary": "Thousands mourn the death of the eagle at California’s Big Bear Lake, whose life was closely followed via livestream Jackie – the beloved bald eagle at California’s Big Bear Lake w",
+      "date": "2026-08-10T23:05:25Z",
+      "image": "https://i.guim.co.uk/img/media/00820ddb69367f0dbd801de7fc06daec8a58a81b/45_0_909_727/master/909.jpg?width=140&quality=85&auto=format&fit=max&s=27ff836a6b88d3bc6c4628e81602065f",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-10T23:41:13Z"
+    },
+    {
+      "title": "Bradford Bartels Just Became the First Person to Thru-hike the Alaska Long Trail",
+      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/first-alaska-long-trail-thru-hike/",
+      "summary": "Bradford Bartels is the first person to complete a thru-hike of the proposed 500-mile Alaska Long Trail from Seward to Fairbanks. The post Bradford Bartels Just Became the First Pe",
+      "date": "2026-08-10T23:13:19Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/Gold-Mint-Trail.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-10T23:41:18Z"
+    },
+    {
+      "title": "Machine learning predicts forest soil fungal diversity from drone images",
+      "link": "https://phys.org/news/2026-08-machine-forest-soil-fungal-diversity.html",
+      "summary": "Combining drone data and machine learning can help cover more ground in monitoring forest soil health, University of Alberta research shows. The findings are published in the journ",
+      "date": "2026-08-10T23:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/drones-and-machine-lea.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-10T23:41:24Z"
+    },
+    {
+      "title": "Oak leaves harbor distinct microbial worlds on their opposite surfaces",
+      "link": "https://phys.org/news/2026-08-oak-harbor-distinct-microbial-worlds.html",
+      "summary": "A single leaf may look like a simple patch of green, but to the microscopic life that inhabits it, it is a vast landscape divided into different worlds.",
+      "date": "2026-08-10T23:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oak-leaves-harbor-dist.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-10T23:41:24Z"
+    },
     {
       "title": "Big Bear bald eagles’ habitat saved; $10 million goal to buy land has been met",
       "link": "https://www.mercurynews.com/2026/07/24/habitat-of-big-bears-famed-eagles-to-be-saved-after-fundraiser-achieves-10-million-goal-to-buy-land/",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-08-02T10:03:59Z"
-    },
-    {
-      "title": "San Diego Safari Park gorilla undergoes landmark surgery for bone infection with help from UCSD",
-      "link": "https://www.mercurynews.com/2026/07/16/san-diego-safari-park-gorilla-undergoes-landmark-surgery-for-bone-infection-with-help-from-ucsd/",
-      "summary": "UC San Diego surgeons adapted human medicine techniques to perform the surgery on Mizani the gorilla Saturday.",
-      "date": "Thu, 16 Jul 2026 18Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/SUT-L-GORILLA-SURGERY-02.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-08-02T04:28:39Z"
-    },
-    {
-      "title": "Fluorescent probes offer sharper view of plant tissues",
-      "link": "https://phys.org/news/2026-07-fluorescent-probes-sharper-view-tissues.html",
-      "summary": "Researchers at the Indian Institute of Technology Gandhinagar (IITGN) and the Regional Centre for Biotechnology, Faridabad, have developed and tested a new class of fluorescent pro",
-      "date": "2026-08-02T00:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seeing-plant-tissues-i.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-02T04:28:46Z"
-    },
-    {
-      "title": "How new informatics tools help turn biodiversity data into policy insights",
-      "link": "https://phys.org/news/2026-07-informatics-tools-biodiversity-policy-insights.html",
-      "summary": "Biodiversity loss has been among the central topics in public, policy and scientific debate for several decades. While its accelerating pace and impacts are well recognized, transl",
-      "date": "2026-08-01T23:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-new-informatics-to.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-02T00:03:01Z"
-    },
-    {
-      "title": "How molecular tethers and asynchronous replication drive parasite proliferation",
-      "link": "https://phys.org/news/2026-07-molecular-tethers-asynchronous-replication-parasite.html",
-      "summary": "Malaria parasites proliferate in an unusual way. Rather than dividing into two daughter cells like human cells, they first amplify their genetic material tenfold, hundredfold or ev",
-      "date": "2026-08-01T21:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-molecular-tethers.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-01T22:02:26Z"
     }
   ]
 }
