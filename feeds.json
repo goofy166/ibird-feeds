@@ -1,8 +1,74 @@
 {
-  "updated": "2026-08-11T11:51:31Z",
-  "updated_utc": "2026-08-11T11:51:31Z",
+  "updated": "2026-08-11T13:21:05Z",
+  "updated_utc": "2026-08-11T13:21:05Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘I feel motherly towards them’: the nature reserve manager sharing her office with a wasp nest",
+      "link": "https://www.theguardian.com/environment/2026/aug/11/i-feel-motherly-towards-them-the-nature-reserve-manager-sharing-her-office-with-a-wasp-nest",
+      "summary": "Eilish Rothney’s first instinct was to get rid of the wasps entering her converted shipping container in Norfolk. Now she enjoys their constant hum When wasps began streaming throu",
+      "date": "2026-08-11T12:00:01Z",
+      "image": "https://i.guim.co.uk/img/media/f1119d3ce940e846521c49ef09d518f2f990ecbc/0_606_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=c4a3f39f29ab310768b3106da6b32b8d",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-11T13:20:49Z"
+    },
+    {
+      "title": "Could Psilocybin Help Treat Anorexia? A Small Clinical Trial Suggests the Psychedelic May Make Patients More Open to Recovery",
+      "link": "https://www.smithsonianmag.com/science-nature/could-psilocybin-help-treat-anorexia-a-small-clinical-trial-suggests-the-psychedelic-may-make-patients-more-open-to-recovery-180989261/",
+      "summary": "The drug, paired with intensive psychological support, may loosen the rigid patterns of thought associated with the eating disorder, scientists say—but they caution that it is not ",
+      "date": "Tue, 11 Aug 2026 12Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/n7Z57RpgUeJizeWEuc-ADIqrt6c=/420x240/filters:focal(1408x912:1409x913)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/03/9d/039dfbc7-b058-4b71-876d-a8baec6035af/psilocybe_pelliculosa_122504.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-11T13:20:57Z"
+    },
+    {
+      "title": "Decoding smell: Study reveals how wind transforms odor signals",
+      "link": "https://phys.org/news/2026-08-decoding-reveals-odor.html",
+      "summary": "Humans trust dogs to help find missing people, and bees to pollinate their crops. But scientists still don't fully understand how these animals use their extraordinary sense of sme",
+      "date": "2026-08-11T13:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/decoding-smell-study-r.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-11T13:21:01Z"
+    },
+    {
+      "title": "Color-sensing yeast could make biofactories more programmable and precise",
+      "link": "https://phys.org/news/2026-08-yeast-biofactories-programmable-precise.html",
+      "summary": "Baker's yeast is one of biotechnology's most important microorganisms. It has long been used to leaven bread and ferment beer. More recently, advances in synthetic biology have ena",
+      "date": "2026-08-11T13:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nus-researchers-achiev.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-11T13:21:01Z"
+    },
+    {
+      "title": "How barramundi research gives breeders more control",
+      "link": "https://phys.org/news/2026-08-barramundi-breeders.html",
+      "summary": "Barramundi farmers will soon be able to improve stock genetics by placing more emphasis on the sex of their breeding fish. University of Queensland Ph.D. candidate Jessica Hintzsch",
+      "date": "2026-08-11T12:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/barramundi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-11T13:21:01Z"
+    },
+    {
+      "title": "Historical DNA reveals largetooth sawfish have lost much of their genetic diversity",
+      "link": "https://phys.org/news/2026-08-historical-dna-reveals-largetooth-sawfish.html",
+      "summary": "The genetic diversity of the largetooth sawfish (Pristis pristis), a critically endangered ray, has plummeted over the past century and a half, according to a study published in th",
+      "date": "2026-08-11T12:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dna-studies-reveal-lar.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-11T13:21:01Z"
+    },
     {
       "title": "Nanegal Cloud Forest, Ecuador – Profile for Birders",
       "link": "https://www.10000birds.com/nanegal-cloud-forest-ecuador-profile-for-birders.htm?utm_source=rss&utm_medium=rss&utm_campaign=nanegal-cloud-forest-ecuador-profile-for-birders",
@@ -5436,72 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-08-03T12:32:03Z"
-    },
-    {
-      "title": "Australia has long relied on volunteers: As bird flu spreads, they will need support",
-      "link": "https://phys.org/news/2026-08-australia-volunteers-bird-flu.html",
-      "summary": "Australia had years to prepare for the arrival of bird flu. The deadly, highly transmissible H5N1 strain emerged in late 2020 in Asia before spreading to every other continent exce",
-      "date": "2026-08-03T11:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/australia-bird.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-03T12:32:11Z"
-    },
-    {
-      "title": "Life speaks one universal language to activate genes: It speaks many more to silence them",
-      "link": "https://phys.org/news/2026-07-life-universal-language-genes-silence.html",
-      "summary": "The signals that cells use to switch genes on have remained almost unchanged across 2 billion years of evolution, but the ones used to switch genes off vary dramatically from one b",
-      "date": "2026-08-03T09:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/life-speaks-one-univer.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-03T12:32:11Z"
-    },
-    {
-      "title": "Aspen trees provide a natural buffer against wildfires, even as fire season intensifies, study shows",
-      "link": "https://www.livescience.com/planet-earth/plants/aspens-can-make-natural-firebreaks-even-as-fire-season-gets-worse",
-      "summary": "Buffers made of aspen trees could help protect communities from worsening wildfires.",
-      "date": "2026-08-03T12:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/rznXnCwdewnxC27Dy5NVof-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-03T12:32:13Z"
-    },
-    {
-      "title": "Did fungi give mammals an evolutionary edge after the dinosaur-killing asteroid hit? New evidence revives a provocative hypothesis",
-      "link": "https://www.livescience.com/animals/dinosaurs/did-fungi-give-mammals-an-evolutionary-edge-after-the-dinosaur-killing-asteroid-hit-new-evidence-revives-a-provocative-hypothesis",
-      "summary": "A revived hypothesis argues that a fungus-filled world after the Chicxulub asteroid impact may have given mammals an evolutionary edge. The idea could reshape how scientists think ",
-      "date": "2026-08-03T11:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/V7AwwWXmURpyYCRj39honT-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-03T12:32:13Z"
-    },
-    {
-      "title": "Rock crystal scraper: 45,000-year-old Neanderthal tool that shows they had an 'eye for beauty of form and color'",
-      "link": "https://www.livescience.com/archaeology/neanderthals/rock-crystal-scraper-45-000-year-old-neanderthal-tool-that-shows-they-had-an-eye-for-beauty-of-form-and-color",
-      "summary": "A chance find of rare rock crystal tools a century ago paved the way for a better understanding of Neanderthals today.",
-      "date": "2026-08-03T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/aDhj4bQh3QUiLtpgzdwfNY-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-03T12:32:13Z"
-    },
-    {
-      "title": "Are beef-liver or standard iron supplements better for boosting iron?",
-      "link": "https://www.newscientist.com/article/2582573-are-beef-liver-or-standard-iron-supplements-better-for-boosting-iron/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Beef-liver supplements are said to be more effective at raising iron levels than standard tablets, but is it true? Columnist Alice Klein looks into the evidence behind the claims",
-      "date": "2026-08-03T08:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306877790.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-03T08:35:31Z"
     }
   ]
 }
