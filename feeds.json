@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-11T02:12:07Z",
-  "updated_utc": "2026-08-11T02:12:07Z",
+  "updated": "2026-08-11T04:25:27Z",
+  "updated_utc": "2026-08-11T04:25:27Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Native birds in captivity to be vaccinated against H5 bird flu as Australia prepares for more mass mortalities",
+      "link": "https://www.theguardian.com/world/2026/aug/11/bird-flu-h5-vaccine-native-birds-australia",
+      "summary": "Federal government also hopes to vaccinate some wild birds but admits catching them once, let alone twice for both doses, is ‘difficult’ Get our breaking news email , free app or d",
+      "date": "2026-08-11T02:13:01Z",
+      "image": "https://i.guim.co.uk/img/media/698ccbe9c1df91b03bd038b53793447fe2b7bf74/480_0_2815_2253/master/2815.jpg?width=140&quality=85&auto=format&fit=max&s=0e1ffc3be3dc67dca54fad424ebc0e11",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-11T04:25:13Z"
+    },
     {
       "title": "Jackie, a beloved bald eagle and livestream star, dies of mysterious illness",
       "link": "https://www.theguardian.com/us-news/2026/aug/10/jackie-bald-eagle-california-dead",
@@ -5487,17 +5498,6 @@
       "summary": "In this excerpt from \"Despite it All,\" author Fred Pearce explores the ways plants are adapting and evolving in the face of climate change — and how we need to recognize this reali",
       "date": "2026-08-02T10:00:00Z",
       "image": "https://cdn.mos.cms.futurecdn.net/gZNcAaKtgNS6tTjmZRqEAH-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-02T10:03:59Z"
-    },
-    {
-      "title": "Did Celtic women fight in battle?",
-      "link": "https://www.livescience.com/archaeology/did-celtic-women-fight-in-battle",
-      "summary": "The Celts were highly regarded as warriors in the ancient world, but were all fighters men, or did Celtic women also fight in battle?",
-      "date": "2026-08-02T09:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/4b5XdMiimNsp4qqsDamMqU-1280-80.png",
       "name": "Live Science",
       "category": "insects",
       "color": 14,
