@@ -1,8 +1,85 @@
 {
-  "updated": "2026-08-11T20:55:22Z",
-  "updated_utc": "2026-08-11T20:55:22Z",
+  "updated": "2026-08-11T21:55:57Z",
+  "updated_utc": "2026-08-11T21:55:57Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A Total Solar Eclipse Is Coming to Spain. This Madrid Museum Is Celebrating With a Digital Artwork Illuminating Its Paintings ‘In the Light of the Eclipse’",
+      "link": "https://www.smithsonianmag.com/smart-news/a-total-solar-eclipse-is-coming-to-spain-this-madrid-museum-is-celebrating-with-a-digital-artwork-illuminating-its-paintings-in-the-light-of-the-eclipse-180989311/",
+      "summary": "A new animation from The Prado, called \"El Prado a la luz del eclipse,\" uses A.I. to imagine masterpieces by Goya and Velázquez as if their scenes occurred during a total solar ecl",
+      "date": "Tue, 11 Aug 2026 21Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/jeono_wkn3b35ZXDV0HiR-Fz8oQ=/420x240/filters:focal(1477x858:1478x859)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/48/84/4884a7a4-01f3-4618-9003-3e6d7673e627/jan_brueghel_i__peter_paul_rubens_-_sight_museo_del_prado.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-11T21:55:49Z"
+    },
+    {
+      "title": "X-ray analysis reveals the inner life of leaves while advancing engineering efforts to reduce 'crop sweat'",
+      "link": "https://phys.org/news/2026-08-ray-analysis-reveals-life-advancing.html",
+      "summary": "In the Midwestern summer, humans and plants have to breathe through the heat and humidity. Researchers hope that a retooled crop plant—one with an improved ventilation system withi",
+      "date": "2026-08-11T21:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/high-resolution-x-ray-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-11T21:55:53Z"
+    },
+    {
+      "title": "As New World screwworm returns to the US, a new dashboard tracks the risk",
+      "link": "https://phys.org/news/2026-08-world-screwworm-dashboard-tracks.html",
+      "summary": "In the 1950s, the New World screwworm cost U.S. livestock producers tens of millions of dollars a year, reaching $50 million to $100 million annually in the hardest-hit Southwest, ",
+      "date": "2026-08-11T21:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/as-new-world-screwworm.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-11T21:55:53Z"
+    },
+    {
+      "title": "Himalayan grain demonstrates the potential of pangenome-guided breeding for higher yields and adaptability",
+      "link": "https://phys.org/news/2026-08-himalayan-grain-potential-pangenome-higher.html",
+      "summary": "Scientists from the Centre for Crop and Food Innovation (CCFI) at Murdoch University have participated in a landmark proof-of-concept research project demonstrating how pangenome-g",
+      "date": "2026-08-11T21:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-demonstrat-13.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-11T21:55:53Z"
+    },
+    {
+      "title": "Malaysian farmers, environmental groups call for rejection of GMO rice trial",
+      "link": "https://phys.org/news/2026-08-malaysian-farmers-environmental-groups-gmo.html",
+      "summary": "A coalition of farmers, consumer associations and environmental groups is urging Malaysia's National Biosafety Board to reject a proposed field trial of genetically modified rice, ",
+      "date": "2026-08-11T21:00:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/malaysian-farmers-envi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-11T21:55:53Z"
+    },
+    {
+      "title": "Fungal chitin offers new route to tougher hydrogels for medical devices and soft robots",
+      "link": "https://phys.org/news/2026-08-fungal-chitin-route-tougher-hydrogels.html",
+      "summary": "Researchers at the Department of Energy's (DOE) Oak Ridge National Laboratory (ORNL) and the University of Tennessee (UT), Knoxville, have made an advance by using a natural substa",
+      "date": "2026-08-11T21:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fungi-enhance-hydrogel.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-11T21:55:53Z"
+    },
+    {
+      "title": "Astronomers created the largest-ever 2D map of the universe, charting 4 billion objects in the night sky",
+      "link": "https://www.livescience.com/space/astronomy/astronomers-created-the-largest-ever-2d-map-of-the-universe-charting-4-billion-objects-in-the-night-sky",
+      "summary": "A new celestial map not only catalogs a variety of cosmic objects but also serves as a pointer for other telescopes on Earth and in space.",
+      "date": "Tue, 11 Aug 2026 21Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/nMFH2p24QYuVdxTu28FXTG-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-11T21:55:55Z"
+    },
     {
       "title": "Will butterflies make a beeline to Los Altos butterfly house?",
       "link": "https://www.mercurynews.com/2026/08/03/will-butterflies-make-a-beeline-to-los-altos-butterfly-house/",
@@ -5425,83 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-08-03T19:49:03Z"
-    },
-    {
-      "title": "Stomach stone hypothesis sheds light on the evolution of dinosaur digestive systems",
-      "link": "https://phys.org/news/2026-08-stomach-stone-hypothesis-evolution-dinosaur.html",
-      "summary": "An international research team led by Assistant Professor Ryuji Takasaki of the Faculty of Biosphere-Geosphere Science at Okayama University of Science has published a paper propos",
-      "date": "2026-08-03T19:40:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-hypothesis-sheds-l.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-03T19:49:09Z"
-    },
-    {
-      "title": "Ant teams beat gravity-based puzzle solvers",
-      "link": "https://phys.org/news/2026-08-ant-teams-gravity-based-puzzle.html",
-      "summary": "Ants live in highly organized colonies and cooperate daily to tackle a wide range of problems. Their striking group behaviors have fascinated biologists for centuries and even insp",
-      "date": "2026-08-03T19:20:10Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ant-teams-beat-gravity.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-03T19:49:09Z"
-    },
-    {
-      "title": "Tiny predatory bacteria help protect endangered Caribbean corals",
-      "link": "https://phys.org/news/2026-08-tiny-predatory-bacteria-endangered-caribbean.html",
-      "summary": "A microscopic predator may offer a new way to protect some of the Caribbean's most endangered corals. Georgia Tech researchers found that tiny predatory bacteria can halt the sprea",
-      "date": "2026-08-03T18:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-predatory-bacteri.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-03T19:49:09Z"
-    },
-    {
-      "title": "Invasive rats are stopping small mammals from returning to Madagascar's regenerating forests: Study",
-      "link": "https://phys.org/news/2026-08-invasive-rats-small-mammals-madagascar.html",
-      "summary": "In southeastern Madagascar, patches of forest that were once cut down to make way for farms are slowly regenerating naturally after being left to lie fallow. But recovering a nativ",
-      "date": "2026-08-03T18:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/madagascar.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-03T19:49:09Z"
-    },
-    {
-      "title": "2 people die of Cyclospora infection in Michigan",
-      "link": "https://www.livescience.com/health/viruses-infections-disease/2-people-die-of-cyclospora-infection-in-michigan",
-      "summary": "Two people in Michigan have died due to Cyclospora infections, the state health department reported.",
-      "date": "2026-08-03T19:10:19Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/w3ZSQKUNEYwXrAiixCUQwG-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-03T19:49:11Z"
-    },
-    {
-      "title": "Submit Your Video",
-      "link": "https://www.birdsandblooms.com/submit-your-video/",
-      "summary": "We could not thrive without the contributions of gardeners and bird enthusiasts like you. That’s why we’re inviting you to The post Submit Your Video appeared first on Birds and Bl",
-      "date": "2026-08-03T17:18:26Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2020/05/cropped-512px_cube_hbird.jpg?resize=32,32",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-08-03T17:57:37Z"
-    },
-    {
-      "title": "Scottish seabird hunt cancelled for first time in 400 years",
-      "link": "https://www.theguardian.com/environment/2026/aug/03/scottish-seabird-hunt-cancelled-for-first-time-in-400-years",
-      "summary": "NatureScot refuses licence for hunt on Hebridean island of Sula Sgeir in which up to 2,000 gannet chicks are killed A controversial Scottish seabird hunt will not go ahead for the ",
-      "date": "2026-08-03T16:56:27Z",
-      "image": "https://i.guim.co.uk/img/media/11b8fcb2c85b5c35f7ff07d1233b79174faf4c98/90_0_4319_3455/master/4319.jpg?width=140&quality=85&auto=format&fit=max&s=13ec7a4f12f1fb2cb09d5aa5f7ee7ca8",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-03T17:57:41Z"
     }
   ]
 }
