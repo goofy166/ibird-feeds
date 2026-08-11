@@ -1,8 +1,162 @@
 {
-  "updated": "2026-08-11T15:05:04Z",
-  "updated_utc": "2026-08-11T15:05:04Z",
+  "updated": "2026-08-11T17:04:02Z",
+  "updated_utc": "2026-08-11T17:04:02Z",
   "count": 500,
   "stories": [
+    {
+      "title": "As heatwaves hit Britain, spare a thought for farm animals | Letters",
+      "link": "https://www.theguardian.com/environment/2026/aug/11/as-heatwaves-hit-britain-spare-a-thought-for-farm-animals",
+      "summary": "Claire Bass says animal welfare is a blind spot for the government. Plus, Chris Phillipson on the libraries operating as ‘cool spaces’, Mick Beeby on lido restoration, and Dr Julia",
+      "date": "2026-08-11T16:57:16Z",
+      "image": "https://i.guim.co.uk/img/media/67e7c0f14a9dbcdc9b33aabf30c03b2af1167473/0_0_2983_2387/master/2983.jpg?width=140&quality=85&auto=format&fit=max&s=e33968a2be1a52a71881e85822b31e2d",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-11T17:03:45Z"
+    },
+    {
+      "title": "5th batch of Pentagon UAP files: Orbs and triangles",
+      "link": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/",
+      "summary": "The 5th batch of the Pentagon UAP files was released on August 7, 2026. The videos, documents and images include reports of more orbs, triangles and more. The post 5th batch of Pen",
+      "date": "Tue, 11 Aug 2026 17Z",
+      "image": "https://earthsky.org/upl/2026/08/triangle-UAP-Colorado-Springs-2023-br.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-11T17:03:46Z"
+    },
+    {
+      "title": "Robot looks for great white sharks near California beaches",
+      "link": "https://www.mercurynews.com/2026/08/03/california-scientists-build-surveillance-robot-to-look-for-great-white-sharks/",
+      "summary": "The 10-foot long device is packed with high-tech cameras and other gear.",
+      "date": "2026-08-03T11:30:41Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/Shark-surveillance-robot-CSULB-July-2026.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-08-11T17:03:49Z"
+    },
+    {
+      "title": "Homebuilders in Solano County petition state to drop endangered species protection for hawk",
+      "link": "https://www.mercurynews.com/2026/08/01/solano-co-homebuilders-petition-state-to-drop-endangered-species-protection-for-hawk/",
+      "summary": "The Swainson’s hawk nests in Solano County and the Central Valley from March through September.",
+      "date": "2026-08-01T16:34:11Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2022/05/SJM-L-PARK-0513-7.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-08-11T17:03:49Z"
+    },
+    {
+      "title": "For the First Time, an mRNA Flu Shot Will Be Available to Some People in the United States. Here's What You Should Know",
+      "link": "https://www.smithsonianmag.com/smart-news/for-the-first-time-an-mrna-flu-shot-will-be-available-to-some-people-in-the-united-states-heres-what-you-should-know-180989305/",
+      "summary": "The Food and Drug Administration just approved the new type of flu vaccine for adults ages 50 and older. It relies on the same technology as many Covid-19 jabs. However, it’s uncle",
+      "date": "Tue, 11 Aug 2026 15Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/32lQBkuWOmHI8KclHrOJQpUwy68=/420x240/filters:focal(4330x2887:4331x2888)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0a/d1/0ad11323-828c-47b2-a34d-f8be27a5befe/flu-shot-older.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-11T17:03:53Z"
+    },
+    {
+      "title": "Bamboo toilet paper intrigued me. Reality turned out to be messy",
+      "link": "https://www.sciencenews.org/article/bamboo-toilet-paper-carbon-footprint",
+      "summary": "What makes a greener wipe? Researchers have more to say about bamboo's ecological risks, given limited carbon footprint data.",
+      "date": "Tue, 11 Aug 2026 16Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/072726_BD_bambootp_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-08-11T17:03:54Z"
+    },
+    {
+      "title": "CRISPR-armed phages help treat severe superbug infection",
+      "link": "https://www.newscientist.com/article/2584196-crispr-armed-phages-help-treat-severe-superbug-infection/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Bacteria-killing phage viruses souped up with DNA-destroying CRISPR appear to have helped clear up a very serious infection caused by antibiotic-resistant E. coli",
+      "date": "Tue, 11 Aug 2026 16Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307998646.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-11T17:03:56Z"
+    },
+    {
+      "title": "Heart surgery cured a man’s skin cancer – and gave him a bee allergy",
+      "link": "https://www.newscientist.com/article/2584182-heart-surgery-cured-a-mans-skin-cancer-and-gave-him-a-bee-allergy/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Having surgery for a heart condition is thought to have triggered an immune response that put the patient into remission for his severe skin cancer, but also caused him to develop ",
+      "date": "Tue, 11 Aug 2026 16Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307987738.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-11T17:03:56Z"
+    },
+    {
+      "title": "Rainbows can be made from sounds – and we’ve created the best ones yet",
+      "link": "https://www.newscientist.com/article/2584057-weve-now-had-a-good-look-at-a-rainbow-made-from-sound/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Two research teams have independently created devices within which sound waves could be separated by frequency, creating the most complete sound rainbows yet",
+      "date": "Tue, 11 Aug 2026 15Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307968559.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-11T17:03:56Z"
+    },
+    {
+      "title": "Humans have a 'highly abundant' number of stable proteins that are not all predicted by genetic code",
+      "link": "https://phys.org/news/2026-08-humans-highly-abundant-stable-proteins.html",
+      "summary": "In 1968, the American biochemist and geneticist Marshall Nirenberg and his colleagues won the Nobel Prize in physiology or medicine for their work deciphering how an organism's pro",
+      "date": "2026-08-11T16:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-suggests-tha.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-11T17:03:58Z"
+    },
+    {
+      "title": "Mathematical model shows how birds create a synchronized dawn chorus",
+      "link": "https://phys.org/news/2026-08-mathematical-birds-synchronized-dawn-chorus.html",
+      "summary": "Every morning, groups of birds start singing and chirping around the same time, typically when the sun starts rising. While zoologists have been studying this collective bird behav",
+      "date": "2026-08-11T16:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mathematical-model-sho.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-11T17:03:58Z"
+    },
+    {
+      "title": "Rescued platypuses quickly return to normal lives after five months in captivity",
+      "link": "https://phys.org/news/2026-08-platypuses-quickly-months-captivity.html",
+      "summary": "Platypuses rescued during a severe drought quickly returned to their old routines after being released back into the wild, suggesting emergency rescues can help protect vulnerable ",
+      "date": "2026-08-11T15:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rescued-platypuses-qui.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-11T17:03:58Z"
+    },
+    {
+      "title": "Dolphins learn how to use tools to hunt for fish from their mothers",
+      "link": "https://phys.org/news/2026-08-dolphins-tools-fish-mothers.html",
+      "summary": "From spears and the invention of the wheel to smartphones and robots, human societies have been building and using tools from the beginning. Human tool use has helped conquer new e",
+      "date": "2026-08-11T15:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dolphin.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-08-11T17:03:58Z"
+    },
+    {
+      "title": "'Like a jail door slamming': Male sperm whales' mysterious rhythmic clanging is the loudest communication sound of any animal",
+      "link": "https://www.livescience.com/animals/whales/like-a-jail-door-slamming-male-sperm-whales-mysterious-rhythmic-clanging-is-the-loudest-communication-sound-of-any-animal",
+      "summary": "Researchers have studied a mysterious rhythmic clanging noise produced by male sperm whales.",
+      "date": "Tue, 11 Aug 2026 15Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/yRsvYX22jezGo5WiVjmJkd-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-11T17:03:59Z"
+    },
     {
       "title": "Got a Brawny Build? You Might Be Able to Thank Your Neanderthal Ancestors, According to a New Study",
       "link": "https://www.smithsonianmag.com/smart-news/got-a-brawny-build-you-might-be-able-to-thank-your-neanderthal-ancestors-according-to-a-new-study-180989306/",
@@ -5348,160 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-08-03T15:48:01Z"
-    },
-    {
-      "title": "Will a new kind of AI that understands physical reality change the world again?",
-      "link": "https://www.newscientist.com/article/2580566-will-a-new-kind-of-ai-that-understands-physical-reality-change-the-world-again/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "AI chatbots can describe reality in words, but don’t truly understand cause and effect in the real world. Now, a fresh kind of machine intelligence that does just that is emerging",
-      "date": "2026-08-03T15:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306689129.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-03T15:48:02Z"
-    },
-    {
-      "title": "Why sitting under a parasol is barely cooler than being in the sun",
-      "link": "https://www.newscientist.com/article/2582754-why-sitting-under-a-parasol-is-barely-cooler-than-being-in-the-sun/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "A beach umbrella might protect you from sunburn, but when it comes to keeping you cool, it makes surprisingly little difference",
-      "date": "2026-08-03T14:46:01Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307269560.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-03T15:48:02Z"
-    },
-    {
-      "title": "Genetic analysis identifies a distinct Risso's dolphin population around British Isles",
-      "link": "https://phys.org/news/2026-08-genetic-analysis-distinct-risso-dolphin.html",
-      "summary": "Risso's dolphins around the British Isles are part of a single population—genetically distinct from those elsewhere in the Atlantic, new research shows. Scientists studied the DNA ",
-      "date": "2026-08-03T15:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/british-rissos-dolphin.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-03T15:48:05Z"
-    },
-    {
-      "title": "Seven new diamond frog species reveal Madagascar's hidden amphibian diversity",
-      "link": "https://phys.org/news/2026-08-diamond-frog-species-reveal-madagascar.html",
-      "summary": "An international team of scientists has described seven new species of Madagascar's elusive diamond frogs (Rhombophryne), revealing that one of the island's most mysterious groups ",
-      "date": "2026-08-03T15:20:21Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-se.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-03T15:48:05Z"
-    },
-    {
-      "title": "Some tropical butterflies live surprisingly long lives. Is it their high‑protein diet?",
-      "link": "https://phys.org/news/2026-08-tropical-butterflies-highprotein-diet.html",
-      "summary": "Butterflies are charismatic, colorful and cherished around the world. One of the most diverse groups of insects, with more than 19,000 described species, they inspire international",
-      "date": "2026-08-03T15:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/some-tropical-butterfl.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-08-03T15:48:05Z"
-    },
-    {
-      "title": "Humpback whales match song themes to dive phases, tags reveal",
-      "link": "https://phys.org/news/2026-08-humpback-whales-song-themes-phases.html",
-      "summary": "For male humpback whales, singing is serious business. Their haunting, complex songs can last for hours and travel for miles underwater, playing a central role in reproduction duri",
-      "date": "2026-08-03T15:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-a-whales-dive-shap.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-03T15:48:05Z"
-    },
-    {
-      "title": "Scientists watch, molecule by molecule, as cell helpers rescue problem proteins",
-      "link": "https://phys.org/news/2026-08-scientists-molecule-cell-helpers-problem.html",
-      "summary": "University of Wollongong (UOW) scientists have uncovered, for the first time, exactly how two of the cell's \"helper\" proteins operate as a rescue crew for misfolded proteins, a dis",
-      "date": "2026-08-03T14:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-watch-molec.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-03T15:48:05Z"
-    },
-    {
-      "title": "How the brain helps protect fertility from heat-induced damage",
-      "link": "https://phys.org/news/2026-08-brain-fertility.html",
-      "summary": "As global temperatures continue to rise, scientists are racing to understand why heat so profoundly threatens fertility across the animal kingdom. A new study from the Hebrew Unive",
-      "date": "2026-08-03T13:44:28Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-the-brain-helps-pr.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-03T15:48:05Z"
-    },
-    {
-      "title": "176-year oyster mystery spanning WA and the Indo-Pacific solved by DNA",
-      "link": "https://phys.org/news/2026-08-year-oyster-mystery-spanning-wa.html",
-      "summary": "An international study led by Curtin University has put to bed a scientific debate dating back 176 years, confirming that two historically significant oyster species from Western A",
-      "date": "2026-08-03T13:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/176-year-oyster-myster.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-03T15:48:05Z"
-    },
-    {
-      "title": "Scientists uncover big clue as to how Antarctica's mysterious Blood Falls came to be",
-      "link": "https://www.livescience.com/planet-earth/antarctica/scientists-uncover-big-clue-as-to-how-antarcticas-mysterious-blood-falls-came-to-be",
-      "summary": "Brine that feeds the gruesome-looking Blood Falls in East Antarctica may have been emplaced when sea levels were higher than they are now, a new study says.",
-      "date": "2026-08-03T15:06:39Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/N9vWhqSXUcSMDuP8ufkiUW-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-03T15:48:06Z"
-    },
-    {
-      "title": "'Poop pills' may ease insomnia by reprogramming the gut microbiome, early study hints",
-      "link": "https://www.livescience.com/health/sleep/poop-pills-may-ease-insomnia-by-reprogramming-the-gut-microbiome-early-study-hints",
-      "summary": "Reprogramming the gut microbiome with fecal microbiota transplants could reduce the amount of time people with insomnia spend awake.",
-      "date": "2026-08-03T14:10:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/W7pLTLx3eMiGJFgD4u3epT-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-03T15:48:06Z"
-    },
-    {
-      "title": "Ancient bullets reveal where a Roman camp hid in the Pyrenees of Spain before being ambushed",
-      "link": "https://www.livescience.com/archaeology/romans/ancient-bullets-reveal-where-a-roman-camp-hid-in-the-pyrenees-of-spain-before-being-ambushed",
-      "summary": "Researchers found the remains of a Roman camp from 39 B.C. that was ambushed by locals in what's now Catalonia, Spain.",
-      "date": "2026-08-03T13:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/m5LGtmtgB74mQtQZAmbvTi-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-03T15:48:06Z"
-    },
-    {
-      "title": "Birding Shanghai in July 2026",
-      "link": "https://www.10000birds.com/birding-shanghai-in-july-2026.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-shanghai-in-july-2026",
-      "summary": "A few months’ break in this series of regular posts on birding in Shanghai has apparently gone unnoticed, much to the disappointment and humiliation of the writer. Despondent yet s",
-      "date": "2026-08-03T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/Curlew-Sandpiper_DSC2162_Chongming-Dongtan-Jul-27-2026.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-08-03T12:31:53Z"
-    },
-    {
-      "title": "Birding Lodges of the World: Riflebird Lodge, Australia",
-      "link": "https://www.10000birds.com/birding-lodges-of-the-world-riflebird-lodge-australia.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-lodges-of-the-world-riflebird-lodge-australia",
-      "summary": "Which bird species do you think is the biggest attraction to visitors of your lodge (please only name one species)? Victoria’s Riflebird What is the name of your lodge, and since w",
-      "date": "2026-08-03T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/COVER-PHOTO.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-08-03T12:31:53Z"
     }
   ]
 }
