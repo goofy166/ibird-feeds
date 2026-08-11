@@ -1,8 +1,63 @@
 {
-  "updated": "2026-08-11T13:21:05Z",
-  "updated_utc": "2026-08-11T13:21:05Z",
+  "updated": "2026-08-11T15:05:04Z",
+  "updated_utc": "2026-08-11T15:05:04Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Got a Brawny Build? You Might Be Able to Thank Your Neanderthal Ancestors, According to a New Study",
+      "link": "https://www.smithsonianmag.com/smart-news/got-a-brawny-build-you-might-be-able-to-thank-your-neanderthal-ancestors-according-to-a-new-study-180989306/",
+      "summary": "New research hints that some living people inherited a gene variant from Neanderthals that has made them slightly taller and more muscular than their peers",
+      "date": "Tue, 11 Aug 2026 14Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/zDErlQroyOIp2ahOt2Qmb6NNa08=/420x240/filters:focal(960x722:961x723)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1f/ea/1feae12a-e97f-4e32-8ce2-ca854b1c8c52/engin_akyurt-weight-8246973_1920.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-11T15:04:56Z"
+    },
+    {
+      "title": "The largest known galaxy is wider than 17 Milky Ways",
+      "link": "https://www.sciencenews.org/article/largest-known-galaxy-wider-milky-way",
+      "summary": "Scientists have identified the edge of galaxy IC 1101 and crowned it with the title of largest known galaxy.",
+      "date": "Tue, 11 Aug 2026 14Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/080626_NO_largestgalaxy_main1.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-08-11T15:04:57Z"
+    },
+    {
+      "title": "How ancient trees are warning us about the next enormous solar storm",
+      "link": "https://www.newscientist.com/article/2581802-how-ancient-trees-are-warning-us-about-the-next-enormous-solar-storm/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Our sun is capable of storms far bigger than we’ve ever recorded. Studying the world’s oldest trees suggests we could be due one of these gargantuan events soon",
+      "date": "Tue, 11 Aug 2026 15Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/treerings-and-solarstorms-newuse-this-one-1350x900-1.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-11T15:04:58Z"
+    },
+    {
+      "title": "Toxoplasma parasite reveals an unusual strategy for surviving crowded environments in infected cells",
+      "link": "https://phys.org/news/2026-08-toxoplasma-parasite-reveals-unusual-strategy.html",
+      "summary": "Toxoplasma gondii, or Toxoplasma, is a parasite that infects hundreds of millions of people around the world. Although cases are often mild, it can cause severe symptoms in people ",
+      "date": "2026-08-11T15:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-shows-how-to-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-11T15:05:00Z"
+    },
+    {
+      "title": "A coral among the stars: New species discovered on Costa Rica's deep-sea seamounts",
+      "link": "https://phys.org/news/2026-08-coral-stars-species-costa-rica.html",
+      "summary": "Scientists exploring seamounts off the coast of Costa Rica have discovered a new coral so genetically and morphologically distinct that it required the creation of an entirely new ",
+      "date": "2026-08-11T14:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-coral-among-the-star.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-11T15:05:00Z"
+    },
     {
       "title": "‘I feel motherly towards them’: the nature reserve manager sharing her office with a wasp nest",
       "link": "https://www.theguardian.com/environment/2026/aug/11/i-feel-motherly-towards-them-the-nature-reserve-manager-sharing-her-office-with-a-wasp-nest",
@@ -5447,61 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-08-03T12:31:53Z"
-    },
-    {
-      "title": "‘They are such neat, busy little folk’: the unexpected superpowers of the common woodlouse",
-      "link": "https://www.theguardian.com/environment/2026/aug/03/common-woodlouse-invertebrate-of-the-year",
-      "summary": "This detritivore – known by a range of colourful names – tidies up our world and can withstand toxic pollution Revealed: the top 10 invertebrates of the year Chucky pig. Slater. Mo",
-      "date": "2026-08-03T11:00:16Z",
-      "image": "https://i.guim.co.uk/img/media/4276f898065bad811e8e7aba71c156d96bf814db/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=af6c68bf1312b41219e311882db5e8f0",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-03T12:31:59Z"
-    },
-    {
-      "title": "Revealed: the top 10 invertebrates of the year",
-      "link": "https://www.theguardian.com/environment/ng-interactive/2026/aug/03/revealed-top-10-invertebrates-of-the-year",
-      "summary": "At last! It’s time for our invertebrate of the year competition as voted for by you. Today, the common woodlouse – come back on Tuesday to find out who else made the top 10 *** Con",
-      "date": "2026-08-03T11:00:15Z",
-      "image": "https://i.guim.co.uk/img/media/48cf13705e02c60c23174231afc3c1638826c677/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=9e54c7b3f17e73b487059f2a2c621acb",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-03T12:31:59Z"
-    },
-    {
-      "title": "Suspected mass bird flu deaths found in second state as Murray Watt warns ‘this is the beginning’",
-      "link": "https://www.theguardian.com/world/2026/aug/03/suspected-mass-bird-flu-deaths-found-in-second-state-as-murray-watt-warns-this-is-the-beginning",
-      "summary": "Environment minister says Australia has ‘long and difficult journey’ and says more mass mortality events likely Get our breaking news email , free app or daily news podcast Aerial ",
-      "date": "2026-08-03T10:27:17Z",
-      "image": "https://i.guim.co.uk/img/media/2e24e4179d6612e7ec7789acc8755f024843e1dc/602_0_3272_2616/master/3272.jpg?width=140&quality=85&auto=format&fit=max&s=8da49e08f45ff22757d0c8c5049bd630",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-03T12:31:59Z"
-    },
-    {
-      "title": "California scientists build robot to look for great white sharks near beaches",
-      "link": "https://www.mercurynews.com/2026/08/03/california-scientists-build-surveillance-robot-to-look-for-great-white-sharks/",
-      "summary": "The 10-foot long device is packed with high-tech cameras and other gear.",
-      "date": "2026-08-03T11:30:41Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/Shark-surveillance-robot-CSULB-July-2026.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-08-03T12:32:03Z"
-    },
-    {
-      "title": "Homebuilders in Solano County petition state to drop endangered species protection for hawk",
-      "link": "https://www.mercurynews.com/2026/08/01/solano-co-homebuilders-petition-state-to-drop-endangered-species-protection-for-hawk/",
-      "summary": "The Swainson’s hawk nests in Solano County and the Central Valley from March through September.",
-      "date": "2026-08-01T16:34:11Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2022/05/SJM-L-PARK-0513-7.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-08-03T12:32:03Z"
     }
   ]
 }
