@@ -1,8 +1,85 @@
 {
-  "updated": "2026-08-12T11:53:24Z",
-  "updated_utc": "2026-08-12T11:53:24Z",
+  "updated": "2026-08-12T13:25:10Z",
+  "updated_utc": "2026-08-12T13:25:10Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Inglorious Twelfth? Calls for grouse season to be banned to prevent wildfires and peatland damage",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/12/inglorious-twelfth-calls-grouse-season-banned-prevent-wildfires-peatland-damage",
+      "summary": "As London restaurants say wild birds are smaller and fewer this year, experts say countryside should not be ‘playground for bloodsports’ Every year on 12 August, fans of traditiona",
+      "date": "2026-08-12T12:19:57Z",
+      "image": "https://i.guim.co.uk/img/media/9e5c244ac0a06e607af418c6e0a7091669e24f1c/842_0_4208_3367/master/4208.jpg?width=140&quality=85&auto=format&fit=max&s=b6b4ba9d31c0fd7c2646392aeaf0be87",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-12T13:24:55Z"
+    },
+    {
+      "title": "Humpbacks return to Rio: the whales are back from the brink of extinction – but will tourism help or hinder?",
+      "link": "https://www.theguardian.com/environment/2026/aug/12/humpbacks-return-to-rio-the-whales-are-back-from-the-brink-of-extinction-but-will-tourism-help-or-hinder",
+      "summary": "The gigantic aquatic acrobats are exciting Brazil’s tourists as numbers recover from whaling. But some marine biologists question how booming tourism and conservation can coexist T",
+      "date": "2026-08-12T12:00:28Z",
+      "image": "https://i.guim.co.uk/img/media/e2f403b1f17fff0acf553cde3e3860f7e3536124/1098_490_3185_2548/master/3185.jpg?width=140&quality=85&auto=format&fit=max&s=ead27073f51ee75c70b897732d0f04aa",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-12T13:24:55Z"
+    },
+    {
+      "title": "Perseid meteor shower 2026! It’s time to watch",
+      "link": "https://earthsky.org/astronomy-essentials/everything-you-need-to-know-perseid-meteor-shower/",
+      "summary": "The Perseid meteor shower peaks this week! It's best between midnight and dawn. The peak is August 12 and 13 before dawn, but watch around those mornings, too. The post Perseid met",
+      "date": "Tue, 11 Aug 2026 12Z",
+      "image": "https://earthsky.org/upl/2021/08/perseid-meteor-shower-radiant-point-1500px-e1628630279557.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-12T13:24:56Z"
+    },
+    {
+      "title": "How ancient trees are warning us about the next enormous solar storm",
+      "link": "https://www.newscientist.com/article/2581487-how-ancient-trees-are-warning-us-about-the-next-enormous-solar-storm-2/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Our sun is capable of storms far bigger than we’ve ever recorded. Studying the world’s oldest trees suggests we could be due one of these gargantuan events soon",
+      "date": "2026-08-12T13:08:24Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/TreeRings-SolarStorms-NEWUSE-THIS-ONE-1.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-12T13:25:04Z"
+    },
+    {
+      "title": "Bumblebees can learn to associate new smells with their queen",
+      "link": "https://phys.org/news/2026-08-bumblebees-associate-queen.html",
+      "summary": "Bumblebees are able to learn to associate new odors with their colony's queen, instead of being preprogrammed to recognize the queen's pheromones from birth, according to a new stu",
+      "date": "2026-08-12T12:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bumblebees-can-learn-t.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-12T13:25:06Z"
+    },
+    {
+      "title": "Q&A: Flesh-eating screwworms have returned. Which new technologies could stop them?",
+      "link": "https://phys.org/news/2026-08-qa-flesh-screwworms-technologies.html",
+      "summary": "They may look like any ordinary species of flies buzzing around on any given day, but the New World screwworm is quite extraordinary. Screwworm flies are highly destructive parasit",
+      "date": "2026-08-12T12:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/flesh-eating-screwworm.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-12T13:25:06Z"
+    },
+    {
+      "title": "The way trees sway may communicate water stress",
+      "link": "https://phys.org/news/2026-08-trees-sway-communicate-stress.html",
+      "summary": "The Western U.S. is experiencing periods of increasingly intense drought, and higher temperatures are exacerbating the issue by drawing even more moisture from plants and soils int",
+      "date": "2026-08-12T12:10:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-way-trees-sway-may.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-12T13:25:06Z"
+    },
     {
       "title": "The Rock Dove We Stopped Counting",
       "link": "https://www.10000birds.com/the-rock-dove-we-stopped-counting.htm?utm_source=rss&utm_medium=rss&utm_campaign=the-rock-dove-we-stopped-counting",
@@ -5425,83 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-08-04T12:06:07Z"
-    },
-    {
-      "title": "Bird Guides of the World: Valeria Heindl, Chile",
-      "link": "https://www.10000birds.com/bird-guides-of-the-world-valeria-heindl-chile.htm?utm_source=rss&utm_medium=rss&utm_campaign=bird-guides-of-the-world-valeria-heindl-chile",
-      "summary": "What is your favorite bird species? My favorite desert species is the Tamarugo Conebill (Conirostrum tamarugense), a tiny passerine highly dependent on the Tamarugo tree. It’s a mi",
-      "date": "Tue, 04 Aug 2026 11Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/06/VAL-IN-CTION-2-IN-CACTUS-CANYON.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-08-04T12:06:07Z"
-    },
-    {
-      "title": "Venus rings found high above planet’s thick clouds",
-      "link": "https://earthsky.org/space/venus-rings-found-high-above-the-planets-thick-clouds/",
-      "summary": "New analysis of images taken in 2010 reveal giant Venus rings. The rings are high in the Venus atmosphere. They are ripples in the atmosphere. The post Venus rings found high above",
-      "date": "Tue, 04 Aug 2026 11Z",
-      "image": "https://earthsky.org/upl/2026/07/Rings-on-Venus-001-800x391.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-08-04T12:06:13Z"
-    },
-    {
-      "title": "9 mind-blowing space facts that will shock you",
-      "link": "https://earthsky.org/space/9-mind-blowing-space-facts/",
-      "summary": "Read 9 mind-blowing space facts about Earth, the sun, our galaxy and universe that will surprise and delight you. You'll be a hit at your next dinner party! The post 9 mind-blowing",
-      "date": "Tue, 04 Aug 2026 11Z",
-      "image": "https://earthsky.org/upl/2025/02/human-universe-igor-cibulsky.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-08-04T12:06:13Z"
-    },
-    {
-      "title": "Gear Up For Back to School with 18 Deals on Backpacks, Apparel, and More",
-      "link": "https://www.outsideonline.com/outdoor-gear/gear-news/back-to-school-sales-2026/",
-      "summary": "Whether you’re the parent of an elementary schooler or a college student, these 18 back-to-school deals are worth checking out. The post Gear Up For Back to School with 18 Deals on",
-      "date": "Tue, 04 Aug 2026 10Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/OOL-Deal-Tile-C-2400x1350-1.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-04T12:06:17Z"
-    },
-    {
-      "title": "I Spent Years Looking for an Affordable Mountain Town. I Finally Found It.",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/affordable-mountain-towns-roanoke-virginia/",
-      "summary": "As housing costs soar in famous outdoor hubs, one Southwest Virginia city offers mountain access, vibrant culture, and homes for half the price. The post I Spent Years Looking for ",
-      "date": "Tue, 04 Aug 2026 09Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/roanoke.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-04T12:06:17Z"
-    },
-    {
-      "title": "Canadian wildfires are reducing solar power generation in Europe",
-      "link": "https://www.newscientist.com/article/2582931-canadian-wildfires-are-reducing-solar-power-generation-in-europe/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Lost solar power due to smoke blocking the sun cost Europe and North America nearly $2 billion in 2023 alone",
-      "date": "Tue, 04 Aug 2026 10Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307283764.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-04T12:06:21Z"
-    },
-    {
-      "title": "Indigenous-led conservation helps save endangered cockatoo",
-      "link": "https://phys.org/news/2026-08-indigenous-endangered-cockatoo.html",
-      "summary": "An Indigenous community in Indonesia has found a way to protect one of the world's rarest cockatoos without abandoning a centuries-old sacred tradition, according to new research l",
-      "date": "2026-08-04T12:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/indigenous-led-conserv-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-04T12:06:23Z"
     }
   ]
 }
