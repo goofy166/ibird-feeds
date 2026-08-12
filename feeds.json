@@ -1,8 +1,129 @@
 {
-  "updated": "2026-08-12T17:03:15Z",
-  "updated_utc": "2026-08-12T17:03:15Z",
+  "updated": "2026-08-12T19:11:03Z",
+  "updated_utc": "2026-08-12T19:11:03Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Following Pope Leo XIV's Encyclical, the Vatican Announces a New Art Triennial Celebrating Human Creativity and Empathy in the Age of A.I.",
+      "link": "https://www.smithsonianmag.com/smart-news/following-pope-leo-vivs-encyclical-the-vatican-announces-a-new-art-triennial-celebrating-human-creativity-and-empathy-in-the-age-of-ai-180989321/",
+      "summary": "More than 100 artists will showcase their art on four continents as the Catholic Church continues to emphasize human creativity and relationships over artificial intelligence tools",
+      "date": "2026-08-12T19:00:28Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/RJIc6Rg_MAzNDBai8ucaQiKTS3g=/420x240/filters:focal(4128x2752:4129x2753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b1/6e/b16ee57d-9898-48a0-a414-46006ea67f0f/circular_staircase_of_the_vatican_museums_02.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-12T19:10:55Z"
+    },
+    {
+      "title": "Stunning New Images Reveal Whirlpools on the Sun's Surface. The Swirling Structures Might Help Power Solar Flares",
+      "link": "https://www.smithsonianmag.com/smart-news/stunning-new-images-reveal-whirlpools-on-the-suns-surface-the-swirling-strutures-might-help-power-solar-flares-180989292/",
+      "summary": "Observed directly in the solar photosphere for the first time, the vortices might braid magnetic fields, thought to be responsible for energy buildups and eventual outbursts. The f",
+      "date": "2026-08-12T18:19:56Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/PtdYE36D3TUvorYg_2V1CZKXu2o=/420x240/filters:focal(720x405:721x406)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2a/4d/2a4dd437-4547-4681-8056-3bb60dbe6390/080426_fi_solarswirls_main.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-12T19:10:55Z"
+    },
+    {
+      "title": "Shipwreck Divers Discovered a 162-Year-Old Bottle of Guinness Brewed During the Reign of Queen Victoria—and They Want to Take a Swig",
+      "link": "https://www.smithsonianmag.com/smart-news/shipwreck-divers-discovered-a-162-year-old-bottle-of-guinness-brewed-during-the-reign-of-queen-victoria-and-they-want-to-take-a-swig-180989320/",
+      "summary": "The beer was preserved in a sealed glass bottle and may be safe to sample. The team is also hoping to sequence the DNA of the yeast to recreate what the stout would have tasted lik",
+      "date": "2026-08-12T17:28:38Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/8TSMrWO1qqwBx27aLCT-Bk6ZQs4=/420x240/filters:focal(622x509:623x510)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1f/39/1f399d2f-be9b-4c0d-a379-8ed736dd281a/bottles.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-12T19:10:55Z"
+    },
+    {
+      "title": "How the Boogie Board Became One of Summer's Most Popular Toys",
+      "link": "https://www.smithsonianmag.com/innovation/how-the-boogie-board-became-one-of-summers-most-popular-toys-180989316/",
+      "summary": "Fifty-five years ago, surfer Tom Morey cut a piece of polyethylene foam with a carving knife and created a wave-riding board with a low barrier of entry",
+      "date": "2026-08-12T17:02:02Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/wEEfBj55mjhslYpM7rRaM6uqjtw=/420x240/filters:focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/18/d3/18d3c412-f69c-4872-96af-a79726f67a09/gettyimages-641186814.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-12T19:10:55Z"
+    },
+    {
+      "title": "A vest tested on the Artemis I mission blocked some radiation exposure",
+      "link": "https://www.sciencenews.org/article/vest-artemis-mission-blocked-radiation",
+      "summary": "A 26-kilogram plastic garment, flown on a model human torso on the uncrewed Artemis I mission, may one day protect astronauts from solar storms.",
+      "date": "2026-08-12T18:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/081126_SW_vest_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-08-12T19:10:56Z"
+    },
+    {
+      "title": "Running with a stroller seems to reduce the risk of injuries",
+      "link": "https://www.newscientist.com/article/2584315-running-with-a-pram-seems-to-reduce-the-risk-of-injuries/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Pushing a pram while running may reduce the force produced with each foot strike, decreasing the risk of injuries",
+      "date": "2026-08-12T18:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308064434.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-12T19:10:57Z"
+    },
+    {
+      "title": "New frog species discovered in the Amazon's flooded forests",
+      "link": "https://phys.org/news/2026-08-frog-species-amazon-forests.html",
+      "summary": "Scientists from Brazil and other countries have discovered a new species of frog in the flooded forests of the western Amazon. They named it Adenomera varcena. This finding signifi",
+      "date": "2026-08-12T19:10:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-ne-13.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-12T19:10:59Z"
+    },
+    {
+      "title": "New evidence helps solve how earliest birds took flight",
+      "link": "https://phys.org/news/2026-08-evidence-earliest-birds-flight.html",
+      "summary": "The first bird to inhabit Earth used its robust hind legs to make two or three powerful leaps while flapping its way to flight, according to a study by the University of Southampto",
+      "date": "2026-08-12T18:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-evidence-to-help-s.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-12T19:10:59Z"
+    },
+    {
+      "title": "Rangers and scientists map vulnerable reefs in the remote Groote Archipelago",
+      "link": "https://phys.org/news/2026-08-rangers-scientists-vulnerable-reefs-remote.html",
+      "summary": "For thousands of years, the Anindilyakwa people have lived in deep connection with the waters surrounding Groote Eylandt, a remote island in the Gulf of Carpentaria.",
+      "date": "2026-08-12T18:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rangers-and-scientists.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-12T19:10:59Z"
+    },
+    {
+      "title": "Hybrid bioprinter creates capillary networks narrower than 10 micrometers",
+      "link": "https://phys.org/news/2026-08-hybrid-bioprinter-capillary-networks-narrower.html",
+      "summary": "More than 100,000 people are awaiting an organ transplant in the United States, with a new candidate added to the list every 10 minutes. Even if the transplant is carried out succe",
+      "date": "2026-08-12T17:40:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-ne-18.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-12T19:10:59Z"
+    },
+    {
+      "title": "Q&A: Deploying AI to create proteins never before seen in nature",
+      "link": "https://phys.org/news/2026-08-qa-deploying-ai-proteins-nature.html",
+      "summary": "The decades-old scientific quest to create brand-new proteins has been turbocharged in the era of artificial intelligence.",
+      "date": "2026-08-12T17:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/protein-engineering.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-12T19:10:59Z"
+    },
     {
       "title": "Tobago’s Seabird Season",
       "link": "https://www.10000birds.com/tobagos-seabird-season.htm?utm_source=rss&utm_medium=rss&utm_campaign=tobagos-seabird-season",
@@ -5381,127 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-04T21:19:30Z"
-    },
-    {
-      "title": "Human norovirus capsid shifts between two shapes, cryo-EM reveals",
-      "link": "https://phys.org/news/2026-08-human-norovirus-capsid-shifts-cryo.html",
-      "summary": "A research team led by Kazuyoshi Murata has discovered that virus-like particles (VLPs) of human norovirus genotype GII.3 are not structurally rigid, but can adopt two distinct con",
-      "date": "2026-08-04T20:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/do-human-noroviruses-a.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-04T21:19:30Z"
-    },
-    {
-      "title": "Decades-old theory for how insect societies evolve challenged",
-      "link": "https://phys.org/news/2026-08-decades-theory-insect-societies-evolve.html",
-      "summary": "For more than 60 years, evolutionary biologists have debated whether a unique genetic system found in ants, bees and wasps helps explain one of nature's most remarkable innovations",
-      "date": "2026-08-04T20:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bee.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-04T21:19:30Z"
-    },
-    {
-      "title": "Snakes aren't simple tubes. Their bodies have five regions—including a short neck",
-      "link": "https://phys.org/news/2026-08-snakes-simple-tubes-bodies-regions.html",
-      "summary": "Snakes are seemingly simple in structure: a head attached to a long, unremarkable noodle. They do have some pretty cool features at the front end, with venomous fangs and the abili",
-      "date": "2026-08-04T20:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/snakes-arent-simple-tu.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-04T21:19:30Z"
-    },
-    {
-      "title": "Physicists find a way to control heat in a way once thought impossible",
-      "link": "https://www.livescience.com/physics-mathematics/physicists-find-a-way-to-control-heat-in-a-way-once-thought-impossible",
-      "summary": "Researchers designed a material that can independently control how it absorbs and emits heat, and it even retains those settings once the power is turned off.",
-      "date": "Tue, 04 Aug 2026 21Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ynr72cKe7MKqqCRsAubMZj-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-04T21:19:31Z"
-    },
-    {
-      "title": "Two People Died After Getting Sick With Cyclosporiasis, Marking the First Known Deaths Linked to the Ongoing Multi-State Outbreak",
-      "link": "https://www.smithsonianmag.com/smart-news/two-peope-died-after-getting-sick-with-cyclosporiasis-marking-the-first-known-deaths-linked-to-the-ongoing-multi-state-outbreak-180989256/",
-      "summary": "Both patients, who were in Michigan, had underlying health conditions, according to state officials. The parasite-caused infection usually isn't life-threatening",
-      "date": "Tue, 04 Aug 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/mL-PsOTZ46OJf_5O67cHLIiKvYM=/420x240/filters:focal(2573x1715:2574x1716)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ca/4b/ca4b0251-c164-46ac-b5e3-81148b1a2fe0/cyclospora.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-04T19:47:16Z"
-    },
-    {
-      "title": "The Danube River Has Fallen to Record-Low Water Levels, Revealing Nazi Warships, Bombs and Woolly Mammoth Bones In Its Channel",
-      "link": "https://www.smithsonianmag.com/smart-news/the-danube-river-has-fallen-to-record-low-water-levels-revealing-nazi-warships-bombs-and-woolly-mammoth-bones-in-its-channel-180989255/",
-      "summary": "Residents and researchers are finding historic and prehistoric relics of the past as Europe's second-longest river dries",
-      "date": "Tue, 04 Aug 2026 18Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/98uC3i5Kq4IHCcl-I3rWklWP8bE=/420x240/filters:focal(810x540:811x541)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a6/ed/a6edd465-75b5-40a0-ad71-ad4d1271eef2/river_i.jpg",
-      "name": "Smithsonian",
-      "category": "butterflies",
-      "color": 10,
-      "fetched_at": "2026-08-04T19:47:16Z"
-    },
-    {
-      "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
-      "link": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
-      "summary": "A flowering plant has been confirmed as a new carnivorous lineage, according to research published in Nature Communications. The findings show that Saxifraga candelabrum can attrac",
-      "date": "2026-08-04T19:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/carnivorous-plants-con.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-04T19:47:21Z"
-    },
-    {
-      "title": "Miscanthus roots reveal deeper soils may retain more stable carbon",
-      "link": "https://phys.org/news/2026-08-miscanthus-roots-reveal-deeper-soils.html",
-      "summary": "Deeply rooted perennial plants may help build soil carbon (C) stocks, but most research has focused on shallow soils, resulting in gaps in our understanding of how the balance betw",
-      "date": "2026-08-04T19:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/1-soil.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-04T19:47:21Z"
-    },
-    {
-      "title": "Why some people are mosquito magnets while others get away unbitten",
-      "link": "https://phys.org/news/2026-08-people-mosquito-magnets-unbitten.html",
-      "summary": "Some mosquitoes really are picky eaters. They will not just stick their proboscis into any old human. We know this anecdotally, with some people claiming they are always bitten whi",
-      "date": "2026-08-04T19:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/mosquito-3.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-04T19:47:21Z"
-    },
-    {
-      "title": "3D DNA mapping in rare immune cells reveals new genes linked with autoimmune disease risk",
-      "link": "https://phys.org/news/2026-08-3d-dna-rare-immune-cells.html",
-      "summary": "Our DNA is often pictured as a simple spiral, like a piece of rope held taut. But inside cells, it folds into a complex three-dimensional structure, with 2 meters (6.6 feet) of DNA",
-      "date": "2026-08-04T19:00:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/dna.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-04T19:47:21Z"
-    },
-    {
-      "title": "Field trials support oil-rich sorghum as a potential sustainable aviation fuel feedstock",
-      "link": "https://phys.org/news/2026-08-field-trials-oil-rich-sorghum.html",
-      "summary": "In a new study by the Center for Advanced Bioenergy and Bioproducts Innovation (CABBI), researchers evaluated oil sorghum lines in Nebraska and Illinois over two years to quantify ",
-      "date": "2026-08-04T18:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2016/sorghum.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-04T19:47:21Z"
     }
   ]
 }
