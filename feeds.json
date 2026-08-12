@@ -1,8 +1,140 @@
 {
-  "updated": "2026-08-12T13:25:10Z",
-  "updated_utc": "2026-08-12T13:25:10Z",
+  "updated": "2026-08-12T15:04:23Z",
+  "updated_utc": "2026-08-12T15:04:23Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Too many holes! Why badgers are digging up Britain’s lovingly maintained golf courses",
+      "link": "https://www.theguardian.com/environment/2026/aug/12/too-many-holes-why-badgers-are-digging-up-britains-lovingly-maintained-golf-courses",
+      "summary": "Thanks to the drought, these black-and-white beauties are struggling to catch worms in the rock-hard earth. But there’s still good foraging on well-watered fairways and greens Name",
+      "date": "2026-08-12T14:04:38Z",
+      "image": "https://i.guim.co.uk/img/media/04a6cfcb5f10631a48d3807c3f52b6c8c3be503f/640_0_3217_2575/master/3217.jpg?width=140&quality=85&auto=format&fit=max&s=33513399969c71cbfafce3ceeeb0658c",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-12T15:04:06Z"
+    },
+    {
+      "title": "Los Gatos High School track is now open for public use",
+      "link": "https://www.mercurynews.com/2026/08/12/los-gatos-high-school-track-is-now-open-for-public-use/",
+      "summary": "Community members can use the track at Los Gatos High School for recreational purposes as long as it is not being used by the school. State Sen. Dave Cortese announced a new bill t",
+      "date": "2026-08-12T13:45:54Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/BNG-L-PREPTRACK-0418-45.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-08-12T15:04:11Z"
+    },
+    {
+      "title": "Pumas Might Be Making Your Drive Home Safer. When the Predators Are Around, Deer Tend to Avoid Roads, Preventing Some Collisions",
+      "link": "https://www.smithsonianmag.com/smart-news/pumas-might-be-making-your-drive-home-safer-when-the-predators-are-around-deer-tend-to-avoid-roads-preventing-some-collisions-180989314/",
+      "summary": "In Washington’s Olympic Peninsula, the wild cats’ presence corresponded with a 67 percent drop in the likelihood of a deer-vehicle crash and a 76 percent overall decline in the num",
+      "date": "2026-08-12T14:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/jPMPyOHtw1rxeI78_HUeat6PnBs=/420x240/filters:focal(2000x1352:2001x1353)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/35/a1/35a1806d-e51e-423c-90d6-74bc5d1f676d/nmg0497-edit.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-12T15:04:14Z"
+    },
+    {
+      "title": "Too many choices complicate female frogs’ sex lives",
+      "link": "https://www.sciencenews.org/article/choices-female-frogs-sex-mating-calls",
+      "summary": "In the lab, female frogs were less likely to choose preferred males as mating calls increased, potentially giving other males a better shot.",
+      "date": "2026-08-12T15:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/081226_FK_frogs_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-08-12T15:04:15Z"
+    },
+    {
+      "title": "Mission to save NASA telescope back on track after loss of control",
+      "link": "https://www.newscientist.com/article/2584337-mission-to-save-nasa-telescope-back-on-track-after-loss-of-control/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Katalyst’s LINK spacecraft might still be able to save NASA’s ailing Swift telescope from doom, despite a significant mishap",
+      "date": "2026-08-12T14:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308053073.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-12T15:04:17Z"
+    },
+    {
+      "title": "How drought is reshaping the spread of infectious diseases",
+      "link": "https://phys.org/news/2026-08-drought-reshaping-infectious-diseases.html",
+      "summary": "From the American West to Europe, droughts are drying up rivers, fueling destructive fires and reshaping ecosystems. They are also changing the spread of infectious diseases, leadi",
+      "date": "2026-08-12T15:00:11Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/drought-is-reshaping-t.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-12T15:04:19Z"
+    },
+    {
+      "title": "Tropical trees show unexpected drought adaptability across Puerto Rico's rainfall extremes",
+      "link": "https://phys.org/news/2026-08-tropical-trees-unexpected-drought-puerto.html",
+      "summary": "Tropical forests store enormous amounts of carbon and harbor most of the world's terrestrial biodiversity, but scientists fear that increasingly severe droughts threaten their abil",
+      "date": "2026-08-12T15:00:10Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tropical-trees-show-un.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-12T15:04:19Z"
+    },
+    {
+      "title": "When male suitors abound, female treefrogs have trouble picking mates",
+      "link": "https://phys.org/news/2026-08-male-suitors-abound-female-treefrogs.html",
+      "summary": "Much like an indecisive single person on a dating app, female treefrogs struggle to pick the most desirable mates when they have too many options to choose from. According to a new",
+      "date": "2026-08-12T15:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-male-suitors-abou.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-12T15:04:19Z"
+    },
+    {
+      "title": "Unfamiliar with rattlesnakes, blackbirds still avoid striking them while defending nests",
+      "link": "https://phys.org/news/2026-08-unfamiliar-rattlesnakes-blackbirds-defending.html",
+      "summary": "In a rare study of snakes as nest predators, scientists found nesting birds were loath to strike rattlesnakes even though they likely had no previous experience with vipers.",
+      "date": "2026-08-12T14:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unfamiliar-with-rattle-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-12T15:04:19Z"
+    },
+    {
+      "title": "Agricultural data helping develop tools for crop disease management",
+      "link": "https://phys.org/news/2026-08-agricultural-tools-crop-disease.html",
+      "summary": "The North Dakota Agricultural Weather Network—known as NDAWN—isn't just measuring precipitation amounts and temperatures across the state. It's also playing a role in developing to",
+      "date": "2026-08-12T14:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/agricultural-data-help.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-12T15:04:19Z"
+    },
+    {
+      "title": "The internet can't get enough of cats, but cats might have had enough of the internet",
+      "link": "https://phys.org/news/2026-08-internet-cats.html",
+      "summary": "According to new research, viewers often dismiss, trivialize or even romanticize signs of cat distress during \"play\" interactions, raising concerns for cat welfare.",
+      "date": "2026-08-12T14:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cat.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-12T15:04:19Z"
+    },
+    {
+      "title": "Quality control of proteins in the cellular membrane starts at the ribosome",
+      "link": "https://phys.org/news/2026-08-quality-proteins-cellular-membrane-ribosome.html",
+      "summary": "Scientists at the Center for Molecular Medicine Cologne (CMMC) and the CECAD Cluster of Excellence on Aging Research have demonstrated in a biomedical study that ribosomes, the pro",
+      "date": "2026-08-12T14:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quality-control-of-pro.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-12T15:04:19Z"
+    },
     {
       "title": "Inglorious Twelfth? Calls for grouse season to be banned to prevent wildfires and peatland damage",
       "link": "https://www.theguardian.com/uk-news/2026/aug/12/inglorious-twelfth-calls-grouse-season-banned-prevent-wildfires-peatland-damage",
@@ -5370,138 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-08-04T15:28:47Z"
-    },
-    {
-      "title": "Darwin proved right about gnat-trapping carnivorous plant",
-      "link": "https://www.newscientist.com/article/2583122-darwin-proved-right-about-gnat-trapping-carnivorous-plant/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Botanists have finally proved what Charles Darwin was unable to nail down – that a genus of plants known to catch insects also digests them, suggesting the extent of plant carnivor",
-      "date": "Tue, 04 Aug 2026 15Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307342588.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-04T15:28:48Z"
-    },
-    {
-      "title": "We’re beginning to understand the sudden ‘grief attacks’ that hit mourners",
-      "link": "https://www.newscientist.com/article/2579641-were-beginning-to-understand-the-sudden-grief-attacks-that-hit-mourners/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "A few years ago, psychologist Sherman Lee experienced a \"grief attack\". When he set out to study them, he discovered just how powerful and all-consuming grief can be",
-      "date": "Tue, 04 Aug 2026 15Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305306924.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-04T15:28:48Z"
-    },
-    {
-      "title": "The best new popular science books of August 2026",
-      "link": "https://www.newscientist.com/article/2583176-the-best-new-popular-science-books-of-august-2026/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "From which diets work best to the ethics of octopus farming, here’s Liz Else’s round-up of the most interesting popular science books published this month",
-      "date": "Tue, 04 Aug 2026 14Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI307284308.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-04T15:28:48Z"
-    },
-    {
-      "title": "A resilient native seagrass species could help reshape coastal restoration",
-      "link": "https://phys.org/news/2026-08-resilient-native-seagrass-species-reshape.html",
-      "summary": "Seagrasses are among the most important foundation species in coastal ecosystems, providing habitat for marine life, stabilizing sediments and helping improve water quality. Yet ne",
-      "date": "2026-08-04T15:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-resilient-native-sea.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-04T15:28:51Z"
-    },
-    {
-      "title": "Could understanding leaf surfaces lead to new ways to prevent crop disease?",
-      "link": "https://phys.org/news/2026-08-leaf-surfaces-ways-crop-disease.html",
-      "summary": "Fungal diseases that affect grain crops can be devastating to global agriculture and food security. Fungicides are the most common preventive measure, but as fungal diseases become",
-      "date": "2026-08-04T15:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-understanding-le.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-04T15:28:51Z"
-    },
-    {
-      "title": "How the 'fecal revolution' changed Earth's ecosystems",
-      "link": "https://phys.org/news/2026-08-fecal-revolution-earth-ecosystems.html",
-      "summary": "An international study led by Flinders University has found a fertile area of inspiration to explain an important step in evolution—and it's a whole lot of poop. The new study desc",
-      "date": "2026-08-04T14:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-an-explosion-of-ex.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-04T15:28:51Z"
-    },
-    {
-      "title": "Repetitive genomic regions link structural genomic variation to species diversity",
-      "link": "https://phys.org/news/2026-08-repetitive-genomic-regions-link-variation.html",
-      "summary": "Researchers sequenced the genomes of three medaka, or Japanese rice fish, a common model organism used in biological research, nearly 10 and 20 years ago. While sequencing the geno",
-      "date": "2026-08-04T13:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/repetitive-genomic-reg.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-04T15:28:51Z"
-    },
-    {
-      "title": "Antibiotic-resistant seafood bacterium found in Vietnam fish farming waters near popular island destination",
-      "link": "https://phys.org/news/2026-08-antibiotic-resistant-seafood-bacterium-vietnam.html",
-      "summary": "A bacterium linked to seafood-related illness and capable of resisting multiple antibiotics has been detected in fish-farming waters near Cat Ba Island, Vietnam, according to a new",
-      "date": "2026-08-04T12:45:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/antibiotic-resistant-s.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-04T15:28:51Z"
-    },
-    {
-      "title": "Indoor moves prove easier than expected for most cats and owners",
-      "link": "https://phys.org/news/2026-08-indoor-easier-cats-owners.html",
-      "summary": "Moving a pet cat from an outdoor lifestyle to living indoors is easier than many owners expect, according to new research that could help improve feline welfare, protect wildlife a",
-      "date": "2026-08-04T12:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cat-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-04T15:28:51Z"
-    },
-    {
-      "title": "Not Quite the Bocas Trip I Had Planned",
-      "link": "https://www.10000birds.com/not-quite-the-bocas-trip-i-had-planned.htm?utm_source=rss&utm_medium=rss&utm_campaign=not-quite-the-bocas-trip-i-had-planned",
-      "summary": "Bocas del Toro was not quite the trip I had planned. I went hoping to add a few birds to my life list, spend some time photographing Strawberry Poison Dart Frogs and, seeing nestin",
-      "date": "Tue, 04 Aug 2026 11Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/scarlet-rumped-tanager.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-08-04T12:06:07Z"
-    },
-    {
-      "title": "To Life: Jews Exploring Nature–A Book Review",
-      "link": "https://www.10000birds.com/to-life-jews-exploring-nature-a-book-review.htm?utm_source=rss&utm_medium=rss&utm_campaign=to-life-jews-exploring-nature-a-book-review",
-      "summary": "We think birds are fascinating. Human beings may rival birds in lives that are unexpectedly rich in adventure, rebellion, and quiet, discerning forays into unexpected tunnels of kn",
-      "date": "Tue, 04 Aug 2026 11Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/08/to-life.cover_.final_.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-08-04T12:06:07Z"
-    },
-    {
-      "title": "Bolivia –  Location Profile for Birders",
-      "link": "https://www.10000birds.com/bolivia-location-profile-for-birders.htm?utm_source=rss&utm_medium=rss&utm_campaign=bolivia-location-profile-for-birders",
-      "summary": "Highlights Bolivia is one of South America’s most rewarding yet comparatively under-visited birding destinations. Approximately 1,470 bird species have been recorded in the country",
-      "date": "Tue, 04 Aug 2026 11Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/3474241734_af516935b6_z.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-08-04T12:06:07Z"
     }
   ]
 }
