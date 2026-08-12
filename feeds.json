@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-12T04:53:19Z",
-  "updated_utc": "2026-08-12T04:53:19Z",
+  "updated": "2026-08-12T06:19:56Z",
+  "updated_utc": "2026-08-12T06:19:56Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Signs of a house sparrow comeback in the UK after decades of decline",
+      "link": "https://www.theguardian.com/environment/2026/aug/12/signs-house-sparrow-comeback-uk",
+      "summary": "Populations starting to stabilise but much still needs to be done to reverse loss of 30m that almost led to species vanishing How do you lose 30 million house sparrows? That is the",
+      "date": "2026-08-12T05:00:19Z",
+      "image": "https://i.guim.co.uk/img/media/aced0447030e6d5e8a09a899b964c12d134d541e/0_1233_4666_3733/master/4666.jpg?width=140&quality=85&auto=format&fit=max&s=7c13948b9360ec01b958a4e553eaaf38",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-12T06:19:40Z"
+    },
     {
       "title": "Genomics used to find endangered fish populations most vulnerable to climate change",
       "link": "https://phys.org/news/2026-08-genomics-endangered-fish-populations-vulnerable.html",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-08-04T06:34:02Z"
-    },
-    {
-      "title": "To Recover Artworks Looted by the Nazis, Researchers Are Getting Creative, With New Strategies Including an A.I. Chatbot and a Campaign of 'Wanted' Posters",
-      "link": "https://www.smithsonianmag.com/smart-news/to-recover-artworks-looted-by-the-nazis-researchers-are-getting-creative-with-new-strategies-including-an-ai-chatbot-and-a-campaign-of-wanted-posters-180989247/",
-      "summary": "University researchers hope their new artificial intelligence chatbot makes provenance research easier and more accessible",
-      "date": "2026-08-03T21:33:15Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/NbIGOKwLJNXBA7mWKqeWhIIoMYk=/420x240/filters:focal(1000x667:1001x668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2c/65/2c6578ec-9446-445d-a687-13c11766fd9b/20aeb8493decd864fed61c47c4df237c-l.webp",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-03T23:10:42Z"
     }
   ]
 }
