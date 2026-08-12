@@ -1,8 +1,52 @@
 {
-  "updated": "2026-08-12T22:50:11Z",
-  "updated_utc": "2026-08-12T22:50:11Z",
+  "updated": "2026-08-12T23:50:10Z",
+  "updated_utc": "2026-08-12T23:50:10Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Destructive Legacy of Failed Aquaculture",
+      "link": "https://hakaimagazine.com/news/the-destructive-legacy-of-failed-aquaculture/",
+      "summary": "Aquaculture is big business in Canada. In 2023, open-net-pen salmon farming in British Columbia alone produced 50,000 tonnes of fish worth just over US $350-million. But on June 30",
+      "date": "2024-12-06T08:01:14Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-aquaculture-cleanup.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-08-12T23:49:56Z"
+    },
+    {
+      "title": "Conjuring the Lost Land Beneath the North Sea",
+      "link": "https://hakaimagazine.com/features/conjuring-the-lost-land-beneath-the-north-sea/",
+      "summary": "The North Sea is a hard place to love. It’s not the cold, or the silty gray-brown waters that seem to suck the brightness out of the sky that make it unappealing, it’s what people ",
+      "date": "Thu, 05 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-doggerland.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-08-12T23:49:56Z"
+    },
+    {
+      "title": "From the mine to the grid",
+      "link": "https://www.newscientist.com/article/2581325-from-the-mine-to-the-grid/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "How Komatsu machines help build Atlassian Williams F1 Team’s FW48",
+      "date": "2026-08-12T23:01:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/FW48-Challenger1.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-12T23:50:04Z"
+    },
+    {
+      "title": "AI‑designed viruses are a test of whether biosecurity can keep pace",
+      "link": "https://phys.org/news/2026-08-aidesigned-viruses-biosecurity-pace.html",
+      "summary": "Scientists have crossed an important line in biological engineering. In a recent study, researchers used artificial intelligence to design complete sets of genetic instructions for",
+      "date": "2026-08-12T23:20:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2016/1-zikavirus.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-12T23:50:06Z"
+    },
     {
       "title": "Total solar eclipse August 12, 2026: Best images",
       "link": "https://earthsky.org/human-world/total-solar-eclipse-august-12-2026-best-images/",
@@ -5458,50 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-08-05T06:34:36Z"
-    },
-    {
-      "title": "Calls to ban ‘toxic’ pet flea treatments that harm UK wildlife and environment",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/aug/05/calls-ban-toxic-pet-flea-treatments-harm-uk-wildlife-environment",
-      "summary": "Over-the-counter treatments for cats and dogs contain chemicals that are banned in pesticides and pollute waterways Over-the-counter flea treatment for cats and dogs should be bann",
-      "date": "2026-08-05T05:00:09Z",
-      "image": "https://i.guim.co.uk/img/media/45fd5e12c2735508002e145dd59232b75566bb6c/0_0_4401_3520/master/4401.jpg?width=140&quality=85&auto=format&fit=max&s=bd4126e2e1c206f9c36aebf6b8e98f31",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-05T06:34:36Z"
-    },
-    {
-      "title": "Country diary: A beetle with a prehensile anus? Thanks to local wildlife recorders, I know one lives here | Gwyneth Lewis",
-      "link": "https://www.theguardian.com/environment/2026/aug/05/country-diary-a-beetle-with-a-prehensile-anus-thanks-to-local-wildlife-recorders-i-know-one-lives-here",
-      "summary": "Troedyraur, Ceredigion: Let’s sing the praises of this network of volunteers who move slowly and look hard, gathering vital wildlife data – and finding fantastic species Even befor",
-      "date": "2026-08-05T04:30:08Z",
-      "image": "https://i.guim.co.uk/img/media/cfc6675ea5201a29562204f0c94d56761cd24eb3/724_0_7240_5792/master/7240.jpg?width=140&quality=85&auto=format&fit=max&s=86516fc930fb1bd415287571d51e8a16",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-05T06:34:36Z"
-    },
-    {
-      "title": "To Speak the Language of the Land",
-      "link": "https://hakaimagazine.com/features/to-speak-the-language-of-the-land/",
-      "summary": "Nearly 200 of us cram into Tarāwhai, a traditional wooden Māori meeting house, under the gaze of the ancestors and deities carved into the posts and walls. We’re here in the home o",
-      "date": "Thu, 12 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-maori-language-and-place.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-08-05T06:34:39Z"
-    },
-    {
-      "title": "Caviar Pizzas, New Money, and the Death of an Ancient Fish",
-      "link": "https://hakaimagazine.com/features/caviar-pizzas-new-money-and-the-death-of-an-ancient-fish/",
-      "summary": "I am sitting at a slick Manhattan waterfront restaurant on the banks of the East River, New York City, trying to decide why I find the caviar pizza on the menu so disturbing. Jonat",
-      "date": "Tue, 10 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-21st-century-sturgeon.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-08-05T06:34:39Z"
     }
   ]
 }
