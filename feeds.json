@@ -1,8 +1,63 @@
 {
-  "updated": "2026-08-12T20:54:13Z",
-  "updated_utc": "2026-08-12T20:54:13Z",
+  "updated": "2026-08-12T21:54:12Z",
+  "updated_utc": "2026-08-12T21:54:12Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A Historian at MIT Discovered the Surprising Truth About This Chinese Label Long Thought to Be a Souvenir of the Boston Tea Party",
+      "link": "https://www.smithsonianmag.com/smart-news/a-historian-at-mit-discovered-the-surprising-truth-about-this-chinese-label-long-thought-to-be-a-souvenir-of-the-boston-tea-party-180989328/",
+      "summary": "The saga of the artifact displayed at Boston's Old South Meeting House demonstrates how the study of history evolves",
+      "date": "2026-08-12T21:17:23Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/l0XXCAoyMH-nPp_fNdjpy36Nc7w=/420x240/filters:focal(895x549:896x550)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/48/92/48928dab-d2a5-4093-b80a-08fe15b5d229/boston_tea_party_currier_colored.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-12T21:54:04Z"
+    },
+    {
+      "title": "Fast-moving wildfires may prevent western forests from recovering",
+      "link": "https://phys.org/news/2026-08-fast-wildfires-western-forests-recovering.html",
+      "summary": "The severe, drought-fueled fires now burning across much of the American West and Canada may be scorching forests so thoroughly that they cannot recover to the forests they once we",
+      "date": "2026-08-12T21:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/wildfire.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-12T21:54:09Z"
+    },
+    {
+      "title": "Pain isn't the point: European viper venoms may have evolved to subdue prey",
+      "link": "https://phys.org/news/2026-08-pain-isnt-european-viper-venoms.html",
+      "summary": "For many people, the fear of venomous snakes is linked to one thing: pain. Yet new research led by scientists at Bangor University suggests that, for Europe's vipers, at least, cau",
+      "date": "2026-08-12T21:40:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pain-wasnt-the-point-n.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-12T21:54:09Z"
+    },
+    {
+      "title": "Soil-dwelling myxobacteria reveal five new classes of bioactive compounds",
+      "link": "https://phys.org/news/2026-08-soil-myxobacteria-reveal-classes-bioactive.html",
+      "summary": "Most antibiotics used clinically are based on natural compounds produced by bacteria and other microorganisms. At the Helmholtz Institute for Pharmaceutical Research Saarland (HIPS",
+      "date": "2026-08-12T21:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/biodiversity-as-the-ba.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-12T21:54:09Z"
+    },
+    {
+      "title": "A $10 soil test goes global with virtual reality training for farmers",
+      "link": "https://phys.org/news/2026-08-soil-global-virtual-reality-farmers.html",
+      "summary": "Last year, we described Agrilo, an affordable \"colorimetric\" soil-testing system developed through research at MacEwan University. Using a smartphone camera to interpret color chan",
+      "date": "2026-08-12T21:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/soil.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-12T21:54:09Z"
+    },
     {
       "title": "I Had Just Minutes to Leave. Inside My Evacuation From the Spokane Wildfires.",
       "link": "https://www.outsideonline.com/outdoor-adventure/environment/fleeing-autumn-lane-fire-spokane/",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-05T03:18:28Z"
-    },
-    {
-      "title": "Lemurs fall prey to human herpes virus",
-      "link": "https://phys.org/news/2026-08-lemurs-fall-prey-human-herpes.html",
-      "summary": "The last time you had a cold sore, you might have fretted about how long it would hang around. Perhaps you avoided reflective surfaces. It's unlikely you worried about dying from i",
-      "date": "2026-08-05T01:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lemur.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-05T03:18:28Z"
-    },
-    {
-      "title": "New biosynthetic pathway could expand production of high-value bio-based oils",
-      "link": "https://phys.org/news/2026-08-biosynthetic-pathway-production-high-bio.html",
-      "summary": "Vegetable oils serve as critical feedstocks for biofuels and bioproducts by providing energy-dense hydrocarbon molecules. Some plants have evolved divergent enzyme sets to produce ",
-      "date": "2026-08-05T01:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/newly-mapped-plant-lip.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-05T03:18:28Z"
-    },
-    {
-      "title": "Q&A: What have decades of eradication efforts taught us about the New World screwworm?",
-      "link": "https://phys.org/news/2026-08-qa-decades-eradication-efforts-taught.html",
-      "summary": "The value of basic science in insect biology is no more evident than when a crisis arises involving a devastating insect pest like the New World screwworm, says University of Illin",
-      "date": "2026-08-05T00:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-have-decades-of-e.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-05T03:18:28Z"
-    },
-    {
-      "title": "Family ties shape social lives of bull sharks",
-      "link": "https://phys.org/news/2026-08-family-social-bull-sharks.html",
-      "summary": "Bull sharks have a slight preference for spending time with their relatives, new research shows.",
-      "date": "2026-08-04T23:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/family-ties-shape-soci.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-05T03:18:28Z"
-    },
-    {
-      "title": "Controversial battery storage project in San Jose’s Coyote Valley is withdrawn",
-      "link": "https://www.mercurynews.com/2026/08/04/controversial-battery-storage-project-in-san-joses-coyote-valley-is-withdrawn/",
-      "summary": "Environmentalists, political leaders, parents at nearby school opposed plan on San Jose’s rural southern edges",
-      "date": "Tue, 04 Aug 2026 21Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/05/SJM-L-BATTERY-0528-3.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-08-04T23:09:33Z"
     }
   ]
 }
