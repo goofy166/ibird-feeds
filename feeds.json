@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-12T23:50:10Z",
-  "updated_utc": "2026-08-12T23:50:10Z",
+  "updated": "2026-08-13T02:31:55Z",
+  "updated_utc": "2026-08-13T02:31:55Z",
   "count": 500,
   "stories": [
+    {
+      "title": "To Speak the Language of the Land",
+      "link": "https://hakaimagazine.com/features/to-speak-the-language-of-the-land/",
+      "summary": "Nearly 200 of us cram into Tarāwhai, a traditional wooden Māori meeting house, under the gaze of the ancestors and deities carved into the posts and walls. We’re here in the home o",
+      "date": "Thu, 12 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-maori-language-and-place.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-08-13T02:31:42Z"
+    },
+    {
+      "title": "Caviar Pizzas, New Money, and the Death of an Ancient Fish",
+      "link": "https://hakaimagazine.com/features/caviar-pizzas-new-money-and-the-death-of-an-ancient-fish/",
+      "summary": "I am sitting at a slick Manhattan waterfront restaurant on the banks of the East River, New York City, trying to decide why I find the caviar pizza on the menu so disturbing. Jonat",
+      "date": "Tue, 10 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-21st-century-sturgeon.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-08-13T02:31:42Z"
+    },
     {
       "title": "The Destructive Legacy of Failed Aquaculture",
       "link": "https://hakaimagazine.com/news/the-destructive-legacy-of-failed-aquaculture/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-08-05T09:41:33Z"
-    },
-    {
-      "title": "The Ghost of the Mountains by Kulbhushansingh Suryawanshi review – the secrets of the snow leopard",
-      "link": "https://www.theguardian.com/books/2026/aug/05/the-ghost-of-the-mountains-by-kulbhushansingh-suryawanshi-review-the-secrets-of-the-snow-leopard",
-      "summary": "An Indian mountaineer follows in the footsteps of explorers and conservationists in search of an enigmatic animal When bored, try the following game – I call it “Purr or Roar?”. Ta",
-      "date": "2026-08-05T06:00:10Z",
-      "image": "https://i.guim.co.uk/img/media/f7536b20eb3948c91cbeed2d2c11910a6ea87dd5/936_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=148d686eedaabc939cf53f7632bdcc14",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-05T06:34:36Z"
-    },
-    {
-      "title": "Invertebrate of Year Q&A: discuss our countdown with Patrick Barkham",
-      "link": "https://www.theguardian.com/community/live/2026/aug/05/invertebrate-of-year-qa-discuss-our-countdown-with-patrick-barkham",
-      "summary": "This week, we launched our third annual vote to honour nature’s unsung heroes. The Guardian’s natural history writer – and woodlouse fanboy – Patrick Barkham will be here from 4pm ",
-      "date": "2026-08-05T05:00:10Z",
-      "image": "https://i.guim.co.uk/img/media/38deeed74e54dd01bd6a3e6e0887ad9133793f02/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8526b9c63c2e16d40b586c7a7d07059b",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-05T06:34:36Z"
     }
   ]
 }
