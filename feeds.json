@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-13T23:50:26Z",
-  "updated_utc": "2026-08-13T23:50:26Z",
+  "updated": "2026-08-14T02:30:24Z",
+  "updated_utc": "2026-08-14T02:30:24Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Why has Britain's grass turned yellow? A plant scientist explains what happens next",
+      "link": "https://phys.org/news/2026-08-britain-grass-yellow-scientist.html",
+      "summary": "Fields, parks and lawns across Europe have turned to straw this summer. Landscapes thousands of years old have been revealed as green outlines against yellow backgrounds, where anc",
+      "date": "2026-08-14T00:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dead-grass.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-14T02:30:20Z"
+    },
     {
       "title": "Two oceans, one country—and 20 times more sharks in the prehistoric Pacific",
       "link": "https://phys.org/news/2026-08-oceans-country-sharks-prehistoric-pacific.html",
@@ -5487,17 +5498,6 @@
       "summary": "U.K. and U.S. scientists have uncovered an important piece of the puzzle in the signaling pathway that causes damaging scar tissue to build up in the body, raising hopes for future",
       "date": "2026-08-05T21:00:05Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/protein-discovery-shed.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-05T21:19:07Z"
-    },
-    {
-      "title": "Artificial cells reveal how living ones take shape",
-      "link": "https://phys.org/news/2026-08-artificial-cells-reveal.html",
-      "summary": "Using simple artificial cells, a research group led by Makito Miyazaki of the RIKEN Center for Integrative Medical Sciences (IMS) in Japan has uncovered fundamental physical princi",
-      "date": "2026-08-05T20:40:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/artificial-cells-revea.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
