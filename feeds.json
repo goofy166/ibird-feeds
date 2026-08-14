@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-14T19:03:06Z",
-  "updated_utc": "2026-08-14T19:03:06Z",
+  "updated": "2026-08-14T20:36:58Z",
+  "updated_utc": "2026-08-14T20:36:58Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Covid-19 Can Reawaken Dormant Viruses in the Body, Which Might Worsen Symptoms of the Respiratory Illness, Study Suggests",
+      "link": "https://www.smithsonianmag.com/smart-news/covid-19-can-reawaken-dormant-viruses-in-the-body-which-might-worsen-symptoms-of-the-respiratory-illness-study-suggests-180989322/",
+      "summary": "Most people carry a sleeping virus in their bodies, such as the herpesvirus that causes mononucleosis, or the “kissing disease.” A new study hints that Covid-19 triggers their reac",
+      "date": "2026-08-14T20:06:16Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/uKeIpfGF-bbPiM-zxZ_kSibHMFI=/420x240/filters:focal(400x312:401x313)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/aa/6b/aa6baee5-7e62-4341-8fb8-6a36ee00754b/49535193876_8ec9df4dc7_c.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-14T20:36:50Z"
+    },
+    {
+      "title": "A Medieval Man's Injuries Reminded One Archaeologist of Modern-Day Car Crash Victims. They Turned Out to Be the Work of an English Trebuchet",
+      "link": "https://www.smithsonianmag.com/smart-news/a-medieval-mans-injuries-reminded-one-archaeologist-of-modern-day-car-crash-victims-they-turned-out-to-be-the-work-of-an-english-trebuchet-180989346/",
+      "summary": "A skeleton unearthed in Scotland likely belongs to a soldier struck by a high-speed projectile during Edward I's 1304 siege of Stirling Castle. The man suffered more than 160 fract",
+      "date": "2026-08-14T19:49:12Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/HcNz1LArTWvmk4s7072wF3Y1OvM=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/40/c6/40c683bd-0e63-413a-84e0-9393057242ad/stirling-castle.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-14T20:36:50Z"
+    },
     {
       "title": "Electric Safari Vehicles Are Changing How Close We Can Get to Wildlife",
       "link": "https://www.outsideonline.com/adventure-travel/destinations/africa/electric-safaris-africa/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-08-07T00:08:50Z"
-    },
-    {
-      "title": "It’s good for the planet to scrap a new petrol car and buy electric",
-      "link": "https://www.newscientist.com/article/2583523-its-good-for-the-planet-to-scrap-a-new-petrol-car-and-buy-electric/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Carbon savings from driving EVs are so large that it makes sense to scrap a working petrol car to make the switch",
-      "date": "Thu, 06 Aug 2026 18Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307456371.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-07T00:08:52Z"
-    },
-    {
-      "title": "Bacterial enzyme switch could weaken antibiotic defenses in MRSA and other pathogens",
-      "link": "https://phys.org/news/2026-08-bacterial-enzyme-weaken-antibiotic-defenses.html",
-      "summary": "If you ask Vijay Parashar, associate professor of medical and molecular sciences (MMSC) at the University of Delaware College of Health Sciences, human bodies are bags of bacteria.",
-      "date": "2026-08-06T23:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/targeting-antibiotic-r-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-07T00:08:54Z"
     }
   ]
 }
