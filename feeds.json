@@ -1,8 +1,52 @@
 {
-  "updated": "2026-08-14T08:21:44Z",
-  "updated_utc": "2026-08-14T08:21:44Z",
+  "updated": "2026-08-14T10:11:07Z",
+  "updated_utc": "2026-08-14T10:11:07Z",
   "count": 500,
   "stories": [
+    {
+      "title": "What’s a globular cluster? The Milky Way has about 150",
+      "link": "https://earthsky.org/astronomy-essentials/definition-what-is-a-globular-cluster/",
+      "summary": "A globular cluster is a spherical collection of stars orbiting in the halo of spiral galaxies. Our own Milky Way galaxy has over 150 globular clusters. The post What’s a globular c",
+      "date": "2026-08-14T09:33:47Z",
+      "image": "https://earthsky.org/upl/2009/06/M5-HST-e1497179043996.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-14T10:10:52Z"
+    },
+    {
+      "title": "Total solar eclipse August 12: EarthSky livestream and more",
+      "link": "https://earthsky.org/astronomy-essentials/total-solar-eclipse-visible-august-12-2026/",
+      "summary": "The Arctic, Greenland, Iceland and Spain will have a total solar eclipse on August 12, 2026. Parts of Europe and North America will see a partial. The post Total solar eclipse Augu",
+      "date": "2026-08-12T12:38:50Z",
+      "image": "https://earthsky.org/upl/2026/07/Greenland-and-Iceland-eclipse-michael-zeiler.png",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-14T10:10:52Z"
+    },
+    {
+      "title": "Monsoon-driven wildfires may have shaped human evolution",
+      "link": "https://www.newscientist.com/article/2584578-monsoon-driven-wildfires-may-have-shaped-human-evolution/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "A reconstruction of East Africa's environment 1.75 million years ago suggests wildfires spiked during wetter times, which may have influenced human evolution",
+      "date": "2026-08-14T09:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308061496.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-14T10:11:00Z"
+    },
+    {
+      "title": "'If this is the new normal, then we are in very deep trouble': Brazil's drying aquifers could have ripple effects across the world",
+      "link": "https://www.livescience.com/planet-earth/climate-change/if-this-is-the-new-normal-then-we-are-in-very-deep-trouble-brazils-drying-aquifers-could-have-ripple-effects-across-the-world",
+      "summary": "New research suggests some of Brazil's most important aquifers, located beneath major agricultural regions, aren't being replenished. What does this mean for the country's water su",
+      "date": "2026-08-14T09:54:25Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/h2uscrJivkUHxRWsicpW36-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-14T10:11:04Z"
+    },
     {
       "title": "‘They do look majestic’: tears and pride as first white storks set free in Cornwall",
       "link": "https://www.theguardian.com/environment/2026/aug/14/first-white-storks-released-bodmin-moor-cornwall",
@@ -5458,50 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-08-05T23:08:12Z"
-    },
-    {
-      "title": "What’s at Stake as Fires Threaten Mount Hood’s Historic Landmarks and Ski Areas",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/mount-hood-wildfire-timberline-lodge-impact/",
-      "summary": "Every summer since 1924, U.S. Forest Service employees have worked inside the historic Flag Point Fire Lookout in Oregon’s Mount Hood National Forest (MHNF). On July 31, 2026, the ",
-      "date": "2026-08-05T23:04:12Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/AP26207202456393.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-05T23:08:18Z"
-    },
-    {
-      "title": "Op-Ed: The Places that Shape Us Cannot Be Recreated After Trump Opens Them Up",
-      "link": "https://www.outsideonline.com/culture/opinion/deb-haaland-bears-ears-national-monument-protections/",
-      "summary": "The Trump administration’s plan to open up national monuments to industry is about more than lines on a map. Former Interior Secretary Deb Haaland explains the lasting human cost o",
-      "date": "2026-08-05T21:27:25Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/deb-lead.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-05T23:08:18Z"
-    },
-    {
-      "title": "We can help frogs beat a deadly disease. But can they still reproduce?",
-      "link": "https://phys.org/news/2026-08-frogs-deadly-disease.html",
-      "summary": "Many people are blissfully unaware that the world's frogs and amphibians are fighting their own deadly pandemic. In fact, this fungal disease—chytridiomycosis, or chytrid for short",
-      "date": "2026-08-05T22:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/we-can-help-frogs-beat-3.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-05T23:08:24Z"
-    },
-    {
-      "title": "Laser scanning may help prevent urban trees from falling",
-      "link": "https://phys.org/news/2026-08-laser-scanning-urban-trees-falling.html",
-      "summary": "For the first time, a group of biologists and engineers from the University of São Paulo (USP) in Brazil applied LiDAR (light detection and ranging) technology to investigate the h",
-      "date": "2026-08-05T21:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/laser-scanning-may-hel.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-05T23:08:24Z"
     }
   ]
 }
