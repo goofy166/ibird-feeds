@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-14T02:30:24Z",
-  "updated_utc": "2026-08-14T02:30:24Z",
+  "updated": "2026-08-14T04:54:35Z",
+  "updated_utc": "2026-08-14T04:54:35Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Indonesia wildfires threaten orangutans rescued from animal traffickers",
+      "link": "https://www.theguardian.com/world/2026/aug/14/indonesia-wildfires-threaten-orangutans-rescued-from-animal-traffickers",
+      "summary": "Blaze fuelled by hot, dry and windy conditions comes within metres of West Kalimantan rehabilitation centre Orangutans rescued from wildlife traffickers face a new threat from the ",
+      "date": "2026-08-14T04:00:16Z",
+      "image": "https://i.guim.co.uk/img/media/365918ec3179a84ff298260a75a2f84e0be35263/34_0_3960_3168/master/3960.jpg?width=140&quality=85&auto=format&fit=max&s=b36dbdcf7004485e56ce49e75cd6d4e3",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-14T04:54:20Z"
+    },
     {
       "title": "Why has Britain's grass turned yellow? A plant scientist explains what happens next",
       "link": "https://phys.org/news/2026-08-britain-grass-yellow-scientist.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-08-05T21:19:05Z"
-    },
-    {
-      "title": "Little-known protein helps the body restrain scar-forming signals",
-      "link": "https://phys.org/news/2026-08-protein-body-restrain-scar.html",
-      "summary": "U.K. and U.S. scientists have uncovered an important piece of the puzzle in the signaling pathway that causes damaging scar tissue to build up in the body, raising hopes for future",
-      "date": "2026-08-05T21:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/protein-discovery-shed.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-05T21:19:07Z"
     }
   ]
 }
