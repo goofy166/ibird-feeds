@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-14T06:19:22Z",
-  "updated_utc": "2026-08-14T06:19:22Z",
+  "updated": "2026-08-14T08:21:44Z",
+  "updated_utc": "2026-08-14T08:21:44Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘They do look majestic’: tears and pride as first white storks set free in Cornwall",
+      "link": "https://www.theguardian.com/environment/2026/aug/14/first-white-storks-released-bodmin-moor-cornwall",
+      "summary": "Twenty-one birds released on Bodmin Moor where it is hoped they will one day return to produce their own young They took a little coaxing at first – after all, they had got used to",
+      "date": "2026-08-14T08:00:21Z",
+      "image": "https://i.guim.co.uk/img/media/b56e0d7facf8ee6dbc5d7cd0cc93607cbcdddd43/1034_547_4081_3264/master/4081.jpg?width=140&quality=85&auto=format&fit=max&s=e3ed4a18fd4fc60dd95d12c61a829dd1",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-14T08:21:30Z"
+    },
+    {
+      "title": "Why do people ask so few questions in conversation?",
+      "link": "https://www.newscientist.com/article/2584415-why-do-people-ask-so-few-questions-in-conversation/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "We've perhaps been conditioned to not ask too many questions, in case it comes across as rude or prying. But columnist David Robson argues that asking people open-ended questions b",
+      "date": "2026-08-14T08:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307991933.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-14T08:21:39Z"
+    },
     {
       "title": "Bird flu is a huge disaster and it’s normal to find it distressing and sad. How can we deal with this grief? | First Dog on the Moon",
       "link": "https://www.theguardian.com/commentisfree/picture/2026/aug/14/bird-flu-is-a-huge-disaster-and-its-normal-to-find-it-distressing-and-sad-how-can-we-deal-with-this-grief",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-05T23:08:24Z"
-    },
-    {
-      "title": "Unexpected E. coli response may complicate peptide-based antibiotic combinations",
-      "link": "https://phys.org/news/2026-08-unexpected-coli-response-complicate-peptide.html",
-      "summary": "A group of Cornell College students and their professor found surprising results in research on antimicrobial peptides, which are being studied as a method of combating antibiotic ",
-      "date": "2026-08-05T21:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-uncover-un.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-05T23:08:24Z"
-    },
-    {
-      "title": "Total solar eclipse to dazzle observers on August 12",
-      "link": "https://earthsky.org/astronomy-essentials/total-solar-eclipse-visible-august-12-2026/",
-      "summary": "On August 12, 2026, a total solar eclipse will be visible from the Arctic, Greenland, Iceland, and Spain. And western Europe will see a partial eclipse. The post Total solar eclips",
-      "date": "2026-08-05T20:45:50Z",
-      "image": "https://earthsky.org/upl/2026/07/Aug-12-2026-eclipse-map-Michael-Zeiler-e1783696370183.png",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-08-05T21:18:57Z"
     }
   ]
 }
