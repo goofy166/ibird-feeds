@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-15T15:27:49Z",
-  "updated_utc": "2026-08-15T15:27:49Z",
+  "updated": "2026-08-15T16:32:44Z",
+  "updated_utc": "2026-08-15T16:32:44Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Deep partial lunar eclipse of the August 27-28 Sturgeon Moon",
+      "link": "https://earthsky.org/astronomy-essentials/partial-lunar-eclipse-of-the-august-27-28-2026/",
+      "summary": "A deep partial lunar eclipse takes place of the full Sturgeon Moon on August 27-28, 2026, It's well placed for the Western Hemisphere. The post Deep partial lunar eclipse of the Au",
+      "date": "2026-08-15T06:53:05Z",
+      "image": "https://earthsky.org/upl/2026/08/Lunar-eclipse-August-28-visibility.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-15T16:32:31Z"
+    },
     {
       "title": "Owls in Virginia: 8 Stunning Nighttime Predators for You to See",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/owls-in-virginia-8-stunning-nighttime-predators-for-you-to-see/",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-08-07T10:58:59Z"
-    },
-    {
-      "title": "Drought and heat push Europe’s power grid to breaking point",
-      "link": "https://www.newscientist.com/article/2583740-drought-and-heat-push-europes-power-grid-to-breaking-point/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "High temperatures and low water levels have forced several countries to shut down nuclear reactors just as citizens turn up their air conditioning, forcing energy prices to spike a",
-      "date": "2026-08-07T09:52:11Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307605664.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-07T10:59:08Z"
     }
   ]
 }
