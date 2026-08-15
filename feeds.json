@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-15T11:26:12Z",
-  "updated_utc": "2026-08-15T11:26:12Z",
+  "updated": "2026-08-15T12:50:59Z",
+  "updated_utc": "2026-08-15T12:50:59Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Were these polygonal cracks on Venus once on a seafloor?",
+      "link": "https://earthsky.org/space/cracks-on-venus-seafloor-mud-polygons/",
+      "summary": "Sprawling, huge cracks on Venus have long puzzled scientists. A new study suggests the polygon shapes formed from drying mud on an ancient seafloor. The post Were these polygonal c",
+      "date": "2026-08-15T10:55:50Z",
+      "image": "https://earthsky.org/upl/2026/08/Venus-cracks-ancient-seafloor.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-15T12:50:44Z"
+    },
+    {
+      "title": "Four more belugas arrive at Chicago aquarium from shuttered Canadian theme park",
+      "link": "https://phys.org/news/2026-08-belugas-chicago-aquarium-shuttered-canadian.html",
+      "summary": "Four more belugas have arrived at a Chicago aquarium as part of a plan to move Canada's last remaining captive whales from a shuttered theme park to aquariums in the United States ",
+      "date": "2026-08-15T11:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/four-more-belugas-arri.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-15T12:50:55Z"
+    },
     {
       "title": "Never Challenge the Gods…",
       "link": "https://www.10000birds.com/never-challenge-the-gods-or-else.htm?utm_source=rss&utm_medium=rss&utm_campaign=never-challenge-the-gods-or-else",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-08-07T09:07:36Z"
-    },
-    {
-      "title": "A mathematical measure of surprise explains why we fall for clickbait",
-      "link": "https://www.newscientist.com/article/2581306-a-mathematical-measure-of-surprise-explains-why-we-fall-for-clickbait/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Why are we so susceptible to clickbait? Columnist Jacob Aron traces it to a surprising source: a mathematical framework that paved the way for much of how the modern world works",
-      "date": "2026-08-07T08:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306237288.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-07T09:07:44Z"
-    },
-    {
-      "title": "4 ways to watch a solar eclipse without burning your eyes",
-      "link": "https://www.newscientist.com/article/2582016-4-ways-to-watch-a-solar-eclipse-without-burning-your-eyes/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Even during a solar eclipse, it isn’t safe to look directly at the sun, but with a proper solar filter or a simple pinhole projector, you can still watch it disappear behind the mo",
-      "date": "2026-08-07T07:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306777552_e85cc7.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-07T07:26:56Z"
     }
   ]
 }
