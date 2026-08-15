@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-15T08:37:00Z",
-  "updated_utc": "2026-08-15T08:37:00Z",
+  "updated": "2026-08-15T09:31:52Z",
+  "updated_utc": "2026-08-15T09:31:52Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Gen Z flocks to BirdTok as birding takes flight: ‘It’s a craving for something real’",
+      "link": "https://www.theguardian.com/environment/2026/aug/15/gen-z-flocks-to-birdtok-as-birding-takes-flight-its-a-craving-for-something-real",
+      "summary": "Social media and Shazam-like birdsong apps drawing young people to hobby as they seek a gentler connection to the outside world Sorry Elon, but they’re not your kind of tweets. Soc",
+      "date": "2026-08-15T09:00:53Z",
+      "image": "https://i.guim.co.uk/img/media/15b16d44ce233c9b6bc58218660dcf27002e6a2d/0_28_1576_1261/master/1576.jpg?width=140&quality=85&auto=format&fit=max&s=a46f68c640f2b9b59f26c549da7d0f89",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-15T09:31:37Z"
+    },
+    {
+      "title": "Cook Your Next Steak Directly on the Coals",
+      "link": "https://www.outsideonline.com/food/how-to-cook-caveman-steak/",
+      "summary": "Forget the grill grates—drop your rib eye straight on the coals and discover why Eisenhower swore by this primal method. The post Cook Your Next Steak Directly on the Coals appeare",
+      "date": "2026-08-15T09:12:43Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/01/dirty-steak-caveman-steak.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-15T09:31:43Z"
+    },
+    {
+      "title": "Why do cats yowl?",
+      "link": "https://www.livescience.com/animals/cats/why-do-cats-yowl",
+      "summary": "Understanding a cat’s yowl requires looking beyond the noise to the behavior and emotions behind it.",
+      "date": "2026-08-15T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/YVHG5Q7yHAGBViUR8uofMH-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-15T09:31:50Z"
+    },
     {
       "title": "First Australian death of little penguin with H5 bird flu confirmed on Phillip Island",
       "link": "https://www.theguardian.com/world/2026/aug/15/little-penguin-found-dead-with-h5-bird-flu-on-victorias-phillip-island",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-08-07T00:08:47Z"
-    },
-    {
-      "title": "What Is Bourbon Virus? Here’s What to Know About This Rare Tickborne Illness.",
-      "link": "https://www.outsideonline.com/health/wellness/bourbon-virus-hiking/",
-      "summary": "Bourbon virus is a rare, potentially fatal illness spread by the Lone Star tick. Experts explain the symptoms, treatment, and how to protect yourself. The post What Is Bourbon Viru",
-      "date": "Thu, 06 Aug 2026 23Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/bourbon-virus-tick-final.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-07T00:08:47Z"
-    },
-    {
-      "title": "Why Does Antarctica's Blood Falls Spew Ruby Red Water? Microbes Offer New Clues About the Geologic Feature's Ancient Origins",
-      "link": "https://www.smithsonianmag.com/smart-news/why-does-antarcticas-blood-falls-spew-ruby-red-water-microbes-offer-new-clues-about-the-geologic-features-ancient-origins-180989271/",
-      "summary": "The falls contain saltwater rich with iron, which oxidizes and turns red when exposed to air. A new study provides further evidence that the brine probably comes from ocean water t",
-      "date": "Thu, 06 Aug 2026 20Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/h4-L6XBoOXzWmiVIUG4MtyJlNps=/420x240/filters:focal(1480x987:1481x988)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ad/ff/adffb2ed-155a-4aa1-b7bb-f82917f559ca/screenshot_2026-08-05_at_174527.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-07T00:08:49Z"
-    },
-    {
-      "title": "This Marine-Life Mosaic Discovered Near the Colosseum Offers a Surprising Clue—Its Building May Have Housed Firefighters in Ancient Rome",
-      "link": "https://www.smithsonianmag.com/smart-news/this-marine-life-mosaic-discovered-near-the-colosseum-offers-a-surprising-clue-its-building-may-have-housed-firefighters-in-ancient-rome-180989273/",
-      "summary": "At the time of the structure's construction in the second century C.E., firefighting in ancient Rome was a formalized profession",
-      "date": "Thu, 06 Aug 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/PNtMrFrqve9TbYZ7hobPRJPypFU=/420x240/filters:focal(540x360:541x361)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/66/a7/66a732c7-00e8-4895-a849-9476887c52e5/villacelimontana_nuovescoperte_foto_07.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-07T00:08:49Z"
     }
   ]
 }
