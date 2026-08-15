@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-15T05:31:14Z",
-  "updated_utc": "2026-08-15T05:31:14Z",
+  "updated": "2026-08-15T06:49:46Z",
+  "updated_utc": "2026-08-15T06:49:46Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The 20-year search for a vanishing custard-and-chocolate coloured moth",
+      "link": "https://www.theguardian.com/environment/2026/aug/15/dark-bordered-beauty-moth-discovery-northumberland-site",
+      "summary": "Yorkshire common was thought to be the only known site of dark bordered beauty moths in England – until now Vote here for your favourite invertebrate of the year Dave Wainwright fi",
+      "date": "2026-08-15T06:00:48Z",
+      "image": "https://i.guim.co.uk/img/media/2b667c1e4c0935603fc23697bd219c01be7a0dd4/1059_567_4091_3273/master/4091.jpg?width=140&quality=85&auto=format&fit=max&s=f52e6566dcb49c67b3244571afa7c360",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-15T06:49:31Z"
+    },
     {
       "title": "After commercial whaling nearly erased them, blue and fin whales are slowly reclaiming the southeast Atlantic",
       "link": "https://phys.org/news/2026-04-commercial-whaling-erased-blue-fin.html",
@@ -5487,17 +5498,6 @@
       "summary": "A recent mapping study examines places in northwestern Africa where coastal ecosystems overlap with surf breaks, highlighting areas that could support recreation, the environment a",
       "date": "Thu, 06 Aug 2026 19Z",
       "image": "https://th-thumbnailer.cdn-si-edu.com/HlDwOYfuqxQRjl2I91lgII7ZMAE=/420x240/filters:focal(2671x1833:2672x1834)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9f/90/9f9029db-fc9c-46d3-92b9-6559bc6c5ae8/d98c8b.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-07T00:08:49Z"
-    },
-    {
-      "title": "Charles Darwin Theorized That These Plants Were Carnivorous 150 Years Ago. A New Study Proves Him Right",
-      "link": "https://www.smithsonianmag.com/smart-news/charles-darwin-theorized-that-these-plants-were-carnivorous-150-years-ago-a-new-study-proves-him-right-180989265/",
-      "summary": "As the naturalist predicted in 1875, some Saxifraga plants consume insects—using sticky hairs to trap them",
-      "date": "Thu, 06 Aug 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/OtMe2jkh01_M3nxqzkDJhSUIt5Y=/420x240/filters:focal(1440x843:1441x844)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d2/92/d292d8d8-8791-4789-b02a-3bd11093c6c5/carnivorous-plants-con.jpg",
       "name": "Smithsonian",
       "category": "insects",
       "color": 10,
