@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-15T14:29:48Z",
-  "updated_utc": "2026-08-15T14:29:48Z",
+  "updated": "2026-08-15T15:27:49Z",
+  "updated_utc": "2026-08-15T15:27:49Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Owls in Virginia: 8 Stunning Nighttime Predators for You to See",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/owls-in-virginia-8-stunning-nighttime-predators-for-you-to-see/",
+      "summary": "The state of Virginia houses eight gorgeous species of owls. Some appear in just about every region of the state—like Great Horned Owls and Barn … Read More \"Owls in Virginia: 8 St",
+      "date": "2026-05-10T23:10:49Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/11/snowy-owls-in-chicago-5-scaled.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-08-15T15:27:26Z"
+    },
     {
       "title": "‘Once I started zooming in, I never stopped’: the mesmerising art of macro photography",
       "link": "https://www.theguardian.com/environment/2026/aug/15/once-i-started-zooming-in-i-never-stopped-the-mesmerising-art-of-macro-photography",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-08-07T10:59:08Z"
-    },
-    {
-      "title": "NASA grants Voyager 2 probe another year of power with risky 'Big Bang' maneuver. Now, will it work for Voyager 1?",
-      "link": "https://www.livescience.com/space/space-exploration/nasa-grants-voyager-2-probe-another-year-of-power-with-risky-big-bang-maneuver-now-will-it-work-for-voyager-1",
-      "summary": "Voyager 1 is running low on power for science, but a successful energy-saving maneuver on Voyager 2 raises hope that the 50-year-old spacecraft can keep going.",
-      "date": "2026-08-07T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/UbGVdsGpa7MfEzeSc6yadJ-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-07T10:59:11Z"
     }
   ]
 }
