@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-15T03:48:25Z",
-  "updated_utc": "2026-08-15T03:48:25Z",
+  "updated": "2026-08-15T04:38:13Z",
+  "updated_utc": "2026-08-15T04:38:13Z",
   "count": 500,
   "stories": [
+    {
+      "title": "After commercial whaling nearly erased them, blue and fin whales are slowly reclaiming the southeast Atlantic",
+      "link": "https://phys.org/news/2026-04-commercial-whaling-erased-blue-fin.html",
+      "summary": "More than 40 years after the end of commercial whaling, new research reveals a recent increase in sightings of the world's two largest whale species in the southeastern Atlantic. T",
+      "date": "2026-08-15T04:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/blue-and-fin-whale-sig.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-15T04:38:09Z"
+    },
     {
       "title": "Wheat gene behind Hessian fly resistance cloned after 50-year search",
       "link": "https://phys.org/news/2026-08-wheat-gene-hessian-fly-resistance.html",
@@ -5487,17 +5498,6 @@
       "summary": "As the naturalist predicted in 1875, some Saxifraga plants consume insects—using sticky hairs to trap them",
       "date": "Thu, 06 Aug 2026 19Z",
       "image": "https://th-thumbnailer.cdn-si-edu.com/OtMe2jkh01_M3nxqzkDJhSUIt5Y=/420x240/filters:focal(1440x843:1441x844)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d2/92/d292d8d8-8791-4789-b02a-3bd11093c6c5/carnivorous-plants-con.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-07T00:08:49Z"
-    },
-    {
-      "title": "Notorious Feral Cat That Feasted on Rare New Zealand Ducks Captured After Three-Year Hunt",
-      "link": "https://www.smithsonianmag.com/smart-news/nine-lives-a-feral-cat-hunting-rare-ducks-in-new-zealand-has-been-caught-and-killed-after-three-years-180989267/",
-      "summary": "The gray tabby, known as Nine Lives because it eluded capture so many times, had devastated efforts by conservationists to reintroduce the birds to the wild",
-      "date": "Thu, 06 Aug 2026 17Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/mDS2qkf1w4BH3HfrTr963Bxoja0=/420x240/filters:focal(1105x758:1106x759)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f4/58/f4588e77-e118-43cc-a6d1-dcf9efac50c2/9_lives_feb_2024.jpg",
       "name": "Smithsonian",
       "category": "insects",
       "color": 10,
