@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-15T17:26:23Z",
-  "updated_utc": "2026-08-15T17:26:23Z",
+  "updated": "2026-08-15T18:38:23Z",
+  "updated_utc": "2026-08-15T18:38:23Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Topical clove oil for canine sarcoptic mange promises faster, plant-based treatment",
+      "link": "https://phys.org/news/2026-08-topical-clove-oil-canine-sarcoptic.html",
+      "summary": "Canine sarcoptic mange (scabies) is a skin condition in which microscopic mites (Sarcoptes scabiei) infest dogs' skin. The condition is contagious and zoonotic and can be difficult",
+      "date": "2026-08-15T17:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/topical-clove-oil-for.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-15T18:38:19Z"
+    },
     {
       "title": "Deep partial lunar eclipse of the August 27-28 Sturgeon Moon",
       "link": "https://earthsky.org/astronomy-essentials/partial-lunar-eclipse-of-the-august-27-28-2026/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-08-07T11:52:43Z"
-    },
-    {
-      "title": "The electromagnetic spectrum: It’s more than visible light",
-      "link": "https://earthsky.org/space/what-is-the-electromagnetic-spectrum/",
-      "summary": "The light our eyes can detect is only a sliver of the light out there. The electromagnetic spectrum describes all the wavelengths of light, seen and unseen. The post The electromag",
-      "date": "2026-08-07T10:15:46Z",
-      "image": "https://earthsky.org/upl/2020/04/wavelength-light-e1587759003569.gif",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-08-07T10:58:59Z"
     }
   ]
 }
