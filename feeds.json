@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-15T12:50:59Z",
-  "updated_utc": "2026-08-15T12:50:59Z",
+  "updated": "2026-08-15T13:35:45Z",
+  "updated_utc": "2026-08-15T13:35:45Z",
   "count": 500,
   "stories": [
+    {
+      "title": "4 lemurs die of human herpesvirus, including one that had been used in a 'lemur yoga' class",
+      "link": "https://www.livescience.com/health/viruses-infections-disease/4-lemurs-die-of-human-herpesvirus-including-one-that-had-been-used-in-a-lemur-yoga-class",
+      "summary": "Researchers recently confirmed cases of human herpesvirus infection in four lemurs, which died of the infection after having close contact with humans.",
+      "date": "2026-08-15T13:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/5ndHAALo3iQEdvJHSNRYdR-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-15T13:35:42Z"
+    },
     {
       "title": "Were these polygonal cracks on Venus once on a seafloor?",
       "link": "https://earthsky.org/space/cracks-on-venus-seafloor-mud-polygons/",
@@ -5491,17 +5502,6 @@
       "category": "birds",
       "color": 0,
       "fetched_at": "2026-08-07T09:07:27Z"
-    },
-    {
-      "title": "The 2nd eclipse season of 2026 is underway",
-      "link": "https://earthsky.org/astronomy-essentials/definition-what-is-an-eclipse-season/",
-      "summary": "One of the many noticeable cycles in the heavens is an eclipse season. The 2nd eclipse season of 2026 starts with a total solar eclipse on August 12. The post The 2nd eclipse seaso",
-      "date": "2026-08-07T09:03:25Z",
-      "image": "https://earthsky.org/upl/2026/01/Eclipses-2026-Guy-Ottewell.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-08-07T09:07:36Z"
     }
   ]
 }
