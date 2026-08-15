@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-15T06:49:46Z",
-  "updated_utc": "2026-08-15T06:49:46Z",
+  "updated": "2026-08-15T07:35:51Z",
+  "updated_utc": "2026-08-15T07:35:51Z",
   "count": 500,
   "stories": [
+    {
+      "title": "First Australian death of little penguin with H5 bird flu confirmed on Phillip Island",
+      "link": "https://www.theguardian.com/world/2026/aug/15/little-penguin-found-dead-with-h5-bird-flu-on-victorias-phillip-island",
+      "summary": "Authorities confirm first Australian death of species found with virus near where it attracts crowds to a ‘penguin parade’ Get our breaking news email , free app or daily news podc",
+      "date": "2026-08-15T07:01:50Z",
+      "image": "https://i.guim.co.uk/img/media/2b5832accfcf1f7808036fb3760525e8953c3fef/196_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=42bc3964f9eb99b2c540027444c831d8",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-15T07:35:34Z"
+    },
     {
       "title": "The 20-year search for a vanishing custard-and-chocolate coloured moth",
       "link": "https://www.theguardian.com/environment/2026/aug/15/dark-bordered-beauty-moth-discovery-northumberland-site",
@@ -5487,17 +5498,6 @@
       "summary": "At the time of the structure's construction in the second century C.E., firefighting in ancient Rome was a formalized profession",
       "date": "Thu, 06 Aug 2026 19Z",
       "image": "https://th-thumbnailer.cdn-si-edu.com/PNtMrFrqve9TbYZ7hobPRJPypFU=/420x240/filters:focal(540x360:541x361)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/66/a7/66a732c7-00e8-4895-a849-9476887c52e5/villacelimontana_nuovescoperte_foto_07.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-07T00:08:49Z"
-    },
-    {
-      "title": "Big Waves Meet Biodiversity: Why Surfing Paradises Could Offer a Key Opportunity for Marine Conservation",
-      "link": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
-      "summary": "A recent mapping study examines places in northwestern Africa where coastal ecosystems overlap with surf breaks, highlighting areas that could support recreation, the environment a",
-      "date": "Thu, 06 Aug 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/HlDwOYfuqxQRjl2I91lgII7ZMAE=/420x240/filters:focal(2671x1833:2672x1834)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9f/90/9f9029db-fc9c-46d3-92b9-6559bc6c5ae8/d98c8b.jpg",
       "name": "Smithsonian",
       "category": "insects",
       "color": 10,
