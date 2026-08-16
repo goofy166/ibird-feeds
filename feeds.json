@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-16T08:37:19Z",
-  "updated_utc": "2026-08-16T08:37:19Z",
+  "updated": "2026-08-16T09:33:41Z",
+  "updated_utc": "2026-08-16T09:33:41Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Which building blocks of life have been found in space, and which haven't?",
+      "link": "https://www.livescience.com/space/which-building-blocks-of-life-have-been-found-in-space-and-which-havent",
+      "summary": "So far, researchers have found many signs of the building blocks of life in space, but what exactly have they discovered, and what remains to be found?",
+      "date": "2026-08-16T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Dw26VDpwZYxsbGUEwxgbh7-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-16T09:33:38Z"
+    },
     {
       "title": "Gorging on bearcam: the livestream of big beasts eating that draws millions",
       "link": "https://www.theguardian.com/environment/2026/aug/16/bearcam-fishing-brown-bears-brooks-falls-alaska-salmon-fat-bear-week-aoe",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-08-07T11:52:31Z"
-    },
-    {
-      "title": "SpaceX crash site on moon revealed by South Korean orbiter",
-      "link": "https://www.newscientist.com/article/2583782-spacex-crash-site-on-moon-revealed-by-south-korean-orbiter/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "An out-of-control SpaceX rocket that crashed into the moon earlier this week did, in fact, leave an impact crater, according to images from a Korea AeroSpace Administration lunar o",
-      "date": "2026-08-07T11:04:40Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307613104.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-07T11:52:40Z"
     }
   ]
 }
