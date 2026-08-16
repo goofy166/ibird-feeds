@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-15T23:26:25Z",
-  "updated_utc": "2026-08-15T23:26:25Z",
+  "updated": "2026-08-16T01:47:35Z",
+  "updated_utc": "2026-08-16T01:47:35Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Nature has spent billions of years fighting bacteria. AI could help us learn its secrets",
+      "link": "https://phys.org/news/2026-08-nature-spent-billions-years-bacteria.html",
+      "summary": "Tiny viruses that infect bacteria could one day help us tackle infections that antibiotics can no longer treat. But first, scientists need to understand how these viruses work, and",
+      "date": "2026-08-16T00:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/ai-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-16T01:47:31Z"
+    },
     {
       "title": "How healthier farm animals can cut greenhouse gas emissions",
       "link": "https://phys.org/news/2026-08-healthier-farm-animals-greenhouse-gas.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-08-07T11:52:40Z"
-    },
-    {
-      "title": "New study shows urban growers rely on accessible educational resources to adopt pollinator-friendly farming practices",
-      "link": "https://phys.org/news/2026-08-urban-growers-accessible-resources-pollinator.html",
-      "summary": "A recent study by MSU entomologists Jen Roedel, Karma Thomas and Zsofia Szendrei found that urban growers' use of pollinator management practices is driven more by access to educat",
-      "date": "2026-08-07T11:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/pollinator.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-08-07T11:52:42Z"
     }
   ]
 }
