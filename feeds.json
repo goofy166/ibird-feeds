@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-16T13:36:33Z",
-  "updated_utc": "2026-08-16T13:36:33Z",
+  "updated": "2026-08-16T14:29:44Z",
+  "updated_utc": "2026-08-16T14:29:44Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘Awed by nature’: fans mourn California’s beloved Jackie the bald eagle, whose legacy soars on",
+      "link": "https://www.theguardian.com/us-news/2026/aug/16/california-jackie-the-bald-eagle-legacy",
+      "summary": "Famous raptor helped livestream viewers in difficult moments, and inspired a conservation project at her lake home The bald eagle Jackie made her home on the shore of southern Cali",
+      "date": "2026-08-16T14:00:27Z",
+      "image": "https://i.guim.co.uk/img/media/6511396404a6253e33af50cafbda92ab2587c3cd/178_238_1172_938/master/1172.jpg?width=140&quality=85&auto=format&fit=max&s=a5299276e9252cb27fc49db7ac1c622c",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-16T14:29:28Z"
+    },
     {
       "title": "Florida sets record for sea turtle nests but Trump move could stall recovery",
       "link": "https://www.theguardian.com/environment/2026/aug/16/florida-sea-turtle-nests-endangered-species",
@@ -5487,17 +5498,6 @@
       "summary": "A research team has identified the transcription factor C/EBPγ as a novel regulator that simultaneously promotes epithelial-mesenchymal transition (EMT) and DNA double-strand break",
       "date": "2026-08-07T14:20:01Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/newly-identified-cebp.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-07T15:00:22Z"
-    },
-    {
-      "title": "Honduras review confirms 227 native mammal species after eight-year effort",
-      "link": "https://phys.org/news/2026-08-honduras-native-mammal-species-year.html",
-      "summary": "An eight-year international research effort has produced the most comprehensive review of Honduras' mammals since 1998, verifying 227 native species across 146 genera and 42 famili",
-      "date": "2026-08-07T14:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/landmark-review-confir.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
