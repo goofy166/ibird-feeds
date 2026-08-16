@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-16T11:26:13Z",
-  "updated_utc": "2026-08-16T11:26:13Z",
+  "updated": "2026-08-16T12:52:14Z",
+  "updated_utc": "2026-08-16T12:52:14Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Florida sets record for sea turtle nests but Trump move could stall recovery",
+      "link": "https://www.theguardian.com/environment/2026/aug/16/florida-sea-turtle-nests-endangered-species",
+      "summary": "Loggerhead turtles abound this season but rollback of Endangered Species Act protections could threaten future Wildlife groups in Florida are celebrating record numbers of sea turt",
+      "date": "2026-08-16T12:00:25Z",
+      "image": "https://i.guim.co.uk/img/media/14202211c76e257eb3a4ee3c131ed16b82acdf7b/29_0_3061_2448/master/3061.jpg?width=140&quality=85&auto=format&fit=max&s=67a664ff4e9d64e142f9fc73236f5969",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-16T12:51:58Z"
+    },
+    {
+      "title": "Swift spacecraft, and a mission to save it, caught on video",
+      "link": "https://earthsky.org/space/swift-spacecraft-boost-plunging-back-to-earth/",
+      "summary": "The Swift space telescope is falling back to Earth. The LINK spacecraft is trying to save it. See both in orbit in a new video. The post Swift spacecraft, and a mission to save it,",
+      "date": "2026-08-16T12:00:54Z",
+      "image": "https://earthsky.org/upl/2026/06/Swift-LINK-push_NASA_webp-1.webp",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-16T12:52:00Z"
+    },
     {
       "title": "Singanallur lake: A biodiversity paradise yet neglected",
       "link": "https://www.10000birds.com/singanallur-lake-a-biodiversity-paradise-yet-neglected.htm?utm_source=rss&utm_medium=rss&utm_campaign=singanallur-lake-a-biodiversity-paradise-yet-neglected",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-07T15:00:22Z"
-    },
-    {
-      "title": "Bacterial 'postbiotic' may help preserve fertility in the aging uterus, preliminary research suggests",
-      "link": "https://www.livescience.com/health/reproductive-health/bacterial-postbiotic-may-help-preserve-fertility-in-the-aging-uterus-preliminary-research-suggests",
-      "summary": "A bacteria-derived \"postbiotic\" may help restore the aging uterus, but experts say it is too early to know whether it could improve fertility as a treatment.",
-      "date": "2026-08-07T13:58:13Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/QzyMQEVdyxfBB9RaUuR2aY-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-07T15:00:23Z"
-    },
-    {
-      "title": "Where to buy last-minute solar eclipse glasses and viewing gear before August 12",
-      "link": "https://www.livescience.com/products/optics/where-to-buy-last-minute-solar-eclipse-glasses-and-viewing-gear-before-august-12",
-      "summary": "A partial eclipse is still worth seeing, but only with the right protection. Here's where you can still find eclipse glasses, solar binoculars and filters before eclipse day.",
-      "date": "2026-08-07T13:35:28Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/LuLrwjD9FX2NTWj7ZE8vZU-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-07T15:00:23Z"
     }
   ]
 }
