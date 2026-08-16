@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-16T14:29:44Z",
-  "updated_utc": "2026-08-16T14:29:44Z",
+  "updated": "2026-08-16T15:28:05Z",
+  "updated_utc": "2026-08-16T15:28:05Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Shrinking water bodies can turn drought into disease hotspots or dead ends",
+      "link": "https://phys.org/news/2026-08-bodies-drought-disease-hotspots-dead.html",
+      "summary": "Prolonged dry spells or droughts can sometimes reduce aquatic diseases, many of which affect people. Yet other times, water scarcity can counterintuitively lead to an uptick in dis",
+      "date": "2026-08-16T14:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/3-ways-drought-alters.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-16T15:28:01Z"
+    },
     {
       "title": "‘Awed by nature’: fans mourn California’s beloved Jackie the bald eagle, whose legacy soars on",
       "link": "https://www.theguardian.com/us-news/2026/aug/16/california-jackie-the-bald-eagle-legacy",
@@ -5487,17 +5498,6 @@
       "summary": "Snails are particularly active after a rain shower. Even on the Max Planck Campus in Potsdam-Golm, common brown-lipped snails (Cepaea nemoralis) leave behind shiny trails of mucus.",
       "date": "2026-08-07T15:00:01Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/following-the-trail-of.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-07T15:00:22Z"
-    },
-    {
-      "title": "Newly identified C/EBPγ protein links cancer cell plasticity and DNA repair",
-      "link": "https://phys.org/news/2026-08-newly-cebp-protein-links-cancer.html",
-      "summary": "A research team has identified the transcription factor C/EBPγ as a novel regulator that simultaneously promotes epithelial-mesenchymal transition (EMT) and DNA double-strand break",
-      "date": "2026-08-07T14:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/newly-identified-cebp.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
