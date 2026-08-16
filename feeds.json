@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-16T16:33:19Z",
-  "updated_utc": "2026-08-16T16:33:19Z",
+  "updated": "2026-08-16T17:25:32Z",
+  "updated_utc": "2026-08-16T17:25:32Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Phytophthora dieback linked to habitat loss and lower digging activity among quendas in Western Australia",
+      "link": "https://phys.org/news/2026-08-phytophthora-dieback-linked-habitat-loss.html",
+      "summary": "A new study from Murdoch University has found that the introduced plant disease Phytophthora dieback is indirectly hindering quendas in Western Australia's jarrah forests by reduci",
+      "date": "2026-08-16T17:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/phytophthora-dieback-l.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-16T17:25:28Z"
+    },
     {
       "title": "Shrinking water bodies can turn drought into disease hotspots or dead ends",
       "link": "https://phys.org/news/2026-08-bodies-drought-disease-hotspots-dead.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-08-07T15:00:18Z"
-    },
-    {
-      "title": "One snail, five slimes: Collagen and calcium reshape mucus for different jobs",
-      "link": "https://phys.org/news/2026-08-snail-slimes-collagen-calcium-reshape.html",
-      "summary": "Snails are particularly active after a rain shower. Even on the Max Planck Campus in Potsdam-Golm, common brown-lipped snails (Cepaea nemoralis) leave behind shiny trails of mucus.",
-      "date": "2026-08-07T15:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/following-the-trail-of.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-07T15:00:22Z"
     }
   ]
 }
