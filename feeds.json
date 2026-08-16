@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-16T17:25:32Z",
-  "updated_utc": "2026-08-16T17:25:32Z",
+  "updated": "2026-08-16T18:37:49Z",
+  "updated_utc": "2026-08-16T18:37:49Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Gene-edited beagles produce no detectable major dog allergen, early tests find",
+      "link": "https://phys.org/news/2026-08-gene-beagles-major-dog-allergen.html",
+      "summary": "Humans love dogs, but petting them can leave some people sneezing and wheezing. About 15% of the world's population lives with a dog allergy, which can increase the risk of hay fev",
+      "date": "2026-08-16T18:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gene-edited-beagles-pr.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-16T18:37:45Z"
+    },
     {
       "title": "Phytophthora dieback linked to habitat loss and lower digging activity among quendas in Western Australia",
       "link": "https://phys.org/news/2026-08-phytophthora-dieback-linked-habitat-loss.html",
@@ -5491,17 +5502,6 @@
       "category": "butterflies",
       "color": 10,
       "fetched_at": "2026-08-07T15:00:17Z"
-    },
-    {
-      "title": "AI may respond differently to bosses and subordinate",
-      "link": "https://www.sciencenews.org/article/ai-bosses-subordinate-response-safety",
-      "summary": "In simulated conversations, social hierarchy can sway AI agents, making lower-status systems more likely to follow harmful requests.",
-      "date": "2026-08-07T14:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/080326_LB_AI-power-dynamics_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-08-07T15:00:18Z"
     }
   ]
 }
