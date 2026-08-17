@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-17T05:40:06Z",
-  "updated_utc": "2026-08-17T05:40:06Z",
+  "updated": "2026-08-17T07:07:57Z",
+  "updated_utc": "2026-08-17T07:07:57Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Rogue hacking AIs have changed the cybersecurity landscape",
+      "link": "https://www.newscientist.com/article/2583927-rogue-hacking-ais-have-changed-the-cybersecurity-landscape/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Attackers with no technical skills can now use AI models to find and exploit loopholes quickly and they can deploy them on a massive scale, raising fears that organisations without",
+      "date": "2026-08-17T07:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308069689.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-17T07:07:52Z"
+    },
     {
       "title": "Giant crocodylians dominated the food chain in Miocene South America, fossil evidence suggests",
       "link": "https://phys.org/news/2026-08-giant-crocodylians-dominated-food-chain.html",
@@ -5487,17 +5498,6 @@
       "summary": "Added protein is showing up in foods from breakfast cereal to pasta, but not many condiments … yet. Researchers have now developed an enriched tomato ketchup by incorporating prote",
       "date": "2026-08-07T16:00:03Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/protein-enriched-ketch.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-07T16:05:18Z"
-    },
-    {
-      "title": "Different genes, same result: How flies evolved multiple ways to define heads and tails",
-      "link": "https://phys.org/news/2026-08-genes-result-flies-evolved-multiple.html",
-      "summary": "One of the most important milestones in the early life of an organism is when the embryo breaks symmetry and arranges itself to form the head (anterior) at one end and tail (poster",
-      "date": "2026-08-07T15:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/different-genes-same-r.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
