@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-17T11:32:02Z",
-  "updated_utc": "2026-08-17T11:32:02Z",
+  "updated": "2026-08-17T12:57:06Z",
+  "updated_utc": "2026-08-17T12:57:06Z",
   "count": 500,
   "stories": [
+    {
+      "title": "This Connecticut Teenager Spied on the British During the American Revolution, Succeeding Where Nathan Hale Failed",
+      "link": "https://www.smithsonianmag.com/history/this-connecticut-teenager-spied-on-the-british-during-the-american-revolution-succeeding-where-nathan-hale-failed-180989309/",
+      "summary": "Newly uncovered documents reveal the story of David Maltbie, who relayed intelligence to the patriots in 1776, narrowly avoiding execution as a spy",
+      "date": "2026-08-17T11:45:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/seiH9-ba18yZvQ1pk_zJYomeR4U=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9a/30/9a3074ea-bdcc-4d5f-ad2a-a80bc49a6f8a/david-maltbie.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-17T12:56:57Z"
+    },
+    {
+      "title": "Is bird flu infecting humans? How would we know?",
+      "link": "https://phys.org/news/2026-08-bird-flu-infecting-humans.html",
+      "summary": "Bird flu is circulating among birds on the Australian mainland. So, with the confirmed number of detections growing, you may be wondering about the risk of birds infecting humans.",
+      "date": "2026-08-17T11:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bird-flu.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-17T12:57:01Z"
+    },
     {
       "title": "Species Spotlight: Eastern Bluebird",
       "link": "https://www.10000birds.com/species-spotlight-eastern-bluebird.htm?utm_source=rss&utm_medium=rss&utm_campaign=species-spotlight-eastern-bluebird",
@@ -5480,28 +5502,6 @@
       "category": "birds",
       "color": 0,
       "fetched_at": "2026-08-07T17:52:50Z"
-    },
-    {
-      "title": "Woodpeckers in Virginia: The Top 8 Species with Pictures",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/woodpeckers-in-virginia-the-top-8-species-with-pictures/",
-      "summary": "Virginia is a beautiful state that has a lot of appealing, culturally diverse sites to offer its people. The one thing that will stand out … Read More \"Woodpeckers in Virginia: The",
-      "date": "2026-05-10T23:17:26Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2024/08/Red-headedWoodpecker-Rushing.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-08-07T17:52:50Z"
-    },
-    {
-      "title": "Do Birds Eat Wasps, Hornets and Bees?",
-      "link": "https://www.birdsandblooms.com/birding/birding-basics/do-birds-eat-wasps/",
-      "summary": "Many birds eat a variety of foods, but are wasps on the menu? Our experts explain whether birds eat wasps, and which birds may snack on them. The post Do Birds Eat Wasps, Hornets a",
-      "date": "2026-07-22T16:22:25Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/GettyImages-1445334528-e1784737274714.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-08-07T17:52:54Z"
     }
   ]
 }
