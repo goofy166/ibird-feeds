@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-17T22:30:58Z",
-  "updated_utc": "2026-08-17T22:30:58Z",
+  "updated": "2026-08-17T23:29:10Z",
+  "updated_utc": "2026-08-17T23:29:10Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Male Neanderthal pelvises resemble those of modern females, challenging decades-old assumptions",
+      "link": "https://phys.org/news/2026-08-male-neanderthal-pelvises-resemble-modern.html",
+      "summary": "A new study by the Department of Anatomy and Anthropology at Tel Aviv University, published in Scientific Reports, offers an explanation for one of the striking differences between",
+      "date": "2026-08-17T23:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-do-men-and-women-w.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-17T23:29:06Z"
+    },
+    {
+      "title": "Researcher is trying to save biodiverse landscapes, one unkempt garden at a time",
+      "link": "https://phys.org/news/2026-08-biodiverse-landscapes-unkempt-garden.html",
+      "summary": "You've probably seen it before: A native garden starts out lush and intentional, then slowly unravels. A meadow is overtaken by weeds. Native grasses are cut down to sad little stu",
+      "date": "2026-08-17T22:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researcher-is-trying-t.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-17T23:29:06Z"
+    },
     {
       "title": "Researchers identify ways to reduce the lag between biodiversity data and action",
       "link": "https://phys.org/news/2026-08-ways-lag-biodiversity-action.html",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-08-10T04:45:01Z"
-    },
-    {
-      "title": "How dogs evolved differently across the globe to match human traits",
-      "link": "https://phys.org/news/2026-08-dogs-evolved-differently-globe-human.html",
-      "summary": "We call them \"man's best friend,\" and the evidence supports it. Dogs have been found buried alongside humans in graves dating back 14,000 years. They appear in ancient art from eve",
-      "date": "2026-08-09T23:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dog-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-09T23:38:12Z"
-    },
-    {
-      "title": "The Joy of Seeing Less: Birding Svalbard Slowly",
-      "link": "https://www.10000birds.com/the-joy-of-seeing-less-birding-svalbard-slowly.htm?utm_source=rss&utm_medium=rss&utm_campaign=the-joy-of-seeing-less-birding-svalbard-slowly",
-      "summary": "July is a great time to visit Svalbard, especially with the rest of the world’s south boiling under heat domes and fighting horrific wildfires. Svalbard is cold (30-35F degrees), s",
-      "date": "2026-08-09T19:52:28Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/Arctic-Tern-1-2026-JULY-16-Gravneset-Svalbard-SJ-1-of-1.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-08-09T20:40:40Z"
     }
   ]
 }
