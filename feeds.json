@@ -1,8 +1,85 @@
 {
-  "updated": "2026-08-17T12:57:06Z",
-  "updated_utc": "2026-08-17T12:57:06Z",
+  "updated": "2026-08-17T13:45:37Z",
+  "updated_utc": "2026-08-17T13:45:37Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Woodpeckers in Virginia: The Top 8 Species with Pictures",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/woodpeckers-in-virginia-the-top-8-species-with-pictures/",
+      "summary": "Virginia is a beautiful state that has a lot of appealing, culturally diverse sites to offer its people. The one thing that will stand out … Read More \"Woodpeckers in Virginia: The",
+      "date": "2026-05-10T23:17:26Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2024/08/Red-headedWoodpecker-Rushing.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-08-17T13:45:11Z"
+    },
+    {
+      "title": "Do Birds Eat Wasps, Hornets and Bees?",
+      "link": "https://www.birdsandblooms.com/birding/birding-basics/do-birds-eat-wasps/",
+      "summary": "Many birds eat a variety of foods, but are wasps on the menu? Our experts explain whether birds eat wasps, and which birds may snack on them. The post Do Birds Eat Wasps, Hornets a",
+      "date": "2026-07-22T16:22:25Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/GettyImages-1445334528-e1784737274714.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-08-17T13:45:18Z"
+    },
+    {
+      "title": "Why are hummingbirds immune to Mountain View trumpet plants?",
+      "link": "https://www.mercurynews.com/2026/08/17/why-are-hummingbirds-immune-to-mountain-view-trumpet-plants/",
+      "summary": "The birds are safe because they don't take in enough poison to be harmed",
+      "date": "2026-08-17T13:30:53Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/SJM-L-JOANCOL-0817-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-08-17T13:45:26Z"
+    },
+    {
+      "title": "Our blood’s body clock may be causing anaemia cases to be missed",
+      "link": "https://www.newscientist.com/article/2584965-our-bloods-body-clock-may-be-causing-anaemia-cases-to-be-missed/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Blood tests may give different results depending on when in the day, or the year, they are taken, which could result in people missing out on an anaemia diagnosis",
+      "date": "2026-08-17T12:58:26Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308295201.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-17T13:45:31Z"
+    },
+    {
+      "title": "Poor genetic health threatens many species—but it's fixable",
+      "link": "https://phys.org/news/2026-08-poor-genetic-health-threatens-species.html",
+      "summary": "By the early 1990s, there were only around 20 Florida panthers left on the planet.",
+      "date": "2026-08-17T13:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/glanville-fritillary-b.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-17T13:45:33Z"
+    },
+    {
+      "title": "Two eyeless shrimp-like species found in Japan's groundwater are new to science",
+      "link": "https://phys.org/news/2026-08-eyeless-shrimp-species-japan-groundwater.html",
+      "summary": "Researchers have identified two new species in the genus Bogidiella, small shrimp-like amphipods that live in subterranean aquatic environments, from cave waters on the Ryukyu Isla",
+      "date": "2026-08-17T13:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-eyeless-shrimp-lik.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-17T13:45:33Z"
+    },
+    {
+      "title": "Skeleton with 167 fractures discovered at Scottish castle may have been first victim of Edward I's 'War Wolf' trebuchet",
+      "link": "https://www.livescience.com/archaeology/skeleton-with-167-fractures-discovered-at-scottish-castle-may-have-been-first-victim-of-edward-is-war-wolf-trebuchet",
+      "summary": "Dozens of fractures in a medieval skeleton found buried near a castle suggest the person may have been killed by a direct trebuchet hit.",
+      "date": "2026-08-17T13:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/v2uMyyakhPz5YKPJSYs4dA-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-17T13:45:34Z"
+    },
     {
       "title": "This Connecticut Teenager Spied on the British During the American Revolution, Succeeding Where Nathan Hale Failed",
       "link": "https://www.smithsonianmag.com/history/this-connecticut-teenager-spied-on-the-british-during-the-american-revolution-succeeding-where-nathan-hale-failed-180989309/",
@@ -5425,83 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-07T19:06:35Z"
-    },
-    {
-      "title": "First full zoysia grass genetic blueprint opens doors for drought-tolerant turf",
-      "link": "https://phys.org/news/2026-08-full-zoysia-grass-genetic-blueprint.html",
-      "summary": "A new genomic resource from the Texas A&M AgriLife Research plant genomics team is providing a powerful new foundation for faster, more precise turfgrass genetics and breeding. The",
-      "date": "2026-08-07T18:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-full-zoysia-gras.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-07T19:06:35Z"
-    },
-    {
-      "title": "The creatures born from code: Generative AI threatens to upend citizen science records",
-      "link": "https://phys.org/news/2026-08-creatures-born-code-generative-ai.html",
-      "summary": "You need to tread carefully among the leaf litter of the Indonesian scrubland and its tropical rainforests. The dead leaves might seem caught in a gentle breeze, but there's more h",
-      "date": "2026-08-07T18:00:11Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-creatures-born-fro.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-07T19:06:35Z"
-    },
-    {
-      "title": "Hidden hormone–habitat relationship revealed in reef fish",
-      "link": "https://phys.org/news/2026-08-hidden-hormonehabitat-relationship-revealed-reef.html",
-      "summary": "In the animal kingdom, only those that adapt to their environment survive. This adaptation takes a wide range of forms, from invisible internal shifts in gene expression to dramati",
-      "date": "2026-08-07T18:00:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-hormonehabitat.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-07T19:06:35Z"
-    },
-    {
-      "title": "Birdsong and whale song show patterns similar to human language",
-      "link": "https://phys.org/news/2026-08-birdsong-whale-song-patterns-similar.html",
-      "summary": "An international team of researchers has uncovered a previously undetected structure in the birdsong of Bengalese finches that has the same statistical patterns found in human lang",
-      "date": "2026-08-07T18:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/birdsong-and-whale-son.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-07T19:06:35Z"
-    },
-    {
-      "title": "Do Penguins Have Knees?",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/do-penguins-have-knees/",
-      "summary": "What makes penguins a sweet sight in the bird world is their waddling. They don’t seem to have legs as their feet appear right out … Read More \"Do Penguins Have Knees?\"",
-      "date": "2026-05-10T23:24:50Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/03/Penguin-by-Joshua-Ryder.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-08-07T17:52:50Z"
-    },
-    {
-      "title": "Do Birds and Squirrels Get Along? Forest Friends or Foes",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/do-birds-and-squirrels-get-along-forest-friends-or-foes/",
-      "summary": "Squirrels are fantastic acrobats and will go to great lengths to get what they want. Birdseed and nuts are among their favorite meal options. If … Read More \"Do Birds and Squirrels",
-      "date": "2026-05-10T23:22:53Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/02/downy-woodpecker-feeding-scaled.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-08-07T17:52:50Z"
-    },
-    {
-      "title": "Woodpeckers in Minnesota: Top 8 Species with Pictures",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/woodpeckers-in-minnesota-top-8-species-with-pictures/",
-      "summary": "Did you know that woodpeckers can peck up to 20 times in one second? The speed of how they move their heads sometimes exceeds 15 … Read More \"Woodpeckers in Minnesota: Top 8 Specie",
-      "date": "2026-05-10T23:20:58Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2024/08/red-breasted-sapsucker-alexander-viduetsky-410x465-1.jpeg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-08-07T17:52:50Z"
     }
   ]
 }
