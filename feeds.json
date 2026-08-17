@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-17T10:38:19Z",
-  "updated_utc": "2026-08-17T10:38:19Z",
+  "updated": "2026-08-17T11:32:02Z",
+  "updated_utc": "2026-08-17T11:32:02Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Species Spotlight: Eastern Bluebird",
+      "link": "https://www.10000birds.com/species-spotlight-eastern-bluebird.htm?utm_source=rss&utm_medium=rss&utm_campaign=species-spotlight-eastern-bluebird",
+      "summary": "Wikipedia has its own page on the Bluebird of Happiness, starting with the sentence “The symbol of a bluebird as the harbinger of happiness is found in many cultures and may date b",
+      "date": "2026-08-17T11:00:00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/Eastern-Bluebird_DSC4459_Bath-Maine-mid-Jun-2026.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-08-17T11:31:42Z"
+    },
+    {
+      "title": "Weightlifting makes older women leaner, stronger and more mobile",
+      "link": "https://www.newscientist.com/article/2584910-weightlifting-makes-older-women-leaner-stronger-and-more-mobile/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Lifting at least 50 kilograms twice a week improved older women's muscle mass, mobility and balance",
+      "date": "2026-08-17T11:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308638138.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-17T11:31:56Z"
+    },
+    {
+      "title": "Amber fossil reveals firefly relative with unprecedented antennae",
+      "link": "https://phys.org/news/2026-08-amber-fossil-reveals-firefly-unprecedented.html",
+      "summary": "Insects rely on a wide range of strategies to sense their surroundings and communicate with their peers. Fireflies (Lampyridae) and some related beetles are known for their ability",
+      "date": "2026-08-17T11:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-an-3.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-17T11:31:58Z"
+    },
     {
       "title": "Rhossi, a rare sea turtle, recovers after 5,000-mile trek from Wales to Texas",
       "link": "https://www.theguardian.com/us-news/2026/aug/17/rhossi-sea-turtle-texas-wales-recovery-update-houston-zoo",
@@ -5469,39 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-08-07T17:52:54Z"
-    },
-    {
-      "title": "Messy is chic again. But is the world ready for my kind of crumpled grubbiness? | Emma Beddington",
-      "link": "https://www.theguardian.com/commentisfree/2026/aug/07/messy-is-chic-again-but-is-the-world-ready-for-my-kind-of-crumpled-grubbiness",
-      "summary": "All my clothes are stained and creased and my house is cluttered, so I should be thrilled by this moment. But it’s naive to think we are about to be tolerant of the real mess of li",
-      "date": "2026-08-07T15:49:35Z",
-      "image": "https://i.guim.co.uk/img/media/155f36f2292ffe5ec7caa2b29d412e52b33aa9b3/677_0_6398_5121/master/6398.jpg?width=140&quality=85&auto=format&fit=max&s=e2d99dd53c287c4e98b0a4be6d917e05",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-07T17:52:58Z"
-    },
-    {
-      "title": "My rage against the tinkling wind chimes | Brief letters",
-      "link": "https://www.theguardian.com/uk-news/2026/aug/07/my-rage-against-the-tinkling-wind-chimes",
-      "summary": "Intrusive noise | The real Rod Liddle | Short illness | Save your strawberries Your article on the pensioner who fought a morally unimpeachable battle of self-defence against intru",
-      "date": "2026-08-07T16:56:25Z",
-      "image": "https://i.guim.co.uk/img/media/39ca02b10ab201ae42be3f489c02f9efb0aa2744/750_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=2618f7d4abce969198868cf86b0afda8",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-07T17:52:58Z"
-    },
-    {
-      "title": "What Really Happened on Broad Peak, the Deadliest High-Alpine Avalanche in More than a Decade",
-      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/broad-peak-avalanche-rescue-tragedy/",
-      "summary": "Ten climbers set out to summit the notorious Broad Peak during a narrow weather window. None of them made it back alive. This is what really happened during the expedition and the ",
-      "date": "2026-08-07T17:27:37Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/broad-peak-base-camp.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-07T17:53:04Z"
     }
   ]
 }
