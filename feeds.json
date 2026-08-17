@@ -1,8 +1,63 @@
 {
-  "updated": "2026-08-17T18:49:13Z",
-  "updated_utc": "2026-08-17T18:49:13Z",
+  "updated": "2026-08-17T19:33:12Z",
+  "updated_utc": "2026-08-17T19:33:12Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Australia's Social Media Ban for Teens May Not Be the Best Solution, But It's Certainly Getting People Talking",
+      "link": "https://www.smithsonianmag.com/innovation/australias-social-media-ban-for-teens-may-not-be-the-best-solution-but-its-certainly-getting-people-talking-180989355/",
+      "summary": "The Aussie experiment comes amid a lack of clear evidence that the apps harm most adolescents. It may take a dramatic research pivot to finally reveal what’s going on and how to fi",
+      "date": "2026-08-17T19:15:28Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/BRFtsEl8zNhQbdSElpQuzFFGsPM=/420x240/filters:focal(1400x1033:1401x1034)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/93/55/93552e23-ed4a-4165-88ea-3d5b307fef5d/gettyimages-2258285616.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-17T19:33:04Z"
+    },
+    {
+      "title": "In a First, Astronomers May Have Spotted a Galaxy in the Early Universe With Three Behemoth Black Holes",
+      "link": "https://www.smithsonianmag.com/smart-news/in-a-first-astronomers-may-have-spotted-a-galaxy-in-the-early-universe-with-three-behemoth-black-holes-180989344/",
+      "summary": "The galaxy’s light took about 12.5 billion years to reach the James Webb Space Telescope, meaning the instrument saw the black holes a little more than one billion years after the ",
+      "date": "2026-08-17T19:13:48Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/Hf4EldxxKlEz6rkDmjFyFOIse5g=/420x240/filters:focal(614x561:615x562)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/29/49/29493038-7959-49c5-9352-ef74ea574dc7/original_1.webp",
+      "name": "Smithsonian",
+      "category": "butterflies",
+      "color": 10,
+      "fetched_at": "2026-08-17T19:33:04Z"
+    },
+    {
+      "title": "Tiny feet on cells can sense defects and stall migration to heal wounds",
+      "link": "https://phys.org/news/2026-08-tiny-feet-cells-defects-stall.html",
+      "summary": "Cells travel through the body both individually and in collective groups during development, wound healing and diseases such as cancer. New research from the McKelvey School of Eng",
+      "date": "2026-08-17T19:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-feet-on-cells-sen.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-17T19:33:09Z"
+    },
+    {
+      "title": "35-year monitoring study clarifies ecological forces behind Lyme disease risk",
+      "link": "https://phys.org/news/2026-08-year-ecological-lyme-disease.html",
+      "summary": "Tick-borne diseases are on the rise in the United States. Lyme disease is the most commonly reported, with nearly half a million people diagnosed each year. Caused by the bacterium",
+      "date": "2026-08-17T19:00:12Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/35-year-study-reshapes.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-17T19:33:09Z"
+    },
+    {
+      "title": "'Known' TB gene reveals completed unexpected biological role under stress",
+      "link": "https://phys.org/news/2026-08-tb-gene-reveals-unexpected-biological.html",
+      "summary": "The complete genome of the tuberculosis bacterium was sequenced and published in 1998. Since then, scientists have deciphered about two-thirds of TB's genes. Or have they?",
+      "date": "2026-08-17T19:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/surprise-this-known-tb.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-17T19:33:09Z"
+    },
     {
       "title": "LISTEN: Low Water, No Problem. We Packrafted One of the Most Remote Rivers in the West",
       "link": "https://www.outsideonline.com/outdoor-adventure/water-activities/packrafting-podcast/",
@@ -5447,61 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-08-09T08:52:38Z"
-    },
-    {
-      "title": "‘These are human fires, not wildfires’: Dunwich reflects on the devastation",
-      "link": "https://www.theguardian.com/uk-news/2026/aug/09/these-are-human-fires-not-wildfires-dunwich-reflects-on-the-devastation",
-      "summary": "As residents, nature wardens and experts consider the damage to the heathland and how to restore it, the climate crisis is foremost in their minds A local community pulling togethe",
-      "date": "2026-08-09T06:00:07Z",
-      "image": "https://i.guim.co.uk/img/media/25d17d180b05344d8881a3e06abf995abcce3a32/626_0_6536_5229/master/6536.jpg?width=140&quality=85&auto=format&fit=max&s=d194e8f90a6dc0c0d06f5d6ce186148d",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-09T07:06:01Z"
-    },
-    {
-      "title": "Lion saved as cub from Ukraine war and brought to US battles rare fungal disease",
-      "link": "https://www.theguardian.com/us-news/2026/aug/08/ukrainian-lion-fights-fungal-disease",
-      "summary": "Four-year-old Taras, who now resides at a Minnesota sanctuary, was diagnosed with an often fatal infection A lion that escaped the war in Ukraine after being found as a four-month-",
-      "date": "2026-08-08T13:00:46Z",
-      "image": "https://i.guim.co.uk/img/media/cf66c14695c54ab16692a04eee41f66b379b3e14/0_0_7506_6009/master/7506.jpg?width=140&quality=85&auto=format&fit=max&s=c740d906d0c2c66584a959c765b3f0b2",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-08T22:36:17Z"
-    },
-    {
-      "title": "When bird flu hit the UK, suffering seabirds died in their thousands. Australia’s wild flocks will soon do the same",
-      "link": "https://www.theguardian.com/world/2026/aug/09/bird-flu-australia-thousands-of-deaths-expected-global-modelling",
-      "summary": "Australia’s bird population will experience ‘large mortalities’ and risk species loss, modelling based on global outbreaks shows Get our breaking news email , free app or daily new",
-      "date": "2026-08-08T20:00:09Z",
-      "image": "https://i.guim.co.uk/img/media/62db495f6c2c3fa2445c3c6cf01fcb97c01f2374/0_0_3537_2819/master/3537.jpg?width=140&quality=85&auto=format&fit=max&s=491c8252884899ee0ab96100037bbda0",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-08T20:37:42Z"
-    },
-    {
-      "title": "Fears of ‘catastrophic’ decline of giant Australian cuttlefish after only 44 counted in dive survey",
-      "link": "https://www.theguardian.com/environment/2026/aug/09/giant-australian-cuttlefish-population-catastrophic-decline",
-      "summary": "Calls for South Australian government to release official estimates for cuttlefish, which once numbered in hundreds of thousands in upper Spencer Gulf Get our breaking news email ,",
-      "date": "2026-08-08T20:00:09Z",
-      "image": "https://i.guim.co.uk/img/media/901f669dce8387f63abeb584d0c8f9246cbf0724/170_1323_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=4fa003a12e7507b57f4eec1245a4f145",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-08T20:37:42Z"
-    },
-    {
-      "title": "Butterfly ranges shift worldwide amid climate change, with most species expanding their reach",
-      "link": "https://phys.org/news/2026-08-butterfly-ranges-shift-worldwide-climate.html",
-      "summary": "A global analysis of range-shift records for 1,758 butterfly species—10% of known butterfly species—found that 80% had expanded their range and that 79% of all recorded range shift",
-      "date": "2026-08-08T17:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/butterfly.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-08-08T18:49:10Z"
     }
   ]
 }
