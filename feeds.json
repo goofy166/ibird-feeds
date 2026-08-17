@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-17T07:07:57Z",
-  "updated_utc": "2026-08-17T07:07:57Z",
+  "updated": "2026-08-17T08:52:11Z",
+  "updated_utc": "2026-08-17T08:52:11Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Elon Musk and Sam Altman claim we've reached the AI singularity. But how would we even know that happened?",
+      "link": "https://www.livescience.com/technology/artificial-intelligence/elon-musk-and-sam-altman-claim-weve-reached-the-ai-singularity-but-how-would-we-even-know-that-happened",
+      "summary": "Elon Musk and Sam Altman claim we've reached the singularity, even though AI scientists suggest it could take decades alongside breakthroughs we haven't even achieved. But how woul",
+      "date": "2026-08-17T08:45:03Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/EdftHfiWN6DMekyCe7GenA-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-17T08:52:09Z"
+    },
     {
       "title": "Rogue hacking AIs have changed the cybersecurity landscape",
       "link": "https://www.newscientist.com/article/2583927-rogue-hacking-ais-have-changed-the-cybersecurity-landscape/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-08-07T16:05:16Z"
-    },
-    {
-      "title": "Protein-enriched ketchup gets boost from algae extracts",
-      "link": "https://phys.org/news/2026-08-protein-enriched-ketchup-boost-algae.html",
-      "summary": "Added protein is showing up in foods from breakfast cereal to pasta, but not many condiments … yet. Researchers have now developed an enriched tomato ketchup by incorporating prote",
-      "date": "2026-08-07T16:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/protein-enriched-ketch.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-07T16:05:18Z"
     }
   ]
 }
