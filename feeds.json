@@ -1,8 +1,74 @@
 {
-  "updated": "2026-08-17T19:33:12Z",
-  "updated_utc": "2026-08-17T19:33:12Z",
+  "updated": "2026-08-17T20:33:35Z",
+  "updated_utc": "2026-08-17T20:33:35Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A Watchdog Says Yosemite Is Using Flock Cameras. The National Park Service Is Pushing Back.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/yosemite-license-plate-reader-cameras-flock/",
+      "summary": "DeFlock claims that Yosemite National Park has installed the controversial surveillance technology. The NPS says the cameras are part of a system to monitor congestion and parking.",
+      "date": "2026-08-17T19:54:59Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/GettyImages-2244371963.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-17T20:33:25Z"
+    },
+    {
+      "title": "As Sicilians Flocked to a Religious Festival, Thieves Broke Into a Nearby Museum and Stole Four Renaissance Paintings",
+      "link": "https://www.smithsonianmag.com/smart-news/as-sicilians-flocked-to-religious-festival-thieves-broke-into-nearby-museum-stole-four-renaissance-paintings-180989352/",
+      "summary": "The missing works include three panels from a 15th-century altarpiece by Antonello da Messina, as well as a two-sided devotional painting by the artist",
+      "date": "2026-08-17T19:36:01Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/rfQ3h2bInGIPDsx7i7hqaVvBFKc=/420x240/filters:focal(250x250:251x251)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9c/b7/9cb78ba5-d000-4b81-a070-c135b637cf15/stolen-paintings.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-17T20:33:27Z"
+    },
+    {
+      "title": "Locust neurons detect PFAS at environmentally relevant levels, pointing to portable sensors",
+      "link": "https://phys.org/news/2026-08-locust-neurons-pfas-environmentally-relevant.html",
+      "summary": "Researchers at Michigan State University have discovered that neurons in a locust's brain can distinguish among multiple PFAS compounds, including PFOS, one of the world's most com",
+      "date": "2026-08-17T20:30:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-insects-could-help-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-17T20:33:32Z"
+    },
+    {
+      "title": "Despite appearing to recover, sunflowers retain drought damage",
+      "link": "https://phys.org/news/2026-08-recover-sunflowers-retain-drought.html",
+      "summary": "Sunflowers are unable to fully recover from drought, new research has found, contradicting previous findings on the plant's ability to reverse drought-induced failure of water-tran",
+      "date": "2026-08-17T20:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-flips-pas.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-17T20:33:32Z"
+    },
+    {
+      "title": "Last common ancestor of humans and chimpanzees could have been a vertical climber, no matter its feet",
+      "link": "https://phys.org/news/2026-08-common-ancestor-humans-chimpanzees-vertical.html",
+      "summary": "New research suggests that no matter what we eventually determine the last common ancestor of humans and chimpanzees to be, we'll learn it was a primate that climbed trees.",
+      "date": "2026-08-17T20:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/last-common-ancestor-n.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-17T20:33:32Z"
+    },
+    {
+      "title": "Are zoos ready for the changing climate?",
+      "link": "https://phys.org/news/2026-08-zoos-ready-climate.html",
+      "summary": "When people think about climate change and animals, they might picture melting sea ice, drought-stricken landscapes or species struggling in the wild. Far less attention is given t",
+      "date": "2026-08-17T19:40:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/elephant-zoo.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-17T20:33:32Z"
+    },
     {
       "title": "Australia's Social Media Ban for Teens May Not Be the Best Solution, But It's Certainly Getting People Talking",
       "link": "https://www.smithsonianmag.com/innovation/australias-social-media-ban-for-teens-may-not-be-the-best-solution-but-its-certainly-getting-people-talking-180989355/",
@@ -5436,72 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-08-09T11:35:57Z"
-    },
-    {
-      "title": "Highest-resolution images of the sun’s surface here!",
-      "link": "https://earthsky.org/sun/highest-resolution-images-of-the-suns-surface-kelvin-helmholtz-instability/",
-      "summary": "The Inouye Solar Telescope has captured the highest-resolution images of the sun's surface yet. They show instabilities that may help explain the hot surface. The post Highest-reso",
-      "date": "2026-08-09T11:35:36Z",
-      "image": "https://earthsky.org/upl/2026/08/highest-resolution-image-of-suns-surface-Inouye-NSF-NSO-AURA-MPS-scaled-e1786023718534.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-08-09T11:35:58Z"
-    },
-    {
-      "title": "Charge-based strategy improves controlled delivery of therapeutic peptides from gelatin-based materials",
-      "link": "https://phys.org/news/2026-08-based-strategy-delivery-therapeutic-peptides.html",
-      "summary": "Rice University engineers have developed a new strategy for controlling how therapeutic peptides are released from gelatin-based materials, a step that could make the small but pow",
-      "date": "2026-08-09T11:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rice-researchers-use-e.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-09T11:36:10Z"
-    },
-    {
-      "title": "People Are Betting Millions on Active Wildfires. Now Congress Wants to Stop It.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/senators-wildfire-betting-ban/",
-      "summary": "U.S. senators are asking federal regulators to halt prediction market wagers on active wildfires, citing severe risks to wildland firefighters and wildfire-prone communities. The p",
-      "date": "2026-08-09T10:29:45Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/GettyImages-2240949436-1.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-09T10:41:37Z"
-    },
-    {
-      "title": "New James Webb telescope image may reveal the true identity of 'little red dots' — Space photo of the week",
-      "link": "https://www.livescience.com/space/astronomy/new-james-webb-telescope-image-may-reveal-the-true-identity-of-little-red-dots-space-photo-of-the-week",
-      "summary": "A new James Webb telescope study suggests the universe's enigmatic \"little red dots\" may not have vanished after all — they may simply look different as we observe them across cosm",
-      "date": "2026-08-09T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/BwYLFdv6JfyX4o5Rhn2CLF-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-09T10:41:44Z"
-    },
-    {
-      "title": "Who are the least-contacted people on Earth?",
-      "link": "https://www.livescience.com/human-behavior/who-are-the-least-contacted-people-on-earth",
-      "summary": "\"Uncontacted\" and \"isolated\" peoples live in roughly 10 countries around the world, including one group that erases their footprints so they cannot easily be found.",
-      "date": "2026-08-09T09:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/FMA9iMyoAt8CmZvw4DfoQJ-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-09T09:48:54Z"
-    },
-    {
-      "title": "Venus greatest distance from the sun August 14-15, 2026",
-      "link": "https://earthsky.org/astronomy-essentials/venus-after-sunset-greatest-elongation/",
-      "summary": "In 2026, look for Venus after sunset! It's high in August evening sky for all to see. It'll be brightest in the evening sky on September 22. The post Venus greatest distance from t",
-      "date": "2026-08-09T07:50:11Z",
-      "image": "https://earthsky.org/upl/2025/04/Venus-in-phases-December-to-March-2025-P-Govardhana-Siddartha-India.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-08-09T08:52:38Z"
     }
   ]
 }
