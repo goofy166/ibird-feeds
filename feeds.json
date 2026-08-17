@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-17T17:38:07Z",
-  "updated_utc": "2026-08-17T17:38:07Z",
+  "updated": "2026-08-17T18:49:13Z",
+  "updated_utc": "2026-08-17T18:49:13Z",
   "count": 500,
   "stories": [
+    {
+      "title": "LISTEN: Low Water, No Problem. We Packrafted One of the Most Remote Rivers in the West",
+      "link": "https://www.outsideonline.com/outdoor-adventure/water-activities/packrafting-podcast/",
+      "summary": "The latest Long Read on the Outside Podcast takes listeners down the Lower Owyhee, a scenic river in eastern Oregon that was too shallow for traditional whitewater rafts. The post ",
+      "date": "2026-08-17T18:11:38Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/Owen1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-17T18:49:04Z"
+    },
+    {
+      "title": "Study finds some microbes drastically change behavior outside the lab",
+      "link": "https://phys.org/news/2026-08-microbes-drastically-behavior-lab.html",
+      "summary": "A new study underscores the importance of studying microbes in their natural setting rather than relying solely on laboratory research. Researchers found that a set of corn root ba",
+      "date": "2026-08-17T18:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-finds-some-micro-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-17T18:49:10Z"
+    },
+    {
+      "title": "AI exposes devastating impact of bomb fishing on coral reefs",
+      "link": "https://phys.org/news/2026-08-ai-exposes-devastating-impact-fishing.html",
+      "summary": "Illegal bomb fishing is causing extensive damage to some of the world's most biodiverse coral reefs, according to a new pilot study involving Lancaster Environment Centre coral ree",
+      "date": "2026-08-17T17:40:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-use-ai-to-5.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-17T18:49:10Z"
+    },
     {
       "title": "Hawks in Georgia",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/hawks-in-georgia/",
@@ -5469,39 +5502,6 @@
       "category": "butterflies",
       "color": 13,
       "fetched_at": "2026-08-08T18:49:10Z"
-    },
-    {
-      "title": "Pulsed radiofrequency magnetic fields may disorient migratory birds, experiments suggest",
-      "link": "https://phys.org/news/2026-08-pulsed-radiofrequency-magnetic-fields-disorient.html",
-      "summary": "Every year, millions of migratory birds travel between different geographical regions on Earth to find food, escape cold weather or reach safe environments to raise chicks. To dete",
-      "date": "2026-08-08T16:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-clues-about-how-ma.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-08T16:42:10Z"
-    },
-    {
-      "title": "Dodo birds more clever than we thought",
-      "link": "https://phys.org/news/2026-08-dodo-birds-clever-thought.html",
-      "summary": "The Mauritian dodo—a global symbol of human-caused extinction and one of the world's largest pigeons—may not have deserved its reputation as a silly simpleton and may have been the",
-      "date": "2026-08-08T15:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dodo-birds-more-clever.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-08T15:36:24Z"
-    },
-    {
-      "title": "How winter canola could profit Illinois farmers, improve sustainability",
-      "link": "https://phys.org/news/2026-08-winter-canola-profit-illinois-farmers.html",
-      "summary": "A new simulation study from the University of Illinois Urbana-Champaign suggests winter canola could be profitable and environmentally beneficial if added to a conventional corn-so",
-      "date": "2026-08-08T14:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-winter-canola-coul.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-08T15:36:24Z"
     }
   ]
 }
