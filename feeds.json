@@ -1,8 +1,85 @@
 {
-  "updated": "2026-08-17T13:45:37Z",
-  "updated_utc": "2026-08-17T13:45:37Z",
+  "updated": "2026-08-17T14:35:13Z",
+  "updated_utc": "2026-08-17T14:35:13Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Do Penguins Have Knees?",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/do-penguins-have-knees/",
+      "summary": "What makes penguins a sweet sight in the bird world is their waddling. They don’t seem to have legs as their feet appear right out … Read More \"Do Penguins Have Knees?\"",
+      "date": "2026-05-10T23:24:50Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/03/Penguin-by-Joshua-Ryder.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-08-17T14:34:44Z"
+    },
+    {
+      "title": "Do Birds and Squirrels Get Along? Forest Friends or Foes",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/do-birds-and-squirrels-get-along-forest-friends-or-foes/",
+      "summary": "Squirrels are fantastic acrobats and will go to great lengths to get what they want. Birdseed and nuts are among their favorite meal options. If … Read More \"Do Birds and Squirrels",
+      "date": "2026-05-10T23:22:53Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/02/downy-woodpecker-feeding-scaled.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-08-17T14:34:44Z"
+    },
+    {
+      "title": "Woodpeckers in Minnesota: Top 8 Species with Pictures",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/woodpeckers-in-minnesota-top-8-species-with-pictures/",
+      "summary": "Did you know that woodpeckers can peck up to 20 times in one second? The speed of how they move their heads sometimes exceeds 15 … Read More \"Woodpeckers in Minnesota: Top 8 Specie",
+      "date": "2026-05-10T23:20:58Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2024/08/red-breasted-sapsucker-alexander-viduetsky-410x465-1.jpeg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-08-17T14:34:44Z"
+    },
+    {
+      "title": "I tried everything to rid my yard of mosquitoes. This German-engineered trap finally worked",
+      "link": "https://www.theguardian.com/thefilter-us/2026/aug/17/biogents-mosquitire-mosquito-trap-review",
+      "summary": "After trying nearly everything to prevent mosquito bites, I tested Biogents’ traps, used by the CDC and WHO, to find if backyard results are worth $200 This $380 kayak goes from ba",
+      "date": "2026-08-17T14:15:56Z",
+      "image": "https://i.guim.co.uk/img/media/46e50cdcf5425bb56e5da72f6d13f1282949fa89/565_138_4828_3862/master/4828.jpg?width=140&quality=85&auto=format&fit=max&s=5edbd17bc763948b78de2b9ad36b66de",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-17T14:34:57Z"
+    },
+    {
+      "title": "The Farmers’ Almanac Says This Winter Could Be a Wild Ride for Skiers",
+      "link": "https://www.outsideonline.com/outdoor-adventure/snow-sports/farmers-almanac-forecast-winter-2026-27/",
+      "summary": "The long-range forecast sees an active southern storm track, frequent cold snaps, and plenty of precipitation—but it's all about timing and temps. The post The Farmers’ Almanac Say",
+      "date": "2026-08-17T14:14:48Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/JayPeak-3004-Jan7_Deep_Powder_28-scaled-1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-17T14:35:03Z"
+    },
+    {
+      "title": "Listen Up, Parents: Running With a Stroller Might Make You Less Prone to Overuse Injuries",
+      "link": "https://www.smithsonianmag.com/smart-news/listen-up-parents-running-with-a-stroller-might-make-you-less-prone-to-overuse-injuries-180989345/",
+      "summary": "Runners often experience conditions like shin splints, runner’s knee and plantar fasciitis, which causes pain in the bottom of the heel. But pushing a stroller’s handlebar seems to",
+      "date": "2026-08-17T14:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/FE_LyAk0xVlXc36psL_WaS3bKJE=/420x240/filters:focal(1300x867:1301x868)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1e/53/1e53d0f6-e74b-48a9-934b-ce37383ffb57/pexels-dmitrii-eremin-67499966-15742738.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-17T14:35:04Z"
+    },
+    {
+      "title": "The COVID-19 vaccine may offer brain cancer patients a surprise benefit",
+      "link": "https://www.sciencenews.org/article/covid-19-vaccine-mrna-cancer-survival",
+      "summary": "A recent shot of the COVID-19 vaccine doubled survival time in glioblastoma patients who had undergone tumor biopsy or surgery.",
+      "date": "2026-08-17T14:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/081026_MR_vaccine_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-08-17T14:35:06Z"
+    },
     {
       "title": "Woodpeckers in Virginia: The Top 8 Species with Pictures",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/woodpeckers-in-virginia-the-top-8-species-with-pictures/",
@@ -5425,83 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-08-07T20:49:41Z"
-    },
-    {
-      "title": "A British Museum Is Searching for a Rare 1940s Housecoat From a Fashion Brand That Dressed the Queen—and, on Special Occasions, Ordinary Women Too",
-      "link": "https://www.smithsonianmag.com/smart-news/a-british-museum-is-searching-for-a-rare-1940s-housecoat-from-a-fashion-brand-that-dressed-the-queen-and-ordinary-women-on-special-occasions-180989296/",
-      "summary": "Patterned with a map of the British Isles, the housecoat was an early design by the pioneering brand Horrockses, which turned cotton cloth into whimsical women's wear after World W",
-      "date": "2026-08-07T20:10:15Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/Pb7EPtOruJUrjNIuAG1QG_70lkQ=/420x240/filters:focal(702x298:703x299)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c7/d2/c7d2b478-9a55-4465-a5ab-f093de9203b6/dress_womans_day_am_1996674-5.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-07T20:49:44Z"
-    },
-    {
-      "title": "This Amazing Archive of Animal Photography Reveals 18,000 Species and Counting. Here's How Joel Sartore Built His 'Photo Ark'",
-      "link": "https://www.smithsonianmag.com/science-nature/this-amazing-archive-of-animal-photography-reveals-18000-species-and-counting-heres-how-joel-sartore-built-his-photo-ark-180989282/",
-      "summary": "For 20 years, the National Geographic photographer has showcased Earth’s animals in a series of striking images that make even the tiniest creatures look immense",
-      "date": "2026-08-07T19:15:18Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/LBPn4DyEP4IisuU_NiUm-VTcWNs=/420x240/filters:focal(2560x1707:2561x1708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/83/76/837646bc-4431-4d99-843a-4df325ee157f/08_-_koalas_cr_joel_sartore-national_geographic_photo_ark_11481509.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-07T20:49:44Z"
-    },
-    {
-      "title": "Antenna-like cell appendage may help turtle embryos sense sex-deciding nest temperatures",
-      "link": "https://phys.org/news/2026-08-antenna-cell-appendage-turtle-embryos.html",
-      "summary": "When most baby turtles hatch, their sex depends on the temperature of the sand or soil where their mother laid her eggs. Warm incubation produces females, while cool nests produce ",
-      "date": "2026-08-07T20:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/antenna-like-cell-appe.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-08-07T20:49:49Z"
-    },
-    {
-      "title": "The 18 Best Deals at the Backcountry Summer Sale",
-      "link": "https://www.outsideonline.com/outdoor-gear/gear-news/backcountry-summer-sale-2026/",
-      "summary": "Back-to-school sales may be dominating right now, but don’t assume only backpacks and water bottles are up for grabs. Backcountry’s Summer Semi-Annual Sale just dropped, and you ca",
-      "date": "2026-08-07T18:08:42Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/OOL-Deal-Tile-C-2400x1350-2.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-07T19:06:29Z"
-    },
-    {
-      "title": "One of Italy's Most Popular Attractions, the Uffizi Galleries in Florence, Reveals Plans for a Major Renovation Over the Next Two Years",
-      "link": "https://www.smithsonianmag.com/smart-news/one-of-italys-most-popular-attractions-the-uffizi-galleries-in-florence-reveals-plans-for-a-major-renovation-over-the-next-two-years-180989295/",
-      "summary": "The collection of treasures, many of them connected to the Medici family, includes Italian Renaissance masterpieces, a palace and a courtly garden",
-      "date": "2026-08-07T18:22:09Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/zGDMpMQI1U_jd_IjqQp2-n8wsQ8=/420x240/filters:focal(613x409:614x410)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c4/1e/c41e4480-acae-4ab4-bebc-4a7140b2f42e/uffizi1.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-07T19:06:30Z"
-    },
-    {
-      "title": "New platform speeds bacterial gene mapping for better biotech design",
-      "link": "https://phys.org/news/2026-08-platform-bacterial-gene-biotech.html",
-      "summary": "Scientists at the Department of Energy's Oak Ridge National Laboratory have created a platform that pinpoints genetic triggers that turn microbes into efficient factories for new c",
-      "date": "2026-08-07T19:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-platform-speeds-ba.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-07T19:06:35Z"
-    },
-    {
-      "title": "Mobile fungal 'Starship' carries protein that triggers crop leaf loss",
-      "link": "https://phys.org/news/2026-08-mobile-fungal-starship-protein-triggers.html",
-      "summary": "An international research team led by plant scientist Professor Dr. Bart Thomma of the Institute of Plant Sciences at the University of Cologne, the MiBiNet Collaborative Research ",
-      "date": "2026-08-07T18:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-discover-a-17.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-07T19:06:35Z"
     }
   ]
 }
