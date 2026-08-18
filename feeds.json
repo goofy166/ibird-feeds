@@ -1,8 +1,52 @@
 {
-  "updated": "2026-08-18T11:31:44Z",
-  "updated_utc": "2026-08-18T11:31:44Z",
+  "updated": "2026-08-18T12:58:41Z",
+  "updated_utc": "2026-08-18T12:58:41Z",
   "count": 500,
   "stories": [
+    {
+      "title": "1st ultra-faint Milky Way satellite galaxy found by Rubin",
+      "link": "https://earthsky.org/space/1st-ultra-faint-milky-way-satellite-galaxy-aquarius-iv-rubin/",
+      "summary": "The Vera C. Rubin Observatory has only just begun its survey, yet it has already discovered its first ultra-faint Milky Way satellite, Aquarius IV. The post 1st ultra-faint Milky W",
+      "date": "Tue, 18 Aug 2026 11Z",
+      "image": "https://earthsky.org/upl/2026/08/WhatsApp-Image-2026-08-16-at-12.39.55.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-18T12:58:27Z"
+    },
+    {
+      "title": "Postbiotic could reduce the risk of brain damage after a concussion",
+      "link": "https://www.newscientist.com/article/2585112-postbiotic-could-reduce-the-risk-of-brain-damage-after-a-concussion/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Giving mice a byproduct produced by gut bacteria reduced their risk of severe brain damage and cognitive difficulties after a traumatic brain injury",
+      "date": "Tue, 18 Aug 2026 12Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308666026.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-18T12:58:35Z"
+    },
+    {
+      "title": "Distinct neurons drive mice's social sounds and squeaks",
+      "link": "https://phys.org/news/2026-08-distinct-neurons-mice-social.html",
+      "summary": "Mice use almost completely distinct sets of neurons for their two different types of vocalizations—the squeaks they produce when in distress or fighting and the whistle-like ultras",
+      "date": "2026-08-18T12:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/distinct-neurons-drive.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-18T12:58:37Z"
+    },
+    {
+      "title": "Archaeologists discover Etruscan well that was ritually opened with offerings for a goddess — and 'closed' with human bodies",
+      "link": "https://www.livescience.com/archaeology/archaeologists-discover-etruscan-well-that-was-ritually-opened-with-offerings-for-a-goddess-and-closed-with-human-bodies",
+      "summary": "An ancient Etruscan cult likely left burials and bronze artifacts in a well that was recently discovered in Italy.",
+      "date": "Tue, 18 Aug 2026 12Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/dtX8W6jwQgTYg6nmSpErLV-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-18T12:58:38Z"
+    },
     {
       "title": "Bird Guides of the World: Mwangi Gitau, Kenya",
       "link": "https://www.10000birds.com/bird-guides-of-the-world-mwangi-gitau-kenya.htm?utm_source=rss&utm_medium=rss&utm_campaign=bird-guides-of-the-world-mwangi-gitau-kenya",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-08-10T15:06:10Z"
-    },
-    {
-      "title": "Sad or afraid? Dogs may be able to read your face",
-      "link": "https://www.sciencenews.org/article/dogs-understand-emotions-humans-face",
-      "summary": "A new brain-imaging study suggests that dogs may be able to distinguish between certain negative human emotions just by looking at people’s faces.",
-      "date": "2026-08-10T15:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/080726_MR_dogemotions_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-08-10T15:06:11Z"
-    },
-    {
-      "title": "The shock revelation that light bulbs are wrecking your metabolism",
-      "link": "https://www.newscientist.com/article/2582914-the-shock-revelation-that-light-bulbs-are-wrecking-your-metabolism/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Since the 2000s, our light exposure has changed drastically as we make our buildings more energy-efficient. Now, we’re discovering how this may mess with our mitochondria, contribu",
-      "date": "2026-08-10T15:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307353181.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-10T15:06:12Z"
-    },
-    {
-      "title": "Your running style changes when you’re short of sleep",
-      "link": "https://www.newscientist.com/article/2583705-your-running-style-changes-when-youre-short-of-sleep/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "There are measurable changes in the way we run when we are short of sleep, which give us a clearer picture of how a lack of shut-eye affects our risk of injury",
-      "date": "2026-08-10T14:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307539104.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-10T15:06:12Z"
-    },
-    {
-      "title": "MRI study shows dogs can distinguish between human fear and sadness",
-      "link": "https://phys.org/news/2026-08-mri-dogs-distinguish-human-sadness.html",
-      "summary": "Scientists—and dog lovers—have long known that dogs are remarkably good at interpreting our laughs, frowns and tears. But the biology behind this ability has remained largely unexp",
-      "date": "2026-08-10T15:00:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dogs-can-distinguish-b-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-10T15:06:14Z"
     }
   ]
 }
