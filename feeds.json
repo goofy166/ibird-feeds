@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-18T06:55:05Z",
-  "updated_utc": "2026-08-18T06:55:05Z",
+  "updated": "2026-08-18T07:44:20Z",
+  "updated_utc": "2026-08-18T07:44:20Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Physicists may have solved a 30-year mystery over missing neutrinos",
+      "link": "https://www.newscientist.com/article/2584689-physicists-may-have-solved-a-30-year-mystery-over-missing-neutrinos/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Since the 1990s, researchers have wondered if unexpected results from gallium-based neutrino detectors are a sign of a new kind of particle, but a new study suggests that revising ",
+      "date": "Tue, 18 Aug 2026 07Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308318508.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-18T07:44:15Z"
+    },
     {
       "title": "Country diary: Waiting for a nightjar is elusive and maddening – then thrilling | Mark Cocker",
       "link": "https://www.theguardian.com/environment/2026/aug/18/country-diary-waiting-for-a-nightjar-is-elusive-and-maddening-then-thrilling",
@@ -5487,17 +5498,6 @@
       "summary": "Decades of selective breeding and intensive agricultural practices have reshaped cattle genetics—often at the expense of valuable diversity preserved in traditional herds—according",
       "date": "2026-08-10T11:20:02Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/traditional-cattle-her.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-10T11:53:16Z"
-    },
-    {
-      "title": "Sixteen AI-designed viruses offer a new route against drug-resistant bacteria",
-      "link": "https://phys.org/news/2026-08-sixteen-ai-viruses-route-drug.html",
-      "summary": "In a world first, scientists led by a team from Stanford University have created 16 viable viruses that do not exist in nature and were designed by AI. Their experiment, which is p",
-      "date": "2026-08-10T11:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-designs-viruses-tha.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
