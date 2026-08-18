@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-18T03:02:06Z",
-  "updated_utc": "2026-08-18T03:02:06Z",
+  "updated": "2026-08-18T04:42:08Z",
+  "updated_utc": "2026-08-18T04:42:08Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: Waiting for a nightjar is elusive and maddening – then thrilling | Mark Cocker",
+      "link": "https://www.theguardian.com/environment/2026/aug/18/country-diary-waiting-for-a-nightjar-is-elusive-and-maddening-then-thrilling",
+      "summary": "Goyt Valley, Derbyshire: My patience into dusk is rewarded with a full display of unlikely calls and aerial prowess The setting sun spread a last Iberian glow over the hills opposi",
+      "date": "2026-08-18T04:30:13Z",
+      "image": "https://i.guim.co.uk/img/media/f619494e6d800b2ac6aafba30dd2a4bb5c67f5c9/316_0_4468_3575/master/4468.jpg?width=140&quality=85&auto=format&fit=max&s=fd87b69375ea50261ab2bc2472b2785d",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-18T04:41:52Z"
+    },
     {
       "title": "Molecular memory: How a mother's age echoes in her offspring's cells",
       "link": "https://phys.org/news/2026-08-molecular-memory-mother-age-echoes.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-10T11:53:16Z"
-    },
-    {
-      "title": "Will you be looking up on Aug. 12, the best skywatching day and night of the year?",
-      "link": "https://www.livescience.com/space/astronomy/will-you-be-looking-up-on-aug-12-the-best-skywatching-day-and-night-of-the-year",
-      "summary": "Two big skywatching events are happening on Aug. 12. Will you have your eyes turned skyward? Let us know in our latest poll.",
-      "date": "2026-08-10T11:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/E9uYxMste2hVMwcKRTd5k3-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-10T11:53:17Z"
     }
   ]
 }
