@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-18T12:58:41Z",
-  "updated_utc": "2026-08-18T12:58:41Z",
+  "updated": "2026-08-18T13:50:38Z",
+  "updated_utc": "2026-08-18T13:50:38Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Scientists who turned to OnlyFans to fund marmot research receive crypto boost",
+      "link": "https://www.theguardian.com/us-news/2026/aug/18/scientists-onlyfans-marmots-crypto",
+      "summary": "Funding boost worth $100,000 has recently materialized in form of new marmot-themed cryptocurrency Scientists who turned to OnlyFans to help save long-running research into marmots",
+      "date": "2026-08-18T13:00:46Z",
+      "image": "https://i.guim.co.uk/img/media/ae04c6ef2bd5b5741e765f3ee0c3296797f8acc2/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=dc59ba1e74112312861bef8ca42ca9e2",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-18T13:50:16Z"
+    },
+    {
+      "title": "‘We humans are inept at taking care of baby animals’: why well-fed orphan bears die in the wild",
+      "link": "https://www.theguardian.com/environment/2026/aug/18/orphan-bears-die-in-the-wild-grizzlies",
+      "summary": "Scientists surprised to find all but two of 12 grizzlies were dead within a year of ‘feelgood’ release, unable to sustain their high-calorie diet and inclined to approach humans Th",
+      "date": "2026-08-18T13:00:46Z",
+      "image": "https://i.guim.co.uk/img/media/3f39f5bf3583cefa7af8caa71aef98becc81bc37/426_1381_1762_1409/master/1762.jpg?width=140&quality=85&auto=format&fit=max&s=c7c752c241ec2ccee7fdca0bb81fe082",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-18T13:50:16Z"
+    },
+    {
+      "title": "New gene activity tool measures biological age of cells and screens aging-related compounds",
+      "link": "https://phys.org/news/2026-08-gene-tool-biological-age-cells.html",
+      "summary": "Researchers at Karolinska Institutet and Stockholm University have developed a new tool that estimates a cell's biological age by analyzing its gene activity. In an article publish",
+      "date": "2026-08-18T13:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/5-dna.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-18T13:50:34Z"
+    },
     {
       "title": "1st ultra-faint Milky Way satellite galaxy found by Rubin",
       "link": "https://earthsky.org/space/1st-ultra-faint-milky-way-satellite-galaxy-aquarius-iv-rubin/",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-08-10T15:05:57Z"
-    },
-    {
-      "title": "'Like a Hole in the Universe': Artemis 2 Astronaut Victor Glover Reflects on Seeing a Total Solar Eclipse While Flying by the Moon",
-      "link": "https://www.smithsonianmag.com/science-nature/like-a-hole-in-the-universe-artemis-2-astronaut-victor-glover-reflects-on-seeing-a-total-solar-eclipse-while-flying-by-the-moon-180989284/",
-      "summary": "The four astronauts who rounded Earth’s natural satellite in April got an extremely rare view of the dark lunar disk blocking out the sun. Researchers say the observations provide ",
-      "date": "2026-08-10T14:11:30Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/CKl9ODCfa6RXJIuXQ9YT1Le0Bxs=/420x240/filters:focal(960x640:961x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/25/62/2562045d-82e2-464d-8843-0e06165e4b09/art002e009301large.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-10T15:06:10Z"
-    },
-    {
-      "title": "The Hiroshima Atomic Bombing Birthed a Strange, Never-Before-Seen Material, According to a New Study",
-      "link": "https://www.smithsonianmag.com/smart-news/the-hiroshima-atomic-bombing-birthed-a-strange-never-before-seen-material-according-to-a-new-study-180989249/",
-      "summary": "The devastating blast vaporized buildings, metal, glass, soil and water. When the substances cooled and condensed, the process created spherical glassy grains—and some of them seem",
-      "date": "2026-08-10T14:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/x8L0XGNoaotMHiglF3cSzlEwBN4=/420x240/filters:focal(900x866:901x867)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f5/de/f5ded64d-f8ed-4aa5-8883-62102ce2729b/sciadvaeg8299-f1.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-10T15:06:10Z"
-    },
-    {
-      "title": "One of the Most Important Cookbooks of the 20th Century Is Celebrating 50 Years. What Made Its French Author So Special in American Kitchens?",
-      "link": "https://www.smithsonianmag.com/smart-news/one-of-the-most-important-cookbooks-of-the-20th-century-celebrates-50-years-what-made-jacques-pepin-so-important-in-the-kitchen-180989297/",
-      "summary": "With instructions and images explaining how to carve vegetables and deconstruct a lamb, \"La Technique\" by Jacques Pépin became a how-to guide and an inspiration for countless cooks",
-      "date": "2026-08-10T13:41:02Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/6vA2XOBLeQQ8OTpqSSkeG-3DH-k=/420x240/filters:focal(960x722:961x723)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c4/de/c4de7283-caef-459a-b505-a8176ffe15ea/fabulous_food_show_-_jacques_pepin_8176949028.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-10T15:06:10Z"
     }
   ]
 }
