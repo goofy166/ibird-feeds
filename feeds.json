@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-18T01:40:36Z",
-  "updated_utc": "2026-08-18T01:40:36Z",
+  "updated": "2026-08-18T03:02:06Z",
+  "updated_utc": "2026-08-18T03:02:06Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Molecular memory: How a mother's age echoes in her offspring's cells",
+      "link": "https://phys.org/news/2026-08-molecular-memory-mother-age-echoes.html",
+      "summary": "In humans and many other animals, a mother's age can affect the physical and behavioral characteristics of the next generation. Scientists call these changes maternal age effects, ",
+      "date": "2026-08-18T02:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-memory-how-a.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-08-18T03:02:02Z"
+    },
     {
       "title": "Billions of invasive round goby are in the Great Lakes. Researchers want to stop them from spreading inland",
       "link": "https://phys.org/news/2026-08-billions-invasive-goby-great-lakes.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-08-10T11:53:17Z"
-    },
-    {
-      "title": "I should be happy to have a pigeon for a friend. But she wouldn’t be my first choice | Emma Beddington",
-      "link": "https://www.theguardian.com/commentisfree/2026/aug/10/i-should-be-happy-to-have-a-pigeon-for-a-friend-but-she-wouldnt-be-my-first-choice",
-      "summary": "Truman Capote had a ‘crow bro’; Dickens had a raven. And I get standoffish Susan, who has never brought me a present or perched on my shoulder One of the greatest failures of my li",
-      "date": "2026-08-10T10:00:42Z",
-      "image": "https://i.guim.co.uk/img/media/b5a8899637712b904cbb05193ee3ede3c505bfcc/241_10_5187_4150/master/5187.jpg?width=140&quality=85&auto=format&fit=max&s=f27e2c8520e6f93fac556b14452316d3",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-10T10:23:41Z"
     }
   ]
 }
