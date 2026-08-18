@@ -1,8 +1,85 @@
 {
-  "updated": "2026-08-18T13:50:38Z",
-  "updated_utc": "2026-08-18T13:50:38Z",
+  "updated": "2026-08-18T14:40:16Z",
+  "updated_utc": "2026-08-18T14:40:16Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How to Identify an American Red Squirrel",
+      "link": "https://www.birdsandblooms.com/gardening/backyard-wildlife/american-red-squirrel/",
+      "summary": "Who's causing a commotion in your yard? It might be an American red squirrel! Learn what these noisy critters eat, where they live, and more. The post How to Identify an American R",
+      "date": "Tue, 18 Aug 2026 14Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/08/GettyImages-113239034-e1786987654652.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-08-18T14:39:55Z"
+    },
+    {
+      "title": "Avoiding These Three Vascular Health Risk Factors in Midlife Can Help You Delay Dementia for About 13 Years, Study Suggests",
+      "link": "https://www.smithsonianmag.com/smart-news/avoiding-these-three-vascular-health-risk-factors-in-midlife-can-help-you-delay-dementia-for-about-13-years-study-suggests-180989354/",
+      "summary": "High blood pressure, diabetes and smoking are three major modifiable risk factors of dementia. New research tracked more than 12,000 participants to quantify how many years of heal",
+      "date": "Tue, 18 Aug 2026 14Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/h-oEdsE0tm8r63Yb_ZpKqMG06P0=/420x240/filters:focal(2926x1951:2927x1952)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c4/7b/c47b94b6-a678-4fb2-be73-f04b3e171819/pexels-shvets-production-8900036.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-18T14:40:08Z"
+    },
+    {
+      "title": "What Spider-Man gets right — and wrong — about turning off superpowers",
+      "link": "https://www.sciencenews.org/article/spider-man-superpower-inhibitor-rna",
+      "summary": "In 'Spider-Man: Brand New Day,' Peter Parker devises a superpower inhibitor based on a real therapy using RNA.",
+      "date": "Tue, 18 Aug 2026 14Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/081726_TS_spiderman_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-08-18T14:40:09Z"
+    },
+    {
+      "title": "Female clones created from the blood of male mice",
+      "link": "https://www.newscientist.com/article/2585076-female-clones-created-from-the-blood-of-male-mice/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "A CRISPR-based tool can perform sex reversal on male mouse embryos, reliably turning them into healthy females – a feat that could be valuable for conservation",
+      "date": "Tue, 18 Aug 2026 14Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308726176.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-18T14:40:10Z"
+    },
+    {
+      "title": "'Snooping' on dolphins offers acoustic clues to hotspots for food and friends",
+      "link": "https://phys.org/news/2026-08-snooping-dolphins-acoustic-clues-hotspots.html",
+      "summary": "For dolphins, the ocean is a world of sound. Their whistles carry social information, helping them communicate and stay connected, while echolocation—rapid-fire clicks—functions li",
+      "date": "2026-08-18T14:40:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/snooping-on-dolphins-o.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-18T14:40:12Z"
+    },
+    {
+      "title": "More than 5,000 little penguins will be vaxxed against bird flu. How will this protect them?",
+      "link": "https://phys.org/news/2026-08-penguins-vaxxed-bird-flu.html",
+      "summary": "A major push is underway to catch and vaccinate more than 5,000 little penguins in Victoria to protect them against the virulent H5N1 bird flu.",
+      "date": "2026-08-18T14:40:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/eudyptula-minor.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-18T14:40:12Z"
+    },
+    {
+      "title": "Tomato roots reveal hidden steps in 400-million-year-old fungal partnership",
+      "link": "https://phys.org/news/2026-08-tomato-roots-reveal-hidden-million.html",
+      "summary": "Scientists at VIB and Ghent University have produced the first high-resolution, cell-by-cell map of how tomato roots respond to colonization by arbuscular mycorrhizal fungi. These ",
+      "date": "2026-08-18T14:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tomato-roots-reveal-hi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-18T14:40:12Z"
+    },
     {
       "title": "Scientists who turned to OnlyFans to fund marmot research receive crypto boost",
       "link": "https://www.theguardian.com/us-news/2026/aug/18/scientists-onlyfans-marmots-crypto",
@@ -5425,83 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-08-10T17:00:00Z"
-    },
-    {
-      "title": "This Box of 300 Love Letters Showed Up Out of the Blue. Who Was the Whimsical World War II Soldier Who Wrote Them?",
-      "link": "https://www.smithsonianmag.com/history/this-box-of-300-love-letters-showed-up-out-of-the-blue-who-was-the-whimsical-world-war-ii-soldier-who-wrote-them-180989300/",
-      "summary": "Nobody knows who dropped Speedy Weber's correspondence at a USO office in 2022. Researchers have finally tracked down two living relatives who remember him",
-      "date": "2026-08-10T15:02:12Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/MDItp981LXPOlrMHWqWse_lsB0c=/420x240/filters:focal(1500x1000:1501x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fe/a4/fea4733a-0d55-495d-8871-35601a376f66/gettyimages-2186736524.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-10T17:00:00Z"
-    },
-    {
-      "title": "Vitamin B12 corrects developmental defects in Verheij syndrome worm model",
-      "link": "https://phys.org/news/2026-08-vitamin-b12-developmental-defects-verheij.html",
-      "summary": "Verheij syndrome is a rare genetic disorder caused by the impairment of splicing, a critical process in RNA processing. Using the model organism Caenorhabditis elegans, researchers",
-      "date": "2026-08-10T16:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unexpected-help-from-v.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-10T17:00:06Z"
-    },
-    {
-      "title": "Veterinarians provide tips in case a pet dog or cat is choking",
-      "link": "https://phys.org/news/2026-08-veterinarians-case-pet-dog-cat.html",
-      "summary": "A favorite toy or treat can become dangerous in an instant if it gets lodged in your pet's airway. Because choking is a terrifying emergency for pets and their owners, Dr. Christin",
-      "date": "2026-08-10T15:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dog-eating.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-10T17:00:06Z"
-    },
-    {
-      "title": "Australia is home to the only mass cuttlefish gathering in the world. This year these giants didn't return",
-      "link": "https://phys.org/news/2026-08-australia-home-mass-cuttlefish-world.html",
-      "summary": "This year's cuttlefish season has been unlike any other. Every winter, more than 100,000 giant Australian cuttlefish can usually be found mating along the rocky coastline of Point ",
-      "date": "2026-08-10T15:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cuttlefish.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-10T17:00:06Z"
-    },
-    {
-      "title": "'They would come in with a chord change': Composer Jim Nollman has collaborated with turkeys, kangaroo rats and whales. Now he's dropping 'Orcas' Greatest Hits.'",
-      "link": "https://www.livescience.com/animals/orcas/they-would-come-in-with-a-chord-change-composer-jim-nollman-has-collaborated-with-turkeys-kangaroo-rats-and-whales-now-hes-dropping-orcas-greatest-hits",
-      "summary": "Staff writer Sascha Pare spoke with musical composer and sound artist Jim Nollman about his new album, \"Orcas' Greatest Hits,\" created with killer-whale bandmates.",
-      "date": "2026-08-10T16:41:47Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/TgBPFzX2rLJSenjtP3nKEa-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-10T17:00:07Z"
-    },
-    {
-      "title": "Baader AstroSolar Filter Film OD 5.0 review",
-      "link": "https://www.livescience.com/products/optics/baader-astrosolar-filter-film-od-5-0-review",
-      "summary": "This ultra-light solar filter film is one of the most versatile and best-quality ways to image the sun.",
-      "date": "2026-08-10T15:24:41Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/CNjtuDzdybj748rmYEZuoJ-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-10T17:00:07Z"
-    },
-    {
-      "title": "Why do dragonflies dig a Mountain View dog park?",
-      "link": "https://www.mercurynews.com/2026/08/10/why-do-dragonflies-dig-a-mountain-view-dog-park/",
-      "summary": "The insects are probably hunting for a variety of smaller, soft-body insects that they feed on.",
-      "date": "2026-08-10T13:30:03Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/SJM-L-JOANCOL-0810-01.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-08-10T15:05:57Z"
     }
   ]
 }
