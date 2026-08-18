@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-18T07:44:20Z",
-  "updated_utc": "2026-08-18T07:44:20Z",
+  "updated": "2026-08-18T08:45:38Z",
+  "updated_utc": "2026-08-18T08:45:38Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Feeding our books into generative AI risks creating a cultural void",
+      "link": "https://www.newscientist.com/article/2584715-feeding-our-books-into-generative-ai-risks-creating-a-cultural-void/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "When we put our literature, games and films into AI models, we risk replacing our cultural history with a mishmash of auto-generated works. We desperately need to preserve human wr",
+      "date": "Tue, 18 Aug 2026 08Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI308065486.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-18T08:45:32Z"
+    },
     {
       "title": "Physicists may have solved a 30-year mystery over missing neutrinos",
       "link": "https://www.newscientist.com/article/2584689-physicists-may-have-solved-a-30-year-mystery-over-missing-neutrinos/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-08-10T11:53:13Z"
-    },
-    {
-      "title": "Traditional cattle herds' diversity hit by selective breeding",
-      "link": "https://phys.org/news/2026-08-traditional-cattle-herds-diversity.html",
-      "summary": "Decades of selective breeding and intensive agricultural practices have reshaped cattle genetics—often at the expense of valuable diversity preserved in traditional herds—according",
-      "date": "2026-08-10T11:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/traditional-cattle-her.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-10T11:53:16Z"
     }
   ]
 }
