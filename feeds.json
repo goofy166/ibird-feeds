@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-18T19:32:31Z",
-  "updated_utc": "2026-08-18T19:32:31Z",
+  "updated": "2026-08-18T20:31:44Z",
+  "updated_utc": "2026-08-18T20:31:44Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Secrets of a mystery mammal from Patagonia revealed at last",
+      "link": "https://phys.org/news/2026-08-secrets-mystery-mammal-patagonia-revealed.html",
+      "summary": "Eight years of painstaking research on the virtually unknown Wolffsohn's viscacha have helped to shine the spotlight on this super-rare South American rodent and catalyze the conse",
+      "date": "2026-08-18T20:20:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/secrets-of-a-mystery-m-3.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-18T20:31:40Z"
+    },
+    {
+      "title": "Genome-folding complex reveals a mechanism that helps establish neuron identity",
+      "link": "https://phys.org/news/2026-08-genome-complex-reveals-mechanism-neuron.html",
+      "summary": "A functional nervous system depends on the cooperation of many kinds of cells. As developing organisms build their nervous systems, their neurons must take on different forms and f",
+      "date": "2026-08-18T19:40:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dna-shaping-cohesin-di-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-18T20:31:40Z"
+    },
     {
       "title": "Beloved Bald Eagle ‘Jackie’ Dies After Weeks In Intensive Care",
       "link": "https://www.birdsandblooms.com/birding/birding-basics/bald-eagle-jackie-dies/",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-08-11T10:56:21Z"
-    },
-    {
-      "title": "The proton is more quantum than we thought",
-      "link": "https://www.newscientist.com/article/2583917-the-proton-is-more-quantum-than-we-thought/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Our understanding of the internal structure of protons is largely based on classical physics, but data compiled from accelerator experiments has uncovered quantum behaviour that ha",
-      "date": "Tue, 11 Aug 2026 10Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307888887.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-11T10:56:25Z"
-    },
-    {
-      "title": "Who are the secret gardeners of a parasitic plant?",
-      "link": "https://phys.org/news/2026-08-secret-gardeners-parasitic.html",
-      "summary": "In the coastal forests of a tropical Japanese island near Okinawa grows an inconspicuous plant that is easy to mistake for a mushroom. It is a non-green parasite that feeds on the ",
-      "date": "2026-08-11T10:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/who-are-the-secret-gar-3.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-11T10:56:27Z"
     }
   ]
 }
