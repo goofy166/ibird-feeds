@@ -1,8 +1,85 @@
 {
-  "updated": "2026-08-18T17:33:55Z",
-  "updated_utc": "2026-08-18T17:33:55Z",
+  "updated": "2026-08-18T18:48:37Z",
+  "updated_utc": "2026-08-18T18:48:37Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Why Gen Z Is Learning to Paint Like 19th-Century Artists",
+      "link": "https://www.smithsonianmag.com/innovation/why-gen-z-is-learning-to-paint-like-19th-century-artists-180989359/",
+      "summary": "Paint groups are popping up in parks. Art schools are seeing a surge in applications. The rise of A.I. has people turning to more traditional art forms",
+      "date": "Tue, 18 Aug 2026 18Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/zPXz5tchvC5suBuyGXC42U8VxMM=/420x240/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8d/f7/8df74aee-1c67-4165-bf66-4a544d11500c/ambient_art_london_en_plein_air_painting.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-18T18:48:28Z"
+    },
+    {
+      "title": "Building real-time control for engineered biological systems",
+      "link": "https://phys.org/news/2026-08-real-biological.html",
+      "summary": "Scientists can engineer living cells to perform useful tasks, from producing medicines and sustainable chemicals to detecting disease. Unlike traditional engineered systems, living",
+      "date": "2026-08-18T18:40:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/building-real-time-con.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-18T18:48:33Z"
+    },
+    {
+      "title": "Lost 'botanical hotspot' identified at University of York campus",
+      "link": "https://phys.org/news/2026-08-lost-botanical-hotspot-university-york.html",
+      "summary": "One of the special plants once found at Heslington Fields, the marsh helleborine orchid. The grounds, now occupied by the University of York's Campus East and parts of Campus West,",
+      "date": "2026-08-18T18:40:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lost-botanical-hotspot.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-18T18:48:33Z"
+    },
+    {
+      "title": "From the coasts to the plains, bird flu could threaten not just birds—but their homes",
+      "link": "https://phys.org/news/2026-08-coasts-plains-bird-flu-threaten.html",
+      "summary": "Yesterday, I woke to a cold, damp Canberra morning—and silence. The trees around my home were empty of feathered silhouettes. Even the usual bright-eyed, warble-voiced magpies were",
+      "date": "2026-08-18T18:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spinebill.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-18T18:48:33Z"
+    },
+    {
+      "title": "AI and 8 million digitized plant specimens reveal how the climate is changing nature in large parts of the world",
+      "link": "https://phys.org/news/2026-08-ai-million-digitized-specimens-reveal.html",
+      "summary": "AI optimists will be encouraged by a recent report on the state of the world's plants and fungi by the Royal Botanic Gardens, Kew.",
+      "date": "2026-08-18T18:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/can-artificial-intelli-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-18T18:48:33Z"
+    },
+    {
+      "title": "Cells remodel actin normally without coronins, challenging textbook view",
+      "link": "https://phys.org/news/2026-08-cells-remodel-actin-coronins-textbook.html",
+      "summary": "Coronins are found throughout the animal kingdom, from single-celled amoebae to humans, and are involved in many vital processes, including immunity, development and cell survival.",
+      "date": "2026-08-18T18:00:10Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-challenges-a-lon.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-18T18:48:33Z"
+    },
+    {
+      "title": "Australian beekeepers can't tackle Varroa mite alone. Here's how we can help",
+      "link": "https://phys.org/news/2026-08-australian-beekeepers-tackle-varroa-mite.html",
+      "summary": "For decades, Australia was the last inhabited continent free of the bee-killing Varroa mite (Varroa destructor).",
+      "date": "2026-08-18T18:00:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/varroa-mite.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-18T18:48:33Z"
+    },
     {
       "title": "You’re Probably Saying This Common Bird’s Name Wrong",
       "link": "https://www.birdsandblooms.com/birding/bird-species/ducks-and-geese/gull-vs-seagull/",
@@ -5425,83 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-08-10T23:41:18Z"
-    },
-    {
-      "title": "Machine learning predicts forest soil fungal diversity from drone images",
-      "link": "https://phys.org/news/2026-08-machine-forest-soil-fungal-diversity.html",
-      "summary": "Combining drone data and machine learning can help cover more ground in monitoring forest soil health, University of Alberta research shows. The findings are published in the journ",
-      "date": "2026-08-10T23:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/drones-and-machine-lea.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-10T23:41:24Z"
-    },
-    {
-      "title": "Oak leaves harbor distinct microbial worlds on their opposite surfaces",
-      "link": "https://phys.org/news/2026-08-oak-harbor-distinct-microbial-worlds.html",
-      "summary": "A single leaf may look like a simple patch of green, but to the microscopic life that inhabits it, it is a vast landscape divided into different worlds.",
-      "date": "2026-08-10T23:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oak-leaves-harbor-dist.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-10T23:41:24Z"
-    },
-    {
-      "title": "Big Bear bald eagles’ habitat saved; $10 million goal to buy land has been met",
-      "link": "https://www.mercurynews.com/2026/07/24/habitat-of-big-bears-famed-eagles-to-be-saved-after-fundraiser-achieves-10-million-goal-to-buy-land/",
-      "summary": "Friends of Big Bear Valley announced the news on its website and social media pages Friday morning.",
-      "date": "2026-07-24T17:47:56Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/SBS-L-MOONCAMP-0724-01-PB-1.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-08-10T22:46:13Z"
-    },
-    {
-      "title": "Off the Coast of Sicily, Divers Discovered a Roman-Era Shipwreck With Hundreds of Amphorae, Ancient Jars Frequently Used to Hold Wine",
-      "link": "https://www.smithsonianmag.com/smart-news/off-the-coast-of-sicily-divers-discovered-a-roman-era-shipwreck-with-hundreds-of-amphorae-ancient-jars-frequently-used-to-hold-wine-180989307/",
-      "summary": "The site could offer fresh insights into Mediterranean trade routes more than 2,000 years ago",
-      "date": "2026-08-10T21:53:11Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/IxP2wRauAZ5ZE2ulVgVK1HJfodw=/420x240/filters:focal(960x594:961x595)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/30/57/30579555-8228-49cb-9c4a-3f48317255e5/amphorae_wall.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-10T22:46:16Z"
-    },
-    {
-      "title": "DNA repair enzymes favor specific sequences, shaping mutation patterns in the human genome",
-      "link": "https://phys.org/news/2026-08-dna-enzymes-favor-specific-sequences.html",
-      "summary": "When a wound does not heal properly, it leaves a scar. Similarly, mutations—which are permanent changes to genetic code—are often the result of damaged DNA that has not been proper",
-      "date": "2026-08-10T22:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-dna-repair-crew-ha-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-10T22:46:21Z"
-    },
-    {
-      "title": "Beloved Bald Eagle ‘Jackie’ Dies After Weeks In Intensive Care",
-      "link": "https://www.birdsandblooms.com/birding/birding-basics/bald-eagle-jackie-dies/",
-      "summary": "Following testing and treatment for severe anemia, Jackie — half of the 'Jackie and Shadow' bald eagle pair — has died. The post Beloved Bald Eagle ‘Jackie’ Dies After Weeks In Int",
-      "date": "2026-08-10T20:56:16Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/08/Screenshot-2026-08-10-at-3.54.15-PM.png?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-08-10T21:49:49Z"
-    },
-    {
-      "title": "Opinion: America’s wildlife refuges may no longer protect the animals",
-      "link": "https://www.mercurynews.com/2026/08/01/commentary-americas-wildlife-refuges-may-no-longer-protect-the-animals-2/",
-      "summary": "A proposed government expansion threatens to transform protected sanctuaries into arenas for blood sport.",
-      "date": "2026-08-01T09:45:19Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/202607260415MCT_____PHOTO____OPED-ENV-WILDLIFE-REFUGES-COMMENTARY-FILEPIC-LA_6845c3.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-08-10T21:49:55Z"
     }
   ]
 }
