@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-18T21:30:20Z",
-  "updated_utc": "2026-08-18T21:30:20Z",
+  "updated": "2026-08-18T22:30:50Z",
+  "updated_utc": "2026-08-18T22:30:50Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Rethinking how we name and classify our human ancestors following recent evolutionary discoveries",
+      "link": "https://phys.org/news/2026-08-rethinking-human-ancestors-evolutionary-discoveries.html",
+      "summary": "Recent advances in our understanding of human evolution challenge the way we currently name and classify our ancestors, according to new research from Monash University. The study,",
+      "date": "2026-08-18T22:30:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rethinking-how-we-name.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-18T22:30:46Z"
+    },
+    {
+      "title": "Existing drug could treat invasive canine oral tumors",
+      "link": "https://phys.org/news/2026-08-drug-invasive-canine-oral-tumors.html",
+      "summary": "A benign but invasive canine oral cancer is often mistaken for a similar malignant one, leading to misdiagnoses in close to a third of cases. But a new diagnostic tool can now dist",
+      "date": "2026-08-18T21:40:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/existing-drug-could-tr.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-18T22:30:46Z"
+    },
     {
       "title": "Birds Not Coming to Your Feeder? Here’s What to Do",
       "link": "https://www.birdsandblooms.com/birding/attracting-birds/feeding-birds/birds-not-coming-feeder/",
@@ -5480,28 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-08-11T11:51:10Z"
-    },
-    {
-      "title": "‘Living fossil’: the blue-blood arthropod that has changed little in 445m years",
-      "link": "https://www.theguardian.com/environment/2026/aug/11/horseshoe-crab-invertebrate-of-the-year-2026",
-      "summary": "Tenacious and confounding, the horseshoe crab pre-dates dinosaurs and has copper-based blood vital to vaccine safety They pre-date dinosaurs, eat food using their legs and contain ",
-      "date": "2026-08-11T11:00:02Z",
-      "image": "https://i.guim.co.uk/img/media/42d687c1ff7bf9318b33a5eca69b2d439722e9fe/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f42cd25073ded7ae47c94577fa84c385",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-11T11:51:15Z"
-    },
-    {
-      "title": "15 Editor Favorites From Patagonia’s Huge Summer Sale",
-      "link": "https://www.outsideonline.com/outdoor-gear/gear-news/patagonia-summer-sale-2026/",
-      "summary": "Patagonia’s huge summer sale is going down now, and you can save 40% off hundreds of products, from sun shirts and shells to packs and provisions. The post 15 Editor Favorites From",
-      "date": "Tue, 11 Aug 2026 11Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/OOL-Deal-Tile-C-2400x1350-3.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-11T11:51:22Z"
     }
   ]
 }
