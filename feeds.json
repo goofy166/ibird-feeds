@@ -1,8 +1,85 @@
 {
-  "updated": "2026-08-18T20:31:44Z",
-  "updated_utc": "2026-08-18T20:31:44Z",
+  "updated": "2026-08-18T21:30:20Z",
+  "updated_utc": "2026-08-18T21:30:20Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Birds Not Coming to Your Feeder? Here’s What to Do",
+      "link": "https://www.birdsandblooms.com/birding/attracting-birds/feeding-birds/birds-not-coming-feeder/",
+      "summary": "Don't panic if it seems like birds are not coming to your bird feeders. See what the experts say you should do to welcome a backyard flock. The post Birds Not Coming to Your Feeder",
+      "date": "Tue, 18 Aug 2026 20Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/08/355025229_1_Lois_Schmidt_BNB_PC_2023.jpg?fit=700,1024",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-08-18T21:29:59Z"
+    },
+    {
+      "title": "I Tried Aescape’s AI Robot Massage. My Knees and Back Feel Better After Just One Session.",
+      "link": "https://www.outsideonline.com/health/wellness/aescape-ai-robot-massage-runners/",
+      "summary": "I tried Aescape, an AI-powered massage, to see if it could ease post-run knee and back pain. Here’s what the futuristic treatment felt like. The post I Tried Aescape’s AI Robot Mas",
+      "date": "Tue, 18 Aug 2026 20Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/aescape-robot-massage-featured.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-18T21:30:09Z"
+    },
+    {
+      "title": "Do Monkeys Keep Pets? Study Finds Widespread Primate Interactions With Other Animal Species, From Mice to Deer",
+      "link": "https://www.smithsonianmag.com/smart-news/do-monkeys-keep-pets-study-finds-widespread-primate-interactions-with-other-animal-species-from-mice-to-deer-180989356/",
+      "summary": "This social behavior might reveal the evolutionary roots of traits that underlie pet-keeping in humans, scientists say, from caregiving to tolerance and curiosity. But it's not the",
+      "date": "Tue, 18 Aug 2026 20Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/YpPHUykMsYdM8jsaxOuoaNYgT3A=/420x240/filters:focal(864x683:865x684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/96/29/96293c84-c9d0-4e95-937e-0c025c80d88e/screenshot_2026-08-17_at_34552pm.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-18T21:30:11Z"
+    },
+    {
+      "title": "How can AI help identify pain when animals can't tell us they're suffering?",
+      "link": "https://phys.org/news/2026-08-ai-pain-animals-theyre.html",
+      "summary": "A new AI framework, known as SHIC-XE, has been developed to detect signs of pain in horses from video analysis while providing stable, anatomically consistent explanations for its ",
+      "date": "2026-08-18T21:30:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-can-ai-help-identi-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-18T21:30:16Z"
+    },
+    {
+      "title": "Hidden losses of amphibians and dragonflies in Berlin's municipal water supply",
+      "link": "https://phys.org/news/2026-08-hidden-losses-amphibians-dragonflies-berlin.html",
+      "summary": "A new study led by researchers at the Museum für Naturkunde Berlin shows that Berlin's dragonfly populations have declined by more than half since 1963, while populations of frogs,",
+      "date": "2026-08-18T21:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/berlin.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-18T21:30:16Z"
+    },
+    {
+      "title": "Body found at bottom of Scottish well may be from rare ritual burial performed centuries ago",
+      "link": "https://www.livescience.com/archaeology/body-found-at-bottom-of-scottish-well-may-be-from-rare-ritual-burial-performed-centuries-ago",
+      "summary": "An Iron Age grave has been discovered in the Scottish Highlands. The person was buried within what may have been a ritual well.",
+      "date": "Tue, 18 Aug 2026 21Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/rVHE3h7o4qiZXXKk4K8iH-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-18T21:30:17Z"
+    },
+    {
+      "title": "Peptides are the latest wellness fad. What are they, and are they safe?",
+      "link": "https://www.livescience.com/health/medicine-drugs/peptides-are-the-latest-wellness-fad-what-are-they-and-are-they-safe",
+      "summary": "An FDA advisory panel has recommended making six unapproved peptides more accessible through compounding pharmacies — but scientists warn that easier access does not mean these exp",
+      "date": "Tue, 18 Aug 2026 21Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/QoH8gsoPjRgnU5KPeDstdU-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-18T21:30:17Z"
+    },
     {
       "title": "Secrets of a mystery mammal from Patagonia revealed at last",
       "link": "https://phys.org/news/2026-08-secrets-mystery-mammal-patagonia-revealed.html",
@@ -5425,83 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-08-11T11:51:22Z"
-    },
-    {
-      "title": "Denisovans may have dwarfed other ancient humans",
-      "link": "https://www.newscientist.com/article/2584088-denisovans-may-have-dwarfed-other-ancient-humans/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Two leg bones found on the seabed near Taiwan have been identified as Denisovans, and their size suggests these hominins stood up to 190 centimetres tall",
-      "date": "Tue, 11 Aug 2026 11Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307915275.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-11T11:51:26Z"
-    },
-    {
-      "title": "Where, when and how to watch the 2026 solar eclipse",
-      "link": "https://www.newscientist.com/article/2531639-where-when-and-how-to-watch-the-2026-solar-eclipse/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "A total solar eclipse is set to be visible across parts of Europe, while a partial eclipse will sweep across about a quarter of the planet – here’s how to catch it",
-      "date": "Tue, 11 Aug 2026 11Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/06/25140600/SEI_3026843711.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-11T11:51:26Z"
-    },
-    {
-      "title": "Fighting pathogens by watching how they read their own DNA: Q&A with structural biologist",
-      "link": "https://phys.org/news/2026-08-pathogens-dna-qa-biologist.html",
-      "summary": "Every living cell, from the simplest bacterium to a human neuron, relies on the same basic machinery to read, interpret, and use its DNA. This molecular machinery is so fundamental",
-      "date": "2026-08-11T11:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fighting-pathogens-by.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-11T11:51:28Z"
-    },
-    {
-      "title": "Who is Singing? A KidLit Bird Book Review",
-      "link": "https://www.10000birds.com/who-is-singing-a-kidlit-bird-book-review.htm?utm_source=rss&utm_medium=rss&utm_campaign=who-is-singing-a-kidlit-bird-book-review",
-      "summary": "For children’s author Janet Halfmann, birds and birdsong has always been a part of her life. Growing up on a farm in Michigan in the US, her family had a wren house atop the clothe",
-      "date": "Tue, 11 Aug 2026 10Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/08/Singing-Cover.png",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-08-11T10:56:09Z"
-    },
-    {
-      "title": "The return of the caspian tiger: how a species feared extinct has come back to Kazakhstan",
-      "link": "https://www.theguardian.com/environment/2026/aug/11/extinction-caspian-tiger-release-female-kazakhstan-aoe",
-      "summary": "The wild capture and release of a female big cat into a nature reserve is the first step towards reintroducing a population that hasn’t been seen for 70 years On 31 July, “Umit” – ",
-      "date": "2026-08-11T10:00:56Z",
-      "image": "https://i.guim.co.uk/img/media/7fafe72e791f1cef8766e3c4cee46890ac54aa69/1_0_3445_2756/master/3445.jpg?width=140&quality=85&auto=format&fit=max&s=93c245d55b0c7f11a87edcbfb40d0071",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-11T10:56:15Z"
-    },
-    {
-      "title": "A Journalist Revisits a Tragic AT Hike in an Excerpt from ‘Up on Cove Mountain’",
-      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/up-on-cove-mountain-appalachian-trail-murders-excerpt/",
-      "summary": "Decades after crossing paths with a young couple weeks before they were killed, journalist Earl Swift returns to the trail to confront the thin, and sometimes random, line between ",
-      "date": "Tue, 11 Aug 2026 09Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/greg-and-molly.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-11T10:56:21Z"
-    },
-    {
-      "title": "Where Did the 3 Sets of 10 Reps Strength Training Rule Come From? And Does It Work?",
-      "link": "https://www.outsideonline.com/health/training-performance/does-3-sets-10-reps-build-strength/",
-      "summary": "Three sets of ten reps became a gym staple in the 1950s. But is it the best way to build strength? Exercise physiologists weigh in. The post Where Did the 3 Sets of 10 Reps Strengt",
-      "date": "Tue, 11 Aug 2026 09Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/3-sets-10-reps-featured-image.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-11T10:56:21Z"
     }
   ]
 }
