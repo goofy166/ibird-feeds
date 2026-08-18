@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-17T23:29:10Z",
-  "updated_utc": "2026-08-17T23:29:10Z",
+  "updated": "2026-08-18T01:40:36Z",
+  "updated_utc": "2026-08-18T01:40:36Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Billions of invasive round goby are in the Great Lakes. Researchers want to stop them from spreading inland",
+      "link": "https://phys.org/news/2026-08-billions-invasive-goby-great-lakes.html",
+      "summary": "For decades, the round goby has been one of the Great Lakes' most destructive invasive species. Scientists estimate its population numbers in the billions, making eradication unrea",
+      "date": "2026-08-18T01:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/billions-of-invasive-r.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-18T01:40:32Z"
+    },
+    {
+      "title": "Immune cells have a 'sense of touch,' scientists discover",
+      "link": "https://phys.org/news/2026-08-immune-cells-scientists.html",
+      "summary": "Scientists have long believed that tissue-resident memory T cells—which remain in tissues after an infection has cleared and respond rapidly if the threat returns—are shaped primar",
+      "date": "2026-08-18T00:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/t-cell.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-18T01:40:32Z"
+    },
+    {
+      "title": "Molecular electromagnetic sensor may enable remote-controlled gene therapy",
+      "link": "https://phys.org/news/2026-08-molecular-electromagnetic-sensor-enable-remote.html",
+      "summary": "The deoxyribonucleic acid (DNA) of living organisms contains regulatory elements that control when, where and to what extent specific genes are turned on or off. They can be co-opt",
+      "date": "2026-08-17T23:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-in-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-18T01:40:32Z"
+    },
     {
       "title": "Male Neanderthal pelvises resemble those of modern females, challenging decades-old assumptions",
       "link": "https://phys.org/news/2026-08-male-neanderthal-pelvises-resemble-modern.html",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-08-10T10:23:41Z"
-    },
-    {
-      "title": "August 12 Will Be the Year’s Greatest Stargazing Day. Here’s Everything You Need to Know.",
-      "link": "https://www.outsideonline.com/adventure-travel/advice/perseid-meteor-shower-2026-how-to-watch/",
-      "summary": "If there’s one night of 2026 to watch the sky, it’s this one. The post August 12 Will Be the Year’s Greatest Stargazing Day. Here’s Everything You Need to Know. appeared first on O",
-      "date": "2026-08-10T09:37:23Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/07/perseid.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-10T10:23:48Z"
-    },
-    {
-      "title": "Berlin gold hat: A 3,000-year-old ceremonial headdress that a cult used to track the sun, moon and lunar eclipses",
-      "link": "https://www.livescience.com/archaeology/berlin-gold-hat-a-3-000-year-old-ceremonial-headdress-that-a-cult-used-to-track-the-sun-moon-and-lunar-eclipses",
-      "summary": "The pointy gold hat reveals evidence of a Bronze Age sun cult whose leader could predict eclipses.",
-      "date": "2026-08-10T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ChqS9Pme33AQM94W2KA2yZ-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-10T10:23:55Z"
-    },
-    {
-      "title": "Country diary: The thin, hungry fox goes for the sleeping hen | Nic Wilson",
-      "link": "https://www.theguardian.com/environment/2026/aug/10/country-diary-the-thin-hungry-fox-goes-for-the-sleeping-hen",
-      "summary": "Hitchin, Hertfordshire : A rare daytime attack on our chickens led to a standoff. But I could see this animal was suffering in the heatwave High-pitched shrieking shattered the mid",
-      "date": "2026-08-10T04:30:34Z",
-      "image": "https://i.guim.co.uk/img/media/8e90bc125e46942361858d0dcde7675ae5b3595e/0_265_1537_1229/master/1537.jpg?width=140&quality=85&auto=format&fit=max&s=768d8e33bc284bc10e21d21b393bd83a",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-10T04:45:01Z"
     }
   ]
 }
