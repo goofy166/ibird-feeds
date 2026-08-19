@@ -1,8 +1,85 @@
 {
-  "updated": "2026-08-19T21:31:52Z",
-  "updated_utc": "2026-08-19T21:31:52Z",
+  "updated": "2026-08-19T22:31:24Z",
+  "updated_utc": "2026-08-19T22:31:24Z",
   "count": 500,
   "stories": [
+    {
+      "title": "LISTEN: Are Americans Ready for Stadium-Sized Health Spas?",
+      "link": "https://www.outsideonline.com/health/wellness/therme-podcast/",
+      "summary": "In the latest Long Read on the Outside Podcast, Europe’s wellness giant is building Roman Bath-inspired health centers across the globe. Will its stadium-sized spas be a hit in the",
+      "date": "2026-08-19T22:13:13Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/06/Therme-Rooftop-View.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-19T22:31:14Z"
+    },
+    {
+      "title": "As Lake Mead Hits a Historic Low, Beachgoers Make a Grisly Discovery",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/lake-mead-human-remains/",
+      "summary": "Visitors at Lake Mead recently found human bones on a dry beach. The reservoir recently hit its lowest water level on record. The post As Lake Mead Hits a Historic Low, Beachgoers ",
+      "date": "2026-08-19T21:45:17Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/Mead2.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-19T22:31:14Z"
+    },
+    {
+      "title": "Too much RNA can starve cells of energy, study finds",
+      "link": "https://phys.org/news/2026-08-rna-starve-cells-energy.html",
+      "summary": "A new study from researchers at the Texas A&M College of Veterinary Medicine and Biomedical Sciences (VMBS) has uncovered a previously unknown consequence of viral infection: Too m",
+      "date": "2026-08-19T22:30:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/too-much-rna-can-starv.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T22:31:21Z"
+    },
+    {
+      "title": "'Ecology of fear' can dramatically change the behavior of blue mussels",
+      "link": "https://phys.org/news/2026-08-ecology-behavior-blue-mussels.html",
+      "summary": "For a blue mussel, a good meal does not come entirely without risk. Blue mussels feed by filtering microscopic algae from seawater. But some unwelcome guests can slip in along with",
+      "date": "2026-08-19T22:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mussels-get-scared-too.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T22:31:21Z"
+    },
+    {
+      "title": "Why apples react differently to climate change than wheat",
+      "link": "https://phys.org/news/2026-08-apples-react-differently-climate-wheat.html",
+      "summary": "Although climate change is already having a negative impact on crops, declines in yields have so far been offset by technological advances in agriculture. For field crops that do n",
+      "date": "2026-08-19T22:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/apples.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T22:31:21Z"
+    },
+    {
+      "title": "'Disarming' discovery could help scientists fight deadly fungal infections",
+      "link": "https://phys.org/news/2026-08-discovery-scientists-deadly-fungal-infections.html",
+      "summary": "Researchers from Monash University, in collaboration with the University of Warwick, have discovered how the bacterial antibiotic \"gladiolin\" can disarm Candida albicans, one of th",
+      "date": "2026-08-19T22:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/disarming-discovery-co-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T22:31:21Z"
+    },
+    {
+      "title": "Were Denisovans tall compared to other ancient humans? We should be skeptical",
+      "link": "https://phys.org/news/2026-08-denisovans-tall-ancient-humans-skeptical.html",
+      "summary": "Take a walk in London's Trafalgar Square this summer, and people of all body sizes—some tall, some short—will be wilting in the heat: a real mix of sizes.",
+      "date": "2026-08-19T21:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/were-denisovans-tall-c.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T22:31:21Z"
+    },
     {
       "title": "Crocus Named 2026 Bulb of the Year",
       "link": "https://www.birdsandblooms.com/gardening/flower-gardening/bulb-of-the-year/",
@@ -5425,83 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-08-12T15:04:11Z"
-    },
-    {
-      "title": "Pumas Might Be Making Your Drive Home Safer. When the Predators Are Around, Deer Tend to Avoid Roads, Preventing Some Collisions",
-      "link": "https://www.smithsonianmag.com/smart-news/pumas-might-be-making-your-drive-home-safer-when-the-predators-are-around-deer-tend-to-avoid-roads-preventing-some-collisions-180989314/",
-      "summary": "In Washington’s Olympic Peninsula, the wild cats’ presence corresponded with a 67 percent drop in the likelihood of a deer-vehicle crash and a 76 percent overall decline in the num",
-      "date": "2026-08-12T14:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/jPMPyOHtw1rxeI78_HUeat6PnBs=/420x240/filters:focal(2000x1352:2001x1353)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/35/a1/35a1806d-e51e-423c-90d6-74bc5d1f676d/nmg0497-edit.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-12T15:04:14Z"
-    },
-    {
-      "title": "Too many choices complicate female frogs’ sex lives",
-      "link": "https://www.sciencenews.org/article/choices-female-frogs-sex-mating-calls",
-      "summary": "In the lab, female frogs were less likely to choose preferred males as mating calls increased, potentially giving other males a better shot.",
-      "date": "2026-08-12T15:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/081226_FK_frogs_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-08-12T15:04:15Z"
-    },
-    {
-      "title": "Mission to save NASA telescope back on track after loss of control",
-      "link": "https://www.newscientist.com/article/2584337-mission-to-save-nasa-telescope-back-on-track-after-loss-of-control/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Katalyst’s LINK spacecraft might still be able to save NASA’s ailing Swift telescope from doom, despite a significant mishap",
-      "date": "2026-08-12T14:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308053073.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-12T15:04:17Z"
-    },
-    {
-      "title": "How drought is reshaping the spread of infectious diseases",
-      "link": "https://phys.org/news/2026-08-drought-reshaping-infectious-diseases.html",
-      "summary": "From the American West to Europe, droughts are drying up rivers, fueling destructive fires and reshaping ecosystems. They are also changing the spread of infectious diseases, leadi",
-      "date": "2026-08-12T15:00:11Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/drought-is-reshaping-t.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-12T15:04:19Z"
-    },
-    {
-      "title": "Tropical trees show unexpected drought adaptability across Puerto Rico's rainfall extremes",
-      "link": "https://phys.org/news/2026-08-tropical-trees-unexpected-drought-puerto.html",
-      "summary": "Tropical forests store enormous amounts of carbon and harbor most of the world's terrestrial biodiversity, but scientists fear that increasingly severe droughts threaten their abil",
-      "date": "2026-08-12T15:00:10Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tropical-trees-show-un.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-12T15:04:19Z"
-    },
-    {
-      "title": "When male suitors abound, female treefrogs have trouble picking mates",
-      "link": "https://phys.org/news/2026-08-male-suitors-abound-female-treefrogs.html",
-      "summary": "Much like an indecisive single person on a dating app, female treefrogs struggle to pick the most desirable mates when they have too many options to choose from. According to a new",
-      "date": "2026-08-12T15:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-male-suitors-abou.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-12T15:04:19Z"
-    },
-    {
-      "title": "Unfamiliar with rattlesnakes, blackbirds still avoid striking them while defending nests",
-      "link": "https://phys.org/news/2026-08-unfamiliar-rattlesnakes-blackbirds-defending.html",
-      "summary": "In a rare study of snakes as nest predators, scientists found nesting birds were loath to strike rattlesnakes even though they likely had no previous experience with vipers.",
-      "date": "2026-08-12T14:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unfamiliar-with-rattle-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-12T15:04:19Z"
     }
   ]
 }
