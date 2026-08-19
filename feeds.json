@@ -1,8 +1,74 @@
 {
-  "updated": "2026-08-19T13:52:19Z",
-  "updated_utc": "2026-08-19T13:52:19Z",
+  "updated": "2026-08-19T14:40:29Z",
+  "updated_utc": "2026-08-19T14:40:29Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Robot looks for great white sharks near California beaches",
+      "link": "https://www.mercurynews.com/2026/08/03/california-scientists-build-surveillance-robot-to-look-for-great-white-sharks/",
+      "summary": "The 10-foot long device is packed with high-tech cameras and other gear.",
+      "date": "2026-08-03T11:30:41Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/Shark-surveillance-robot-CSULB-July-2026.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-08-19T14:40:18Z"
+    },
+    {
+      "title": "Homebuilders in Solano County petition state to drop endangered species protection for hawk",
+      "link": "https://www.mercurynews.com/2026/08/01/solano-co-homebuilders-petition-state-to-drop-endangered-species-protection-for-hawk/",
+      "summary": "The Swainson’s hawk nests in Solano County and the Central Valley from March through September.",
+      "date": "2026-08-01T16:34:11Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2022/05/SJM-L-PARK-0513-7.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-08-19T14:40:18Z"
+    },
+    {
+      "title": "Brazil's First Urban Yellow Fever Outbreak in Nearly a Century May Have Been Fueled by a Surprising Culprit",
+      "link": "https://www.smithsonianmag.com/smart-news/brazils-first-urban-yellow-fever-outbreak-in-nearly-a-century-may-have-been-fueled-by-a-surprising-culprit-180989363/",
+      "summary": "Extremely wet conditions are known to help spread mosquito-borne diseases like yellow fever. But based on computer simulations, researchers suspect that a severe drought may have c",
+      "date": "2026-08-19T14:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/hvCxsubjEGhlw5aRI8pJ6D4xgQ0=/420x240/filters:focal(2784x1856:2785x1857)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7e/09/7e096d93-f8c4-40e0-a2a4-2e4d8503e292/yellow-fever.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-19T14:40:21Z"
+    },
+    {
+      "title": "World may warm by 25 per cent more than current projections suggest",
+      "link": "https://www.newscientist.com/article/2585248-world-may-warm-by-25-per-cent-more-than-current-projections-suggest/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "\"Official\" projections for how much the world will warm are already catastrophic, and now it appears they significantly underestimate future warming",
+      "date": "2026-08-19T14:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308748132.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-19T14:40:23Z"
+    },
+    {
+      "title": "Is the laundry still damp, or just cold? Why your skin can't tell the difference",
+      "link": "https://phys.org/news/2026-08-laundry-damp-cold-skin-difference.html",
+      "summary": "It's a cold winter afternoon, and you've just brought the laundry in. Suddenly, you pause. Are these clothes a bit damp?",
+      "date": "2026-08-19T14:20:10Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/drying-laundry-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T14:40:25Z"
+    },
+    {
+      "title": "Concerns about the New World screwworm have put Texas pet adoptions on hold",
+      "link": "https://phys.org/news/2026-08-world-screwworm-texas-pet.html",
+      "summary": "Adoptions are on hold for thousands of dogs and cats in Texas, potentially putting the animals at risk of being euthanized, because of efforts to stop the spread of the New World s",
+      "date": "2026-08-19T14:07:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/concerns-about-the-new.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T14:40:25Z"
+    },
     {
       "title": "You Can Now See One of the Oldest Surviving Copies of 'The Odyssey' at the Metropolitan Museum of Art",
       "link": "https://www.smithsonianmag.com/smart-news/you-can-now-see-one-of-oldest-surviving-copies-of-the-odyssey-at-metropolitan-museum-of-art-180989360/",
@@ -5436,72 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-08-11T19:11:55Z"
-    },
-    {
-      "title": "An 11-Year-Old Boy in a Small Midwestern Town Just Became the Guinness World Record Holder for Being the Youngest Museum Curator",
-      "link": "https://www.smithsonianmag.com/smart-news/an-11-year-old-boy-in-an-illinois-small-town-just-became-the-guinness-world-record-holder-for-being-the-youngest-museum-curator-180989313/",
-      "summary": "Four years after Anderson Taylor began collecting specimens, he opened the Cambridge Natural History Museum in Cambridge, Illinois, offering school tours and attracting visitors fr",
-      "date": "Tue, 11 Aug 2026 17Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/SVz6L9dTVCu5-pj2fjzbsiVWejc=/420x240/filters:focal(2000x1505:2001x1506)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/dd/95/dd95ca98-ff08-46c5-aa8f-a9a9f5ae8f3b/anderson_still_shot_1.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-11T19:11:55Z"
-    },
-    {
-      "title": "Scientists uncover a hidden mechanism that drives RNA synthesis",
-      "link": "https://phys.org/news/2026-08-scientists-uncover-hidden-mechanism-rna.html",
-      "summary": "Scientists have long been fascinated by two promising classes of antibiotics that disable RNA polymerase (RNAP). They knew that these drugs could grind gene expression to a halt in",
-      "date": "2026-08-11T18:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-uncover-a-h.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-11T19:12:00Z"
-    },
-    {
-      "title": "Neanderthals passed on a gene that helps modern humans pack on more muscle — but only a few people have it",
-      "link": "https://www.livescience.com/archaeology/neanderthals/neanderthals-passed-on-a-gene-that-helps-modern-humans-pack-on-more-muscle-but-only-a-few-people-have-it",
-      "summary": "Neanderthals passed along a gene variant to modern humans that can make some people buff, a new study finds.",
-      "date": "Tue, 11 Aug 2026 19Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/wyjLCFJmgMZ7od6dvUZHPd-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-11T19:12:01Z"
-    },
-    {
-      "title": "New AI chip mimics the human brain's capacity for split-second motor control — it solved problems using 10,000 times fewer calculations",
-      "link": "https://www.livescience.com/technology/electronics/new-ai-chip-mimics-the-human-brains-capacity-for-split-second-motor-control-it-solved-problems-using-10-000-times-fewer-calculations",
-      "summary": "A new brain-inspired device is designed to kick AI systems into gear only when they detect something unusual. Could it reduce dependence on power-guzzling data centers?",
-      "date": "Tue, 11 Aug 2026 18Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Q4rT8bEMhs2NS232EpvYBC-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-11T19:12:01Z"
-    },
-    {
-      "title": "What the US could learn from Japan's incentive for responsible antibiotic use",
-      "link": "https://www.livescience.com/health/medicine-drugs/what-the-us-could-learn-from-japans-incentive-for-responsible-antibiotic-use",
-      "summary": "The Japanese government incentivizes doctors to avoid prescribing antibiotics for certain ailments, but would the same approach work in the U.S.?",
-      "date": "Tue, 11 Aug 2026 17Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/2HKfRqYdww5VkhaVg6f3jU-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-11T19:12:01Z"
-    },
-    {
-      "title": "As heatwaves hit Britain, spare a thought for farm animals | Letters",
-      "link": "https://www.theguardian.com/environment/2026/aug/11/as-heatwaves-hit-britain-spare-a-thought-for-farm-animals",
-      "summary": "Claire Bass says animal welfare is a blind spot for the government. Plus, Chris Phillipson on the libraries operating as ‘cool spaces’, Mick Beeby on lido restoration, and Dr Julia",
-      "date": "2026-08-11T16:57:16Z",
-      "image": "https://i.guim.co.uk/img/media/67e7c0f14a9dbcdc9b33aabf30c03b2af1167473/0_0_2983_2387/master/2983.jpg?width=140&quality=85&auto=format&fit=max&s=e33968a2be1a52a71881e85822b31e2d",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-11T17:03:45Z"
     }
   ]
 }
