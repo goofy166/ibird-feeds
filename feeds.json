@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-19T01:42:53Z",
-  "updated_utc": "2026-08-19T01:42:53Z",
+  "updated": "2026-08-19T03:04:15Z",
+  "updated_utc": "2026-08-19T03:04:15Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Biological sex is neither binary nor a spectrum—a biologist explains how it's multidimensional",
+      "link": "https://phys.org/news/2026-08-biological-sex-binary-spectrum-biologist.html",
+      "summary": "Many people recognize that gender—how a person identifies, presents themselves and is perceived—has nuances. Some people identify and present as women, others as men, and still oth",
+      "date": "2026-08-19T02:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/intersex.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T03:04:11Z"
+    },
     {
       "title": "Some bacteria build internal 'power cables' to extend respiration beyond the cell membrane",
       "link": "https://phys.org/news/2026-08-bacteria-internal-power-cables-respiration.html",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-08-11T13:20:49Z"
-    },
-    {
-      "title": "Could Psilocybin Help Treat Anorexia? A Small Clinical Trial Suggests the Psychedelic May Make Patients More Open to Recovery",
-      "link": "https://www.smithsonianmag.com/science-nature/could-psilocybin-help-treat-anorexia-a-small-clinical-trial-suggests-the-psychedelic-may-make-patients-more-open-to-recovery-180989261/",
-      "summary": "The drug, paired with intensive psychological support, may loosen the rigid patterns of thought associated with the eating disorder, scientists say—but they caution that it is not ",
-      "date": "Tue, 11 Aug 2026 12Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/n7Z57RpgUeJizeWEuc-ADIqrt6c=/420x240/filters:focal(1408x912:1409x913)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/03/9d/039dfbc7-b058-4b71-876d-a8baec6035af/psilocybe_pelliculosa_122504.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-11T13:20:57Z"
     }
   ]
 }
