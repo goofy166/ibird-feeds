@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-19T22:31:24Z",
-  "updated_utc": "2026-08-19T22:31:24Z",
+  "updated": "2026-08-19T23:28:52Z",
+  "updated_utc": "2026-08-19T23:28:52Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Kyoto's gardens provide habitats for local amphibians",
+      "link": "https://phys.org/news/2026-08-kyoto-gardens-habitats-local-amphibians.html",
+      "summary": "Where they could once hop and amble freely, urbanization is diminishing amphibians' habitats. Yet small-scale water bodies managed by people—such as those found in the gardens of J",
+      "date": "2026-08-19T23:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kyotos-gardens-provide.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T23:28:49Z"
+    },
+    {
+      "title": "Rye reference genome uncovers diversity that could strengthen wheat breeding",
+      "link": "https://phys.org/news/2026-08-rye-genome-uncovers-diversity-wheat.html",
+      "summary": "Rye is not only a hardy and high-yielding crop, but also possesses a valuable gene pool for wheat breeding. An international research team led by the IPK Leibniz Institute has sign",
+      "date": "2026-08-19T23:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/improved-reference-gen.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T23:28:49Z"
+    },
     {
       "title": "LISTEN: Are Americans Ready for Stadium-Sized Health Spas?",
       "link": "https://www.outsideonline.com/health/wellness/therme-podcast/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-08-12T17:03:13Z"
-    },
-    {
-      "title": "Too many holes! Why badgers are digging up Britain’s lovingly maintained golf courses",
-      "link": "https://www.theguardian.com/environment/2026/aug/12/too-many-holes-why-badgers-are-digging-up-britains-lovingly-maintained-golf-courses",
-      "summary": "Thanks to the drought, these black-and-white beauties are struggling to catch worms in the rock-hard earth. But there’s still good foraging on well-watered fairways and greens Name",
-      "date": "2026-08-12T14:04:38Z",
-      "image": "https://i.guim.co.uk/img/media/04a6cfcb5f10631a48d3807c3f52b6c8c3be503f/640_0_3217_2575/master/3217.jpg?width=140&quality=85&auto=format&fit=max&s=33513399969c71cbfafce3ceeeb0658c",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-12T15:04:06Z"
-    },
-    {
-      "title": "Los Gatos High School track is now open for public use",
-      "link": "https://www.mercurynews.com/2026/08/12/los-gatos-high-school-track-is-now-open-for-public-use/",
-      "summary": "Community members can use the track at Los Gatos High School for recreational purposes as long as it is not being used by the school. State Sen. Dave Cortese announced a new bill t",
-      "date": "2026-08-12T13:45:54Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/BNG-L-PREPTRACK-0418-45.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-08-12T15:04:11Z"
     }
   ]
 }
