@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-18T23:28:07Z",
-  "updated_utc": "2026-08-18T23:28:07Z",
+  "updated": "2026-08-19T01:42:53Z",
+  "updated_utc": "2026-08-19T01:42:53Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Some bacteria build internal 'power cables' to extend respiration beyond the cell membrane",
+      "link": "https://phys.org/news/2026-08-bacteria-internal-power-cables-respiration.html",
+      "summary": "All living cells need energy, and most generate it through respiration, a series of chemical reactions normally confined to the cell membrane. Because this machinery takes up space",
+      "date": "2026-08-19T00:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quinone-transporting-f.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T01:42:50Z"
+    },
+    {
+      "title": "New set of international rules needed to protect health of fishing stocks, study shows",
+      "link": "https://phys.org/news/2026-08-international-health-fishing-stocks.html",
+      "summary": "The global community should work to establish an array of new international legal rules to protect the health of fish stocks, new research says. Rather than one set of laws coverin",
+      "date": "2026-08-19T00:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/fishery-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T01:42:50Z"
+    },
     {
       "title": "Shrews may grow bigger snouts in winter to cope with cold air, scientists say",
       "link": "https://www.theguardian.com/environment/2026/aug/19/shrews-bigger-snouts-winter-cold-air",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-08-11T13:20:57Z"
-    },
-    {
-      "title": "Decoding smell: Study reveals how wind transforms odor signals",
-      "link": "https://phys.org/news/2026-08-decoding-reveals-odor.html",
-      "summary": "Humans trust dogs to help find missing people, and bees to pollinate their crops. But scientists still don't fully understand how these animals use their extraordinary sense of sme",
-      "date": "2026-08-11T13:20:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/decoding-smell-study-r.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-11T13:21:01Z"
-    },
-    {
-      "title": "Color-sensing yeast could make biofactories more programmable and precise",
-      "link": "https://phys.org/news/2026-08-yeast-biofactories-programmable-precise.html",
-      "summary": "Baker's yeast is one of biotechnology's most important microorganisms. It has long been used to leaven bread and ferment beer. More recently, advances in synthetic biology have ena",
-      "date": "2026-08-11T13:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nus-researchers-achiev.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-11T13:21:01Z"
     }
   ]
 }
