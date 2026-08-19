@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-19T07:45:11Z",
-  "updated_utc": "2026-08-19T07:45:11Z",
+  "updated": "2026-08-19T08:46:29Z",
+  "updated_utc": "2026-08-19T08:46:29Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Italian scientists bet on octopus to fight crab invasion",
+      "link": "https://phys.org/news/2026-08-italian-scientists-octopus-crab-invasion.html",
+      "summary": "From a fishing trawler in the Adriatic, Italian scientists gently release thousands of tiny octopuses in the hope of fighting an invasive crab species that has devastated local fis",
+      "date": "2026-08-19T08:30:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-hope-the-oc.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T08:46:25Z"
+    },
     {
       "title": "Carbon pollution has fuelled ‘massive expansion’ of marine heatwaves in Europe, study finds",
       "link": "https://www.theguardian.com/environment/2026/aug/19/carbon-pollution-massive-expansion-marine-heatwaves-europe",
@@ -5487,17 +5498,6 @@
       "summary": "Toxoplasma gondii, or Toxoplasma, is a parasite that infects hundreds of millions of people around the world. Although cases are often mild, it can cause severe symptoms in people ",
       "date": "2026-08-11T15:00:01Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-shows-how-to-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-11T15:05:00Z"
-    },
-    {
-      "title": "A coral among the stars: New species discovered on Costa Rica's deep-sea seamounts",
-      "link": "https://phys.org/news/2026-08-coral-stars-species-costa-rica.html",
-      "summary": "Scientists exploring seamounts off the coast of Costa Rica have discovered a new coral so genetically and morphologically distinct that it required the creation of an entirely new ",
-      "date": "2026-08-11T14:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-coral-among-the-star.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
