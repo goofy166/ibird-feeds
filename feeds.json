@@ -1,8 +1,118 @@
 {
-  "updated": "2026-08-19T14:40:29Z",
-  "updated_utc": "2026-08-19T14:40:29Z",
+  "updated": "2026-08-19T15:38:02Z",
+  "updated_utc": "2026-08-19T15:38:02Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A record-breaking star could reveal how the Milky Way’s giant black hole spins",
+      "link": "https://www.sciencenews.org/article/record-breaking-star-black-hole-spin",
+      "summary": "The star passes very close to the Milky Way’s supermassive black hole and could reveal the black hole’s spin by tracking how it warps the star’s orbit.",
+      "date": "2026-08-19T15:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/081826_MJG_blackhole_main.jpg?w=794",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-08-19T15:37:55Z"
+    },
+    {
+      "title": "Newly-discovered immune hubs in our skull may keep our brain healthy",
+      "link": "https://www.newscientist.com/article/2585558-newly-discovered-immune-hubs-in-our-skull-may-keep-our-brain-healthy/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "We may have clusters of immune cells at the back of our skull that help ward off conditions like brain cancer",
+      "date": "2026-08-19T15:23:36Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308824193.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-19T15:37:56Z"
+    },
+    {
+      "title": "We may now know which neurons dictate when it is time to go to sleep",
+      "link": "https://www.newscientist.com/article/2585546-we-may-now-know-which-neurons-dictate-when-it-is-time-to-go-to-sleep/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Two clusters of neurons in the brains of mice seem to create the drive to get some shuteye, potentially hinting at a new target for sleep disorder treatments",
+      "date": "2026-08-19T15:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308826076.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-19T15:37:56Z"
+    },
+    {
+      "title": "5-year-old brain organoids can sense the passing of time",
+      "link": "https://www.newscientist.com/article/2585540-5-year-old-brain-organoids-can-sense-the-passing-of-time/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Brain organoids have been grown and studied for five years, the longest time to date, and their activity suggests they had a sense of time going by",
+      "date": "2026-08-19T15:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308814902.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-19T15:37:56Z"
+    },
+    {
+      "title": "Supercentenarians have hypervigilant immune systems that fight off cancer",
+      "link": "https://www.newscientist.com/article/2585352-supercentenarians-have-an-abundance-of-immune-cells-that-ward-off-cancer/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "People aged 110 or older seem to have a disproportionately high number of immune cells that fight off cancer and infections",
+      "date": "2026-08-19T15:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308732944.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-19T15:37:56Z"
+    },
+    {
+      "title": "AI could lower the cost of designing more efficient airplane wings",
+      "link": "https://www.newscientist.com/article/2585337-ai-could-lower-the-cost-of-designing-more-efficient-airplane-wings/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "AI agents devised a way to reduce friction of an airplane wing model even without access to a costly computer simulation",
+      "date": "2026-08-19T15:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308813329.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-19T15:37:56Z"
+    },
+    {
+      "title": "How wakeful rest may boost brain power in a manner similar to sleep",
+      "link": "https://www.newscientist.com/article/2582666-how-wakeful-rest-may-boost-brain-power-in-a-manner-similar-to-sleep/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "To gain the benefits of sleep, it was thought that the whole brain must switch off. But experiments suggest micro-napping neurons can improve memory and learning while we’re awake",
+      "date": "2026-08-19T15:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307908789.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-19T15:37:56Z"
+    },
+    {
+      "title": "Jellyfish reveal how rapid cell turnover may suppress early cancer growth",
+      "link": "https://phys.org/news/2026-08-jellyfish-reveal-rapid-cell-turnover.html",
+      "summary": "Although increased cell proliferation is a hallmark of cancerous tissues, in some cases it may actually protect against tumor growth, according to a new study by Caltech researcher",
+      "date": "2026-08-19T15:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/jellyfish-reveal-how-r.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T15:37:58Z"
+    },
+    {
+      "title": "A 100-year-old mystery in the cat kidney may be linked to scent communication",
+      "link": "https://phys.org/news/2026-08-year-mystery-cat-kidney-linked.html",
+      "summary": "Many animals obtain information about others from scent marks left in the environment, including urine. Because these marks remain after the sender has left, they allow animals to ",
+      "date": "2026-08-19T15:00:26Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-100-year-old-mystery.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T15:37:58Z"
+    },
+    {
+      "title": "Astronomers spot the closest, fastest star ever seen orbiting our galaxy's monster black hole",
+      "link": "https://www.livescience.com/physics-mathematics/astronomers-spot-the-closest-fastest-star-ever-seen-orbiting-our-galaxys-monster-black-hole",
+      "summary": "A star is whipping around the Milky Way's central black hole incredibly fast, setting a record for the tightest orbit ever observed",
+      "date": "2026-08-19T15:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/k9dqpxUFNVdjZztgT6EBce-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-19T15:38:00Z"
+    },
     {
       "title": "Robot looks for great white sharks near California beaches",
       "link": "https://www.mercurynews.com/2026/08/03/california-scientists-build-surveillance-robot-to-look-for-great-white-sharks/",
@@ -5392,116 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-08-11T20:55:12Z"
-    },
-    {
-      "title": "How to Watch the Total Solar Eclipse on a Live Stream, Witnessing the Rare View of the Sun's Corona From Your Own Home",
-      "link": "https://www.smithsonianmag.com/smart-news/how-to-watch-the-total-solar-eclipse-on-a-live-stream-witnessing-the-rare-view-of-the-suns-corona-from-your-own-home-180989315/",
-      "summary": "Wednesday’s eclipse will bring dark skies to parts of Russia, Greenland, Iceland, Portugal and Spain. But with these online broadcasts, you can view the spectacle from anywhere",
-      "date": "Tue, 11 Aug 2026 20Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/0G5wPfNzlXTeB2YWUBZpLzmsHrw=/420x240/filters:focal(335x187:336x188)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/72/04/72041dbe-3241-401b-b141-6331bb5ce548/nhq201708210105large.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-11T20:55:14Z"
-    },
-    {
-      "title": "This New App Created in Collaboration With the Rainy Lake Ojibwe Community Aims to Preserve Indigenous Language and Knowledge",
-      "link": "https://www.smithsonianmag.com/smart-news/this-new-app-created-in-collaboration-with-the-rainy-lake-ojibwe-community-aims-to-preserve-indigenous-language-and-knowledge-180989317/",
-      "summary": "Users can browse traditional stories, learn more about notable landmarks and discover family connections",
-      "date": "Tue, 11 Aug 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/DufJf_Le5GTih3Hx6ugHRIFQv00=/420x240/filters:focal(1907x1280:1908x1281)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f6/0d/f60de763-68e6-435d-85c6-c5bb8cacfd21/ojibwe-7.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-11T20:55:14Z"
-    },
-    {
-      "title": "More than a decade of observation in Seattle suburbs shows where sensitive bird species won't go",
-      "link": "https://phys.org/news/2026-08-decade-seattle-suburbs-sensitive-bird.html",
-      "summary": "Nearly 30 years ago, a simple question sent University of Washington researchers into the Puget Sound lowlands to look for birds. With Seattle's population swelling and housing dev",
-      "date": "2026-08-11T20:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/more-than-a-decade-of-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-11T20:55:18Z"
-    },
-    {
-      "title": "Major genetic weakness threatens future corn breeding, study reveals",
-      "link": "https://phys.org/news/2026-08-major-genetic-weakness-threatens-future.html",
-      "summary": "A new study led by University of Illinois Urbana-Champaign scientists reveals critically low genetic variation in one of the country's primary breeding stocks for corn. The finding",
-      "date": "2026-08-11T20:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/illinois-study-reveals-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-11T20:55:18Z"
-    },
-    {
-      "title": "Mitochondrial proteins may trigger inflammation by mimicking bacterial distress signals",
-      "link": "https://phys.org/news/2026-08-mitochondrial-proteins-trigger-inflammation-mimicking.html",
-      "summary": "Mitochondria are often called the powerhouses of the cell. But their ancient origins may also make them drivers of inflammation. Researchers at the University of Illinois Chicago h",
-      "date": "2026-08-11T19:50:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-bacterial-sign.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-11T20:55:18Z"
-    },
-    {
-      "title": "Early farmers' larger grains may reflect rainfall, not genetic selection",
-      "link": "https://phys.org/news/2026-08-early-farmers-larger-grains-rainfall.html",
-      "summary": "A new archaeobotanical study by researchers from the University of Oxford and Kiel University (CAU) has revealed that increases in cereal grain size at the dawn of agriculture, mor",
-      "date": "2026-08-11T19:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rethinking-the-earlies-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-11T20:55:18Z"
-    },
-    {
-      "title": "Genome study reveals centromeres as one of the fastest-changing regions in human DNA",
-      "link": "https://phys.org/news/2026-08-genome-reveals-centromeres-fastest-regions.html",
-      "summary": "A centromere is a specific region on a chromosome that ensures that, when a cell divides, the chromosome separates accurately so each new cell receives the correct amount of geneti",
-      "date": "2026-08-11T19:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genome-study-reveals-c.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-11T20:55:18Z"
-    },
-    {
-      "title": "A solar eclipse will be visible to millions of people tomorrow: How to watch in person and online",
-      "link": "https://www.livescience.com/space/the-sun/a-solar-eclipse-will-be-visible-to-millions-of-people-tomorrow-how-to-watch-in-person-and-online",
-      "summary": "On Aug. 12, a total solar eclipse will swoop across a narrow path of totality, while millions of people in North America and Europe will be treated to a partial eclipse. Here's whe",
-      "date": "Tue, 11 Aug 2026 19Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/mYjwKSSbMWJrBhDwscccW8-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-11T20:55:19Z"
-    },
-    {
-      "title": "Florida paddleboarder rescues woman from alligator attack",
-      "link": "https://www.theguardian.com/us-news/2026/aug/11/florida-alligator-rescue-paddleboarder",
-      "summary": "Mike Heard used his paddle to strike gator that had latched on to swimmer in Silver River after hearing yells of ‘Gator!’ A Florida paddleboarder rescued a woman from an alligator ",
-      "date": "2026-08-11T17:37:40Z",
-      "image": "https://i.guim.co.uk/img/media/3ef942dc588dbd5ebfddcd5ae43b4a6ae8884e8d/487_0_3748_3000/master/3748.jpg?width=140&quality=85&auto=format&fit=max&s=77cd8cdedf1a0dabde36d52fa4c50e22",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-11T19:11:47Z"
-    },
-    {
-      "title": "Jackie the Bald Eagle, Who Captured Hearts Around the World Via Livestream, Has Died After Battling a Mysterious Illness",
-      "link": "https://www.smithsonianmag.com/smart-news/jackie-the-bald-eagle-who-captured-hearts-around-the-world-via-livestream-has-died-after-battling-a-mysterious-illness-180989310/",
-      "summary": "A raptor center in California had been caring for the animal since mid-July, after she had an altercation with two young eagles. But she had probably been sick long before then",
-      "date": "Tue, 11 Aug 2026 18Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/khq8O9qxyD43AexBcoltsS0_ZLU=/420x240/filters:focal(1024x575:1025x576)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4b/b7/4bb7d921-38e8-48f2-a75e-327864d7f9e7/jackie-photo.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-11T19:11:55Z"
     }
   ]
 }
