@@ -1,8 +1,63 @@
 {
-  "updated": "2026-08-19T20:35:50Z",
-  "updated_utc": "2026-08-19T20:35:50Z",
+  "updated": "2026-08-19T21:31:52Z",
+  "updated_utc": "2026-08-19T21:31:52Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Crocus Named 2026 Bulb of the Year",
+      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/bulb-of-the-year/",
+      "summary": "This year, both the National Garden Bureau and Flowerbulb.eu have chosen crocus, a beloved early spring flower, as the Bulb of the Year. The post Crocus Named 2026 Bulb of the Year",
+      "date": "2026-08-19T20:29:22Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2022/10/275892578_1_Tracy__Freeman_BNB_BYPC_2021-1.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-08-19T21:31:33Z"
+    },
+    {
+      "title": "Why Don't Insects Live in the Ocean? Scientists Just Ruled Out One Possible Explanation Thanks to Deep-Diving Fly Larvae",
+      "link": "https://www.smithsonianmag.com/smart-news/why-dont-insects-live-in-the-ocean-scientists-just-ruled-out-one-possible-explanation-thanks-to-deep-diving-fly-larvae-180989348/",
+      "summary": "Researchers thought that insects might not live there because their respiratory systems would implode from water pressure. But certain fly larvae in East Africa make daily trips to",
+      "date": "2026-08-19T20:52:52Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/d2YIMJvt2M1Ad_h9oKpmIG6--3s=/420x240/filters:focal(500x338:501x339)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/97/c9/97c9789f-14e5-4a5d-9175-0d31b2b109c9/article_-_a_swarm_of_the_lake_fly_chaoborus_edulis_over_lake_malawi_credit_philip_matthews.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-19T21:31:45Z"
+    },
+    {
+      "title": "How we found a new transmissible cancer in bullhead catfish",
+      "link": "https://phys.org/news/2026-08-transmissible-cancer-bullhead-catfish.html",
+      "summary": "For more than a decade, anglers on Lake Memphremagog—which straddles the Quebec–Vermont border—have been catching brown bullhead catfish marked with distinctive black lesions.",
+      "date": "2026-08-19T21:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/-bullheadcatfish.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T21:31:49Z"
+    },
+    {
+      "title": "Evolutionary process behind live birth in lizards uncovered",
+      "link": "https://phys.org/news/2026-08-evolutionary-birth-lizards-uncovered.html",
+      "summary": "Scientists studying one of nature's greatest reproductive innovations have discovered how some lizards evolved from laying eggs to giving birth to live young. The new research is t",
+      "date": "2026-08-19T21:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-uncover-the-5.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T21:31:49Z"
+    },
+    {
+      "title": "Orange lips and roaring calls: Meet the DRC's shy new rainforest monkey",
+      "link": "https://phys.org/news/2026-08-orange-lips-roaring-drc-shy.html",
+      "summary": "There are 536 species of monkeys in the world today, and the Democratic Republic of Congo has a new one. Named Likweli, this rainforest primate is one of only five new African monk",
+      "date": "2026-08-19T21:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/orange-lips-and-roarin.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T21:31:49Z"
+    },
     {
       "title": "Plant Magnus Coneflower for Maximum Garden Impact",
       "link": "https://www.birdsandblooms.com/gardening/flower-gardening/magnus-coneflower/",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-12T15:04:19Z"
-    },
-    {
-      "title": "Agricultural data helping develop tools for crop disease management",
-      "link": "https://phys.org/news/2026-08-agricultural-tools-crop-disease.html",
-      "summary": "The North Dakota Agricultural Weather Network—known as NDAWN—isn't just measuring precipitation amounts and temperatures across the state. It's also playing a role in developing to",
-      "date": "2026-08-12T14:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/agricultural-data-help.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-12T15:04:19Z"
-    },
-    {
-      "title": "The internet can't get enough of cats, but cats might have had enough of the internet",
-      "link": "https://phys.org/news/2026-08-internet-cats.html",
-      "summary": "According to new research, viewers often dismiss, trivialize or even romanticize signs of cat distress during \"play\" interactions, raising concerns for cat welfare.",
-      "date": "2026-08-12T14:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cat.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-12T15:04:19Z"
-    },
-    {
-      "title": "Quality control of proteins in the cellular membrane starts at the ribosome",
-      "link": "https://phys.org/news/2026-08-quality-proteins-cellular-membrane-ribosome.html",
-      "summary": "Scientists at the Center for Molecular Medicine Cologne (CMMC) and the CECAD Cluster of Excellence on Aging Research have demonstrated in a biomedical study that ribosomes, the pro",
-      "date": "2026-08-12T14:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quality-control-of-pro.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-12T15:04:19Z"
-    },
-    {
-      "title": "Inglorious Twelfth? Calls for grouse season to be banned to prevent wildfires and peatland damage",
-      "link": "https://www.theguardian.com/uk-news/2026/aug/12/inglorious-twelfth-calls-grouse-season-banned-prevent-wildfires-peatland-damage",
-      "summary": "As London restaurants say wild birds are smaller and fewer this year, experts say countryside should not be ‘playground for bloodsports’ Every year on 12 August, fans of traditiona",
-      "date": "2026-08-12T12:19:57Z",
-      "image": "https://i.guim.co.uk/img/media/9e5c244ac0a06e607af418c6e0a7091669e24f1c/842_0_4208_3367/master/4208.jpg?width=140&quality=85&auto=format&fit=max&s=b6b4ba9d31c0fd7c2646392aeaf0be87",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-12T13:24:55Z"
-    },
-    {
-      "title": "Humpbacks return to Rio: the whales are back from the brink of extinction – but will tourism help or hinder?",
-      "link": "https://www.theguardian.com/environment/2026/aug/12/humpbacks-return-to-rio-the-whales-are-back-from-the-brink-of-extinction-but-will-tourism-help-or-hinder",
-      "summary": "The gigantic aquatic acrobats are exciting Brazil’s tourists as numbers recover from whaling. But some marine biologists question how booming tourism and conservation can coexist T",
-      "date": "2026-08-12T12:00:28Z",
-      "image": "https://i.guim.co.uk/img/media/e2f403b1f17fff0acf553cde3e3860f7e3536124/1098_490_3185_2548/master/3185.jpg?width=140&quality=85&auto=format&fit=max&s=ead27073f51ee75c70b897732d0f04aa",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-12T13:24:55Z"
     }
   ]
 }
