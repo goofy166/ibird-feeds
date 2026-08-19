@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-19T18:44:27Z",
-  "updated_utc": "2026-08-19T18:44:27Z",
+  "updated": "2026-08-19T19:31:41Z",
+  "updated_utc": "2026-08-19T19:31:41Z",
   "count": 500,
   "stories": [
+    {
+      "title": "3D map of cell signaling sites could help improve cancer treatment",
+      "link": "https://phys.org/news/2026-08-3d-cell-sites-cancer-treatment.html",
+      "summary": "Cell-communication molecules called kinases play a key role in the growth and spread of many cancers. But exactly which kinases are active in a particular cancer is not always clea",
+      "date": "2026-08-19T19:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/3d-map-of-cell-signali.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T19:31:38Z"
+    },
     {
       "title": "Submit Your Video",
       "link": "https://www.birdsandblooms.com/submit-your-video/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-12T13:25:06Z"
-    },
-    {
-      "title": "The Rock Dove We Stopped Counting",
-      "link": "https://www.10000birds.com/the-rock-dove-we-stopped-counting.htm?utm_source=rss&utm_medium=rss&utm_campaign=the-rock-dove-we-stopped-counting",
-      "summary": "By Vitaly Vitaly runs Hush Hollow, a small online store of field-guide-inspired apparel. He has been looking at the pigeons outside his window with rather more respect since he sta",
-      "date": "2026-08-12T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/08/Two-pigeons-sitting-on-a-stone-by-a-fast-flowing-river-in-summer.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-08-12T11:53:00Z"
     }
   ]
 }
