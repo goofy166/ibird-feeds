@@ -1,8 +1,63 @@
 {
-  "updated": "2026-08-19T12:59:26Z",
-  "updated_utc": "2026-08-19T12:59:26Z",
+  "updated": "2026-08-19T13:52:19Z",
+  "updated_utc": "2026-08-19T13:52:19Z",
   "count": 500,
   "stories": [
+    {
+      "title": "You Can Now See One of the Oldest Surviving Copies of 'The Odyssey' at the Metropolitan Museum of Art",
+      "link": "https://www.smithsonianmag.com/smart-news/you-can-now-see-one-of-oldest-surviving-copies-of-the-odyssey-at-metropolitan-museum-of-art-180989360/",
+      "summary": "The papyrus fragment contains three lines that don't appear in standard modern-day translations of Homer's epic poem",
+      "date": "2026-08-19T13:19:26Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/kZT8X2_ZD6qW18ccm6bahIzwhQA=/420x240/filters:focal(1896x1914:1897x1915)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/12/05/120524e1-9e51-48cf-8d22-2d033533e6ef/odyssey-fragment.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-19T13:52:11Z"
+    },
+    {
+      "title": "No refrigerator, no problem. This experimental vaccine doesn’t need it.",
+      "link": "https://www.sciencenews.org/article/experimental-vaccine-doesnt-need-fridge",
+      "summary": "In early trials, a new vaccine that didn’t require refrigeration still protected against tetanus and diphtheria.",
+      "date": "2026-08-19T13:30:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/081226_SM_vaccinetemp_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-08-19T13:52:12Z"
+    },
+    {
+      "title": "Why many birds add fresh plants to their nests remains unclear despite signs of healthier offspring",
+      "link": "https://phys.org/news/2026-08-birds-fresh-unclear-healthier-offspring.html",
+      "summary": "As they build their nests, many birds are known to interweave dried grasses and other materials with green plants, such as fresh leaves, grass stems, herbs and aromatic leaves. Whi",
+      "date": "2026-08-19T13:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/review-paper-tries-to.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T13:52:15Z"
+    },
+    {
+      "title": "New design method stabilizes human growth factor for potential therapeutic use",
+      "link": "https://phys.org/news/2026-08-method-stabilizes-human-growth-factor.html",
+      "summary": "A new study published in the Biophysical Journal reports on the development of a stable, biologically active version of the human fibroblast growth factor. Human fibroblast growth ",
+      "date": "2026-08-19T13:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/bandage.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T13:52:15Z"
+    },
+    {
+      "title": "Sea cucumber breeding clues could help rebuild populations depleted by overfishing",
+      "link": "https://phys.org/news/2026-08-sea-cucumber-clues-rebuild-populations.html",
+      "summary": "The reproductive life of sea cucumbers has come under the microscope as University of the Sunshine Coast researchers battle overfishing of the marine creatures. Sea cucumbers—which",
+      "date": "2026-08-19T13:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/understanding-turn-ons.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T13:52:15Z"
+    },
     {
       "title": "Coral experts unite in historic effort to restore Florida's coral reef",
       "link": "https://phys.org/news/2026-08-coral-experts-historic-effort-florida.html",
@@ -5447,61 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-08-11T17:03:45Z"
-    },
-    {
-      "title": "5th batch of Pentagon UAP files: Orbs and triangles",
-      "link": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/",
-      "summary": "The 5th batch of the Pentagon UAP files was released on August 7, 2026. The videos, documents and images include reports of more orbs, triangles and more. The post 5th batch of Pen",
-      "date": "Tue, 11 Aug 2026 17Z",
-      "image": "https://earthsky.org/upl/2026/08/triangle-UAP-Colorado-Springs-2023-br.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-08-11T17:03:46Z"
-    },
-    {
-      "title": "Robot looks for great white sharks near California beaches",
-      "link": "https://www.mercurynews.com/2026/08/03/california-scientists-build-surveillance-robot-to-look-for-great-white-sharks/",
-      "summary": "The 10-foot long device is packed with high-tech cameras and other gear.",
-      "date": "2026-08-03T11:30:41Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/Shark-surveillance-robot-CSULB-July-2026.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-08-11T17:03:49Z"
-    },
-    {
-      "title": "Homebuilders in Solano County petition state to drop endangered species protection for hawk",
-      "link": "https://www.mercurynews.com/2026/08/01/solano-co-homebuilders-petition-state-to-drop-endangered-species-protection-for-hawk/",
-      "summary": "The Swainson’s hawk nests in Solano County and the Central Valley from March through September.",
-      "date": "2026-08-01T16:34:11Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2022/05/SJM-L-PARK-0513-7.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-08-11T17:03:49Z"
-    },
-    {
-      "title": "For the First Time, an mRNA Flu Shot Will Be Available to Some People in the United States. Here's What You Should Know",
-      "link": "https://www.smithsonianmag.com/smart-news/for-the-first-time-an-mrna-flu-shot-will-be-available-to-some-people-in-the-united-states-heres-what-you-should-know-180989305/",
-      "summary": "The Food and Drug Administration just approved the new type of flu vaccine for adults ages 50 and older. It relies on the same technology as many Covid-19 jabs. However, it’s uncle",
-      "date": "Tue, 11 Aug 2026 15Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/32lQBkuWOmHI8KclHrOJQpUwy68=/420x240/filters:focal(4330x2887:4331x2888)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0a/d1/0ad11323-828c-47b2-a34d-f8be27a5befe/flu-shot-older.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-11T17:03:53Z"
-    },
-    {
-      "title": "Bamboo toilet paper intrigued me. Reality turned out to be messy",
-      "link": "https://www.sciencenews.org/article/bamboo-toilet-paper-carbon-footprint",
-      "summary": "What makes a greener wipe? Researchers have more to say about bamboo's ecological risks, given limited carbon footprint data.",
-      "date": "Tue, 11 Aug 2026 16Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/072726_BD_bambootp_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-08-11T17:03:54Z"
     }
   ]
 }
