@@ -1,8 +1,63 @@
 {
-  "updated": "2026-08-19T19:31:41Z",
-  "updated_utc": "2026-08-19T19:31:41Z",
+  "updated": "2026-08-19T20:35:50Z",
+  "updated_utc": "2026-08-19T20:35:50Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Plant Magnus Coneflower for Maximum Garden Impact",
+      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/magnus-coneflower/",
+      "summary": "Want a magnificent purple coneflower for your garden? Try the cultivar 'Magnus.\" Pollinators will love the tall perennials with large blooms. The post Plant Magnus Coneflower for M",
+      "date": "2026-08-19T19:17:43Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/08/Echinacea-purpurea-Magnus-0001-high-res.jpg?fit=700,1024",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-08-19T20:35:30Z"
+    },
+    {
+      "title": "The bloodsucking insect with a saw for a mouth: How the tsetse fly bites through almost anything",
+      "link": "https://phys.org/news/2026-08-bloodsucking-insect-mouth-tsetse-fly.html",
+      "summary": "Tsetse flies transmit some of Africa's most persistent parasitic diseases. They have affected human health, livestock production and rural development for generations, across a reg",
+      "date": "2026-08-19T20:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-bloodsucking-insec.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T20:35:46Z"
+    },
+    {
+      "title": "A viral 'loose cannon' enzyme helps phages shut down bacterial defenses",
+      "link": "https://phys.org/news/2026-08-viral-loose-cannon-enzyme-phages.html",
+      "summary": "As antimicrobial resistance grows around the world, novel therapies to counter it become increasingly important. Phages—viruses that infect bacteria—are an exciting avenue of resea",
+      "date": "2026-08-19T20:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-viral-loose-cannon-e.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T20:35:46Z"
+    },
+    {
+      "title": "Harsher weather could encourage sustainable ecolabeling in fishing industry",
+      "link": "https://phys.org/news/2026-08-harsher-weather-sustainable-ecolabeling-fishing.html",
+      "summary": "New research by a Washington State University economist examines how changing environmental conditions may influence the practice and trustworthiness of sustainable ecolabeling in ",
+      "date": "2026-08-19T20:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fisherman.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T20:35:46Z"
+    },
+    {
+      "title": "Microbial clocks can accurately estimate time since death across different climates",
+      "link": "https://phys.org/news/2026-08-microbial-clocks-accurately-death-climates.html",
+      "summary": "New research reveals that microbial clocks—forensic tools that track the succession and development of bacteria and fungi involved in decomposition after death—are highly accurate ",
+      "date": "2026-08-19T20:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/microbe-culture-dish.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-19T20:35:46Z"
+    },
     {
       "title": "3D map of cell signaling sites could help improve cancer treatment",
       "link": "https://phys.org/news/2026-08-3d-cell-sites-cancer-treatment.html",
@@ -5447,61 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-08-12T13:24:55Z"
-    },
-    {
-      "title": "Perseid meteor shower 2026! It’s time to watch",
-      "link": "https://earthsky.org/astronomy-essentials/everything-you-need-to-know-perseid-meteor-shower/",
-      "summary": "The Perseid meteor shower peaks this week! It's best between midnight and dawn. The peak is August 12 and 13 before dawn, but watch around those mornings, too. The post Perseid met",
-      "date": "Tue, 11 Aug 2026 12Z",
-      "image": "https://earthsky.org/upl/2021/08/perseid-meteor-shower-radiant-point-1500px-e1628630279557.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-08-12T13:24:56Z"
-    },
-    {
-      "title": "How ancient trees are warning us about the next enormous solar storm",
-      "link": "https://www.newscientist.com/article/2581487-how-ancient-trees-are-warning-us-about-the-next-enormous-solar-storm-2/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Our sun is capable of storms far bigger than we’ve ever recorded. Studying the world’s oldest trees suggests we could be due one of these gargantuan events soon",
-      "date": "2026-08-12T13:08:24Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/TreeRings-SolarStorms-NEWUSE-THIS-ONE-1.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-12T13:25:04Z"
-    },
-    {
-      "title": "Bumblebees can learn to associate new smells with their queen",
-      "link": "https://phys.org/news/2026-08-bumblebees-associate-queen.html",
-      "summary": "Bumblebees are able to learn to associate new odors with their colony's queen, instead of being preprogrammed to recognize the queen's pheromones from birth, according to a new stu",
-      "date": "2026-08-12T12:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bumblebees-can-learn-t.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-12T13:25:06Z"
-    },
-    {
-      "title": "Q&A: Flesh-eating screwworms have returned. Which new technologies could stop them?",
-      "link": "https://phys.org/news/2026-08-qa-flesh-screwworms-technologies.html",
-      "summary": "They may look like any ordinary species of flies buzzing around on any given day, but the New World screwworm is quite extraordinary. Screwworm flies are highly destructive parasit",
-      "date": "2026-08-12T12:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/flesh-eating-screwworm.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-12T13:25:06Z"
-    },
-    {
-      "title": "The way trees sway may communicate water stress",
-      "link": "https://phys.org/news/2026-08-trees-sway-communicate-stress.html",
-      "summary": "The Western U.S. is experiencing periods of increasingly intense drought, and higher temperatures are exacerbating the issue by drawing even more moisture from plants and soils int",
-      "date": "2026-08-12T12:10:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-way-trees-sway-may.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-12T13:25:06Z"
     }
   ]
 }
