@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-19T03:04:15Z",
-  "updated_utc": "2026-08-19T03:04:15Z",
+  "updated": "2026-08-19T04:43:31Z",
+  "updated_utc": "2026-08-19T04:43:31Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Carbon pollution has fuelled ‘massive expansion’ of marine heatwaves in Europe, study finds",
+      "link": "https://www.theguardian.com/environment/2026/aug/19/carbon-pollution-massive-expansion-marine-heatwaves-europe",
+      "summary": "Hottest periods this year in most sea regions would have been ‘virtually impossible’ in a preindustrial climate Carbon pollution has fuelled a “massive expansion” of marine heatwav",
+      "date": "2026-08-19T04:00:05Z",
+      "image": "https://i.guim.co.uk/img/media/bd72147bde43ba629cd3212aea27908b6b16b768/453_0_6521_5216/master/6521.jpg?width=140&quality=85&auto=format&fit=max&s=fe26860749de22b65e702614b0ba8e86",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-19T04:43:17Z"
+    },
     {
       "title": "Biological sex is neither binary nor a spectrum—a biologist explains how it's multidimensional",
       "link": "https://phys.org/news/2026-08-biological-sex-binary-spectrum-biologist.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-11T15:05:00Z"
-    },
-    {
-      "title": "‘I feel motherly towards them’: the nature reserve manager sharing her office with a wasp nest",
-      "link": "https://www.theguardian.com/environment/2026/aug/11/i-feel-motherly-towards-them-the-nature-reserve-manager-sharing-her-office-with-a-wasp-nest",
-      "summary": "Eilish Rothney’s first instinct was to get rid of the wasps entering her converted shipping container in Norfolk. Now she enjoys their constant hum When wasps began streaming throu",
-      "date": "2026-08-11T12:00:01Z",
-      "image": "https://i.guim.co.uk/img/media/f1119d3ce940e846521c49ef09d518f2f990ecbc/0_606_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=c4a3f39f29ab310768b3106da6b32b8d",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-11T13:20:49Z"
     }
   ]
 }
