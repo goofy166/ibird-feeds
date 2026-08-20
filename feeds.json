@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-20T20:36:03Z",
-  "updated_utc": "2026-08-20T20:36:03Z",
+  "updated": "2026-08-20T21:34:14Z",
+  "updated_utc": "2026-08-20T21:34:14Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A new role for nitrate reductase in regulating nitrogen-responsive nodulation",
+      "link": "https://phys.org/news/2026-08-role-nitrate-reductase-nitrogen-responsive.html",
+      "summary": "Certain plants, including legumes, form specialized organs called root nodules, where they establish symbiotic relationships with nitrogen-fixing bacteria. This root nodule symbios",
+      "date": "2026-08-20T21:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-role-for-nitrate.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-20T21:34:10Z"
+    },
     {
       "title": "NASA-Funded Mission to Rescue a Falling Space Telescope Officially Ends in Failure",
       "link": "https://www.smithsonianmag.com/smart-news/nasa-funded-mission-to-rescue-a-falling-space-telescope-officially-ends-in-failure-180989376/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-08-13T11:53:31Z"
-    },
-    {
-      "title": "The most breathtaking photos of the total solar eclipse",
-      "link": "https://www.newscientist.com/article/2584532-the-best-photos-of-the-total-solar-eclipse/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Photographers in Spain captured spectacular images of the rare alignment of the moon and the sun, as it cast a dark shadow over much of the country",
-      "date": "Thu, 13 Aug 2026 10Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308167856.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-13T11:53:34Z"
     }
   ]
 }
