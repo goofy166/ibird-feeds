@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-20T04:43:29Z",
-  "updated_utc": "2026-08-20T04:43:29Z",
+  "updated": "2026-08-20T05:36:41Z",
+  "updated_utc": "2026-08-20T05:36:41Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Weatherwatch: Climate crisis fuelling steep fall in migratory bird numbers",
+      "link": "https://www.theguardian.com/news/2026/aug/20/weatherwatch-climate-crisis-bird-migration",
+      "summary": "Many species under threat use the African-Eurasian flyway, one of the planet’s largest mass-migration systems It may still feel like summer, but in the world of birds, autumn migra",
+      "date": "2026-08-20T05:00:44Z",
+      "image": "https://i.guim.co.uk/img/media/b54397e935e93fa6b433e89387b45fd8d3788d55/507_0_2670_2137/master/2670.jpg?width=140&quality=85&auto=format&fit=max&s=56882847a4b6a941e6381c2a2ac4e32b",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-20T05:36:25Z"
+    },
     {
       "title": "Honeybees struggle to gather nectar in August, direct measurements reveal",
       "link": "https://phys.org/news/2026-08-honeybees-struggle-nectar-august-reveal.html",
@@ -5487,17 +5498,6 @@
       "summary": "The Killings at Parrish Station is a terrifying cosmic horror six-parter, which starts back in 1987 when two detectives find mangled bodies at an outback radio research station. TV",
       "date": "2026-08-12T17:00:00Z",
       "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307346589.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-12T17:03:10Z"
-    },
-    {
-      "title": "I reread The Road 20 years on. It was even more devastating",
-      "link": "https://www.newscientist.com/article/2583799-i-reread-the-road-20-years-on-it-was-even-more-devastating/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Tim Winton's Juice gave Alison Flood the appetite for more post-apocalyptic science fiction. Returning to Cormac McCarthy's scorched landscape was tough – but worth it",
-      "date": "2026-08-12T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/Cormac-McCarthys-The-Road.jpg",
       "name": "New Scientist",
       "category": "insects",
       "color": 12,
