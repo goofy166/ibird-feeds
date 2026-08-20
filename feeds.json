@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-20T03:03:39Z",
-  "updated_utc": "2026-08-20T03:03:39Z",
+  "updated": "2026-08-20T04:43:29Z",
+  "updated_utc": "2026-08-20T04:43:29Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Honeybees struggle to gather nectar in August, direct measurements reveal",
+      "link": "https://phys.org/news/2026-08-honeybees-struggle-nectar-august-reveal.html",
+      "summary": "Letting late-summer weeds grow could help honeybees when they find it most challenging to gather nectar, according to new research published in the journal, Functional Ecology.",
+      "date": "2026-08-20T04:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/honeybees-struggle-to.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-20T04:43:25Z"
+    },
+    {
+      "title": "Warming waters draw summer 'feeding frenzies' by whales off Greenland",
+      "link": "https://phys.org/news/2026-08-summer-frenzies-whales-greenland.html",
+      "summary": "The effects of global warming depend on species: The losers are legion, but a lucky few are winners. Now, researchers have shown that baleen whales are taking advantage of a newly ",
+      "date": "2026-08-20T04:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/warming-waters-draw-su.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-20T04:43:25Z"
+    },
     {
       "title": "Innovation enhances multiomics workflow, eliminates sample preparation",
       "link": "https://phys.org/news/2026-08-multiomics-workflow-sample.html",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-08-12T17:03:10Z"
-    },
-    {
-      "title": "New software tool Pixasonics turns biomedical images into sound",
-      "link": "https://phys.org/news/2026-08-software-tool-pixasonics-biomedical-images.html",
-      "summary": "Modern biomedicine increasingly relies on enormous amounts of image data. Although computers can do part of the analysis work, biologists often still need to look through the image",
-      "date": "2026-08-12T16:40:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-software-tool-pixa.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-12T17:03:12Z"
-    },
-    {
-      "title": "Human clinicians outperform AI stethoscope in diagnosing pet heart problems",
-      "link": "https://phys.org/news/2026-08-human-clinicians-outperform-ai-stethoscope.html",
-      "summary": "Fourth-year veterinary students matched—and experienced clinicians outperformed—an AI-enabled digital stethoscope in diagnosing heart murmurs and arrhythmias in cats and dogs, acco",
-      "date": "2026-08-12T16:20:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-enabled-stethoscope-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-12T17:03:12Z"
     }
   ]
 }
