@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-20T01:41:27Z",
-  "updated_utc": "2026-08-20T01:41:27Z",
+  "updated": "2026-08-20T03:03:39Z",
+  "updated_utc": "2026-08-20T03:03:39Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Innovation enhances multiomics workflow, eliminates sample preparation",
+      "link": "https://phys.org/news/2026-08-multiomics-workflow-sample.html",
+      "summary": "A patent-pending method developed and tested for multiple applications at Purdue University eliminates sample preparation, a bottleneck that currently dominates a laboratory scient",
+      "date": "2026-08-20T02:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/purdue-innovation-enha.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-20T03:03:35Z"
+    },
     {
       "title": "Los Gatos High School track is now open for public use",
       "link": "https://www.mercurynews.com/2026/08/12/los-gatos-high-school-track-is-now-open-for-public-use/",
@@ -5487,17 +5498,6 @@
       "summary": "Fourth-year veterinary students matched—and experienced clinicians outperformed—an AI-enabled digital stethoscope in diagnosing heart murmurs and arrhythmias in cats and dogs, acco",
       "date": "2026-08-12T16:20:09Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-enabled-stethoscope-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-12T17:03:12Z"
-    },
-    {
-      "title": "Immune 'reprogramming' could protect poultry from deadly diseases without antibiotics",
-      "link": "https://phys.org/news/2026-08-immune-reprogramming-poultry-deadly-diseases.html",
-      "summary": "University of Bristol–led researchers have identified a naturally occurring gut molecule that could strengthen chickens' immune response against a wide range of bacterial infection",
-      "date": "2026-08-12T16:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/poultry.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
