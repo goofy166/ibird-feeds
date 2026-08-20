@@ -1,8 +1,52 @@
 {
-  "updated": "2026-08-20T09:41:34Z",
-  "updated_utc": "2026-08-20T09:41:34Z",
+  "updated": "2026-08-20T10:37:28Z",
+  "updated_utc": "2026-08-20T10:37:28Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Destructive and delicious: how an invasive deer in Hawaii is being turned into dinner",
+      "link": "https://www.theguardian.com/environment/2026/aug/20/axis-deer-hawaii",
+      "summary": "The overpopulation of axis deer has taken an environmental toll, but Maui Nui Venison sees it as a resource instead of a pest In 1868, the government of Hong Kong gave eight axis d",
+      "date": "2026-08-20T10:00:48Z",
+      "image": "https://i.guim.co.uk/img/media/9a970f0f794852df2d6450d9f6183c4df61f195c/0_0_4659_3727/master/4659.jpg?width=140&quality=85&auto=format&fit=max&s=2a7db3b486ef50c0bde9926eb966faaa",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-20T10:37:13Z"
+    },
+    {
+      "title": "The Country’s First Nature Library Lets You Check Out Camping Gear Like Books",
+      "link": "https://www.outsideonline.com/adventure-travel/news-analysis/anythink-nature-library-thornton-colorado-opens/",
+      "summary": "This first-of-its-kind 15-acre \"nature library\" near Denver lets you borrow more than 650 outdoors-related items for free and features hands-on play spaces designed to combat scree",
+      "date": "Thu, 20 Aug 2026 10Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/HERO-Anythink-Library-exterior-with-gardens-.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-20T10:37:19Z"
+    },
+    {
+      "title": "Exactly When the Leaves Will Change This Year, According to the Farmers’ Almanac",
+      "link": "https://www.outsideonline.com/adventure-travel/news-analysis/farmers-almanac-fall-foliage-map-2026/",
+      "summary": "The 2026 Farmers' Almanac leaf-peeping map is officially out. Here is everything you need to know to plan a perfectly timed autumn getaway. The post Exactly When the Leaves Will Ch",
+      "date": "Thu, 20 Aug 2026 09Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/fly-fishing-leaves.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-20T10:37:19Z"
+    },
+    {
+      "title": "Secret 'messages' in cat pee let felines identify each other — and scientists just cracked the code",
+      "link": "https://www.livescience.com/animals/cats/cats-have-unique-chemical-fingerprints-in-their-pee",
+      "summary": "Cats can identify each other by the scent of their pee. We now know why.",
+      "date": "Thu, 20 Aug 2026 10Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/nNSFn6bvTaQtKF5AuA9m4m-1280-80.gif",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-20T10:37:26Z"
+    },
     {
       "title": "Sagitta the Arrow lies inside the Summer Triangle",
       "link": "https://earthsky.org/constellations/sagitta-the-arrow-summer-triangle-m71/",
@@ -5454,50 +5498,6 @@
       "summary": "OpenAI and its competitors want to dictate the role that artificial intelligence will play in our society – it's time to take back control of the narrative",
       "date": "2026-08-12T17:00:00Z",
       "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307632363.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-12T17:03:10Z"
-    },
-    {
-      "title": "Twisteddoodles on how to handle memes featuring medical symptoms",
-      "link": "https://www.newscientist.com/article/2584050-twisteddoodles-3/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "This week's cartoon from Twisteddoodles",
-      "date": "2026-08-12T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307917426.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-12T17:03:10Z"
-    },
-    {
-      "title": "Tom Gauld on failed science clip art",
-      "link": "https://www.newscientist.com/article/2584044-tom-gauld-2/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Tom Gauld's weekly cartoon",
-      "date": "2026-08-12T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307531269.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-12T17:03:10Z"
-    },
-    {
-      "title": "Does shapewear make us less prone to taking risks? Weirdly, maybe yes",
-      "link": "https://www.newscientist.com/article/2583967-does-shapewear-make-us-less-prone-to-taking-risks-weirdly-maybe-yes/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Feedback is a little nonplussed by an experiment that involved wearing (or not wearing) compressing shapewear, and then playing cards",
-      "date": "2026-08-12T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2024/04/17102106/new-scientist-social-meta-image.png",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-12T17:03:10Z"
-    },
-    {
-      "title": "This week’s new questions",
-      "link": "https://www.newscientist.com/article/2583807-this-weeks-new-questions-358/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Humans can see water but not air. So can fish see air? And would it be possible to have anti-black holes, and how could we tell if we were looking at one?",
-      "date": "2026-08-12T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307346438.jpg",
       "name": "New Scientist",
       "category": "insects",
       "color": 12,
