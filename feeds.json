@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-20T19:36:42Z",
-  "updated_utc": "2026-08-20T19:36:42Z",
+  "updated": "2026-08-20T20:36:03Z",
+  "updated_utc": "2026-08-20T20:36:03Z",
   "count": 500,
   "stories": [
+    {
+      "title": "NASA-Funded Mission to Rescue a Falling Space Telescope Officially Ends in Failure",
+      "link": "https://www.smithsonianmag.com/smart-news/nasa-funded-mission-to-rescue-a-falling-space-telescope-officially-ends-in-failure-180989376/",
+      "summary": "The commercial LINK spacecraft was supposed to give NASA's Swift observatory a boost, pushing it higher into orbit to extend its life. But after launch, LINK experienced several pr",
+      "date": "Thu, 20 Aug 2026 19Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/Wg5hFcVdcIapCuKVkjgncI4hUxw=/420x240/filters:focal(450x257:451x258)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d5/77/d577c5f5-9e56-46b8-b772-eee37d2964f4/swift-over-earth-animation-2025.webp",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-20T20:35:55Z"
+    },
     {
       "title": "To Speak the Language of the Land",
       "link": "https://hakaimagazine.com/features/to-speak-the-language-of-the-land/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-08-13T11:53:34Z"
-    },
-    {
-      "title": "How to see and photograph the partial lunar eclipse on August 27-28",
-      "link": "https://www.livescience.com/products/optics/how-to-see-and-photograph-the-partial-lunar-eclipse-on-august-27-28",
-      "summary": "It may not be a 'blood moon' total lunar eclipse, but with more than 96% of the moon immersed in Earth's shadow, it promises a fine lunar observing and photography opportunity. Her",
-      "date": "Thu, 13 Aug 2026 10Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/78vScjZYLyFxqwpLYo3XaF-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-13T11:53:37Z"
     }
   ]
 }
