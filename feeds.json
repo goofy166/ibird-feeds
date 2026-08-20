@@ -1,8 +1,63 @@
 {
-  "updated": "2026-08-20T18:50:16Z",
-  "updated_utc": "2026-08-20T18:50:16Z",
+  "updated": "2026-08-20T19:36:42Z",
+  "updated_utc": "2026-08-20T19:36:42Z",
   "count": 500,
   "stories": [
+    {
+      "title": "To Speak the Language of the Land",
+      "link": "https://hakaimagazine.com/features/to-speak-the-language-of-the-land/",
+      "summary": "Nearly 200 of us cram into Tarāwhai, a traditional wooden Māori meeting house, under the gaze of the ancestors and deities carved into the posts and walls. We’re here in the home o",
+      "date": "Thu, 12 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-maori-language-and-place.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-08-20T19:36:28Z"
+    },
+    {
+      "title": "People Are Turning to Nicotine Pouches as a Pre-Workout Hack. Experts Are Concerned.",
+      "link": "https://www.outsideonline.com/health/training-performance/nicotine-pre-workout-trend-risks/",
+      "summary": "Nicotine pouches are the latest pre-workout trend among lifters and influencers. Experts explain why it may hurt performance more than help it. The post People Are Turning to Nicot",
+      "date": "Thu, 20 Aug 2026 19Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/Untitled-design-1.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-20T19:36:32Z"
+    },
+    {
+      "title": "How well do past extinctions predict extinction risk today?",
+      "link": "https://phys.org/news/2026-08-extinctions-extinction-today.html",
+      "summary": "In the last few centuries, mammals and other animals have been going extinct at least 100 times faster than they did before humans arrived on the scene. So who will be next? Which ",
+      "date": "2026-08-20T19:30:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/forest-chimpanzee.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-20T19:36:38Z"
+    },
+    {
+      "title": "A cell-motility pathway helps set the pace of embryo development",
+      "link": "https://phys.org/news/2026-08-cell-motility-pathway-pace-embryo.html",
+      "summary": "A molecular pathway known for controlling cell shape and movement also helps regulate the rhythm by which the vertebrate body is divided into repeated segments, FMI researchers rep",
+      "date": "2026-08-20T19:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-cell-motility-pathwa.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-20T19:36:38Z"
+    },
+    {
+      "title": "'Shaking up' biofilm research: Active topography reduces bacterial infections",
+      "link": "https://phys.org/news/2026-08-biofilm-topography-bacterial-infections.html",
+      "summary": "The use of antibiotics has traditionally been considered the gold standard in bacterial infection control—the more bacterial cells you kill, and the faster you kill them, the bette",
+      "date": "2026-08-20T19:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ren-shaking-up-biofilm.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-20T19:36:38Z"
+    },
     {
       "title": "Ruby-throated Hummingbirds – A Poem",
       "link": "https://www.10000birds.com/ruby-throated-hummingbirds-a-poem.htm?utm_source=rss&utm_medium=rss&utm_campaign=ruby-throated-hummingbirds-a-poem",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-08-13T11:53:37Z"
-    },
-    {
-      "title": "Things Fall into Place",
-      "link": "https://www.10000birds.com/things-fall-into-place.htm?utm_source=rss&utm_medium=rss&utm_campaign=things-fall-into-place",
-      "summary": "What [species] do you get a man who has [almost] everything? While I have been lucky enough to host many of Mexico’s best birders, including people who have seen all the species on",
-      "date": "Thu, 13 Aug 2026 10Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/08/Sparkling-tailed-Hummingbird-1-Arumbaro-July-2026.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-08-13T10:15:06Z"
-    },
-    {
-      "title": "Stop the bites! How to survive another summer of mosquitoes, midges and horseflies",
-      "link": "https://www.theguardian.com/environment/2026/aug/13/stop-the-bites-how-to-survive-another-summer-of-mosquitoes-midges-and-horseflies",
-      "summary": "Dress like a zebra, wash your feet, keep off the beer: insect experts explain what works and what doesn’t – and why some of us get bitten more than others It’s a good time to be a ",
-      "date": "2026-08-13T08:59:43Z",
-      "image": "https://i.guim.co.uk/img/media/00302a0dadbfa71f6f887372c9abd23f7a35ee38/555_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=5eb8e8887377902f9b865ea9735604b4",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-13T10:15:10Z"
-    },
-    {
-      "title": "Fate of the AMOC may depend on how quickly CO2 rises",
-      "link": "https://www.newscientist.com/article/2584353-fate-of-the-amoc-may-depend-on-how-quickly-co2-rises/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "The critical current could remain stable beyond 5°C of warming, but only if the warming happens very slowly",
-      "date": "Thu, 13 Aug 2026 09Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308081143.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-13T10:15:19Z"
-    },
-    {
-      "title": "Teaching AI the biology of antibodies speeds drug discovery",
-      "link": "https://phys.org/news/2026-08-ai-biology-antibodies-drug-discovery.html",
-      "summary": "Designing an effective antibody drug is like searching for the right key in a warehouse of locks. Scientists may begin with millions—or even billions—of antibody candidates, but on",
-      "date": "2026-08-13T09:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/antibody.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-13T10:15:21Z"
-    },
-    {
-      "title": "Nature's original bioplastic may have fed animals for hundreds of millions of years",
-      "link": "https://phys.org/news/2026-08-nature-bioplastic-fed-animals-hundreds.html",
-      "summary": "Long before humans discovered biodegradable plastics, microorganisms had already invented their own. Many bacteria and archaea produce natural bioplastics called polyhydroxyalkanoa",
-      "date": "2026-08-13T09:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/natures-original-biopl.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-13T10:15:21Z"
     }
   ]
 }
