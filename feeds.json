@@ -1,8 +1,52 @@
 {
-  "updated": "2026-08-20T08:48:37Z",
-  "updated_utc": "2026-08-20T08:48:37Z",
+  "updated": "2026-08-20T09:41:34Z",
+  "updated_utc": "2026-08-20T09:41:34Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Sagitta the Arrow lies inside the Summer Triangle",
+      "link": "https://earthsky.org/constellations/sagitta-the-arrow-summer-triangle-m71/",
+      "summary": "Sagitta the Arrow is a dim constellation that lies inside the Summer Triangle. It contains one Messier object, a small globular cluster. The post Sagitta the Arrow lies inside the ",
+      "date": "Thu, 20 Aug 2026 09Z",
+      "image": "https://earthsky.org/upl/2021/10/summer-triangle-sagitta-vulpecula-delphinus-cp.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-20T09:41:19Z"
+    },
+    {
+      "title": "NASA calls off rescue effort to save doomed telescope",
+      "link": "https://www.newscientist.com/article/2585668-nasa-calls-off-rescue-effort-to-save-doomed-telescope/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "The Swift observatory will now re-enter Earth’s atmosphere in a few months, after a mission to boost it higher failed",
+      "date": "Thu, 20 Aug 2026 09Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308888991.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-20T09:41:28Z"
+    },
+    {
+      "title": "AI firms are watermarking generated text – here’s why it won’t work",
+      "link": "https://www.newscientist.com/article/2584736-ai-firms-are-watermarking-generated-text-heres-why-it-wont-work/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "AI companies have begun embedding watermarks in the output of their models to improve transparency and help crack down on misinformation, disinformation and cheating on homework, b",
+      "date": "Thu, 20 Aug 2026 09Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308808886.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-20T09:41:28Z"
+    },
+    {
+      "title": "Australia races to shield little penguins from H5N1 bird flu",
+      "link": "https://phys.org/news/2026-08-australia-shield-penguins-h5n1-bird.html",
+      "summary": "Australian wildlife workers have launched an unprecedented effort to vaccinate wild populations of little penguins against the highly contagious H5N1 avian influenza.",
+      "date": "2026-08-20T08:50:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/little-penguins-in-aus.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-20T09:41:30Z"
+    },
     {
       "title": "Weatherwatch: Climate crisis fuelling steep fall in migratory bird numbers",
       "link": "https://www.theguardian.com/news/2026/aug/20/weatherwatch-climate-crisis-bird-migration",
@@ -5454,50 +5498,6 @@
       "summary": "Humans can see water but not air. So can fish see air? And would it be possible to have anti-black holes, and how could we tell if we were looking at one?",
       "date": "2026-08-12T17:00:00Z",
       "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307346438.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-12T17:03:10Z"
-    },
-    {
-      "title": "At what point does my family tree stop doubling and start decreasing? part 2",
-      "link": "https://www.newscientist.com/article/2583806-branching-out-4/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Our readers do the maths on what one of their mothers calls the family forest",
-      "date": "2026-08-12T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_302710031_c5cc90.jpg",
-      "name": "New Scientist",
-      "category": "butterflies",
-      "color": 12,
-      "fetched_at": "2026-08-12T17:03:10Z"
-    },
-    {
-      "title": "What changes will occur on Earth as the moon moves further away? part 2",
-      "link": "https://www.newscientist.com/article/2583805-what-changes-will-occur-on-earth-as-the-moon-moves-further-away-part-2/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "One reader explains how the moon’s drift will lead to longer (and warmer) days",
-      "date": "2026-08-12T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_304531134.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-12T17:03:10Z"
-    },
-    {
-      "title": "What is the optimal way to ice a cocktail?",
-      "link": "https://www.newscientist.com/article/2583804-what-is-the-optimal-way-to-ice-a-cocktail/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Readers dig into whether it’s best to have fewer big cubes or lots of small ones – and offer up their services to test it out",
-      "date": "2026-08-12T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_305158229.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-12T17:03:10Z"
-    },
-    {
-      "title": "If this brilliant cosmic horror show passed you by, rectify that now",
-      "link": "https://www.newscientist.com/article/2583800-if-this-brilliant-cosmic-horror-show-passed-you-by-rectify-that-now/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "The Killings at Parrish Station is a terrifying cosmic horror six-parter, which starts back in 1987 when two detectives find mangled bodies at an outback radio research station. TV",
-      "date": "2026-08-12T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307346589.jpg",
       "name": "New Scientist",
       "category": "insects",
       "color": 12,
