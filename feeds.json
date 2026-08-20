@@ -1,8 +1,96 @@
 {
-  "updated": "2026-08-20T15:39:49Z",
-  "updated_utc": "2026-08-20T15:39:49Z",
+  "updated": "2026-08-20T16:41:29Z",
+  "updated_utc": "2026-08-20T16:41:29Z",
   "count": 500,
   "stories": [
+    {
+      "title": "NASA is studying pyrocumulonimbus clouds by plane",
+      "link": "https://earthsky.org/earth/what-are-pyrocumulonimbus-clouds-fire-thunderstorms/",
+      "summary": "This summer, NASA is studying pyrocumulonimbus clouds, or fire-driven thunderstorms. Researchers are flying planes right into the smoke plumes for samples. The post NASA is studyin",
+      "date": "Thu, 20 Aug 2026 15Z",
+      "image": "https://earthsky.org/upl/2026/05/utahfire_pyrocumulonimbus-Aug-3-2026-NASA-e1787239737153.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-20T16:41:16Z"
+    },
+    {
+      "title": "How Should the Bayeux Tapestry End? A New Competition Invites Children to Reimagine Its Missing Final Panel",
+      "link": "https://www.smithsonianmag.com/smart-news/how-should-the-bayeux-tapestry-end-new-a-competition-invites-childresn-to-reimagine-its-missing-final-panel-180989366/",
+      "summary": "Some historians think the 230-foot-long artwork is missing its final panel, which may have once depicted William the Conqueror's coronation. As the tapestry goes on view in London,",
+      "date": "Thu, 20 Aug 2026 15Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/7VLD00-dP1qSCbLQuwU_Gjpjcr0=/420x240/filters:focal(750x543:751x544)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ed/c0/edc023fa-5a05-4e30-94bc-49e96c66a5c7/odo_bayeux_tapestry.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-20T16:41:21Z"
+    },
+    {
+      "title": "Will personalised mRNA vaccines transform cancer treatments?",
+      "link": "https://www.newscientist.com/article/2585809-will-personalised-mrna-vaccines-transform-cancer-treatments/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "A personalised mRNA cancer vaccine has produced positive results in a final-stage trial involving skin cancer, raising hopes that this approach could work against many cancers",
+      "date": "Thu, 20 Aug 2026 15Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308925555.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-20T16:41:24Z"
+    },
+    {
+      "title": "DNA's physical properties may shape which mutations evolution preserves",
+      "link": "https://phys.org/news/2026-08-dna-physical-properties-mutations-evolution.html",
+      "summary": "Nearly every cell in the human body contains essentially the same genetic information, yet different cells activate different genes. For regulatory proteins to reach these genes, D",
+      "date": "2026-08-20T16:40:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dnas-physical-properti.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-20T16:41:26Z"
+    },
+    {
+      "title": "3D imaging and machine learning improve noncontact weight estimation of frozen skipjack tuna",
+      "link": "https://phys.org/news/2026-08-3d-imaging-machine-noncontact-weight.html",
+      "summary": "Accurately determining fish body size and weight is essential for fisheries resource management and seafood processing; however, measuring large quantities of fish is labor-intensi",
+      "date": "2026-08-20T16:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/3d-imaging-and-machine.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-20T16:41:26Z"
+    },
+    {
+      "title": "Neanderthal hips challenge long-standing hypothesis of a trade-off between childbirth and bipedal walking",
+      "link": "https://phys.org/news/2026-08-neanderthal-hips-hypothesis-childbirth-bipedal.html",
+      "summary": "The most prominent difference between human male and female skeletons is the pelvis, which anthropologists often use to determine the sex of ancient remains. Scientists have long b",
+      "date": "2026-08-20T16:10:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/neanderthal-reconstruc.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-20T16:41:26Z"
+    },
+    {
+      "title": "Fertilizer prices and shortages are hamstringing our farmers. But we have other options",
+      "link": "https://phys.org/news/2026-08-fertilizer-prices-shortages-hamstringing-farmers.html",
+      "summary": "When was the last time you bought a loaf of bread?",
+      "date": "2026-08-20T15:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fertilizer-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-20T16:41:26Z"
+    },
+    {
+      "title": "Climate change will triple the number of days over 105 F in the US. The health impacts will be dire.",
+      "link": "https://www.livescience.com/products/health-fitness/climate-change-will-triple-the-number-of-days-over-105-f-in-the-us-the-health-impacts-will-be-dire",
+      "summary": "Extreme heat will become more common as the climate continues to warm. That will affect almost every facet of our health.",
+      "date": "Thu, 20 Aug 2026 16Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/TNNAB4HE7R6DBUwWwy54Dh-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-20T16:41:27Z"
+    },
     {
       "title": "Narwhals Sport Iconic Straight, Spiraled Tusks. Scientists Just Uncovered Some of the Eye-Catching Feature's Structural Secrets",
       "link": "https://www.smithsonianmag.com/smart-news/narwhals-sport-iconic-straight-spiraled-tusks-scientists-just-uncovered-some-of-the-eye-catching-features-structural-secrets-180989368/",
@@ -5414,94 +5502,6 @@
       "category": "wildlife",
       "color": 7,
       "fetched_at": "2026-08-12T23:49:56Z"
-    },
-    {
-      "title": "From the mine to the grid",
-      "link": "https://www.newscientist.com/article/2581325-from-the-mine-to-the-grid/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "How Komatsu machines help build Atlassian Williams F1 Team’s FW48",
-      "date": "2026-08-12T23:01:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/FW48-Challenger1.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-12T23:50:04Z"
-    },
-    {
-      "title": "AI‑designed viruses are a test of whether biosecurity can keep pace",
-      "link": "https://phys.org/news/2026-08-aidesigned-viruses-biosecurity-pace.html",
-      "summary": "Scientists have crossed an important line in biological engineering. In a recent study, researchers used artificial intelligence to design complete sets of genetic instructions for",
-      "date": "2026-08-12T23:20:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2016/1-zikavirus.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-12T23:50:06Z"
-    },
-    {
-      "title": "Total solar eclipse August 12, 2026: Best images",
-      "link": "https://earthsky.org/human-world/total-solar-eclipse-august-12-2026-best-images/",
-      "summary": "Total solar eclipse August 12! Whether you saw it or not from your location, you can experience it! See the best images from our community here. The post Total solar eclipse August",
-      "date": "2026-08-12T22:29:07Z",
-      "image": "https://earthsky.org/upl/2026/08/eclipse-aug12-2026-DanielWiegert-Mirador-de-Santa-Barbara-Spain.webp",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-08-12T22:49:56Z"
-    },
-    {
-      "title": "Controversial battery storage project in San Jose’s Coyote Valley is withdrawn",
-      "link": "https://www.mercurynews.com/2026/08/04/controversial-battery-storage-project-in-san-joses-coyote-valley-is-withdrawn/",
-      "summary": "Environmentalists, political leaders, parents at nearby school opposed plan on San Jose’s rural southern edges",
-      "date": "Tue, 04 Aug 2026 21Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/05/SJM-L-BATTERY-0528-3.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-08-12T22:49:59Z"
-    },
-    {
-      "title": "A Mysterious Silver Cub Just Debuted on the Katmai Bear Cam. Is It a Polar Bear Hybrid?",
-      "link": "https://www.outsideonline.com/outdoor-adventure/everest/katmai-bear-cam-pizzly-silver-cub/",
-      "summary": "An unusual silver cub on the Katmai Bear Cam sparked hybrid \"pizzly\" rumors. Naturalist Mike Fitz and NPS explain the rare genetics behind the 2026 star. The post A Mysterious Silv",
-      "date": "2026-08-12T22:39:54Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/pizly.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-12T22:50:01Z"
-    },
-    {
-      "title": "Thousands of Years Ago, Denisovans Might Have Been Huge, Especially Compared to Their Archaic Human Neighbors",
-      "link": "https://www.smithsonianmag.com/smart-news/thousands-of-years-ago-denisovans-might-have-been-huge-especially-compared-to-their-archaic-human-neighbors-180989327/",
-      "summary": "New research offers rare insight into our extinct cousins who lived in Asia and who may have towered over petite \"Homo erectus\"",
-      "date": "2026-08-12T22:14:27Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/SlQhOdbEudT3erJ46Br6cQifWQU=/420x240/filters:focal(2876x1917:2877x1918)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6b/7a/6b7ae765-87f7-43a3-85ff-3ee90dd67bcb/pexels-kampus-8188741.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-12T22:50:03Z"
-    },
-    {
-      "title": "A Historian at MIT Discovered the Surprising Truth About This Chinese Label Long Thought to Be a Souvenir of the Boston Tea Party",
-      "link": "https://www.smithsonianmag.com/smart-news/a-historian-at-mit-discovered-the-surprising-truth-about-this-chinese-label-long-thought-to-be-a-souvenir-of-the-boston-tea-party-180989328/",
-      "summary": "The saga of the artifact displayed at Boston's Old South Meeting House demonstrates how the study of history evolves",
-      "date": "2026-08-12T21:17:23Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/l0XXCAoyMH-nPp_fNdjpy36Nc7w=/420x240/filters:focal(895x549:896x550)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/48/92/48928dab-d2a5-4093-b80a-08fe15b5d229/boston_tea_party_currier_colored.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-12T21:54:04Z"
-    },
-    {
-      "title": "Fast-moving wildfires may prevent western forests from recovering",
-      "link": "https://phys.org/news/2026-08-fast-wildfires-western-forests-recovering.html",
-      "summary": "The severe, drought-fueled fires now burning across much of the American West and Canada may be scorching forests so thoroughly that they cannot recover to the forests they once we",
-      "date": "2026-08-12T21:50:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/wildfire.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-12T21:54:09Z"
     }
   ]
 }
