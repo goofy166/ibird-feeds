@@ -1,8 +1,85 @@
 {
-  "updated": "2026-08-20T13:01:52Z",
-  "updated_utc": "2026-08-20T13:01:52Z",
+  "updated": "2026-08-20T14:42:45Z",
+  "updated_utc": "2026-08-20T14:42:45Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Lobsters and acidic seas: can shellfish help neutralise one of the greatest threats to the ocean?",
+      "link": "https://www.theguardian.com/environment/2026/aug/20/environment-oceans-acidification-alkali-carbon-absorption-lobsters",
+      "summary": "Crustaceans are the subject of tests to see if alkalis added to seawater, so it absorbs more CO2, harm marine life. But Trump’s halt to funding threatens to scupper the research Fo",
+      "date": "2026-08-20T14:00:52Z",
+      "image": "https://i.guim.co.uk/img/media/c5d8e574d2a6be0067606206ed1b286ce94319be/0_0_4016_3213/master/4016.jpg?width=140&quality=85&auto=format&fit=max&s=154118993bb8d384e4bf3f65f6b24e4a",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-20T14:42:29Z"
+    },
+    {
+      "title": "Archaeologists Have Found Thousands of Intact Ancient Human Brains. Scientists Say They've Figured Out Why the Organs Don't Always Rot",
+      "link": "https://www.smithsonianmag.com/smart-news/archaeologists-have-found-thousands-of-intact-ancient-human-brains-scientists-say-theyve-figured-out-why-the-organs-dont-always-rot-180989370/",
+      "summary": "Under the right conditions—wet and oxygen-deprived—the same chemical reactions that cause tissue to break down can instead have the opposite effect, according to a new study",
+      "date": "Thu, 20 Aug 2026 14Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/IrZlzqeLEpN6cq4l8_yQDXWyLtU=/420x240/filters:focal(430x418:431x419)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d2/7f/d27fe3f3-d20b-4edc-a179-3f4c537d5546/banner_image_brain_0.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-20T14:42:37Z"
+    },
+    {
+      "title": "Depression doesn’t shrink the brain like we thought it did",
+      "link": "https://www.newscientist.com/article/2585479-depression-doesnt-shrink-the-brain-like-we-thought-it-did/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "For the past decade, depression has been linked to a shrunken hippocampus, which has a vital role in memory. But a large study using up-to-date scanning techniques suggests this ma",
+      "date": "Thu, 20 Aug 2026 14Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308285036.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-20T14:42:39Z"
+    },
+    {
+      "title": "How sex sheds evolutionary baggage",
+      "link": "https://phys.org/news/2026-08-sex-evolutionary-baggage.html",
+      "summary": "Why is there sex—or, more precisely, sexual reproduction? If you're an evolutionary biologist, the answer isn't obvious. Sexual reproduction is biologically costly, requiring not o",
+      "date": "2026-08-20T14:40:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/birds-mating.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-20T14:42:41Z"
+    },
+    {
+      "title": "Ocean time travelers return with secrets of the Great Barrier Reef",
+      "link": "https://phys.org/news/2026-08-ocean-secrets-great-barrier-reef.html",
+      "summary": "A team of Australian researchers has woven together modern science and Indigenous knowledge to reveal new insights into the evolution, history and future of the southern Great Barr",
+      "date": "2026-08-20T13:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ocean-time-travellers.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-20T14:42:41Z"
+    },
+    {
+      "title": "Mini 'arteries-on-a-chip' could help predict a person's risk of stroke",
+      "link": "https://www.livescience.com/health/heart-circulation/mini-arteries-on-a-chip-could-help-predict-a-persons-risk-of-stroke",
+      "summary": "New models of the carotid artery can be personalized for different people, revealing subtle differences in stroke risk.",
+      "date": "Thu, 20 Aug 2026 14Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/92HfdaXXJAhGzdQH2M643c-1280-80.gif",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-20T14:42:43Z"
+    },
+    {
+      "title": "1,400-year-old skeleton found in underground channel in Peru may have belonged to human sacrifice victim",
+      "link": "https://www.livescience.com/archaeology/americas/1-400-year-old-skeleton-found-in-underground-channel-in-peru-may-have-belonged-to-human-sacrifice-victim",
+      "summary": "A mysterious burial in an underground water channel may help archaeologists understand a pre-Inca ritual in Peru.",
+      "date": "Thu, 20 Aug 2026 13Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/SunX3qAama7S5L5LfhFUT-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-20T14:42:43Z"
+    },
     {
       "title": "Astronomers discover a black hole star, a new type of object",
       "link": "https://earthsky.org/space/black-hole-star-new-object-little-red-dots/",
@@ -5425,83 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-12T20:54:10Z"
-    },
-    {
-      "title": "Genetic switch could help tomatoes produce fruit in cold weather",
-      "link": "https://phys.org/news/2026-08-genetic-tomatoes-fruit-cold-weather.html",
-      "summary": "Every tomato begins with a flower. But before a fruit can grow, an intricate sequence of events must happen in perfect order. The flower's male and female organs must develop toget",
-      "date": "2026-08-12T20:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genetic-switch-could-h-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-12T20:54:10Z"
-    },
-    {
-      "title": "Single synthetic peptide forms electrically polarized, self-healing hydrogel",
-      "link": "https://phys.org/news/2026-08-synthetic-peptide-electrically-polarized-hydrogel.html",
-      "summary": "Researchers from the RIKEN Center for Sustainable Resource Science (CSRS) and RIKEN Pioneering Research Institute (PRI) in Japan, together with collaborators from the University of",
-      "date": "2026-08-12T20:00:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-biomedical-tech-se.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-12T20:54:10Z"
-    },
-    {
-      "title": "Microbes turn CO₂ into protein and vitamin B9 at commercially viable prices",
-      "link": "https://phys.org/news/2026-08-microbes-protein-vitamin-b9-commercially.html",
-      "summary": "Researchers are developing biotechnological processes that enable microbes to produce proteins and vitamins for human consumption using basic chemical ingredients, such as carbon d",
-      "date": "2026-08-12T19:40:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/industrial-scale-biote.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-12T20:54:10Z"
-    },
-    {
-      "title": "AI tool could help veterinarians track heart disease more precisely",
-      "link": "https://phys.org/news/2026-08-ai-tool-veterinarians-track-heart.html",
-      "summary": "For dogs with heart disease, a fraction of a centimeter can make a life-changing difference. Veterinarians often rely on chest radiographs to monitor subtle changes in heart size t",
-      "date": "2026-08-12T19:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-tool-could-help-vet.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-12T20:54:10Z"
-    },
-    {
-      "title": "History, not age, determines the genomic importance of ancient trees",
-      "link": "https://phys.org/news/2026-08-history-age-genomic-importance-ancient.html",
-      "summary": "Ancient trees—those that are remarkably old for their species—are declining worldwide, raising concerns about the loss of the ecological and evolutionary history they represent. Th",
-      "date": "2026-08-12T19:20:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/history-not-age-determ.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-12T20:54:10Z"
-    },
-    {
-      "title": "Totality! See the first photos of the Aug. 12 total solar eclipse over Spain",
-      "link": "https://www.livescience.com/space/the-sun/totality-see-the-first-photos-of-the-aug-12-total-solar-eclipse-over-spain",
-      "summary": "See the first images of totality over Spain from the Aug. 12 total solar eclipse. A bright-pink prominence makes a cameo appearance.",
-      "date": "2026-08-12T19:25:27Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/DJwEnmTQCMMjJUtbwkZAJc-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-12T20:54:11Z"
-    },
-    {
-      "title": "Young wild octopuses may form a 'fight club' and slap territorial fish if they get too close",
-      "link": "https://www.livescience.com/animals/octopuses/young-wild-octopuses-may-form-a-fight-club-and-slap-territorial-fish-if-they-get-too-close",
-      "summary": "A new study shows that octopuses act differently around territorial fish species, displaying a unique body pattern.",
-      "date": "2026-08-12T19:24:59Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/k3h32HLFVep3LZRRKQEE4P-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-12T20:54:11Z"
     }
   ]
 }
