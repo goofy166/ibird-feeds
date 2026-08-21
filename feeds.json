@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-21T03:10:03Z",
-  "updated_utc": "2026-08-21T03:10:03Z",
+  "updated": "2026-08-21T04:46:40Z",
+  "updated_utc": "2026-08-21T04:46:40Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Thousands of little penguins being vaccinated against H5 bird flu in Victoria – video",
+      "link": "https://www.theguardian.com/world/video/2026/aug/21/thousands-of-little-penguins-being-vaccinated-against-h5-bird-flu-in-victoria-video",
+      "summary": "Victoria has begun vaccinating about 5,000 little penguins at Phillip Island and St Kilda to protect them against the deadly H5 bird flu, in what is believed to be the world’s larg",
+      "date": "2026-08-21T04:25:08Z",
+      "image": "https://i.guim.co.uk/img/media/e44deeeee60d06aa6cdd5a27c26d742d57e2c342/0_326_1080_863/master/1080.jpg?width=140&quality=85&auto=format&fit=max&s=259f2bf7586466e2ef9fc16b8108c1db",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-21T04:46:23Z"
+    },
+    {
+      "title": "Python named Jodie Foster first snake to receive pioneering cancer treatment",
+      "link": "https://www.theguardian.com/world/2026/aug/21/python-jodie-foster-snake-cancer-electrochemotherapy",
+      "summary": "Chester zoo resident, 23, ‘back to her usual feisty self’ after electrochemotherapy for tumour in her jaw A 15ft (4.5-metre) python is believed to be the first snake in the world t",
+      "date": "2026-08-21T04:00:25Z",
+      "image": "https://i.guim.co.uk/img/media/ef9fee5d3345a3f4013ed0342b0cd03aeba79b0d/525_0_4376_3500/master/4376.jpg?width=140&quality=85&auto=format&fit=max&s=f68d8655851011bc63c61022bb030d24",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-21T04:46:23Z"
+    },
+    {
+      "title": "Global access to food crops is affected by transport costs and economic inequality",
+      "link": "https://phys.org/news/2026-08-global-access-food-crops-affected.html",
+      "summary": "Producing enough food is only one part of ensuring global food security. A new study shows that transport networks and economic inequality are important factors in determining glob",
+      "date": "2026-08-21T03:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/global-access-to-food.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-21T04:46:37Z"
+    },
     {
       "title": "Scarce emergence of new species drove the decline of African megaherbivores, study suggests",
       "link": "https://phys.org/news/2026-08-scarce-emergence-species-drove-decline.html",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-08-13T13:26:49Z"
-    },
-    {
-      "title": "Controlling wild pigs can work if it's a group effort",
-      "link": "https://phys.org/news/2026-08-wild-pigs-group-effort.html",
-      "summary": "The federal government is injecting millions of dollars into efforts to combat feral hogs—and it's considering spending even more in the coming years. The problem has grown for dec",
-      "date": "2026-08-13T13:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wild-pigs.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-13T13:26:53Z"
-    },
-    {
-      "title": "'How many will die?': The mysterious ailment killing Kenyan elephants",
-      "link": "https://phys.org/news/2026-08-die-mysterious-ailment-kenyan-elephants.html",
-      "summary": "Lying on the ground and kicking up a cloud of dust, the elephant slowly exhausted himself in futile attempts to stand, the latest potential victim of a still-mysterious ailment in ",
-      "date": "2026-08-13T13:07:49Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/while-observers-still.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-13T13:26:53Z"
-    },
-    {
-      "title": "Mice bred to run three times farther show no fertility or lifespan cost",
-      "link": "https://phys.org/news/2026-08-mouse-assumed-offs-athleticism-fertility.html",
-      "summary": "Being an elite athlete—at least for a mouse—does not shorten lifespan or limit how many children one can have. This is the finding of a study 30 years in the making, and it runs co",
-      "date": "2026-08-13T12:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/lab-mouse-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-13T13:26:53Z"
     }
   ]
 }
