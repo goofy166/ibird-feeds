@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-21T19:30:32Z",
-  "updated_utc": "2026-08-21T19:30:32Z",
+  "updated": "2026-08-21T20:32:27Z",
+  "updated_utc": "2026-08-21T20:32:27Z",
   "count": 500,
   "stories": [
+    {
+      "title": "40 Types of Rabbit-Resistant Plants You Can Grow (2026)",
+      "link": "https://birdwatchinghq.com/rabbit-resistant-plants/",
+      "summary": "“Where did all my flowers go?!” I’ve asked myself this question more than once, and usually, the answer can be summed up with one word -> rabbits! These creatures are adorable but ",
+      "date": "2024-04-24T19:32:31Z",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2020/06/rabbits-eating-clover.jpg",
+      "name": "BWatching HQ",
+      "category": "birds",
+      "color": 4,
+      "fetched_at": "2026-08-21T20:32:11Z"
+    },
+    {
+      "title": "New Mexico man killed in rare fatal bear attack, only second in state in a century",
+      "link": "https://www.theguardian.com/us-news/2026/aug/21/new-mexico-fatal-bear-attack",
+      "summary": "Police department for Navajo Nation neither identified the victim nor said what type of bear had killed him In a rare kind of attack, a bear killed a man in Crystal, New Mexico , o",
+      "date": "2026-08-21T20:28:02Z",
+      "image": "https://i.guim.co.uk/img/media/e065394a0481c42279f95738a8864f783697bdaf/196_0_1960_1568/master/1960.jpg?width=140&quality=85&auto=format&fit=max&s=2390db827ce587d487622d518fce5ca8",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-21T20:32:13Z"
+    },
+    {
+      "title": "Scientists map hair follicle formation in spacetime, advancing understanding of how organs develop",
+      "link": "https://phys.org/news/2026-08-scientists-hair-follicle-formation-spacetime.html",
+      "summary": "In a new research report, scientists at Johns Hopkins Medicine say they have developed a technology that allows them to capture a 3D molecular \"snapshot\" of hundreds of hair follic",
+      "date": "2026-08-21T20:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-map-hair-fo.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-21T20:32:24Z"
+    },
     {
       "title": "So Long, and Thanks for All the Fish",
       "link": "https://hakaimagazine.com/article-short/so-long-and-thanks-for-all-the-fish/",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-08-14T06:19:07Z"
-    },
-    {
-      "title": "From toxic blooms to dead zones, how wildfires transform oceans and lakes",
-      "link": "https://www.theguardian.com/news/2026/aug/14/wildfires-transform-oceans-lakes-smoke-ash",
-      "summary": "Wildfire smoke and ash can reshape aquatic ecosystems long after the flames have been extinguished Wildfires are an increasing problem in Europe and elsewhere. While their immediat",
-      "date": "2026-08-14T05:00:19Z",
-      "image": "https://i.guim.co.uk/img/media/e481b9ac69a46ab8cb6396d1208981ac2065b511/1134_0_5670_4536/master/5670.jpg?width=140&quality=85&auto=format&fit=max&s=1bd53fb3949f48dbd492f74543111f47",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-14T06:19:07Z"
-    },
-    {
-      "title": "Indonesia wildfires threaten orangutans rescued from animal traffickers",
-      "link": "https://www.theguardian.com/world/2026/aug/14/indonesia-wildfires-threaten-orangutans-rescued-from-animal-traffickers",
-      "summary": "Blaze fuelled by hot, dry and windy conditions comes within metres of West Kalimantan rehabilitation centre Orangutans rescued from wildlife traffickers face a new threat from the ",
-      "date": "2026-08-14T04:00:16Z",
-      "image": "https://i.guim.co.uk/img/media/365918ec3179a84ff298260a75a2f84e0be35263/34_0_3960_3168/master/3960.jpg?width=140&quality=85&auto=format&fit=max&s=b36dbdcf7004485e56ce49e75cd6d4e3",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-14T04:54:20Z"
-    },
-    {
-      "title": "Why has Britain's grass turned yellow? A plant scientist explains what happens next",
-      "link": "https://phys.org/news/2026-08-britain-grass-yellow-scientist.html",
-      "summary": "Fields, parks and lawns across Europe have turned to straw this summer. Landscapes thousands of years old have been revealed as green outlines against yellow backgrounds, where anc",
-      "date": "2026-08-14T00:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dead-grass.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-14T02:30:20Z"
     }
   ]
 }
