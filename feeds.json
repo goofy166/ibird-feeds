@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-21T20:32:27Z",
-  "updated_utc": "2026-08-21T20:32:27Z",
+  "updated": "2026-08-21T21:30:46Z",
+  "updated_utc": "2026-08-21T21:30:46Z",
   "count": 500,
   "stories": [
+    {
+      "title": "American Cyclists Mourn Two Collegiate Racers Killed by a Driver in Tennessee",
+      "link": "https://www.outsideonline.com/outdoor-adventure/biking/milligan-university-cyclists/",
+      "summary": "On August 19, a driver in Tennessee plowed into 11 cyclists on the Milligan University collegiate cycling team, killing two The post American Cyclists Mourn Two Collegiate Racers K",
+      "date": "2026-08-21T20:32:57Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/Milligan1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-21T21:30:34Z"
+    },
+    {
+      "title": "Climate change could triple the price of wheat",
+      "link": "https://phys.org/news/2026-08-climate-triple-price-wheat.html",
+      "summary": "Bread, pasta and breakfast cereals may seem far removed from dry fields in North America, Europe or Asia. Yet when water shortages hit several of the world's most important wheat-g",
+      "date": "2026-08-21T21:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-change-could-t.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-21T21:30:41Z"
+    },
     {
       "title": "40 Types of Rabbit-Resistant Plants You Can Grow (2026)",
       "link": "https://birdwatchinghq.com/rabbit-resistant-plants/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-08-14T08:21:39Z"
-    },
-    {
-      "title": "Bird flu is a huge disaster and it’s normal to find it distressing and sad. How can we deal with this grief? | First Dog on the Moon",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/aug/14/bird-flu-is-a-huge-disaster-and-its-normal-to-find-it-distressing-and-sad-how-can-we-deal-with-this-grief",
-      "summary": "Firstly you can just grieve – it’s not your fault because you used a plastic straw that one time Sign up here to get an email whenever First Dog cartoons are published Get all your",
-      "date": "2026-08-14T06:14:56Z",
-      "image": "https://i.guim.co.uk/img/media/783c4b5d5af8c778a5537fb6307ba7a8f1211384/0_0_679_543/master/679.jpg?width=140&quality=85&auto=format&fit=max&s=2a9cecf3aed031579306be82ee083bf6",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-14T06:19:07Z"
-    },
-    {
-      "title": "Crush-worthy cephalopods and beautiful bugs – vote for the invertebrate of the year",
-      "link": "https://www.theguardian.com/environment/2026/aug/14/cephalopods-bugs-vote-for-invertebrate-of-the-year",
-      "summary": "Of the 1.3m spineless wonders in the world, you told us your favourites. Now it’s time to pick the winner • Don’t get Down to Earth delivered to your inbox? Sign up here It’s raini",
-      "date": "2026-08-14T06:00:21Z",
-      "image": "https://i.guim.co.uk/img/media/f95644161d78a8d4b7abb363fadef45ea1e66f3d/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d63311263bcf2b85b4157cc75092ba79",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-14T06:19:07Z"
     }
   ]
 }
