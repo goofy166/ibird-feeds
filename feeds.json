@@ -1,8 +1,96 @@
 {
-  "updated": "2026-08-21T17:35:24Z",
-  "updated_utc": "2026-08-21T17:35:24Z",
+  "updated": "2026-08-21T18:47:06Z",
+  "updated_utc": "2026-08-21T18:47:06Z",
   "count": 500,
   "stories": [
+    {
+      "title": "8 New Finds Birds & Blooms Editors Are Loving Right Now",
+      "link": "https://www.birdsandblooms.com/birding/new-finds-2026/",
+      "summary": "From high-tech feeders and rugged binoculars to cozy apparel and bird-themed gear, explore our handpicked recommendations for August! The post 8 New Finds Birds & Blooms Editors Ar",
+      "date": "Thu, 13 Aug 2026 16Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/08/8-New-Finds-Birds-Blooms-Editors-Are-Loving-Right-Now_Via-merchant.jpg?fit=700,1024",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-08-21T18:46:45Z"
+    },
+    {
+      "title": "Move over bears. Fat Marmot Week puts a spotlight on the alpine rodents",
+      "link": "https://www.mercurynews.com/2026/08/21/marmots-climate-research/",
+      "summary": "Marmot researchers are launching an online contest for the public's favorite critter.",
+      "date": "2026-08-21T16:34:26Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/Marmots_Climate_Research_93218-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-08-21T18:46:53Z"
+    },
+    {
+      "title": "A New Personalized Cancer Vaccine Could Keep Skin Cancer From Coming Back, Drugmakers Say",
+      "link": "https://www.smithsonianmag.com/smart-news/new-personalized-cancer-vaccine-could-keep-skin-cancer-from-coming-back-drugmakers-say-180989382/",
+      "summary": "The results, announced this week by Moderna and Merck, could pave the way for a new generation of treatments tailored to individual tumors",
+      "date": "2026-08-21T18:16:21Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/edcUW2c6-lZf7E8S2kXyVGt3eyE=/420x240/filters:focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8f/51/8f519049-2d05-4f9a-8858-f58ed880bd57/gettyimages-1432941680.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-21T18:46:56Z"
+    },
+    {
+      "title": "Shipwreck Hunters Discover the Ruins of a British Destroyer That Split in Half During a Tragic Peacetime Accident 118 Years Ago",
+      "link": "https://www.smithsonianmag.com/smart-news/shipwreck-hunters-discover-the-ruins-of-a-british-destroyer-that-split-in-half-during-a-tragic-peacetime-accident-118-years-ago-180989379/",
+      "summary": "Minutes after it collided with a 10,000-ton cruiser, the HMS \"Tiger\" sank to the bottom of the English Channel. Divers and historians have spent the past four years searching for t",
+      "date": "2026-08-21T18:04:39Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/0t0kylGP7VEVK7z7Ti7iXAysQ8I=/420x240/filters:focal(810x540:811x541)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d0/64/d064592c-d3fc-4ce4-a068-9252a84df55d/dr_steffen_g_scholz_credit_single_whitehead_torpedo_tube_locat-098ead67b3c8a8d78866627705003f89.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-21T18:46:56Z"
+    },
+    {
+      "title": "‘Thunderquakes’ do more than shake the ground — they map it",
+      "link": "https://www.sciencenews.org/article/thunderquakes-shake-ground-map-it",
+      "summary": "Scientists used fiber-optic cables to turn “thunderquakes” into underground maps that could help reveal hidden hazards beneath cities.",
+      "date": "2026-08-21T18:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/082126_CG_thunderquake_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-08-21T18:46:58Z"
+    },
+    {
+      "title": "Ocean plankton reveal sugar-for-nutrients partnership that sustains life in barren seas",
+      "link": "https://phys.org/news/2026-08-ocean-plankton-reveal-sugar-nutrients.html",
+      "summary": "In the vast, nutrient-poor regions of the world's oceans, there is a constant struggle for survival. Yet tiny organisms known as Collodaria have thrived there for millions of years",
+      "date": "2026-08-21T18:20:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/division-of-labor-on-a.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-21T18:47:02Z"
+    },
+    {
+      "title": "First 15 days of egg development may determine survival for California's most endangered salmon",
+      "link": "https://phys.org/news/2026-08-days-egg-survival-california-endangered.html",
+      "summary": "Sacramento River winter-run Chinook salmon are California's most endangered salmon, with a single surviving population and an average of a few thousand returning fish in recent dec",
+      "date": "2026-08-21T18:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-secret-to-survival-f.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-21T18:47:02Z"
+    },
+    {
+      "title": "Move over bears. Fat Marmot Week puts a spotlight on the alpine rodents",
+      "link": "https://phys.org/news/2026-08-fat-marmot-week-spotlight-alpine.html",
+      "summary": "Last winter was tough for marmots living high in the Colorado mountains, where researchers say two-thirds of one population died while hibernating because of insufficient snow cove",
+      "date": "2026-08-21T17:40:11Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/colorado-mountain.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-21T18:47:02Z"
+    },
     {
       "title": "‘Off the charts’ El Niño is already the strongest since records began",
       "link": "https://www.newscientist.com/article/2586031-off-the-charts-el-nino-is-already-the-strongest-since-records-began/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -5414,94 +5502,6 @@
       "category": "butterflies",
       "color": 13,
       "fetched_at": "2026-08-13T22:51:32Z"
-    },
-    {
-      "title": "After a Multi-State Manhunt, Officials Arrest Murder Suspect Accused of Killing, Posing as His Roommate",
-      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/mount-hood-murder-suspect-cris-jones/",
-      "summary": "A California murder suspect allegedly hid near Harriet Lake in Mount Hood National Forest before he was arrested by a SWAT team. The post After a Multi-State Manhunt, Officials Arr",
-      "date": "Thu, 13 Aug 2026 21Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/cris-jones-arrest.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-13T21:53:36Z"
-    },
-    {
-      "title": "The Ultimate Training Tool for Trail Runners",
-      "link": "https://www.outsideonline.com/outdoor-gear/tools/the-ultimate-training-tool-for-trail-runners/",
-      "summary": "With rugged upgrades, trail-ready features, and helpful insights as you run, the all-new Galaxy Watch Ultra2 from Samsung will help you go the distance The post The Ultimate Traini",
-      "date": "Thu, 13 Aug 2026 20Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/v2_Trail_Band_sml_Lifestyle_4000x3000_RGB-scaled-e1785962101596.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-13T21:53:36Z"
-    },
-    {
-      "title": "Mutation hotspots help 'friendly' viruses outmaneuver the bacteria in your gut",
-      "link": "https://phys.org/news/2026-08-mutation-hotspots-friendly-viruses-outmaneuver.html",
-      "summary": "Every 15 minutes, someone in the U.S. dies from a drug-resistant superbug. A few decades from now, antibiotic-resistant bacterial infections threaten to become the leading cause of",
-      "date": "2026-08-13T21:50:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mutation-hotspots-help-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-13T21:53:42Z"
-    },
-    {
-      "title": "How a mystery kept in London led to the discovery of a new Ecuadorian frog",
-      "link": "https://phys.org/news/2026-08-mystery-london-discovery-ecuadorian-frog.html",
-      "summary": "Scientists from the Pontificia Universidad Católica del Ecuador officially described Pristimantis milpe, an abundant and widely distributed species that had been confused with anot",
-      "date": "2026-08-13T21:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-mystery-kept-in-lond-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-13T21:53:42Z"
-    },
-    {
-      "title": "Safe havens protect Australian mammals from invasive predators. Why aren't they working for other animal groups?",
-      "link": "https://phys.org/news/2026-08-safe-havens-australian-mammals-invasive.html",
-      "summary": "Feral cats and foxes now roam across almost all of Australia. These predators are a major reason why many species have been driven to extinction.",
-      "date": "2026-08-13T21:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/safe-havens-protect-au-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-13T21:53:42Z"
-    },
-    {
-      "title": "So Long, and Thanks for All the Fish",
-      "link": "https://hakaimagazine.com/article-short/so-long-and-thanks-for-all-the-fish/",
-      "summary": "We started Hakai Magazine over 10 years ago because the ocean and its coastlines needed a voice. No other outlet was exclusively covering issues at the interface of sea and land—or",
-      "date": "2024-12-27T08:05:43Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-so-long-and-thanks-for-all-the-fish.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-08-13T20:51:51Z"
-    },
-    {
-      "title": "Meat Wasn't the Only Food That Drove Early Humans to Evolve Bigger Brains. Sugar May Have Fueled the Organ's Enlargement, Too",
-      "link": "https://www.smithsonianmag.com/smart-news/meat-wasnt-the-only-food-that-drove-early-humans-to-evolve-bigger-brains-sugar-may-have-fueled-the-organs-enlargement-too-180989335/",
-      "summary": "Scientists examined four million years of hominin diets. They found that natural sugars may have supplied energy—in the form of glucose—to growing brains before cooking made starch",
-      "date": "Thu, 13 Aug 2026 20Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/xyrJivpT6kqr9I94OJ08nT00NRU=/420x240/filters:focal(600x400:601x401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/57/76/5776a4a5-356c-417f-9fba-22157da9bb44/gorilla_primate_ape_lowland_gorilla_watch_thinking_close_view-594335jpgd.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-13T20:51:56Z"
-    },
-    {
-      "title": "More Than 200 Golden Mozart Statuettes Stolen From Salzburg Months After Famed Composer’s 270th Birthday",
-      "link": "https://www.smithsonianmag.com/smart-news/more-than-200-golden-mozart-statuettes-stolen-from-salzburg-months-after-famed-composers-270th-birthday-180989332/",
-      "summary": "The Austrian public art installation heist is not the first time miniature statues of composers have been stolen",
-      "date": "Thu, 13 Aug 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/1ixzbm2IPpjcub-dURNEzN7Rlho=/420x240/filters:focal(512x341:513x342)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/93/7c/937ccc65-78e5-41cc-bc76-1d0d38d36e8a/gettyimages-2287725112.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-13T20:51:56Z"
     }
   ]
 }
