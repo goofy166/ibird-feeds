@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-21T07:50:55Z",
-  "updated_utc": "2026-08-21T07:50:55Z",
+  "updated": "2026-08-21T08:49:47Z",
+  "updated_utc": "2026-08-21T08:49:47Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Teapot of Sagittarius points to the Milky Way’s center",
+      "link": "https://earthsky.org/favorite-star-patterns/teapot-of-sagittarius-points-to-galactic-center/",
+      "summary": "As you gaze toward the famous Teapot asterism in the constellation Sagittarius, you are looking toward the center of our Milky Way galaxy. The post Teapot of Sagittarius points to ",
+      "date": "2026-08-21T08:00:04Z",
+      "image": "https://earthsky.org/upl/2014/08/teapot-galactic-center-e1469703144957.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-21T08:49:34Z"
+    },
+    {
+      "title": "How long could we possibly live? A new estimate is mind-boggling",
+      "link": "https://www.newscientist.com/article/2585285-how-long-could-we-possibly-live-a-new-estimate-is-mind-boggling/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Biogerontologists are exploring the upper limit for human life. A recent study has it verging on two centuries – but columnist Graham Lawton finds reason to be sceptical",
+      "date": "2026-08-21T08:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI308314892.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-21T08:49:42Z"
+    },
     {
       "title": "Rewilded land remains green amid drought-stricken English countryside, images show",
       "link": "https://www.theguardian.com/environment/2026/aug/21/somerset-rewilding-holnicote-estate-wetlands-rivers-resilience",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 7,
       "fetched_at": "2026-08-13T13:26:43Z"
-    },
-    {
-      "title": "Stingray lashings up in Southern California as marine heat wave draws more to shore",
-      "link": "https://www.mercurynews.com/2026/08/13/stingray-lashings-up-southern-california/",
-      "summary": "Bolsa Chica and Huntington state beaches reported more than 3,100 incidents so far this year, twice the number for all of 2025.",
-      "date": "Thu, 13 Aug 2026 13Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/California_Stingrays_22643-1.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-08-13T13:26:45Z"
-    },
-    {
-      "title": "Way Bandy Was One of the Most Influential Makeup Artists in the World. He Challenged Stigmas in the 1980s by Making Sure His Death From AIDS Was Widely Known",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/way-bandy-was-one-of-the-most-influential-makeup-artists-in-the-world-he-challenged-stigmas-in-the-1980s-by-making-sure-his-death-from-aids-was-widely-known-180989330/",
-      "summary": "He instructed the executors of his will to make his specific cause of death from the disease public during a time when many others feared doing so",
-      "date": "Thu, 13 Aug 2026 13Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/zw_ysUw4K4xtFpTevb55TT7Nll8=/420x240/filters:focal(1531x1065:1532x1066)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/57/8d/578dee77-86e2-4252-b88e-77d18f223db8/gettyimages-108357399.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-13T13:26:49Z"
     }
   ]
 }
