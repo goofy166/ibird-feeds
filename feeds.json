@@ -1,8 +1,85 @@
 {
-  "updated": "2026-08-21T15:40:09Z",
-  "updated_utc": "2026-08-21T15:40:09Z",
+  "updated": "2026-08-21T16:41:57Z",
+  "updated_utc": "2026-08-21T16:41:57Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The curious case of the Norfolk Plover",
+      "link": "https://www.10000birds.com/the-curious-case-of-the-norfolk-plover.htm?utm_source=rss&utm_medium=rss&utm_campaign=the-curious-case-of-the-norfolk-plover",
+      "summary": "Latin was not, I’m afraid, one of my stronger subjects at school, but when it comes to Latin bird names I do have a handy book I can consult entitled Birds – their Latin names expl",
+      "date": "2026-08-21T15:59:00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/08/P4240002-scaled.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-08-21T16:41:14Z"
+    },
+    {
+      "title": "Sun news: Almost-X flare from new powerhouse region",
+      "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+      "summary": "Sun news August 21, 2026: AR4513 struck again with an M8.1 flare. With an impressive magnetic complexity, this region could soon provide even bigger flares. The post Sun news: Almo",
+      "date": "2026-08-21T09:00:53Z",
+      "image": "https://earthsky.org/upl/2026/08/Aug-20-26-Sun-activity-M8.1-flare.-ezgif.com-video-to-webp-converter.webp",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-21T16:41:20Z"
+    },
+    {
+      "title": "Visible planets and night sky guide for August",
+      "link": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
+      "summary": "Visible planets and night sky guide: Tonight, the moon hangs near the middle of the J-shaped constellation Scorpius, with the red star Antares shining close by. The post Visible pl",
+      "date": "2026-08-21T08:00:08Z",
+      "image": "https://earthsky.org/upl/2026/07/2026-Aug-21-Moon-D.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-21T16:41:20Z"
+    },
+    {
+      "title": "The First First Responders",
+      "link": "https://hakaimagazine.com/features/the-first-first-responders/",
+      "summary": "When a ship wrecks on an unfamiliar coastline, an already desperate situation is all the more dire. Blinded by the night, and lost, the captain and crew of the Puritan, a four-mast",
+      "date": "Tue, 24 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-first-first-responder.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-08-21T16:41:22Z"
+    },
+    {
+      "title": "Scientists Gave Dogs MRIs and Learned That They're Surprisingly Good at Distinguishing Between Human Emotions, Even Some Negative Ones",
+      "link": "https://www.smithsonianmag.com/smart-news/scientists-gave-dogs-mris-and-learned-that-theyre-surprisingly-good-at-distinguishing-between-human-emotions-even-some-negative-ones-180989329/",
+      "summary": "A recent study found that man’s best friend processes positive and negative human emotions differently and can distinguish between fearful faces and those showing sadness or anger",
+      "date": "2026-08-21T15:58:27Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/0cJGF-gqfuZI13q0ex7NYOHb1CY=/420x240/filters:focal(1426x1317:1427x1318)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/06/46/0646d94a-82ec-4948-87ef-b40f8d3de826/dogs-can-distinguish-b.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-21T16:41:27Z"
+    },
+    {
+      "title": "When a Carpenter in California Found a Nugget of Gold, It Started a Rush Toward the Nothing Less Than the Modern World",
+      "link": "https://www.smithsonianmag.com/history/when-carpenter-california-found-nugget-gold-started-rush-toward-nothing-less-modern-world-180989283/",
+      "summary": "A new book by historian Nathaniel Philbrick makes the case that the James Marshall’s 1848 discovery set in motion events from the Civil War to the rise of Silicon Valley",
+      "date": "2026-08-21T11:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/HOyKgT21bo42Llvgq84IExKEBjE=/420x240/filters:focal(960x704:961x705)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9d/c7/9dc74015-d150-42ac-81a6-6af173b2c2fe/sia-98-4800.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-21T16:41:27Z"
+    },
+    {
+      "title": "Greenland meltwater is intensifying European heatwaves",
+      "link": "https://www.newscientist.com/article/2585659-greenland-meltwater-is-intensifying-european-heatwaves/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "The cooling of the North Atlantic is creating waviness in the jet stream and high-pressure ridging over Europe, a study finds",
+      "date": "2026-08-21T16:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308998450.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-21T16:41:29Z"
+    },
     {
       "title": "How, Exactly, Could Deep-Sea Mining Benefit All of Humanity?",
       "link": "https://hakaimagazine.com/news/how-exactly-could-deep-sea-mining-benefit-all-of-humanity/",
@@ -5425,83 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-08-13T19:11:44Z"
-    },
-    {
-      "title": "An Aerospace Startup Just Got Approval to Test Beaming Sunlight to Earth. Here's Why Experts Are Worried—and Petitioning",
-      "link": "https://www.smithsonianmag.com/smart-news/an-aerospace-startup-just-got-approval-to-test-beaming-sunlight-to-earth-heres-why-experts-are-worried-and-petitioning-180989323/",
-      "summary": "By 2035, Reflect Orbital aims to launch up to 50,000 satellites equipped with mirrors to provide sunlight to Earth-based solar panels. Critics are concerned about impacts on wildli",
-      "date": "Thu, 13 Aug 2026 17Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/UrdgpU9DO_6KV79-tCo89fwpkq8=/420x240/filters:focal(1920x1280:1921x1281)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/79/a9/79a9e04c-1860-4a1f-a292-60fe29cf44bc/3840px-venus_and_starlink_satellites.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-13T19:11:45Z"
-    },
-    {
-      "title": "The glue that binds a proton may be key to its identity",
-      "link": "https://www.sciencenews.org/article/gluons-proton-identity-baryon",
-      "summary": "Gluons do more than hold protons together. They may also help define the proton’s identity through a quantum property called baryon number.",
-      "date": "Thu, 13 Aug 2026 18Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/081326_EC_proton_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-08-13T19:11:46Z"
-    },
-    {
-      "title": "‘Remarkable’ discovery upends our understanding of how brains store memories",
-      "link": "https://www.newscientist.com/article/2584638-remarkable-discovery-upends-our-understanding-of-how-brains-store-memories/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Memories in mice persisted even after they lost the connections that we thought were needed for recall, expanding our knowledge of memory in the mammalian brain",
-      "date": "Thu, 13 Aug 2026 18Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308195965.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-13T19:11:48Z"
-    },
-    {
-      "title": "How 'pioneering pairs' of ospreys drive population recovery",
-      "link": "https://phys.org/news/2026-08-pairs-ospreys-population-recovery.html",
-      "summary": "A new study by Bournemouth University (BU) has found that faster recovery of osprey populations relies on a small number of ospreys that, unlike most, prefer to nest away from othe",
-      "date": "2026-08-13T19:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-bournemouth-univ.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-13T19:11:50Z"
-    },
-    {
-      "title": "One in four cocoa farm audits contain data manipulated to meet sustainability targets, researchers find",
-      "link": "https://phys.org/news/2026-08-cocoa-farm-sustainability.html",
-      "summary": "ETH researchers have used a sustainability program for cocoa cultivation in Côte d'Ivoire to demonstrate that, in one in four cases, data was manipulated to meet the program's requ",
-      "date": "2026-08-13T18:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-reveals-weakness.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-13T19:11:50Z"
-    },
-    {
-      "title": "Paleontologists reconstruct forests of 56 million years ago with chilling parallels for our warming planet",
-      "link": "https://phys.org/news/2026-08-paleontologists-reconstruct-forests-million-years.html",
-      "summary": "If you want to know how rapidly pumping carbon dioxide into the atmosphere will affect future forest ecosystems, you have to look into the distant past. The researchers behind a ne",
-      "date": "2026-08-13T18:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/paleontologists-recons-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-13T19:11:50Z"
-    },
-    {
-      "title": "Climate change decided who ruled as top predator 35 million years ago",
-      "link": "https://phys.org/news/2026-08-climate-predator-million-years.html",
-      "summary": "An international team of researchers from Belgium, France, Switzerland, Spain and the U.S. has reconstructed the evolution of body mass in carnivorous mammals during the Paleogene—",
-      "date": "2026-08-13T17:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-change-decided.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-13T19:11:50Z"
     }
   ]
 }
