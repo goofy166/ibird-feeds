@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-21T18:47:06Z",
-  "updated_utc": "2026-08-21T18:47:06Z",
+  "updated": "2026-08-21T19:30:32Z",
+  "updated_utc": "2026-08-21T19:30:32Z",
   "count": 500,
   "stories": [
+    {
+      "title": "So Long, and Thanks for All the Fish",
+      "link": "https://hakaimagazine.com/article-short/so-long-and-thanks-for-all-the-fish/",
+      "summary": "We started Hakai Magazine over 10 years ago because the ocean and its coastlines needed a voice. No other outlet was exclusively covering issues at the interface of sea and land—or",
+      "date": "2024-12-27T08:05:43Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-so-long-and-thanks-for-all-the-fish.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-08-21T19:30:09Z"
+    },
+    {
+      "title": "4 Exercises to Strengthen Your Core to Make Hiking with a Heavy Pack Way Easier",
+      "link": "https://www.outsideonline.com/health/training-performance/core-exercises-for-backpackers/",
+      "summary": "Build up your abs for better balance and all-day comfort on the trail when you're carrying a heavy pack and need more stability. The post 4 Exercises to Strengthen Your Core to Mak",
+      "date": "2026-08-21T19:00:13Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/core-exercises-heavy-pack-1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-21T19:30:15Z"
+    },
+    {
+      "title": "New ROOT method charts a path to reversing biological changes once thought irreversible",
+      "link": "https://phys.org/news/2026-08-root-method-path-reversing-biological.html",
+      "summary": "Once a cell has locked into an abnormal state—the way cancer cells do—can it ever be restored to normal? A KAIST research team led by Professor Kwang-Hyun Cho of the Department of ",
+      "date": "2026-08-21T19:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-develops-core-te.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-21T19:30:26Z"
+    },
     {
       "title": "8 New Finds Birds & Blooms Editors Are Loving Right Now",
       "link": "https://www.birdsandblooms.com/birding/new-finds-2026/",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-14T02:30:20Z"
-    },
-    {
-      "title": "Two oceans, one country—and 20 times more sharks in the prehistoric Pacific",
-      "link": "https://phys.org/news/2026-08-oceans-country-sharks-prehistoric-pacific.html",
-      "summary": "How many sharks should a coral reef have? It sounds like a simple question, but almost nowhere on Earth is there a reef that has not at some time been fished or otherwise affected ",
-      "date": "2026-08-13T23:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-oceans-one-country-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-13T23:50:21Z"
-    },
-    {
-      "title": "40 Types of Rabbit-Resistant Plants You Can Grow (2026)",
-      "link": "https://birdwatchinghq.com/rabbit-resistant-plants/",
-      "summary": "“Where did all my flowers go?!” I’ve asked myself this question more than once, and usually, the answer can be summed up with one word -> rabbits! These creatures are adorable but ",
-      "date": "2024-04-24T19:32:31Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2020/06/rabbits-eating-clover.jpg",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-08-13T22:51:19Z"
-    },
-    {
-      "title": "Butterfly effects of climate change",
-      "link": "https://phys.org/news/2026-08-butterfly-effects-climate.html",
-      "summary": "The Australian National Insect Collection at CSIRO holds 2,000 drawers of butterfly specimens, including some that were collected more than a century ago.",
-      "date": "2026-08-13T22:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/butterflies-in-austral.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-08-13T22:51:32Z"
     }
   ]
 }
