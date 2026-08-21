@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-21T21:30:46Z",
-  "updated_utc": "2026-08-21T21:30:46Z",
+  "updated": "2026-08-21T22:31:35Z",
+  "updated_utc": "2026-08-21T22:31:35Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Hydrogel platform uses vitamin B2 and blue light to simplify living tissue models",
+      "link": "https://phys.org/news/2026-08-hydrogel-platform-vitamin-b2-blue.html",
+      "summary": "Researchers at Tampere University have developed a versatile hydrogel platform that makes it easier to create customized biomaterials for tissue engineering, disease modeling, drug",
+      "date": "2026-08-21T21:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-hydrogel-platform-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-21T22:31:31Z"
+    },
     {
       "title": "American Cyclists Mourn Two Collegiate Racers Killed by a Driver in Tennessee",
       "link": "https://www.outsideonline.com/outdoor-adventure/biking/milligan-university-cyclists/",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-08-14T08:21:30Z"
-    },
-    {
-      "title": "Why do people ask so few questions in conversation?",
-      "link": "https://www.newscientist.com/article/2584415-why-do-people-ask-so-few-questions-in-conversation/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "We've perhaps been conditioned to not ask too many questions, in case it comes across as rude or prying. But columnist David Robson argues that asking people open-ended questions b",
-      "date": "2026-08-14T08:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307991933.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-14T08:21:39Z"
     }
   ]
 }
