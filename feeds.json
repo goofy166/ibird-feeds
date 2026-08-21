@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-21T04:46:40Z",
-  "updated_utc": "2026-08-21T04:46:40Z",
+  "updated": "2026-08-21T05:38:23Z",
+  "updated_utc": "2026-08-21T05:38:23Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Rewilded land remains green amid drought-stricken English countryside, images show",
+      "link": "https://www.theguardian.com/environment/2026/aug/21/somerset-rewilding-holnicote-estate-wetlands-rivers-resilience",
+      "summary": "National Trust’s Holnicote estate says restored wetlands and rivers offer proof of resilience to drought, wildfires and flooding Aerial footage of an estate in Somerset has reveale",
+      "date": "2026-08-21T05:00:25Z",
+      "image": "https://i.guim.co.uk/img/media/abc864574d0ca0170b54b16849bb3978a3f10789/512_0_7680_6144/master/7680.jpg?width=140&quality=85&auto=format&fit=max&s=0f9c73e011997e18fb06d6165e11c95c",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-21T05:38:06Z"
+    },
     {
       "title": "Thousands of little penguins being vaccinated against H5 bird flu in Victoria – video",
       "link": "https://www.theguardian.com/world/video/2026/aug/21/thousands-of-little-penguins-being-vaccinated-against-h5-bird-flu-in-victoria-video",
@@ -5487,17 +5498,6 @@
       "summary": "He instructed the executors of his will to make his specific cause of death from the disease public during a time when many others feared doing so",
       "date": "Thu, 13 Aug 2026 13Z",
       "image": "https://th-thumbnailer.cdn-si-edu.com/zw_ysUw4K4xtFpTevb55TT7Nll8=/420x240/filters:focal(1531x1065:1532x1066)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/57/8d/578dee77-86e2-4252-b88e-77d18f223db8/gettyimages-108357399.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-13T13:26:49Z"
-    },
-    {
-      "title": "The Hessians Were Supposed to Quickly End the American Revolution. Instead, They Endured Years of Battles and Suffered Thousands of Casualties",
-      "link": "https://www.smithsonianmag.com/history/the-hessians-were-supposed-to-quickly-end-the-american-revolution-instead-they-endured-years-of-battles-and-suffered-thousands-of-casualties-180989252/",
-      "summary": "Some 30,000 German soldiers fought for the British during the war. Contrary to popular belief, they weren't mercenaries, and not all were actually Hessians",
-      "date": "Thu, 13 Aug 2026 11Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/VgU85yGXRKhqSdGv9j7RVEzr8OY=/420x240/filters:focal(1500x1000:1501x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/15/6a/156a4923-bf80-47e0-8353-584546bf7130/hessians.png",
       "name": "Smithsonian",
       "category": "insects",
       "color": 10,
