@@ -1,8 +1,52 @@
 {
-  "updated": "2026-08-21T08:49:47Z",
-  "updated_utc": "2026-08-21T08:49:47Z",
+  "updated": "2026-08-21T09:43:47Z",
+  "updated_utc": "2026-08-21T09:43:47Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Stingray lashings up in Southern California as marine heat wave draws more to shore",
+      "link": "https://www.mercurynews.com/2026/08/13/stingray-lashings-up-southern-california/",
+      "summary": "Bolsa Chica and Huntington state beaches reported more than 3,100 incidents so far this year, twice the number for all of 2025.",
+      "date": "Thu, 13 Aug 2026 13Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/California_Stingrays_22643-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-08-21T09:43:35Z"
+    },
+    {
+      "title": "Seeing the unseen: A new tool visualizes hidden structures in complex biological data",
+      "link": "https://phys.org/news/2026-08-unseen-tool-visualizes-hidden-complex.html",
+      "summary": "Modern biology research can now generate valuable data on an unprecedented scale. But there is one major obstacle: making sense of these complex high-dimensional datasets. A team a",
+      "date": "2026-08-21T09:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seeing-the-unseen-a-ne.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-21T09:43:43Z"
+    },
+    {
+      "title": "Pioneering cancer treatment saves python named Jodie Foster: UK zoo",
+      "link": "https://phys.org/news/2026-08-cancer-treatment-python-jodie-foster.html",
+      "summary": "A British zoo Friday hailed the successful treatment of a cancer-stricken python named after Hollywood star Jodie Foster, who became the first snake to receive an innovative treatm",
+      "date": "2026-08-21T09:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/python.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-21T09:43:43Z"
+    },
+    {
+      "title": "Meet the scientists 3D printing corneas to restore people's vision, potentially filling a worldwide shortage of transplantable tissue",
+      "link": "https://www.livescience.com/health/surgery/meet-the-scientists-3d-printing-corneas-to-restore-peoples-vision-potentially-filling-a-worldwide-shortage-of-transplantable-tissue",
+      "summary": "New 3D-printed corneal implants could help make up for the shortage of donor corneas available for transplant procedures, say Precise Bio co-founders Aryeh Batt and Dr. Anthony Ata",
+      "date": "2026-08-21T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZuuLreReC4MEEhVCQ5DjHf-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-21T09:43:44Z"
+    },
     {
       "title": "Teapot of Sagittarius points to the Milky Way’s center",
       "link": "https://earthsky.org/favorite-star-patterns/teapot-of-sagittarius-points-to-galactic-center/",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-08-13T15:03:57Z"
-    },
-    {
-      "title": "Mammal ancestors may have given live birth 90 million years earlier than we thought, rewriting evolutionary timelines",
-      "link": "https://www.livescience.com/animals/land-mammals/mammal-ancestors-may-have-given-live-birth-90-million-years-earlier-than-we-thought-rewriting-evolutionary-timelines",
-      "summary": "A distinctive growth ring in fossilized bones is revealing how an ancestral species in the mammalian family reproduced.",
-      "date": "Thu, 13 Aug 2026 13Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/gK3o2F6cLjUxjPhkUoVtPL-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-13T15:03:57Z"
-    },
-    {
-      "title": "Bugging devices: the astounding ways insects are talking and listening all around us",
-      "link": "https://www.theguardian.com/environment/2026/aug/13/insect-conversations-spiders-beetles-languages",
-      "summary": "From spiders tuning their silken listening tools, to the beetle’s heady perfume, hundreds of conversations are happening in languages we don’t understand It’s invertebrate of the y",
-      "date": "2026-08-13T13:00:01Z",
-      "image": "https://i.guim.co.uk/img/media/a06898e842b0627df5ecb79fe270696e7ca8685c/73_0_2187_1750/master/2187.jpg?width=140&quality=85&auto=format&fit=max&s=35458b22c2a9295ea82e076777fd3627",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-13T13:26:41Z"
-    },
-    {
-      "title": "Wing and a prayer: how probiotics might save bat species from a killer fungus",
-      "link": "https://www.theguardian.com/environment/2026/aug/13/biodiversity-bat-species-fungus-disease-canada-alaska-white-nose-syndrome",
-      "summary": "Bat experts were shocked at how fast white-nose syndrome had spread to Canada’s northernmost colonies from the US. Now, the race is on to find a cure before species disappear Crawl",
-      "date": "2026-08-13T12:00:02Z",
-      "image": "https://i.guim.co.uk/img/media/3e4489f538ce899011e97e17c69971743dc20ca3/851_341_2964_2371/master/2964.jpg?width=140&quality=85&auto=format&fit=max&s=273b2a68598b680722af2926a8fc1735",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-13T13:26:41Z"
-    },
-    {
-      "title": "The Personal Toll of Canada’s Broken Fishing Promises",
-      "link": "https://hakaimagazine.com/features/the-personal-toll-of-canadas-broken-fishing-promises/",
-      "summary": "August 29, 2020, dawned clear over southwest Nova Scotia. In the cabin of his lobster boat, the Mystique Lady, Matthew Cope was chatting with the other members of his crew as they ",
-      "date": "Tue, 17 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-matt-cope-moderate-livelihood.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-08-13T13:26:43Z"
     }
   ]
 }
