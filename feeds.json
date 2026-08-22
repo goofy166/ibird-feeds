@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-22T22:29:04Z",
-  "updated_utc": "2026-08-22T22:29:04Z",
+  "updated": "2026-08-22T23:27:25Z",
+  "updated_utc": "2026-08-22T23:27:25Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How we found Haida Gwaii's first marbled murrelet nest in more than 30 years",
+      "link": "https://phys.org/news/2026-08-haida-gwaii-marbled-murrelet-years.html",
+      "summary": "Scrambling through dense salal in the dark, weaving between the majestic western red cedars of northern Haida Gwaii, I could barely imagine where we were just days before—crossing ",
+      "date": "2026-08-22T23:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-we-found-haida-gwa.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-22T23:27:22Z"
+    },
     {
       "title": "‘Devastating’: Western Australia fears a black swan moment as bird flu threatens flagship species",
       "link": "https://www.theguardian.com/australia-news/2026/aug/23/black-swan-bird-flu-western-australia",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-08-14T13:21:28Z"
-    },
-    {
-      "title": "When One Museum Specimen Creates a Bird Species",
-      "link": "https://www.10000birds.com/when-one-museum-specimen-creates-a-bird-species.htm?utm_source=rss&utm_medium=rss&utm_campaign=when-one-museum-specimen-creates-a-bird-species",
-      "summary": "When One Museum Specimen Creates a Bird Species How one unusual rail became a taxonomic mystery MohanMonto Fact Jungle There is something slightly unsettling about a bird species k",
-      "date": "2026-08-14T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/cropped-Logo-Square-32x32.png",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-08-14T11:50:00Z"
     }
   ]
 }
