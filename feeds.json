@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-22T09:33:28Z",
-  "updated_utc": "2026-08-22T09:33:28Z",
+  "updated": "2026-08-22T10:30:33Z",
+  "updated_utc": "2026-08-22T10:30:33Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Young country diary: Camping in my garden, nose to nose with a fox | Ada",
+      "link": "https://www.theguardian.com/environment/2026/aug/22/young-country-diary-camping-in-my-garden-nose-to-nose-with-a-fox",
+      "summary": "Leeds, West Yorkshire: I missed it first time as my dad couldn’t wake me up. The second time round, he pulled my toe Dad and I were boiling in the house because of the UK heatwave.",
+      "date": "2026-08-22T10:00:01Z",
+      "image": "https://i.guim.co.uk/img/media/66302048edd1c246d6f808f163f1c6b1684ce65a/0_870_998_797/master/998.jpg?width=140&quality=85&auto=format&fit=max&s=5e9660195497ca5c00d3b30efa8cf5f9",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-22T10:30:18Z"
+    },
+    {
+      "title": "Young country diary: Crabbing then fish and chips – a perfect beach day | Aled",
+      "link": "https://www.theguardian.com/environment/2026/aug/22/young-country-diary-crabbing-then-fish-and-chips-a-perfect-beach-day",
+      "summary": "Whitstable, Kent: I knew that they like bacon to eat so we put some it our nets – and it worked After a long day at the beach in the sun, the sky turned pink and we went to the pie",
+      "date": "2026-08-22T10:00:00Z",
+      "image": "https://i.guim.co.uk/img/media/e933fe6202de73b9d5bb6dcb8ba8d5b5b54c0ba1/378_3_2130_1704/master/2130.jpg?width=140&quality=85&auto=format&fit=max&s=af8bb1cd17584d4d1a7ffd3302464a77",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-22T10:30:18Z"
+    },
     {
       "title": "How to Follow the 2026 UTMB Mont-Blanc",
       "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/how-to-watch-utmb-mont-blanc/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-14T11:50:18Z"
-    },
-    {
-      "title": "Crocodiles can't fly. Birds can. Scientists have finally figured out why",
-      "link": "https://phys.org/news/2026-08-crocodiles-fly-birds-scientists-figured.html",
-      "summary": "The closest living relatives of crocodiles and alligators are, perhaps surprisingly, birds. Both are archosauriforms, a group of species that originated about 250 million years ago",
-      "date": "2026-08-14T11:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/crocodiles-and-bird.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-14T11:50:18Z"
-    },
-    {
-      "title": "What’s a globular cluster? The Milky Way has about 150",
-      "link": "https://earthsky.org/astronomy-essentials/definition-what-is-a-globular-cluster/",
-      "summary": "A globular cluster is a spherical collection of stars orbiting in the halo of spiral galaxies. Our own Milky Way galaxy has over 150 globular clusters. The post What’s a globular c",
-      "date": "2026-08-14T09:33:47Z",
-      "image": "https://earthsky.org/upl/2009/06/M5-HST-e1497179043996.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-08-14T10:10:52Z"
     }
   ]
 }
