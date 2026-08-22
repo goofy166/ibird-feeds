@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-22T10:30:33Z",
-  "updated_utc": "2026-08-22T10:30:33Z",
+  "updated": "2026-08-22T11:26:29Z",
+  "updated_utc": "2026-08-22T11:26:29Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Great Bowerbirds bowers",
+      "link": "https://www.10000birds.com/great-bowerbirds-bowers-2.htm?utm_source=rss&utm_medium=rss&utm_campaign=great-bowerbirds-bowers-2",
+      "summary": "This post is republished in our “From the Archives” series, featuring highlights of our vast back catalogue of more than 10,000 birding-related posts published over the last 15 yea",
+      "date": "2026-08-22T11:00:00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/Great-Bowerbird.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-08-22T11:26:09Z"
+    },
+    {
+      "title": "Canaries and Coursemates: University Fieldtrip to Tenerife",
+      "link": "https://www.10000birds.com/canaries-and-coursemates-university-fieldtrip-to-tenerife-canary-islands.htm?utm_source=rss&utm_medium=rss&utm_campaign=canaries-and-coursemates-university-fieldtrip-to-tenerife-canary-islands",
+      "summary": "I was priviledged enough to spend a week on Tenerife, one of the Canary Islands off the coast of northwest Africa, on a university field trip in spring. Tenerife is well-known amon",
+      "date": "2026-08-22T11:00:00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/05/DSC_0214.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-08-22T11:26:09Z"
+    },
+    {
+      "title": "Mysteries of the commonplace",
+      "link": "https://www.sciencenews.org/article/ed-note-september-2026",
+      "summary": "Editor in Chief Nancy Shute reviews new research in static electricity and other science revelations in our September magazine issue.",
+      "date": "2026-08-22T11:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/01/cropped-favicon.jpg?w=32",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-08-22T11:26:22Z"
+    },
     {
       "title": "Young country diary: Camping in my garden, nose to nose with a fox | Ada",
       "link": "https://www.theguardian.com/environment/2026/aug/22/young-country-diary-camping-in-my-garden-nose-to-nose-with-a-fox",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-08-14T11:50:13Z"
-    },
-    {
-      "title": "Fishers detonate a bomb every hour on one Indonesian coral reef",
-      "link": "https://www.newscientist.com/article/2584701-fishers-detonate-a-bomb-every-hour-on-one-indonesian-coral-reef/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "The use of explosives to kill fish is widespread across the tropics, and acoustic monitoring in an Indonesian archipelago detected more than 3500 explosions in 483 days",
-      "date": "2026-08-14T11:00:55Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308280914.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-14T11:50:15Z"
-    },
-    {
-      "title": "How bad is the UK drought and how long will it continue?",
-      "link": "https://www.newscientist.com/article/2584619-how-bad-is-the-uk-drought-and-how-long-will-it-continue/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Almost three-quarters of England is now in drought conditions, resulting in restrictions on water use in many areas and severe wildfires – here's how it's affecting farming, wildli",
-      "date": "2026-08-14T10:18:23Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308198316.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-14T11:50:15Z"
-    },
-    {
-      "title": "Scholar's work in South America helps fight Chagas disease in the U.S.",
-      "link": "https://phys.org/news/2026-08-scholar-south-america-chagas-disease.html",
-      "summary": "A three-month Fulbright U.S. Scholar trip to Argentina wasn't just about bringing Texas know-how to South America for Gabriel Hamer, Ph.D., a Texas A&M AgriLife Research entomologi",
-      "date": "2026-08-14T11:30:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fulbright-scholars-wor.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-14T11:50:18Z"
     }
   ]
 }
