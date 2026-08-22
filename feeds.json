@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-22T08:38:06Z",
-  "updated_utc": "2026-08-22T08:38:06Z",
+  "updated": "2026-08-22T09:33:28Z",
+  "updated_utc": "2026-08-22T09:33:28Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How to Follow the 2026 UTMB Mont-Blanc",
+      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/how-to-watch-utmb-mont-blanc/",
+      "summary": "The most-anticipated annual event of the trail running universe takes place August 24-30. Here's how to tune in. The post How to Follow the 2026 UTMB Mont-Blanc appeared first on O",
+      "date": "2026-08-22T09:30:19Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/UTMB-2026-1.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-22T09:33:18Z"
+    },
+    {
+      "title": "An Ode to Our National Parks",
+      "link": "https://www.outsideonline.com/adventure-travel/national-parks/ode-to-our-national-parks/",
+      "summary": "Getting deep into the backcountry is great, but there is profound value in sharing iconic views with the rest of the world. The post An Ode to Our National Parks appeared first on ",
+      "date": "2026-08-22T09:07:09Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/death-valley.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-22T09:33:18Z"
+    },
+    {
+      "title": "Does tapping on a soda can really stop it from exploding?",
+      "link": "https://www.livescience.com/physics-mathematics/does-tapping-on-a-soda-can-really-stop-it-from-exploding",
+      "summary": "Many people tap their soda cans to prevent them from fizzing over, but does this technique actually work?",
+      "date": "2026-08-22T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/XVV9gxfxw5d4gJAoMks5Mc-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-22T09:33:26Z"
+    },
     {
       "title": "Bipartisan majorities in US favor banning glyphosate",
       "link": "https://phys.org/news/2026-08-bipartisan-majorities-favor-glyphosate.html",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-08-14T10:10:52Z"
-    },
-    {
-      "title": "Total solar eclipse August 12: EarthSky livestream and more",
-      "link": "https://earthsky.org/astronomy-essentials/total-solar-eclipse-visible-august-12-2026/",
-      "summary": "The Arctic, Greenland, Iceland and Spain will have a total solar eclipse on August 12, 2026. Parts of Europe and North America will see a partial. The post Total solar eclipse Augu",
-      "date": "2026-08-12T12:38:50Z",
-      "image": "https://earthsky.org/upl/2026/07/Greenland-and-Iceland-eclipse-michael-zeiler.png",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-08-14T10:10:52Z"
-    },
-    {
-      "title": "Monsoon-driven wildfires may have shaped human evolution",
-      "link": "https://www.newscientist.com/article/2584578-monsoon-driven-wildfires-may-have-shaped-human-evolution/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "A reconstruction of East Africa's environment 1.75 million years ago suggests wildfires spiked during wetter times, which may have influenced human evolution",
-      "date": "2026-08-14T09:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308061496.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-14T10:11:00Z"
-    },
-    {
-      "title": "'If this is the new normal, then we are in very deep trouble': Brazil's drying aquifers could have ripple effects across the world",
-      "link": "https://www.livescience.com/planet-earth/climate-change/if-this-is-the-new-normal-then-we-are-in-very-deep-trouble-brazils-drying-aquifers-could-have-ripple-effects-across-the-world",
-      "summary": "New research suggests some of Brazil's most important aquifers, located beneath major agricultural regions, aren't being replenished. What does this mean for the country's water su",
-      "date": "2026-08-14T09:54:25Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/h2uscrJivkUHxRWsicpW36-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-14T10:11:04Z"
     }
   ]
 }
