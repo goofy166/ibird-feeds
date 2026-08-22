@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-22T01:39:53Z",
-  "updated_utc": "2026-08-22T01:39:53Z",
+  "updated": "2026-08-22T03:00:22Z",
+  "updated_utc": "2026-08-22T03:00:22Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Bipartisan majorities in US favor banning glyphosate",
+      "link": "https://phys.org/news/2026-08-bipartisan-majorities-favor-glyphosate.html",
+      "summary": "Two-thirds of Americans favor banning the use of the herbicide glyphosate, the active ingredient in the popular weedkiller Roundup, on crops grown in the United States, according t",
+      "date": "2026-08-22T02:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bipartisan-majorities.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-22T03:00:18Z"
+    },
     {
       "title": "Hydrogel platform uses vitamin B2 and blue light to simplify living tissue models",
       "link": "https://phys.org/news/2026-08-hydrogel-platform-vitamin-b2-blue.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-08-14T10:11:04Z"
-    },
-    {
-      "title": "‘They do look majestic’: tears and pride as first white storks set free in Cornwall",
-      "link": "https://www.theguardian.com/environment/2026/aug/14/first-white-storks-released-bodmin-moor-cornwall",
-      "summary": "Twenty-one birds released on Bodmin Moor where it is hoped they will one day return to produce their own young They took a little coaxing at first – after all, they had got used to",
-      "date": "2026-08-14T08:00:21Z",
-      "image": "https://i.guim.co.uk/img/media/b56e0d7facf8ee6dbc5d7cd0cc93607cbcdddd43/1034_547_4081_3264/master/4081.jpg?width=140&quality=85&auto=format&fit=max&s=e3ed4a18fd4fc60dd95d12c61a829dd1",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-14T08:21:30Z"
     }
   ]
 }
