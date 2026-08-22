@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-22T14:28:04Z",
-  "updated_utc": "2026-08-22T14:28:04Z",
+  "updated": "2026-08-22T15:28:03Z",
+  "updated_utc": "2026-08-22T15:28:03Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Archaeologists unearth a medieval nobleman buried with his horse and dog in a rare wooden tomb in Russia",
+      "link": "https://www.livescience.com/archaeology/archaeologists-unearth-a-medieval-nobleman-buried-with-his-horse-and-dog-in-a-rare-wooden-tomb-in-russia",
+      "summary": "A rare example of a wooden chamber tomb reveals connections between medieval Norse and Old Russian burial styles.",
+      "date": "2026-08-22T15:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/4L9c4XkF3qCQr4PeAnXyU8-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-22T15:28:00Z"
+    },
     {
       "title": "The Best New Running Shoes of 2026—So Far",
       "link": "https://www.outsideonline.com/outdoor-gear/run/best-new-running-shoes-2026/",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-08-14T11:50:05Z"
-    },
-    {
-      "title": "Ancient Amazon civilization might have been home to millions",
-      "link": "https://earthsky.org/human-world/ancient-amazon-civilization-aquiry-earthworks-3-million-people/",
-      "summary": "Laser surveys have revealed hundreds of earthworks in the Amazon. Researchers estimate the ancient Amazon civilization could have supported 3 million people. The post Ancient Amazo",
-      "date": "2026-08-14T10:21:40Z",
-      "image": "https://earthsky.org/upl/2026/08/Amazonian-earthworks-Univ-of-Helsinki-Nature-e1785939602573.png",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-08-14T11:50:06Z"
     }
   ]
 }
