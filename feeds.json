@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-22T19:27:28Z",
-  "updated_utc": "2026-08-22T19:27:28Z",
+  "updated": "2026-08-22T20:30:47Z",
+  "updated_utc": "2026-08-22T20:30:47Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘Devastating’: Western Australia fears a black swan moment as bird flu threatens flagship species",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/23/black-swan-bird-flu-western-australia",
+      "summary": "The state’s bird emblem is an indicator species for H5N1, with high visibility populations and low survival rates. Experts are warning of ‘significant mortality’ Get our breaking n",
+      "date": "2026-08-22T20:00:12Z",
+      "image": "https://i.guim.co.uk/img/media/edaf877cb08a79945a83f39d9dccb17304b8bc2a/585_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=8647060872db4927450072cd87d7b0ff",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-22T20:30:31Z"
+    },
     {
       "title": "AI decodes DNA initiator sequence found in about 60% of human genes",
       "link": "https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html",
@@ -5487,17 +5498,6 @@
       "summary": "When One Museum Specimen Creates a Bird Species How one unusual rail became a taxonomic mystery MohanMonto Fact Jungle There is something slightly unsettling about a bird species k",
       "date": "2026-08-14T11:00:00Z",
       "image": "https://www.10000birds.com/wp-content/uploads/cropped-Logo-Square-32x32.png",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-08-14T11:50:00Z"
-    },
-    {
-      "title": "Species Spotlight: Tufted Titmouse",
-      "link": "https://www.10000birds.com/species-spotlight-tufted-titmouse.htm?utm_source=rss&utm_medium=rss&utm_campaign=species-spotlight-tufted-titmouse",
-      "summary": "I was standing on a small road in a Maine suburb, directing my camera at a garden next to the road. There, a bird was commuting between its foraging area, a staging post, and a nes",
-      "date": "2026-08-14T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/Tufted-Titmouse_DSC0391_Bath-Maine-mid-Jun-2026.jpg",
       "name": "10,000 Birds",
       "category": "birds",
       "color": 1,
