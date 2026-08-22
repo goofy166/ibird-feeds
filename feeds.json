@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-22T12:52:02Z",
-  "updated_utc": "2026-08-22T12:52:02Z",
+  "updated": "2026-08-22T13:37:03Z",
+  "updated_utc": "2026-08-22T13:37:03Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Best New Running Shoes of 2026—So Far",
+      "link": "https://www.outsideonline.com/outdoor-gear/run/best-new-running-shoes-2026/",
+      "summary": "From major upgrades to classic trainers to high-tech trail shoes, these top road and trail models stand out from the rest this year. The post The Best New Running Shoes of 2026—So ",
+      "date": "2026-08-22T13:07:27Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/best-new-running-shoes-2026.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-22T13:36:53Z"
+    },
+    {
+      "title": "Animal genomes follow irreversible 'evolutionary highways' across thousands of species",
+      "link": "https://phys.org/news/2026-08-animal-genomes-irreversible-evolutionary-highways.html",
+      "summary": "A human, an octopus, and a coral could hardly look more different—yet deep inside their cells, their chromosomes still carry recognizable pieces of a genome inherited from an anima",
+      "date": "2026-08-22T13:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/diver-and-octopus.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-22T13:36:59Z"
+    },
     {
       "title": "'The greatest unknown was how much energy would be released by the weapon': How scientists prepared for the Trinity nuclear test",
       "link": "https://www.livescience.com/physics-mathematics/the-greatest-unknown-was-how-much-energy-would-be-released-by-the-weapon-how-scientists-prepared-for-the-trinity-nuclear-test",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-08-14T11:50:06Z"
-    },
-    {
-      "title": "The Best Coolers on Sale This Summer—at Slashed Prices",
-      "link": "https://www.outsideonline.com/outdoor-gear/camping/coolers-summer-sale-2026/",
-      "summary": "Hunting for a cooler? Check out these 15 radical bargains and make the most of end-of-summer sales. The post The Best Coolers on Sale This Summer—at Slashed Prices appeared first o",
-      "date": "2026-08-14T10:30:01Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/OOL-Deal-Tile-C-2400x1350-3-1.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-14T11:50:11Z"
-    },
-    {
-      "title": "Lions, Lions and Lions, Oh My! 15 Photos of the Most Majestic Big Cats Found Throughout Africa",
-      "link": "https://www.smithsonianmag.com/travel/lions-lions-and-lions-oh-my-15-photos-of-the-most-majestic-big-cats-found-throughout-africa-180989333/",
-      "summary": "Ranging from cubs to adults, this selection of shots from the Smithsonian Magazine Photo Contest showcases the apex predator of the savanna",
-      "date": "2026-08-14T11:05:54Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/QMWXEWkHCZPX1QHLzNN4Hgl_GTs=/420x240/filters:focal(1504x1003:1505x1004)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/26/82/2682ce94-b2da-492d-9748-9437278e4b15/6-cfebd8e0a5c445cfd906297d782bd874eb69a1f2.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-14T11:50:13Z"
     }
   ]
 }
