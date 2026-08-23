@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-23T19:27:15Z",
-  "updated_utc": "2026-08-23T19:27:15Z",
+  "updated": "2026-08-23T20:31:16Z",
+  "updated_utc": "2026-08-23T20:31:16Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Fisherman attacked by bear on Colorado mountain trail",
+      "link": "https://www.mercurynews.com/2026/08/22/bear-attack-colorado-fisherman-mountain/",
+      "summary": "Colorado wildlife officials euthanized a bear after it attacked and injured a fisherman walking along a mountain trail in Jefferson County on Friday night.",
+      "date": "2026-08-22T20:55:57Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/05DCATOP.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-08-23T20:31:04Z"
+    },
     {
       "title": "Best National Park Water Adventures to Take Before Summer Ends",
       "link": "https://www.outsideonline.com/adventure-travel/national-parks/best-national-parks-swimming-tubing-water-adventures/",
@@ -5487,17 +5498,6 @@
       "summary": "Marine conservationist says deliberate attack would be ‘act of extreme cruelty’ against an endangered population Spanish officials have launched an investigation after the matriarc",
       "date": "2026-08-14T14:57:51Z",
       "image": "https://i.guim.co.uk/img/media/b001a448cf993677aa864dffcd0d41224f661c57/561_0_3086_2469/master/3086.jpg?width=140&quality=85&auto=format&fit=max&s=2a8f238c41ac69dbb6bb6935052cd2fe",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-14T14:58:00Z"
-    },
-    {
-      "title": "How England’s brutal summer heat is affecting farm animals and crops",
-      "link": "https://www.theguardian.com/environment/2026/aug/14/how-england-summer-heatwave-affecting-farm-animals-crops",
-      "summary": "There are parched fields, overheating sheep and potentially the worst cereal harvest since detailed records began – but it’s a good year for cider apples As parts of the UK swelter",
-      "date": "2026-08-14T14:40:46Z",
-      "image": "https://i.guim.co.uk/img/media/8938b01ea471f9c7ca0df5d7f7c96e85e34c5bca/0_0_5325_4262/master/5325.jpg?width=140&quality=85&auto=format&fit=max&s=009b64a453d80606f679098add99e22d",
       "name": "Guardian",
       "category": "wildlife",
       "color": 5,
