@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-23T20:31:16Z",
-  "updated_utc": "2026-08-23T20:31:16Z",
+  "updated": "2026-08-23T21:28:14Z",
+  "updated_utc": "2026-08-23T21:28:14Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Protein degradation rate helps explain why humans develop more slowly than mice",
+      "link": "https://phys.org/news/2026-08-protein-degradation-humans-slowly-mice.html",
+      "summary": "Humans develop at a slower rate than other mammalian species, like mice, but scientists are still trying to understand the molecular basis of these differences. Now, researchers fr",
+      "date": "2026-08-23T21:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/protein-degradation-ra.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-23T21:28:11Z"
+    },
     {
       "title": "Fisherman attacked by bear on Colorado mountain trail",
       "link": "https://www.mercurynews.com/2026/08/22/bear-attack-colorado-fisherman-mountain/",
@@ -5491,17 +5502,6 @@
       "category": "birds",
       "color": 4,
       "fetched_at": "2026-08-14T14:57:59Z"
-    },
-    {
-      "title": "Iberian orca known for ramming boats seen with suspected gunshot wounds",
-      "link": "https://www.theguardian.com/environment/2026/aug/14/iberian-orca-known-for-ramming-boats-seen-with-suspected-gunshot-wounds",
-      "summary": "Marine conservationist says deliberate attack would be ‘act of extreme cruelty’ against an endangered population Spanish officials have launched an investigation after the matriarc",
-      "date": "2026-08-14T14:57:51Z",
-      "image": "https://i.guim.co.uk/img/media/b001a448cf993677aa864dffcd0d41224f661c57/561_0_3086_2469/master/3086.jpg?width=140&quality=85&auto=format&fit=max&s=2a8f238c41ac69dbb6bb6935052cd2fe",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-14T14:58:00Z"
     }
   ]
 }
