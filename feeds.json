@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-23T11:26:36Z",
-  "updated_utc": "2026-08-23T11:26:36Z",
+  "updated": "2026-08-23T12:53:20Z",
+  "updated_utc": "2026-08-23T12:53:20Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Pluto’s atmosphere update! It’s thinning",
+      "link": "https://earthsky.org/space/plutos-atmosphere-thinning-as-predicted/",
+      "summary": "Scientists detected Pluto's atmosphere is thinning as it moves farther away from the sun in its orbit. They did so when Pluto passed in front of distant stars. The post Pluto’s atm",
+      "date": "2026-08-23T12:00:54Z",
+      "image": "https://earthsky.org/upl/2019/07/pluto-backlit-blue-skies-e1563054831859.png",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-23T12:53:05Z"
+    },
     {
       "title": "Three Photos: Malkohas",
       "link": "https://www.10000birds.com/three-photos-malkohas.htm?utm_source=rss&utm_medium=rss&utm_campaign=three-photos-malkohas",
@@ -5487,17 +5498,6 @@
       "summary": "There are hundreds of ant species that live in North America! Trying to list them all would be impossible. 🙂 Below are the most common and abundant types of ants, which are part of",
       "date": "Thu, 13 Jun 2024 14Z",
       "image": "https://birdwatchinghq.com/wp-content/uploads/2024/05/Dark-Rover-Ant-Brachymyrmex-patagonicus.png",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-08-14T13:21:13Z"
-    },
-    {
-      "title": "27 Grasshopper Species in North America! (2026)",
-      "link": "https://birdwatchinghq.com/grasshoppers-in-north-america/",
-      "summary": "An incredible amount of grasshopper species live in North America! Trying to list them all would be impossible. 🙂 So below, you will find the most common and abundant insects found",
-      "date": "2024-05-10T15:51:41Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2024/05/grasshoppers-intro.jpg",
       "name": "BWatching HQ",
       "category": "birds",
       "color": 4,
