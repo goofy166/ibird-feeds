@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-23T09:33:58Z",
-  "updated_utc": "2026-08-23T09:33:58Z",
+  "updated": "2026-08-23T10:30:53Z",
+  "updated_utc": "2026-08-23T10:30:53Z",
   "count": 500,
   "stories": [
+    {
+      "title": "1st photo of Earth from the moon 60 years ago",
+      "link": "https://earthsky.org/space/this-date-in-science-first-view-of-earth-from-the-moon/",
+      "summary": "As NASA plans to land astronauts on the moon with the Artemis IV mission in 2028, it's fun to see this 1st photo of Earth taken from the moon. The post 1st photo of Earth from the ",
+      "date": "2026-08-23T10:30:10Z",
+      "image": "https://earthsky.org/upl/2014/08/earth-1st-view-frm-moon-8-23-2016-cp.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-23T10:30:37Z"
+    },
+    {
+      "title": "Sagittarius the Archer is home to deep-sky wonders",
+      "link": "https://earthsky.org/constellations/sagittarius-heres-your-constellation/",
+      "summary": "The zodiacal constellation Sagittarius the Archer contains the center of the Milky Way and a famous asterism known as the Teapot. The post Sagittarius the Archer is home to deep-sk",
+      "date": "2026-08-23T10:04:47Z",
+      "image": "https://earthsky.org/upl/2022/08/Sagittarius-the-Archer.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-23T10:30:37Z"
+    },
+    {
+      "title": "'Starry Night' telescope photo captures some of the oldest stars in the universe — Space photo of the week",
+      "link": "https://www.livescience.com/space/astronomy/starry-night-telescope-photo-captures-some-of-the-oldest-stars-in-the-universe-space-photo-of-the-week",
+      "summary": "The Corona Australis Molecular Cloud shines in a stunning new image revealing glowing nebulae, newborn stars and the Chandelier Cluster.",
+      "date": "2026-08-23T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/UkLX2exgkk7rSAGLZW4gRL-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-23T10:30:50Z"
+    },
     {
       "title": "Do other animals call each other by name?",
       "link": "https://www.livescience.com/animals/do-other-animals-call-each-other-by-name",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-08-14T13:21:21Z"
-    },
-    {
-      "title": "A photographic memory is wishful thinking",
-      "link": "https://www.sciencenews.org/article/photographic-memory-nonexistent-brain",
-      "summary": "In fiction, photographic memories crack the case or save the day. But our brains can’t hold on to everything — and that’s a good thing.",
-      "date": "2026-08-14T13:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/0926_tech-fic.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-08-14T13:21:22Z"
-    },
-    {
-      "title": "Pacific farmers are reviving traditional knowledge to tackle a changing climate",
-      "link": "https://phys.org/news/2026-08-pacific-farmers-reviving-traditional-knowledge.html",
-      "summary": "For thousands of years, farmers in the Pacific have lived in harmony with their environment. But rising temperatures, unpredictable rainfall and tired soils are testing even the mo",
-      "date": "2026-08-14T12:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pacific-farmer.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-14T13:21:26Z"
-    },
-    {
-      "title": "Rare belching disorder could be treated with singing, study hints — but not everyone is convinced",
-      "link": "https://www.livescience.com/health/rare-belching-disorder-could-be-treated-with-singing-study-hints-but-not-everyone-is-convinced",
-      "summary": "A strange-sounding treatment may offer relief for people with a little-understood type of excessive belching.",
-      "date": "2026-08-14T13:15:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/jkN8uZJ9KY8j3fVPx8Gcub-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-14T13:21:28Z"
     }
   ]
 }
