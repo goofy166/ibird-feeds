@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-23T08:38:41Z",
-  "updated_utc": "2026-08-23T08:38:41Z",
+  "updated": "2026-08-23T09:33:58Z",
+  "updated_utc": "2026-08-23T09:33:58Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Do other animals call each other by name?",
+      "link": "https://www.livescience.com/animals/do-other-animals-call-each-other-by-name",
+      "summary": "Research in dolphins, elephants, parrots and primates suggests animals may call each other by name, but scientists are divided on how to define the behavior.",
+      "date": "2026-08-23T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/UmwDhBiepzzS7tmWZk5WiS-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-23T09:33:56Z"
+    },
     {
       "title": "How we found Haida Gwaii's first marbled murrelet nest in more than 30 years",
       "link": "https://phys.org/news/2026-08-haida-gwaii-marbled-murrelet-years.html",
@@ -5487,17 +5498,6 @@
       "summary": "A strange-sounding treatment may offer relief for people with a little-understood type of excessive belching.",
       "date": "2026-08-14T13:15:00Z",
       "image": "https://cdn.mos.cms.futurecdn.net/jkN8uZJ9KY8j3fVPx8Gcub-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-14T13:21:28Z"
-    },
-    {
-      "title": "'The lance head was still inside the pelvis': Mass grave found in Austria may hold casualties of unknown ancient Roman battle",
-      "link": "https://www.livescience.com/archaeology/romans/the-lance-head-was-still-inside-the-pelvis-mass-grave-found-in-austria-may-hold-casualties-of-unknown-ancient-roman-battle",
-      "summary": "A new analysis of skeletons recovered from an ancient mass burial has revealed a surprising number of groin injuries.",
-      "date": "2026-08-14T12:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/E6vvQBVQoZxZy7SbTWR2Xe-1280-80.png",
       "name": "Live Science",
       "category": "insects",
       "color": 14,
