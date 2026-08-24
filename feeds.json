@@ -1,8 +1,107 @@
 {
-  "updated": "2026-08-24T13:03:18Z",
-  "updated_utc": "2026-08-24T13:03:18Z",
+  "updated": "2026-08-24T14:49:53Z",
+  "updated_utc": "2026-08-24T14:49:53Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Newark woman struggles to find help for a dying wild animal",
+      "link": "https://www.mercurynews.com/2026/08/24/newark-woman-struggles-to-find-help-for-a-dying-wild-animal/",
+      "summary": "Experts say it's important to be cautious if you encounter an injured critter",
+      "date": "2026-08-24T13:30:55Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/SJM-L-JOANCOL-0824-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-08-24T14:49:41Z"
+    },
+    {
+      "title": "How Much Exercise Balances the Health Risks of Sitting All Day?",
+      "link": "https://www.outsideonline.com/health/wellness/exercise-health-risks-sitting-all-day/",
+      "summary": "Scientists are debating whether a daily workout is enough to protect your body from the metabolic damage of a desk job. The post How Much Exercise Balances the Health Risks of Sitt",
+      "date": "2026-08-24T14:26:18Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/running.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-24T14:49:43Z"
+    },
+    {
+      "title": "How Did Medieval Builders Construct Complex Cathedrals Before Advanced Mathematics? And More Questions From Our Readers",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/how-did-medieval-builders-construct-complex-cathedrals-before-advanced-mathematics-and-more-questions-from-our-readersyouve-got-questions-weve-got-experts-180989286/",
+      "summary": "You’ve got questions. We’ve got experts",
+      "date": "2026-08-24T14:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/vW0taGxWT7jlm7E2-5e-gdbcpIM=/420x240/filters:focal(388x292:389x293)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cf/b6/cfb6ae11-9dcd-48f1-8228-324824ab8aa5/ask.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-24T14:49:44Z"
+    },
+    {
+      "title": "Diabetes drug metformin may halve the risk of dementia",
+      "link": "https://www.newscientist.com/article/2586113-diabetes-drug-metformin-may-halve-the-risk-of-dementia/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Taking metformin, a type 2 diabetes drug, has been linked to a lower risk of dementia over the following decades, but the association isn't conclusive",
+      "date": "2026-08-24T13:25:10Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309376731.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-24T14:49:47Z"
+    },
+    {
+      "title": "How much water do you really need to drink to keep your brain sharp?",
+      "link": "https://www.newscientist.com/article/2586088-how-much-water-do-you-really-need-to-drink-to-keep-your-brain-sharp/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Water is essential for good brain function, with a handful of convincing studies suggesting that dehydration could be slowing you down, cognitively speaking. Columnist Helen Thomso",
+      "date": "2026-08-24T13:14:38Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309374573.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-24T14:49:47Z"
+    },
+    {
+      "title": "Dice discovered that solve decade-long mathematical problem",
+      "link": "https://www.newscientist.com/article/2585488-dice-discovered-that-solve-decade-long-mathematical-problem/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "After years of searching, mathematicians have found dice that can allow five players to fairly decide who moves first in a board game, with a winner guaranteed from just a single r",
+      "date": "2026-08-24T12:32:17Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309038172.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-24T14:49:47Z"
+    },
+    {
+      "title": "How chromosomes find their partners",
+      "link": "https://phys.org/news/2026-08-chromosomes-partners.html",
+      "summary": "For a long time, so-called satellite DNA was considered largely worthless. Now, ETH Zurich researchers have shown in fruit flies that these repetitive sections of genetic material ",
+      "date": "2026-08-24T14:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-chromosomes-find-t.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-24T14:49:49Z"
+    },
+    {
+      "title": "Long-term study reveals hidden threat of schistosomiasis in endangered chimpanzees",
+      "link": "https://phys.org/news/2026-08-term-reveals-hidden-threat-schistosomiasis.html",
+      "summary": "A 12-year study of rescued chimpanzees at the Ngamba Island Chimpanzee Sanctuary (NICS) in Uganda has revealed persistent intestinal schistosomiasis infections, highlighting the ne",
+      "date": "2026-08-24T13:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/long-term-study-reveal-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-24T14:49:49Z"
+    },
+    {
+      "title": "Dry landscapes and newly fallowed fields may raise California Valley fever risk",
+      "link": "https://phys.org/news/2026-08-dry-landscapes-newly-fallowed-fields.html",
+      "summary": "Researchers at UC San Diego and UC Berkeley have found that certain landscapes surrounding California communities are associated with differing rates of Valley fever, a fungal resp",
+      "date": "2026-08-24T13:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-finds-changes-to.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-24T14:49:49Z"
+    },
     {
       "title": "Why is the Male Red Cardinal is so Bright – you may be surprised",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/why-is-the-male-red-cardinal-is-so-bright-you-may-be-surprised/",
@@ -5403,105 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-08-15T07:35:34Z"
-    },
-    {
-      "title": "The 20-year search for a vanishing custard-and-chocolate coloured moth",
-      "link": "https://www.theguardian.com/environment/2026/aug/15/dark-bordered-beauty-moth-discovery-northumberland-site",
-      "summary": "Yorkshire common was thought to be the only known site of dark bordered beauty moths in England – until now Vote here for your favourite invertebrate of the year Dave Wainwright fi",
-      "date": "2026-08-15T06:00:48Z",
-      "image": "https://i.guim.co.uk/img/media/2b667c1e4c0935603fc23697bd219c01be7a0dd4/1059_567_4091_3273/master/4091.jpg?width=140&quality=85&auto=format&fit=max&s=f52e6566dcb49c67b3244571afa7c360",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-15T06:49:31Z"
-    },
-    {
-      "title": "After commercial whaling nearly erased them, blue and fin whales are slowly reclaiming the southeast Atlantic",
-      "link": "https://phys.org/news/2026-04-commercial-whaling-erased-blue-fin.html",
-      "summary": "More than 40 years after the end of commercial whaling, new research reveals a recent increase in sightings of the world's two largest whale species in the southeastern Atlantic. T",
-      "date": "2026-08-15T04:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/blue-and-fin-whale-sig.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-15T04:38:09Z"
-    },
-    {
-      "title": "Wheat gene behind Hessian fly resistance cloned after 50-year search",
-      "link": "https://phys.org/news/2026-08-wheat-gene-hessian-fly-resistance.html",
-      "summary": "Researchers at the University of Maryland and their collaborators have cloned a gene that makes wheat resistant to feeding by Hessian fly larvae and demonstrated its direct interac",
-      "date": "2026-08-14T22:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/wheat.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-14T22:30:39Z"
-    },
-    {
-      "title": "Unlocking the past: New method helps gain insights into old tissues",
-      "link": "https://phys.org/news/2026-08-method-gain-insights-tissues.html",
-      "summary": "A book sits atop a table. Although it's closed, its title, \"Encyclopedia of Human Tissue,\" promises untold secrets. Perhaps with this book, you can learn about different cell types",
-      "date": "2026-08-14T22:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dna-testing.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-14T22:30:39Z"
-    },
-    {
-      "title": "Europe's mountain summits are warming—vegetation is responding in surprisingly different ways",
-      "link": "https://phys.org/news/2026-08-europe-mountain-summits-vegetation-ways.html",
-      "summary": "Decades of climate change have not left Europe's mountain vegetation unscathed. However, the changes observed do not always match expectations. As a new international study by a re",
-      "date": "2026-08-14T22:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/europes-mountain-summi-6.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-14T22:30:39Z"
-    },
-    {
-      "title": "Engineered microbe speeds CO₂ capture and recovers critical metals",
-      "link": "https://phys.org/news/2026-08-microbe-capture-recovers-critical-metals.html",
-      "summary": "A genetically engineered bacterium can rapidly break down one of Earth's most abundant minerals, opening a promising new pathway for simultaneously removing carbon dioxide from the",
-      "date": "2026-08-14T21:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/engineered-microbe-spe.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-14T22:30:39Z"
-    },
-    {
-      "title": "Cells pulse together as they grow—and malignant cells pulse the longest",
-      "link": "https://phys.org/news/2026-08-cells-pulse-malignant-longest.html",
-      "summary": "Epithelial cells are the tiny shields that line and protect our bodies. In a developing embryo, epithelial cells grow, divide and move into positions to form the outer layers of ou",
-      "date": "2026-08-14T20:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cells-pulse-together-a.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-14T21:31:07Z"
-    },
-    {
-      "title": "Covid-19 Can Reawaken Dormant Viruses in the Body, Which Might Worsen Symptoms of the Respiratory Illness, Study Suggests",
-      "link": "https://www.smithsonianmag.com/smart-news/covid-19-can-reawaken-dormant-viruses-in-the-body-which-might-worsen-symptoms-of-the-respiratory-illness-study-suggests-180989322/",
-      "summary": "Most people carry a sleeping virus in their bodies, such as the herpesvirus that causes mononucleosis, or the “kissing disease.” A new study hints that Covid-19 triggers their reac",
-      "date": "2026-08-14T20:06:16Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/uKeIpfGF-bbPiM-zxZ_kSibHMFI=/420x240/filters:focal(400x312:401x313)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/aa/6b/aa6baee5-7e62-4341-8fb8-6a36ee00754b/49535193876_8ec9df4dc7_c.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-14T20:36:50Z"
-    },
-    {
-      "title": "A Medieval Man's Injuries Reminded One Archaeologist of Modern-Day Car Crash Victims. They Turned Out to Be the Work of an English Trebuchet",
-      "link": "https://www.smithsonianmag.com/smart-news/a-medieval-mans-injuries-reminded-one-archaeologist-of-modern-day-car-crash-victims-they-turned-out-to-be-the-work-of-an-english-trebuchet-180989346/",
-      "summary": "A skeleton unearthed in Scotland likely belongs to a soldier struck by a high-speed projectile during Edward I's 1304 siege of Stirling Castle. The man suffered more than 160 fract",
-      "date": "2026-08-14T19:49:12Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/HcNz1LArTWvmk4s7072wF3Y1OvM=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/40/c6/40c683bd-0e63-413a-84e0-9393057242ad/stirling-castle.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-14T20:36:50Z"
     }
   ]
 }
