@@ -1,8 +1,96 @@
 {
-  "updated": "2026-08-24T11:35:23Z",
-  "updated_utc": "2026-08-24T11:35:23Z",
+  "updated": "2026-08-24T13:03:18Z",
+  "updated_utc": "2026-08-24T13:03:18Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Why is the Male Red Cardinal is so Bright – you may be surprised",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/why-is-the-male-red-cardinal-is-so-bright-you-may-be-surprised/",
+      "summary": "Like any avid birder, spotting brightly coloured wildlife is high on my list of goals when venturing into the wilderness. One species that offers particularly … Read More \"Why is t",
+      "date": "2026-08-24T12:46:44Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/08/pexels-aaron-j-hill-3434251-8848553-scaled.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-08-24T13:02:54Z"
+    },
+    {
+      "title": "Southern California study looks at shark behavior after major storms",
+      "link": "https://www.mercurynews.com/2026/08/22/la-jolla-based-study-looks-at-shark-behavior-after-major-storms/",
+      "summary": "When Tropical Storm Hilary hit Southern California and Baja California in August 2023, humans braced for impact on land. But off the coast of California, juvenile great white shark",
+      "date": "2026-08-22T18:44:32Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/ljl-l-shark-study-2-e1787426078463.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-08-24T13:03:07Z"
+    },
+    {
+      "title": "This 18th-Century British Queen Turned King Arthur Into a P.R. Strategy, Drawing on Myth to Promote Her Dynasty's Claim to the Throne",
+      "link": "https://www.smithsonianmag.com/history/this-18th-century-british-queen-turned-king-arthur-into-a-pr-strategy-drawing-on-myth-to-promote-her-dynastys-claim-to-the-throne-180989367/",
+      "summary": "In 1735, Caroline of Brandenburg-Ansbach commissioned a cottage called Merlin's Cave, which linked the German House of Hanover to both Britain’s ancient heritage and its future suc",
+      "date": "2026-08-24T11:45:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/bEmBcDvwBKCyW-0Lf9-ZSs542pc=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/13/70/1370f852-7dce-4a95-839d-a51ca90c6d55/merlins-garden.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-24T13:03:09Z"
+    },
+    {
+      "title": "Personalized brain stimulation can ease chronic pain",
+      "link": "https://www.sciencenews.org/article/brain-stimulation-chronic-pain",
+      "summary": "A week-long brain mapping session can lead to lasting relief, a case series of three pain patients shows.",
+      "date": "2026-08-24T13:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/081326_LS_brainstimulation_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-08-24T13:03:11Z"
+    },
+    {
+      "title": "How to CT scan a 400-pound crocodile",
+      "link": "https://phys.org/news/2026-08-ct-scan-pound-crocodile.html",
+      "summary": "At 61, Bill had begun showing changes in his health—decreased appetite, weight loss and abdominal bloating. But his bloodwork was normal, leaving the cause of his symptoms unknown.",
+      "date": "2026-08-24T13:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-to-ct-scan-a-400-p-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-24T13:03:14Z"
+    },
+    {
+      "title": "Australia's bird flu response: Too little, but it's not too late",
+      "link": "https://phys.org/news/2026-08-australia-bird-flu-response-late.html",
+      "summary": "When news broke over the weekend that Australia's first mainland case of bird flu in a mammal—the death of a long-nosed fur seal—had been detected, I felt deep sadness and dread fo",
+      "date": "2026-08-24T13:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bird-flu.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-24T13:03:14Z"
+    },
+    {
+      "title": "Why hundreds of scientists want more protection for Australia's oceans",
+      "link": "https://phys.org/news/2026-08-hundreds-scientists-australia-oceans.html",
+      "summary": "Australia is one of the world's great ocean nations. It is home to more marine species than any other country, with ocean ecosystems spanning all five of the world's climate zones,",
+      "date": "2026-08-24T12:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/australias-ocean-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-24T13:03:14Z"
+    },
+    {
+      "title": "Stream the entire BBC iPlayer Attenborough collection anywhere with this top-rated VPN deal",
+      "link": "https://www.livescience.com/technology/stream-the-entire-bbc-iplayer-attenborough-collection-anywhere-with-this-top-rated-vpn-deal",
+      "summary": "Proton VPN has cut prices by up to 70%, giving you streaming access to all your usual services, plus some of the best VPN privacy features on the market",
+      "date": "2026-08-24T12:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/BF7C9J9QjRR5RD7548o5aT-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-24T13:03:15Z"
+    },
     {
       "title": "The Binoculars That Changed My Life",
       "link": "https://www.10000birds.com/the-binoculars-that-changed-my-life.htm?utm_source=rss&utm_medium=rss&utm_campaign=the-binoculars-that-changed-my-life",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-08-14T20:36:50Z"
-    },
-    {
-      "title": "Electric Safari Vehicles Are Changing How Close We Can Get to Wildlife",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/africa/electric-safaris-africa/",
-      "summary": "Solar-powered EVs are making wildlife encounters quieter and more sustainable. The technology could soon reshape wildlife tourism far beyond Africa. The post Electric Safari Vehicl",
-      "date": "2026-08-14T17:59:41Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/Asilia-Vehicle_45_Alone.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-14T19:02:55Z"
-    },
-    {
-      "title": "Schlitz Beer, an Iconic Midwestern Pour, Runs Dry in Chicago After 177 Years. Its Legacy, However, Goes Far Beyond the Pint Glass",
-      "link": "https://www.smithsonianmag.com/smart-news/schlitz-beer-an-iconic-midwestern-pour-officially-runs-dry-in-chicago-after-177-years-180989342/",
-      "summary": "With significant roles in the Great Chicago Fire, 1893 World’s Fair and modern-day architecture, the beer’s impact on the Windy City is undeniable",
-      "date": "2026-08-14T18:05:07Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/Fid8SxYxrDU_Bpw86Dl50e0lqus=/420x240/filters:focal(3576x2793:3577x2794)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/db/a9/dba909cb-f988-490d-a55f-7fbb7196e0fe/south_branch_of_the_chicago_river_at_14th_street_1900_photochrom.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-14T19:02:56Z"
-    },
-    {
-      "title": "How a brutal drought may have helped unleash yellow fever in Brazil",
-      "link": "https://www.sciencenews.org/article/drought-yellow-fever-outbreak-brazil",
-      "summary": "Animals searching for water brought the forest to the city, perhaps sparking Brazil’s first yellow fever outbreak in decades.",
-      "date": "2026-08-14T18:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/081426_EG_droughtoutbreak_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-08-14T19:02:57Z"
-    },
-    {
-      "title": "A new way to beat jet lag? Engineered cells speed circadian adjustment",
-      "link": "https://phys.org/news/2026-08-jet-lag-cells-circadian-adjustment.html",
-      "summary": "Adjusting to a new time zone or work schedule can leave the body's internal clock out of sync for days, contributing to sleep disruption, metabolic changes and other health consequ",
-      "date": "2026-08-14T19:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-way-to-beat-jet.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-14T19:03:01Z"
-    },
-    {
-      "title": "Bringing butterflies back from the brink of extinction",
-      "link": "https://phys.org/news/2026-08-butterflies-brink-extinction.html",
-      "summary": "On a summer day in Michigan, a tiny Poweshiek skipperling butterfly—smaller than a quarter—takes flight over a restored prairie.",
-      "date": "2026-08-14T18:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bringing-butterflies-b.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-08-14T19:03:01Z"
-    },
-    {
-      "title": "Q&A: What are chalk streams and why are these rare rivers under threat?",
-      "link": "https://phys.org/news/2026-08-qa-chalk-streams-rare-rivers.html",
-      "summary": "Chalk streams are among the world's rarest river habitats. Fewer than 300 exist globally, and most are found in England. They support rich wildlife and have been described as Engla",
-      "date": "2026-08-14T18:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-are-chalk-streams.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-14T19:03:01Z"
-    },
-    {
-      "title": "New findings overturn 100-year-old assumption about common bacteria in the lungs",
-      "link": "https://phys.org/news/2026-08-overturn-year-assumption-common-bacteria.html",
-      "summary": "The human body is teeming with more than 35 trillion bacteria, coexisting in microbiomes inside the gut, mouth, lungs, skin and urogenital tract. While it's now clear these microbe",
-      "date": "2026-08-14T18:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/lung-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-14T19:03:01Z"
-    },
-    {
-      "title": "Stable RNA elements open new possibilities for mRNA therapeutics",
-      "link": "https://phys.org/news/2026-08-stable-rna-elements-possibilities-mrna.html",
-      "summary": "A research team led by Director Kim V. Narry at the Center for RNA Research within the Institute for Basic Science (IBS) has discovered compact viral RNA elements that can make mRN",
-      "date": "2026-08-14T17:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/stable-rna-elements-op-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-14T19:03:01Z"
     }
   ]
 }
