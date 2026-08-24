@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-24T20:38:13Z",
-  "updated_utc": "2026-08-24T20:38:13Z",
+  "updated": "2026-08-24T21:36:02Z",
+  "updated_utc": "2026-08-24T21:36:02Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Bacteria from ancestral wheat microbiomes help protect plants against root rot fungus",
+      "link": "https://phys.org/news/2026-08-bacteria-ancestral-wheat-microbiomes-root.html",
+      "summary": "In the journal npj Biofilms and Microbiomes, researchers from the Brazilian Agricultural Research Corporation (EMBRAPA) and the University of São Paulo (USP) describe the role of t",
+      "date": "2026-08-24T21:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/soil-bacteria-protect-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-24T21:35:58Z"
+    },
+    {
+      "title": "Assembly of giant wild sunflower family genomes unlocks potential for new perennial crops",
+      "link": "https://phys.org/news/2026-08-giant-wild-sunflower-family-genomes.html",
+      "summary": "The Land Institute and HudsonAlpha Institute for Biotechnology, in collaboration with key partners, have assembled the first chromosome-scale, haplotype-phased genomes for Silphium",
+      "date": "2026-08-24T20:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/assembly-of-giant-wild.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-24T21:35:58Z"
+    },
     {
       "title": "In France, Brutal Summer Heat Waves Are Taking a Toll on the Flowers That Inspired Claude Monet's Most Beloved Paintings",
       "link": "https://www.smithsonianmag.com/smart-news/in-france-brutal-summer-heat-waves-taking-toll-on-flowers-that-inspired-claude-monet-most-beloved-paintings-180989384/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-08-17T09:50:20Z"
-    },
-    {
-      "title": "Elon Musk and Sam Altman claim we've reached the AI singularity. But how would we even know that happened?",
-      "link": "https://www.livescience.com/technology/artificial-intelligence/elon-musk-and-sam-altman-claim-weve-reached-the-ai-singularity-but-how-would-we-even-know-that-happened",
-      "summary": "Elon Musk and Sam Altman claim we've reached the singularity, even though AI scientists suggest it could take decades alongside breakthroughs we haven't even achieved. But how woul",
-      "date": "2026-08-17T08:45:03Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/EdftHfiWN6DMekyCe7GenA-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-17T08:52:09Z"
-    },
-    {
-      "title": "Rogue hacking AIs have changed the cybersecurity landscape",
-      "link": "https://www.newscientist.com/article/2583927-rogue-hacking-ais-have-changed-the-cybersecurity-landscape/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Attackers with no technical skills can now use AI models to find and exploit loopholes quickly and they can deploy them on a massive scale, raising fears that organisations without",
-      "date": "2026-08-17T07:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308069689.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-17T07:07:52Z"
     }
   ]
 }
