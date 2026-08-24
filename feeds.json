@@ -1,8 +1,96 @@
 {
-  "updated": "2026-08-24T14:49:53Z",
-  "updated_utc": "2026-08-24T14:49:53Z",
+  "updated": "2026-08-24T15:46:18Z",
+  "updated_utc": "2026-08-24T15:46:18Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Australia has just 12,000 sea lions left – and ‘carnage’ may await them as bird flu takes hold, scientists warn",
+      "link": "https://www.theguardian.com/world/2026/aug/25/australia-has-just-12000-sea-lions-left-and-carnage-may-await-them-as-bird-flu-takes-hold-scientists-warn",
+      "summary": "Virus has already caused catastrophic losses in pinnipeds in South America and sub-Antarctica, particularly among pups Get our breaking news email , free app or daily news podcast ",
+      "date": "2026-08-24T15:00:36Z",
+      "image": "https://i.guim.co.uk/img/media/66d42e616c5193c28373eb4a559da5b04fd53efd/893_1101_1621_1297/master/1621.jpg?width=140&quality=85&auto=format&fit=max&s=7292b73c9b9506e5ff6956748fbbdfc5",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-24T15:46:02Z"
+    },
+    {
+      "title": "5 Steep Trail Running Routes Worth the Challenge",
+      "link": "https://www.outsideonline.com/outdoor-gear/run/5-steep-trail-running-routes-worth-the-challenge/",
+      "summary": "The reward is worth the effort? Better believe it on these monster runs. The post 5 Steep Trail Running Routes Worth the Challenge appeared first on Outside Online .",
+      "date": "2026-08-24T15:43:34Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/F26_Global_OCT_WA_Cascadia_H2T_10304_399500-e1785944046685.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-24T15:46:08Z"
+    },
+    {
+      "title": "Heat therapy for sick frogs lowers sperm levels",
+      "link": "https://www.sciencenews.org/article/infection-treatment-lowers-frog-sperm",
+      "summary": "Scientists often use thermal treatment to combat fatal fungal infection in frogs, but it may come at a cost.",
+      "date": "2026-08-24T15:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/081726_PR_frogs_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-08-24T15:46:11Z"
+    },
+    {
+      "title": "Lack of sleep may cause anxiety by making us less adaptable to threats",
+      "link": "https://www.newscientist.com/article/2586177-lack-of-sleep-may-cause-anxiety-by-making-us-less-adaptable-to-threats/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "People who were deprived of sleep overnight didn't seem to adapt to being in a potentially threatening space, which may help explain the link between a lack of shuteye and anxiety",
+      "date": "2026-08-24T15:30:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308905889.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-24T15:46:12Z"
+    },
+    {
+      "title": "Why banishing irrational numbers could trigger a revolution in quantum theory",
+      "link": "https://www.newscientist.com/article/2584541-why-banishing-irrational-numbers-could-trigger-a-revolution-in-quantum-theory/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Irrational numbers have underpinned quantum mechanics for a century. Removing them could eliminate its strangest features and trigger the biggest upheaval in physics since quantum ",
+      "date": "2026-08-24T15:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308310306.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-24T15:46:12Z"
+    },
+    {
+      "title": "Antarctic bacteria share 'life‑support' genes to survive extreme conditions",
+      "link": "https://phys.org/news/2026-08-antarctic-bacteria-lifesupport-genes-survive.html",
+      "summary": "Antarctica is one of the driest, coldest places on Earth. Very little life survives its extremes. In the soils scattered around the frozen ice sheets, however, communities of micro",
+      "date": "2026-08-24T15:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/antarctic-bacteria-sha.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-24T15:46:14Z"
+    },
+    {
+      "title": "Tiny ocean plankton hold clues to the future of Maine lobster",
+      "link": "https://phys.org/news/2026-08-tiny-ocean-plankton-clues-future.html",
+      "summary": "The future of Maine's lobster industry may depend on a creature the size of a sesame seed. Researchers at the University of Maine have discovered that planktonic baby lobsters, or ",
+      "date": "2026-08-24T15:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-ocean-plankton-ho.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-24T15:46:14Z"
+    },
+    {
+      "title": "Severe COVID-19 may wake up dormant viruses and lead to lasting physical disability, study finds",
+      "link": "https://www.livescience.com/health/viruses-infections-disease/severe-covid-19-may-wake-up-dormant-viruses-and-lead-to-lasting-physical-disability-study-finds",
+      "summary": "Nearly half of hospitalized COVID-19 patients had a dormant virus flare back to life, and one family of viruses found in the majority of people was tied to lasting symptoms from lo",
+      "date": "2026-08-24T15:21:06Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/4rjVXa2PukMA33KzZ2v8CC-1280-80.gif",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-24T15:46:15Z"
+    },
     {
       "title": "Newark woman struggles to find help for a dying wild animal",
       "link": "https://www.mercurynews.com/2026/08/24/newark-woman-struggles-to-find-help-for-a-dying-wild-animal/",
@@ -5414,94 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-08-15T11:25:53Z"
-    },
-    {
-      "title": "Scientists simulating ant swarms find a 'first mover' can set the colony in motion",
-      "link": "https://phys.org/news/2026-08-scientists-simulating-ant-swarms-mover.html",
-      "summary": "In ant colonies, a single ant can be the catalyst for a wave of mob activity, launching brief bursts of coordinated movement involving hundreds or even thousands of swarming worker",
-      "date": "2026-08-15T11:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-simulate-an.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-15T11:26:09Z"
-    },
-    {
-      "title": "‘From this perspective, the bullfrog feels powerful and mythical’: Steven Scott Grogin’s best phone picture",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/aug/15/steven-scott-grogin-best-phone-picture-bullfrog",
-      "summary": "The photographer was on an early-morning hike by a lake in Michigan when he spotted the unusually large amphibian, so he dipped his lens below the waterline to get the shot Steven ",
-      "date": "2026-08-15T10:00:54Z",
-      "image": "https://i.guim.co.uk/img/media/45921906a1a65339905b35d9472f68f13359c581/0_1043_4274_3417/master/4274.jpg?width=140&quality=85&auto=format&fit=max&s=d664662762c13ab4cf30df1ce30176f6",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-15T10:29:05Z"
-    },
-    {
-      "title": "LISTEN: The Freediver Who Held His Breath for 24 Minutes",
-      "link": "https://www.outsideonline.com/outdoor-adventure/water-activities/podcast-breath-hold/",
-      "summary": "The latest Long Read on the Outside Podcast takes listeners inside the obsessive world of Budimir Šobat, the Serbian diver who held his breath longer than anyone in history. The po",
-      "date": "2026-08-15T09:34:12Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2025/09/sobat-floating-in-a-pool_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-15T10:29:12Z"
-    },
-    {
-      "title": "'A fine line between reducing stigma and trivialising conditions': Social media, self-diagnosis and the glamorization of ADHD",
-      "link": "https://www.livescience.com/health/a-fine-line-between-reducing-stigma-and-trivialising-conditions-social-media-self-diagnosis-and-the-glamorization-of-adhd",
-      "summary": "Social media, self-diagnosis and the glamorization of ADHD",
-      "date": "2026-08-15T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/4v3em6SMQfPxiUi4UVNV2P-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-15T10:29:18Z"
-    },
-    {
-      "title": "Gen Z flocks to BirdTok as birding takes flight: ‘It’s a craving for something real’",
-      "link": "https://www.theguardian.com/environment/2026/aug/15/gen-z-flocks-to-birdtok-as-birding-takes-flight-its-a-craving-for-something-real",
-      "summary": "Social media and Shazam-like birdsong apps drawing young people to hobby as they seek a gentler connection to the outside world Sorry Elon, but they’re not your kind of tweets. Soc",
-      "date": "2026-08-15T09:00:53Z",
-      "image": "https://i.guim.co.uk/img/media/15b16d44ce233c9b6bc58218660dcf27002e6a2d/0_28_1576_1261/master/1576.jpg?width=140&quality=85&auto=format&fit=max&s=a46f68c640f2b9b59f26c549da7d0f89",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-15T09:31:37Z"
-    },
-    {
-      "title": "Cook Your Next Steak Directly on the Coals",
-      "link": "https://www.outsideonline.com/food/how-to-cook-caveman-steak/",
-      "summary": "Forget the grill grates—drop your rib eye straight on the coals and discover why Eisenhower swore by this primal method. The post Cook Your Next Steak Directly on the Coals appeare",
-      "date": "2026-08-15T09:12:43Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/01/dirty-steak-caveman-steak.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-15T09:31:43Z"
-    },
-    {
-      "title": "Why do cats yowl?",
-      "link": "https://www.livescience.com/animals/cats/why-do-cats-yowl",
-      "summary": "Understanding a cat’s yowl requires looking beyond the noise to the behavior and emotions behind it.",
-      "date": "2026-08-15T09:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/YVHG5Q7yHAGBViUR8uofMH-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-15T09:31:50Z"
-    },
-    {
-      "title": "First Australian death of little penguin with H5 bird flu confirmed on Phillip Island",
-      "link": "https://www.theguardian.com/world/2026/aug/15/little-penguin-found-dead-with-h5-bird-flu-on-victorias-phillip-island",
-      "summary": "Authorities confirm first Australian death of species found with virus near where it attracts crowds to a ‘penguin parade’ Get our breaking news email , free app or daily news podc",
-      "date": "2026-08-15T07:01:50Z",
-      "image": "https://i.guim.co.uk/img/media/2b5832accfcf1f7808036fb3760525e8953c3fef/196_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=42bc3964f9eb99b2c540027444c831d8",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-15T07:35:34Z"
     }
   ]
 }
