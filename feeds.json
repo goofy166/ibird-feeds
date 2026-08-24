@@ -1,8 +1,52 @@
 {
-  "updated": "2026-08-24T18:50:30Z",
-  "updated_utc": "2026-08-24T18:50:30Z",
+  "updated": "2026-08-24T19:35:06Z",
+  "updated_utc": "2026-08-24T19:35:06Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Authorities Have Found the Body of Sarah Mallory Geis, the Last Climber Missing After Broad Peak’s Deadly Avalanche",
+      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/sarah-geis-broad-peak-avalanche-body-recovered/",
+      "summary": "Pakistani porters have recovered the body of American climber Sarah Mallory Geis on Broad Peak, concluding a three-week search following the July 30 avalanche. The post Authorities",
+      "date": "2026-08-24T18:53:51Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/GettyImages-2289114895-1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-24T19:34:56Z"
+    },
+    {
+      "title": "Dung beetles offer insights into biodiversity in Singapore",
+      "link": "https://phys.org/news/2026-08-dung-beetles-insights-biodiversity-singapore.html",
+      "summary": "Dung beetles could provide scientists with a new way to uncover the animals living in Singapore's forests, including elusive species that are difficult to spot with conventional wi",
+      "date": "2026-08-24T19:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dung-beetle.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-24T19:35:02Z"
+    },
+    {
+      "title": "Why ancient grasslands, once plowed, don't grow back the same",
+      "link": "https://phys.org/news/2026-08-ancient-grasslands-plowed-dont.html",
+      "summary": "When a 10,000-year-old prairie is plowed up to plant corn or a savanna is consumed by a strip mall, these once-grassy expanses, if left to regrow, can eventually look vaguely like ",
+      "date": "2026-08-24T19:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-ancient-grasslands.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-24T19:35:02Z"
+    },
+    {
+      "title": "Mapping the 'hidden highways' of Mexico's illegal wildlife trade",
+      "link": "https://phys.org/news/2026-08-hidden-highways-mexico-illegal-wildlife.html",
+      "summary": "For decades, wildlife traffickers have illegally captured and sold hundreds of thousands of wild parrots native to Mexico. Despite changes to international wildlife laws, the conse",
+      "date": "2026-08-24T19:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mapping-the-hidden-hig-4.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-24T19:35:02Z"
+    },
     {
       "title": "Rescued beluga whales from shuttered Canadian park arrive safely at SeaWorld San Diego",
       "link": "https://www.mercurynews.com/2026/08/24/rescued-beluga-whales-from-shuttered-marineland-arrive-safely-at-seaworld-san-diego/",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-16T17:25:28Z"
-    },
-    {
-      "title": "Shrinking water bodies can turn drought into disease hotspots or dead ends",
-      "link": "https://phys.org/news/2026-08-bodies-drought-disease-hotspots-dead.html",
-      "summary": "Prolonged dry spells or droughts can sometimes reduce aquatic diseases, many of which affect people. Yet other times, water scarcity can counterintuitively lead to an uptick in dis",
-      "date": "2026-08-16T14:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/3-ways-drought-alters.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-16T15:28:01Z"
-    },
-    {
-      "title": "‘Awed by nature’: fans mourn California’s beloved Jackie the bald eagle, whose legacy soars on",
-      "link": "https://www.theguardian.com/us-news/2026/aug/16/california-jackie-the-bald-eagle-legacy",
-      "summary": "Famous raptor helped livestream viewers in difficult moments, and inspired a conservation project at her lake home The bald eagle Jackie made her home on the shore of southern Cali",
-      "date": "2026-08-16T14:00:27Z",
-      "image": "https://i.guim.co.uk/img/media/6511396404a6253e33af50cafbda92ab2587c3cd/178_238_1172_938/master/1172.jpg?width=140&quality=85&auto=format&fit=max&s=a5299276e9252cb27fc49db7ac1c622c",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-16T14:29:28Z"
-    },
-    {
-      "title": "Florida sets record for sea turtle nests but Trump move could stall recovery",
-      "link": "https://www.theguardian.com/environment/2026/aug/16/florida-sea-turtle-nests-endangered-species",
-      "summary": "Loggerhead turtles abound this season but rollback of Endangered Species Act protections could threaten future Wildlife groups in Florida are celebrating record numbers of sea turt",
-      "date": "2026-08-16T12:00:25Z",
-      "image": "https://i.guim.co.uk/img/media/14202211c76e257eb3a4ee3c131ed16b82acdf7b/29_0_3061_2448/master/3061.jpg?width=140&quality=85&auto=format&fit=max&s=67a664ff4e9d64e142f9fc73236f5969",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-16T12:51:58Z"
-    },
-    {
-      "title": "Swift spacecraft, and a mission to save it, caught on video",
-      "link": "https://earthsky.org/space/swift-spacecraft-boost-plunging-back-to-earth/",
-      "summary": "The Swift space telescope is falling back to Earth. The LINK spacecraft is trying to save it. See both in orbit in a new video. The post Swift spacecraft, and a mission to save it,",
-      "date": "2026-08-16T12:00:54Z",
-      "image": "https://earthsky.org/upl/2026/06/Swift-LINK-push_NASA_webp-1.webp",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-08-16T12:52:00Z"
     }
   ]
 }
