@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-24T21:36:02Z",
-  "updated_utc": "2026-08-24T21:36:02Z",
+  "updated": "2026-08-24T22:33:37Z",
+  "updated_utc": "2026-08-24T22:33:37Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A Personal Trainer Explains Why Actor Tom Holland’s Favorite CrossFit Workout Will Make You a Better Outdoor Athlete",
+      "link": "https://www.outsideonline.com/health/training-performance/tom-holland-cindy-workout/",
+      "summary": "Actor Tom Holland's go-to workout is CrossFit's Cindy. A personal trainer explains why it builds the muscular endurance every outdoor athlete needs. The post A Personal Trainer Exp",
+      "date": "2026-08-24T22:22:51Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/tom-holland-cindy-workout.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-24T22:33:27Z"
+    },
+    {
+      "title": "Wildlife trafficking spreads across social media, putting thousands of species at risk",
+      "link": "https://phys.org/news/2026-08-wildlife-trafficking-social-media-thousands.html",
+      "summary": "Researchers monitoring online activity for six weeks in mid-2025 found primates, birds, snakes, frogs, orchids and many other wildlife groups advertised for sale across Facebook, I",
+      "date": "2026-08-24T22:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/online-marketplaces-ar-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-24T22:33:33Z"
+    },
+    {
+      "title": "A bird's eye view of illegal logging and its consequences in the Peruvian Amazon",
+      "link": "https://phys.org/news/2026-08-bird-eye-view-illegal-consequences.html",
+      "summary": "When I first arrived in Peru's Allpahuayo-Mishana National Reserve in 2005, a local youth surprised me with an offer to sell me a live owl, despite the fact that we were in a prote",
+      "date": "2026-08-24T21:40:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-birds-eye-view-of-il.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-24T22:33:33Z"
+    },
     {
       "title": "Bacteria from ancestral wheat microbiomes help protect plants against root rot fungus",
       "link": "https://phys.org/news/2026-08-bacteria-ancestral-wheat-microbiomes-root.html",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-08-17T09:50:10Z"
-    },
-    {
-      "title": "A moon for Mars! Asaph Hall finds Phobos 149 years ago",
-      "link": "https://earthsky.org/space/this-date-in-science-asaph-hall-discovers-a-moon-for-mars/",
-      "summary": "On this date in 1877, astronomer Asaph Hall discovered a moon for Mars: Phobos, the larger of 2 moons. He discovered the other moon, Deimos, later that year. The post A moon for Ma",
-      "date": "2026-08-17T09:00:03Z",
-      "image": "https://earthsky.org/upl/2015/11/Screen-Shot-2015-11-25-at-9.40.34-AM.png",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-08-17T09:50:11Z"
-    },
-    {
-      "title": "New Research Suggests That What’s in Our Protein Bars Matters More Than How Ultra-Processed They Are",
-      "link": "https://www.outsideonline.com/health/nutrition/stop-demonizing-protein-bars-ultraprocessed-foods/",
-      "summary": "A new study suggests food quality may matter more than processing when it comes to your health. Dietitians weigh in. The post New Research Suggests That What’s in Our Protein Bars ",
-      "date": "2026-08-17T09:00:27Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/person-holding-protein-bar.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-17T09:50:16Z"
-    },
-    {
-      "title": "Quantum computing may be facing a replication crisis",
-      "link": "https://www.newscientist.com/article/2584476-quantum-computing-may-be-facing-a-replication-crisis/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "A review of thousands of scientific papers about quantum computers finds that most don’t provide codes that can be tested on independent devices or that those codes don’t work",
-      "date": "2026-08-17T09:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308174944.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-17T09:50:20Z"
     }
   ]
 }
