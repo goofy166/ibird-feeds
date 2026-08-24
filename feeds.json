@@ -1,8 +1,52 @@
 {
-  "updated": "2026-08-24T08:56:17Z",
-  "updated_utc": "2026-08-24T08:56:17Z",
+  "updated": "2026-08-24T09:56:19Z",
+  "updated_utc": "2026-08-24T09:56:19Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Motor neurons don’t just move muscles. They may direct that motion too",
+      "link": "https://www.sciencenews.org/article/motor-neurons-muscles-motion",
+      "summary": "A fruit fly study shows motor neurons do more than relay commands: They send signals back to the brain and organize movement sequences.",
+      "date": "2026-08-24T09:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/082026_YH_neuron_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-08-24T09:56:13Z"
+    },
+    {
+      "title": "Plastic bottles can be turned into edible, vanilla-flavour cookies",
+      "link": "https://www.newscientist.com/article/2585463-plastic-bottles-can-be-turned-into-edible-vanilla-flavour-cookies/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Hundreds of millions of tonnes of plastic pollution are created each year. One option may be to turn the pollution into food, but critics voice concerns",
+      "date": "2026-08-24T09:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309008441.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-24T09:56:14Z"
+    },
+    {
+      "title": "Engineered yeasts help turn PET plastic and crop waste into protein-rich cookies",
+      "link": "https://phys.org/news/2026-08-yeasts-pet-plastic-crop-protein.html",
+      "summary": "Plastic might be the last ingredient you would ever add to a cookie recipe. But a team of researchers is looking to change that. They've programmed yeasts to turn plastic and agric",
+      "date": "2026-08-24T09:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/this-cookie-started-it.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-24T09:56:16Z"
+    },
+    {
+      "title": "Cheap wall tiles 'inspired by flowing streams' could fix one of superfast 6G's biggest problems",
+      "link": "https://www.livescience.com/technology/communications/cheap-wall-tiles-inspired-by-flowing-streams-could-fix-one-of-superfast-6gs-biggest-problems",
+      "summary": "Superfast 6G has a major problem — signals struggle to pass through physical barriers. But scientists have invented a $2 wall tile that can fix that.",
+      "date": "2026-08-24T09:45:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/bam6L9ft2rjmYuGmBEcXfh-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-24T09:56:17Z"
+    },
     {
       "title": "Country diary 1926: Amorous impulse sends insects on a nuptial flight",
       "link": "https://www.theguardian.com/environment/2026/aug/24/country-diary-1926-amorous-impulse-sends-insects-on-nuptial-flight",
@@ -5458,50 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-08-14T15:59:44Z"
-    },
-    {
-      "title": "Astronomers Peered at the Early Universe and May Have Discovered a New Kind of Celestial Object: Black Hole Stars",
-      "link": "https://www.smithsonianmag.com/smart-news/astronomers-peered-at-the-early-universe-and-may-have-discovered-a-new-kind-of-celestial-object-black-hole-stars-180989334/",
-      "summary": "Since the James Webb Space Telescope started collecting data in 2022, it has found puzzling objects dubbed little red dots. A new study suggests they might be giant black holes wit",
-      "date": "2026-08-14T15:47:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/Fa_KIql8t22AoVzFyXdi3MxOwgs=/420x240/filters:focal(450x300:451x301)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7c/a4/7ca45b97-a5b6-4cdb-9391-d20dd31bd01d/mit-blackholestar-01-press_0.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-14T15:59:46Z"
-    },
-    {
-      "title": "Historic Submarine Restoration Reveals a Hidden Connection to a Lost Sister Ship That Sank During World War II",
-      "link": "https://www.smithsonianmag.com/smart-news/historic-submarine-restoration-reveals-a-hidden-connection-to-a-lost-sister-ship-that-sank-during-world-war-ii-180989340/",
-      "summary": "Experts working on the USS \"Silversides\" found a flood valve that appears to have been destined for its sister ship, the USS \"Trigger.\" The vessel sank in the East China Sea on Mar",
-      "date": "2026-08-14T15:01:24Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/vwCQTGhHbNcLVFzS2-D74TQmBVU=/420x240/filters:focal(536x306:537x307)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e0/8f/e08fd007-e068-45e9-8ddc-b6264a687719/fb_img_1784226986658.webp",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-14T15:59:46Z"
-    },
-    {
-      "title": "US could exhaust domestic phosphorus within 40 years, but waste offers reserves",
-      "link": "https://phys.org/news/2026-08-exhaust-domestic-phosphorus-years-reserves.html",
-      "summary": "The United States could exhaust its domestic phosphorus supply within 40 years. Europe, Latin America and Southeast Asia already depend on imports from China and Morocco to meet th",
-      "date": "2026-08-14T15:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/crops-3.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-14T15:59:50Z"
-    },
-    {
-      "title": "Cells use a little-known molecule to protect themselves from iron overload",
-      "link": "https://phys.org/news/2026-08-cells-molecule-iron-overload.html",
-      "summary": "Iron is essential. Our cells need it to produce energy, carry oxygen throughout the body and power countless chemical reactions that sustain life. But this metal has a dark side. W",
-      "date": "2026-08-14T15:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cells-use-a-little-kno.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-14T15:59:50Z"
     }
   ]
 }
