@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-24T09:56:19Z",
-  "updated_utc": "2026-08-24T09:56:19Z",
+  "updated": "2026-08-24T10:44:33Z",
+  "updated_utc": "2026-08-24T10:44:33Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Pluto became a dwarf planet 20 years ago today",
+      "link": "https://earthsky.org/human-world/pluto-dwarf-planet-august-24-2006/",
+      "summary": "Pluto is the largest of many small bodies in the outer solar system. That's partly why it was demoted from major planet to dwarf planet in 2006. The post Pluto became a dwarf plane",
+      "date": "2026-08-24T10:15:56Z",
+      "image": "https://earthsky.org/upl/2015/11/pluto-7-14-2015-backlit.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-24T10:44:17Z"
+    },
+    {
+      "title": "Front face of a stela: A 1,300-year-old carving of a powerful Maya 'Lady Supreme Warlord' that weighs over 2 tons",
+      "link": "https://www.livescience.com/archaeology/americas/front-face-of-a-stela-a-1-300-year-old-carving-of-a-powerful-maya-lady-supreme-warlord-that-weighs-over-2-tons",
+      "summary": "This monumental carving depicts a powerful Maya queen called Lady K'abel, who ruled an ancient city in Guatemala at the end of the seventh century.",
+      "date": "2026-08-24T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/6vvErWXzxwiNMmRfp4p3zg-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-24T10:44:30Z"
+    },
     {
       "title": "Motor neurons don’t just move muscles. They may direct that motion too",
       "link": "https://www.sciencenews.org/article/motor-neurons-muscles-motion",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-08-14T15:59:38Z"
-    },
-    {
-      "title": "Bird flu has been evolving and migrating for 30 years. It is a far more deadly virus that has now arrived in Australia",
-      "link": "https://www.theguardian.com/world/2026/aug/15/bird-flu-h5n1-mutation-more-deadly-virus-australia",
-      "summary": "Experts say the H5N1 bird flu virus’s risk to humans is low, but fear an impeding decimation of seal populations after tens of thousands of deaths in South America and Antarctica G",
-      "date": "2026-08-14T15:00:32Z",
-      "image": "https://i.guim.co.uk/img/media/826c5c32736ee6edba32c496475e5883fcdd1597/1753_0_3855_3085/master/3855.jpg?width=140&quality=85&auto=format&fit=max&s=ee8645e8cdb42a72b796488975cc1c83",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-14T15:59:38Z"
-    },
-    {
-      "title": "Fisherman Core Is Hooked on Function",
-      "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/fisherman-core-fashion-trend/",
-      "summary": "From multi-pocketed vests to quick-dry fabrics, the enduring appeal of fisherman core lies in its sheer utility. The post Fisherman Core Is Hooked on Function appeared first on Out",
-      "date": "2026-08-14T15:08:06Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/fishermancore.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-14T15:59:44Z"
     }
   ]
 }
