@@ -1,8 +1,52 @@
 {
-  "updated": "2026-08-24T19:35:06Z",
-  "updated_utc": "2026-08-24T19:35:06Z",
+  "updated": "2026-08-24T20:38:13Z",
+  "updated_utc": "2026-08-24T20:38:13Z",
   "count": 500,
   "stories": [
+    {
+      "title": "In France, Brutal Summer Heat Waves Are Taking a Toll on the Flowers That Inspired Claude Monet's Most Beloved Paintings",
+      "link": "https://www.smithsonianmag.com/smart-news/in-france-brutal-summer-heat-waves-taking-toll-on-flowers-that-inspired-claude-monet-most-beloved-paintings-180989384/",
+      "summary": "The colorful nasturtiums at the artist's house and gardens have been hit particularly hard this summer, as France grapples with a record 52 heatwave days",
+      "date": "2026-08-24T20:06:03Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/pH79FBFwV9ey0W8zHTxSOX7hDA0=/420x240/filters:focal(512x341:513x342)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e2/d4/e2d40cd5-aba9-454d-be26-90aa179d7211/maison-et-jardins-claude-monet-giverny-dr-1024x681.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-24T20:38:05Z"
+    },
+    {
+      "title": "Shell-crushing predators may have sparked early Cenozoic boom in marine snail evolution",
+      "link": "https://phys.org/news/2026-08-shell-predators-early-cenozoic-boom.html",
+      "summary": "A large-scale study of nearly 700 species reveals the evolutionary relationships and history of Neogastropoda, a diverse group of marine snails. The findings provide new evidence f",
+      "date": "2026-08-24T20:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/evolutionary-arm-race.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-24T20:38:09Z"
+    },
+    {
+      "title": "Glacier retreat could promote the spread of diseases among bees",
+      "link": "https://phys.org/news/2026-08-glacier-retreat-diseases-bees.html",
+      "summary": "A study conducted in the Swiss Alps by the University of Lausanne and the University of Milan shows that glacier retreat and changing vegetation could influence the spread of certa",
+      "date": "2026-08-24T20:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/glacier-retreat-could.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-24T20:38:09Z"
+    },
+    {
+      "title": "Gut bacteria mostly compete—but cooperation finds a way",
+      "link": "https://phys.org/news/2026-08-gut-bacteria-cooperation.html",
+      "summary": "Understanding how bacteria influence one another is essential for understanding how microbial communities are formed and maintained. Researchers at Umeå University have now systema",
+      "date": "2026-08-24T19:40:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/intestinal-flora.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-24T20:38:09Z"
+    },
     {
       "title": "Authorities Have Found the Body of Sarah Mallory Geis, the Last Climber Missing After Broad Peak’s Deadly Avalanche",
       "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/sarah-geis-broad-peak-avalanche-body-recovered/",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-08-17T07:07:52Z"
-    },
-    {
-      "title": "Giant crocodylians dominated the food chain in Miocene South America, fossil evidence suggests",
-      "link": "https://phys.org/news/2026-08-giant-crocodylians-dominated-food-chain.html",
-      "summary": "South America was a frightening place during the Miocene. More than 10 million years ago, a vast lake covered much of the continent, home to giant turtles and crocodylians.",
-      "date": "2026-08-17T01:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/giant-crocodylians-dom.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-17T01:45:30Z"
-    },
-    {
-      "title": "Flightless beetles evolved distinct snail-hunting shapes on Japan's largest island",
-      "link": "https://phys.org/news/2026-08-flightless-beetles-evolved-distinct-snail.html",
-      "summary": "Islands are widely recognized as natural laboratories of evolution. The ocean restricts movement among islands, allowing isolated populations to adapt to different environments and",
-      "date": "2026-08-17T00:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reach-in-or-crush-the.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-17T01:45:30Z"
-    },
-    {
-      "title": "Gene-edited beagles produce no detectable major dog allergen, early tests find",
-      "link": "https://phys.org/news/2026-08-gene-beagles-major-dog-allergen.html",
-      "summary": "Humans love dogs, but petting them can leave some people sneezing and wheezing. About 15% of the world's population lives with a dog allergy, which can increase the risk of hay fev",
-      "date": "2026-08-16T18:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gene-edited-beagles-pr.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-16T18:37:45Z"
-    },
-    {
-      "title": "Phytophthora dieback linked to habitat loss and lower digging activity among quendas in Western Australia",
-      "link": "https://phys.org/news/2026-08-phytophthora-dieback-linked-habitat-loss.html",
-      "summary": "A new study from Murdoch University has found that the introduced plant disease Phytophthora dieback is indirectly hindering quendas in Western Australia's jarrah forests by reduci",
-      "date": "2026-08-16T17:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/phytophthora-dieback-l.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-16T17:25:28Z"
     }
   ]
 }
