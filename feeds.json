@@ -1,8 +1,74 @@
 {
-  "updated": "2026-08-24T15:46:18Z",
-  "updated_utc": "2026-08-24T15:46:18Z",
+  "updated": "2026-08-24T16:47:03Z",
+  "updated_utc": "2026-08-24T16:47:03Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Harry Green obituary",
+      "link": "https://www.theguardian.com/environment/2026/aug/24/harry-green-obituary",
+      "summary": "The conservationist Harry Green was a naturalist of the amateur school, with an encyclopedic knowledge of British wildlife based on a lifetime in the field. Though born and brought",
+      "date": "2026-08-24T16:24:37Z",
+      "image": "https://i.guim.co.uk/img/media/a4e2a7a3e731afbeb713cf05c4fa106d74d4d942/0_369_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=ba1300b7cbe486e71a1a618aeb822360",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-24T16:46:47Z"
+    },
+    {
+      "title": "Prince Harry quits board of wildlife charity after human rights abuses",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
+      "summary": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wildl",
+      "date": "2026-08-24T16:40:37Z",
+      "image": "https://i.guim.co.uk/img/media/77bfd9102a5d3092cc1153ef2655588870e9000a/581_0_2866_2294/master/2866.jpg?width=140&quality=85&auto=format&fit=max&s=11a9c171e103e448612a73c3c895176b",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-24T16:46:47Z"
+    },
+    {
+      "title": "Scientists Used A.I. to Design New Viruses. The Technology Could Be a Boon for Medicine, but Experts Worry About Harmful Pathogens",
+      "link": "https://www.smithsonianmag.com/smart-news/scientists-used-ai-too-design-new-viruses-the-technology-could-be-a-boon-for-medicine-but-experts-worry-about-harmful-pathogens-180989336/",
+      "summary": "The findings represent the first genomes, or complete genetic instruction books, designed entirely with generative A.I. The resulting viruses attack only bacteria, which could one ",
+      "date": "2026-08-24T16:08:42Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/Fntxua-40FPjZNgcqHy9SUT-UTg=/420x240/filters:focal(1088x710:1089x711)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/37/31/37310244-a744-4aff-883f-644ac47266a4/brianhie_image_2024-3.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-24T16:46:54Z"
+    },
+    {
+      "title": "Listening to the bush: How AI can help NZ rid its wilderness of 'hold‑out' pest possums",
+      "link": "https://phys.org/news/2026-08-bush-ai-nz-wilderness-holdout.html",
+      "summary": "Possums are among New Zealand's most destructive introduced mammals. They damage native forests, prey on wildlife and remain a major target of the country's Predator Free 2050 prog",
+      "date": "2026-08-24T16:40:11Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/possum-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-24T16:46:59Z"
+    },
+    {
+      "title": "Soil bacteria share amino acids, helping nearly half survive nutrient gaps",
+      "link": "https://phys.org/news/2026-08-soil-bacteria-amino-acids-survive.html",
+      "summary": "Bacteria, too, depend on good neighborly relations: A new study by the Osnabrück University, in collaboration with researchers from the University of Cambridge in England, shows th",
+      "date": "2026-08-24T16:20:09Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/neighborly-help-soil-b.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-24T16:46:59Z"
+    },
+    {
+      "title": "Tiny root hairs, big impact: How bacteria help plants survive drought",
+      "link": "https://phys.org/news/2026-08-tiny-root-hairs-big-impact.html",
+      "summary": "What helps plants cope better with drought? With heat waves and periods of extreme drought becoming increasingly common worldwide, the need for drought-tolerant plants is increasin",
+      "date": "2026-08-24T16:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-root-hairs-big-im.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-24T16:46:59Z"
+    },
     {
       "title": "Australia has just 12,000 sea lions left – and ‘carnage’ may await them as bird flu takes hold, scientists warn",
       "link": "https://www.theguardian.com/world/2026/aug/25/australia-has-just-12000-sea-lions-left-and-carnage-may-await-them-as-bird-flu-takes-hold-scientists-warn",
@@ -5436,72 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-08-15T13:35:42Z"
-    },
-    {
-      "title": "Were these polygonal cracks on Venus once on a seafloor?",
-      "link": "https://earthsky.org/space/cracks-on-venus-seafloor-mud-polygons/",
-      "summary": "Sprawling, huge cracks on Venus have long puzzled scientists. A new study suggests the polygon shapes formed from drying mud on an ancient seafloor. The post Were these polygonal c",
-      "date": "2026-08-15T10:55:50Z",
-      "image": "https://earthsky.org/upl/2026/08/Venus-cracks-ancient-seafloor.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-08-15T12:50:44Z"
-    },
-    {
-      "title": "Four more belugas arrive at Chicago aquarium from shuttered Canadian theme park",
-      "link": "https://phys.org/news/2026-08-belugas-chicago-aquarium-shuttered-canadian.html",
-      "summary": "Four more belugas have arrived at a Chicago aquarium as part of a plan to move Canada's last remaining captive whales from a shuttered theme park to aquariums in the United States ",
-      "date": "2026-08-15T11:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/four-more-belugas-arri.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-15T12:50:55Z"
-    },
-    {
-      "title": "Never Challenge the Gods…",
-      "link": "https://www.10000birds.com/never-challenge-the-gods-or-else.htm?utm_source=rss&utm_medium=rss&utm_campaign=never-challenge-the-gods-or-else",
-      "summary": "In an earlier post, I described my thoughts on a Big Year Costa Rica. I kept these thoughts to myself without realising super-natural beings eavesdrop on one’s thoughts. Justice fo",
-      "date": "2026-08-15T11:00:47Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/08/15.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-08-15T11:25:52Z"
-    },
-    {
-      "title": "My Favorite Anhinga",
-      "link": "https://www.10000birds.com/my-favorite-anhinga-2.htm?utm_source=rss&utm_medium=rss&utm_campaign=my-favorite-anhinga-2",
-      "summary": "This post is republished in our “From the Archives” series, featuring highlights of our vast back catalogue of more than 10,000 birding-related posts published over the last 15 yea",
-      "date": "2026-08-15T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/IMG_20171026_163423979_HDR-01-scaled.jpeg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-08-15T11:25:52Z"
-    },
-    {
-      "title": "6 Fascinating Opossum Facts You Should Know",
-      "link": "https://www.birdsandblooms.com/gardening/backyard-wildlife/opossum-facts/",
-      "summary": "Brush up on your opossum facts and you'll learn that these backyard critters are much more interesting than you think. The post 6 Fascinating Opossum Facts You Should Know appeared",
-      "date": "2026-07-29T18:18:01Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/GettyImages-1130799344-e1785348660668.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-08-15T11:25:53Z"
-    },
-    {
-      "title": "Award-Winning Bird Photography Tips You Need to Know",
-      "link": "https://www.birdsandblooms.com/birding/bird-photography/bird-photography-tips/",
-      "summary": "Go behind the scenes to learn how Birds & Blooms Photo Contest winners and semifinalists got their prize-worthy bird photography shots. The post Award-Winning Bird Photography Tips",
-      "date": "2026-07-29T17:40:37Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/12_Malcolm-Stephens_BBdj26-e1785346293393.jpg?fit=700,660",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-08-15T11:25:53Z"
     }
   ]
 }
