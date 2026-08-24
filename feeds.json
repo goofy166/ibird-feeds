@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-24T01:47:11Z",
-  "updated_utc": "2026-08-24T01:47:11Z",
+  "updated": "2026-08-24T03:10:53Z",
+  "updated_utc": "2026-08-24T03:10:53Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Harpy Eagles: 17 Fascinating Facts About the Canopy’s King",
+      "link": "https://birdwatchinghq.com/harpy-eagle-facts/",
+      "summary": "Honestly, Harpy Eagles are one of the coolest birds around. They are the rulers of the rainforest skies and are as intriguing as they are awe-inspiring. Keep reading, and you will ",
+      "date": "2025-10-19T17:49:35Z",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/harpy_eagle_double_crest_of_feathers-1.jpg",
+      "name": "BWatching HQ",
+      "category": "birds",
+      "color": 4,
+      "fetched_at": "2026-08-24T03:10:34Z"
+    },
     {
       "title": "10 Things You Can Do to Help Birds",
       "link": "https://birdwatchinghq.com/how-to-help-birds/",
@@ -5491,17 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-08-14T14:57:57Z"
-    },
-    {
-      "title": "Bird Friendly Certification: 8 Requirements Coffee Farms Need to Satisify",
-      "link": "https://birdwatchinghq.com/bird-friendly-certification-requirements-for-coffee-farms/",
-      "summary": "In the world of coffee certifications, there’s one that soars above the rest—literally. The Smithsonian Bird Friendly certification is the gold standard when it comes to protecting",
-      "date": "2025-10-20T17:51:25Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/bird_friendly_logo_2-1024x1024.webp",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-08-14T14:57:59Z"
     }
   ]
 }
