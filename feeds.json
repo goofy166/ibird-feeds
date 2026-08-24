@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-24T22:33:37Z",
-  "updated_utc": "2026-08-24T22:33:37Z",
+  "updated": "2026-08-24T23:27:39Z",
+  "updated_utc": "2026-08-24T23:27:39Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Best Smart Bird Feeders with Cameras, Tested by Our Editors for Video Quality and AI Recognition",
+      "link": "https://www.birdsandblooms.com/stuff-we-love/best-smart-bird-feeders/",
+      "summary": "Get up close and personal with your favorite feathery friends! We tried five different options to find the best smart bird feeders for every backyard birder. The post The Best Smar",
+      "date": "2026-08-24T22:33:04Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/08/BNBA26_The-Best-Smart-Bird-Feeders_Katie-Bandurski_Mary-Henn_01_YVedit.jpg?fit=700,1024",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-08-24T23:27:20Z"
+    },
+    {
+      "title": "A Guiding Company Faces Hefty Fines After the Deadly Tahoe Avalanche",
+      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/blackbird-mountain-guides-tahoe-avalanche-citations-fines/",
+      "summary": "The California workplace safety agency alleges seven violations following the February avalanche that killed three guides and six clients. Blackbird Mountain Guides is appealing. T",
+      "date": "2026-08-24T23:16:57Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/GettyImages-2262187195.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-24T23:27:30Z"
+    },
     {
       "title": "A Personal Trainer Explains Why Actor Tom Holland’s Favorite CrossFit Workout Will Make You a Better Outdoor Athlete",
       "link": "https://www.outsideonline.com/health/training-performance/tom-holland-cindy-workout/",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-08-17T10:38:09Z"
-    },
-    {
-      "title": "Fire-flame vessel: An exquisitely crafted 4,500-year-old pot from a mysterious culture in Japan",
-      "link": "https://www.livescience.com/archaeology/fire-flame-vessel-an-exquisitely-crafted-4-500-year-old-pot-from-a-mysterious-culture-in-japan",
-      "summary": "Archaeologists aren't sure why prehistoric people in Japan made these elaborate vessels decorated with flames.",
-      "date": "2026-08-17T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/PdzPmJD8S4dpJyoZbgdQ4T-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-17T10:38:17Z"
-    },
-    {
-      "title": "‘Our new normal’: how marine heatwaves affect life in British seas",
-      "link": "https://www.theguardian.com/environment/2026/aug/17/marine-heatwave-new-normal-britain-seas",
-      "summary": "As warming seas push native species to cooler waters farther north, once-rare visitors have become more common ‘It sounds silly but I thought it was a person in the water waving,” ",
-      "date": "2026-08-17T09:00:50Z",
-      "image": "https://i.guim.co.uk/img/media/cf31c6de6ea5160083deaa3c6eaa6bb1ff5ad62a/1603_165_2931_2346/master/2931.jpg?width=140&quality=85&auto=format&fit=max&s=82e5d25a37cb72ffdd8e3a243605aea9",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-17T09:50:10Z"
     }
   ]
 }
