@@ -1,8 +1,63 @@
 {
-  "updated": "2026-08-25T22:34:11Z",
-  "updated_utc": "2026-08-25T22:34:11Z",
+  "updated": "2026-08-25T23:30:36Z",
+  "updated_utc": "2026-08-25T23:30:36Z",
   "count": 500,
   "stories": [
+    {
+      "title": "See the stunning contenders for the Wildlife Photographer of the Year",
+      "link": "https://www.newscientist.com/article/2585388-see-the-stunning-contenders-for-the-wildlife-photographer-of-the-year/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "These images of nature in action are just some of the highly commended shots in the running for the prestigious nature photography award",
+      "date": "Tue, 25 Aug 2026 23Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI308747016.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-25T23:30:28Z"
+    },
+    {
+      "title": "A near extinct plant in Galápagos is now recovering",
+      "link": "https://phys.org/news/2026-08-extinct-galpagos-recovering.html",
+      "summary": "A 30-year conservation effort has helped the critically endangered Galápagos snapdragon (Galvezia leucantha subsp. leucantha) recover from just six individuals to a small, carefull",
+      "date": "2026-08-25T23:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-near-extinct-plant-i-3.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-25T23:30:30Z"
+    },
+    {
+      "title": "Porpoise entanglement recorded in real time, revealing calls and escape attempts",
+      "link": "https://phys.org/news/2026-08-porpoise-entanglement-real-revealing.html",
+      "summary": "Researchers at the University of St Andrews have gained unprecedented insight into marine mammal behavior when they become tangled in fishing nets. In a paper published Aug. 26 in ",
+      "date": "2026-08-25T23:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unprecedented-recordin.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-25T23:30:30Z"
+    },
+    {
+      "title": "Although research on animal production and climate is growing, implementation in the field remains challenging",
+      "link": "https://phys.org/news/2026-08-animal-production-climate-field.html",
+      "summary": "Climate change is reshaping global livestock production systems and leading to increased research on the topic. However, science still faces the challenge of translating advances i",
+      "date": "2026-08-25T22:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/although-research-on-a.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-25T23:30:30Z"
+    },
+    {
+      "title": "Adaptation and a 'Noah's Ark for trees' offer hope for endangered black ash",
+      "link": "https://phys.org/news/2026-08-noah-ark-trees-endangered-black.html",
+      "summary": "With the invasive emerald ash borer beetle decimating black ash across North America, according to the U.S. Forest Service, a team led by researchers at Penn State conducted an exp",
+      "date": "2026-08-25T22:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/adaptation-and-a-noahs-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-25T23:30:30Z"
+    },
     {
       "title": "The Best Road, Mountain, Gravel, and Commuter Biking Gear for Your Money",
       "link": "https://www.outsideonline.com/outdoor-gear/bikes-and-biking/best-bike-gear-affordable/",
@@ -5447,61 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-08-18T04:41:52Z"
-    },
-    {
-      "title": "Molecular memory: How a mother's age echoes in her offspring's cells",
-      "link": "https://phys.org/news/2026-08-molecular-memory-mother-age-echoes.html",
-      "summary": "In humans and many other animals, a mother's age can affect the physical and behavioral characteristics of the next generation. Scientists call these changes maternal age effects, ",
-      "date": "2026-08-18T02:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-memory-how-a.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-08-18T03:02:02Z"
-    },
-    {
-      "title": "Billions of invasive round goby are in the Great Lakes. Researchers want to stop them from spreading inland",
-      "link": "https://phys.org/news/2026-08-billions-invasive-goby-great-lakes.html",
-      "summary": "For decades, the round goby has been one of the Great Lakes' most destructive invasive species. Scientists estimate its population numbers in the billions, making eradication unrea",
-      "date": "2026-08-18T01:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/billions-of-invasive-r.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-18T01:40:32Z"
-    },
-    {
-      "title": "Immune cells have a 'sense of touch,' scientists discover",
-      "link": "https://phys.org/news/2026-08-immune-cells-scientists.html",
-      "summary": "Scientists have long believed that tissue-resident memory T cells—which remain in tissues after an infection has cleared and respond rapidly if the threat returns—are shaped primar",
-      "date": "2026-08-18T00:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/t-cell.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-18T01:40:32Z"
-    },
-    {
-      "title": "Molecular electromagnetic sensor may enable remote-controlled gene therapy",
-      "link": "https://phys.org/news/2026-08-molecular-electromagnetic-sensor-enable-remote.html",
-      "summary": "The deoxyribonucleic acid (DNA) of living organisms contains regulatory elements that control when, where and to what extent specific genes are turned on or off. They can be co-opt",
-      "date": "2026-08-17T23:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-in-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-18T01:40:32Z"
-    },
-    {
-      "title": "Male Neanderthal pelvises resemble those of modern females, challenging decades-old assumptions",
-      "link": "https://phys.org/news/2026-08-male-neanderthal-pelvises-resemble-modern.html",
-      "summary": "A new study by the Department of Anatomy and Anthropology at Tel Aviv University, published in Scientific Reports, offers an explanation for one of the striking differences between",
-      "date": "2026-08-17T23:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-do-men-and-women-w.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-17T23:29:06Z"
     }
   ]
 }
