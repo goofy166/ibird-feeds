@@ -1,8 +1,74 @@
 {
-  "updated": "2026-08-25T17:36:53Z",
-  "updated_utc": "2026-08-25T17:36:53Z",
+  "updated": "2026-08-25T18:48:54Z",
+  "updated_utc": "2026-08-25T18:48:54Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Hawks in Georgia",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/hawks-in-georgia/",
+      "summary": "Is a goshawk the same as a hawk? What is a Buteo? How many hawks are there in Georgia? Well, in this article we try … Read More \"Hawks in Georgia\"",
+      "date": "2026-05-10T23:40:55Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/07/red-tailed-hawk-by-Susan-Kirby.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-08-25T18:48:30Z"
+    },
+    {
+      "title": "The Everyday Survival Buyer’s Guide",
+      "link": "https://www.outsideonline.com/outdoor-gear/tools/the-everyday-survival-buyers-guide/",
+      "summary": "Handle life’s little—and even big—challenges with the right multitool The post The Everyday Survival Buyer’s Guide appeared first on Outside Online .",
+      "date": "Tue, 25 Aug 2026 17Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/Leatherman_featured_h.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-25T18:48:44Z"
+    },
+    {
+      "title": "A New Statue Honors 'Moby-Dick' Author Herman Melville in the Massachusetts City Where His Whaling Adventures Began",
+      "link": "https://www.smithsonianmag.com/smart-news/a-new-statue-honors-moby-dick-author-herman-melville-in-the-massachusetts-city-where-his-whaling-adventures-began-180989388/",
+      "summary": "The 7.5-foot-tall bronze artwork stands in the heart of historic New Bedford, the 19th-century whaling port that inspired the author's famous 1851 novel",
+      "date": "Tue, 25 Aug 2026 17Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/VJ-WDyeBASTURuhXmWo2satTEQM=/420x240/filters:focal(900x609:901x610)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/08/9d/089d373f-c69e-45eb-8ba9-b6ffdb2f545a/773632968_1442990374528781_6788456863384347263_n.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-25T18:48:46Z"
+    },
+    {
+      "title": "A Human Skeleton Was Found Inside a Mysterious Stone Structure in Scotland. Archaeologists Still Don't Know Why It Was Buried There",
+      "link": "https://www.smithsonianmag.com/smart-news/human-skeleton-found-inside-mysterious-stone-structure-in-scotland-archaeologists-still-dont-know-why-it-was-buried-there-180989391/",
+      "summary": "Built with fitted stone and a clay-like material that may have helped retain liquid, the unusual structure has left researchers searching for an explanation",
+      "date": "Tue, 25 Aug 2026 17Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/blCEnMRjx1K6Nye20pvznedgNc4=/420x240/filters:focal(2016x1517:2017x1518)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/be/c4/bec43377-d59c-470f-893e-8f099a020aee/dji_0444.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-25T18:48:46Z"
+    },
+    {
+      "title": "New workflow helps ecologists measure how individual animals use their habitat",
+      "link": "https://phys.org/news/2026-08-workflow-ecologists-individual-animals-habitat.html",
+      "summary": "A researcher has developed a new, reproducible workflow that lets ecologists measure, in a standardized way, how individual animals within a species differ in their habitat use, ba",
+      "date": "2026-08-25T18:20:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-workflow-helps-eco-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-25T18:48:51Z"
+    },
+    {
+      "title": "Scientists resurrect ancient proteins, offering new antibiotic leads",
+      "link": "https://phys.org/news/2026-08-scientists-resurrect-ancient-proteins-antibiotic.html",
+      "summary": "University of Oregon biologists have resurrected prehistoric proteins up to 160 million years old that carry natural antimicrobial properties. The revived molecules could inspire t",
+      "date": "2026-08-25T18:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-resurrect-a.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-25T18:48:51Z"
+    },
     {
       "title": "Brown Birds with an Orange Chest",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/brown-birds-with-an-orange-chest/",
@@ -5436,72 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-17T20:33:32Z"
-    },
-    {
-      "title": "Last common ancestor of humans and chimpanzees could have been a vertical climber, no matter its feet",
-      "link": "https://phys.org/news/2026-08-common-ancestor-humans-chimpanzees-vertical.html",
-      "summary": "New research suggests that no matter what we eventually determine the last common ancestor of humans and chimpanzees to be, we'll learn it was a primate that climbed trees.",
-      "date": "2026-08-17T20:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/last-common-ancestor-n.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-17T20:33:32Z"
-    },
-    {
-      "title": "Are zoos ready for the changing climate?",
-      "link": "https://phys.org/news/2026-08-zoos-ready-climate.html",
-      "summary": "When people think about climate change and animals, they might picture melting sea ice, drought-stricken landscapes or species struggling in the wild. Far less attention is given t",
-      "date": "2026-08-17T19:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/elephant-zoo.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-17T20:33:32Z"
-    },
-    {
-      "title": "Australia's Social Media Ban for Teens May Not Be the Best Solution, But It's Certainly Getting People Talking",
-      "link": "https://www.smithsonianmag.com/innovation/australias-social-media-ban-for-teens-may-not-be-the-best-solution-but-its-certainly-getting-people-talking-180989355/",
-      "summary": "The Aussie experiment comes amid a lack of clear evidence that the apps harm most adolescents. It may take a dramatic research pivot to finally reveal what’s going on and how to fi",
-      "date": "2026-08-17T19:15:28Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/BRFtsEl8zNhQbdSElpQuzFFGsPM=/420x240/filters:focal(1400x1033:1401x1034)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/93/55/93552e23-ed4a-4165-88ea-3d5b307fef5d/gettyimages-2258285616.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-17T19:33:04Z"
-    },
-    {
-      "title": "In a First, Astronomers May Have Spotted a Galaxy in the Early Universe With Three Behemoth Black Holes",
-      "link": "https://www.smithsonianmag.com/smart-news/in-a-first-astronomers-may-have-spotted-a-galaxy-in-the-early-universe-with-three-behemoth-black-holes-180989344/",
-      "summary": "The galaxy’s light took about 12.5 billion years to reach the James Webb Space Telescope, meaning the instrument saw the black holes a little more than one billion years after the ",
-      "date": "2026-08-17T19:13:48Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/Hf4EldxxKlEz6rkDmjFyFOIse5g=/420x240/filters:focal(614x561:615x562)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/29/49/29493038-7959-49c5-9352-ef74ea574dc7/original_1.webp",
-      "name": "Smithsonian",
-      "category": "butterflies",
-      "color": 10,
-      "fetched_at": "2026-08-17T19:33:04Z"
-    },
-    {
-      "title": "Tiny feet on cells can sense defects and stall migration to heal wounds",
-      "link": "https://phys.org/news/2026-08-tiny-feet-cells-defects-stall.html",
-      "summary": "Cells travel through the body both individually and in collective groups during development, wound healing and diseases such as cancer. New research from the McKelvey School of Eng",
-      "date": "2026-08-17T19:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-feet-on-cells-sen.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-17T19:33:09Z"
-    },
-    {
-      "title": "35-year monitoring study clarifies ecological forces behind Lyme disease risk",
-      "link": "https://phys.org/news/2026-08-year-ecological-lyme-disease.html",
-      "summary": "Tick-borne diseases are on the rise in the United States. Lyme disease is the most commonly reported, with nearly half a million people diagnosed each year. Caused by the bacterium",
-      "date": "2026-08-17T19:00:12Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/35-year-study-reshapes.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-17T19:33:09Z"
     }
   ]
 }
