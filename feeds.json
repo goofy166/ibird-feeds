@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-25T12:59:55Z",
-  "updated_utc": "2026-08-25T12:59:55Z",
+  "updated": "2026-08-25T13:58:26Z",
+  "updated_utc": "2026-08-25T13:58:26Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Woodpeckers in Minnesota: Top 8 Species with Pictures",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/woodpeckers-in-minnesota-top-8-species-with-pictures/",
+      "summary": "Did you know that woodpeckers can peck up to 20 times in one second? The speed of how they move their heads sometimes exceeds 15 … Read More \"Woodpeckers in Minnesota: Top 8 Specie",
+      "date": "2026-05-10T23:20:58Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2024/08/red-breasted-sapsucker-alexander-viduetsky-410x465-1.jpeg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-08-25T13:58:00Z"
+    },
+    {
+      "title": "Why are hummingbirds immune to poisonous trumpet plants?",
+      "link": "https://www.mercurynews.com/2026/08/17/why-are-hummingbirds-immune-to-mountain-view-trumpet-plants/",
+      "summary": "The birds are safe because they don't take in enough poison to be harmed",
+      "date": "2026-08-17T13:30:53Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/SJM-L-JOANCOL-0817-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-08-25T13:58:13Z"
+    },
+    {
+      "title": "Cow gut enzyme could help target bacterial biofilms and antibiotic-resistant infections",
+      "link": "https://phys.org/news/2026-08-cow-gut-enzyme-bacterial-biofilms.html",
+      "summary": "The bacterium Acinetobacter baumannii poses a substantial threat in health care settings, readily forming biofilms on wounds and medical surfaces and contributing to persistent inf",
+      "date": "2026-08-25T13:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cow-gut-enzyme-could-h.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-25T13:58:22Z"
+    },
     {
       "title": "Ecuador – Profile for Birders",
       "link": "https://www.10000birds.com/ecuador-profile-for-birders.htm?utm_source=rss&utm_medium=rss&utm_campaign=ecuador-profile-for-birders",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-17T15:31:48Z"
-    },
-    {
-      "title": "1,700-year-old church discovered under a lake in Turkey may be the location of the First Council of Nicaea — but other experts disagree",
-      "link": "https://www.livescience.com/archaeology/middle-east/1-700-year-old-church-discovered-under-a-lake-in-turkey-may-be-the-location-of-the-first-council-of-nicaea-but-other-experts-disagree",
-      "summary": "A small church discovered beneath a larger one may have hosted one of the most important meetings in the history of Christianity, but some scholars not involved with the excavation",
-      "date": "2026-08-17T15:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/CSnvHoHzuHnjSbELg9FzM5-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-17T15:31:49Z"
-    },
-    {
-      "title": "Do Penguins Have Knees?",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/do-penguins-have-knees/",
-      "summary": "What makes penguins a sweet sight in the bird world is their waddling. They don’t seem to have legs as their feet appear right out … Read More \"Do Penguins Have Knees?\"",
-      "date": "2026-05-10T23:24:50Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/03/Penguin-by-Joshua-Ryder.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-08-17T14:34:44Z"
-    },
-    {
-      "title": "Do Birds and Squirrels Get Along? Forest Friends or Foes",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/do-birds-and-squirrels-get-along-forest-friends-or-foes/",
-      "summary": "Squirrels are fantastic acrobats and will go to great lengths to get what they want. Birdseed and nuts are among their favorite meal options. If … Read More \"Do Birds and Squirrels",
-      "date": "2026-05-10T23:22:53Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/02/downy-woodpecker-feeding-scaled.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-08-17T14:34:44Z"
     }
   ]
 }
