@@ -1,8 +1,107 @@
 {
-  "updated": "2026-08-25T13:58:26Z",
-  "updated_utc": "2026-08-25T13:58:26Z",
+  "updated": "2026-08-25T14:56:18Z",
+  "updated_utc": "2026-08-25T14:56:18Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Do Penguins Have Knees?",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/do-penguins-have-knees/",
+      "summary": "What makes penguins a sweet sight in the bird world is their waddling. They don’t seem to have legs as their feet appear right out … Read More \"Do Penguins Have Knees?\"",
+      "date": "2026-05-10T23:24:50Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/03/Penguin-by-Joshua-Ryder.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-08-25T14:55:54Z"
+    },
+    {
+      "title": "Do Birds and Squirrels Get Along? Forest Friends or Foes",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/do-birds-and-squirrels-get-along-forest-friends-or-foes/",
+      "summary": "Squirrels are fantastic acrobats and will go to great lengths to get what they want. Birdseed and nuts are among their favorite meal options. If … Read More \"Do Birds and Squirrels",
+      "date": "2026-05-10T23:22:53Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/02/downy-woodpecker-feeding-scaled.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-08-25T14:55:54Z"
+    },
+    {
+      "title": "‘Not any old vermin’: rats numbers are on the rise thanks to global heating – and poison may not be the answer",
+      "link": "https://www.theguardian.com/environment/2026/aug/25/rats-numbers-rise-global-heating-poison-cities",
+      "summary": "Robert Corrigan has been dealing with the ‘smart’ rodents all his life – and believes there are better solutions to deal with the growing infestation in the world’s cities “The rod",
+      "date": "2026-08-25T14:00:38Z",
+      "image": "https://i.guim.co.uk/img/media/fe4ea8a042c72697b57bce1ec3114ac33ab30cbf/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=5456dd788ef3e46b16d424a7cbbd65ce",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-25T14:56:01Z"
+    },
+    {
+      "title": "This Rock Art in China Has Remained Bright Red for Nearly 2,000 Years. How? The Secret Ingredient Might Be Blood",
+      "link": "https://www.smithsonianmag.com/smart-news/this-rock-art-in-china-has-remained-bright-red-for-nearly-2000-years-how-the-secret-ingredient-might-be-blood-180989389/",
+      "summary": "A new study offers clues about how the Luoyue people created rock paintings in what’s now southern China. The murals have somehow been durable enough to withstand rain, heat, wind ",
+      "date": "Tue, 25 Aug 2026 14Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/6Lo3ZmsWFlFbBsHsaFdyse_eVDU=/420x240/filters:focal(1750x1167:1751x1168)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e5/61/e561f163-9c70-442d-b379-f78f81765787/rock-painting.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-25T14:56:10Z"
+    },
+    {
+      "title": "How memories may survive hibernation",
+      "link": "https://www.sciencenews.org/article/memories-survive-hibernation-brain-cell",
+      "summary": "Hibernating mice rapidly lost and regrew half of the connections in their memory centers, while key connection hubs survived.",
+      "date": "Tue, 25 Aug 2026 14Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/081826_RJM_memory_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-08-25T14:56:11Z"
+    },
+    {
+      "title": "A tiny drop of water is all that's needed to find threatened frogs",
+      "link": "https://phys.org/news/2026-08-tiny-threatened-frogs.html",
+      "summary": "New James Cook University research has used highly sensitive environmental DNA (e-DNA) techniques to find two species of threatened frogs in places they've never been seen before—a",
+      "date": "2026-08-25T14:40:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-drop-of-water---a.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-25T14:56:14Z"
+    },
+    {
+      "title": "Young golden eagles leave their parents' territory late",
+      "link": "https://phys.org/news/2026-08-young-golden-eagles-parents-territory.html",
+      "summary": "When a young golden eagle (Aquila chrysaetos) finally leaves its parents' territory, it leaves behind the only safety net it has ever known. Until now, biologists had assumed that ",
+      "date": "2026-08-25T14:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/young-golden-eagles-le-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-25T14:56:14Z"
+    },
+    {
+      "title": "The hidden physics behind the shape of rose thorns",
+      "link": "https://phys.org/news/2026-08-hidden-physics-rose-thorns.html",
+      "summary": "Roses are known for their thorns, the sharp structures that can sting and prickle the skin. Thorns, botanically known as prickles, are thought to discourage animals from feeding on",
+      "date": "2026-08-25T14:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-hidden-physics-beh.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-25T14:56:14Z"
+    },
+    {
+      "title": "Ritual solstice structure 1,000 years older than Stonehenge unearthed in Czech Republic",
+      "link": "https://www.livescience.com/archaeology/ritual-solstice-structure-1-000-years-older-than-stonehenge-unearthed-in-czech-republic",
+      "summary": "Archaeologists have discovered a prehistoric ritual structure oriented to the sun and moon in the Czech Republic.",
+      "date": "Tue, 25 Aug 2026 14Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/xqWnn69mpHZ9kQ7c4Y7KwW-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-25T14:56:16Z"
+    },
     {
       "title": "Woodpeckers in Minnesota: Top 8 Species with Pictures",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/woodpeckers-in-minnesota-top-8-species-with-pictures/",
@@ -5403,105 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-08-17T16:35:04Z"
-    },
-    {
-      "title": "Trace elements offer new clues to mysterious black eye lesions in cats",
-      "link": "https://phys.org/news/2026-08-elements-clues-mysterious-black-eye.html",
-      "summary": "A distinctive black or dark brown lesion that appears on the eyes of some cats has long puzzled veterinarians. Now, researchers have identified two elements that may help explain w",
-      "date": "2026-08-17T16:20:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cats-eyes.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-17T16:35:06Z"
-    },
-    {
-      "title": "AI learns to spot tomato diseases using nearly 9,000 field images",
-      "link": "https://phys.org/news/2026-08-ai-tomato-diseases-field-images.html",
-      "summary": "A breakthrough in AI-driven crop disease detection is set to reduce harvest losses and chemical-related health risks, thanks to a first-of-its-kind tomato leaf dataset comprising a",
-      "date": "2026-08-17T16:00:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-9000-photos-built-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-17T16:35:06Z"
-    },
-    {
-      "title": "TikTok video leads to discovery of rare underground eel in India",
-      "link": "https://phys.org/news/2026-08-tiktok-video-discovery-rare-underground.html",
-      "summary": "Researchers have discovered a new genus and species of underground earthworm eel living beneath the Indo-Gangetic Plain in Bihar, northern India. The small, colorless creature, nam",
-      "date": "2026-08-17T16:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiktok-video-leads-to.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-17T16:35:06Z"
-    },
-    {
-      "title": "Who's watching who? Otters turn their attention to humans",
-      "link": "https://phys.org/news/2026-08-otters-attention-humans.html",
-      "summary": "For many people, a trip to the zoo is a chance to watch playful otters dart through the water and chatter with one another. But while we may worry that crowds could stress the otte",
-      "date": "2026-08-17T15:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/whos-watching-who-otte.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-17T16:35:06Z"
-    },
-    {
-      "title": "Birding Lodges of the World: Kanon Private Nature Reserve, South Africa",
-      "link": "https://www.10000birds.com/birding-lodges-of-the-world-kanon-private-nature-reserve-south-africa.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-lodges-of-the-world-kanon-private-nature-reserve-south-africa",
-      "summary": "Which bird species do you think is the biggest attraction to visitors of your lodge (please only name one species)? Blue Crane What is the name of your lodge, and since when has yo",
-      "date": "2026-08-17T15:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/Fynbos-Beach-Cottage-Places-To-Stay-In-The-Garden-Route-at-Kanon-1200x899-1.jpeg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-08-17T15:31:30Z"
-    },
-    {
-      "title": "Bird flu has devastated wildlife around the world. What Australian birds are most at risk?",
-      "link": "https://www.theguardian.com/world/2026/aug/18/bird-flu-wildlife-australian-birds-most-at-risk",
-      "summary": "It’s uncertain how native populations might be affected by the deadly H5 strain but seagulls, pelicans and black swans are among those species that have experts worried Get our bre",
-      "date": "2026-08-17T15:00:03Z",
-      "image": "https://i.guim.co.uk/img/media/684698c47f6e88c1ea979007bd6b5556a0294f47/213_0_3993_3194/master/3993.jpg?width=140&quality=85&auto=format&fit=max&s=53d247155f3ae8c5f10ef7c8041fc2dd",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-17T15:31:35Z"
-    },
-    {
-      "title": "This Couple Found a Mysterious 150-Pound Sculpture Buried in Their Backyard. Now, They're Trying to Figure Out Who Made It",
-      "link": "https://www.smithsonianmag.com/smart-news/this-couple-found-a-mysterious-150-pound-sculpture-buried-in-their-backyard-now-theyre-trying-to-figure-out-who-made-it-180989347/",
-      "summary": "After discovering a large limestone bust on their San Francisco property in May, Greg Gatwood and Judy Gittelsohn have spent the past few months trying to unravel its backstory",
-      "date": "2026-08-17T14:33:57Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/ZOBTn6MMS5Y-AWzUTtSZRIlcIy4=/420x240/filters:focal(1048x600:1049x601)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1f/15/1f158e9f-28fb-4fda-a54f-2977ecb3b0f8/just_found_head_close_up_at_an_angle.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-17T15:31:43Z"
-    },
-    {
-      "title": "Why women with ADHD feel overwhelmingly ‘controlled’ by their hormones",
-      "link": "https://www.newscientist.com/article/2583945-why-women-with-adhd-feel-overwhelmingly-controlled-by-their-hormones/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "People with ADHD are unusually sensitive to hormone shifts. Psychiatrists have started to pay attention, creating strategies to address the intense emotions and cognitive challenge",
-      "date": "2026-08-17T15:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308278702.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-17T15:31:45Z"
-    },
-    {
-      "title": "Turtle travels: Researchers uncover different migration strategies among male green sea turtles",
-      "link": "https://phys.org/news/2026-08-turtle-uncover-migration-strategies-male.html",
-      "summary": "Florida State University researchers studying male green sea turtles off the coast of Brazil have discovered two distinct migration strategies, with some turtles traveling up to 1,",
-      "date": "2026-08-17T15:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/turtle-travels-fsu-res.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-17T15:31:48Z"
     }
   ]
 }
