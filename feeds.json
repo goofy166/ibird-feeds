@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-25T21:35:17Z",
-  "updated_utc": "2026-08-25T21:35:17Z",
+  "updated": "2026-08-25T22:34:11Z",
+  "updated_utc": "2026-08-25T22:34:11Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Best Road, Mountain, Gravel, and Commuter Biking Gear for Your Money",
+      "link": "https://www.outsideonline.com/outdoor-gear/bikes-and-biking/best-bike-gear-affordable/",
+      "summary": "Value gear that never feels like the cheap seats. The post The Best Road, Mountain, Gravel, and Commuter Biking Gear for Your Money appeared first on Outside Online .",
+      "date": "Tue, 25 Aug 2026 22Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/bike-gear.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-25T22:34:00Z"
+    },
+    {
+      "title": "Hydroclimate whiplash damages California's tallest redwoods after years of drought",
+      "link": "https://phys.org/news/2026-08-hydroclimate-whiplash-california-tallest-redwoods.html",
+      "summary": "Tall trees are generally associated with high-biomass forests. This is particularly true for forests dominated by Sequoia sempervirens (hereafter redwood), the world's tallest tree",
+      "date": "2026-08-25T22:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/consequences-of-hydroc-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-25T22:34:06Z"
+    },
+    {
+      "title": "Habitat changes found to be no deterrent for some Fijian native bees",
+      "link": "https://phys.org/news/2026-08-habitat-deterrent-fijian-native-bees.html",
+      "summary": "While extreme weather and habitat changes can spell doom for many native animals, including insects, a different picture has emerged from a new study led by Flinders University. Lo",
+      "date": "2026-08-25T21:40:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/good-news-honey--habit.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-25T22:34:06Z"
+    },
     {
       "title": "When Sharing a Rare Bird Sighting Does More Harm Than Good",
       "link": "https://www.10000birds.com/when-sharing-a-rare-bird-sighting-does-more-harm-than-good.htm?utm_source=rss&utm_medium=rss&utm_campaign=when-sharing-a-rare-bird-sighting-does-more-harm-than-good",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-17T23:29:06Z"
-    },
-    {
-      "title": "Researcher is trying to save biodiverse landscapes, one unkempt garden at a time",
-      "link": "https://phys.org/news/2026-08-biodiverse-landscapes-unkempt-garden.html",
-      "summary": "You've probably seen it before: A native garden starts out lush and intentional, then slowly unravels. A meadow is overtaken by weeds. Native grasses are cut down to sad little stu",
-      "date": "2026-08-17T22:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researcher-is-trying-t.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-17T23:29:06Z"
-    },
-    {
-      "title": "Researchers identify ways to reduce the lag between biodiversity data and action",
-      "link": "https://phys.org/news/2026-08-ways-lag-biodiversity-action.html",
-      "summary": "Biodiversity is enormously diverse, unevenly observed and constantly in motion across space and time. This makes it far harder to monitor than many other parts of the environment. ",
-      "date": "2026-08-17T22:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/biodiversity-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-17T22:30:54Z"
-    },
-    {
-      "title": "Pesticides make Argentine ants go crazy, sending them roaming or clustering before workers die",
-      "link": "https://phys.org/news/2026-08-pesticides-argentine-ants-crazy-roaming.html",
-      "summary": "Don't assume an uptick in ant activity after setting out pesticide traps means the treatment failed. New UC Riverside research shows their behavior changes as chemicals make their ",
-      "date": "2026-08-17T21:50:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pesticides-make-argent.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-17T22:30:54Z"
     }
   ]
 }
