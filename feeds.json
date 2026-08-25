@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-25T07:52:43Z",
-  "updated_utc": "2026-08-25T07:52:43Z",
+  "updated": "2026-08-25T08:51:13Z",
+  "updated_utc": "2026-08-25T08:51:13Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘It’s the unseen pollution’: how getting farmers, fishers and beavers together could save a Cornish river",
+      "link": "https://www.theguardian.com/environment/2026/aug/25/pollution-runoff-farmers-fishers-cornwall-river-fal-england-marine-habitats-algae-beavers",
+      "summary": "A local initiative is testing simple ways to stop algal blooms in the River Fal threatening some of England’s most biodiverse marine habitats On a rocky beach in Cornwall, a group ",
+      "date": "2026-08-25T08:17:21Z",
+      "image": "https://i.guim.co.uk/img/media/63ce161a6fb991e4cd2a08ef8689b3f65ca891fd/118_0_2468_1976/master/2468.jpg?width=140&quality=85&auto=format&fit=max&s=ce4d946b344e8c9a641380bb204ab65b",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-25T08:50:58Z"
+    },
     {
       "title": "Going with the grain: how restoring biodiversity led one farmer back to heritage wheat",
       "link": "https://www.theguardian.com/environment/2026/aug/25/farmer-cut-out-middleman-restore-biodiversity-henry-astor-heritage-wheat-aoe",
@@ -5491,17 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-08-17T11:31:42Z"
-    },
-    {
-      "title": "Weightlifting makes older women leaner, stronger and more mobile",
-      "link": "https://www.newscientist.com/article/2584910-weightlifting-makes-older-women-leaner-stronger-and-more-mobile/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Lifting at least 50 kilograms twice a week improved older women's muscle mass, mobility and balance",
-      "date": "2026-08-17T11:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308638138.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-17T11:31:56Z"
     }
   ]
 }
