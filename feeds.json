@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-25T03:05:39Z",
-  "updated_utc": "2026-08-25T03:05:39Z",
+  "updated": "2026-08-25T04:46:35Z",
+  "updated_utc": "2026-08-25T04:46:35Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Sydney shark attack survivor describes moment she came to face-to-face with ‘monster’",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/25/coogee-beach-shark-victim-leah-stewart-describes-attack",
+      "summary": "In her first media interview since the June incident, Leah Stewart, 34, says her thoughts while being bitten were of her one-year-old daughter An Australian woman who lost an arm a",
+      "date": "2026-08-25T04:13:05Z",
+      "image": "https://i.guim.co.uk/img/media/25433135061085fd870b5ac4f2932eefc92102c9/0_0_508_406/master/508.jpg?width=140&quality=85&auto=format&fit=max&s=3d8175f9da299bef25159c808792c7bb",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-25T04:46:20Z"
+    },
     {
       "title": "The Best Smart Bird Feeders with Cameras, Tested by Our Editors for Video Quality and AI Recognition",
       "link": "https://www.birdsandblooms.com/stuff-we-love/best-smart-bird-feeders/",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-08-17T10:38:04Z"
-    },
-    {
-      "title": "Seagulls Were Terrorizing Ocean City’s Beaches. The Town Fought Back With Birds of Prey.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/jersey-shore-beach-falcons/",
-      "summary": "Until recently, you couldn't eat a slice of pizza along the Jersey Shore without fighting off a cloud of aggressive seagulls. Enter a collection of trained predatory birds that sca",
-      "date": "2026-08-17T09:49:36Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/Falcon1.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-17T10:38:09Z"
     }
   ]
 }
