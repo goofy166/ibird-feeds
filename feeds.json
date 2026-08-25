@@ -1,8 +1,96 @@
 {
-  "updated": "2026-08-25T11:34:29Z",
-  "updated_utc": "2026-08-25T11:34:29Z",
+  "updated": "2026-08-25T12:59:55Z",
+  "updated_utc": "2026-08-25T12:59:55Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Ecuador – Profile for Birders",
+      "link": "https://www.10000birds.com/ecuador-profile-for-birders.htm?utm_source=rss&utm_medium=rss&utm_campaign=ecuador-profile-for-birders",
+      "summary": "Highlights Despite its relatively small size, Ecuador is one of the world’s greatest birding destinations, with more than 1,600 recorded bird species. Its remarkable diversity of e",
+      "date": "Tue, 25 Aug 2026 12Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/08/222.png",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-08-25T12:59:35Z"
+    },
+    {
+      "title": "How earthly microbes on the moon might survive in the shade",
+      "link": "https://earthsky.org/space/microbes-on-the-moon-habitability-artemis-astronauts/",
+      "summary": "Microbes on the moon that hitch a ride on human astronauts could survive by using little nooks and crannies for protection from the harsh environment. The post How earthly microbes",
+      "date": "Tue, 25 Aug 2026 12Z",
+      "image": "https://earthsky.org/upl/2024/10/moon-South-Pole-craters-LRO-September-9-2023.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-25T12:59:41Z"
+    },
+    {
+      "title": "Nancy Grace Roman Space Telescope launches Sunday!",
+      "link": "https://earthsky.org/space/nancy-grace-roman-space-telescope/",
+      "summary": "The launch of the Nancy Grace Roman Space Telescope is scheduled for launch Sunday morning, August 30, from the Kennedy Space Center. More here. The post Nancy Grace Roman Space Te",
+      "date": "2026-08-23T09:30:19Z",
+      "image": "https://earthsky.org/upl/2025/12/Nancy-Grace-Roman-arrives-KSC-Jun-21-2026-NASA-Amber-Jean-Notvest-e1782223729259.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-25T12:59:41Z"
+    },
+    {
+      "title": "What’s It Actually Like to Ski at the Yellowstone Club? I Asked the Dirtbags Who Got In Before Taylor and Travis.",
+      "link": "https://www.outsideonline.com/culture/yellowstone-club-skiing-taylor-swift-travis-kelce/",
+      "summary": "Forget the celebrity honeymoon. Non-billionaire skiers who somehow scored an invitation to America's most exclusive ski community spill the tea. The post What’s It Actually Like to",
+      "date": "Tue, 25 Aug 2026 12Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/YELLOWSTONE-CLUB-DONT-TAG-US-BRO-1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-25T12:59:46Z"
+    },
+    {
+      "title": "The Fall 2026 Issue of Outside Shows How Style Can Pull You into Another World",
+      "link": "https://www.outsideonline.com/culture/essays-culture/fall-2026-editors-letter/",
+      "summary": "There’s no shame in coming to the outdoors sideways—through a store window, a magazine, or a shirt that made you feel badass. The post The Fall 2026 Issue of Outside Shows How Styl",
+      "date": "Tue, 25 Aug 2026 12Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/edltrfall26.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-25T12:59:46Z"
+    },
+    {
+      "title": "In Some Trattorias in Italy, Diners Can Enjoy a Meal and Take the Plate It Was Served on Home as a Souvenir",
+      "link": "https://www.smithsonianmag.com/travel/in-some-trattorias-in-italy-diners-can-enjoy-a-meal-and-take-the-plate-it-was-served-on-home-as-a-souvenir-180989386/",
+      "summary": "The Piatti del Buon Ricordo, or “Plates of Good Memories,” tradition dates back to 1964, when a clever marketer came up with it to encourage Italians to travel across the country a",
+      "date": "Tue, 25 Aug 2026 12Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/nL938bYrt-v5epF_2bt2I4p808Q=/420x240/filters:focal(1418x1067:1419x1068)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2e/99/2e9914da-bea8-4ddf-aba5-d65d54917699/ceramiche_solimene_4.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-25T12:59:47Z"
+    },
+    {
+      "title": "Less sugar early in life might decrease dementia risk",
+      "link": "https://www.sciencenews.org/article/more-sugar-early-life-dementia-risk",
+      "summary": "Children exposed to World War II sugar rationing had lower dementia and Alzheimer’s risk decades later, data suggest.",
+      "date": "Tue, 25 Aug 2026 12Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/081426_AZ_dementia_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-08-25T12:59:48Z"
+    },
+    {
+      "title": "Large mammals alter soil chemistry and increase fertility in the Atlantic Forest",
+      "link": "https://phys.org/news/2026-08-large-mammals-soil-chemistry-fertility.html",
+      "summary": "A study published in the journal Ecological Monographs indicates that large mammals, such as tapirs, peccaries, agoutis and deer, alter the chemical composition of litter and soil ",
+      "date": "2026-08-25T12:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/large-mammals-alter-so.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-25T12:59:51Z"
+    },
     {
       "title": "Bird Guides of the World: Adarsh Nagda, Kenya",
       "link": "https://www.10000birds.com/bird-guides-of-the-world-adarsh-nagda-kenya.htm?utm_source=rss&utm_medium=rss&utm_campaign=bird-guides-of-the-world-adarsh-nagda-kenya",
@@ -5414,94 +5502,6 @@
       "category": "birds",
       "color": 0,
       "fetched_at": "2026-08-17T14:34:44Z"
-    },
-    {
-      "title": "Woodpeckers in Minnesota: Top 8 Species with Pictures",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/woodpeckers-in-minnesota-top-8-species-with-pictures/",
-      "summary": "Did you know that woodpeckers can peck up to 20 times in one second? The speed of how they move their heads sometimes exceeds 15 … Read More \"Woodpeckers in Minnesota: Top 8 Specie",
-      "date": "2026-05-10T23:20:58Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2024/08/red-breasted-sapsucker-alexander-viduetsky-410x465-1.jpeg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-08-17T14:34:44Z"
-    },
-    {
-      "title": "I tried everything to rid my yard of mosquitoes. This German-engineered trap finally worked",
-      "link": "https://www.theguardian.com/thefilter-us/2026/aug/17/biogents-mosquitire-mosquito-trap-review",
-      "summary": "After trying nearly everything to prevent mosquito bites, I tested Biogents’ traps, used by the CDC and WHO, to find if backyard results are worth $200 This $380 kayak goes from ba",
-      "date": "2026-08-17T14:15:56Z",
-      "image": "https://i.guim.co.uk/img/media/46e50cdcf5425bb56e5da72f6d13f1282949fa89/565_138_4828_3862/master/4828.jpg?width=140&quality=85&auto=format&fit=max&s=5edbd17bc763948b78de2b9ad36b66de",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-17T14:34:57Z"
-    },
-    {
-      "title": "The Farmers’ Almanac Says This Winter Could Be a Wild Ride for Skiers",
-      "link": "https://www.outsideonline.com/outdoor-adventure/snow-sports/farmers-almanac-forecast-winter-2026-27/",
-      "summary": "The long-range forecast sees an active southern storm track, frequent cold snaps, and plenty of precipitation—but it's all about timing and temps. The post The Farmers’ Almanac Say",
-      "date": "2026-08-17T14:14:48Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/JayPeak-3004-Jan7_Deep_Powder_28-scaled-1.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-17T14:35:03Z"
-    },
-    {
-      "title": "Listen Up, Parents: Running With a Stroller Might Make You Less Prone to Overuse Injuries",
-      "link": "https://www.smithsonianmag.com/smart-news/listen-up-parents-running-with-a-stroller-might-make-you-less-prone-to-overuse-injuries-180989345/",
-      "summary": "Runners often experience conditions like shin splints, runner’s knee and plantar fasciitis, which causes pain in the bottom of the heel. But pushing a stroller’s handlebar seems to",
-      "date": "2026-08-17T14:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/FE_LyAk0xVlXc36psL_WaS3bKJE=/420x240/filters:focal(1300x867:1301x868)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1e/53/1e53d0f6-e74b-48a9-934b-ce37383ffb57/pexels-dmitrii-eremin-67499966-15742738.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-17T14:35:04Z"
-    },
-    {
-      "title": "The COVID-19 vaccine may offer brain cancer patients a surprise benefit",
-      "link": "https://www.sciencenews.org/article/covid-19-vaccine-mrna-cancer-survival",
-      "summary": "A recent shot of the COVID-19 vaccine doubled survival time in glioblastoma patients who had undergone tumor biopsy or surgery.",
-      "date": "2026-08-17T14:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/081026_MR_vaccine_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-08-17T14:35:06Z"
-    },
-    {
-      "title": "Woodpeckers in Virginia: The Top 8 Species with Pictures",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/woodpeckers-in-virginia-the-top-8-species-with-pictures/",
-      "summary": "Virginia is a beautiful state that has a lot of appealing, culturally diverse sites to offer its people. The one thing that will stand out … Read More \"Woodpeckers in Virginia: The",
-      "date": "2026-05-10T23:17:26Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2024/08/Red-headedWoodpecker-Rushing.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-08-17T13:45:11Z"
-    },
-    {
-      "title": "Do Birds Eat Wasps, Hornets and Bees?",
-      "link": "https://www.birdsandblooms.com/birding/birding-basics/do-birds-eat-wasps/",
-      "summary": "Many birds eat a variety of foods, but are wasps on the menu? Our experts explain whether birds eat wasps, and which birds may snack on them. The post Do Birds Eat Wasps, Hornets a",
-      "date": "2026-07-22T16:22:25Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/07/GettyImages-1445334528-e1784737274714.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-08-17T13:45:18Z"
-    },
-    {
-      "title": "Why are hummingbirds immune to Mountain View trumpet plants?",
-      "link": "https://www.mercurynews.com/2026/08/17/why-are-hummingbirds-immune-to-mountain-view-trumpet-plants/",
-      "summary": "The birds are safe because they don't take in enough poison to be harmed",
-      "date": "2026-08-17T13:30:53Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/SJM-L-JOANCOL-0817-01.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-08-17T13:45:26Z"
     }
   ]
 }
