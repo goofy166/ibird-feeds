@@ -1,8 +1,96 @@
 {
-  "updated": "2026-08-25T14:56:18Z",
-  "updated_utc": "2026-08-25T14:56:18Z",
+  "updated": "2026-08-25T15:51:36Z",
+  "updated_utc": "2026-08-25T15:51:36Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Unusual dragonfly swarms sweep across Northern California after warm spring rains",
+      "link": "https://www.mercurynews.com/2026/08/25/unusual-dragonfly-swarms-sweep-across-california-after-warm-spring-rains/",
+      "summary": "It is common to see dragonflies during the summer months, when they emerge from freshwater as flying insects. But this year’s large numbers are probably due to the warm monsoon sto",
+      "date": "Tue, 25 Aug 2026 15Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/California_Dragonflies__3_85-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-08-25T15:51:25Z"
+    },
+    {
+      "title": "Inside Big Sky’s First Food and Wine Festival Coming to Montana This Fall",
+      "link": "https://www.outsideonline.com/adventure-travel/news-analysis/big-sky-food-and-wine-festival-montana/",
+      "summary": "Montana's most exclusive mountain town is debuting a new food and wine festival next month, bringing a serious culinary lineup to the mountains in time for peak leaf-peeping. The p",
+      "date": "Tue, 25 Aug 2026 15Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/GettyImages-1905100085.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-25T15:51:26Z"
+    },
+    {
+      "title": "These Tiny Shrews Grow Bigger Snouts and Shrink Their Brains to Survive Harsh Winters, Study Suggests",
+      "link": "https://www.smithsonianmag.com/smart-news/these-tiny-shrews-grow-bigger-snouts-and-shrink-their-brains-to-survive-harsh-winters-study-suggests-180989369/",
+      "summary": "Scientists have long known that some small mammals reduce their brain size during cold months and regrow them in the spring. Long-clawed shrews from Hokkaido, Japan, seem to follow",
+      "date": "Tue, 25 Aug 2026 15Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/MveO6vXidGt1cRxfA52Xsc4SzVs=/420x240/filters:focal(250x188:251x189)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/58/c2/58c22b1c-d9b4-4a72-abc9-ed55e30d5256/long-clawed-shrew.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-25T15:51:28Z"
+    },
+    {
+      "title": "The engineer racing to run the world’s most dangerous algorithm",
+      "link": "https://www.newscientist.com/article/2581592-the-engineer-racing-to-run-the-worlds-most-dangerous-algorithm/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Craig Gidney is largely unknown outside of quantum computing, but his pioneering work on quantum circuits could have huge consequences for us all, ushering in both useful quantum c",
+      "date": "Tue, 25 Aug 2026 15Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306263420.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-25T15:51:30Z"
+    },
+    {
+      "title": "Listening for extinction: Study finds areas of critical concern for northern spotted owls",
+      "link": "https://phys.org/news/2026-08-extinction-areas-critical-northern-owls.html",
+      "summary": "Northern spotted owl populations are approaching or have already crossed functional extinction across large areas of the Pacific Northwest, a new study, published in Ecological App",
+      "date": "2026-08-25T15:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/listening-for-extincti.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-25T15:51:32Z"
+    },
+    {
+      "title": "Egypt's deserts were once home to a diverse shark community",
+      "link": "https://phys.org/news/2026-08-egypt-home-diverse-shark-community.html",
+      "summary": "During the Late Cretaceous period, parts of Egypt were covered in water. A new study, published in the journal Cretaceous Research, describes new evidence that this tropical sea wa",
+      "date": "2026-08-25T15:30:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/egypts-deserts-were-on.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-25T15:51:32Z"
+    },
+    {
+      "title": "Climate change may halve omega‑3 fatty acids in fish and the organisms they eat",
+      "link": "https://phys.org/news/2026-08-climate-halve-omega3-fatty-acids.html",
+      "summary": "You've probably heard that eating fish and other seafood is good for your health. One of the main reasons is that seafood is an excellent source of two important omega-3 fats calle",
+      "date": "2026-08-25T15:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-change-may-hal.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-25T15:51:32Z"
+    },
+    {
+      "title": "Nanoscale hairs may help gecko skin trap moisture and slow evaporation",
+      "link": "https://phys.org/news/2026-08-nanoscale-hairs-gecko-skin-moisture.html",
+      "summary": "In a dry shrubland, a gecko sprints toward shelter. Its greatest danger is not a predator, although hawks circle overhead and sand cats wait in ambush. Rather, its most pressing co",
+      "date": "2026-08-25T15:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gecko-skins-water-reta.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-25T15:51:32Z"
+    },
     {
       "title": "Do Penguins Have Knees?",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/do-penguins-have-knees/",
@@ -5414,94 +5502,6 @@
       "category": "birds",
       "color": 0,
       "fetched_at": "2026-08-17T16:34:47Z"
-    },
-    {
-      "title": "How to Attract Goldfinches in Winter: The Complete Guide",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/how-to-attract-goldfinches-in-winter-the-complete-guide/",
-      "summary": "American Goldfinches are a joy to witness with their vibrant yellow coloring and black and white wing markings. Not to mention that the cheerful chirping … Read More \"How to Attrac",
-      "date": "2026-05-10T23:29:29Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/07/How-Goldfinches-Change-Colors-by-Season.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-08-17T16:34:47Z"
-    },
-    {
-      "title": "Owls in Louisiana: 9 Species That You Can See with Pictures",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/owls-in-louisiana-9-species-that-you-can-see-with-pictures-2/",
-      "summary": "Louisiana has a rich history as it’s the home to Jazz music and the delicious Creole and Cajun cuisines. But nature lovers are in for a treat … Read More \"Owls in Louisiana: 9 Spec",
-      "date": "2026-05-10T23:26:56Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2024/08/Burrowing-Owl2_DSC2794-1985x2048-1.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-08-17T16:34:47Z"
-    },
-    {
-      "title": "Birds and Blooms  Terms of Submission",
-      "link": "https://www.birdsandblooms.com/birds-and-blooms-terms-of-submission/",
-      "summary": "These terms (“Terms”) govern the submittor’s (“Licensor”) irrevocable grant to Jukin Media, Inc., its successors, affiliates, licensees and assigns (collectively, The post Birds an",
-      "date": "2026-08-17T16:21:44Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2020/05/cropped-512px_cube_hbird.jpg?resize=32,32",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-08-17T16:34:50Z"
-    },
-    {
-      "title": "7 Amazing Raccoon Facts That Might Surprise You",
-      "link": "https://www.birdsandblooms.com/gardening/backyard-wildlife/raccoon-facts/",
-      "summary": "How fast do raccoons run? Why do they have a black 'mask?' Learn all about these adorable critters with our collection of raccoon facts. The post 7 Amazing Raccoon Facts That Might",
-      "date": "2026-07-22T20:41:29Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2024/01/GettyImages-1456624849-e1784752501405.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-08-17T16:34:50Z"
-    },
-    {
-      "title": "What It’s Like to Get Bitten on the Butt by a Black Bear",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/bear-bit-butt/",
-      "summary": "Maggie Schwartz of Jackson, Wyoming recounts her survival story after a terrifying encounter, and shares valuable advice for anyone who goes hiking in bear country. The post What I",
-      "date": "2026-08-17T16:11:52Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/Bear1.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-17T16:35:00Z"
-    },
-    {
-      "title": "Your Arms Are Slowing You Down On the Trails. Here’s a 5-Minute Fix, From a Physical Therapist.",
-      "link": "https://www.outsideonline.com/health/training-performance/quick-arm-strength-routine/",
-      "summary": "Arm strength doesn't require hours of pumping iron in the gym. This five-minute superset is all you need for stronger arms. The post Your Arms Are Slowing You Down On the Trails. H",
-      "date": "2026-08-17T15:43:35Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/push-ups-run-syndication.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-17T16:35:00Z"
-    },
-    {
-      "title": "Snail slime does many jobs thanks to calcium",
-      "link": "https://www.sciencenews.org/article/snail-slime-mucus-many-jobs-calcium",
-      "summary": "Snails have five distinct types of mucus, each with its own job. The mollusks tweak calcium secretions to get the chemical mixture just right.",
-      "date": "2026-08-17T16:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/081326_JB_snails_main_78b3b9.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-08-17T16:35:02Z"
-    },
-    {
-      "title": "Britain’s only desalination plant remains idle during drought",
-      "link": "https://www.newscientist.com/article/2585005-britains-only-desalination-plant-remains-idle-during-drought/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Water flow in the river Thames has dropped low enough to warrant the use of England’s only large-scale desalination plant, but it hasn’t been switched on at all this year",
-      "date": "2026-08-17T15:48:20Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308664894.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-17T16:35:04Z"
     }
   ]
 }
