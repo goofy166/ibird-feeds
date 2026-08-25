@@ -1,8 +1,63 @@
 {
-  "updated": "2026-08-25T16:45:27Z",
-  "updated_utc": "2026-08-25T16:45:27Z",
+  "updated": "2026-08-25T17:36:53Z",
+  "updated_utc": "2026-08-25T17:36:53Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Brown Birds with an Orange Chest",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/brown-birds-with-an-orange-chest/",
+      "summary": "Today, my goal is to find 10 species of birds that are brown with an orange chest. I can only think of a couple offhand … Read More \"Brown Birds with an Orange Chest\"",
+      "date": "2026-05-10T23:37:10Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/05/American-Robin-vs-European-Robin.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-08-25T17:36:30Z"
+    },
+    {
+      "title": "Woodpeckers in Maryland: Top 8 Species with Pictures",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/woodpeckers-in-maryland-top-8-species-with-pictures/",
+      "summary": "There are many species of woodpeckers in the United States. They’re known for their colorful plumage and playful attitude. As the fifth greenest state, Maryland has the … Read More",
+      "date": "2026-05-10T23:34:23Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/05/Hairy-Woodpecker-by-Cephas.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-08-25T17:36:30Z"
+    },
+    {
+      "title": "Terms of Service",
+      "link": "https://www.birdsandblooms.com/terms-of-service/",
+      "summary": "Last Updated August 5, 2026 The Jukin Media, Inc. (“Jukin Media”) community is based on the idea that video creators The post Terms of Service appeared first on Birds and Blooms .",
+      "date": "2026-08-17T16:48:33Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2020/05/cropped-512px_cube_hbird.jpg?resize=32,32",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-08-25T17:36:33Z"
+    },
+    {
+      "title": "Hammerhead shark spotted a mile off California coast as water stays warm, luring unusual visitors",
+      "link": "https://www.mercurynews.com/2026/08/25/hammerhead-shark-spotted-a-mile-from-laguna-beach-as-water-stays-warm-luring-unusual-visitors/",
+      "summary": "A marine heat wave and El Niño conditions are keeping ocean water off parts of the California coast in the mid-70s, which is luring exotic species to the area.",
+      "date": "Tue, 25 Aug 2026 17Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/OCR-L-HAMMERHEAD-0825-02.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-08-25T17:36:41Z"
+    },
+    {
+      "title": "Moving turtle nests to save the eggs can have hidden consequences",
+      "link": "https://phys.org/news/2026-08-turtle-eggs-hidden-consequences.html",
+      "summary": "Moving threatened sea turtle nests to cooler, safer parts of the beach can save entire clutches from rising tides and extreme heat, but new research suggests it may have hidden con",
+      "date": "2026-08-25T17:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/moving-turtle-nests-to.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-25T17:36:49Z"
+    },
     {
       "title": "Why are Prothonotary Warblers Choosing Kansas as Their new Home",
       "link": "https://www.birdwatchingdaily.com/news/birdwatching/why-are-prothonotary-warblers-choosing-kansas-as-their-new-home/",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-17T19:33:09Z"
-    },
-    {
-      "title": "'Known' TB gene reveals completed unexpected biological role under stress",
-      "link": "https://phys.org/news/2026-08-tb-gene-reveals-unexpected-biological.html",
-      "summary": "The complete genome of the tuberculosis bacterium was sequenced and published in 1998. Since then, scientists have deciphered about two-thirds of TB's genes. Or have they?",
-      "date": "2026-08-17T19:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/surprise-this-known-tb.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-17T19:33:09Z"
-    },
-    {
-      "title": "LISTEN: Low Water, No Problem. We Packrafted One of the Most Remote Rivers in the West",
-      "link": "https://www.outsideonline.com/outdoor-adventure/water-activities/packrafting-podcast/",
-      "summary": "The latest Long Read on the Outside Podcast takes listeners down the Lower Owyhee, a scenic river in eastern Oregon that was too shallow for traditional whitewater rafts. The post ",
-      "date": "2026-08-17T18:11:38Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/Owen1.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-17T18:49:04Z"
-    },
-    {
-      "title": "Study finds some microbes drastically change behavior outside the lab",
-      "link": "https://phys.org/news/2026-08-microbes-drastically-behavior-lab.html",
-      "summary": "A new study underscores the importance of studying microbes in their natural setting rather than relying solely on laboratory research. Researchers found that a set of corn root ba",
-      "date": "2026-08-17T18:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-finds-some-micro-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-17T18:49:10Z"
-    },
-    {
-      "title": "AI exposes devastating impact of bomb fishing on coral reefs",
-      "link": "https://phys.org/news/2026-08-ai-exposes-devastating-impact-fishing.html",
-      "summary": "Illegal bomb fishing is causing extensive damage to some of the world's most biodiverse coral reefs, according to a new pilot study involving Lancaster Environment Centre coral ree",
-      "date": "2026-08-17T17:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-use-ai-to-5.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-17T18:49:10Z"
-    },
-    {
-      "title": "Hawks in Georgia",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/hawks-in-georgia/",
-      "summary": "Is a goshawk the same as a hawk? What is a Buteo? How many hawks are there in Georgia? Well, in this article we try … Read More \"Hawks in Georgia\"",
-      "date": "2026-05-10T23:40:55Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/07/red-tailed-hawk-by-Susan-Kirby.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-08-17T17:37:44Z"
     }
   ]
 }
