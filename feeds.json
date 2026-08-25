@@ -1,8 +1,30 @@
 {
-  "updated": "2026-08-25T08:51:13Z",
-  "updated_utc": "2026-08-25T08:51:13Z",
+  "updated": "2026-08-25T09:42:17Z",
+  "updated_utc": "2026-08-25T09:42:17Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Deep partial lunar eclipse on August 27-28, 2026",
+      "link": "https://earthsky.org/astronomy-essentials/partial-lunar-eclipse-of-the-august-27-28-2026/",
+      "summary": "A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post Deep partial lunar eclipse on ",
+      "date": "Tue, 25 Aug 2026 09Z",
+      "image": "https://earthsky.org/upl/2026/08/Lunar-eclipse-August-28-visibility.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-25T09:42:00Z"
+    },
+    {
+      "title": "Will muscle-boosting meds be the next big thing after GLP-1 drugs?",
+      "link": "https://www.newscientist.com/article/2585855-will-muscle-boosting-meds-be-the-next-big-thing-after-glp-1-drugs/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "A number of drugs designed to prevent muscle loss and boost muscle growth are being tested in clinical trials. Columnist Michael Le Page looks at whether building and maintaining m",
+      "date": "Tue, 25 Aug 2026 09Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308827907.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-25T09:42:09Z"
+    },
     {
       "title": "‘It’s the unseen pollution’: how getting farmers, fishers and beavers together could save a Cornish river",
       "link": "https://www.theguardian.com/environment/2026/aug/25/pollution-runoff-farmers-fishers-cornwall-river-fal-england-marine-habitats-algae-beavers",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-08-17T12:56:57Z"
-    },
-    {
-      "title": "Is bird flu infecting humans? How would we know?",
-      "link": "https://phys.org/news/2026-08-bird-flu-infecting-humans.html",
-      "summary": "Bird flu is circulating among birds on the Australian mainland. So, with the confirmed number of detections growing, you may be wondering about the risk of birds infecting humans.",
-      "date": "2026-08-17T11:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bird-flu.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-17T12:57:01Z"
-    },
-    {
-      "title": "Species Spotlight: Eastern Bluebird",
-      "link": "https://www.10000birds.com/species-spotlight-eastern-bluebird.htm?utm_source=rss&utm_medium=rss&utm_campaign=species-spotlight-eastern-bluebird",
-      "summary": "Wikipedia has its own page on the Bluebird of Happiness, starting with the sentence “The symbol of a bluebird as the harbinger of happiness is found in many cultures and may date b",
-      "date": "2026-08-17T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/Eastern-Bluebird_DSC4459_Bath-Maine-mid-Jun-2026.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-08-17T11:31:42Z"
     }
   ]
 }
