@@ -1,8 +1,52 @@
 {
-  "updated": "2026-08-25T19:37:24Z",
-  "updated_utc": "2026-08-25T19:37:24Z",
+  "updated": "2026-08-25T20:36:28Z",
+  "updated_utc": "2026-08-25T20:36:28Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Cast Your Vote for the Chunkiest Alpine Rodent During Colorado's First-Ever Fat Marmot Week",
+      "link": "https://www.smithsonianmag.com/smart-news/cast-your-vote-for-the-chunkiest-alpine-rodent-during-colorados-first-ever-fat-marmot-week-180989395/",
+      "summary": "The inaugural competition puts eight yellow-bellied marmots head-to-head while shining a light on the science behind their seasonal weight gain and survival at high elevations",
+      "date": "Tue, 25 Aug 2026 19Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/cv22C4cCEdZdmSO5o7vfLg_A5tg=/420x240/filters:focal(960x640:961x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8b/dd/8bdd6baa-d5eb-4361-b11d-74f651c75216/marmot_dandelion_3b531fc2-0a2c-43dd-8549-971ae73358af-prv.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-25T20:36:19Z"
+    },
+    {
+      "title": "Even biodiversity-friendly policies may not halt declines in Europe's common birds and butterflies by 2050",
+      "link": "https://phys.org/news/2026-08-biodiversity-friendly-policies-halt-declines.html",
+      "summary": "As part of its efforts to map out Europe's science-policy interface for biodiversity, a paper on the correlation between governance objectives for safeguarding the biosphere and on",
+      "date": "2026-08-25T20:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/predicted-decline-in-c.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-08-25T20:36:24Z"
+    },
+    {
+      "title": "Machine learning method uncovers hidden patterns in DNA methylation",
+      "link": "https://phys.org/news/2026-08-machine-method-uncovers-hidden-patterns.html",
+      "summary": "In a study recently published in Nature Communications, researchers from Berlin, Potsdam, and Jena present a new method for analyzing the epigenome. The machine-learning method ide",
+      "date": "2026-08-25T20:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/machine-learning-metho.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-25T20:36:24Z"
+    },
+    {
+      "title": "Electron beams cut poultry pathogens while preserving turkey quality",
+      "link": "https://phys.org/news/2026-08-electron-poultry-pathogens-turkey-quality.html",
+      "summary": "Researchers are gauging the effectiveness of electron beams in the fight against foodborne pathogens in poultry. \"Impact of Electron Beam (eBeam) Treatment on Meat Quality and Sens",
+      "date": "2026-08-25T20:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cooked-chicken.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-25T20:36:24Z"
+    },
     {
       "title": "Grassland birds are disappearing even from areas designed to protect them",
       "link": "https://phys.org/news/2026-08-grassland-birds-areas.html",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-17T21:31:49Z"
-    },
-    {
-      "title": "Engineered E. coli convert kimchi radish waste into biodegradable bioplastic",
-      "link": "https://phys.org/news/2026-08-coli-kimchi-radish-biodegradable-bioplastic.html",
-      "summary": "Every year, thousands of tons of radish by-products generated during kimchi production are discarded despite containing valuable carbon and nutrient resources. Researchers at the W",
-      "date": "2026-08-17T21:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genome-scale-model-gui.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-17T21:31:49Z"
-    },
-    {
-      "title": "How plants selectively silence jumping genes while protecting essential ones",
-      "link": "https://phys.org/news/2026-08-silence-genes-essential.html",
-      "summary": "Histone variants help establish DNA methylation at transposons (jumping genes) while preventing this epigenetic modification from spreading to essential genes in plants, a study fr",
-      "date": "2026-08-17T20:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-plants-selectively.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-17T21:31:49Z"
-    },
-    {
-      "title": "A Watchdog Says Yosemite Is Using Flock Cameras. The National Park Service Is Pushing Back.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/yosemite-license-plate-reader-cameras-flock/",
-      "summary": "DeFlock claims that Yosemite National Park has installed the controversial surveillance technology. The NPS says the cameras are part of a system to monitor congestion and parking.",
-      "date": "2026-08-17T19:54:59Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/GettyImages-2244371963.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-17T20:33:25Z"
-    },
-    {
-      "title": "As Sicilians Flocked to a Religious Festival, Thieves Broke Into a Nearby Museum and Stole Four Renaissance Paintings",
-      "link": "https://www.smithsonianmag.com/smart-news/as-sicilians-flocked-to-religious-festival-thieves-broke-into-nearby-museum-stole-four-renaissance-paintings-180989352/",
-      "summary": "The missing works include three panels from a 15th-century altarpiece by Antonello da Messina, as well as a two-sided devotional painting by the artist",
-      "date": "2026-08-17T19:36:01Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/rfQ3h2bInGIPDsx7i7hqaVvBFKc=/420x240/filters:focal(250x250:251x251)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9c/b7/9cb78ba5-d000-4b81-a070-c135b637cf15/stolen-paintings.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-17T20:33:27Z"
     }
   ]
 }
