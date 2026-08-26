@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-26T07:54:08Z",
-  "updated_utc": "2026-08-26T07:54:08Z",
+  "updated": "2026-08-26T08:52:25Z",
+  "updated_utc": "2026-08-26T08:52:25Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Too small for fries: Drought shrinks Belgian potatoes",
+      "link": "https://phys.org/news/2026-08-small-fries-drought-belgian-potatoes.html",
+      "summary": "Mathieu Comijn inspected rows of potatoes in a field of cracked earth and browned leaves, pulling from the ground tubers barely the size of pingpong balls.",
+      "date": "2026-08-26T08:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/either-there-are-too-m.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-26T08:52:21Z"
+    },
     {
       "title": "Call to ban marmot hunting in France as campaigners say they are ‘killed for fun’",
       "link": "https://www.theguardian.com/world/2026/aug/26/call-ban-marmot-hunting-france-climate-crisis",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-08-18T09:39:47Z"
-    },
-    {
-      "title": "How tomato 'golden hour' research could help crops survive heat waves and drought",
-      "link": "https://phys.org/news/2026-08-tomato-golden-hour-crops-survive.html",
-      "summary": "What if the secret to drought-resistant crops isn't how much water plants use, but when they use it? A new study identifies a daily window that could help breeders develop tomatoes",
-      "date": "2026-08-18T08:50:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-tomato-golden-hour.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-18T09:39:49Z"
     }
   ]
 }
