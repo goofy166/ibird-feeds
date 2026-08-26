@@ -1,8 +1,63 @@
 {
-  "updated": "2026-08-26T08:52:25Z",
-  "updated_utc": "2026-08-26T08:52:25Z",
+  "updated": "2026-08-26T09:50:30Z",
+  "updated_utc": "2026-08-26T09:50:30Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Best National Park for Every Travel Personality",
+      "link": "https://www.outsideonline.com/adventure-travel/national-parks/national-parks-for-every-type-of-traveler/",
+      "summary": "Whether you’re an introvert who hates crowds, or an adrenaline junky looking for a rush, our national parks columnist has the perfect park for you. The post The Best National Park ",
+      "date": "2026-08-26T09:15:39Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/National-Park-for-Every-Personality.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-26T09:50:20Z"
+    },
+    {
+      "title": "Shingles vaccine may lower risk of stroke and heart failure",
+      "link": "https://www.newscientist.com/article/2586346-shingles-vaccine-may-lower-risk-of-stroke-and-heart-failure/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Being vaccinated against shingles has been linked to a lower risk of cardiovascular disease before, but now a study suggests that the vaccine that is currently being used reduces t",
+      "date": "2026-08-26T09:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309449846.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-26T09:50:24Z"
+    },
+    {
+      "title": "Workout patch delivers some of the benefits of exercise with no exertion",
+      "link": "https://www.newscientist.com/article/2586265-workout-patch-delivers-some-of-the-benefits-of-exercise-with-no-exertion/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Injecting muscle cells beneath the skin of mice led to a patch of self-contracting cells that boosted their muscle mass, bone density and even markers of good brain, immune and liv",
+      "date": "2026-08-26T09:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309451690.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-26T09:50:24Z"
+    },
+    {
+      "title": "Trump's childhood vaccine order will threaten children's safety, even if it doesn't directly change policy",
+      "link": "https://www.livescience.com/health/medicine-drugs/trumps-childhood-vaccine-order-will-threaten-childrens-safety-even-if-it-doesnt-directly-change-policy",
+      "summary": "As president of the American Association of Immunologists, Dr. Avery August believes President Trump's executive order on childhood vaccines could cause real harm, even if it may n",
+      "date": "2026-08-26T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/qnnpKuoyQscK8ZAwue4Jbj-1280-80.gif",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-26T09:50:28Z"
+    },
+    {
+      "title": "The moon is turning red tomorrow night — here's why, and how to watch",
+      "link": "https://www.livescience.com/space/the-moon/the-moon-is-turning-red-tomorrow-night-heres-why-and-how-to-watch",
+      "summary": "The partial lunar eclipse on Aug. 27 will be the deepest lunar eclipse anywhere in the world until Dec. 31, 2028.",
+      "date": "2026-08-26T08:59:06Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/qWhcXE7mnza5TohRKhBBAj-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-26T09:50:28Z"
+    },
     {
       "title": "Too small for fries: Drought shrinks Belgian potatoes",
       "link": "https://phys.org/news/2026-08-small-fries-drought-belgian-potatoes.html",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-08-18T11:31:38Z"
-    },
-    {
-      "title": "'Ecological engineers' an existential threat to wildlife of iconic wetland",
-      "link": "https://phys.org/news/2026-08-ecological-existential-threat-wildlife-iconic.html",
-      "summary": "A study examining how feral water buffalo interact with landscapes has uncovered the pest's disastrous impacts on northern long-necked turtles in the Top End's tropical wetlands.",
-      "date": "2026-08-18T11:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ecological-engineers-a.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-18T11:31:40Z"
-    },
-    {
-      "title": "Rescuers in Phoenix Are Using Mobile Cold Plunges to Save Overheated Hikers",
-      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/mobile-cold-plunge/",
-      "summary": "Cold water immersion is the best way to stave off heat stroke. The Phoenix Fire Department recently used its mobile cold plunge to save a stricken hiker. The post Rescuers in Phoen",
-      "date": "Tue, 18 Aug 2026 09Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/Plunge1.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-18T10:35:46Z"
-    },
-    {
-      "title": "How body size and habitat shape the vocal repertoires of primates",
-      "link": "https://phys.org/news/2026-08-body-size-habitat-vocal-repertoires.html",
-      "summary": "Biologists, zoologists and psychologists have been trying to trace the origins of human language for centuries. One well-known theory, known as the social brain hypothesis, suggest",
-      "date": "2026-08-18T10:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-body-size-and-habi.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-18T10:35:53Z"
-    },
-    {
-      "title": "Giant underwater plume blasts into swirling cloud 'street' in the East China Sea — Earth from space",
-      "link": "https://www.livescience.com/planet-earth/weather/giant-underwater-plume-blasts-into-swirling-cloud-street-in-the-east-china-sea-earth-from-space",
-      "summary": "A recent satellite photo captured a series of clouds sculpted by von Kármán vortices from a volcano on South Korea's Jeju Island. A giant multicolor plume, ejected by China's Yangt",
-      "date": "Tue, 18 Aug 2026 10Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/uSqCZeJWejo69e4HyuBnAT-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-18T10:35:54Z"
-    },
-    {
-      "title": "Planes flying over the Atlantic will be re-routed to avoid contrails",
-      "link": "https://www.newscientist.com/article/2585091-planes-flying-over-the-atlantic-will-be-re-routed-to-avoid-contrails/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Operation Blue Skies is the world’s first trial to deploy contrail avoidance measures across an entire airspace, aiming to lower the climate impact of flights on a large scale",
-      "date": "Tue, 18 Aug 2026 09Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308675226.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-18T09:39:47Z"
     }
   ]
 }
