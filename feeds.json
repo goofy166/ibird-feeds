@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-25T23:30:36Z",
-  "updated_utc": "2026-08-25T23:30:36Z",
+  "updated": "2026-08-26T01:47:02Z",
+  "updated_utc": "2026-08-26T01:47:02Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Strong oyster reefs start with genetic diversity",
+      "link": "https://phys.org/news/2026-08-strong-oyster-reefs-genetic-diversity.html",
+      "summary": "The European flat oyster (Ostrea edulis) was once widespread but has now become so scarce in the North Sea that it no longer forms ecologically functioning reefs. Along with the de",
+      "date": "2026-08-26T00:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oysters-on-a-reef.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-26T01:46:58Z"
+    },
     {
       "title": "See the stunning contenders for the Wildlife Photographer of the Year",
       "link": "https://www.newscientist.com/article/2585388-see-the-stunning-contenders-for-the-wildlife-photographer-of-the-year/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-08-18T07:44:15Z"
-    },
-    {
-      "title": "Country diary: Waiting for a nightjar is elusive and maddening – then thrilling | Mark Cocker",
-      "link": "https://www.theguardian.com/environment/2026/aug/18/country-diary-waiting-for-a-nightjar-is-elusive-and-maddening-then-thrilling",
-      "summary": "Goyt Valley, Derbyshire: My patience into dusk is rewarded with a full display of unlikely calls and aerial prowess The setting sun spread a last Iberian glow over the hills opposi",
-      "date": "2026-08-18T04:30:13Z",
-      "image": "https://i.guim.co.uk/img/media/f619494e6d800b2ac6aafba30dd2a4bb5c67f5c9/316_0_4468_3575/master/4468.jpg?width=140&quality=85&auto=format&fit=max&s=fd87b69375ea50261ab2bc2472b2785d",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-18T04:41:52Z"
     }
   ]
 }
