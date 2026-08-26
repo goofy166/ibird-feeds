@@ -1,8 +1,74 @@
 {
-  "updated": "2026-08-26T11:35:45Z",
-  "updated_utc": "2026-08-26T11:35:45Z",
+  "updated": "2026-08-26T13:05:28Z",
+  "updated_utc": "2026-08-26T13:05:28Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Could there be life in helium atmospheres on exoplanets?",
+      "link": "https://earthsky.org/space/life-in-helium-atmospheres-exoplanets-habitability/",
+      "summary": "Is life in helium atmospheres on exoplanets possible? A new study says that there are no barriers to life on worlds with helium-dominated atmospheres. The post Could there be life ",
+      "date": "2026-08-26T11:54:00Z",
+      "image": "https://earthsky.org/upl/2026/08/helium-exoplanet-artist-concept-NASA-June-10-2015.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-26T13:05:12Z"
+    },
+    {
+      "title": "‘Jellyfish’ on Mars: Image from Curiosity rover goes viral",
+      "link": "https://earthsky.org/space/jellyfish-on-mars-curiosity-rover-anomaies/",
+      "summary": "A previously overlooked photo from the Curiosity rover shows an odd 'jellyfish' on Mars. Is it a real anomaly or an imaging artifact? The post ‘Jellyfish’ on Mars: Image from Curio",
+      "date": "2026-08-26T11:30:16Z",
+      "image": "https://earthsky.org/upl/2026/08/jellyfish-Curiosity-rover-Mars-August-20-2023.png",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-08-26T13:05:12Z"
+    },
+    {
+      "title": "To Dismantle the Concept of Separate but Equal, Thurgood Marshall Methodically Devised a Winning Strategy: Divide and Conquer",
+      "link": "https://www.smithsonianmag.com/history/dismantle-concept-separate-equal-thurgood-marshall-methodically-devised-winning-strategy-divide-conquer-180989278/",
+      "summary": "While other activists aimed to take down Jim Crow in one fell swoop, the future Supreme Court justice compiled a series of wins that ultimately added up to an undeniable resolution",
+      "date": "2026-08-26T12:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/J0tmF2GudH1wE3jSOE7-5QbZ_yY=/420x240/filters:focal(4463x2639:4464x2640)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/eb/b9/ebb9b23f-99ad-4706-a17d-95319c5999a9/thurgood_marshall_final.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-26T13:05:19Z"
+    },
+    {
+      "title": "'Hunger Stones' Resurface in Europe, Bringing Centuries-Old Warnings Back Into View as Rivers Hit Historic Lows",
+      "link": "https://www.smithsonianmag.com/smart-news/hunger-stones-resurface-europe-bringing-centuries-old-warnings-back-into-view-rivers-hit-historic-lows-180989387/",
+      "summary": "As drought exposes stretches of riverbed in central Europe, markers carved by past generations to record low water levels are emerging once again",
+      "date": "2026-08-26T11:45:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/9haqKVK9JYZmazeIHe6KG1aHXYw=/420x240/filters:focal(2736x1537:2737x1538)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4e/07/4e079c86-562a-4a24-892c-038825b326ae/hungerstein_in_decin_21.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-08-26T13:05:19Z"
+    },
+    {
+      "title": "Microbes might get freeze-dried on the moon’s south pole",
+      "link": "https://www.sciencenews.org/article/microbes-freeze-dried-moons-south-pole",
+      "summary": "Artemis IV will put people on the moon’s surface for the first time in 50 years. NASA research reveals the microbes that might hitch a ride.",
+      "date": "2026-08-26T12:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/082426_LR_microbes_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-08-26T13:05:20Z"
+    },
+    {
+      "title": "Hot weather in the UK is now almost as deadly as a cold snap",
+      "link": "https://www.newscientist.com/article/2586455-hot-weather-in-the-uk-is-now-almost-as-deadly-as-a-cold-snap/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Cold weather has always killed more people than hot weather in England and Wales – but that's about to change",
+      "date": "2026-08-26T12:26:20Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309546666.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-26T13:05:21Z"
+    },
     {
       "title": "Ask a Birder: Can Birds be Pessimistic?",
       "link": "https://www.10000birds.com/ask-a-birder-can-birds-be-pessimistic.htm?utm_source=rss&utm_medium=rss&utm_campaign=ask-a-birder-can-birds-be-pessimistic",
@@ -5436,72 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-08-18T14:40:09Z"
-    },
-    {
-      "title": "Female clones created from the blood of male mice",
-      "link": "https://www.newscientist.com/article/2585076-female-clones-created-from-the-blood-of-male-mice/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "A CRISPR-based tool can perform sex reversal on male mouse embryos, reliably turning them into healthy females – a feat that could be valuable for conservation",
-      "date": "Tue, 18 Aug 2026 14Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308726176.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-18T14:40:10Z"
-    },
-    {
-      "title": "'Snooping' on dolphins offers acoustic clues to hotspots for food and friends",
-      "link": "https://phys.org/news/2026-08-snooping-dolphins-acoustic-clues-hotspots.html",
-      "summary": "For dolphins, the ocean is a world of sound. Their whistles carry social information, helping them communicate and stay connected, while echolocation—rapid-fire clicks—functions li",
-      "date": "2026-08-18T14:40:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/snooping-on-dolphins-o.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-18T14:40:12Z"
-    },
-    {
-      "title": "More than 5,000 little penguins will be vaxxed against bird flu. How will this protect them?",
-      "link": "https://phys.org/news/2026-08-penguins-vaxxed-bird-flu.html",
-      "summary": "A major push is underway to catch and vaccinate more than 5,000 little penguins in Victoria to protect them against the virulent H5N1 bird flu.",
-      "date": "2026-08-18T14:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/eudyptula-minor.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-18T14:40:12Z"
-    },
-    {
-      "title": "Tomato roots reveal hidden steps in 400-million-year-old fungal partnership",
-      "link": "https://phys.org/news/2026-08-tomato-roots-reveal-hidden-million.html",
-      "summary": "Scientists at VIB and Ghent University have produced the first high-resolution, cell-by-cell map of how tomato roots respond to colonization by arbuscular mycorrhizal fungi. These ",
-      "date": "2026-08-18T14:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tomato-roots-reveal-hi.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-18T14:40:12Z"
-    },
-    {
-      "title": "Scientists who turned to OnlyFans to fund marmot research receive crypto boost",
-      "link": "https://www.theguardian.com/us-news/2026/aug/18/scientists-onlyfans-marmots-crypto",
-      "summary": "Funding boost worth $100,000 has recently materialized in form of new marmot-themed cryptocurrency Scientists who turned to OnlyFans to help save long-running research into marmots",
-      "date": "2026-08-18T13:00:46Z",
-      "image": "https://i.guim.co.uk/img/media/ae04c6ef2bd5b5741e765f3ee0c3296797f8acc2/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=dc59ba1e74112312861bef8ca42ca9e2",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-18T13:50:16Z"
-    },
-    {
-      "title": "‘We humans are inept at taking care of baby animals’: why well-fed orphan bears die in the wild",
-      "link": "https://www.theguardian.com/environment/2026/aug/18/orphan-bears-die-in-the-wild-grizzlies",
-      "summary": "Scientists surprised to find all but two of 12 grizzlies were dead within a year of ‘feelgood’ release, unable to sustain their high-calorie diet and inclined to approach humans Th",
-      "date": "2026-08-18T13:00:46Z",
-      "image": "https://i.guim.co.uk/img/media/3f39f5bf3583cefa7af8caa71aef98becc81bc37/426_1381_1762_1409/master/1762.jpg?width=140&quality=85&auto=format&fit=max&s=c7c752c241ec2ccee7fdca0bb81fe082",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-18T13:50:16Z"
     }
   ]
 }
