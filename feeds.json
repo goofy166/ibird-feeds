@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-26T03:12:22Z",
-  "updated_utc": "2026-08-26T03:12:22Z",
+  "updated": "2026-08-26T04:48:08Z",
+  "updated_utc": "2026-08-26T04:48:08Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Call to ban marmot hunting in France as campaigners say they are ‘killed for fun’",
+      "link": "https://www.theguardian.com/world/2026/aug/26/call-ban-marmot-hunting-france-climate-crisis",
+      "summary": "Protests and petitions planned amid growing concerns over impact of climate crisis on numbers of Alpine rodent Animal rights campaigners are gearing up for protests and petitions a",
+      "date": "2026-08-26T04:00:35Z",
+      "image": "https://i.guim.co.uk/img/media/43e737003f7e942a3ccf0eb5491403d27706aae9/1256_343_3349_2679/master/3349.jpg?width=140&quality=85&auto=format&fit=max&s=544d5f69312fa42f3642a92807e68531",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-26T04:47:53Z"
+    },
+    {
+      "title": "Mood-boosting benefits of birdsong drowned out by traffic noise, study finds",
+      "link": "https://www.theguardian.com/environment/2026/aug/26/mood-boosting-benefits-of-birdsong-drowned-out-by-traffic-noise-study-finds",
+      "summary": "Even low levels of traffic noise can negate the benefits of listening to natural sounds, researchers say Hearing the trill or whistle of a bird while going about daily life is well",
+      "date": "2026-08-26T04:00:34Z",
+      "image": "https://i.guim.co.uk/img/media/c1772b85f630f0d4c5828c238d902c3627082694/0_1005_2848_2279/master/2848.jpg?width=140&quality=85&auto=format&fit=max&s=4c5b52337f9362c7f11cc10e278a3f34",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-26T04:47:53Z"
+    },
+    {
+      "title": "Fears for ‘gregarious’ local celebrity Sammy the elephant seal in Victorian bird flu hotspot",
+      "link": "https://www.theguardian.com/environment/2026/aug/26/sammy-elephant-seal-victoria-h5n1-bird-flu-hotspot",
+      "summary": "Seals and sea lions often communicate by touch and share spaces with wild birds, placing them at risk of infection from H5N1 virus Follow our Australia news live blog for latest up",
+      "date": "2026-08-26T03:31:54Z",
+      "image": "https://i.guim.co.uk/img/media/05ebf585f519f35661c068c72c735cdcf688c0e4/136_0_1333_1066/master/1333.jpg?width=140&quality=85&auto=format&fit=max&s=1f6fdb6e37ad9363da3b473f159f0def",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-26T04:47:53Z"
+    },
     {
       "title": "From nuisance to new resource: Prickly pear could support fuels, foods and rural growers",
       "link": "https://phys.org/news/2026-08-nuisance-resource-pear-fuels-foods.html",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-18T09:39:49Z"
-    },
-    {
-      "title": "Whales spark joy in New York but face threats from boat traffic",
-      "link": "https://phys.org/news/2026-08-whales-joy-york-threats-boat.html",
-      "summary": "\"WHALE AT ONE O'CLOCK!\" Eager cruise passengers zipping around New York's southern shores rush to the starboard bow: A humpback whale is up for air, a breathtaking sighting set aga",
-      "date": "2026-08-18T08:50:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/whales-are-increasingl.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-18T09:39:49Z"
-    },
-    {
-      "title": "'They don't deserve this beauty and this breathtaking fragility': Former Antarctic tour guides told researchers why they quit the troubling industry",
-      "link": "https://www.livescience.com/planet-earth/climate-change/they-dont-deserve-this-beauty-and-this-breathtaking-fragility-former-antarctic-tour-guides-told-researchers-why-they-quit-the-troubling-industry",
-      "summary": "Polar tourism researchers Zdenka Sokolickova and Liz Cooper talk about why a number of Antarctic tour guides have given up what they still consider to be their dream job.",
-      "date": "Tue, 18 Aug 2026 09Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/FsHykUCmxYX6LjSYHd9g2B-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-18T09:39:50Z"
-    },
-    {
-      "title": "Feeding our books into generative AI risks creating a cultural void",
-      "link": "https://www.newscientist.com/article/2584715-feeding-our-books-into-generative-ai-risks-creating-a-cultural-void/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "When we put our literature, games and films into AI models, we risk replacing our cultural history with a mishmash of auto-generated works. We desperately need to preserve human wr",
-      "date": "Tue, 18 Aug 2026 08Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI308065486.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-18T08:45:32Z"
     }
   ]
 }
