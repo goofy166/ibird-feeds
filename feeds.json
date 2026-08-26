@@ -1,8 +1,96 @@
 {
-  "updated": "2026-08-26T13:05:28Z",
-  "updated_utc": "2026-08-26T13:05:28Z",
+  "updated": "2026-08-26T14:51:17Z",
+  "updated_utc": "2026-08-26T14:51:17Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Meet Kaydee: Potential New Mate for Shadow the Bald Eagle",
+      "link": "https://www.birdsandblooms.com/birding/birding-basics/kaydee-shadow-bald-eagles/",
+      "summary": "Who's the new lady in Shadow's life? Get to know Kaydee (KD1), the bald eagle Shadow could potentially choose as his next mate. The post Meet Kaydee: Potential New Mate for Shadow ",
+      "date": "2026-08-26T14:30:38Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-11.09.04-AM.png?fit=700,1024",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-08-26T14:50:57Z"
+    },
+    {
+      "title": "Researcher joins PETA’s call for Six Flags Discovery Kingdom dolphins to move to seaside sanctuaries",
+      "link": "https://www.mercurynews.com/2026/08/26/researcher-joins-petas-call-for-dolphins-to-move-to-seaside-sanctuaries/",
+      "summary": "“It’s the only humane thing to do,” said Lori Marino, who has published over 150 peer-reviewed scientific papers, book chapters and magazine articles on marine mammal biology and c",
+      "date": "2026-08-26T13:28:14Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/FLIPPINFUN.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-08-26T14:51:07Z"
+    },
+    {
+      "title": "How SpaceX and Reflect Orbital Satellites Are Erasing the Stars Over National Parks",
+      "link": "https://www.outsideonline.com/adventure-travel/national-parks/starlink-satellites-dark-skies-national-parks/",
+      "summary": "As more and more satellites like Starlink launch, our night skies are getting crowded. Experts warn its putting our national park experience, and nature, in jeopardy. The post How ",
+      "date": "2026-08-26T13:54:54Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/Joshua-Tree-rock-arch-night-stars_TamDerekSturman.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-26T14:51:08Z"
+    },
+    {
+      "title": "Rachel Entrekin Is Pushing the Limits of Human Endurance. She Also Pets Every Dog She Sees.",
+      "link": "https://www.outsideonline.com/health/training-performance/rachel-entrekin-ultrarunner/",
+      "summary": "Armed with a deep love for running and a radically positive mindset, the \"Queen of Cocodona\" is redefining what is possible in human endurance. The post Rachel Entrekin Is Pushing ",
+      "date": "2026-08-26T13:11:38Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/rachel-hero-image.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-26T14:51:08Z"
+    },
+    {
+      "title": "A New Telescope Still Under Construction Accidentally Reveals How a Dying Star Returns Matter to Space",
+      "link": "https://www.smithsonianmag.com/smart-news/a-new-telescope-still-under-construction-accidentally-reveals-how-a-dying-star-returns-matter-to-space-180989349/",
+      "summary": "Researchers captured an unprecedented image of the stellar recycling process while calibrating a Chile-based instrument called MOTHRA, which is expected to be complete by the end o",
+      "date": "2026-08-26T14:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/SubC8RlSAbngMYaNt2tvxwuHP-k=/420x240/filters:focal(485x328:486x329)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3f/55/3f5579c8-c4a7-43a5-bb54-6498478792fd/helix1940__fitmaxwzk3mcw2ntbd.jpg",
+      "name": "Smithsonian",
+      "category": "butterflies",
+      "color": 10,
+      "fetched_at": "2026-08-26T14:51:10Z"
+    },
+    {
+      "title": "A glacier collapse is most likely cause of the Nepal disaster",
+      "link": "https://www.newscientist.com/article/2586497-a-glacier-collapse-is-most-likely-cause-of-the-nepal-disaster/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Melting snow appears to have weakened a steep glacier at an altitude of 5 kilometres, causing it to plummet around a kilometre into the river valley below",
+      "date": "2026-08-26T14:15:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309559746.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-08-26T14:51:12Z"
+    },
+    {
+      "title": "Too hot to incubate: Nile crocodiles hatch on their own in French reserve",
+      "link": "https://phys.org/news/2026-08-hot-incubate-nile-crocodiles-hatch.html",
+      "summary": "France's heat waves have produced an unusual outcome at a wildlife park, where 10 Nile crocodiles hatched without human assistance for the first time, the director of the reserve s",
+      "date": "2026-08-26T14:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/zoos-typically-hatch-n.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-26T14:51:14Z"
+    },
+    {
+      "title": "Dogs may use blinking as a subtle social signal",
+      "link": "https://phys.org/news/2026-08-dogs-subtle-social.html",
+      "summary": "Blinking keeps eyes moist, sweeps away bits of dirt and dust, and helps the brain rest when processing visual information. But in dogs, it may also serve another function as a subt",
+      "date": "2026-08-26T13:40:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dogs-may-use-blinking.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-26T14:51:14Z"
+    },
     {
       "title": "Could there be life in helium atmospheres on exoplanets?",
       "link": "https://earthsky.org/space/life-in-helium-atmospheres-exoplanets-habitability/",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-08-18T15:37:59Z"
-    },
-    {
-      "title": "These Coral Reefs Off West Africa Were Long Presumed Dead. Scientists Just Found Them Alive and Teeming With Life",
-      "link": "https://www.smithsonianmag.com/smart-news/these-coral-reefs-off-west-africa-were-long-presumed-dead-scientists-just-found-them-alive-and-teeming-with-life-180989350/",
-      "summary": "Fish surveys in the 1960s detected what experts thought was a dead coral reef barrier off the country of Benin. Decades later, researchers set off in small fishing boats to investi",
-      "date": "Tue, 18 Aug 2026 14Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/bGNTfjkD0geyZg2JGlvAIO_oxsw=/420x240/filters:focal(791x407:792x408)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/33/61/33616fe6-ca67-48ac-aef5-b6688f9adf93/e3a9deb0-b760-4205-844e-b0f2564d35e1.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-18T15:37:59Z"
-    },
-    {
-      "title": "The surprising upsides of living in a reality that repeats for eternity",
-      "link": "https://www.newscientist.com/article/2582556-the-surprising-upsides-of-living-in-a-reality-that-repeats-for-eternity/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Having faced the prospect that our minds are random fluctuations in a dead universe, quantum cosmologist Sean Carroll suggests that we may be stuck in an eternally repeating realit",
-      "date": "Tue, 18 Aug 2026 15Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/RZ_NS_Space-Theory_RGB_1350x900pix_72dpi_left-v2.gif",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-18T15:38:01Z"
-    },
-    {
-      "title": "Double spiral inside narwhal tusks may explain their resistance to bending",
-      "link": "https://phys.org/news/2026-08-spiral-narwhal-tusks-resistance.html",
-      "summary": "The narwhal's impressive tusk has long been the subject of myths. In the Middle Ages, they were sold as unicorn horns believed to possess magical powers. Now, an international team",
-      "date": "2026-08-18T15:00:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-tusk-with-a-twist-sc-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-18T15:38:03Z"
-    },
-    {
-      "title": "'Beyond human intuition': AI designs chip components 500 times smaller than what engineers could ever imagine",
-      "link": "https://www.livescience.com/technology/electronics/beyond-human-intuition-ai-designs-chip-500-times-smaller-than-what-engineers-could-ever-imagine",
-      "summary": "Three new AI-designed chip components are just a few micrometers long and go beyond what human engineers have previously envisaged.",
-      "date": "Tue, 18 Aug 2026 15Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/7g83sM22Ri9ziNmRE7RQGi-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-18T15:38:04Z"
-    },
-    {
-      "title": "The pace of climate change matters more than overall heat in the race to save key Atlantic currents, study finds",
-      "link": "https://www.livescience.com/planet-earth/climate-change/the-pace-of-climate-change-matters-more-than-overall-heat-in-the-race-to-save-key-atlantic-currents-study-finds",
-      "summary": "The rate of global warming, rather than the extra heat itself, could determine whether a system of ocean currents known as the Atlantic Meridional Overturning Circulation will cros",
-      "date": "Tue, 18 Aug 2026 14Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/RZjsqioXyoSR3iDWZLdUpb-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-18T15:38:04Z"
-    },
-    {
-      "title": "How to Identify an American Red Squirrel",
-      "link": "https://www.birdsandblooms.com/gardening/backyard-wildlife/american-red-squirrel/",
-      "summary": "Who's causing a commotion in your yard? It might be an American red squirrel! Learn what these noisy critters eat, where they live, and more. The post How to Identify an American R",
-      "date": "Tue, 18 Aug 2026 14Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/08/GettyImages-113239034-e1786987654652.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-08-18T14:39:55Z"
-    },
-    {
-      "title": "Avoiding These Three Vascular Health Risk Factors in Midlife Can Help You Delay Dementia for About 13 Years, Study Suggests",
-      "link": "https://www.smithsonianmag.com/smart-news/avoiding-these-three-vascular-health-risk-factors-in-midlife-can-help-you-delay-dementia-for-about-13-years-study-suggests-180989354/",
-      "summary": "High blood pressure, diabetes and smoking are three major modifiable risk factors of dementia. New research tracked more than 12,000 participants to quantify how many years of heal",
-      "date": "Tue, 18 Aug 2026 14Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/h-oEdsE0tm8r63Yb_ZpKqMG06P0=/420x240/filters:focal(2926x1951:2927x1952)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c4/7b/c47b94b6-a678-4fb2-be73-f04b3e171819/pexels-shvets-production-8900036.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-18T14:40:08Z"
-    },
-    {
-      "title": "What Spider-Man gets right — and wrong — about turning off superpowers",
-      "link": "https://www.sciencenews.org/article/spider-man-superpower-inhibitor-rna",
-      "summary": "In 'Spider-Man: Brand New Day,' Peter Parker devises a superpower inhibitor based on a real therapy using RNA.",
-      "date": "Tue, 18 Aug 2026 14Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/081726_TS_spiderman_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-08-18T14:40:09Z"
     }
   ]
 }
