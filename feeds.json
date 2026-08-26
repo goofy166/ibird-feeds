@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-26T01:47:02Z",
-  "updated_utc": "2026-08-26T01:47:02Z",
+  "updated": "2026-08-26T03:12:22Z",
+  "updated_utc": "2026-08-26T03:12:22Z",
   "count": 500,
   "stories": [
+    {
+      "title": "From nuisance to new resource: Prickly pear could support fuels, foods and rural growers",
+      "link": "https://phys.org/news/2026-08-nuisance-resource-pear-fuels-foods.html",
+      "summary": "Texans often view prickly pear cactus as a nuisance, but researchers with Texas A&M AgriLife Research are seeking opportunity. Susanne Talcott, Ph.D., a molecular researcher and pr",
+      "date": "2026-08-26T02:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/prickly-pear.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-26T03:12:18Z"
+    },
     {
       "title": "Strong oyster reefs start with genetic diversity",
       "link": "https://phys.org/news/2026-08-strong-oyster-reefs-genetic-diversity.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-08-18T08:45:32Z"
-    },
-    {
-      "title": "Physicists may have solved a 30-year mystery over missing neutrinos",
-      "link": "https://www.newscientist.com/article/2584689-physicists-may-have-solved-a-30-year-mystery-over-missing-neutrinos/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Since the 1990s, researchers have wondered if unexpected results from gallium-based neutrino detectors are a sign of a new kind of particle, but a new study suggests that revising ",
-      "date": "Tue, 18 Aug 2026 07Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308318508.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-18T07:44:15Z"
     }
   ]
 }
