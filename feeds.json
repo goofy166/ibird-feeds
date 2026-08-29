@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-29T18:18:11Z",
-  "updated_utc": "2026-08-29T18:18:11Z",
+  "updated": "2026-08-29T21:37:31Z",
+  "updated_utc": "2026-08-29T21:37:31Z",
   "count": 500,
   "stories": [
+    {
+      "title": "To Speak the Language of the Land",
+      "link": "https://hakaimagazine.com/features/to-speak-the-language-of-the-land/",
+      "summary": "Nearly 200 of us cram into Tarāwhai, a traditional wooden Māori meeting house, under the gaze of the ancestors and deities carved into the posts and walls. We’re here in the home o",
+      "date": "Thu, 12 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-maori-language-and-place.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-08-29T21:37:16Z"
+    },
+    {
+      "title": "Strategic irrigation stress can lift lucerne seed yield and returns",
+      "link": "https://phys.org/news/2026-08-strategic-irrigation-stress-lucerne-seed.html",
+      "summary": "More water does not necessarily produce more alfalfa seed. A five-year trial near Keith, South Australia, found that strategically delaying irrigation until plants showed early sig",
+      "date": "2026-08-29T21:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/irrigate.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-29T21:37:27Z"
+    },
+    {
+      "title": "Airborne tuberculosis bacteria may mutate as they dry, revealing a target to curb drug resistance",
+      "link": "https://phys.org/news/2026-08-airborne-tuberculosis-bacteria-mutate-dry.html",
+      "summary": "Tuberculosis bacteria released into the air from infected individuals dry out to form infectious particles that are second only to measles in contagiousness. Weill Cornell Medicine",
+      "date": "2026-08-29T20:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/nihlaunchesl.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-29T21:37:27Z"
+    },
     {
       "title": "Caviar Pizzas, New Money, and the Death of an Ancient Fish",
       "link": "https://hakaimagazine.com/features/caviar-pizzas-new-money-and-the-death-of-an-ancient-fish/",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-20T22:34:21Z"
-    },
-    {
-      "title": "Small doses of caustic soda increase biogas production from banana waste",
-      "link": "https://phys.org/news/2026-08-small-doses-caustic-soda-biogas.html",
-      "summary": "Low concentrations of caustic soda (sodium hydroxide, NaOH) are more efficient than high doses for preparing organic waste for biogas production. This finding increases methane pro",
-      "date": "2026-08-20T22:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/small-doses-of-caustic.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-20T22:34:21Z"
-    },
-    {
-      "title": "How membraneless organelles assemble into organized protein hubs",
-      "link": "https://phys.org/news/2026-08-membraneless-organelles-protein-hubs.html",
-      "summary": "Inside every cell, thousands of proteins must reach the right place at the right time. Helping coordinate this complex logistics network are centriolar satellites—tiny, membraneles",
-      "date": "2026-08-20T21:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-reveals-how-12.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-20T22:34:21Z"
-    },
-    {
-      "title": "A new role for nitrate reductase in regulating nitrogen-responsive nodulation",
-      "link": "https://phys.org/news/2026-08-role-nitrate-reductase-nitrogen-responsive.html",
-      "summary": "Certain plants, including legumes, form specialized organs called root nodules, where they establish symbiotic relationships with nitrogen-fixing bacteria. This root nodule symbios",
-      "date": "2026-08-20T21:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-role-for-nitrate.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-20T21:34:10Z"
     }
   ]
 }
