@@ -1,8 +1,52 @@
 {
-  "updated": "2026-08-29T14:21:49Z",
-  "updated_utc": "2026-08-29T14:21:49Z",
+  "updated": "2026-08-29T18:18:11Z",
+  "updated_utc": "2026-08-29T18:18:11Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Caviar Pizzas, New Money, and the Death of an Ancient Fish",
+      "link": "https://hakaimagazine.com/features/caviar-pizzas-new-money-and-the-death-of-an-ancient-fish/",
+      "summary": "I am sitting at a slick Manhattan waterfront restaurant on the banks of the East River, New York City, trying to decide why I find the caviar pizza on the menu so disturbing. Jonat",
+      "date": "Tue, 10 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-21st-century-sturgeon.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-08-29T18:17:57Z"
+    },
+    {
+      "title": "The Destructive Legacy of Failed Aquaculture",
+      "link": "https://hakaimagazine.com/news/the-destructive-legacy-of-failed-aquaculture/",
+      "summary": "Aquaculture is big business in Canada. In 2023, open-net-pen salmon farming in British Columbia alone produced 50,000 tonnes of fish worth just over US $350-million. But on June 30",
+      "date": "2024-12-06T08:01:14Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-aquaculture-cleanup.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-08-29T18:17:57Z"
+    },
+    {
+      "title": "Conjuring the Lost Land Beneath the North Sea",
+      "link": "https://hakaimagazine.com/features/conjuring-the-lost-land-beneath-the-north-sea/",
+      "summary": "The North Sea is a hard place to love. It’s not the cold, or the silty gray-brown waters that seem to suck the brightness out of the sky that make it unappealing, it’s what people ",
+      "date": "Thu, 05 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-doggerland.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-08-29T18:17:57Z"
+    },
+    {
+      "title": "A never-before-seen picture of eagle migrations",
+      "link": "https://phys.org/news/2026-08-picture-eagle-migrations.html",
+      "summary": "In 1899, scientists began tracking avian migration by placing a small ring with an identifier around birds' ankles. Researchers then had to recapture the birds elsewhere, leaving t",
+      "date": "2026-08-29T16:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-never-before-seen-pi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-29T18:18:07Z"
+    },
     {
       "title": "Costa Rica: Worthwhile or Worthless?",
       "link": "https://www.10000birds.com/costa-rica-worthwhile-or-worthless.htm?utm_source=rss&utm_medium=rss&utm_campaign=costa-rica-worthwhile-or-worthless",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-20T21:34:10Z"
-    },
-    {
-      "title": "NASA-Funded Mission to Rescue a Falling Space Telescope Officially Ends in Failure",
-      "link": "https://www.smithsonianmag.com/smart-news/nasa-funded-mission-to-rescue-a-falling-space-telescope-officially-ends-in-failure-180989376/",
-      "summary": "The commercial LINK spacecraft was supposed to give NASA's Swift observatory a boost, pushing it higher into orbit to extend its life. But after launch, LINK experienced several pr",
-      "date": "Thu, 20 Aug 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/Wg5hFcVdcIapCuKVkjgncI4hUxw=/420x240/filters:focal(450x257:451x258)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d5/77/d577c5f5-9e56-46b8-b772-eee37d2964f4/swift-over-earth-animation-2025.webp",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-20T20:35:55Z"
-    },
-    {
-      "title": "To Speak the Language of the Land",
-      "link": "https://hakaimagazine.com/features/to-speak-the-language-of-the-land/",
-      "summary": "Nearly 200 of us cram into Tarāwhai, a traditional wooden Māori meeting house, under the gaze of the ancestors and deities carved into the posts and walls. We’re here in the home o",
-      "date": "Thu, 12 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-maori-language-and-place.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-08-20T19:36:28Z"
-    },
-    {
-      "title": "People Are Turning to Nicotine Pouches as a Pre-Workout Hack. Experts Are Concerned.",
-      "link": "https://www.outsideonline.com/health/training-performance/nicotine-pre-workout-trend-risks/",
-      "summary": "Nicotine pouches are the latest pre-workout trend among lifters and influencers. Experts explain why it may hurt performance more than help it. The post People Are Turning to Nicot",
-      "date": "Thu, 20 Aug 2026 19Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/Untitled-design-1.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-20T19:36:32Z"
-    },
-    {
-      "title": "How well do past extinctions predict extinction risk today?",
-      "link": "https://phys.org/news/2026-08-extinctions-extinction-today.html",
-      "summary": "In the last few centuries, mammals and other animals have been going extinct at least 100 times faster than they did before humans arrived on the scene. So who will be next? Which ",
-      "date": "2026-08-20T19:30:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/forest-chimpanzee.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-20T19:36:38Z"
     }
   ]
 }
