@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-29T01:41:07Z",
-  "updated_utc": "2026-08-29T01:41:07Z",
+  "updated": "2026-08-29T08:54:50Z",
+  "updated_utc": "2026-08-29T08:54:50Z",
   "count": 500,
   "stories": [
+    {
+      "title": "'It's kind of the holy grail of what is memory': Neuroscientist Steve Ramirez studies the physical basis of memory in a quest to manipulate it",
+      "link": "https://www.livescience.com/health/neuroscience/its-kind-of-the-holy-grail-of-what-is-memory-neuroscientist-steve-ramirez-studies-the-physical-basis-of-memory-in-a-quest-to-manipulate-it",
+      "summary": "Steve Ramirez , a neuroscientist and author of \"How to Change a Memory,\" tells editor Hannah Osborne about the science and ethics of memory manipulation, and the incredible power o",
+      "date": "2026-08-29T08:30:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/PHqj9s9vySGAGLH24q9d2j-1280-80.gif",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-08-29T08:54:48Z"
+    },
     {
       "title": "A Personal Trainer Explains How the Monk Plank Challenge Will Make You a Better Outdoor Athlete",
       "link": "https://www.outsideonline.com/health/training-performance/monk-plank-challenge-trail-strength/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-20T18:50:12Z"
-    },
-    {
-      "title": "Controversial battery storage project in San Jose’s Coyote Valley is withdrawn",
-      "link": "https://www.mercurynews.com/2026/08/04/controversial-battery-storage-project-in-san-joses-coyote-valley-is-withdrawn/",
-      "summary": "Environmentalists, political leaders, parents at nearby school opposed plan on San Jose’s rural southern edges",
-      "date": "Tue, 04 Aug 2026 21Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/05/SJM-L-BATTERY-0528-3.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-08-20T17:35:50Z"
     }
   ]
 }
