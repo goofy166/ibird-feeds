@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-30T12:44:29Z",
-  "updated_utc": "2026-08-30T12:44:29Z",
+  "updated": "2026-08-30T17:18:15Z",
+  "updated_utc": "2026-08-30T17:18:15Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A Climber Dropped His Backpack in a Crevasse in 1963. The Ice Just Gave It Back.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/63-year-old-backpack-found-austrian-glacier-melt/",
+      "summary": "A 1963 crevasse fall cost climber Alfred Rothfischer his gear. Decades later, melting Alpine ice revealed his long-lost backpack and tools. The post A Climber Dropped His Backpack ",
+      "date": "2026-08-30T12:57:15Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/Copy-of-Untitled-Design-8.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-30T17:18:06Z"
+    },
+    {
+      "title": "Infection kills gut cells, while diet reshapes existing ones, fruit fly study finds",
+      "link": "https://phys.org/news/2026-08-infection-gut-cells-diet-reshapes.html",
+      "summary": "The intestines rely on different strategies to rebuild themselves in response to diet changes versus infections, according to a new Cornell study—a finding that can shed light on h",
+      "date": "2026-08-30T17:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/infection-kills-gut-ce.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-30T17:18:12Z"
+    },
+    {
+      "title": "Know your pest pressure: Monitoring is the foundation for managing lucerne seed wasp",
+      "link": "https://phys.org/news/2026-08-pest-pressure-foundation-lucerne-seed.html",
+      "summary": "Lucerne seed wasp (LSW) is a serious pest in alfalfa crops, causing damage that is difficult to see in the field. Its larvae feed inside developing seeds, meaning losses may not be",
+      "date": "2026-08-30T14:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/know-your-pest-pressur.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-30T17:18:12Z"
+    },
     {
       "title": "A Mega Day in Kakamega",
       "link": "https://www.10000birds.com/a-mega-day-in-kakamega.htm?utm_source=rss&utm_medium=rss&utm_campaign=a-mega-day-in-kakamega",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-21T09:43:43Z"
-    },
-    {
-      "title": "Pioneering cancer treatment saves python named Jodie Foster: UK zoo",
-      "link": "https://phys.org/news/2026-08-cancer-treatment-python-jodie-foster.html",
-      "summary": "A British zoo Friday hailed the successful treatment of a cancer-stricken python named after Hollywood star Jodie Foster, who became the first snake to receive an innovative treatm",
-      "date": "2026-08-21T09:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/python.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-21T09:43:43Z"
-    },
-    {
-      "title": "Meet the scientists 3D printing corneas to restore people's vision, potentially filling a worldwide shortage of transplantable tissue",
-      "link": "https://www.livescience.com/health/surgery/meet-the-scientists-3d-printing-corneas-to-restore-peoples-vision-potentially-filling-a-worldwide-shortage-of-transplantable-tissue",
-      "summary": "New 3D-printed corneal implants could help make up for the shortage of donor corneas available for transplant procedures, say Precise Bio co-founders Aryeh Batt and Dr. Anthony Ata",
-      "date": "2026-08-21T09:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZuuLreReC4MEEhVCQ5DjHf-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-21T09:43:44Z"
-    },
-    {
-      "title": "Teapot of Sagittarius points to the Milky Way’s center",
-      "link": "https://earthsky.org/favorite-star-patterns/teapot-of-sagittarius-points-to-galactic-center/",
-      "summary": "As you gaze toward the famous Teapot asterism in the constellation Sagittarius, you are looking toward the center of our Milky Way galaxy. The post Teapot of Sagittarius points to ",
-      "date": "2026-08-21T08:00:04Z",
-      "image": "https://earthsky.org/upl/2014/08/teapot-galactic-center-e1469703144957.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-08-21T08:49:34Z"
     }
   ]
 }
