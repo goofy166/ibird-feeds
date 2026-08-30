@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-30T20:54:29Z",
-  "updated_utc": "2026-08-30T20:54:29Z",
+  "updated": "2026-08-30T23:21:23Z",
+  "updated_utc": "2026-08-30T23:21:23Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Grand Canyon Was Rocked by a Flash Flood. More than 20 Hikers Are Missing.",
+      "link": "https://www.outsideonline.com/uncategorized/the-grand-canyon-was-rocked-by-a-flash-flood-more-than-20-hikers-are-missing/",
+      "summary": "A flash flood in the Grand Canyon left over 20 people missing, destroyed key footbridges, and forced mass evacuations near Phantom Ranch. The post The Grand Canyon Was Rocked by a ",
+      "date": "2026-08-30T21:25:10Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/flood-nps.jpeg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-08-30T23:21:14Z"
+    },
     {
       "title": "A Climber Dropped His Backpack in a Crevasse in 1963. The Ice Just Gave It Back.",
       "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/63-year-old-backpack-found-austrian-glacier-melt/",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-08-21T09:43:35Z"
-    },
-    {
-      "title": "Seeing the unseen: A new tool visualizes hidden structures in complex biological data",
-      "link": "https://phys.org/news/2026-08-unseen-tool-visualizes-hidden-complex.html",
-      "summary": "Modern biology research can now generate valuable data on an unprecedented scale. But there is one major obstacle: making sense of these complex high-dimensional datasets. A team a",
-      "date": "2026-08-21T09:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seeing-the-unseen-a-ne.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-21T09:43:43Z"
     }
   ]
 }
