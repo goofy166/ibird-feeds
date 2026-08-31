@@ -1,8 +1,41 @@
 {
-  "updated": "2026-08-30T23:21:23Z",
-  "updated_utc": "2026-08-30T23:21:23Z",
+  "updated": "2026-08-31T05:10:10Z",
+  "updated_utc": "2026-08-31T05:10:10Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘It was like fighting a dinosaur’: Sydney shark attack survivor recalls left hook that helped save her life",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/31/it-was-like-fighting-a-dinosaur-sydney-shark-attack-survivor-recalls-left-hook-that-helped-save-her-life",
+      "summary": "Leah Stewart, who was bitten while swimming at Coogee beach, says she asked herself which limb she was ‘willing to lose’ as she fought back An Australian woman who lost an arm afte",
+      "date": "2026-08-31T05:01:26Z",
+      "image": "https://i.guim.co.uk/img/media/25433135061085fd870b5ac4f2932eefc92102c9/16_0_508_406/master/508.jpg?width=140&quality=85&auto=format&fit=max&s=191dbb019e56eedaa455423bb44aec9f",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-31T05:09:54Z"
+    },
+    {
+      "title": "Country diary: For the gannets of Bass Rock, it’s a slow road to recovery | Lev Parikian",
+      "link": "https://www.theguardian.com/environment/2026/aug/31/country-diary-for-the-gannets-of-bass-rock-its-a-slow-road-to-recovery",
+      "summary": "North Berwick, East Lothian: As I admire the aerial feats of house martins in Tantallon Castle, my eye is drawn across the water The sign asks us not to disturb the birds. Understa",
+      "date": "2026-08-31T04:30:15Z",
+      "image": "https://i.guim.co.uk/img/media/262f6f8c90baa16f0b85ba975ee55da1814e7f88/700_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=6b4088ea7d53c492ca67111aef1bbbf7",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-08-31T05:09:54Z"
+    },
+    {
+      "title": "Using data to help wheat growers adapt to unpredictable weather",
+      "link": "https://phys.org/news/2026-08-wheat-growers-unpredictable-weather.html",
+      "summary": "For generations, wheat planting has followed predictable seasonal patterns. But this year, unseasonably warm weather in March and April accelerated wheat growth, pushing the crop i",
+      "date": "2026-08-31T00:30:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-data-to-help-whe.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-08-31T05:10:06Z"
+    },
     {
       "title": "The Grand Canyon Was Rocked by a Flash Flood. More than 20 Hikers Are Missing.",
       "link": "https://www.outsideonline.com/uncategorized/the-grand-canyon-was-rocked-by-a-flash-flood-more-than-20-hikers-are-missing/",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-21T11:32:37Z"
-    },
-    {
-      "title": "Voyager 2 confirms Neptune’s rings on August 22 in 1989",
-      "link": "https://earthsky.org/space/this-date-in-science-the-definitive-discovery-of-neptunes-rings/",
-      "summary": "NASA's Voyager 2 confirmed the discovery of Neptune's rings on August 22, 1989, when it took images of a faint, continuous ring system around the planet. The post Voyager 2 confirm",
-      "date": "2026-08-21T10:00:48Z",
-      "image": "https://earthsky.org/upl/2013/08/neptune-rings.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-08-21T10:36:44Z"
-    },
-    {
-      "title": "The Personal Toll of Canada’s Broken Fishing Promises",
-      "link": "https://hakaimagazine.com/features/the-personal-toll-of-canadas-broken-fishing-promises/",
-      "summary": "August 29, 2020, dawned clear over southwest Nova Scotia. In the cabin of his lobster boat, the Mystique Lady, Matthew Cope was chatting with the other members of his crew as they ",
-      "date": "Tue, 17 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-matt-cope-moderate-livelihood.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-08-21T10:36:46Z"
-    },
-    {
-      "title": "Stingray lashings up in Southern California as marine heat wave draws more to shore",
-      "link": "https://www.mercurynews.com/2026/08/13/stingray-lashings-up-southern-california/",
-      "summary": "Bolsa Chica and Huntington state beaches reported more than 3,100 incidents so far this year, twice the number for all of 2025.",
-      "date": "Thu, 13 Aug 2026 13Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/California_Stingrays_22643-1.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-08-21T09:43:35Z"
     }
   ]
 }
