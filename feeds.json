@@ -1,8 +1,74 @@
 {
-  "updated": "2026-09-01T21:41:21Z",
-  "updated_utc": "2026-09-01T21:41:21Z",
+  "updated": "2026-09-01T23:56:39Z",
+  "updated_utc": "2026-09-01T23:56:39Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Will Soper Ran 1.5 Miles 1,000 Feet up a Mountain to Deliver Blood to a Fallen Climber",
+      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/will-soper-ran-1-5-miles-1000-feet-up-a-mountain-to-deliver-blood-to-a-fallen-climber/",
+      "summary": "North Carolina EMT Will Soper ran 1.5 miles up Linville Gorge carrying emergency blood to save a critically injured climber on Shortoff Mountain. The post Will Soper Ran 1.5 Miles ",
+      "date": "Tue, 01 Sep 2026 22Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/soper-2.jpeg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-09-01T23:56:28Z"
+    },
+    {
+      "title": "Algorithm improves detection of differentially expressed genes in large single-cell trajectory data sets",
+      "link": "https://phys.org/news/2026-09-algorithm-differentially-genes-large-cell.html",
+      "summary": "Single-cell RNA sequencing (scRNA-seq) is a method for measuring gene expression in individual cells, allowing observation of various cellular processes, including cell differentia",
+      "date": "2026-09-01T23:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scls-a-computationally-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-01T23:56:35Z"
+    },
+    {
+      "title": "Firelight may have sparked human storytelling by extending social hours",
+      "link": "https://phys.org/news/2026-08-firelight-human-storytelling-social-hours.html",
+      "summary": "New research from the University of St Andrews has developed a novel hypothesis of how firelight was critical to the evolution of sophisticated storytelling.",
+      "date": "2026-09-01T23:10:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/storytelling-apes-are.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-01T23:56:35Z"
+    },
+    {
+      "title": "Muddying the waters makes stickleback fish more coordinated, study finds",
+      "link": "https://phys.org/news/2026-08-muddying-stickleback-fish.html",
+      "summary": "Stickleback fish can change their social behavior to help them find food in cloudy water, according to a new University of Bristol study published in Proceedings of the Royal Socie",
+      "date": "2026-09-01T23:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/muddying-the-waters-ma.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-01T23:56:35Z"
+    },
+    {
+      "title": "Survey reveals marine biodiversity hotspot needs protection",
+      "link": "https://phys.org/news/2026-09-survey-reveals-marine-biodiversity-hotspot.html",
+      "summary": "An environmental DNA study by a multi-institutional research collaboration has revealed distinct regions of extraordinary marine biodiversity that can help inform management of a p",
+      "date": "2026-09-01T23:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/survey-reveals-marine.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-01T23:56:35Z"
+    },
+    {
+      "title": "'Biggest surprise of my life': Homeowner discovers Denmark's largest Viking Age silver hoard in their backyard",
+      "link": "https://www.livescience.com/archaeology/vikings/biggest-surprise-of-my-life-homeowner-discovers-denmarks-largest-viking-age-silver-hoard-in-their-backyard",
+      "summary": "In Denmark, a homeowner digging in their backyard unexpectedly found the country's largest silver hoard from the Viking Age.",
+      "date": "Tue, 01 Sep 2026 22Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/d8N2iB4W4HoqgR5zS3X5VT-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-09-01T23:56:36Z"
+    },
     {
       "title": "Why is the Male Red Cardinal is so Bright – you may be surprised",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/why-is-the-male-red-cardinal-is-so-bright-you-may-be-surprised/",
@@ -5436,72 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-24T19:35:02Z"
-    },
-    {
-      "title": "Mapping the 'hidden highways' of Mexico's illegal wildlife trade",
-      "link": "https://phys.org/news/2026-08-hidden-highways-mexico-illegal-wildlife.html",
-      "summary": "For decades, wildlife traffickers have illegally captured and sold hundreds of thousands of wild parrots native to Mexico. Despite changes to international wildlife laws, the conse",
-      "date": "2026-08-24T19:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mapping-the-hidden-hig-4.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-24T19:35:02Z"
-    },
-    {
-      "title": "Rescued beluga whales from shuttered Canadian park arrive safely at SeaWorld San Diego",
-      "link": "https://www.mercurynews.com/2026/08/24/rescued-beluga-whales-from-shuttered-marineland-arrive-safely-at-seaworld-san-diego/",
-      "summary": "The 12-hour journey from Canada required a Qatar Airways cargo plane, special stretchers, and cranes, plus plenty of animal care experts.",
-      "date": "2026-08-24T18:02:18Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/sut-l-seaworld-whales-0823-006.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-08-24T18:50:18Z"
-    },
-    {
-      "title": "‘Only One of Its Kind’ Jellyfish Museum Astounds Visitors With Awe-Inspiring Displays of Sea Nettles Safely Behind Glass",
-      "link": "https://www.smithsonianmag.com/smart-news/only-one-of-its-kind-jellyfish-museum-opens-in-florida-astounds-visitors-awe-inspiring-displays-nettles-safely-behind-glass-180989381/",
-      "summary": "The museum opened in the spring and was founded by two aquarium experts who fled the Russia-Ukraine war",
-      "date": "2026-08-24T17:55:33Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/l64h1FANXnI1sY1AQRF3iHeeCaE=/420x240/filters:focal(3860x2592:3861x2593)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5f/95/5f953e17-1c92-4072-8912-44ff60628703/dsc4258.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-24T18:50:22Z"
-    },
-    {
-      "title": "This 15-Foot Python Is the First Known Snake to Receive Electrochemotherapy for Cancer. Now, She's Officially Free of the Disease",
-      "link": "https://www.smithsonianmag.com/smart-news/this-15-foot-python-is-the-first-known-snake-to-receive-electrochemotherapy-for-cancer-now-shes-officially-free-of-the-disease-180989385/",
-      "summary": "The pioneering treatment makes it easier for traditional chemotherapy drugs to penetrate cancer cells. After the procedure, the reptile, named Jodie Foster, made a speedy recovery",
-      "date": "2026-08-24T17:31:22Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/nC59Jltx-ukbqNYE1Y5CJLedCNs=/420x240/filters:focal(1719x966:1720x967)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cc/a5/cca51174-4295-4234-b8d2-eab719894c73/screenshot_2026-08-24_at_171648.png",
-      "name": "Smithsonian",
-      "category": "butterflies",
-      "color": 10,
-      "fetched_at": "2026-08-24T18:50:22Z"
-    },
-    {
-      "title": "Fish DNA in Ozark streams reveals region's complex geologic history",
-      "link": "https://phys.org/news/2026-08-fish-dna-ozark-streams-reveals.html",
-      "summary": "My students and I encountered a mystery. We were partnering with the Missouri Department of Conservation to monitor for fish presence and abundance in the Missouri Ozarks. We visit",
-      "date": "2026-08-24T18:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fish-dna-in-ozark-stre.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-24T18:50:26Z"
-    },
-    {
-      "title": "Mule helps scientists build the clearest horse and donkey genomes yet",
-      "link": "https://phys.org/news/2026-08-mule-scientists-clearest-horse-donkey.html",
-      "summary": "A mule has helped researchers build the most complete reference genomes to date for horses and donkeys, giving scientists access to complex regions of DNA that earlier versions cou",
-      "date": "2026-08-24T18:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mule.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-24T18:50:26Z"
     }
   ]
 }
