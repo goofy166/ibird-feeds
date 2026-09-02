@@ -1,8 +1,52 @@
 {
-  "updated": "2026-09-02T04:15:27Z",
-  "updated_utc": "2026-09-02T04:15:27Z",
+  "updated": "2026-09-02T09:25:13Z",
+  "updated_utc": "2026-09-02T09:25:13Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Fomalhaut is the Loneliest Star once again",
+      "link": "https://earthsky.org/brightest-stars/solitary-fomalhaut-guards-the-southern-sky/",
+      "summary": "Fomalhaut is known as the Loneliest Star because it shines brightly in a dim patch of sky. Saturn joined it in recent years, but is now pulling away. The post Fomalhaut is the Lone",
+      "date": "2026-09-02T09:00:48Z",
+      "image": "https://earthsky.org/upl/2026/09/Saturn-and-Fomalhaut-allsky-camera-August-20-2026.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-09-02T09:24:58Z"
+    },
+    {
+      "title": "Bovine stem cells offer new approach to future cultivated steak research",
+      "link": "https://phys.org/news/2026-08-bovine-stem-cells-approach-future.html",
+      "summary": "Cultivated meat aims to produce meat from animal cells in the laboratory without needing to raise a living animal for meat production. It has been proposed as a potentially more su",
+      "date": "2026-09-02T09:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bovine-stem-cells-offe.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-02T09:25:09Z"
+    },
+    {
+      "title": "Eight-letter DNA alphabet is accurately transcribed by a natural enzyme",
+      "link": "https://phys.org/news/2026-08-letter-dna-alphabet-accurately-natural.html",
+      "summary": "All known life on Earth uses the same genetic alphabet, consisting of four letters. Now, researchers at the University of California San Diego have demonstrated that one of biology",
+      "date": "2026-09-02T09:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dna-alphabet.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-02T09:25:09Z"
+    },
+    {
+      "title": "Nobody is preparing for the worst day in history",
+      "link": "https://www.livescience.com/planet-earth/nobody-is-preparing-for-the-worst-day-in-history-opinion",
+      "summary": "Governments must start preparing for Black Swan Events, says researcher Florian Ulrich Jehn",
+      "date": "2026-09-02T08:30:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/vNK7Ph88Uo8FNDP2tfAiaA-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-09-02T09:25:10Z"
+    },
     {
       "title": "‘It immediately started attacking me:’ Otter leaves Lake Tahoe swimmer bleeding",
       "link": "https://www.mercurynews.com/2026/09/01/river-otter-attacks-swimming-lake-tahoe/",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-24T22:33:33Z"
-    },
-    {
-      "title": "A bird's eye view of illegal logging and its consequences in the Peruvian Amazon",
-      "link": "https://phys.org/news/2026-08-bird-eye-view-illegal-consequences.html",
-      "summary": "When I first arrived in Peru's Allpahuayo-Mishana National Reserve in 2005, a local youth surprised me with an offer to sell me a live owl, despite the fact that we were in a prote",
-      "date": "2026-08-24T21:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-birds-eye-view-of-il.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-24T22:33:33Z"
-    },
-    {
-      "title": "Bacteria from ancestral wheat microbiomes help protect plants against root rot fungus",
-      "link": "https://phys.org/news/2026-08-bacteria-ancestral-wheat-microbiomes-root.html",
-      "summary": "In the journal npj Biofilms and Microbiomes, researchers from the Brazilian Agricultural Research Corporation (EMBRAPA) and the University of São Paulo (USP) describe the role of t",
-      "date": "2026-08-24T21:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/soil-bacteria-protect-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-24T21:35:58Z"
-    },
-    {
-      "title": "Assembly of giant wild sunflower family genomes unlocks potential for new perennial crops",
-      "link": "https://phys.org/news/2026-08-giant-wild-sunflower-family-genomes.html",
-      "summary": "The Land Institute and HudsonAlpha Institute for Biotechnology, in collaboration with key partners, have assembled the first chromosome-scale, haplotype-phased genomes for Silphium",
-      "date": "2026-08-24T20:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/assembly-of-giant-wild.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-24T21:35:58Z"
-    },
-    {
-      "title": "In France, Brutal Summer Heat Waves Are Taking a Toll on the Flowers That Inspired Claude Monet's Most Beloved Paintings",
-      "link": "https://www.smithsonianmag.com/smart-news/in-france-brutal-summer-heat-waves-taking-toll-on-flowers-that-inspired-claude-monet-most-beloved-paintings-180989384/",
-      "summary": "The colorful nasturtiums at the artist's house and gardens have been hit particularly hard this summer, as France grapples with a record 52 heatwave days",
-      "date": "2026-08-24T20:06:03Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/pH79FBFwV9ey0W8zHTxSOX7hDA0=/420x240/filters:focal(512x341:513x342)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e2/d4/e2d40cd5-aba9-454d-be26-90aa179d7211/maison-et-jardins-claude-monet-giverny-dr-1024x681.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-24T20:38:05Z"
     }
   ]
 }
