@@ -1,8 +1,96 @@
 {
-  "updated": "2026-09-02T21:42:26Z",
-  "updated_utc": "2026-09-02T21:42:26Z",
+  "updated": "2026-09-02T23:59:06Z",
+  "updated_utc": "2026-09-02T23:59:06Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Hawks in Georgia",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/hawks-in-georgia/",
+      "summary": "Is a goshawk the same as a hawk? What is a Buteo? How many hawks are there in Georgia? Well, in this article we try … Read More \"Hawks in Georgia\"",
+      "date": "2026-05-10T23:40:55Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/07/red-tailed-hawk-by-Susan-Kirby.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-09-02T23:58:43Z"
+    },
+    {
+      "title": "Brown Birds with an Orange Chest",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/brown-birds-with-an-orange-chest/",
+      "summary": "Today, my goal is to find 10 species of birds that are brown with an orange chest. I can only think of a couple offhand … Read More \"Brown Birds with an Orange Chest\"",
+      "date": "2026-05-10T23:37:10Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/05/American-Robin-vs-European-Robin.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-09-02T23:58:43Z"
+    },
+    {
+      "title": "Woodpeckers in Maryland: Top 8 Species with Pictures",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/woodpeckers-in-maryland-top-8-species-with-pictures/",
+      "summary": "There are many species of woodpeckers in the United States. They’re known for their colorful plumage and playful attitude. As the fifth greenest state, Maryland has the … Read More",
+      "date": "2026-05-10T23:34:23Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/05/Hairy-Woodpecker-by-Cephas.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-09-02T23:58:43Z"
+    },
+    {
+      "title": "Massive Raw Sewage Leak Has Contaminated Colorado’s Arkansas River",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/arkansas-river-4-million-gallons-sewage-spill/",
+      "summary": "A 4.25-million-gallon sewage spill has contaminated 100 miles of Colorado's Arkansas River with dangerous E. coli levels. Here is what outdoor recreationists need to know. The post",
+      "date": "2026-09-02T23:39:58Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/GettyImages-1258430915.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-09-02T23:58:56Z"
+    },
+    {
+      "title": "Cellular maintenance crew may miss as much as half of certain misfolded proteins",
+      "link": "https://phys.org/news/2026-09-cellular-maintenance-crew-misfolded-proteins.html",
+      "summary": "As proteins are made in a cell, they are folded into the 3D structure that allows them to work, but sometimes this process can go wrong. When it does, the misfolded proteins lose s",
+      "date": "2026-09-02T23:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cellular-maintenance-c.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-02T23:59:02Z"
+    },
+    {
+      "title": "Caterpillar twitches in an ultraquiet chamber help biologists understand how these insects hear without ears",
+      "link": "https://phys.org/news/2026-09-caterpillar-twitches-ultraquiet-chamber-biologists.html",
+      "summary": "In a quiet summer garden, a caterpillar perches on a branch, munching serenely on leaves. A moment later, it freezes. It senses danger—and just in time. From behind, a wasp approac",
+      "date": "2026-09-02T23:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/caterpillar-twitches-i.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-09-02T23:59:02Z"
+    },
+    {
+      "title": "Trees use a 'muscle' to correct their posture—a newly discovered role for tension wood",
+      "link": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+      "summary": "A research team from INRAE and the University Clermont Auvergne has shown that trees are capable of correcting a curvature they detect in their stems through a specific biological ",
+      "date": "2026-09-02T23:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-newly-discovered-rol.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-02T23:59:02Z"
+    },
+    {
+      "title": "Fish dads offer new insight into behavioral effects of receiving paternal care",
+      "link": "https://phys.org/news/2026-09-fish-dads-insight-behavioral-effects.html",
+      "summary": "The plot of \"Finding Nemo,\" a film that features an overprotective single father fish taking on dangers at sea to care for his son, may be more reflective of actual fish dad behavi",
+      "date": "2026-09-02T21:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fish-dads-offer-new-in.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-02T23:59:02Z"
+    },
     {
       "title": "Why are Prothonotary Warblers Choosing Kansas as Their new Home",
       "link": "https://www.birdwatchingdaily.com/news/birdwatching/why-are-prothonotary-warblers-choosing-kansas-as-their-new-home/",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-25T22:34:06Z"
-    },
-    {
-      "title": "Habitat changes found to be no deterrent for some Fijian native bees",
-      "link": "https://phys.org/news/2026-08-habitat-deterrent-fijian-native-bees.html",
-      "summary": "While extreme weather and habitat changes can spell doom for many native animals, including insects, a different picture has emerged from a new study led by Flinders University. Lo",
-      "date": "2026-08-25T21:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/good-news-honey--habit.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-25T22:34:06Z"
-    },
-    {
-      "title": "When Sharing a Rare Bird Sighting Does More Harm Than Good",
-      "link": "https://www.10000birds.com/when-sharing-a-rare-bird-sighting-does-more-harm-than-good.htm?utm_source=rss&utm_medium=rss&utm_campaign=when-sharing-a-rare-bird-sighting-does-more-harm-than-good",
-      "summary": "If you’re an avid bird watcher, you’re likely familiar with the elation that comes with spotting a rare bird. After excitedly snapping that photo, your first instinct might be to p",
-      "date": "Tue, 25 Aug 2026 21Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/08/zdenek-machacek-sGh09ac5KOQ-unsplash-scaled.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-08-25T21:34:55Z"
-    },
-    {
-      "title": "Scientists unlock 'ancestral code' of banana family",
-      "link": "https://phys.org/news/2026-08-scientists-ancestral-code-banana-family.html",
-      "summary": "Scientists have recently reconstructed the ancestral karyotype of the banana family, revealing how chromosome numbers decreased stepwise from 17 to 9–11 over evolutionary time.",
-      "date": "2026-08-25T21:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-unlock-ance.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-25T21:35:13Z"
-    },
-    {
-      "title": "Pomegranate emerges as a promising natural phytobiotic for veterinary medicine",
-      "link": "https://phys.org/news/2026-08-pomegranate-emerges-natural-phytobiotic-veterinary.html",
-      "summary": "Researchers have identified a broad range of biological properties of pomegranate with potential medical applications, including antimicrobial, antiparasitic, antioxidant, immunomo",
-      "date": "2026-08-25T21:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pomegranate-emerges-as-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-25T21:35:13Z"
-    },
-    {
-      "title": "Developing a genetic toolkit for manipulating abundant intestinal microbes",
-      "link": "https://phys.org/news/2026-08-genetic-toolkit-abundant-intestinal-microbes.html",
-      "summary": "Weill Cornell Medicine investigators have developed a set of molecular tools to regulate the activity of specific genes in one of the most common classes of intestinal bacteria. Th",
-      "date": "2026-08-25T20:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/developing-a-genetic-t.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-25T21:35:13Z"
-    },
-    {
-      "title": "Cast Your Vote for the Chunkiest Alpine Rodent During Colorado's First-Ever Fat Marmot Week",
-      "link": "https://www.smithsonianmag.com/smart-news/cast-your-vote-for-the-chunkiest-alpine-rodent-during-colorados-first-ever-fat-marmot-week-180989395/",
-      "summary": "The inaugural competition puts eight yellow-bellied marmots head-to-head while shining a light on the science behind their seasonal weight gain and survival at high elevations",
-      "date": "Tue, 25 Aug 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/cv22C4cCEdZdmSO5o7vfLg_A5tg=/420x240/filters:focal(960x640:961x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8b/dd/8bdd6baa-d5eb-4361-b11d-74f651c75216/marmot_dandelion_3b531fc2-0a2c-43dd-8549-971ae73358af-prv.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-25T20:36:19Z"
-    },
-    {
-      "title": "Even biodiversity-friendly policies may not halt declines in Europe's common birds and butterflies by 2050",
-      "link": "https://phys.org/news/2026-08-biodiversity-friendly-policies-halt-declines.html",
-      "summary": "As part of its efforts to map out Europe's science-policy interface for biodiversity, a paper on the correlation between governance objectives for safeguarding the biosphere and on",
-      "date": "2026-08-25T20:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/predicted-decline-in-c.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-08-25T20:36:24Z"
-    },
-    {
-      "title": "Machine learning method uncovers hidden patterns in DNA methylation",
-      "link": "https://phys.org/news/2026-08-machine-method-uncovers-hidden-patterns.html",
-      "summary": "In a study recently published in Nature Communications, researchers from Berlin, Potsdam, and Jena present a new method for analyzing the epigenome. The machine-learning method ide",
-      "date": "2026-08-25T20:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/machine-learning-metho.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-25T20:36:24Z"
     }
   ]
 }
