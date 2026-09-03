@@ -1,8 +1,52 @@
 {
-  "updated": "2026-09-03T04:14:01Z",
-  "updated_utc": "2026-09-03T04:14:01Z",
+  "updated": "2026-09-03T09:35:31Z",
+  "updated_utc": "2026-09-03T09:35:31Z",
   "count": 500,
   "stories": [
+    {
+      "title": "I camped in one of Britain’s last remaining rainforests",
+      "link": "https://www.theguardian.com/travel/2026/sep/03/camping-britain-last-remaining-rainforests-dartmoor-devon",
+      "summary": "A fragment of temperate rainforest lies on the edge of Dartmoor, and following years of conservation work, its owners have now opened up a sustainable campsite next to this fragile",
+      "date": "2026-09-03T06:00:45Z",
+      "image": "https://i.guim.co.uk/img/media/5af95587b34aa5285ed7e8eb6e0a2e55e97a0ec5/479_0_4736_3788/master/4736.jpg?width=140&quality=85&auto=format&fit=max&s=c69de6fa887a9c688b60c19de75856c9",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-03T09:35:16Z"
+    },
+    {
+      "title": "Corona Australis is the sparkling Southern Crown",
+      "link": "https://earthsky.org/constellations/corona-australis-southern-crown/",
+      "summary": "Corona Australis is a dim constellation lying below the Teapot asterism of Sagittarius. Its sparkling, curving shape befits its name. The post Corona Australis is the sparkling Sou",
+      "date": "Thu, 03 Sep 2026 07Z",
+      "image": "https://earthsky.org/upl/2022/08/Corona-Australis.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-09-03T09:35:17Z"
+    },
+    {
+      "title": "Farming experts tout 'conscious' food systems to fix agriculture woes",
+      "link": "https://phys.org/news/2026-09-farming-experts-tout-conscious-food.html",
+      "summary": "Farmers around the world are struggling with the impact of climate change, financial pressures and depleted soil—and industry experts say bringing consumers closer to the people wh",
+      "date": "2026-09-03T09:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-global-conscious-f.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-03T09:35:27Z"
+    },
+    {
+      "title": "In Chile, injured penguins sport copper vests to help them heal",
+      "link": "https://phys.org/news/2026-09-chile-penguins-sport-copper-vests.html",
+      "summary": "Researchers in Chile have designed an unlikely new garment for injured penguins—snug red vests threaded with copper and zinc that they hope will help the aquatic birds heal faster.",
+      "date": "2026-09-03T08:10:54Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/penguins-in-chile.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-03T09:35:27Z"
+    },
     {
       "title": "The place that never freezes: the Arctic habitat where global heating threatens more ice, not less",
       "link": "https://www.theguardian.com/environment/2026/sep/03/the-place-that-never-freezes-the-arctic-habitat-where-global-heating-threatens-more-ice-not-less",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-08-26T03:12:18Z"
-    },
-    {
-      "title": "Strong oyster reefs start with genetic diversity",
-      "link": "https://phys.org/news/2026-08-strong-oyster-reefs-genetic-diversity.html",
-      "summary": "The European flat oyster (Ostrea edulis) was once widespread but has now become so scarce in the North Sea that it no longer forms ecologically functioning reefs. Along with the de",
-      "date": "2026-08-26T00:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oysters-on-a-reef.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-26T01:46:58Z"
-    },
-    {
-      "title": "See the stunning contenders for the Wildlife Photographer of the Year",
-      "link": "https://www.newscientist.com/article/2585388-see-the-stunning-contenders-for-the-wildlife-photographer-of-the-year/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "These images of nature in action are just some of the highly commended shots in the running for the prestigious nature photography award",
-      "date": "Tue, 25 Aug 2026 23Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI308747016.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-25T23:30:28Z"
-    },
-    {
-      "title": "A near extinct plant in Galápagos is now recovering",
-      "link": "https://phys.org/news/2026-08-extinct-galpagos-recovering.html",
-      "summary": "A 30-year conservation effort has helped the critically endangered Galápagos snapdragon (Galvezia leucantha subsp. leucantha) recover from just six individuals to a small, carefull",
-      "date": "2026-08-25T23:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-near-extinct-plant-i-3.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-25T23:30:30Z"
-    },
-    {
-      "title": "Porpoise entanglement recorded in real time, revealing calls and escape attempts",
-      "link": "https://phys.org/news/2026-08-porpoise-entanglement-real-revealing.html",
-      "summary": "Researchers at the University of St Andrews have gained unprecedented insight into marine mammal behavior when they become tangled in fishing nets. In a paper published Aug. 26 in ",
-      "date": "2026-08-25T23:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unprecedented-recordin.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-25T23:30:30Z"
     }
   ]
 }
