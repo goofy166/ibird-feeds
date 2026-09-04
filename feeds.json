@@ -1,8 +1,19 @@
 {
-  "updated": "2026-09-03T23:54:55Z",
-  "updated_utc": "2026-09-03T23:54:55Z",
+  "updated": "2026-09-04T04:09:50Z",
+  "updated_utc": "2026-09-04T04:09:50Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Your house may be a haven for wildlife. It's time we design homes with nature in mind",
+      "link": "https://phys.org/news/2026-09-house-haven-wildlife-homes-nature.html",
+      "summary": "Ever found a bare-nosed wombat napping under your house or heard a possum thumping around in your attic?",
+      "date": "2026-09-04T02:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/wombat-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-04T04:09:46Z"
+    },
     {
       "title": "Patagonia Joins Environmental Groups in Suing Trump Over Bears Ears",
       "link": "https://www.outsideonline.com/outdoor-adventure/environment/patagonia-lawsuit-bears-ears-trump/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-08-26T19:09:04Z"
-    },
-    {
-      "title": "Monkeys hunt small animals when fruit is scarce",
-      "link": "https://www.sciencenews.org/article/monkeys-hunt-small-animals-fruit-scarce",
-      "summary": "Capuchins hunt and eat small vertebrates more often as plant foods wane. The behavior may help us learn more about humans’ early dietary evolution.",
-      "date": "2026-08-26T18:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/082526_JB_monkeys_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-08-26T19:09:05Z"
     }
   ]
 }
