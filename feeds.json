@@ -1,8 +1,41 @@
 {
-  "updated": "2026-09-04T21:20:30Z",
-  "updated_utc": "2026-09-04T21:20:30Z",
+  "updated": "2026-09-04T23:53:37Z",
+  "updated_utc": "2026-09-04T23:53:37Z",
   "count": 500,
   "stories": [
+    {
+      "title": "2 Men Tried to Bail in Wyoming’s Cirque of the Towers. They Ended Up Staying the Night on Pingora Peak.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/pingora-peak-rescue-wind-river-range-wyoming/",
+      "summary": "Two climbers were rescued after staying the night on Pingora Peak in Wyoming when a stuck rope halted their descent. The post 2 Men Tried to Bail in Wyoming’s Cirque of the Towers.",
+      "date": "2026-09-04T21:29:34Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/pingora-peak.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-09-04T23:53:27Z"
+    },
+    {
+      "title": "A New York City Exhibition Celebrates Snoopy’s Enduring Influence on Art and Fashion",
+      "link": "https://www.smithsonianmag.com/smart-news/a-new-york-city-exhibition-celebrates-snoopys-enduring-influence-on-art-and-fashion-180989455/",
+      "summary": "The beloved \"Peanuts\" character’s many costumes and brand collaborations are featured in a new showcase",
+      "date": "2026-09-04T21:22:36Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/eaZmeViS7GzNv80O8KfsyF2QGw8=/420x240/filters:focal(960x681:961x682)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c9/05/c905a52f-0314-4ce0-993c-206eadb5d2c4/grc-2019-c-00772large.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-09-04T23:53:29Z"
+    },
+    {
+      "title": "In ant nervous systems, gene expression may drive rescue behavior",
+      "link": "https://phys.org/news/2026-09-ant-nervous-gene-behavior.html",
+      "summary": "Why do some ants help nestmates in distress while others don't? A research team from Johannes Gutenberg University Mainz (JGU) and Tel Aviv University addressed this question in a ",
+      "date": "2026-09-04T21:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-not-every-ant-help.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-04T23:53:33Z"
+    },
     {
       "title": "These States are Seeing the Biggest Migration of Birds Tonight",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/these-states-are-seeing-the-biggest-migration-of-birds-tonight/",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-08-27T19:46:35Z"
-    },
-    {
-      "title": "How bacteria develop resistance to programmable antibiotics",
-      "link": "https://phys.org/news/2026-08-bacteria-resistance-programmable-antibiotics.html",
-      "summary": "Antimicrobial resistance is one of the greatest challenges facing modern medicine. A new class of programmable antibiotics known as asobiotics can be used to treat bacterial infect",
-      "date": "2026-08-27T19:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-bacteria-develop-r.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-27T19:46:37Z"
-    },
-    {
-      "title": "Study on biodiversity conservation in agriculture and forestry: High motivation, few options",
-      "link": "https://phys.org/news/2026-08-biodiversity-agriculture-forestry-high-options.html",
-      "summary": "Farmers and foresters manage around 80% of Germany's land area. They are therefore key agents of change in protecting biodiversity—and are often accused of not doing enough to prot",
-      "date": "2026-08-27T19:00:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-on-biodiversity.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-27T19:46:37Z"
-    },
-    {
-      "title": "Candida fungi can burst immune cells and shape-shift to evade immunity",
-      "link": "https://phys.org/news/2026-08-candida-fungi-immune-cells-shift.html",
-      "summary": "Candida auris and Candida albicans are microscopic fungi that cause life-threatening human infections, killing almost a million people globally every year. The World Health Organiz",
-      "date": "2026-08-27T18:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fungal-infections-expl.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-27T19:46:37Z"
     }
   ]
 }
