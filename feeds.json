@@ -1,8 +1,41 @@
 {
-  "updated": "2026-09-05T15:54:31Z",
-  "updated_utc": "2026-09-05T15:54:31Z",
+  "updated": "2026-09-05T18:05:06Z",
+  "updated_utc": "2026-09-05T18:05:06Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Views from a physician and veterinarian: How to improve barriers to pet care when owners are hospitalized",
+      "link": "https://phys.org/news/2026-09-views-physician-veterinarian-barriers-pet.html",
+      "summary": "The human-animal bond is often so strong that pet owners may delay or forgo medical treatment or leave a health care facility against medical advice if they have no one to care for",
+      "date": "2026-09-05T18:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/old-man-pet-dog.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-05T18:05:01Z"
+    },
+    {
+      "title": "US study tests psilocybin to fight cancer side effects",
+      "link": "https://phys.org/news/2026-09-psilocybin-cancer-side-effects.html",
+      "summary": "Here's a novel idea for countering the painful side effects of chemotherapy: Beforehand, take the hallucinogenic drug found in magic mushrooms.",
+      "date": "2026-09-05T17:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-american-weighs-mag.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-09-05T18:05:01Z"
+    },
+    {
+      "title": "Tree species diversity protects forests from climate extremes, study finds",
+      "link": "https://phys.org/news/2026-09-tree-species-diversity-forests-climate.html",
+      "summary": "New research has found that tree species diversity can play a crucial role in protecting forests from the growing threat of extreme climate events. The study analyzed data from 88,",
+      "date": "2026-09-05T16:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/forest-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-05T18:05:01Z"
+    },
     {
       "title": "The High-Altitude Journey of the World’s Most Famous Adventure Cat",
       "link": "https://www.outsideonline.com/adventure-travel/news-analysis/backpacking-kitty-simon-yosh/",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-08-27T19:46:31Z"
-    },
-    {
-      "title": "Experts Say SUP Deaths Have Quadrupled in Recent Years. The Culprit? Your Ankle Leash.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/water-activities/ankle-leash-sup-danger/",
-      "summary": "Ankle SUP leashes can turn deadly in flowing water. Experts reveal why waist leashes save lives on rivers—and how to choose the right gear. The post Experts Say SUP Deaths Have Qua",
-      "date": "Thu, 27 Aug 2026 16Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/GettyImages-1183886820.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-27T19:46:31Z"
-    },
-    {
-      "title": "What Are Mel Brooks’ Favorite Movies? To Celebrate His 100th Birthday, the Comedy Legend Picks 20 Films to Screen Across Los Angeles",
-      "link": "https://www.smithsonianmag.com/smart-news/what-are-mel-brooks-favorite-movies-to-celebrate-100th-birthday-comedy-legend-picks-20-films-to-screen-across-los-angeles-180989410/",
-      "summary": "The eclectic program spans decades and genres, offering glimpses into Brooks’ comedic influences, personal history and enduring love of film",
-      "date": "Thu, 27 Aug 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/6Z_fqgFGuLuWrTnhagnerevRcfg=/420x240/filters:focal(640x451:641x452)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/dc/13/dc138f0a-292a-494b-970d-1b1d1b010d4e/mel_brooks_high_anxiety_still.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-27T19:46:33Z"
-    },
-    {
-      "title": "A Historic Alabama Hotel Linked to the Civil Rights Movement Is Falling Apart. Can the Conservationists Fighting to Save It Turn the Tide?",
-      "link": "https://www.smithsonianmag.com/smart-news/historic-alabama-hotel-linked-civil-rights-movement-is-falling-apart-can-conservationists-fighting-to-save-it-turn-the-tide-180989407/",
-      "summary": "Selma's Edistone Hotel has witnessed pivotal chapters in American history, from Reconstruction to \"Bloody Sunday.\" Now, after years of neglect and a recent wall collapse, the Conse",
-      "date": "Thu, 27 Aug 2026 18Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/dGLDoEK3-qHfoLZsSs09On20ovw=/420x240/filters:focal(512x288:513x289)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/51/62/51625ade-c2d1-4eff-aec9-4262cb020a02/edistone-hotel_19-1024x575.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-27T19:46:33Z"
     }
   ]
 }
