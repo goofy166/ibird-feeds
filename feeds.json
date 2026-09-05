@@ -1,8 +1,19 @@
 {
-  "updated": "2026-09-05T21:04:39Z",
-  "updated_utc": "2026-09-05T21:04:39Z",
+  "updated": "2026-09-05T23:44:03Z",
+  "updated_utc": "2026-09-05T23:44:03Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Video of rattlesnake on California beach goes viral; reminder about snakes on sand and in sea",
+      "link": "https://www.mercurynews.com/2026/08/27/video-of-rattlesnake-at-crystal-cove-beach-goes-viral-reminder-about-snakes-on-sand-and-in-sea/",
+      "summary": "Yes, rattlesnakes can swim.",
+      "date": "Thu, 27 Aug 2026 13Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/OCR-L-SNAKEBEACH-0827-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-09-05T23:43:50Z"
+    },
     {
       "title": "Breaking through AlphaFold's limits to predict how proteins change shape",
       "link": "https://phys.org/news/2026-09-alphafold-limits-proteins.html",
@@ -5487,17 +5498,6 @@
       "summary": "Delphinus the Dolphin is a tiny dolphin-shaped constellation that leaps out of dark skies near the iconic Summer Triangle. The post Delphinus the Dolphin has a graceful kite shape ",
       "date": "Thu, 27 Aug 2026 09Z",
       "image": "https://earthsky.org/upl/2026/08/delphinus-nsf-noirlab-e1787776920188.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-08-27T19:46:26Z"
-    },
-    {
-      "title": "The Winter Circle: Catch in the morning before dawn",
-      "link": "https://earthsky.org/tonight/see-the-winter-circle-before-dawn/",
-      "summary": "The majestic Winter Circle isn't a constellation. This giant circle - or hexagon - is an asterism, or a pattern made up of stars from several constellations. The post The Winter Ci",
-      "date": "Thu, 27 Aug 2026 08Z",
-      "image": "https://earthsky.org/upl/2023/08/late-summer-winter-circle.jpg",
       "name": "EarthSky",
       "category": "wildlife",
       "color": 6,
