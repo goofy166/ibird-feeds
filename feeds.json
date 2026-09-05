@@ -1,8 +1,41 @@
 {
-  "updated": "2026-09-05T04:06:02Z",
-  "updated_utc": "2026-09-05T04:06:02Z",
+  "updated": "2026-09-05T08:55:32Z",
+  "updated_utc": "2026-09-05T08:55:32Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Beekeepers warn of Asian hornet threat and call for UK awareness campaign",
+      "link": "https://www.theguardian.com/environment/2026/sep/05/beekeepers-asian-hornet-threat-uk-awareness-campaign",
+      "summary": "Experts say invasive species are creating ‘pollinator deserts’ and could have serious impact on food security British beekeepers have called for a national awareness campaign about",
+      "date": "2026-09-05T05:00:29Z",
+      "image": "https://i.guim.co.uk/img/media/50ec3bea7d2087d6aecc41f12c9a2fb7c0857d04/1257_0_6545_5236/master/6545.jpg?width=140&quality=85&auto=format&fit=max&s=f647455ed604e22781d91aa5d4c90559",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-05T08:55:17Z"
+    },
+    {
+      "title": "Country diary: The wild, riotous sounds of otters in battle | Cal Flyn",
+      "link": "https://www.theguardian.com/environment/2026/sep/05/country-diary-the-wild-riotous-sounds-of-otters-in-battle",
+      "summary": "Isle of Lismore, Argyll: They skim over the surface like stones, making such a hullabaloo you could hear them a mile away I hear them before I see them: a wailing, or something mor",
+      "date": "2026-09-05T04:30:26Z",
+      "image": "https://i.guim.co.uk/img/media/99fdffc54faa39fc5989dc8f3aa2d95fc238c79f/864_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=87cd910440c185571b9137dbfed324a4",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-05T08:55:17Z"
+    },
+    {
+      "title": "Author Lise Barnéoud on the bizarre and provoking world of microchimerism — when cells from one person live in another, genetically distinct individual",
+      "link": "https://www.livescience.com/health/genetics/author-lise-barneoud-on-the-bizarre-and-provoking-world-of-microchimerism-when-cells-from-one-person-live-in-another-genetically-distinct-individual",
+      "summary": "Journalist and author Lise Barnéoud talks to Live Science about her book \"Hidden Guests,\" which dives into the field of microchimerism and how it's transforming our knowledge of ge",
+      "date": "2026-09-05T08:30:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/f7jJHCn8FCLL5x3WFd8RR4-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-09-05T08:55:30Z"
+    },
     {
       "title": "Trump order directs officials to consider stripping protections for gray wolves",
       "link": "https://www.theguardian.com/us-news/2026/sep/04/trump-order-gray-wolves",
@@ -5465,39 +5498,6 @@
       "summary": "The population of baleen whales along eastern Greenland has boomed in recent decades, and reporter Leah Crane recounts a profound experience of seeing them",
       "date": "Thu, 27 Aug 2026 16Z",
       "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309681078.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-27T19:46:35Z"
-    },
-    {
-      "title": "Octopuses released into Adriatic Sea to tackle invasive crabs",
-      "link": "https://www.newscientist.com/article/2586778-octopuses-released-into-adriatic-sea-to-tackle-invasive-crabs/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Atlantic blue crabs have moved into the Mediterranean and Adriatic seas, where they are a problem both for ecosystems and local economies, but octopuses might offer a solution",
-      "date": "Thu, 27 Aug 2026 14Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309444627.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-27T19:46:35Z"
-    },
-    {
-      "title": "Driving data can predict crash black spots before accidents happen",
-      "link": "https://www.newscientist.com/article/2586721-driving-data-predicts-crash-black-spots-before-accidents-happen/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "An analysis of data collected from hundreds of thousands of cars in Australia offers an insight into driving behaviour that can be used to identify sections of road where crashes m",
-      "date": "Thu, 27 Aug 2026 12Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309549209.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-27T19:46:35Z"
-    },
-    {
-      "title": "Exercise may create new neurons by making other brain cells contract",
-      "link": "https://www.newscientist.com/article/2586505-exercise-may-create-new-neurons-by-making-other-brain-cells-contract/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Physical activity causes a type of brain cell called astrocytes to contract, which then leads to the formation of new neurons, according to a study in mice",
-      "date": "Thu, 27 Aug 2026 12Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309549206.jpg",
       "name": "New Scientist",
       "category": "insects",
       "color": 12,
