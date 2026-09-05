@@ -1,8 +1,52 @@
 {
-  "updated": "2026-09-05T12:33:54Z",
-  "updated_utc": "2026-09-05T12:33:54Z",
+  "updated": "2026-09-05T15:54:31Z",
+  "updated_utc": "2026-09-05T15:54:31Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The High-Altitude Journey of the World’s Most Famous Adventure Cat",
+      "link": "https://www.outsideonline.com/adventure-travel/news-analysis/backpacking-kitty-simon-yosh/",
+      "summary": "JJ Yosh and his cat Simon have climbed Colorado's highest mountains and traveled to more than 15 countries and four continents together. Now the \"Backpacking Kitty\" duo is taking o",
+      "date": "2026-09-05T12:30:06Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/Simon-on-JJ-Yosh-head-chimney-rock-horizontal-1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-09-05T15:54:21Z"
+    },
+    {
+      "title": "Scientists discover how narwhals grow nature's only straight tusk",
+      "link": "https://phys.org/news/2026-08-scientists-narwhals-nature-straight-tusk.html",
+      "summary": "Narwhals have nature's only straight tusk, a single tooth up to three meters (10 feet) long, so strange they were sold as magical unicorn horns during the Middle Ages.",
+      "date": "2026-09-05T15:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/narwhals-have-natures.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-05T15:54:27Z"
+    },
+    {
+      "title": "Mathematicians say these 60-sided dice are the fairest in the world. Designing them took 15 years.",
+      "link": "https://www.livescience.com/physics-mathematics/mathematics/mathematicians-say-these-60-sided-dice-are-the-fairest-in-the-world-designing-them-took-15-years",
+      "summary": "A team of mathematicians discovered that five 60-sided dice, arranged with exactly the right numbers, can determine a perfectly fair turn order for any group of players, with zero ",
+      "date": "2026-09-05T15:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/VkzqAdqcbecMuLdA8HsXDE-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-09-05T15:54:28Z"
+    },
+    {
+      "title": "Faster than Usain Bolt? Here's all the records robot 'athletes' broke at this year's World Humanoid Robot Games in China.",
+      "link": "https://www.livescience.com/technology/robotics/faster-than-usain-bolt-heres-all-the-records-robot-athletes-broke-at-this-years-world-humanoid-robot-games-in-china",
+      "summary": "Humanoid robots at the World Humanoid Robot Games in Beijing have outpaced and out-jumped human athletics benchmarks, but the event also revealed how much work remains before they ",
+      "date": "2026-09-05T14:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/TnsqjGScNnCiv2A3p3QdMK-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-09-05T15:54:28Z"
+    },
     {
       "title": "The left-overs. 10 birds that didn’t make it onto the blog.",
       "link": "https://www.10000birds.com/the-left-overs-10-birds-that-didnt-make-it-onto-the-blog-2.htm?utm_source=rss&utm_medium=rss&utm_campaign=the-left-overs-10-birds-that-didnt-make-it-onto-the-blog-2",
@@ -5454,50 +5498,6 @@
       "summary": "Selma's Edistone Hotel has witnessed pivotal chapters in American history, from Reconstruction to \"Bloody Sunday.\" Now, after years of neglect and a recent wall collapse, the Conse",
       "date": "Thu, 27 Aug 2026 18Z",
       "image": "https://th-thumbnailer.cdn-si-edu.com/dGLDoEK3-qHfoLZsSs09On20ovw=/420x240/filters:focal(512x288:513x289)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/51/62/51625ade-c2d1-4eff-aec9-4262cb020a02/edistone-hotel_19-1024x575.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-27T19:46:33Z"
-    },
-    {
-      "title": "Why Was This 17th-Century Polish Woman Buried With a Padlock on Her Toe and an Iron Sickle Across Her Neck?",
-      "link": "https://www.smithsonianmag.com/smart-news/why-was-this-17th-century-polish-woman-buried-with-a-padlock-on-her-toe-and-an-iron-sickle-across-her-neck-180989408/",
-      "summary": "New research suggests that the people who buried the young woman took precautionary measures to stop her from coming back to life and exacting revenge on them",
-      "date": "Thu, 27 Aug 2026 17Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/YJ9a-mTdmSaqWjMot3Dmd7F8Uus=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8e/6b/8e6b5a8f-601b-4e36-96df-dc9ed1e2e717/padlock2.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-27T19:46:33Z"
-    },
-    {
-      "title": "Yayoi Kusama Created Fantastical 'Infinity Mirror Rooms' That Became the Art World's Most Famous Backdrops. Her Work Spanned Counterculture to the Cosmos",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/yayoi-kusama-created-fantastical-infinity-mirror-rooms-that-became-the-most-famous-backdrops-of-the-art-world-her-work-spanned-from-counterculture-to-cosmos-180989409/",
-      "summary": "The Japanese artist, who died on August 14 at 97, sought solace from hallucinations in her art, developing a visual language of polka dots, pumpkins and mirrors that entranced the ",
-      "date": "Thu, 27 Aug 2026 15Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/wgRUmL8Sw9CQfUQ1fJk3f89ZDLI=/420x240/filters:focal(4128x2752:4129x2753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ba/4e/ba4e90ed-49e5-42ff-84f8-59e10c3f86d1/3cgp84x.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-27T19:46:33Z"
-    },
-    {
-      "title": "Paleontologists Discover a New Species of Ice Age Toad at the La Brea Tar Pits, Offering Clues About the Area's Ancient Climate",
-      "link": "https://www.smithsonianmag.com/smart-news/paleontologists-discover-a-new-species-of-ice-age-toad-at-the-la-brea-tar-pits-offering-clues-about-the-areas-ancient-climate-180989390/",
-      "summary": "The fossilized remains, recovered in 1929, were part of La Brea's relatively understudied amphibian collection. Since toads are cold-blooded and sensitive to environmental changes,",
-      "date": "Thu, 27 Aug 2026 15Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/Bygg2i_uCOEHNvScCBy-SXnV4uM=/420x240/filters:focal(407x237:408x238)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/bb/01/bb010d41-f3a7-4e3f-afea-168acd54f947/image_11.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-27T19:46:33Z"
-    },
-    {
-      "title": "Freddie Mercury's Boundary-Pushing Costumes Take Center Stage at the Victoria and Albert Museum to Mark the 80th Anniversary of His Birth",
-      "link": "https://www.smithsonianmag.com/smart-news/freddie-mercurys-boundary-pushing-costumes-take-center-stage-at-victoria-and-albert-museum-to-mark-80th-anniversary-his-birth-180989403/",
-      "summary": "Eight ensembles from the Queen frontman's career will be displayed across six stops in the London museum's permanent galleries, offering a glimpse into the clothes behind his legen",
-      "date": "Thu, 27 Aug 2026 14Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/TdKm7Y4jYj-guTTGf8RLZEX0-rI=/420x240/filters:focal(2896x1931:2897x1932)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4e/fa/4efac03c-3159-4806-a62b-ba0d7c8983c9/freddie_mercury_in_the_made_in_heaven_music_video_photography-c1235d274eed03e52067a783a801eb2b.jpeg",
       "name": "Smithsonian",
       "category": "insects",
       "color": 10,
