@@ -1,8 +1,30 @@
 {
-  "updated": "2026-09-05T18:05:06Z",
-  "updated_utc": "2026-09-05T18:05:06Z",
+  "updated": "2026-09-05T21:04:39Z",
+  "updated_utc": "2026-09-05T21:04:39Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Breaking through AlphaFold's limits to predict how proteins change shape",
+      "link": "https://phys.org/news/2026-09-alphafold-limits-proteins.html",
+      "summary": "Conformational changes in proteins are vital to their function yet remain challenging for state-of-the-art artificial intelligence, such as AlphaFold3, to predict. Researchers at t",
+      "date": "2026-09-05T21:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/breaking-through-alpha.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-05T21:04:35Z"
+    },
+    {
+      "title": "How much clearcutting can nature sustain? A study determines the ecological limit for boreal forest birds",
+      "link": "https://phys.org/news/2026-09-clearcutting-nature-sustain-ecological-limit.html",
+      "summary": "A study led by the University of Jyväskylä in Finland evaluated, for the first time, an ecological threshold for the amount of clearcutting in boreal forests. According to the resu",
+      "date": "2026-09-05T20:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-much-clearcutting.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-05T21:04:35Z"
+    },
     {
       "title": "Views from a physician and veterinarian: How to improve barriers to pet care when owners are hospitalized",
       "link": "https://phys.org/news/2026-09-views-physician-veterinarian-barriers-pet.html",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-08-27T19:46:26Z"
-    },
-    {
-      "title": "Video of rattlesnake on California beach goes viral; reminder about snakes on sand and in sea",
-      "link": "https://www.mercurynews.com/2026/08/27/video-of-rattlesnake-at-crystal-cove-beach-goes-viral-reminder-about-snakes-on-sand-and-in-sea/",
-      "summary": "Yes, rattlesnakes can swim.",
-      "date": "Thu, 27 Aug 2026 13Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/OCR-L-SNAKEBEACH-0827-01.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-08-27T19:46:29Z"
-    },
-    {
-      "title": "A Hiker Tried to Free Solo a Cliff in Georgia While Wearing Sneakers. Rescuers Saved Him.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/hiker-georgia-rescue/",
-      "summary": "Wearing running shoes and a backpack, a hiker attempted an unroped ascent of Mount Yonah, a popular climbing crag in Georgia. Rescuers plucked him from a tiny ledge. The post A Hik",
-      "date": "Thu, 27 Aug 2026 18Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/Georgia1.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-27T19:46:31Z"
     }
   ]
 }
