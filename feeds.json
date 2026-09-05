@@ -1,8 +1,19 @@
 {
-  "updated": "2026-09-04T23:53:37Z",
-  "updated_utc": "2026-09-04T23:53:37Z",
+  "updated": "2026-09-05T04:06:02Z",
+  "updated_utc": "2026-09-05T04:06:02Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Trump order directs officials to consider stripping protections for gray wolves",
+      "link": "https://www.theguardian.com/us-news/2026/sep/04/trump-order-gray-wolves",
+      "summary": "Interior department given three months to decide whether wolves can be removed from endangered species list Donald Trump signed an executive order on Friday directing the interior ",
+      "date": "2026-09-05T00:50:41Z",
+      "image": "https://i.guim.co.uk/img/media/b37d309fa37fe726bec9660151f209e2b5f30d2a/324_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d7306a6a8ac46dd2d8b8e9672e2c744b",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-05T04:05:46Z"
+    },
     {
       "title": "2 Men Tried to Bail in Wyoming’s Cirque of the Towers. They Ended Up Staying the Night on Pingora Peak.",
       "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/pingora-peak-rescue-wind-river-range-wyoming/",
@@ -5487,17 +5498,6 @@
       "summary": "Physical activity causes a type of brain cell called astrocytes to contract, which then leads to the formation of new neurons, according to a study in mice",
       "date": "Thu, 27 Aug 2026 12Z",
       "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309549206.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-27T19:46:35Z"
-    },
-    {
-      "title": "Huge progress made in attempt to upgrade standard model of particles",
-      "link": "https://www.newscientist.com/article/2586411-huge-progress-made-in-attempt-to-upgrade-standard-model-of-particles/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "A challenging mathematical effort undertaken by a team of undergraduates has put bounds on a promising set of ways to break and upgrade the standard model of particle physics",
-      "date": "Thu, 27 Aug 2026 11Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309553154.jpg",
       "name": "New Scientist",
       "category": "insects",
       "color": 12,
