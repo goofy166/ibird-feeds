@@ -1,8 +1,19 @@
 {
-  "updated": "2026-09-06T21:16:12Z",
-  "updated_utc": "2026-09-06T21:16:12Z",
+  "updated": "2026-09-06T23:42:54Z",
+  "updated_utc": "2026-09-06T23:42:54Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Advanced optical imaging reveals hidden activity in blood immune cells",
+      "link": "https://phys.org/news/2026-09-advanced-optical-imaging-reveals-hidden.html",
+      "summary": "A routine blood sample contains a diverse collection of immune cells that can reveal important clues about health and disease. These cells, known as peripheral blood mononuclear ce",
+      "date": "2026-09-06T21:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/myeloidimmun.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-06T23:42:51Z"
+    },
     {
       "title": "The 3 Exercises That Will Save Your Legs on the Descent",
       "link": "https://www.outsideonline.com/health/training-performance/downhill-hiking-exercises-leg-pain/",
@@ -5487,17 +5498,6 @@
       "summary": "For decades, over a million visitors climbed Uluru, one of the world's largest monoliths, against the wishes of its Traditional Owners. A new 40-mile trek asks what happens when yo",
       "date": "Thu, 27 Aug 2026 21Z",
       "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/GettyImages-534962754-3.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-28T04:10:20Z"
-    },
-    {
-      "title": "Why Humidity Makes Running So Much Harder—and What to Do About It",
-      "link": "https://www.outsideonline.com/health/training-performance/running-humid-weather-tips/",
-      "summary": "Despite cooler temperatures, running can feel hard when humidity levels are high. Experts share tips for running better in humidity. The post Why Humidity Makes Running So Much Har",
-      "date": "Thu, 27 Aug 2026 19Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/humidity-exercise.jpg?width=1200",
       "name": "Outside Online",
       "category": "wildlife",
       "color": 9,
