@@ -1,8 +1,107 @@
 {
-  "updated": "2026-09-07T16:22:05Z",
-  "updated_utc": "2026-09-07T16:22:05Z",
+  "updated": "2026-09-07T20:26:50Z",
+  "updated_utc": "2026-09-07T20:26:50Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Be More Bird:  a book review",
+      "link": "https://www.10000birds.com/be-more-bird-a-book-review.htm?utm_source=rss&utm_medium=rss&utm_campaign=be-more-bird-a-book-review",
+      "summary": "Harris’s Hawk is considered a particularly smart bird, but what does that mean? That the bird can be trained by a human? Or that the bird has instincts lost (if ever had) by humans",
+      "date": "2026-09-07T16:29:03Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/09/Be-More-Bird-2-scaled.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-09-07T20:26:29Z"
+    },
+    {
+      "title": "Super El Niño set to cause ‘terribly dangerous’ drought in the Amazon",
+      "link": "https://www.newscientist.com/article/2587998-super-el-nino-set-to-cause-terribly-dangerous-amazon-drought/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "The El Niño phase now under way will be the most damaging on record for the Amazon, scientists warn, raising the risk of catastrophic wildfires",
+      "date": "2026-09-07T17:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311208563.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-09-07T20:26:44Z"
+    },
+    {
+      "title": "Port Hills research reveals 'fire trap' risk from non-native grass",
+      "link": "https://phys.org/news/2026-09-port-hills-reveals-native-grass.html",
+      "summary": "New research from Te Whare Wānanga o Waitaha | University of Canterbury (UC) examining the aftermath of the February 2024 Port Hills wildfire found that some young native trees and",
+      "date": "2026-09-07T19:40:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/port-hills-research-re.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-07T20:26:46Z"
+    },
+    {
+      "title": "'Heel-strike' may have allowed early humans to walk farther—at the cost of high-impact forces",
+      "link": "https://phys.org/news/2026-09-heel-early-humans-high-impact.html",
+      "summary": "The average person takes thousands of steps each day, instinctively walking heel-to-toe. Although they hardly register them, those consistent heel-first strides are more distinctiv",
+      "date": "2026-09-07T19:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/heel-to-toe.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-07T20:26:46Z"
+    },
+    {
+      "title": "What can a pair of underpants tell you about your vegetable garden?",
+      "link": "https://phys.org/news/2026-09-pair-underpants-vegetable-garden.html",
+      "summary": "This summer, 115 participants in Leiden and The Hague worked with scientists from Leiden University to investigate the soil life in their community garden plots. With mangetout pea",
+      "date": "2026-09-07T18:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-can-a-pair-of-und.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-07T20:26:46Z"
+    },
+    {
+      "title": "Neutrophil vesicles help Candida albicans evade immune-cell engulfment",
+      "link": "https://phys.org/news/2026-09-neutrophil-vesicles-candida-albicans-evade.html",
+      "summary": "The immune system is a highly sophisticated defense network designed to protect against pathogens. A research team from the Universities of Würzburg and Jena and the Leibniz Instit",
+      "date": "2026-09-07T18:20:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-surprising-downside-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-07T20:26:46Z"
+    },
+    {
+      "title": "Organic farming outperforms wildflower strips on profits while both improve farm biodiversity",
+      "link": "https://phys.org/news/2026-09-farming-outperforms-wildflower-profits-farm.html",
+      "summary": "What makes more sense when farming wheat—strips of wildflowers along fields or organic farming? Both options provide financial support via the European Union as environmentally fri",
+      "date": "2026-09-07T17:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wildflower-strip.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-07T20:26:46Z"
+    },
+    {
+      "title": "Self-processing brain systems show both conservation and reorganization across primates",
+      "link": "https://phys.org/news/2026-09-brain-primates.html",
+      "summary": "New in JNeurosci, Ning Liu, from the Institute of Biophysics, Chinese Academy of Sciences, explored whether brain structures for self-processing are conserved across primates, incl",
+      "date": "2026-09-07T17:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/is-self-processing-con.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-07T20:26:46Z"
+    },
+    {
+      "title": "Could bats self-medicate? More than 50 wild bats offer clues",
+      "link": "https://phys.org/news/2026-09-medicate-wild-clues.html",
+      "summary": "When humans get sick, we change our routines and try various solutions to feel better and get well, like staying in bed to rest, going to the doctor, getting medication from the ph",
+      "date": "2026-09-07T16:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/studying-the-holistic-4.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-07T20:26:46Z"
+    },
     {
       "title": "Birding Lodges of the World: Jardim da Amazônia Lodge, Brazil",
       "link": "https://www.10000birds.com/birding-lodges-of-the-world-jardim-da-amazonia-lodge-brazil.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-lodges-of-the-world-jardim-da-amazonia-lodge-brazil",
@@ -5403,105 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-08-28T17:17:44Z"
-    },
-    {
-      "title": "NASA’s new space telescope will reveal the universe like never before",
-      "link": "https://www.sciencenews.org/article/nasa-nancy-roman-space-telescope",
-      "summary": "NASA’s new Nancy Grace Roman space telescope will tackle nearly every aspect of astrophysics, including dark matter, dark energy and alien planets.",
-      "date": "2026-08-28T13:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/082626_MB_NancyGrace_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-08-28T17:17:44Z"
-    },
-    {
-      "title": "Healed fang wound found on 520-million-year-old apex predator",
-      "link": "https://www.newscientist.com/article/2586883-healed-fang-wound-found-on-520-million-year-old-apex-predator/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Something took a bite out of one of the biggest predators in Cambrian seas, an extraordinary fossil shows – and it could well be cannibalism",
-      "date": "2026-08-28T14:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309759983.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-28T17:17:45Z"
-    },
-    {
-      "title": "NASA’s huge Nancy Grace Roman Space Telescope is about to launch",
-      "link": "https://www.newscientist.com/article/2586796-nasas-huge-nancy-grace-roman-space-telescope-is-about-to-launch/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "The Nancy Grace Roman Space Telescope, which launches on 30 August, will observe space with the same detail as the Hubble Space Telescope, but over a much larger area",
-      "date": "2026-08-28T12:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309673819.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-28T17:17:45Z"
-    },
-    {
-      "title": "Fastest star ever spotted at the centre of our galaxy",
-      "link": "https://www.newscientist.com/article/2586889-fastest-star-ever-spotted-at-the-centre-of-our-galaxy/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "A newfound star called S301 is both the fastest ever seen and the closest to a supermassive black hole –and it could make bafflingly difficult tests of gravity possible at last",
-      "date": "2026-08-28T10:48:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309765879.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-28T17:17:45Z"
-    },
-    {
-      "title": "Where and when to see 2027’s ‘solar eclipse of the century’",
-      "link": "https://www.newscientist.com/article/2586640-where-and-when-to-see-2027s-solar-eclipse-of-the-century/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "The total solar eclipse on 2 August 2027 is due to be the longest one until the year 2114, and researchers, eclipse chasers and tourists alike are on the edge of their seats",
-      "date": "2026-08-28T10:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309648588.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-28T17:17:45Z"
-    },
-    {
-      "title": "Exclusive video of world’s first echidna puggle to be born at a university",
-      "link": "https://www.newscientist.com/article/2586728-a-baby-echidna-has-been-born-in-a-university-for-the-first-time/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Echidnas are a difficult animal to breed in captivity, but scientists in Sydney have now managed it, which could improve our understanding of the evolution of pregnancy in mammals",
-      "date": "2026-08-28T08:32:44Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309653536.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-28T17:17:45Z"
-    },
-    {
-      "title": "Einstein thought time dilation was both real and not – he was right",
-      "link": "https://www.newscientist.com/article/2586888-einstein-thought-time-dilation-was-both-real-and-not-he-was-right/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "What even is time? Columnist Karmela Padavic-Callaghan takes on this mind-bending question by exploring the proof we have that time dilation is both a physical phenomenon and a psy",
-      "date": "2026-08-28T08:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309685329.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-28T17:17:45Z"
-    },
-    {
-      "title": "Read an extract from Chanda Prescod-Weinstein’s The Edge of Space-Time",
-      "link": "https://www.newscientist.com/article/2585736-read-an-extract-from-chanda-prescod-weinsteins-the-edge-of-space-time/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "The opening chapter to the New Scientist Book Club's read for September sees Chanda Prescod-Weinstein explore what we gain when we look at the universe from the margins",
-      "date": "2026-08-28T08:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI308659683.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-28T17:17:45Z"
-    },
-    {
-      "title": "‘Thinking about the edges of space-time can help build a better world’",
-      "link": "https://www.newscientist.com/article/2585251-thinking-about-the-edges-of-space-time-can-help-build-a-better-world/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Chanda Prescod-Weinstein, New Scientist columnist and author of the September read for the New Scientist Book Club, The Edge of Space-Time, on why the big questions in physics matt",
-      "date": "2026-08-28T08:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI308659943.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-28T17:17:45Z"
     }
   ]
 }
