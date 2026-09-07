@@ -1,8 +1,30 @@
 {
-  "updated": "2026-09-07T20:26:50Z",
-  "updated_utc": "2026-09-07T20:26:50Z",
+  "updated": "2026-09-07T23:24:27Z",
+  "updated_utc": "2026-09-07T23:24:27Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Park rangers and residents speak up to save Togo's last national park",
+      "link": "https://phys.org/news/2026-09-rangers-residents-togo-national.html",
+      "summary": "A few years ago, I drove with an old friend from Togo, West Africa, towards the country's last remaining large protected area, Fazao-Malfakassa National Park. Our destination was t",
+      "date": "2026-09-07T22:00:09Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/park-rangers-and-resid.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-07T23:24:23Z"
+    },
+    {
+      "title": "From strays to territory bosses: Epigenetics makes cheetahs adaptable",
+      "link": "https://phys.org/news/2026-09-strays-territory-bosses-epigenetics-cheetahs.html",
+      "summary": "The findings of a new study led by the Leibniz-IZW on Namibian free-ranging cheetahs (Acinonyx jubatus jubatus) demonstrate that epigenetic mechanisms might play an important role ",
+      "date": "2026-09-07T20:40:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/male-cheetah.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-07T23:24:23Z"
+    },
     {
       "title": "Be More Bird:  a book review",
       "link": "https://www.10000birds.com/be-more-bird-a-book-review.htm?utm_source=rss&utm_medium=rss&utm_campaign=be-more-bird-a-book-review",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-08-28T17:17:43Z"
-    },
-    {
-      "title": "These 15 Photos of India, Saturated With Vibrant Color, Are Like Witnessing the Country Through a Kaleidoscope",
-      "link": "https://www.smithsonianmag.com/travel/these-15-photos-saturated-with-vibrant-color-are-like-seeing-india-through-a-kaleidoscope-180989375/",
-      "summary": "Whether they signify spiritual connection or creative license, the bright, bold hues of the subcontinent often mean more than meets the eye",
-      "date": "2026-08-28T11:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/WEcjvSaESZU_-S3c_77wlP-ePRw=/420x240/filters:focal(1794x1282:1795x1283)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e1/b6/e1b6d8e2-2651-40d7-8c2d-205a79804a5d/1d4d8608-5703-44e4-9ce8-952b7bc9ee60.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-28T17:17:43Z"
-    },
-    {
-      "title": "Your skin chemistry may affect which mosquitoes most want to bite you",
-      "link": "https://www.sciencenews.org/article/skin-chemistry-which-mosquitoes-bite",
-      "summary": "Three species preferred different people based on their skin odor and bacteria. The findings could help make new microbe-based repellants.",
-      "date": "2026-08-28T15:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/082026_SW_mosquito-bites_feat.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-08-28T17:17:44Z"
     }
   ]
 }
