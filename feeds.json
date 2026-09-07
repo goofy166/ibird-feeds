@@ -1,8 +1,19 @@
 {
-  "updated": "2026-09-06T23:42:54Z",
-  "updated_utc": "2026-09-06T23:42:54Z",
+  "updated": "2026-09-07T04:13:01Z",
+  "updated_utc": "2026-09-07T04:13:01Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Laughter therapy may help people with chronic lung disease",
+      "link": "https://www.newscientist.com/article/2587748-laughter-therapy-may-help-people-with-chronic-lung-disease/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "An eight-week course of self-administered laughter therapy helped a small number of people with chronic obstructive pulmonary disease breathe more easily",
+      "date": "2026-09-07T04:01:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310661272.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-09-07T04:12:55Z"
+    },
     {
       "title": "Advanced optical imaging reveals hidden activity in blood immune cells",
       "link": "https://phys.org/news/2026-09-advanced-optical-imaging-reveals-hidden.html",
@@ -5487,17 +5498,6 @@
       "summary": "A stranded mountain biker on Colorado's Palisade Plunge found life-saving shade at a memorial shelter built for a rider who died on the same trail. The post A Cyclist Was Stranded ",
       "date": "Thu, 27 Aug 2026 23Z",
       "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/shelter.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-28T04:10:20Z"
-    },
-    {
-      "title": "Australia Banned Climbing Uluru. Now a New 40-Mile Trail Offers a Better Way Around It.",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/australia-pacific/new-uluru-trail-australia-outback-kakararra/",
-      "summary": "For decades, over a million visitors climbed Uluru, one of the world's largest monoliths, against the wishes of its Traditional Owners. A new 40-mile trek asks what happens when yo",
-      "date": "Thu, 27 Aug 2026 21Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/GettyImages-534962754-3.jpg?width=1200",
       "name": "Outside Online",
       "category": "wildlife",
       "color": 9,
