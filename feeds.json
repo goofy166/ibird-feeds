@@ -1,8 +1,41 @@
 {
-  "updated": "2026-09-07T04:13:01Z",
-  "updated_utc": "2026-09-07T04:13:01Z",
+  "updated": "2026-09-07T10:06:09Z",
+  "updated_utc": "2026-09-07T10:06:09Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Where to Stay in Moab, From Dirtbag Cheap (and Free) to Desert Luxury",
+      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/where-to-stay-in-moab-from-dirtbag-cheap-and-free-to-desert-luxury/",
+      "summary": "On my very first trip to Moab at age 10, I stayed at a very memorable hotel called the Gonzo Inn. I formed indelible memories of the hotel sign adorned with a clothed lizard straig",
+      "date": "2026-09-07T09:06:58Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/ulum-moab-patio.jpeg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-09-07T10:05:59Z"
+    },
+    {
+      "title": "Can dogs sniff cancer? AI joins the hunt in India",
+      "link": "https://phys.org/news/2026-09-dogs-cancer-ai-india.html",
+      "summary": "When rescue dog Chloe is not tumbling across the grass on a farm outside India's tech capital, Bengaluru, she is learning to sniff human breath for cancer with a little help from A",
+      "date": "2026-09-07T08:07:25Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-growing-body-of-glob.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-07T10:06:06Z"
+    },
+    {
+      "title": "Guldhøj folding chair: The only completely preserved chair from Bronze Age Europe",
+      "link": "https://www.livescience.com/archaeology/guldhoj-folding-chair-the-only-completely-preserved-chair-from-bronze-age-europe",
+      "summary": "The remarkably preserved wooden folding chair was likely a status symbol and was found in the grave of a Bronze Age chieftain.",
+      "date": "2026-09-07T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/4SL6x6sxtmZnKTPoNeV5k5-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-09-07T10:06:07Z"
+    },
     {
       "title": "Laughter therapy may help people with chronic lung disease",
       "link": "https://www.newscientist.com/article/2587748-laughter-therapy-may-help-people-with-chronic-lung-disease/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -5469,39 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-08-28T04:10:10Z"
-    },
-    {
-      "title": "Experience: I brought a bear back to life",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/aug/28/experience-i-brought-a-bear-back-to-life",
-      "summary": "I was in India, performing dentistry on my first animal patient, and it was supposed to be a straightforward operation I’ve been a dentist for 40 years. I spend most of my time tre",
-      "date": "2026-08-28T04:00:50Z",
-      "image": "https://i.guim.co.uk/img/media/fb4c6ced2a79cc657677814735627ae312967140/1353_0_6800_5440/master/6800.jpg?width=140&quality=85&auto=format&fit=max&s=4327ea4eba1bf9b5ab5feedb19964920",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-28T04:10:14Z"
-    },
-    {
-      "title": "‘Nature thrives when given a chance’: restored Cheshire wetland now a haven for rare grebe",
-      "link": "https://www.theguardian.com/environment/2026/aug/28/woolston-eyes-cheshire-wetland-black-necked-grebe",
-      "summary": "Woolston Eyes in Warrington, a dumping ground for canal dredgings, has become best place in UK for black-necked grebe A dumping ground for dredgings from the Manchester Ship Canal ",
-      "date": "2026-08-28T04:00:47Z",
-      "image": "https://i.guim.co.uk/img/media/330f1d0f7580821b8824ce04da72337f750da7c7/0_649_1672_1338/master/1672.jpg?width=140&quality=85&auto=format&fit=max&s=e94dc4fb5325e85f4634257c2b940d93",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-28T04:10:14Z"
-    },
-    {
-      "title": "A Cyclist Was Stranded in Extreme Heat. A Memorial Shelter Saved Them",
-      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/palisade-plunge-rescue-memorial-shelter/",
-      "summary": "A stranded mountain biker on Colorado's Palisade Plunge found life-saving shade at a memorial shelter built for a rider who died on the same trail. The post A Cyclist Was Stranded ",
-      "date": "Thu, 27 Aug 2026 23Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/shelter.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-28T04:10:20Z"
     }
   ]
 }
