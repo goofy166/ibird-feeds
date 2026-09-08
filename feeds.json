@@ -1,8 +1,41 @@
 {
-  "updated": "2026-09-07T23:24:27Z",
-  "updated_utc": "2026-09-07T23:24:27Z",
+  "updated": "2026-09-08T04:14:07Z",
+  "updated_utc": "2026-09-08T04:14:07Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘We have really cool sharks’: three-year project to lift lid on Britain’s little-understood species",
+      "link": "https://www.theguardian.com/environment/2026/sep/08/science-research-uk-vulnerable-sharks-anglers",
+      "summary": "Anglers will help scientists investigate the porbeagle, tope and blue shark to boost knowledge and conservation ‘We have really cool sharks,” says Dr Lucy Hawkes. She is not referr",
+      "date": "2026-09-08T04:00:27Z",
+      "image": "https://i.guim.co.uk/img/media/d82eb19faec4b7cad8a0cd69ec77485d7594e9c8/278_0_4222_3378/master/4222.jpg?width=140&quality=85&auto=format&fit=max&s=643e0df7c08eb32d322ce1275b8e3346",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-08T04:13:52Z"
+    },
+    {
+      "title": "How beavers can help create fire breaks as part of a drought preparation plan",
+      "link": "https://phys.org/news/2026-09-beavers-drought.html",
+      "summary": "Most of the countryside around the Holnicote estate in Somerset has been dry and dusty for most of the summer. But one corner remains conspicuously green.",
+      "date": "2026-09-08T02:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/beaver-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-08T04:14:03Z"
+    },
+    {
+      "title": "Changing the antibiotic playbook to catch an ESKAPE artist",
+      "link": "https://phys.org/news/2026-09-antibiotic-playbook-eskape-artist.html",
+      "summary": "Nearly a century ago, a single colony of Staphylococcus aureus (S. aureus) helped launch the antibiotic age. In 1928, Alexander Fleming returned to his London lab to find that a st",
+      "date": "2026-09-08T01:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/changing-the-antibioti.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-08T04:14:03Z"
+    },
     {
       "title": "Park rangers and residents speak up to save Togo's last national park",
       "link": "https://phys.org/news/2026-09-rangers-residents-togo-national.html",
@@ -5467,39 +5500,6 @@
       "image": "https://th-thumbnailer.cdn-si-edu.com/qfEIPJP2gHqqrpZvN1RoNB1NAr8=/420x240/filters:focal(700x400:701x401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f0/fe/f0fe19e4-e68b-474d-b0a4-19c5beb9d19d/speedy-star.webp",
       "name": "Smithsonian",
       "category": "butterflies",
-      "color": 10,
-      "fetched_at": "2026-08-28T17:17:43Z"
-    },
-    {
-      "title": "A Landlord Found a Peculiar Print Hanging in a Vacant Apartment. It Turned Out to Be an Original Picasso That Had Been Missing for Eight Years",
-      "link": "https://www.smithsonianmag.com/smart-news/a-landlord-found-a-peculiar-print-hanging-in-a-vacant-apartment-it-turned-out-to-be-an-original-picasso-print-that-had-been-missing-for-eight-years-180989417/",
-      "summary": "When \"Torero\" vanished from a Milwaukee art gallery in 2018, the owners didn't know whether they'd ever see it again. The man who found the etching turned it over to the police ear",
-      "date": "2026-08-28T15:37:31Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/QqOzuAhc8_7sDfJMOZXd_7ggibg=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e9/38/e938158b-f130-4222-9bc7-a6b11a5a8354/picasso_print.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-28T17:17:43Z"
-    },
-    {
-      "title": "When Fruit Is Scarce, These Monkeys Hunt Animals. The Behavior May Offer Clues About the Origins of Humans' Meat-Eating Habits",
-      "link": "https://www.smithsonianmag.com/smart-news/when-fruit-is-scarce-these-monkeys-hunt-animals-the-behavior-may-offer-clues-about-the-origins-of-humans-meat-eating-habits-180989412/",
-      "summary": "The bearded capuchins of northeastern Brazil typically eat plant-based foods, but they turn to small vertebrates when those sources are limited. Our ancestors may have done the sam",
-      "date": "2026-08-28T14:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/_SxIzXx5E4NbpLFv_AW5VhHfTZw=/420x240/filters:focal(1936x1309:1937x1310)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/09/db/09dba898-5ce8-4705-a26f-94aa75051dc6/capuchin_birdprey.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-08-28T17:17:43Z"
-    },
-    {
-      "title": "These Enchanting and Colorful Photos of Seashells and the Mollusks That Create Them Will Have You Marveling at the Natural World",
-      "link": "https://www.smithsonianmag.com/science-nature/enchanting-colorful-photos-seashells-mollusks-who-create-them-have-you-marveling-at-natural-world-180989291/",
-      "summary": "Before they become sandy souvenirs, the baubles in the bubbles of the shoreline serve as a veritable fortress for creatures like clams, mussels and conchs",
-      "date": "2026-08-28T12:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/hOV8t69fGAmdvYTjDO1Xo-r2nkU=/420x240/filters:focal(2250x1500:2251x1501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f2/ec/f2ec020f-24c3-4f7a-9eb6-28bf60c38489/djm_5654.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
       "color": 10,
       "fetched_at": "2026-08-28T17:17:43Z"
     }
