@@ -1,8 +1,96 @@
 {
-  "updated": "2026-09-08T04:14:07Z",
-  "updated_utc": "2026-09-08T04:14:07Z",
+  "updated": "2026-09-08T09:30:07Z",
+  "updated_utc": "2026-09-08T09:30:07Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘So big and so close’: going on a bear hunt in northern Spain",
+      "link": "https://www.theguardian.com/travel/2026/sep/08/brown-bear-conservation-tourism-northern-spain-asturias",
+      "summary": "Conservationists have helped Cantabrian brown bears claw their way back from the edge of extinction in the beautiful mountains of Asturias – and carefully controlled nature tourism",
+      "date": "2026-09-08T06:00:28Z",
+      "image": "https://i.guim.co.uk/img/media/e3b8c57d06484d796b21bee9aff3cf6449ee2724/674_0_4626_3701/master/4626.jpg?width=140&quality=85&auto=format&fit=max&s=eb0cf91d3643af4352265dfe83e566d9",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-08T09:29:52Z"
+    },
+    {
+      "title": "How many stars can you see on a moonless night?",
+      "link": "https://earthsky.org/astronomy-essentials/how-many-stars-could-you-see-on-a-clear-moonless-night/",
+      "summary": "Have you ever wondered how many stars are visible on a given night? It depends on factors including how dark your sky is and what your age is. The post How many stars can you see o",
+      "date": "Tue, 08 Sep 2026 08Z",
+      "image": "https://earthsky.org/upl/2025/04/Lyrids_April_2025-Jeremy-Evans-California.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-09-08T09:29:53Z"
+    },
+    {
+      "title": "The danger of viewing the cosmos as a mirror that shows us ourselves",
+      "link": "https://www.newscientist.com/article/2586903-the-danger-of-viewing-the-cosmos-as-a-mirror-that-shows-us-ourselves/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "It is only natural to view the world, or even the entire universe, through the lens of humanity – we’re human, after all. But columnist Chanda Prescod-Weinstein says we can appreci",
+      "date": "Tue, 08 Sep 2026 08Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309676715.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-09-08T09:30:02Z"
+    },
+    {
+      "title": "Super-resolution imaging reveals that cohesin prevents local mixing of compact, active genome domains",
+      "link": "https://phys.org/news/2026-09-super-resolution-imaging-reveals-cohesin.html",
+      "summary": "The human genome is about two meters (6.6 feet) long, yet it is folded inside a cell nucleus only about 10 micrometers in diameter. To fit into this tiny space, DNA is wrapped arou",
+      "date": "2026-09-08T09:00:09Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/active-genome-regions.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-08T09:30:04Z"
+    },
+    {
+      "title": "Worm's radical transformation shows metamorphosis can change the functions of cells",
+      "link": "https://phys.org/news/2026-09-worm-radical-metamorphosis-functions-cells.html",
+      "summary": "A squishy worm that starts its life as something of a floating head in the Pacific Ocean is changing what scientists know about metamorphosis at the cellular level.",
+      "date": "2026-09-08T09:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/worms-radical-transfor.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-08T09:30:04Z"
+    },
+    {
+      "title": "AI model decodes cell signaling fingerprints across diverse cell types",
+      "link": "https://phys.org/news/2026-09-ai-decodes-cell-fingerprints-diverse.html",
+      "summary": "As an embryo develops from a small cluster of stem cells, those once \"blank slate\" cells begin to take on more specialized roles like brain, liver or muscle cells and organize them",
+      "date": "2026-09-08T09:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-model-decodes-the-l.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-08T09:30:04Z"
+    },
+    {
+      "title": "25 years ago, a NASA astronaut captured this haunting photo of the 9/11 attacks — Earth from space",
+      "link": "https://www.livescience.com/planet-earth/25-years-ago-a-nasa-astronaut-captured-this-haunting-photo-of-the-9-11-attacks-earth-from-space",
+      "summary": "During the Sept. 11 attacks, NASA astronaut Frank Culbertson — the only American not on Earth at the time — snapped a \"sobering\" shot of smoke pouring across New York City as the s",
+      "date": "Tue, 08 Sep 2026 07Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/JiTsRJU5J5Q9ZstieJN9AD-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-09-08T09:30:05Z"
+    },
+    {
+      "title": "Eerily humanlike AI-powered robot enters mass production in China — its makers say it could soon be helping you out at home",
+      "link": "https://www.livescience.com/technology/robotics/eerily-humanlike-ai-powered-robot-enters-mass-production-in-china-its-makers-say-it-could-soon-be-helping-you-out-at-home",
+      "summary": "Xpeng's engineers have designed a humanoid robot that they say is the first in the world that will walk itself off the production line.",
+      "date": "Tue, 08 Sep 2026 06Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/7mfrHMxWeRSuWQWwX3nrXm-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-09-08T09:30:05Z"
+    },
     {
       "title": "‘We have really cool sharks’: three-year project to lift lid on Britain’s little-understood species",
       "link": "https://www.theguardian.com/environment/2026/sep/08/science-research-uk-vulnerable-sharks-anglers",
@@ -5414,94 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-08-28T17:17:37Z"
-    },
-    {
-      "title": "Meet a Saturn-sized exoplanet with Earth-like temperatures",
-      "link": "https://earthsky.org/space/saturn-sized-exoplanet-earth-like-temperatures-toi-199b-methane/",
-      "summary": "TOI-199b is a warm Saturn-sized exoplanet 330 light-years away. New observations by the Webb space telescope show there is methane in its atmosphere. The post Meet a Saturn-sized e",
-      "date": "2026-08-28T11:52:58Z",
-      "image": "https://earthsky.org/upl/2026/05/gas-giant-exoplanet-star-artist-concept-May-20-2026-1.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-08-28T17:17:37Z"
-    },
-    {
-      "title": "Huge rift valleys on Venus hint at a still-living planet",
-      "link": "https://earthsky.org/space/rift-valleys-on-venus-rift-flanks-geology/",
-      "summary": "A new study of huge rift valleys on Venus shows that they are likely younger than previously thought, and might still be geologically active today. The post Huge rift valleys on Ve",
-      "date": "2026-08-28T11:23:55Z",
-      "image": "https://earthsky.org/upl/2026/07/rift-valleys-Venus-Magellan-June-4-1998.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-08-28T17:17:37Z"
-    },
-    {
-      "title": "The Wild Duck cluster, M11, a lovely open cluster in Scutum",
-      "link": "https://earthsky.org/clusters-nebulae-galaxies/wild-duck-cluster-deep-sky-gem-by-eagles-tail/",
-      "summary": "The Wild Duck cluster, also known as M11, is an open star cluster in the constellation Scutum that appears best through binoculars or a telescope. The post The Wild Duck cluster, M",
-      "date": "2026-08-28T10:00:55Z",
-      "image": "https://earthsky.org/upl/2014/07/Messier-11-ESO.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-08-28T17:17:37Z"
-    },
-    {
-      "title": "The Ultimate Adventure Weekend",
-      "link": "https://www.outsideonline.com/culture/active-families/the-ultimate-adventure-weekend/",
-      "summary": "Legendary vehicles. Live music. Off-roading and mountain biking and films and campfire feasts. It’s an epic weekend. It’s Destination Defender. The post The Ultimate Adventure Week",
-      "date": "2026-08-28T16:01:47Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/WAVM3480-scaled-e1787771098297.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-28T17:17:41Z"
-    },
-    {
-      "title": "Jack Johnson Is 51. Surfing Keeps Him Fit, but Farming Gave Him Something He Didn’t Expect.",
-      "link": "https://www.outsideonline.com/culture/essays-culture/jack-johnson-kokua-farms/",
-      "summary": "Mellow rock star Jack Johnson shares how, beyond surfing and making music, farming on O‘ahu’s North Shore has given a new outdoor dimension to his life. The post Jack Johnson Is 51",
-      "date": "2026-08-28T15:27:40Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/JackandKimJohnsonKokua.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-28T17:17:41Z"
-    },
-    {
-      "title": "This All-In One Camp Kitchen Comes With Running Water at the Push of a Button",
-      "link": "https://www.outsideonline.com/outdoor-gear/camping/cinch-kitchen-cruiser-camp-kitchen-review/",
-      "summary": "The Cinch Kitchen Cruiser isn't perfect—but the standing-height prep space, sink, and faucet more than make up for its flaws. The post This All-In One Camp Kitchen Comes With Runni",
-      "date": "2026-08-28T12:00:40Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/Cinch-Kitchen-Cruiser-2_Wiegand.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-28T17:17:41Z"
-    },
-    {
-      "title": "The 16 Best Deals at the REI Labor Day Sale",
-      "link": "https://www.outsideonline.com/outdoor-gear/gear-news/rei-labor-day-sale-2026/",
-      "summary": "REI’s Labor Day Sale is a big deal amongst gear heads. Namely because it’s full of big deals. The post The 16 Best Deals at the REI Labor Day Sale appeared first on Outside Online ",
-      "date": "2026-08-28T10:08:03Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/OOL-Deal-Tile-C-2400x1350-4.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-28T17:17:41Z"
-    },
-    {
-      "title": "This Star Orbits Our Galaxy's Heart at a Record-Breaking Speed—and Could Help Uncover Secrets About the Behemoth Black Hole There",
-      "link": "https://www.smithsonianmag.com/smart-news/this-star-orbits-our-galaxys-heart-at-a-record-breaking-speed-and-could-help-uncover-secrets-about-the-behemoth-black-hole-there-180989393/",
-      "summary": "The speedster travels at up to 56 million miles per hour, or about 8 percent the speed of light. It also gets very close to the supermassive black hole at the center of the Milky W",
-      "date": "2026-08-28T15:45:08Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/qfEIPJP2gHqqrpZvN1RoNB1NAr8=/420x240/filters:focal(700x400:701x401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f0/fe/f0fe19e4-e68b-474d-b0a4-19c5beb9d19d/speedy-star.webp",
-      "name": "Smithsonian",
-      "category": "butterflies",
-      "color": 10,
-      "fetched_at": "2026-08-28T17:17:43Z"
     }
   ]
 }
