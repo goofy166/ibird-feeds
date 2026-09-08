@@ -1,8 +1,74 @@
 {
-  "updated": "2026-09-08T21:45:10Z",
-  "updated_utc": "2026-09-08T21:45:10Z",
+  "updated": "2026-09-08T23:59:50Z",
+  "updated_utc": "2026-09-08T23:59:50Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Recent Research Says That Climbing Can Reduce Depression and Anxiety",
+      "link": "https://www.outsideonline.com/health/training-performance/recent-research-says-that-climbing-can-reduce-depression-and-anxiety/",
+      "summary": "New research shows structured bouldering therapy can significantly reduce anxiety and depression. Here is how climbing interrupts rumination and clears mental fog. The post Recent ",
+      "date": "Tue, 08 Sep 2026 22Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/person-rock-climbing.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-09-08T23:59:40Z"
+    },
+    {
+      "title": "Colorado’s Maroon Bells Are Closed After a Second Climber Has Died in Less Than a Week",
+      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/maroon-bells-closed-two-climber-deaths/",
+      "summary": "Access to Maroon Peak is closed as Mountain Rescue Aspen recovers a deceased climber—the second fatal fall on Colorado’s 14ers in under a week. The post Colorado’s Maroon Bells Are",
+      "date": "Tue, 08 Sep 2026 22Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/maroon-bells-2.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-09-08T23:59:40Z"
+    },
+    {
+      "title": "Common painkiller use in early pregnancy linked to smaller ovaries and testes",
+      "link": "https://www.newscientist.com/article/2588178-common-painkiller-use-in-early-pregnancy-linked-to-smaller-ovaries-and-testes/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Taking the painkiller paracetamol (acetaminophen) during pregnancy has been linked to smaller ovaries and testes in baby girls and boys, but that doesn't mean it directly caused th",
+      "date": "Tue, 08 Sep 2026 23Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311333246.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-09-08T23:59:44Z"
+    },
+    {
+      "title": "Researchers rewire ribosomes to specialize in one protein",
+      "link": "https://phys.org/news/2026-09-rewire-ribosomes-specialize-protein.html",
+      "summary": "Every cell relies on ribosomes, the molecular machines that read genetic instructions and use them to assemble proteins. A cell needs thousands of types of proteins at any one time",
+      "date": "2026-09-08T23:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uic-researchers-rewire.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-08T23:59:46Z"
+    },
+    {
+      "title": "When disaster strikes, what happens to our pets?",
+      "link": "https://phys.org/news/2026-09-disaster-pets.html",
+      "summary": "As large-scale disasters—including earthquakes, torrential rains, typhoons and wildfires—become increasingly frequent, ensuring that pets as well as their owners can evacuate safel",
+      "date": "2026-09-08T23:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-disaster-strikes-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-08T23:59:46Z"
+    },
+    {
+      "title": "Untangling the meta-biomaterial puzzle one property at a time",
+      "link": "https://phys.org/news/2026-09-untangling-meta-biomaterial-puzzle-property.html",
+      "summary": "From repairing damaged tissues to developing better implants, many medical developments depend on materials that can mimic the complex properties of human tissue. Meta-biomaterials",
+      "date": "2026-09-08T23:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/untangling-the-meta-bi-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-08T23:59:46Z"
+    },
     {
       "title": "To Speak the Language of the Land",
       "link": "https://hakaimagazine.com/features/to-speak-the-language-of-the-land/",
@@ -5436,72 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-08-31T13:24:32Z"
-    },
-    {
-      "title": "Crown of Kerch: A 1,600-year-old gold, gem-studded diadem found in the grave of a Hun noblewoman",
-      "link": "https://www.livescience.com/archaeology/crown-of-kerch-a-1-600-year-old-gold-gem-studded-diadem-found-in-the-grave-of-a-hun-noblewoman",
-      "summary": "This crown depicts two birds of prey and was discovered in the grave of a fifth-century noblewoman in Crimea.",
-      "date": "2026-08-31T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/9rEKJV9sA9dMFu4ZUJMHYe-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-31T13:24:32Z"
-    },
-    {
-      "title": "Planting crops in fields of solar panels is more efficient, protects the plants and helps keep workers cool, study finds",
-      "link": "https://www.livescience.com/technology/electronics/planting-crops-in-fields-of-solar-panels-is-more-efficient-protects-the-plants-and-helps-keep-workers-cool-study-finds",
-      "summary": "A new model simulates the benefits of agrivoltaic farming, in which solar panels and crops share the same land.",
-      "date": "2026-08-31T09:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/GyDLnEdzdNxUv3TZjpKxbP-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-31T13:24:32Z"
-    },
-    {
-      "title": "‘It was like fighting a dinosaur’: Sydney shark attack survivor recalls left hook that helped save her life",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/31/it-was-like-fighting-a-dinosaur-sydney-shark-attack-survivor-recalls-left-hook-that-helped-save-her-life",
-      "summary": "Leah Stewart, who was bitten while swimming at Coogee beach, says she asked herself which limb she was ‘willing to lose’ as she fought back An Australian woman who lost an arm afte",
-      "date": "2026-08-31T05:01:26Z",
-      "image": "https://i.guim.co.uk/img/media/25433135061085fd870b5ac4f2932eefc92102c9/16_0_508_406/master/508.jpg?width=140&quality=85&auto=format&fit=max&s=191dbb019e56eedaa455423bb44aec9f",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-31T05:09:54Z"
-    },
-    {
-      "title": "Country diary: For the gannets of Bass Rock, it’s a slow road to recovery | Lev Parikian",
-      "link": "https://www.theguardian.com/environment/2026/aug/31/country-diary-for-the-gannets-of-bass-rock-its-a-slow-road-to-recovery",
-      "summary": "North Berwick, East Lothian: As I admire the aerial feats of house martins in Tantallon Castle, my eye is drawn across the water The sign asks us not to disturb the birds. Understa",
-      "date": "2026-08-31T04:30:15Z",
-      "image": "https://i.guim.co.uk/img/media/262f6f8c90baa16f0b85ba975ee55da1814e7f88/700_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=6b4088ea7d53c492ca67111aef1bbbf7",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-08-31T05:09:54Z"
-    },
-    {
-      "title": "Using data to help wheat growers adapt to unpredictable weather",
-      "link": "https://phys.org/news/2026-08-wheat-growers-unpredictable-weather.html",
-      "summary": "For generations, wheat planting has followed predictable seasonal patterns. But this year, unseasonably warm weather in March and April accelerated wheat growth, pushing the crop i",
-      "date": "2026-08-31T00:30:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-data-to-help-whe.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-31T05:10:06Z"
-    },
-    {
-      "title": "The Grand Canyon Was Rocked by a Flash Flood. More than 20 Hikers Are Missing.",
-      "link": "https://www.outsideonline.com/uncategorized/the-grand-canyon-was-rocked-by-a-flash-flood-more-than-20-hikers-are-missing/",
-      "summary": "A flash flood in the Grand Canyon left over 20 people missing, destroyed key footbridges, and forced mass evacuations near Phantom Ranch. The post The Grand Canyon Was Rocked by a ",
-      "date": "2026-08-30T21:25:10Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/flood-nps.jpeg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-08-30T23:21:14Z"
     }
   ]
 }
