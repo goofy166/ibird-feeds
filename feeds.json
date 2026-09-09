@@ -1,8 +1,74 @@
 {
-  "updated": "2026-09-08T23:59:50Z",
-  "updated_utc": "2026-09-08T23:59:50Z",
+  "updated": "2026-09-09T04:31:33Z",
+  "updated_utc": "2026-09-09T04:31:33Z",
   "count": 500,
   "stories": [
+    {
+      "title": "GPS collars reveal secrets of the power struggle between lions and hyenas in the wild",
+      "link": "https://phys.org/news/2026-09-gps-collars-reveal-secrets-power.html",
+      "summary": "Hidden deep in the bush, ranging over huge territories at speeds humans can't match and through terrain not even the most rugged vehicle can handle, hyenas and lions are hard to st",
+      "date": "2026-09-09T04:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gps-collars-reveal-sec.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-09T04:31:29Z"
+    },
+    {
+      "title": "Chesapeake Bay underwater grasses increase 7%, buoyed by gains in salty waters",
+      "link": "https://phys.org/news/2026-09-chesapeake-bay-underwater-grasses-buoyed.html",
+      "summary": "Submerged aquatic vegetation (SAV), one of the Chesapeake Bay's most important indicators of ecosystem health, increased by 7% in 2025, according to researchers at William & Mary's",
+      "date": "2026-09-09T02:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chesapeake-bay-underwa.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-09T04:31:29Z"
+    },
+    {
+      "title": "New computational method pushes cryo-electron microscopy beyond traditional resolution limits",
+      "link": "https://phys.org/news/2026-09-method-cryo-electron-microscopy-traditional.html",
+      "summary": "Cryo-electron microscopy (cryo-EM) has become a powerful tool for determining the structures of proteins, viruses and molecular complexes at near-atomic resolution. However, achiev",
+      "date": "2026-09-09T01:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-computational-meth.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-09T04:31:29Z"
+    },
+    {
+      "title": "Tiny backpacks reveal the secret, sometimes circuitous migrations of small songbirds",
+      "link": "https://phys.org/news/2026-09-tiny-backpacks-reveal-secret-circuitous.html",
+      "summary": "Squinting through my binoculars, I scanned the dense branches of a black spruce, trying my best to catch a glimpse of the thin legs of a small black, white and yellow songbird. I w",
+      "date": "2026-09-09T01:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-backpacks-reveal-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-09T04:31:29Z"
+    },
+    {
+      "title": "Searching for unknown fungi in the Norwegian mountains",
+      "link": "https://phys.org/news/2026-09-unknown-fungi-norwegian-mountains.html",
+      "summary": "During some days in August, science takes center stage. The experts are surveying the little-known diversity of fungi found in the alpine Dryas heath. They may even discover specie",
+      "date": "2026-09-09T00:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/searching-for-unknown.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-09T04:31:29Z"
+    },
+    {
+      "title": "One of the oldest known 3D animal fossils found in Norwegian sheep field",
+      "link": "https://phys.org/news/2026-09-oldest-3d-animal-fossils-norwegian.html",
+      "summary": "One of the oldest known 3D fossils of an animal has been discovered in a sheep field in the Norwegian Arctic, the first new major site of its kind anywhere in Europe in decades.",
+      "date": "2026-09-09T00:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-of-the-oldest-know.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-09T04:31:29Z"
+    },
     {
       "title": "Recent Research Says That Climbing Can Reduce Depression and Anxiety",
       "link": "https://www.outsideonline.com/health/training-performance/recent-research-says-that-climbing-can-reduce-depression-and-anxiety/",
@@ -5436,72 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-08-31T13:24:26Z"
-    },
-    {
-      "title": "Should we all be taking low doses of lithium to prevent Alzheimer’s?",
-      "link": "https://www.newscientist.com/article/2586894-should-we-all-be-taking-low-doses-of-lithium-to-prevent-alzheimers/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Animal studies have shown that lithium orotate could help stave off dementia, and a human trial is about to start to see if the effects hold. Columnist Alice Klein takes a look at ",
-      "date": "2026-08-31T08:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309676623.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-08-31T13:24:28Z"
-    },
-    {
-      "title": "Coral recovery time cut short by warming oceans",
-      "link": "https://phys.org/news/2026-08-coral-recovery-short-oceans.html",
-      "summary": "Given enough time, coral reefs can recover from cyclones, bleaching and other destructive events. But a new report released today suggests they are losing that time. The \"Status of",
-      "date": "2026-08-31T13:20:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/coral-recovery-time-cu.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-31T13:24:31Z"
-    },
-    {
-      "title": "The mystery of a well-traveled kissing bug",
-      "link": "https://phys.org/news/2026-08-mystery-bug.html",
-      "summary": "On an August morning last year, an American couple soon to embark on a European river cruise awoke in a luxury hotel in Lisbon.",
-      "date": "2026-08-31T12:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-mystery-of-a-well.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-31T13:24:31Z"
-    },
-    {
-      "title": "What happens next with bird flu? An expert explains why monitoring matters",
-      "link": "https://phys.org/news/2026-08-bird-flu-expert.html",
-      "summary": "The lethal H5N1 strain of avian influenza is rapidly spreading along the coast of southern Australia, where it has killed thousands of wild birds and infected at least two long-nos",
-      "date": "2026-08-31T11:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/heron.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-31T13:24:31Z"
-    },
-    {
-      "title": "Not tiger, not wolf: Australian thylacine skull reveals a far different hunting style",
-      "link": "https://phys.org/news/2026-08-tiger-wolf-australian-thylacine-skull.html",
-      "summary": "A new study led by Flinders University has flipped the historical narrative about Australia's thylacine, finding the native apex predator known as the \"Tasmanian tiger\" was signifi",
-      "date": "2026-08-31T09:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/not-tiger-not-wolf-aus-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-08-31T13:24:31Z"
-    },
-    {
-      "title": "Scientists build tiny robots without motors that can fly using sound waves alone",
-      "link": "https://www.livescience.com/technology/robotics/scientists-build-tiny-robots-without-motors-that-can-fly-using-sound-waves-alone",
-      "summary": "A century-old trick for tuning musical instruments has been repurposed to power robots that fly, float and steer themselves using nothing but sound waves.",
-      "date": "2026-08-31T11:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/FtDwPcCmwJ5VnxsncKzaLU-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-08-31T13:24:32Z"
     }
   ]
 }
