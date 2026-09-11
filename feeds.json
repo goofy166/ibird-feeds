@@ -1,8 +1,41 @@
 {
-  "updated": "2026-09-10T22:25:00Z",
-  "updated_utc": "2026-09-10T22:25:00Z",
+  "updated": "2026-09-11T00:54:37Z",
+  "updated_utc": "2026-09-11T00:54:37Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The hunt for unknown life in New York City",
+      "link": "https://phys.org/news/2026-09-unknown-life-york-city.html",
+      "summary": "The globe is full of unknown species. But is it really possible to find a completely new animal species in the middle of the largest city in the United States?",
+      "date": "2026-09-11T00:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-hunt-for-unknown-l.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-11T00:54:33Z"
+    },
+    {
+      "title": "Scientists visualize proteins' hidden water architecture that may help define biological function",
+      "link": "https://phys.org/news/2026-09-scientists-visualize-proteins-hidden-architecture.html",
+      "summary": "For decades, scientists have understood proteins primarily through two defining features: their amino acid sequence and their three-dimensional structure. This framework has driven",
+      "date": "2026-09-11T00:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-directly-vi-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-11T00:54:33Z"
+    },
+    {
+      "title": "Rare bird fossils from Bavaria reveal new species, including an eagle",
+      "link": "https://phys.org/news/2026-09-rare-bird-fossils-bavaria-reveal.html",
+      "summary": "The Hammerschmiede clay pit near Pforzen in the eastern Allgäu is famous for its wealth of finds: Besides fossils of two early anthropoid apes, the remains of numerous vertebrate s",
+      "date": "2026-09-10T23:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/skull-with-reconstruct.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-11T00:54:33Z"
+    },
     {
       "title": "Why is the Male Red Cardinal is so Bright – you may be surprised",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/why-is-the-male-red-cardinal-is-so-bright-you-may-be-surprised/",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-09-02T14:16:31Z"
-    },
-    {
-      "title": "Corals Reveal El Niño Events Have Become Stronger in Recent Decades, Probably Because Humans Have Been Heating Up the Planet",
-      "link": "https://www.smithsonianmag.com/smart-news/corals-reveal-el-nino-events-have-become-stronger-in-recent-decades-probably-because-humans-have-been-heating-up-the-planet-180989432/",
-      "summary": "Researchers used elements trapped within Galápagos corals to understand natural swings in the climate over the past millennium. They hint that variability has gone up over the past",
-      "date": "2026-09-02T14:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/zpRS0CYyAvRXeELj2MEovQ-UWqA=/420x240/filters:focal(1000x876:1001x877)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/95/51/9551ee70-228c-4dbe-9da9-47fdec6f5069/coral-underwater-sample.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-09-02T14:16:32Z"
-    },
-    {
-      "title": "Spain’s White-Headed Ducks Have a Signature Color Right in the Name. And That Isn’t Even Their Most Remarkable Hue",
-      "link": "https://www.smithsonianmag.com/science-nature/spain-white-headed-ducks-signature-color-right-name-that-isnt-even-most-remarkable-hue-180989289/",
-      "summary": "The first thing you’re likely to notice is the blue bill. But beyond appearances, the duck has an exciting story to tell about conservation and recovery",
-      "date": "2026-09-02T13:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/lwa8Qgj_-LrGa7Z4N1yGuHhzaps=/420x240/filters:focal(1350x900:1351x901)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4b/ad/4bad4ddf-a163-43bb-a53b-b04d0329f13c/new_dsc3177_copia.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-09-02T14:16:32Z"
-    },
-    {
-      "title": "Reptiles Make a Surprising Amount of Noise. Here's What Those Sounds Might Mean, From Pops to Hoots to Bellows",
-      "link": "https://www.smithsonianmag.com/science-nature/reptiles-make-a-surprising-amount-of-noise-heres-what-those-sounds-might-mean-from-pops-to-hoots-to-bellows-180989422/",
-      "summary": "Scientists are realizing that turtles, lizards and crocodilians communicate vocally more than they once thought",
-      "date": "2026-09-02T11:30:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/ICKJhWaXbqooVZtIucovtNW41kM=/420x240/filters:focal(1024x688:1025x689)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2d/e6/2de6b572-7cca-4578-a75e-9a792b3f697a/8501263358_87b6347c3a_k.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-09-02T14:16:32Z"
     }
   ]
 }
