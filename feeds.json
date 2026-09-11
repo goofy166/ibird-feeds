@@ -1,8 +1,41 @@
 {
-  "updated": "2026-09-11T00:54:37Z",
-  "updated_utc": "2026-09-11T00:54:37Z",
+  "updated": "2026-09-11T05:46:38Z",
+  "updated_utc": "2026-09-11T05:46:38Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Writers Wanted!",
+      "link": "https://www.10000birds.com/writers-wanted-3.htm?utm_source=rss&utm_medium=rss&utm_campaign=writers-wanted-3",
+      "summary": "Don’t let the ugly poster put you off! Blame ChatGPT for it!We are still looking for regular writers for 10,000 Birds. A great opportunity for birders, bird guides, and bird tour c",
+      "date": "2026-09-11T03:00:36Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/09/60d6c7e7-df72-449c-b3ae-80be28503fbe.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-09-11T05:46:17Z"
+    },
+    {
+      "title": "Iceland to submit bill that could ban whaling in its waters",
+      "link": "https://www.theguardian.com/environment/2026/sep/11/iceland-bill-commercial-whaling-ban-mounting-pressure",
+      "summary": "The country is one of just three that still permits commercial whaling, while its government has faced mounting pressure to ban the practice Iceland will submit a bill in February ",
+      "date": "2026-09-11T05:00:01Z",
+      "image": "https://i.guim.co.uk/img/media/336ba8f289350a73ebe8d173cbe8592780c07624/680_0_4581_3665/master/4581.jpg?width=140&quality=85&auto=format&fit=max&s=7c1db9a82505d5196555b346353d2f20",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-11T05:46:22Z"
+    },
+    {
+      "title": "Tasmanian devils lived alongside humans in Pilbara for millennia, Juukan Gorge fossils reveal",
+      "link": "https://www.theguardian.com/environment/2026/sep/11/tasmanian-devils-lived-alongside-humans-in-pilbara-for-millennia-juukan-gorge-fossils-reveal",
+      "summary": "Researchers find fossils ranging from 7,000 years to 46,000 years old showing evidence that devils may have become reliant on humans for scavenging Tasmanian devils lived alongside",
+      "date": "2026-09-11T04:59:14Z",
+      "image": "https://i.guim.co.uk/img/media/ca3ab23c64373b128baef8ac16de98e31c9b46fe/1102_0_7163_5734/master/7163.jpg?width=140&quality=85&auto=format&fit=max&s=e6aecd73cb473fb2a88f98386d4e1308",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-11T05:46:22Z"
+    },
     {
       "title": "The hunt for unknown life in New York City",
       "link": "https://phys.org/news/2026-09-unknown-life-york-city.html",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-09-02T14:16:26Z"
-    },
-    {
-      "title": "Sick sea lions washing up in southern Santa Cruz, Monterey counties",
-      "link": "https://www.mercurynews.com/2026/09/02/sick-sea-lions-washing-up-in-southern-santa-cruz-monterey-counties/",
-      "summary": "Over the past week, a wave of California sea lions and some fur seals have turned up on Monterey and Santa Cruz County beaches with abnormal neurological symptoms, according to the",
-      "date": "2026-09-02T13:09:46Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/STC-L-CHDOMOICSURGE-0902.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-09-02T14:16:29Z"
-    },
-    {
-      "title": "Where do rattlesnakes go when it’s hot in California? We asked the experts",
-      "link": "https://www.mercurynews.com/2026/09/02/where-do-rattlesnakes-go-when-its-hot-in-california-we-asked-the-experts-2/",
-      "summary": "When the temperature soars in California , people and pets stay indoors, seek out air-conditioned spots or head the nearest lake, river or swimming pool. What about rattlesnakes?",
-      "date": "2026-09-02T12:10:31Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/202608091922MCT_____PHOTO____US-NEWS-ENV-CALIF-RATTLESNAKES-FILEPIC-FR.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-09-02T14:16:29Z"
-    },
-    {
-      "title": "This BOTE Paddleboard Is Seriously Fun–And Seriously On Sale",
-      "link": "https://www.outsideonline.com/outdoor-gear/water-sports-gear/bote-wulf-aero-paddleboard-review-sale/",
-      "summary": "We took Bote's Wulf for a spin in Lake Tahoe, and this SUP is perfect for beginners looking to get into the water. It's also heavily discounted during Bote's Labor Day sale. The po",
-      "date": "2026-09-02T10:13:07Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/bote-wulf-paddleboard.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-09-02T14:16:31Z"
     }
   ]
 }
