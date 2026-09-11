@@ -1,8 +1,151 @@
 {
-  "updated": "2026-09-11T05:46:38Z",
-  "updated_utc": "2026-09-11T05:46:38Z",
+  "updated": "2026-09-11T11:03:13Z",
+  "updated_utc": "2026-09-11T11:03:13Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Species Spotlight: Song Sparrow",
+      "link": "https://www.10000birds.com/species-spotlight-song-sparrow.htm?utm_source=rss&utm_medium=rss&utm_campaign=species-spotlight-song-sparrow",
+      "summary": "This species seems to be inordinately proud of its singing abilities, which are not only reflected in its common name but also in the scientific one, Melospiza melodia. There is so",
+      "date": "2026-09-11T11:00:00Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/Song-Sparrow_DSC6215_Popham-Beach-Maine-Jun-12-2026.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-09-11T11:02:54Z"
+    },
+    {
+      "title": "One in nine migratory birds threatened with extinction, global report says",
+      "link": "https://www.theguardian.com/environment/2026/sep/11/migratory-birds-species-threatened-extinction-decline-global-report",
+      "summary": "Findings on decline of species such as Arctic tern and turtle dove published alongside flyways pledge at Kenya summit One in nine migratory birds are threatened with extinction and",
+      "date": "2026-09-11T10:00:03Z",
+      "image": "https://i.guim.co.uk/img/media/10aaee389a6c27b845ec452e57235c294f9e2e86/280_0_4500_3600/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=e1b964a638a3f16207f3084a4669e1ee",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-11T11:02:59Z"
+    },
+    {
+      "title": "Week in wildlife: a sea turtle hatchling, baby orangutans and flying ibises",
+      "link": "https://www.theguardian.com/environment/gallery/2026/sep/11/week-in-wildlife-sea-turtle-hatchling-baby-orangutans-and-flying-ibises",
+      "summary": "This week’s best wildlife photographs from around the world Continue reading...",
+      "date": "2026-09-11T07:00:03Z",
+      "image": "https://i.guim.co.uk/img/media/ffe8fa938fcb6a7bcccba9bd65d9143c79c7d6dd/470_0_4030_3224/master/4030.jpg?width=140&quality=85&auto=format&fit=max&s=ae0b9d491196c1103b00d1060997e737",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-11T11:02:59Z"
+    },
+    {
+      "title": "More and more animals are moving into our homes as theirs get chopped down and dug up | First Dog on the Moon",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/sep/11/more-and-more-animals-are-moving-into-our-homes-as-theirs-get-chopped-down-and-dug-up",
+      "summary": "The echidna in the pantry, the koala in the boudoir, the skink in the sink. All true! Sign up here to get an email whenever First Dog cartoons are published Get all your needs met ",
+      "date": "2026-09-11T06:49:11Z",
+      "image": "https://i.guim.co.uk/img/media/70e4e976acdf31057677978113db2010c9e2c818/0_0_1261_1009/master/1261.jpg?width=140&quality=85&auto=format&fit=max&s=03d7ab7bc8f22a4d5119cd301b77480a",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-11T11:02:59Z"
+    },
+    {
+      "title": "Sick sea lions washing up in southern Santa Cruz, Monterey counties",
+      "link": "https://www.mercurynews.com/2026/09/02/sick-sea-lions-washing-up-in-southern-santa-cruz-monterey-counties/",
+      "summary": "Over the past week, a wave of California sea lions and some fur seals have turned up on Monterey and Santa Cruz County beaches with abnormal neurological symptoms, according to the",
+      "date": "2026-09-02T13:09:46Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/STC-L-CHDOMOICSURGE-0902.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-09-11T11:03:03Z"
+    },
+    {
+      "title": "Where do rattlesnakes go when it’s hot in California? We asked the experts",
+      "link": "https://www.mercurynews.com/2026/09/02/where-do-rattlesnakes-go-when-its-hot-in-california-we-asked-the-experts-2/",
+      "summary": "When the temperature soars in California , people and pets stay indoors, seek out air-conditioned spots or head the nearest lake, river or swimming pool. What about rattlesnakes?",
+      "date": "2026-09-02T12:10:31Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/202608091922MCT_____PHOTO____US-NEWS-ENV-CALIF-RATTLESNAKES-FILEPIC-FR.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-09-11T11:03:03Z"
+    },
+    {
+      "title": "The Best Trail Towns in the U.S.",
+      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/the-best-trail-towns-in-the-u-s/",
+      "summary": "Some towns are built for trail lovers. Here are five of the best, from Oregon to Michigan, where great trails and vibrant outdoor communities are right outside your door. The post ",
+      "date": "2026-09-11T10:30:58Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/trail-running-1.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-09-11T11:03:05Z"
+    },
+    {
+      "title": "These 15 Riveting Photos of Firefighters in Action Showcase the Strength and Courage They Need to Risk Their Lives to Save Others",
+      "link": "https://www.smithsonianmag.com/travel/these-15-riveting-photos-of-firefighters-in-action-showcase-the-strength-and-courage-they-need-to-risk-their-lives-to-save-others-180989444/",
+      "summary": "On the 25th anniversary of the September 11 attacks, take in this collection of images pulled from the archives of the Smithsonian Magazine Photo Contest",
+      "date": "2026-09-11T10:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/7NVixsx_qrtraDmN-Rlb5_WBrks=/420x240/filters:focal(1581x1054:1582x1055)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/db/bc/dbbcf3fe-7926-47ca-a253-34313c924297/1_-_9d1eb17b-3edd-4636-acd4-0172880de079.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-09-11T11:03:06Z"
+    },
+    {
+      "title": "How to build powerful microhabits for your wellbeing – and keep them",
+      "link": "https://www.newscientist.com/article/2588850-how-to-build-powerful-microhabits-for-your-wellbeing-and-keep-them/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Research shows that short practices of mindfulness are as good as, if not better than, long ones. Columnist David Robson takes a look at how we can incorporate these microhabits in",
+      "date": "2026-09-11T08:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311638153.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-09-11T11:03:08Z"
+    },
+    {
+      "title": "Maine's sugar kelp reveals four distinct populations vital for restoration",
+      "link": "https://phys.org/news/2026-09-maine-sugar-kelp-reveals-distinct.html",
+      "summary": "Saccharina latissima, or sugar kelp, is one of the dominant species in Maine's kelp forests, providing food, habitat and clean water to support a rich marine ecosystem. It is also ",
+      "date": "2026-09-11T11:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kelp-forests-contain-w-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-11T11:03:10Z"
+    },
+    {
+      "title": "Indonesia seeks to bring back baby orangutans allegedly trafficked to India",
+      "link": "https://phys.org/news/2026-09-indonesia-baby-orangutans-allegedly-trafficked.html",
+      "summary": "Indonesian authorities are working to repatriate five baby orangutans allegedly trafficked to India, where they were found motherless in a forest, Jakarta's forestry ministry told ",
+      "date": "2026-09-11T08:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/in-the-wild-orangutans-1.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-09-11T11:03:10Z"
+    },
+    {
+      "title": "Finland's largest Viking Age silver hoard discovered by metal detectorist — and it has thousands of coins and pieces of jewelry",
+      "link": "https://www.livescience.com/archaeology/vikings/finlands-largest-viking-age-silver-hoard-discovered-by-metal-detectorist-and-it-has-thousands-of-coins-and-pieces-of-jewelry",
+      "summary": "The largest Viking Age silver hoard ever found in Finland was unearthed by a metal detectorist north of Helsinki.",
+      "date": "2026-09-11T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/vQ7BCE9NQt4c663zxP6367-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-09-11T11:03:11Z"
+    },
+    {
+      "title": "'Every time it gets excited — boom — it collapses': How dogs with narcolepsy helped scientists understand the disorder",
+      "link": "https://www.livescience.com/health/sleep/how-dogs-with-narcolepsy-helped-to-unravel-a-misunderstood-disease",
+      "summary": "Live Science spoke with Dr. Emmanuel Mignot , director of the Stanford Center for Narcolepsy and co-winner of a coveted Lasker Award.",
+      "date": "2026-09-11T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/oj6ke5jDZYLvxQrsPXCqH-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-09-11T11:03:11Z"
+    },
     {
       "title": "Writers Wanted!",
       "link": "https://www.10000birds.com/writers-wanted-3.htm?utm_source=rss&utm_medium=rss&utm_campaign=writers-wanted-3",
@@ -5359,149 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-09-02T18:31:35Z"
-    },
-    {
-      "title": "Animal-bone records reveal how cattle and sheep fueled medieval England's changing economy",
-      "link": "https://phys.org/news/2026-08-animal-bone-reveal-cattle-sheep.html",
-      "summary": "As populations expanded in medieval England, key changes occurred in the uses of cattle and sheep to produce food and materials, according to a study published Sept. 2, 2026, in th",
-      "date": "2026-09-02T18:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/major-trends-in-cattle.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-02T18:31:35Z"
-    },
-    {
-      "title": "Dolphin-feeding tourism contributes to predicted dolphin decline",
-      "link": "https://phys.org/news/2026-09-dolphin-tourism-contributes-decline.html",
-      "summary": "A study published in the journal Oikos, titled \"Forecasting the impact of food-provisioning and other stressors on a marine top-predator population,\" found that without protective ",
-      "date": "2026-09-02T17:00:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dolphin-feeding-touris.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-02T18:31:35Z"
-    },
-    {
-      "title": "When biology inspires mathematics: Hidden symmetries explain why widely used evolutionary methods can give false answers",
-      "link": "https://phys.org/news/2026-09-biology-mathematics-hidden-symmetries-widely.html",
-      "summary": "Why do some groups of organisms contain thousands of species while others have only a handful? Evolutionary biologists have spent decades trying to answer this question using mathe",
-      "date": "2026-09-02T17:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-biology-inspires-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-02T18:31:35Z"
-    },
-    {
-      "title": "Iguanodon shinbone growth may be first evidence of an infected skin ulcer in a dinosaur",
-      "link": "https://phys.org/news/2026-09-iguanodon-shinbone-growth-evidence-infected.html",
-      "summary": "Fossilized bones can reveal a wealth of details about animals, including their size, appearance, what they ate and any injuries they may have suffered. In a paper published in the ",
-      "date": "2026-09-02T16:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unusual-bone-growth-on.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-02T18:31:35Z"
-    },
-    {
-      "title": "How cells teach themselves to move together",
-      "link": "https://phys.org/news/2026-09-cells.html",
-      "summary": "Scientists have long wondered how cells organized into sheets begin to move together to form organs, especially when the sheets form closed, sphere-like surfaces and tissues with n",
-      "date": "2026-09-02T16:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-cells-teach-themse.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-02T18:31:35Z"
-    },
-    {
-      "title": "Health record analysis of one million cattle identifies early prevention as key to reducing feedlot respiratory deaths",
-      "link": "https://phys.org/news/2026-09-health-analysis-million-cattle-early.html",
-      "summary": "New research involving more than 1 million Australian feedlot cattle has found that the strongest predictors of death from bovine respiratory disease (BRD) are established before a",
-      "date": "2026-09-02T15:40:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cattle.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-02T18:31:35Z"
-    },
-    {
-      "title": "New 'devil flower' species discovered in Thai national park",
-      "link": "https://phys.org/news/2026-09-devil-species-thai-national.html",
-      "summary": "Researchers have described a new species of leafless flowering plant found on the forest floor of a national park in western Thailand, and its otherworldly appearance has earned it",
-      "date": "2026-09-02T15:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-devil-flower-speci-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-02T18:31:35Z"
-    },
-    {
-      "title": "Tracking emperor penguins from space",
-      "link": "https://phys.org/news/2026-09-tracking-emperor-penguins-space.html",
-      "summary": "For the first time, geographers from Durham University have used freely available satellite radar images to track emperor penguins through the polar winter—giving a year-round view",
-      "date": "2026-09-02T15:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tracking-emperor-pengu.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-02T18:31:35Z"
-    },
-    {
-      "title": "The Osprey",
-      "link": "https://www.10000birds.com/the-osprey.htm?utm_source=rss&utm_medium=rss&utm_campaign=the-osprey",
-      "summary": "As the calendar approaches September, my thoughts turn to raptor watching and the birds I will see, as I described in a previous blog. Over the coming weeks, I will share profiles ",
-      "date": "2026-09-02T11:00:18Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/09/OspreyNASA.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-09-02T14:16:20Z"
-    },
-    {
-      "title": "Ask a Birder:  What do your non-birder family and friends like you to share from birding?",
-      "link": "https://www.10000birds.com/ask-a-birder-what-do-your-non-birder-family-and-friends-like-you-to-share-from-birding.htm?utm_source=rss&utm_medium=rss&utm_campaign=ask-a-birder-what-do-your-non-birder-family-and-friends-like-you-to-share-from-birding",
-      "summary": "We asked several of our writers the same questions. Here are the answers to the one above. — I think I have created at least a casual interest in birds among some Facebook friends ",
-      "date": "2026-09-02T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/Little-Ringed-Plover_DSC2127_Chongming-Dongtan-Jul-27-2026.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-09-02T14:16:20Z"
-    },
-    {
-      "title": "US woman gets 38 stitches after being bitten by otter in Lake Tahoe",
-      "link": "https://www.theguardian.com/us-news/2026/sep/02/lake-tahoe-otter-attack",
-      "summary": "Woman from Reno was swimming near Hidden beach when river otter attacked her, Tahoe’s second incident in a month A swimmer at Lake Tahoe in Nevada was bitten by a river otter in an",
-      "date": "2026-09-02T12:55:45Z",
-      "image": "https://i.guim.co.uk/img/media/8bfa5db7fe047998eefe16ea54973bface04b980/729_755_3341_2673/master/3341.jpg?width=140&quality=85&auto=format&fit=max&s=9633e03f50bedcd67b4e7681a5351f0c",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-09-02T14:16:24Z"
-    },
-    {
-      "title": "Family pays tribute to New Mexico man killed by bear: ‘He was a strong person’",
-      "link": "https://www.theguardian.com/us-news/2026/sep/02/new-mexico-man-fatal-bear-attack",
-      "summary": "Relatives of Benjamin Halona remember his career as wildlife firefighter and his zeal for selling tamales Relatives of a New Mexico man who was fatally mauled by a bear inside his ",
-      "date": "2026-09-02T10:00:21Z",
-      "image": "https://i.guim.co.uk/img/media/c9f6dc8077d6c7083c1d68c96131b5edaa6f9774/0_0_1000_800/master/1000.jpg?width=140&quality=85&auto=format&fit=max&s=e5cab4306e3d425af2b854eea481e015",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-09-02T14:16:24Z"
-    },
-    {
-      "title": "Will fall migration bring a billion bird night?",
-      "link": "https://earthsky.org/earth/lights-out-for-birds-spring-and-fall-migration/",
-      "summary": "Will we see a billion bird night during fall migration this year? And get tips on how you can help birds by turning off exterior lights. The post Will fall migration bring a billio",
-      "date": "2026-09-02T06:00:09Z",
-      "image": "https://earthsky.org/upl/2026/04/Sep-4-2026-bird-migration-map-cornell-e1788353263765.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-09-02T14:16:26Z"
     }
   ]
 }
