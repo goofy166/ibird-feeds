@@ -1,8 +1,74 @@
 {
-  "updated": "2026-09-12T13:58:43Z",
-  "updated_utc": "2026-09-12T13:58:43Z",
+  "updated": "2026-09-12T16:59:53Z",
+  "updated_utc": "2026-09-12T16:59:53Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Hummingbirds are flocking south in their thousands as migration begins",
+      "link": "https://www.birdwatchingdaily.com/news/birdwatching/hummingbirds-are-flocking-south-in-their-thousands-as-migration-begins/",
+      "summary": "Here’s where thousands of Hummingbirds are migrating to – and where you can catch it. Fall migration is now underway across the U.S., and some … Read More \"Hummingbirds are flockin",
+      "date": "2026-09-12T14:05:24Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/03/Ruby-throated-Hummingbird-68.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-09-12T16:59:29Z"
+    },
+    {
+      "title": "Colorado Bear Euthanized With Trash in Intestines as Food Scarcity Drives Record Conflict",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/colorado-bear-euthanized-with-trash-blocking-intestines/",
+      "summary": "Wildlife officers in Colorado were forced to euthanize an 18-year-old black bear after plastic bags and wipes caused a fatal digestive blockage. The post Colorado Bear Euthanized W",
+      "date": "2026-09-12T14:32:00Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/2-1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-09-12T16:59:43Z"
+    },
+    {
+      "title": "Why do some salivary glands fail? Researchers point to hidden cell stress",
+      "link": "https://phys.org/news/2026-09-salivary-glands-hidden-cell-stress.html",
+      "summary": "For cancer patients undergoing head and neck radiation therapy, people living with Sjögren's syndrome, people with diabetes or older people, reduced saliva production and the resul",
+      "date": "2026-09-12T16:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-do-some-salivary-g.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-12T16:59:50Z"
+    },
+    {
+      "title": "Human embryo base editing can reach all cells but causes unpredictable genetic changes",
+      "link": "https://phys.org/news/2026-09-human-embryo-base-cells-unpredictable.html",
+      "summary": "A study by researchers at Columbia University Vagelos College of Physicians and Surgeons has found that new cutting-edge techniques can accurately edit genes in human embryos—givin",
+      "date": "2026-09-12T16:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/embryo-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-12T16:59:50Z"
+    },
+    {
+      "title": "Sea-level rise could squeeze shorebirds out of critical coastal habitat, researchers find",
+      "link": "https://phys.org/news/2026-09-sea-shorebirds-critical-coastal-habitat.html",
+      "summary": "As sea levels rise, coastal wetlands around the world are expected to shrink—and researchers at the University of British Columbia have found this could put the world's shorebirds ",
+      "date": "2026-09-12T15:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sea-level-rise-could-s.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-12T16:59:50Z"
+    },
+    {
+      "title": "Scientists got diamond's melting point wrong by more than 1,000 degrees, crushing new laser experiment reveals",
+      "link": "https://www.livescience.com/physics-mathematics/scientists-got-diamonds-melting-point-wrong-by-more-than-1-000-degrees-crushing-new-laser-experiment-reveals",
+      "summary": "Scientists blasted diamonds with lasers to get the best measurement of the mineral's melting point yet. The new, more accurate numbers could help improve fusion experiments and stu",
+      "date": "2026-09-12T14:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/qhtQyJ2qmM5YV8Bi9ZEjv9-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-09-12T16:59:51Z"
+    },
     {
       "title": "Halfway to England",
       "link": "https://www.10000birds.com/halfway-to-england.htm?utm_source=rss&utm_medium=rss&utm_campaign=halfway-to-england",
@@ -5436,72 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-09-03T18:27:56Z"
-    },
-    {
-      "title": "Elusive young bird, rarely seen in California, pops out from the reeds for a short show",
-      "link": "https://www.mercurynews.com/2026/09/03/elusive-young-bird-rarely-seen-in-california-pops-out-from-the-reeds-for-a-short-show/",
-      "summary": "The purple gallinule has been delighting birders at Irvine Ranch Water District’s San Joaquin Marsh wildlife sanctuary",
-      "date": "Thu, 03 Sep 2026 16Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/OCR-L-RARE-BIRD-01-MS-1.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-09-03T18:28:00Z"
-    },
-    {
-      "title": "First wolf kill of livestock confirmed in Tehama County",
-      "link": "https://www.mercurynews.com/2026/08/25/first-wolf-kill-confirmed-in-tehama-county/",
-      "summary": "In department updates at the Tuesday, August 25, Tehama County Board of Supervisors meeting, Agricultural Commissioner Tom Moss informed the board an investigation started last wee",
-      "date": "Tue, 25 Aug 2026 21Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/WOLF-01.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-09-03T18:28:00Z"
-    },
-    {
-      "title": "My First Gravel Race Went Better Than Expected. Here’s the Gear That Got Me to the Finish Line.",
-      "link": "https://www.outsideonline.com/outdoor-gear/bikes-and-biking/first-gravel-race-kit/",
-      "summary": "Over the last few years, I’ve fallen in love with gravel biking for the sense of adventure it gives me. I’d much rather spend a day exploring rugged, remote roads that wind through",
-      "date": "Thu, 03 Sep 2026 15Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/gravel-bike-race-kit-1.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-09-03T18:28:02Z"
-    },
-    {
-      "title": "We Ripped the New Rivian R2 Through the Mountains. It’s a High-Tech Dirt Rocket.",
-      "link": "https://www.outsideonline.com/outdoor-gear/cars-trucks/rivian-r2-ev-review-off-road/",
-      "summary": "The Rivian R2 is packed with autonomous tech for your daily commute, but take it off-road in the mountains and it transforms into a 656-horsepower dirt rocket. We test-drove the hi",
-      "date": "Thu, 03 Sep 2026 15Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/R2openerjpg.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-09-03T18:28:02Z"
-    },
-    {
-      "title": "Historic Trove of Monets, Renoirs and Other Impressionist Masterpieces Expected to Fetch Up to $50 Million on Auction Block This Fall",
-      "link": "https://www.smithsonianmag.com/smart-news/historic-trove-of-monets-renoirs-and-other-impressionist-masterpieces-expected-to-fetch-up-to-50-million-on-auction-block-this-fall-180989448/",
-      "summary": "More than 60 paintings from the private estate of Paul Durand-Ruel, who shepherded Impressionism out from obscurity, will be up for sale",
-      "date": "Thu, 03 Sep 2026 17Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/KLZBQdodl-TIUZP4JMZKdKAorgM=/420x240/filters:focal(1000x590:1001x591)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6a/02/6a02d570-0d3b-4950-b837-b7e3d12fc62d/4d5833ef2782c794311d9be10ffa38e2-ljpg.webp",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-09-03T18:28:04Z"
-    },
-    {
-      "title": "A Signature Hawaiian Textile With a Rich History Is Making a Splash in the Fashion World",
-      "link": "https://www.smithsonianmag.com/travel/a-signature-hawaiian-textile-with-a-rich-history-is-making-a-splash-in-the-fashion-world-180989443/",
-      "summary": "The blocky, plaid palaka design has evolved beyond its roots as simple workwear, crossing over ethnic and class lines as a symbol of local pride",
-      "date": "Thu, 03 Sep 2026 15Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/0B_UW-3dDJZLtOs3S3xNXkAOh6w=/420x240/filters:focal(1028x724:1029x725)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d4/65/d4658cbb-a59c-48fd-a30e-d0405f9c5a46/gettyimages-2266112088.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-09-03T18:28:04Z"
     }
   ]
 }
