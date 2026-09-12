@@ -1,8 +1,19 @@
 {
-  "updated": "2026-09-12T05:41:09Z",
-  "updated_utc": "2026-09-12T05:41:09Z",
+  "updated": "2026-09-12T10:32:06Z",
+  "updated_utc": "2026-09-12T10:32:06Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Why is Venus hotter than Mercury, when Mercury is closer to the sun?",
+      "link": "https://www.livescience.com/space/venus/why-is-venus-hotter-than-mercury-when-mercury-is-closer-to-the-sun",
+      "summary": "Despite being farther from the sun, Venus is the hottest planet in the solar system, and the reason has little to do with proximity to a star.",
+      "date": "2026-09-12T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/sgqA5cm3JAdXuJBufgrUf9-1280-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-09-12T10:32:03Z"
+    },
     {
       "title": "Artist delights in beautiful ‘mess’ and dead trees of England’s rewilding sites",
       "link": "https://www.theguardian.com/environment/2026/sep/12/artist-england-rewilding-sites-knepp-rebecca-howard",
@@ -5487,17 +5498,6 @@
       "summary": "Cells synthesize proteins in the endoplasmic reticulum (ER), and these proteins are transported to the Golgi apparatus for distribution to their ultimate destinations inside and ou",
       "date": "2026-09-03T16:07:27Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-stressed-cells-put.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-03T18:28:08Z"
-    },
-    {
-      "title": "Microbial 'dark matter' yields 173 potential carbon dioxide-fixing strains",
-      "link": "https://phys.org/news/2026-09-microbial-dark-yields-potential-carbon.html",
-      "summary": "There are millions of species of bacteria and archaea on Earth, remarkably little is known about most of them. Now, researchers have mined the genomes of thousands of microorganism",
-      "date": "2026-09-03T15:40:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shedding-light-on-micr.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
