@@ -1,8 +1,30 @@
 {
-  "updated": "2026-09-12T01:00:22Z",
-  "updated_utc": "2026-09-12T01:00:22Z",
+  "updated": "2026-09-12T05:41:09Z",
+  "updated_utc": "2026-09-12T05:41:09Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Artist delights in beautiful ‘mess’ and dead trees of England’s rewilding sites",
+      "link": "https://www.theguardian.com/environment/2026/sep/12/artist-england-rewilding-sites-knepp-rebecca-howard",
+      "summary": "Rebecca Howard spent two years visiting projects and painting landscapes that feature in West Sussex exhibition Rewilding areas do not usually conform to traditional notions of bea",
+      "date": "2026-09-12T05:00:24Z",
+      "image": "https://i.guim.co.uk/img/media/d0882a446f99bc981a027c6281257de371c965f7/0_367_1939_1551/master/1939.jpg?width=140&quality=85&auto=format&fit=max&s=655df0908102b6b8328cfabeddbcaf96",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-12T05:40:54Z"
+    },
+    {
+      "title": "As antibiotic resistance grows, researchers turn to copper to fight infections",
+      "link": "https://phys.org/news/2026-09-antibiotic-resistance-copper-infections.html",
+      "summary": "When bacteria invade the urinary tract, the body has its own arsenal for fighting back. Among those weapons is an unlikely tool: copper. Researchers at the Texas A&M College of Vet",
+      "date": "2026-09-12T02:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/as-antibiotic-resistan.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-12T05:41:06Z"
+    },
     {
       "title": "Q&A: The origin of 'OnlyMarms' and what made it a roaring success",
       "link": "https://phys.org/news/2026-09-qa-onlymarms-roaring-success.html",
@@ -5476,28 +5498,6 @@
       "summary": "There are millions of species of bacteria and archaea on Earth, remarkably little is known about most of them. Now, researchers have mined the genomes of thousands of microorganism",
       "date": "2026-09-03T15:40:09Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shedding-light-on-micr.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-03T18:28:08Z"
-    },
-    {
-      "title": "Gharial pop patterns and gecko calls uncover reptiles' overlooked social communication",
-      "link": "https://phys.org/news/2026-09-gharial-patterns-gecko-uncover-reptiles.html",
-      "summary": "Along the sandy banks of northern India's Chambal River, crocodile-like gharials glide silently through the water—but if a gharial spots a stranger, the quiet may be punctuated by ",
-      "date": "2026-09-03T15:20:16Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cackle-pop-roar-reptil.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-03T18:28:08Z"
-    },
-    {
-      "title": "Probiotic and postbiotic treatments revive heat-stressed corals in field experiment",
-      "link": "https://phys.org/news/2026-09-probiotic-postbiotic-treatments-revive-stressed.html",
-      "summary": "Climate change continues to threaten the world's coral reefs, which support at least a quarter of all marine life. Though probiotics have been shown to rehabilitate corals in aquar",
-      "date": "2026-09-03T15:00:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/coral-1.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
