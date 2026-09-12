@@ -1,8 +1,19 @@
 {
-  "updated": "2026-09-11T22:24:55Z",
-  "updated_utc": "2026-09-11T22:24:55Z",
+  "updated": "2026-09-12T01:00:22Z",
+  "updated_utc": "2026-09-12T01:00:22Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Q&A: The origin of 'OnlyMarms' and what made it a roaring success",
+      "link": "https://phys.org/news/2026-09-qa-onlymarms-roaring-success.html",
+      "summary": "The story of Dan Blumstein's decision to share videos of marmots from the Rocky Mountain Biological Laboratory field study on an OnlyFans account called OnlyMarms has captured atte",
+      "date": "2026-09-12T01:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/marmots-have-money-tro-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-12T01:00:18Z"
+    },
     {
       "title": "Hawks in Georgia",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/hawks-in-georgia/",
@@ -5487,17 +5498,6 @@
       "summary": "Climate change continues to threaten the world's coral reefs, which support at least a quarter of all marine life. Though probiotics have been shown to rehabilitate corals in aquar",
       "date": "2026-09-03T15:00:08Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/coral-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-03T18:28:08Z"
-    },
-    {
-      "title": "Completing the connectome: How pursuing a map of the fly brain rewired neuroscience",
-      "link": "https://phys.org/news/2026-09-connectome-pursuing-fly-brain-rewired.html",
-      "summary": "When researchers at HHMI's Janelia Research Campus set out to create a map of all the neurons in the fruit fly brain in 2008, many in the scientific community thought they were out",
-      "date": "2026-09-03T15:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/completing-the-connect.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
