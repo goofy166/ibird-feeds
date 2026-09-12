@@ -1,8 +1,19 @@
 {
-  "updated": "2026-09-12T16:59:53Z",
-  "updated_utc": "2026-09-12T16:59:53Z",
+  "updated": "2026-09-12T19:13:10Z",
+  "updated_utc": "2026-09-12T19:13:10Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Elusive young bird, rarely seen in California, pops out from the reeds for a short show",
+      "link": "https://www.mercurynews.com/2026/09/03/elusive-young-bird-rarely-seen-in-california-pops-out-from-the-reeds-for-a-short-show/",
+      "summary": "The purple gallinule has been delighting birders at Irvine Ranch Water District’s San Joaquin Marsh wildlife sanctuary",
+      "date": "Thu, 03 Sep 2026 16Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/OCR-L-RARE-BIRD-01-MS-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-09-12T19:12:59Z"
+    },
     {
       "title": "Hummingbirds are flocking south in their thousands as migration begins",
       "link": "https://www.birdwatchingdaily.com/news/birdwatching/hummingbirds-are-flocking-south-in-their-thousands-as-migration-begins/",
@@ -5491,17 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-09-03T18:27:52Z"
-    },
-    {
-      "title": "Judge rules 2,000 Catalina Island deer can be killed to save native plant species",
-      "link": "https://www.theguardian.com/us-news/2026/sep/03/catalina-island-deer-california",
-      "summary": "Cull of animals that eat native shrubs, causing spread of fast-igniting grasses, to go ahead despite fierce opposition Locals and tourists have long fawned over Catalina Island’s m",
-      "date": "2026-09-03T12:00:30Z",
-      "image": "https://i.guim.co.uk/img/media/6f51954cfd240593f67ce6e279c25e6738c44c4a/193_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=7d0dcf7fcdf824564c35f21497fb94d0",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-09-03T18:27:56Z"
     }
   ]
 }
