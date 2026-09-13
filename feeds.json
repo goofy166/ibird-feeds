@@ -1,8 +1,41 @@
 {
-  "updated": "2026-09-13T16:03:37Z",
-  "updated_utc": "2026-09-13T16:03:37Z",
+  "updated": "2026-09-13T19:16:50Z",
+  "updated_utc": "2026-09-13T19:16:50Z",
   "count": 500,
   "stories": [
+    {
+      "title": "AI automates 3D membrane mapping, matching manual results in a fraction of time",
+      "link": "https://phys.org/news/2026-09-ai-automates-3d-membrane-manual.html",
+      "summary": "Cell membranes and the proteins within them control many vital processes and play a key role in health and disease. But studying them in 3D images of cells has so far meant slow, m",
+      "date": "2026-09-13T18:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/weeks-of-work-in-a-few.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-13T19:16:46Z"
+    },
+    {
+      "title": "Saltwater flooding could radically change which crops are worth growing",
+      "link": "https://phys.org/news/2026-09-saltwater-radically-crops-worth.html",
+      "summary": "Saltwater isn't something most people associate with English farmland. But in parts of eastern England, it's becoming a growing problem, not just for crops but for farm incomes too",
+      "date": "2026-09-13T18:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/coastal-farm-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-13T19:16:46Z"
+    },
+    {
+      "title": "Luminescence dating pushes age of South Dakota's Mammoth Site back by more than 100,000 years",
+      "link": "https://phys.org/news/2026-09-luminescence-dating-age-south-dakota.html",
+      "summary": "Deep within an ancient sinkhole lie the remains of dozens of mammoths, prehistoric wanderers who waded into the warm springs to their deaths. These deaths had long been accepted as",
+      "date": "2026-09-13T16:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/luminescence-dating-pu-1.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-09-13T19:16:46Z"
+    },
     {
       "title": "Chicago’s Urban Birding Festival Welcomes All Birders",
       "link": "https://www.birdsandblooms.com/travel/birding-hotspots/urban-birding-festival/",
@@ -5469,39 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-09-03T21:37:26Z"
-    },
-    {
-      "title": "Researcher joins PETA’s call for Six Flags Discovery Kingdom dolphins to move to seaside sanctuaries",
-      "link": "https://www.mercurynews.com/2026/08/26/researcher-joins-petas-call-for-dolphins-to-move-to-seaside-sanctuaries/",
-      "summary": "“It’s the only humane thing to do,” said Lori Marino, who has published over 150 peer-reviewed scientific papers, book chapters and magazine articles on marine mammal biology and c",
-      "date": "2026-08-26T13:28:14Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/FLIPPINFUN.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-09-03T21:37:34Z"
-    },
-    {
-      "title": "Scientists Recreated the Long-Lost Chirps of Jurassic Insects. Listen to the Simulated Soundscape of 165 Million Years Ago",
-      "link": "https://www.smithsonianmag.com/smart-news/scientists-recreated-the-long-lost-chirps-of-jurassic-insects-listen-to-the-simulated-soundscape-of-165-million-years-ago-180989445/",
-      "summary": "With artificial intelligence and careful modeling of fossilized wings, researchers reproduced how some extinct, katydid-like insects might have made noise",
-      "date": "Thu, 03 Sep 2026 20Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/LxKS7yUAQcob6u2wTKJH2OzSSjA=/420x240/filters:focal(2220x1597:2221x1598)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/28/5d/285d7d60-b85c-4680-a56d-670fdceb34d6/fork-tailed_bush_katydid_42143s.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-09-03T21:37:37Z"
-    },
-    {
-      "title": "A Lake in Canada Got a Mysterious New Island. Then, It Disappeared—and Now It's Back",
-      "link": "https://www.smithsonianmag.com/smart-news/a-lake-in-canada-got-a-mysterious-new-island-then-it-disappeared-and-now-its-back-180989442/",
-      "summary": "The floating forest appeared in a well-mapped reservoir in British Columbia. Its presence and vanishing act have puzzled locals and officials at the power utility that operates the",
-      "date": "Thu, 03 Sep 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/DBrenJ2CHXnVzdrDg5OFmiQx-6w=/420x240/filters:focal(2082x1427:2083x1428)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/46/f1/46f18bd2-beb5-4922-9fa0-6f5d63e35951/williston-lake.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-09-03T21:37:37Z"
     }
   ]
 }
