@@ -1,8 +1,19 @@
 {
-  "updated": "2026-09-13T19:16:50Z",
-  "updated_utc": "2026-09-13T19:16:50Z",
+  "updated": "2026-09-13T22:18:19Z",
+  "updated_utc": "2026-09-13T22:18:19Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Fall stargazing 2026: The best skywatching sights in autumn (and how to see them)",
+      "link": "https://www.livescience.com/products/optics/fall-stargazing-2026",
+      "summary": "As longer nights draw in over the fall, we see the return of some stargazing favorites, including the Andromeda Galaxy, the Pleiades star cluster and the first supermoon of the sea",
+      "date": "2026-09-13T19:24:52Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/DeZHwxQUfSsigihMbV96SQ-1280-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-09-13T22:18:16Z"
+    },
     {
       "title": "AI automates 3D membrane mapping, matching manual results in a fraction of time",
       "link": "https://phys.org/news/2026-09-ai-automates-3d-membrane-manual.html",
@@ -5491,17 +5502,6 @@
       "category": "butterflies",
       "color": 14,
       "fetched_at": "2026-09-03T23:54:52Z"
-    },
-    {
-      "title": "Meet Kaydee: Potential New Mate for Shadow the Bald Eagle",
-      "link": "https://www.birdsandblooms.com/birding/birding-basics/kaydee-shadow-bald-eagles/",
-      "summary": "Who's the new lady in Shadow's life? Get to know Kaydee (KD1), the bald eagle Shadow could potentially choose as his next mate. The post Meet Kaydee: Potential New Mate for Shadow ",
-      "date": "2026-08-26T14:30:38Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-11.09.04-AM.png?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-09-03T21:37:26Z"
     }
   ]
 }
