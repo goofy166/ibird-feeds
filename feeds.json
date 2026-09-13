@@ -1,8 +1,85 @@
 {
-  "updated": "2026-09-13T11:35:00Z",
-  "updated_utc": "2026-09-13T11:35:00Z",
+  "updated": "2026-09-13T16:03:37Z",
+  "updated_utc": "2026-09-13T16:03:37Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Chicago’s Urban Birding Festival Welcomes All Birders",
+      "link": "https://www.birdsandblooms.com/travel/birding-hotspots/urban-birding-festival/",
+      "summary": "Go birding in the Windy City! Here's why we think the Urban Birding Festival will delight every birder, and how you can join in. The post Chicago’s Urban Birding Festival Welcomes ",
+      "date": "Thu, 03 Sep 2026 14Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/09/GettyImages-185297598-e1788445104135.jpg?fit=700,701",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-09-13T16:03:18Z"
+    },
+    {
+      "title": "Rabbits are the biggest threat to Australia’s native species. Why are their numbers booming again?",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/14/rabbits-austraila-population-native-species-threat",
+      "summary": "Scientists say good rainfall and growing resistance to viruses are to blame for increasing rabbit populations around the country Get our breaking news email , free app or daily new",
+      "date": "2026-09-13T15:00:08Z",
+      "image": "https://i.guim.co.uk/img/media/3b8643a4bcb0778738d5a3550588d5b95b3d3977/2165_103_3386_2710/master/3386.jpg?width=140&quality=85&auto=format&fit=max&s=ceef3fdf8c30a28b034c7714ea2a46d4",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-13T16:03:21Z"
+    },
+    {
+      "title": "The bird that changed Ecuador: how a chance discovery of a rare species helped to save many more",
+      "link": "https://www.theguardian.com/environment/ng-interactive/2026/sep/13/bird-ecuador-rare-species-jocotoco-antpitta-foundation-conservation-biodiversity-aoe",
+      "summary": "Thirty years after a US ornithologist first sighted a jocotoco antpitta, the foundation he set up to restore biodiversity is a model for conservation globally I have to confess tha",
+      "date": "2026-09-13T13:00:05Z",
+      "image": "https://i.guim.co.uk/img/media/2e85e93153c5c0947585fbd9271299128dbeb50a/1093_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=99835e491d54735d7d4c48c3aac604e4",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-13T16:03:21Z"
+    },
+    {
+      "title": "Venus brightest in the evening sky this week",
+      "link": "https://earthsky.org/astronomy-essentials/venus-brightest-greatest-brilliancy-greatest-illuminated-extent-2/",
+      "summary": "See Venus brightest in the evening sky this week, with greatest brilliancy coming around September 18, 2026. Look west after sunset. The post Venus brightest in the evening sky thi",
+      "date": "2026-09-13T12:10:28Z",
+      "image": "https://earthsky.org/upl/2026/08/2026-Sep-13-14-Moon-B.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-09-13T16:03:23Z"
+    },
+    {
+      "title": "The 13 Best September Deals on Tester-Approved Ski Jackets",
+      "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/best-ski-jacket-sales-september-2026/",
+      "summary": "These are the jackets our testers would actually buy—and right now, you can get them for a lot less. The post The 13 Best September Deals on Tester-Approved Ski Jackets appeared fi",
+      "date": "2026-09-13T12:05:51Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/SKI-Deal-Tile-B-2400x1350-1.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-09-13T16:03:28Z"
+    },
+    {
+      "title": "“Bison Belong on This Landscape.” Judge Blocks Federal Order to Remove 1,000 Animals in Montana",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/judge-order-montana-bison-american-prairie/",
+      "summary": "A federal judge has issued a preliminary injunction stopping the BLM from evicting American Prairie’s bison herd from public lands in Montana. The post “Bison Belong on This Landsc",
+      "date": "2026-09-13T11:46:09Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/bison-grazing-on-american-prairie.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-09-13T16:03:28Z"
+    },
+    {
+      "title": "Fish may be highly sensitive to antidepressants found in water",
+      "link": "https://phys.org/news/2026-09-fish-highly-sensitive-antidepressants.html",
+      "summary": "Many of the drugs that target human brain chemistry, such as antidepressants, are still biologically active when they leave the body. These substances and their metabolites can per",
+      "date": "2026-09-13T14:30:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fish-may-be-highly-sen.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-13T16:03:33Z"
+    },
     {
       "title": "Three Photos: Marvelous Spatuletail",
       "link": "https://www.10000birds.com/three-photos-marvelous-spatuletail.htm?utm_source=rss&utm_medium=rss&utm_campaign=three-photos-marvelous-spatuletail",
@@ -5425,83 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-09-03T21:37:37Z"
-    },
-    {
-      "title": "A Mysterious Decagon Unexpectedly Appeared Around Saturn's South Pole. The Ten-Sided Shape Seems to Be a Wave in the Atmosphere",
-      "link": "https://www.smithsonianmag.com/smart-news/a-mysterious-decagon-unexpectedly-appeared-around-saturns-south-pole-the-ten-sided-shape-seems-to-be-a-wave-in-the-atmosphere-180989449/",
-      "summary": "Decades ago, scientists found a hexagon around Saturn’s north pole. Now, recent images reveal a decagon in the planet’s southern hemisphere—and it seems to have recently formed",
-      "date": "Thu, 03 Sep 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/PDlvF_L7rYmf4jtYOWT9kDngTOk=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9a/e4/9ae43ab0-03cb-4d82-bb5c-1f4a270e9fb3/smithsonian_feature_images_14.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-09-03T21:37:37Z"
-    },
-    {
-      "title": "AI agents aren’t ready to replace humans in behavioral research",
-      "link": "https://www.sciencenews.org/article/ai-agents-replace-humans-research",
-      "summary": "A new study finds that digital twins don’t yet replicate the views of the individuals they are modeled after.",
-      "date": "Thu, 03 Sep 2026 19Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/090226_SG_digitaltwin_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-09-03T21:37:38Z"
-    },
-    {
-      "title": "Predictive tools can confuse rare mutations with dangerous ones",
-      "link": "https://phys.org/news/2026-09-tools-rare-mutations-dangerous.html",
-      "summary": "When a patient's DNA is read, it is compared with a reference version of the human genome. This allows geneticists and rare disease experts to look at a list of places where the pa",
-      "date": "2026-09-03T21:20:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/gene-mutation.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-03T21:37:41Z"
-    },
-    {
-      "title": "'Green thumb' molecule helps leaf stalks grow in crowded conditions",
-      "link": "https://phys.org/news/2026-09-green-thumb-molecule-leaf-stalks.html",
-      "summary": "Potassium (K) is one of the three essential nutrients for plants. It plays a critical role in a wide range of processes, including cell growth, photosynthesis and regulation of wat",
-      "date": "2026-09-03T21:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-identify-g-4.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-03T21:37:41Z"
-    },
-    {
-      "title": "A molecular brake that keeps muscle architecture in check",
-      "link": "https://phys.org/news/2026-09-molecular-muscle-architecture.html",
-      "summary": "Every movement we make, from blinking to sprinting, depends on the ability of muscle fibers to contract in a rapid and coordinated way. Achieving this precision requires an intrica",
-      "date": "2026-09-03T21:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/leg-muscle.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-03T21:37:41Z"
-    },
-    {
-      "title": "How a plant's refusal to self-pollinate could help India grow more of its own cooking oil",
-      "link": "https://phys.org/news/2026-09-pollinate-india-cooking-oil.html",
-      "summary": "Most people assume plants reproduce through whatever pollen happens to land on them. This is not true. A collaborative research initiative involving the Indian Institute of Technol",
-      "date": "2026-09-03T20:50:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-a-plants-refusal-t.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-03T21:37:41Z"
-    },
-    {
-      "title": "Early mammals weren't all loners—some may have lived in pairs alongside the dinosaurs",
-      "link": "https://phys.org/news/2026-09-early-mammals-werent-loners-pairs.html",
-      "summary": "About 200 million years ago, furry, little egg-laying creatures evolved the ability to feed their offspring with a secretion from special glands: milk. Their evolutionary journey c",
-      "date": "2026-09-03T20:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/early-mammals-werent-a.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-03T21:37:41Z"
     }
   ]
 }
