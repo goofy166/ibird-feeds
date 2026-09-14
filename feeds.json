@@ -1,8 +1,19 @@
 {
-  "updated": "2026-09-14T00:53:18Z",
-  "updated_utc": "2026-09-14T00:53:18Z",
+  "updated": "2026-09-14T06:00:44Z",
+  "updated_utc": "2026-09-14T06:00:44Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: Notice anything wrong with this ripe, succulent plum? | Claire Stares",
+      "link": "https://www.theguardian.com/environment/2026/sep/14/country-diary-notice-anything-wrong-with-this-ripe-succulent-plum",
+      "summary": "Langstone, Hampshire: My garden is full of Victoria plums, but they’re not supposed to be crunchy inside This summer has been challenging for the fruit trees in my garden, with int",
+      "date": "2026-09-14T04:30:22Z",
+      "image": "https://i.guim.co.uk/img/media/ee69c171529afc5b4f188288fccdc63777a0380f/90_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=58d9ad44c1b9c688469a99c3d6998571",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-14T06:00:28Z"
+    },
     {
       "title": "Meet Kaydee: Potential New Mate for Shadow the Bald Eagle",
       "link": "https://www.birdsandblooms.com/birding/birding-basics/kaydee-shadow-bald-eagles/",
@@ -5487,17 +5498,6 @@
       "summary": "Research led by scientists at the University of Louisiana at Lafayette challenges a long-held assumption about the effects of climate change on marine life: Warmer oceans won't sim",
       "date": "2026-09-03T22:40:03Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-change-wont-si.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-03T23:54:51Z"
-    },
-    {
-      "title": "Microbes—dead or alive—can be early indicators of soil health under regenerative farming",
-      "link": "https://phys.org/news/2026-09-microbes-dead-alive-early-indicators.html",
-      "summary": "Researchers have demonstrated a series of biological tests that could serve as \"proxies\" for measuring how different regenerative agriculture practices could improve soil carbon—ye",
-      "date": "2026-09-03T21:50:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/soil.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
