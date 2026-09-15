@@ -1,8 +1,107 @@
 {
-  "updated": "2026-09-15T04:35:06Z",
-  "updated_utc": "2026-09-15T04:35:06Z",
+  "updated": "2026-09-15T09:57:05Z",
+  "updated_utc": "2026-09-15T09:57:05Z",
   "count": 500,
   "stories": [
+    {
+      "title": "These States are Seeing the Biggest Migration of Birds Tonight",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/these-states-are-seeing-the-biggest-migration-of-birds-tonight/",
+      "summary": "Fall migration is officially getting underway across the United States, and more than 200 million birds are expected to take to the skies this week, … Read More \"These States are S",
+      "date": "2026-08-26T21:06:41Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/08/Birds-migrating-as-night-falls.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-09-15T09:56:42Z"
+    },
+    {
+      "title": "How Ornithologists are Tracking Migratory Birds at Night",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/how-ornithologists-are-tracking-migratory-birds-at-night/",
+      "summary": "As fall migration gets underway, we take a look at how ornithologists track birds as they migrate through the night. Every fall, millions of birds … Read More \"How Ornithologists a",
+      "date": "2026-08-26T20:35:22Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/08/How-ornithologists-are-tracking-migratory-birds.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-09-15T09:56:42Z"
+    },
+    {
+      "title": "Conservation ‘gateway drug’: farmers embrace ancient craft of hedge laying",
+      "link": "https://www.theguardian.com/environment/2026/sep/15/conservation-gateway-drug-farmers-embrace-ancient-craft-of-hedge-laying",
+      "summary": "Grant applications in England surge as interest grows in habitat that captures carbon and helps reduce flood risk The ancient craft of hedge laying is experiencing a strong revival",
+      "date": "2026-09-15T07:00:29Z",
+      "image": "https://i.guim.co.uk/img/media/b5f1b73000803d5eecb99f4f09c1ebfa6d182e8f/514_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=be28a03facd087882ecbc8a321e1b6bf",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-15T09:56:48Z"
+    },
+    {
+      "title": "They’re the sopranos of the forest, so what’s silencing the gibbons’ morning chorus?",
+      "link": "https://www.theguardian.com/environment/2026/sep/15/singing-gibbons-forest-sopranos-malaysia-aoe",
+      "summary": "As human development and roads increasingly fragment their habitats, a study suggests traffic noise could be altering the animals’ wake-up call Dawn has broken, and the air is cool",
+      "date": "2026-09-15T05:00:26Z",
+      "image": "https://i.guim.co.uk/img/media/b4b7db8648e288bc26a581f7d8b65df7c88d4919/0_0_4276_3421/master/4276.jpg?width=140&quality=85&auto=format&fit=max&s=6002443c7cafb7dac8ddfe5605ee3fed",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-15T09:56:48Z"
+    },
+    {
+      "title": "It’s Spider Season. Here’s What An Agricultural Biologist Wants Every Hiker to Know.",
+      "link": "https://www.outsideonline.com/health/wellness/spider-season-hiking/",
+      "summary": "On trails and in shelters across the country, spiders are becoming more visible. Do hikers need to be worried? No, but there are a few things they should know. The post It’s Spider",
+      "date": "Tue, 15 Sep 2026 05Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/spider-season.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-09-15T09:56:55Z"
+    },
+    {
+      "title": "A new biography of Stephen Hawking gets to grips with a complicated man",
+      "link": "https://www.newscientist.com/article/2589245-a-new-biography-of-stephen-hawking-gets-to-grips-with-a-complicated-man/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Graham Farmelo has written the first authorised biography of the famous physicist. He should be applauded for digging into various controversies – but could have gone further, says",
+      "date": "Tue, 15 Sep 2026 09Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI312431714.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-09-15T09:56:59Z"
+    },
+    {
+      "title": "How I made a slime mould the protagonist of my new sci-fi novel",
+      "link": "https://www.newscientist.com/article/2588944-how-i-made-a-slime-mould-the-protagonist-of-my-new-sci-fi-novel/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "How do you get the science right in a sci-fi book? Columnist Annalee Newitz started by asking many kinds of researchers lots of very strange questions – and ended up in love with s",
+      "date": "Tue, 15 Sep 2026 08Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311640595.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-09-15T09:56:59Z"
+    },
+    {
+      "title": "One of the fundamental forces is stronger than we thought",
+      "link": "https://www.newscientist.com/article/2589002-one-of-the-fundamental-forces-is-stronger-than-we-thought/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "The most precise calculation yet of the electroweak force could help fix cracks in the standard model of particle physics",
+      "date": "Tue, 15 Sep 2026 06Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311889062.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-09-15T09:56:59Z"
+    },
+    {
+      "title": "Just add fish: Scientists pursue more rice, less disease in Senegal paddies",
+      "link": "https://phys.org/news/2026-09-fish-scientists-pursue-rice-disease.html",
+      "summary": "Half smiling through crinkled eyes, Moussa Ndiaye, in his long tunic and skullcap, watched a combine harvest his northern Senegal rice paddy, where he expects a good haul—not just ",
+      "date": "2026-09-15T09:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nile-tilapia-which-are.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-15T09:57:01Z"
+    },
     {
       "title": "Millions of birds are migrating across the US as Fall migration begins to peak",
       "link": "https://www.birdwatchingdaily.com/beginners/migration/millions-of-birds-are-migrating-across-the-us-as-fall-migration-begins-to-peak/",
@@ -5403,105 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-09-05T12:33:45Z"
-    },
-    {
-      "title": "I Faced a Black Bear in My House During a Record Year for Encounters",
-      "link": "https://www.outsideonline.com/culture/essays-culture/colorado-bear-encounters/",
-      "summary": "A late-night bear encounter at my Colorado home scared the crap out of me. Turns out, I'm not alone. The post I Faced a Black Bear in My House During a Record Year for Encounters a",
-      "date": "2026-09-05T09:19:27Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/bear-pose.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-09-05T12:33:45Z"
-    },
-    {
-      "title": "Fermat’s last theorem formalised by AI agents in just 11 days",
-      "link": "https://www.newscientist.com/article/2587839-fermats-last-theorem-formalised-by-ai-agents-in-just-11-days/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Converting the proof of Fermat's last theorem into code that computers can check was expected to take years – Anthropic's Claude AI managed it in less than two weeks",
-      "date": "2026-09-05T11:05:48Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/2N9GXNJ1.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-09-05T12:33:49Z"
-    },
-    {
-      "title": "Excavation in Poland reveals Stone Age man buried with decapitated heads and a tooth necklace",
-      "link": "https://www.livescience.com/archaeology/excavation-in-poland-reveals-stone-age-man-buried-with-decapitated-heads-and-a-tooth-necklace",
-      "summary": "A Stone Age burial of a man with a toothy necklace and human skulls surprised archaeologists excavating in Poland.",
-      "date": "2026-09-05T12:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/booNSpbUxMVRLzpQZAVJBj-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-09-05T12:33:52Z"
-    },
-    {
-      "title": "How did the Romans build their towering aqueducts?",
-      "link": "https://www.livescience.com/archaeology/romans/how-did-the-romans-build-their-towering-aqueducts",
-      "summary": "The ancient Romans are well known for their aqueducts. But how did they build these impressive structures?",
-      "date": "2026-09-05T09:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/WUdNXiardR7NKyqm2pyvWQ-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-09-05T12:33:52Z"
-    },
-    {
-      "title": "Beekeepers warn of Asian hornet threat and call for UK awareness campaign",
-      "link": "https://www.theguardian.com/environment/2026/sep/05/beekeepers-asian-hornet-threat-uk-awareness-campaign",
-      "summary": "Experts say invasive species are creating ‘pollinator deserts’ and could have serious impact on food security British beekeepers have called for a national awareness campaign about",
-      "date": "2026-09-05T05:00:29Z",
-      "image": "https://i.guim.co.uk/img/media/50ec3bea7d2087d6aecc41f12c9a2fb7c0857d04/1257_0_6545_5236/master/6545.jpg?width=140&quality=85&auto=format&fit=max&s=f647455ed604e22781d91aa5d4c90559",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-09-05T08:55:17Z"
-    },
-    {
-      "title": "Country diary: The wild, riotous sounds of otters in battle | Cal Flyn",
-      "link": "https://www.theguardian.com/environment/2026/sep/05/country-diary-the-wild-riotous-sounds-of-otters-in-battle",
-      "summary": "Isle of Lismore, Argyll: They skim over the surface like stones, making such a hullabaloo you could hear them a mile away I hear them before I see them: a wailing, or something mor",
-      "date": "2026-09-05T04:30:26Z",
-      "image": "https://i.guim.co.uk/img/media/99fdffc54faa39fc5989dc8f3aa2d95fc238c79f/864_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=87cd910440c185571b9137dbfed324a4",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-09-05T08:55:17Z"
-    },
-    {
-      "title": "Author Lise Barnéoud on the bizarre and provoking world of microchimerism — when cells from one person live in another, genetically distinct individual",
-      "link": "https://www.livescience.com/health/genetics/author-lise-barneoud-on-the-bizarre-and-provoking-world-of-microchimerism-when-cells-from-one-person-live-in-another-genetically-distinct-individual",
-      "summary": "Journalist and author Lise Barnéoud talks to Live Science about her book \"Hidden Guests,\" which dives into the field of microchimerism and how it's transforming our knowledge of ge",
-      "date": "2026-09-05T08:30:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/f7jJHCn8FCLL5x3WFd8RR4-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-09-05T08:55:30Z"
-    },
-    {
-      "title": "Trump order directs officials to consider stripping protections for gray wolves",
-      "link": "https://www.theguardian.com/us-news/2026/sep/04/trump-order-gray-wolves",
-      "summary": "Interior department given three months to decide whether wolves can be removed from endangered species list Donald Trump signed an executive order on Friday directing the interior ",
-      "date": "2026-09-05T00:50:41Z",
-      "image": "https://i.guim.co.uk/img/media/b37d309fa37fe726bec9660151f209e2b5f30d2a/324_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d7306a6a8ac46dd2d8b8e9672e2c744b",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-09-05T04:05:46Z"
-    },
-    {
-      "title": "2 Men Tried to Bail in Wyoming’s Cirque of the Towers. They Ended Up Staying the Night on Pingora Peak.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/pingora-peak-rescue-wind-river-range-wyoming/",
-      "summary": "Two climbers were rescued after staying the night on Pingora Peak in Wyoming when a stuck rope halted their descent. The post 2 Men Tried to Bail in Wyoming’s Cirque of the Towers.",
-      "date": "2026-09-04T21:29:34Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/pingora-peak.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-09-04T23:53:27Z"
     }
   ]
 }
