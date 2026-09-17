@@ -1,8 +1,151 @@
 {
-  "updated": "2026-09-16T22:01:12Z",
-  "updated_utc": "2026-09-16T22:01:12Z",
+  "updated": "2026-09-17T01:15:43Z",
+  "updated_utc": "2026-09-17T01:15:43Z",
   "count": 500,
   "stories": [
+    {
+      "title": "To Speak the Language of the Land",
+      "link": "https://hakaimagazine.com/features/to-speak-the-language-of-the-land/",
+      "summary": "Nearly 200 of us cram into Tarāwhai, a traditional wooden Māori meeting house, under the gaze of the ancestors and deities carved into the posts and walls. We’re here in the home o",
+      "date": "Thu, 12 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-maori-language-and-place.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-09-17T01:15:31Z"
+    },
+    {
+      "title": "Caviar Pizzas, New Money, and the Death of an Ancient Fish",
+      "link": "https://hakaimagazine.com/features/caviar-pizzas-new-money-and-the-death-of-an-ancient-fish/",
+      "summary": "I am sitting at a slick Manhattan waterfront restaurant on the banks of the East River, New York City, trying to decide why I find the caviar pizza on the menu so disturbing. Jonat",
+      "date": "Tue, 10 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-21st-century-sturgeon.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-09-17T01:15:31Z"
+    },
+    {
+      "title": "The Destructive Legacy of Failed Aquaculture",
+      "link": "https://hakaimagazine.com/news/the-destructive-legacy-of-failed-aquaculture/",
+      "summary": "Aquaculture is big business in Canada. In 2023, open-net-pen salmon farming in British Columbia alone produced 50,000 tonnes of fish worth just over US $350-million. But on June 30",
+      "date": "2024-12-06T08:01:14Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-aquaculture-cleanup.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-09-17T01:15:31Z"
+    },
+    {
+      "title": "Conjuring the Lost Land Beneath the North Sea",
+      "link": "https://hakaimagazine.com/features/conjuring-the-lost-land-beneath-the-north-sea/",
+      "summary": "The North Sea is a hard place to love. It’s not the cold, or the silty gray-brown waters that seem to suck the brightness out of the sky that make it unappealing, it’s what people ",
+      "date": "Thu, 05 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-doggerland.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-09-17T01:15:31Z"
+    },
+    {
+      "title": "He Fell 120 Feet on Oregon’s Tom, Dick, and Harry Mountain. A Bystanding Doctor Came to His Rescue.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/tom-dick-harry-mountain-rescue-filmmaker/",
+      "summary": "A 33-year-old filmmaker survived a 100-foot cliff fall on Tom, Dick, and Harry Mountain in Oregon thanks to a doctor on the scene and a National Guard rescue. The post He Fell 120 ",
+      "date": "2026-09-16T23:07:48Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/GettyImages-1341147927-1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-09-17T01:15:34Z"
+    },
+    {
+      "title": "Sharks on the move expose the need for international conservation efforts",
+      "link": "https://phys.org/news/2026-09-sharks-expose-international-efforts.html",
+      "summary": "Understanding the migration pathways of sharks and rays is key to conserving some of the world's most endangered marine species, according to new University of Queensland research.",
+      "date": "2026-09-17T00:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/whale-sharks.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-17T01:15:40Z"
+    },
+    {
+      "title": "Forest structure matters more than topography in shaping plant diversity in Southern Apennine old-growth forests",
+      "link": "https://phys.org/news/2026-09-forest-topography-diversity-southern-apennine.html",
+      "summary": "A study in Pollino National Park shows that large trees, complex canopies and deadwood diversity play a major role in shaping vascular plant communities, highlighting the ecologica",
+      "date": "2026-09-17T00:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/forest-structure-matte.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-17T01:15:40Z"
+    },
+    {
+      "title": "Long-term oyster reef restoration shows clear success in murky waters",
+      "link": "https://phys.org/news/2026-09-term-oyster-reef-success-murky.html",
+      "summary": "Large-scale oyster reef restoration in the Chesapeake Bay is successfully creating three-dimensional habitats that support larger, more diverse fish communities, according to new r",
+      "date": "2026-09-16T23:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/long-term-oyster-reef.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-17T01:15:40Z"
+    },
+    {
+      "title": "Device simulates natural conditions to grow biofilms and test their antibiotic susceptibility more accurately",
+      "link": "https://phys.org/news/2026-09-device-simulates-natural-conditions-biofilms.html",
+      "summary": "Biofilms are complex microbial communities that adhere to a surface and encase themselves in a viscous matrix they produce. This structure protects bacteria from antibiotics and th",
+      "date": "2026-09-16T23:40:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-ibec-device-simulat.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-17T01:15:40Z"
+    },
+    {
+      "title": "Global database reveals hidden diversity and potential of deep-sea microbes",
+      "link": "https://phys.org/news/2026-09-global-database-reveals-hidden-diversity.html",
+      "summary": "The ocean's aphotic zone—the dark, high-pressure region below the surface, where sunlight cannot reach—is home to a vast wealth of microbial life. Yet scientists know relatively li",
+      "date": "2026-09-16T22:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-database-reveals.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-17T01:15:40Z"
+    },
+    {
+      "title": "Brazilian sedge reproduces sexually but without DNA reshuffling, producing genetic clones",
+      "link": "https://phys.org/news/2026-09-brazilian-sedge-sexually-dna-reshuffling.html",
+      "summary": "Sexual reproduction usually reshuffles genetic information, creating offspring that differ from their parents. But one small plant takes an unexpected route. In a new study publish",
+      "date": "2026-09-16T22:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/photograph-of-the-braz.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-17T01:15:40Z"
+    },
+    {
+      "title": "Bird flu has claimed its first Australian sea lion and dolphin. How does the virus get into these animals?",
+      "link": "https://phys.org/news/2026-09-bird-flu-australian-sea-lion.html",
+      "summary": "A rare Australian sea lion (Neophoca cinerea) on Kangaroo Island has been confirmed to have died from highly pathogenic H5N1 bird flu. The sea lion had recently been attacked by a ",
+      "date": "2026-09-16T22:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/australian-sea-lion.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-17T01:15:40Z"
+    },
+    {
+      "title": "Tiny oyster larvae rely on gravity to feed",
+      "link": "https://phys.org/news/2026-09-tiny-oyster-larvae-gravity.html",
+      "summary": "Eastern oyster larvae are only 100–300 micrometers long, but their dense calcium carbonate shells make them substantially heavier than the surrounding seawater. A new study led by ",
+      "date": "2026-09-16T22:20:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/eastern-oysters.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-17T01:15:40Z"
+    },
     {
       "title": "Hungry black bears are running into trouble in the Rocky Mountains",
       "link": "https://www.mercurynews.com/2026/09/08/drought-bear-trouble/",
@@ -5359,149 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-09-09T09:33:00Z"
-    },
-    {
-      "title": "Orion’s Belt points to Sirius on September mornings",
-      "link": "https://earthsky.org/tonight/orions-belt-points-to-sirius/",
-      "summary": "Use Orion's Belt to find Sirius, the sky's brightest star. In 2026, Jupiter is in the same region, outshining even Sirius. The post Orion’s Belt points to Sirius on September morni",
-      "date": "2026-09-09T06:00:00Z",
-      "image": "https://earthsky.org/upl/2022/01/Sirius-Orions-Belt-Canis-Major_January2022.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-09-09T09:33:01Z"
-    },
-    {
-      "title": "The Aurora Peak Is Over, But You Can Still See the Northern Lights. Here’s How.",
-      "link": "https://www.outsideonline.com/adventure-travel/advice/how-to-see-northern-lights-after-solar-maximum/",
-      "summary": "While solar maximum is behind us, the northern lights won’t disappear. Here’s how and why you should chase the sky swirls during the sun’s waning phase in 2026 and beyond. The post",
-      "date": "2026-09-09T09:28:04Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/08/horse-lights.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-09-09T09:33:06Z"
-    },
-    {
-      "title": "These bulbs have evolved to avoid being eaten. You can take advantage of that",
-      "link": "https://phys.org/news/2026-09-bulbs-evolved-eaten-advantage.html",
-      "summary": "There's little worse in a gardener's mind than watching their careful planning and hard work go up in a cloud of teeth, thanks to every four-legged freeloader within chewing distan",
-      "date": "2026-09-09T08:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/these-bulbs-have-evolv.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-09T09:33:12Z"
-    },
-    {
-      "title": "'Drops in the ocean can make waves': How the grassroots climate movement took off in the US",
-      "link": "https://www.livescience.com/planet-earth/climate-change/drops-in-the-ocean-can-make-waves-how-the-grassroots-climate-movement-took-off-in-the-us",
-      "summary": "In this excerpt from \"The Carbon Wave,\" author Leah Stokes explores the lead up to that moment, and the wave of environmental action that followed.",
-      "date": "2026-09-09T08:55:51Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/tB5RXyMymoKENWVmJuxMpN-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-09-09T09:33:13Z"
-    },
-    {
-      "title": "GPS collars reveal secrets of the power struggle between lions and hyenas in the wild",
-      "link": "https://phys.org/news/2026-09-gps-collars-reveal-secrets-power.html",
-      "summary": "Hidden deep in the bush, ranging over huge territories at speeds humans can't match and through terrain not even the most rugged vehicle can handle, hyenas and lions are hard to st",
-      "date": "2026-09-09T04:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gps-collars-reveal-sec.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-09T04:31:29Z"
-    },
-    {
-      "title": "Chesapeake Bay underwater grasses increase 7%, buoyed by gains in salty waters",
-      "link": "https://phys.org/news/2026-09-chesapeake-bay-underwater-grasses-buoyed.html",
-      "summary": "Submerged aquatic vegetation (SAV), one of the Chesapeake Bay's most important indicators of ecosystem health, increased by 7% in 2025, according to researchers at William & Mary's",
-      "date": "2026-09-09T02:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chesapeake-bay-underwa.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-09T04:31:29Z"
-    },
-    {
-      "title": "New computational method pushes cryo-electron microscopy beyond traditional resolution limits",
-      "link": "https://phys.org/news/2026-09-method-cryo-electron-microscopy-traditional.html",
-      "summary": "Cryo-electron microscopy (cryo-EM) has become a powerful tool for determining the structures of proteins, viruses and molecular complexes at near-atomic resolution. However, achiev",
-      "date": "2026-09-09T01:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-computational-meth.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-09T04:31:29Z"
-    },
-    {
-      "title": "Tiny backpacks reveal the secret, sometimes circuitous migrations of small songbirds",
-      "link": "https://phys.org/news/2026-09-tiny-backpacks-reveal-secret-circuitous.html",
-      "summary": "Squinting through my binoculars, I scanned the dense branches of a black spruce, trying my best to catch a glimpse of the thin legs of a small black, white and yellow songbird. I w",
-      "date": "2026-09-09T01:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-backpacks-reveal-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-09T04:31:29Z"
-    },
-    {
-      "title": "Searching for unknown fungi in the Norwegian mountains",
-      "link": "https://phys.org/news/2026-09-unknown-fungi-norwegian-mountains.html",
-      "summary": "During some days in August, science takes center stage. The experts are surveying the little-known diversity of fungi found in the alpine Dryas heath. They may even discover specie",
-      "date": "2026-09-09T00:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/searching-for-unknown.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-09T04:31:29Z"
-    },
-    {
-      "title": "One of the oldest known 3D animal fossils found in Norwegian sheep field",
-      "link": "https://phys.org/news/2026-09-oldest-3d-animal-fossils-norwegian.html",
-      "summary": "One of the oldest known 3D fossils of an animal has been discovered in a sheep field in the Norwegian Arctic, the first new major site of its kind anywhere in Europe in decades.",
-      "date": "2026-09-09T00:00:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-of-the-oldest-know.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-09T04:31:29Z"
-    },
-    {
-      "title": "Recent Research Says That Climbing Can Reduce Depression and Anxiety",
-      "link": "https://www.outsideonline.com/health/training-performance/recent-research-says-that-climbing-can-reduce-depression-and-anxiety/",
-      "summary": "New research shows structured bouldering therapy can significantly reduce anxiety and depression. Here is how climbing interrupts rumination and clears mental fog. The post Recent ",
-      "date": "Tue, 08 Sep 2026 22Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/person-rock-climbing.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-09-08T23:59:40Z"
-    },
-    {
-      "title": "Colorado’s Maroon Bells Are Closed After a Second Climber Has Died in Less Than a Week",
-      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/maroon-bells-closed-two-climber-deaths/",
-      "summary": "Access to Maroon Peak is closed as Mountain Rescue Aspen recovers a deceased climber—the second fatal fall on Colorado’s 14ers in under a week. The post Colorado’s Maroon Bells Are",
-      "date": "Tue, 08 Sep 2026 22Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/maroon-bells-2.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-09-08T23:59:40Z"
-    },
-    {
-      "title": "Common painkiller use in early pregnancy linked to smaller ovaries and testes",
-      "link": "https://www.newscientist.com/article/2588178-common-painkiller-use-in-early-pregnancy-linked-to-smaller-ovaries-and-testes/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Taking the painkiller paracetamol (acetaminophen) during pregnancy has been linked to smaller ovaries and testes in baby girls and boys, but that doesn't mean it directly caused th",
-      "date": "Tue, 08 Sep 2026 23Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311333246.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-09-08T23:59:44Z"
     }
   ]
 }
