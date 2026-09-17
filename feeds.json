@@ -1,8 +1,85 @@
 {
-  "updated": "2026-09-17T01:15:43Z",
-  "updated_utc": "2026-09-17T01:15:43Z",
+  "updated": "2026-09-17T07:29:50Z",
+  "updated_utc": "2026-09-17T07:29:50Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey",
+      "link": "https://www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe",
+      "summary": "As three siblings came of age and had to leave their pack, scientists tracked the dogs’ perilous 2,500-mile odyssey to find their own territory It sounds like a Disney movie: three",
+      "date": "2026-09-17T04:00:39Z",
+      "image": "https://i.guim.co.uk/img/media/6e7727a328fa9baa76b7710e763fcc2097bcfbaa/1610_411_2635_2110/master/2635.jpg?width=140&quality=85&auto=format&fit=max&s=630cc8d86fda3829042835c8f98e0cfd",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-17T07:29:35Z"
+    },
+    {
+      "title": "English Heritage trains new generation of scythers to maintain meadows and craft",
+      "link": "https://www.theguardian.com/uk-news/2026/sep/17/english-heritage-trains-new-generation-of-scythers-to-maintain-meadows-and-craft",
+      "summary": "Initiative aims to keep alive age-old skill, and at Muchelney Abbey in Somerset improve habitat for rare shrill carder bee It sounds like something out of a Thomas Hardy novel: a m",
+      "date": "2026-09-17T04:00:39Z",
+      "image": "https://i.guim.co.uk/img/media/35bce8075159ac9d972953e626980f800fce33d1/632_0_5523_4424/master/5523.jpg?width=140&quality=85&auto=format&fit=max&s=59823e4e8d9203f94674c2861e7f8a36",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-17T07:29:35Z"
+    },
+    {
+      "title": "Humpback whale filmed apparently grieving its stillborn calf – video",
+      "link": "https://www.theguardian.com/environment/video/2026/sep/17/humpback-whale-filmed-apparently-grieving-its-stillborn-calf-video",
+      "summary": "Footage recorded in July 2025 shows a humpback whale repeatedly returning for more than an hour to the spot where its stillborn calf lay, a kilometre off Australia’s Gold Coast. Wh",
+      "date": "2026-09-17T03:49:34Z",
+      "image": "https://i.guim.co.uk/img/media/905b29a652f1a75da5e94789d09fc2e3966fc050/467_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=284969af61d661ad897889a9d5fc3db5",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-17T07:29:35Z"
+    },
+    {
+      "title": "Do whales grieve? Rare footage of humpback alongside stillborn calf suggests they might | Olaf Meynecke for the Conversation",
+      "link": "https://www.theguardian.com/environment/2026/sep/17/do-whales-grieve-scientists-research-off-australias-gold-coast-suggests-they-might",
+      "summary": "The behaviours we observed could represent grief, but they could also reflect maternal attachment, confusion or instinctive caregiving It was a tragic sight. One day last July, a n",
+      "date": "2026-09-17T02:22:11Z",
+      "image": "https://i.guim.co.uk/img/media/4b3e1537b7fc3b41aeee12ce4942bc70d9cd4207/633_0_6333_5067/master/6333.jpg?width=140&quality=85&auto=format&fit=max&s=e8a78bc4dee4ce0df9edaa45dd58a6cb",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-17T07:29:35Z"
+    },
+    {
+      "title": "2026 September equinox: All you need to know",
+      "link": "https://earthsky.org/astronomy-essentials/everything-you-need-to-know-september-equinox/",
+      "summary": "The September equinox is here! Autumn for the Northern Hemisphere. Spring for the Southern Hemisphere. Here's all you need to know. The post 2026 September equinox: All you need to",
+      "date": "Thu, 17 Sep 2026 07Z",
+      "image": "https://earthsky.org/upl/2023/09/equinoxes-and-solstices-e1692746198109.png",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-09-17T07:29:36Z"
+    },
+    {
+      "title": "Plug-in solar panels still have safety risks in the UK despite legalisation",
+      "link": "https://www.newscientist.com/article/2587873-plug-in-solar-panels-still-have-safety-risks-in-the-uk-despite-legalisation/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Plug-in solar panels offer reduced bills and can help boost renewable energy on the UK's grid, but concerns around their safety remain",
+      "date": "Thu, 17 Sep 2026 06Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312685605.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-09-17T07:29:45Z"
+    },
+    {
+      "title": "Why Melbourne makes you sneeze in spring",
+      "link": "https://phys.org/news/2026-09-melbourne.html",
+      "summary": "When most Australians say 'spring is in the air,' they're speaking metaphorically, as the days become longer and warmer.",
+      "date": "2026-09-17T02:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/pollen.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-17T07:29:47Z"
+    },
     {
       "title": "To Speak the Language of the Land",
       "link": "https://hakaimagazine.com/features/to-speak-the-language-of-the-land/",
@@ -5425,83 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-09-09T14:22:03Z"
-    },
-    {
-      "title": "A 66.5-million-year-old trackway captures adult T. rex at walking pace",
-      "link": "https://phys.org/news/2026-09-million-year-trackway-captures-adult.html",
-      "summary": "Scientists from the Denver Museum of Nature & Science and Liverpool John Moores University in England have discovered the first adult T. rex trackway, providing insights into how t",
-      "date": "2026-09-09T14:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/denver-museum-of-natur.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-09T14:22:05Z"
-    },
-    {
-      "title": "Ancient DNA reveals 1,000 years of human-environment interactions at Crawford Lake",
-      "link": "https://phys.org/news/2026-09-ancient-dna-reveals-years-human.html",
-      "summary": "An international team of scientists has recreated a 1,000-year timeline documenting ecological changes and human impact on the area surrounding Crawford Lake, the famed location of",
-      "date": "2026-09-09T14:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-dna-reveals-10.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-09T14:22:05Z"
-    },
-    {
-      "title": "Biologists find a hidden weak spot in how bacteria build the tails they use to move",
-      "link": "https://phys.org/news/2026-09-biologists-hidden-weak-bacteria-tails.html",
-      "summary": "New research from Indiana University has uncovered a previously unknown vulnerability in how bacteria build the whip-like tails they use to move. The researchers found that buildin",
-      "date": "2026-09-09T13:20:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/biologists-find-a-hidd.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-09T14:22:05Z"
-    },
-    {
-      "title": "Local microbes persist in wine despite commercial yeast",
-      "link": "https://phys.org/news/2026-09-local-microbes-persist-wine-commercial.html",
-      "summary": "A new study has demonstrated that regional microbial imprints can remain detectable under commercial winemaking conditions. The research, appearing in Applied and Environmental Mic",
-      "date": "2026-09-09T13:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wine.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-09T14:22:05Z"
-    },
-    {
-      "title": "The moon may have formed in just 5 hours, new simulations suggest",
-      "link": "https://www.livescience.com/space/the-moon/the-moon-may-have-formed-in-just-5-hours-new-simulations-suggest",
-      "summary": "Novel simulations, which reassessed the ancient collision between Earth and the protoplanet Theia, suggest that the moon could have emerged from the aftermath of this impact much m",
-      "date": "2026-09-09T14:08:25Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ffieNVKHXWLci4rC44rSJh-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-09-09T14:22:06Z"
-    },
-    {
-      "title": "Diagnostic dilemma: Fisher's colon punctured by eel that snuck in through his rectum",
-      "link": "https://www.livescience.com/health/diagnostic-dilemma-fishers-colon-punctured-by-eel-that-snuck-in-through-his-rectum",
-      "summary": "A man's intestines were perforated in an \"exceedingly rare\" medical case involving a live eel.",
-      "date": "2026-09-09T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/P653Rtq6Y5k8hPFLcKyipM-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-09-09T14:22:06Z"
-    },
-    {
-      "title": "Birdwatch: the avian equivalent of a catwalk model, blue cranes are under threat",
-      "link": "https://www.theguardian.com/environment/2026/sep/09/birdwatch-the-avian-equivalent-of-a-catwalk-model-blue-cranes-are-under-threat",
-      "summary": "Numbers of the exquisitely graceful species are falling amid loss of food supply and habitat Few birds are quite as elegant as the blue crane. As I watched a pair feeding alongside",
-      "date": "2026-09-09T05:00:01Z",
-      "image": "https://i.guim.co.uk/img/media/a06d7c34e3611d0131adb4e4ee22ae609d6bfdd0/193_0_2687_2150/master/2687.jpg?width=140&quality=85&auto=format&fit=max&s=bab681b50366284930646f987266ed95",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-09-09T09:33:00Z"
     }
   ]
 }
