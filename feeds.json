@@ -1,8 +1,41 @@
 {
-  "updated": "2026-09-18T20:46:50Z",
-  "updated_utc": "2026-09-18T20:46:50Z",
+  "updated": "2026-09-18T23:10:20Z",
+  "updated_utc": "2026-09-18T23:10:20Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Scarlet Tanager Species Spotlight: 10 Interesting Facts!",
+      "link": "https://birdwatchinghq.com/scarlet-tanager-interesting-facts/",
+      "summary": "Today, I want to introduce you to the Scarlet Tanager. Many people find it surprising that these BEAUTIFUL birds spend their summers breeding in North America. Once the weather sta",
+      "date": "2025-10-17T17:43:57Z",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/male_scarlet_tanager_2.jpg",
+      "name": "BWatching HQ",
+      "category": "birds",
+      "color": 4,
+      "fetched_at": "2026-09-18T23:10:01Z"
+    },
+    {
+      "title": "Gray Catbird Species Spotlight: 10 Interesting Facts!",
+      "link": "https://birdwatchinghq.com/gray-catbird-interesting-facts/",
+      "summary": "If you’ve ever heard a bird meow or seen a flash of sleek gray darting through a thicket, you might have seen the Gray Catbird. Equal parts mysterious and entertaining, these feath",
+      "date": "Thu, 16 Oct 2025 17Z",
+      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/gray_catbird_1-1.jpg",
+      "name": "BWatching HQ",
+      "category": "birds",
+      "color": 4,
+      "fetched_at": "2026-09-18T23:10:01Z"
+    },
+    {
+      "title": "Scientists hope deeper-rooted soybeans can withstand climate extremes and store more carbon",
+      "link": "https://phys.org/news/2026-09-scientists-deeper-rooted-soybeans-climate.html",
+      "summary": "Research scientist Ashish Rajurkar kneels in the dirt, lifting a large clod of soil tangled around a soybean plant. He knocks away pieces of earth from the plant's roots, which slo",
+      "date": "2026-09-18T22:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-hope-deeper.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-18T23:10:16Z"
+    },
     {
       "title": "Grow Keystone Plants: The Best Way to Help Wildlife",
       "link": "https://www.birdsandblooms.com/gardening/gardening-basics/keystone-plant/",
@@ -5469,39 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-09-10T19:30:44Z"
-    },
-    {
-      "title": "Bird Friendly Certification: 8 Requirements Coffee Farms Need to Satisify",
-      "link": "https://birdwatchinghq.com/bird-friendly-certification-requirements-for-coffee-farms/",
-      "summary": "In the world of coffee certifications, there’s one that soars above the rest—literally. The Smithsonian Bird Friendly certification is the gold standard when it comes to protecting",
-      "date": "2025-10-20T17:51:25Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/bird_friendly_logo_2-1024x1024.webp",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-09-10T19:30:46Z"
-    },
-    {
-      "title": "Harpy Eagles: 17 Fascinating Facts About the Canopy’s King",
-      "link": "https://birdwatchinghq.com/harpy-eagle-facts/",
-      "summary": "Honestly, Harpy Eagles are one of the coolest birds around. They are the rulers of the rainforest skies and are as intriguing as they are awe-inspiring. Keep reading, and you will ",
-      "date": "2025-10-19T17:49:35Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/harpy_eagle_double_crest_of_feathers-1.jpg",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-09-10T19:30:46Z"
-    },
-    {
-      "title": "10 Things You Can Do to Help Birds",
-      "link": "https://birdwatchinghq.com/how-to-help-birds/",
-      "summary": "Let me give you a staggering and sobering number: Since 1970, 2.9 billion birds have disappeared from North America. Yes, you read that correctly. Almost 25% of the total number of",
-      "date": "2025-10-18T17:47:14Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2025/12/red_winged_blackbirds_declining.jpg",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-09-10T19:30:46Z"
     }
   ]
 }
