@@ -1,8 +1,129 @@
 {
-  "updated": "2026-09-17T22:02:07Z",
-  "updated_utc": "2026-09-17T22:02:07Z",
+  "updated": "2026-09-18T01:11:06Z",
+  "updated_utc": "2026-09-18T01:11:06Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Birding in San Diego: The Birdiest County in the U.S.",
+      "link": "https://www.birdsandblooms.com/travel/birding-hotspots/san-diego-birding/",
+      "summary": "Join the locals and explore the fantastic birding habitats that San Diego has to offer, from the seashore to the grasslands. The post Birding in San Diego: The Birdiest County in t",
+      "date": "2026-09-09T20:08:11Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/09/275537970_1_Candice_Lenney_BNB_BYPC_2021-e1788977669806.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-09-18T01:10:46Z"
+    },
+    {
+      "title": "How, Exactly, Could Deep-Sea Mining Benefit All of Humanity?",
+      "link": "https://hakaimagazine.com/news/how-exactly-could-deep-sea-mining-benefit-all-of-humanity/",
+      "summary": "When Arvid Pardo, a Maltese diplomat, took the floor at the United Nations General Assembly in New York in 1967 and began speaking at length on international law, the room was spar",
+      "date": "2024-12-20T08:01:54Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-benefit-of-humanity.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-09-18T01:10:52Z"
+    },
+    {
+      "title": "The Canoe in the Forest",
+      "link": "https://hakaimagazine.com/features/the-canoe-in-the-forest/",
+      "summary": "When I first see the canoe, in May, it takes a moment to distinguish the long, shapely slab of cedar from the patch of earth that has spent more than a century trying to reclaim it",
+      "date": "Thu, 19 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-haida-canoe.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-09-18T01:10:52Z"
+    },
+    {
+      "title": "What’s Next for Deep-Sea Mining?",
+      "link": "https://hakaimagazine.com/news/whats-next-for-deep-sea-mining/",
+      "summary": "Earlier this year, Leticia Carvalho, a Brazilian oceanographer and environmental policy expert, took the helm of the International Seabed Authority (ISA) as secretary general. The ",
+      "date": "2024-12-18T08:01:59Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-deep-sea-mining-1.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-09-18T01:10:52Z"
+    },
+    {
+      "title": "El Niño could bring a lot of rain this winter. Coastal Cleanup Day aims to pick up trash before it washes to the ocean. Here’s how to join in Saturday.",
+      "link": "https://www.mercurynews.com/2026/09/17/el-nino-could-bring-a-lot-of-rain-this-winter-coastal-cleanup-day-aims-to-pick-up-trash-before-it-washes-to-the-ocean-heres-how-to-join-in-saturday/",
+      "summary": "More than 40,000 people are expected for the largest volunteer event in California.",
+      "date": "Thu, 17 Sep 2026 22Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2024/09/SJM-L-COASTCLEAN-0922-9.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-09-18T01:10:54Z"
+    },
+    {
+      "title": "Buried in 2 Feet of Snow With No Overnight Gear, a Hike in the Enchantments Just Turned Deadly",
+      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/washington-enchantments-hiker-death/",
+      "summary": "An Oklahoma woman died and her husband was rescued after an early September snowstorm trapped them in Washington's Enchantments. The post Buried in 2 Feet of Snow With No Overnight",
+      "date": "Thu, 17 Sep 2026 23Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/GettyImages-875078130.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-09-18T01:10:56Z"
+    },
+    {
+      "title": "The Fall of 2001 Was Unseasonably Warm. It Was a Warning We Ignored.",
+      "link": "https://www.outsideonline.com/culture/essays-culture/running-nyc-marathon-climate-crisis-warm-fall-2001/",
+      "summary": "A New York runner reflects on the abnormally warm autumn of 2001, his journey to the marathon start line, and why saving the natural world is the unifying cause we desperately need",
+      "date": "Thu, 17 Sep 2026 22Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/NYCrun.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-09-18T01:10:56Z"
+    },
+    {
+      "title": "Toxic algae can pose a hidden danger to dogs swimming in freshwater",
+      "link": "https://phys.org/news/2026-09-toxic-algae-pose-hidden-danger.html",
+      "summary": "Diving into cool water can be a quick way to escape the summer heat, but during certain times of year, freshwater can pose hidden dangers to people and pets.",
+      "date": "2026-09-18T01:00:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dog-in-water.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-18T01:11:02Z"
+    },
+    {
+      "title": "Ubiquitin marks abnormal glycogen for destruction to protect the brain, study finds",
+      "link": "https://phys.org/news/2026-09-ubiquitin-abnormal-glycogen-destruction-brain.html",
+      "summary": "Researchers at the University of Cambridge and the MRC Laboratory of Molecular Biology have discovered a previously unknown cellular defense system that protects the brain from abn",
+      "date": "2026-09-17T23:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ubiquitin-marks-abnorm.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-18T01:11:02Z"
+    },
+    {
+      "title": "Scaling up the detection of genome-edited rice lines",
+      "link": "https://phys.org/news/2026-09-scaling-genome-rice-lines.html",
+      "summary": "A new open-access study introduces RiSpy, a data-driven fingerprinting framework that makes the identification of genome-edited (GE) rice lines more robust, scalable and broadly ap",
+      "date": "2026-09-17T23:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rice-plant.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-18T01:11:02Z"
+    },
+    {
+      "title": "Newfound fungal nutrient-sensing mechanism could advance biofuels and disease control",
+      "link": "https://phys.org/news/2026-09-newfound-fungal-nutrient-mechanism-advance.html",
+      "summary": "Scientists have taken a step toward a better understanding of how fungi sense and respond to nutrients in the environment, which is critical for engineering fungi for green technol",
+      "date": "2026-09-17T22:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fungi-nutrient-sensing.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-18T01:11:02Z"
+    },
     {
       "title": "New cat species identified for first time in more than a century in Bolivia",
       "link": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
@@ -5381,127 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-09-10T05:46:12Z"
-    },
-    {
-      "title": "Baby orangutans found in forest in India spark trafficking investigation",
-      "link": "https://www.theguardian.com/world/2026/sep/10/baby-orangutans-found-india-trafficking-investigation",
-      "summary": "Native only to the islands of Borneo and Sumatra, the rare apes were found thousands of kilometres away in Odisha state Five baby orangutans have been found in a forest in India, p",
-      "date": "2026-09-10T01:10:57Z",
-      "image": "https://i.guim.co.uk/img/media/ef075d3ee7c7d89c5ae8ff68fdd8af1c01545dc0/341_0_2568_2055/master/2568.jpg?width=140&quality=85&auto=format&fit=max&s=5a6cf9124076eebaba8c67f51d2bac3f",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-09-10T05:46:12Z"
-    },
-    {
-      "title": "August was the joint hottest month on record",
-      "link": "https://www.newscientist.com/article/2588520-august-was-the-joint-hottest-month-on-record/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Global warming and a record El Niño have pushed Earth’s temperature more than 1.5°C above the preindustrial average, and further heat is on the way",
-      "date": "Thu, 10 Sep 2026 02Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311513474.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-09-10T05:46:21Z"
-    },
-    {
-      "title": "Timing 1080 drops to prevent predators bouncing back",
-      "link": "https://phys.org/news/2026-09-predators.html",
-      "summary": "While aerial 1080 drops sharply reduce numbers of rats and stoats, the predators—especially ship rats—can rebound to higher numbers within a few years. Studying 24 years of small-m",
-      "date": "2026-09-10T03:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-zealand.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-10T05:46:23Z"
-    },
-    {
-      "title": "The trapdoor spiders giving a leg up to science",
-      "link": "https://phys.org/news/2026-09-trapdoor-spiders-leg-science.html",
-      "summary": "WA's trapdoor spiders are endangered. Jackson Rendall is here to help—because he thinks they're \"just really cool.\"",
-      "date": "2026-09-10T01:20:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-trapdoor-spiders-g.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-10T05:46:23Z"
-    },
-    {
-      "title": "40 Types of Rabbit-Resistant Plants You Can Grow (2026)",
-      "link": "https://birdwatchinghq.com/rabbit-resistant-plants/",
-      "summary": "“Where did all my flowers go?!” I’ve asked myself this question more than once, and usually, the answer can be summed up with one word -> rabbits! These creatures are adorable but ",
-      "date": "2024-04-24T19:32:31Z",
-      "image": "https://birdwatchinghq.com/wp-content/uploads/2020/06/rabbits-eating-clover.jpg",
-      "name": "BWatching HQ",
-      "category": "birds",
-      "color": 4,
-      "fetched_at": "2026-09-10T00:01:12Z"
-    },
-    {
-      "title": "Sun news: Strike two! Sun-blasts keep arriving",
-      "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-      "summary": "Sun news September 9, 2026: Strike two! A second CME sparked another G1 storm last night. More are arriving today, so G2 storms and auroras are possible. The post Sun news: Strike ",
-      "date": "2026-09-09T09:00:53Z",
-      "image": "https://earthsky.org/upl/2026/09/Sep-9-26-Planetary-Kp-index-chart-e1788946864809.png",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-09-10T00:01:15Z"
-    },
-    {
-      "title": "Visible planets and night sky guide for September",
-      "link": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
-      "summary": "Visible planets and night sky guide: Look for 3 bright planets in the early morning sky: Saturn, Mars and Jupiter, along path the sun travels during the day. The post Visible plane",
-      "date": "2026-09-09T07:00:08Z",
-      "image": "https://earthsky.org/upl/2026/08/All-sky-Aug-7-60-min-sr-NH.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-09-10T00:01:15Z"
-    },
-    {
-      "title": "So Long, and Thanks for All the Fish",
-      "link": "https://hakaimagazine.com/article-short/so-long-and-thanks-for-all-the-fish/",
-      "summary": "We started Hakai Magazine over 10 years ago because the ocean and its coastlines needed a voice. No other outlet was exclusively covering issues at the interface of sea and land—or",
-      "date": "2024-12-27T08:05:43Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-so-long-and-thanks-for-all-the-fish.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-09-10T00:01:17Z"
-    },
-    {
-      "title": "The First First Responders",
-      "link": "https://hakaimagazine.com/features/the-first-first-responders/",
-      "summary": "When a ship wrecks on an unfamiliar coastline, an already desperate situation is all the more dire. Blinded by the night, and lost, the captain and crew of the Puritan, a four-mast",
-      "date": "Tue, 24 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-first-first-responder.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-09-10T00:01:17Z"
-    },
-    {
-      "title": "‘Immaculate condition:’ Rare mastodon fossil found in San Mateo County creek",
-      "link": "https://www.mercurynews.com/2026/09/09/immaculate-condition-rare-mastodon-fossil-found-in-san-mateo-county-creek/",
-      "summary": "Elephant-like creature roamed California more than 11,000 years ago",
-      "date": "2026-09-09T23:00:29Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/SJM-L-MASTODON-04-e1788994369558.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-09-10T00:01:18Z"
-    },
-    {
-      "title": "New insect genus and four species named for Taylor Swift and her albums",
-      "link": "https://phys.org/news/2026-09-insect-genus-species-taylor-swift.html",
-      "summary": "Taylor Swift is now the namesake of a genus of plant-feeding insects from Australia that were previously unknown to science.",
-      "date": "2026-09-09T22:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/taylor-swift-becomes-b-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-10T00:01:27Z"
     }
   ]
 }
