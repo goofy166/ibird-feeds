@@ -1,8 +1,19 @@
 {
-  "updated": "2026-09-19T17:08:03Z",
-  "updated_utc": "2026-09-19T17:08:03Z",
+  "updated": "2026-09-19T20:27:05Z",
+  "updated_utc": "2026-09-19T20:27:05Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A molecular bridge connects two signaling pathways critical for pollen development",
+      "link": "https://phys.org/news/2026-09-molecular-bridge-pathways-critical-pollen.html",
+      "summary": "Cells rely on complex signaling networks in which different molecular pathways communicate with one another. Small GTPases act as molecular switches in these networks, controlling ",
+      "date": "2026-09-19T19:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-molecular-bridge-con.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-19T20:27:01Z"
+    },
     {
       "title": "Why is the Male Red Cardinal is so Bright – you may be surprised",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/why-is-the-male-red-cardinal-is-so-bright-you-may-be-surprised/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-09-11T11:03:11Z"
-    },
-    {
-      "title": "Writers Wanted!",
-      "link": "https://www.10000birds.com/writers-wanted-3.htm?utm_source=rss&utm_medium=rss&utm_campaign=writers-wanted-3",
-      "summary": "Don’t let the ugly poster put you off! Blame ChatGPT for it!We are still looking for regular writers for 10,000 Birds. A great opportunity for birders, bird guides, and bird tour c",
-      "date": "2026-09-11T03:00:36Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/09/60d6c7e7-df72-449c-b3ae-80be28503fbe.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-09-11T05:46:17Z"
     }
   ]
 }
