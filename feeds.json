@@ -1,8 +1,19 @@
 {
-  "updated": "2026-09-19T20:27:05Z",
-  "updated_utc": "2026-09-19T20:27:05Z",
+  "updated": "2026-09-19T22:51:17Z",
+  "updated_utc": "2026-09-19T22:51:17Z",
   "count": 500,
   "stories": [
+    {
+      "title": "How the malaria parasite boosts its transmission potential under stress conditions",
+      "link": "https://phys.org/news/2026-09-malaria-parasite-boosts-transmission-potential.html",
+      "summary": "The malaria parasite is able to detect changes in its host's environment and respond by increasing the production of sexual forms capable of being transmitted to mosquitoes. A stud",
+      "date": "2026-09-19T21:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mosquitoes.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-19T22:51:13Z"
+    },
     {
       "title": "A molecular bridge connects two signaling pathways critical for pollen development",
       "link": "https://phys.org/news/2026-09-molecular-bridge-pathways-critical-pollen.html",
@@ -5487,17 +5498,6 @@
       "summary": "The largest Viking Age silver hoard ever found in Finland was unearthed by a metal detectorist north of Helsinki.",
       "date": "2026-09-11T10:00:00Z",
       "image": "https://cdn.mos.cms.futurecdn.net/vQ7BCE9NQt4c663zxP6367-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-09-11T11:03:11Z"
-    },
-    {
-      "title": "'Every time it gets excited — boom — it collapses': How dogs with narcolepsy helped scientists understand the disorder",
-      "link": "https://www.livescience.com/health/sleep/how-dogs-with-narcolepsy-helped-to-unravel-a-misunderstood-disease",
-      "summary": "Live Science spoke with Dr. Emmanuel Mignot , director of the Stanford Center for Narcolepsy and co-winner of a coveted Lasker Award.",
-      "date": "2026-09-11T09:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/oj6ke5jDZYLvxQrsPXCqH-1280-80.jpg",
       "name": "Live Science",
       "category": "insects",
       "color": 14,
