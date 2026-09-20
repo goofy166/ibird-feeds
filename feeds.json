@@ -1,8 +1,19 @@
 {
-  "updated": "2026-09-19T22:51:17Z",
-  "updated_utc": "2026-09-19T22:51:17Z",
+  "updated": "2026-09-20T00:55:36Z",
+  "updated_utc": "2026-09-20T00:55:36Z",
   "count": 500,
   "stories": [
+    {
+      "title": "At an old steel site in Pittsburgh, bacteria evolved to survive—and eat—industrial pollution",
+      "link": "https://phys.org/news/2026-09-steel-site-pittsburgh-bacteria-evolved.html",
+      "summary": "Across Appalachia and the Rust Belt region, including throughout the city of Pittsburgh, former industrial sites are being transformed into new neighborhoods, research centers and ",
+      "date": "2026-09-19T23:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/at-an-old-steel-site-i.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-20T00:55:32Z"
+    },
     {
       "title": "How the malaria parasite boosts its transmission potential under stress conditions",
       "link": "https://phys.org/news/2026-09-malaria-parasite-boosts-transmission-potential.html",
@@ -5491,17 +5502,6 @@
       "category": "butterflies",
       "color": 13,
       "fetched_at": "2026-09-11T11:03:10Z"
-    },
-    {
-      "title": "Finland's largest Viking Age silver hoard discovered by metal detectorist — and it has thousands of coins and pieces of jewelry",
-      "link": "https://www.livescience.com/archaeology/vikings/finlands-largest-viking-age-silver-hoard-discovered-by-metal-detectorist-and-it-has-thousands-of-coins-and-pieces-of-jewelry",
-      "summary": "The largest Viking Age silver hoard ever found in Finland was unearthed by a metal detectorist north of Helsinki.",
-      "date": "2026-09-11T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/vQ7BCE9NQt4c663zxP6367-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-09-11T11:03:11Z"
     }
   ]
 }
