@@ -1,8 +1,30 @@
 {
-  "updated": "2026-09-20T15:54:29Z",
-  "updated_utc": "2026-09-20T15:54:29Z",
+  "updated": "2026-09-20T18:39:46Z",
+  "updated_utc": "2026-09-20T18:39:46Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Runners Have Been Analyzing Their Gaits For Decades to Manage Chronic Pain. Could It Help Hikers, Too?",
+      "link": "https://www.outsideonline.com/health/training-performance/gait-analysis-for-hikers/",
+      "summary": "A gait analysis is an ultra-common tool used by runners that could also help you manage chronic hiking pain. I got one. Here's what happened. The post Runners Have Been Analyzing T",
+      "date": "2026-09-20T17:43:19Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/gait-analysis-on-treadmill.jpeg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-09-20T18:39:36Z"
+    },
+    {
+      "title": "Virtual cells built from 4D AI models and 'digital twins' could speed up drug discovery",
+      "link": "https://phys.org/news/2026-09-virtual-cells-built-4d-ai.html",
+      "summary": "Mitochondria—tiny structures that convert nutrients into energy—are often depicted as discrete kidney bean-shaped objects. But in reality, they form a dynamic, interconnected netwo",
+      "date": "2026-09-20T16:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-composite-image-show.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-20T18:39:42Z"
+    },
     {
       "title": "Killers On The Loose:  Wolves Of The Sea And Tropical Vagrants",
       "link": "https://www.10000birds.com/killers-on-the-loose-wolves-of-the-sea-and-tropical-vagrants.htm?utm_source=rss&utm_medium=rss&utm_campaign=killers-on-the-loose-wolves-of-the-sea-and-tropical-vagrants",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-09-11T16:18:53Z"
-    },
-    {
-      "title": "Microscopic fragments of ancient alien tech may litter the moon — and scientists have a plan to find them",
-      "link": "https://www.livescience.com/space/extraterrestrial-life/microscopic-fragments-of-ancient-alien-tech-may-litter-the-moon-and-scientists-have-a-plan-to-find-them",
-      "summary": "Researchers propose that tiny technological remnants left over from extinct alien civilizations could have landed on the moon after traveling through interstellar space. It may not",
-      "date": "2026-09-11T15:29:59Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/8uEVEzkAC5SrWyTvzT3AC8-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-09-11T16:18:54Z"
-    },
-    {
-      "title": "Swarovski CL Companion compact binocular review",
-      "link": "https://www.livescience.com/products/optics/swarovski-cl-companion-compact-binocular-review",
-      "summary": "The Swarovski CL Companion binoculars have been given a 2026 upgrade. We got our hands on both the 8x30 and 10x30 models to see if this new version is worth buying.",
-      "date": "2026-09-11T11:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/XfGWQBPvvHPQktN8Y9vjnb-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-09-11T16:18:54Z"
     }
   ]
 }
