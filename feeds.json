@@ -1,8 +1,41 @@
 {
-  "updated": "2026-09-21T00:04:37Z",
-  "updated_utc": "2026-09-21T00:04:37Z",
+  "updated": "2026-09-21T06:05:34Z",
+  "updated_utc": "2026-09-21T06:05:34Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: The biggest burst of partridges I’ve seen on the farm. We must be doing something right | Colin Chappell",
+      "link": "https://www.theguardian.com/environment/2026/sep/21/country-diary-the-biggest-burst-of-partridges-ive-seen-on-the-farm-we-must-be-doing-something-right",
+      "summary": "Brigg, Lincolnshire: As my attention turns to drilling next year’s cash crops, I create a disturbance out in the fields Sometimes a moment of surprise has years of experience behin",
+      "date": "2026-09-21T04:30:34Z",
+      "image": "https://i.guim.co.uk/img/media/b9f64d8c9154cb0351a6b4118a9c1cb75b348f12/437_985_2942_2354/master/2942.jpg?width=140&quality=85&auto=format&fit=max&s=bb69d379465c46575cadd9c894f5f64d",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-21T06:05:18Z"
+    },
+    {
+      "title": "The black robin, once down to just a single breeding pair, wins NZ bird of the year",
+      "link": "https://www.theguardian.com/world/2026/sep/21/nz-bird-of-the-year-2026-black-robin-wins-new-zealand",
+      "summary": "Fondly known as the ‘goth’ of New Zealand’s bird world, the black robin now has a population of 350 adults thanks to a pioneering breeding programme The black robin, once the world",
+      "date": "2026-09-21T01:09:49Z",
+      "image": "https://i.guim.co.uk/img/media/624211a4e8568ad36428005ffba5183d0b92686b/90_0_4642_3714/master/4642.jpg?width=140&quality=85&auto=format&fit=max&s=92935dddcf633a3e28d248905452d2df",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-21T06:05:18Z"
+    },
+    {
+      "title": "Before State Lines: Here Are Five Ways Montana Has Been Keeping Time for Ages",
+      "link": "https://www.smithsonianmag.com/sponsored/before-state-lines-here-are-five-ways-montana-has-been-keeping-time-for-ages-180989433/",
+      "summary": "Travel across Montana and uncover the fossils, geology, and cultural traditions that shaped it",
+      "date": "2026-09-21T04:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/wVYFSEefkRiHKxDX7_amaq0uj8M=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ab/2b/ab2b6a8d-2a2a-48be-b060-0e0470f4bbfb/260629_leslie_hittmeier_commerce_southeast-5192_3.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-09-21T06:05:25Z"
+    },
     {
       "title": "'Nothing short of a minor miracle': 'Rusty treasure' found in the Danube is full of 2,000-year-old iron bars that could equip an entire army with weapons",
       "link": "https://www.livescience.com/archaeology/nothing-short-of-a-minor-miracle-rusty-treasure-found-in-the-danube-is-full-of-2-000-year-old-iron-bars-that-could-equip-an-entire-army-with-weapons",
@@ -5465,39 +5498,6 @@
       "summary": "Amphibian larvae—often known as tadpoles—exhibit a behavior known as \"social aggregation,\" in which they gather together to avoid predators. These interactions are evidence of thei",
       "date": "2026-09-11T14:20:07Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-tadpoles-that-dont.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-11T16:18:53Z"
-    },
-    {
-      "title": "Uniting sequence and structure to map the protein universe across billions of years of evolution",
-      "link": "https://phys.org/news/2026-09-sequence-protein-universe-billions-years.html",
-      "summary": "An international team of researchers, including those at the Earth-Life Science Institute (ELSI) at the Institute of Science Tokyo, has developed a protein language model that brin",
-      "date": "2026-09-11T14:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uniting-sequence-and-s.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-11T16:18:53Z"
-    },
-    {
-      "title": "Research shows agricultural fungicides drive evolution of multidrug resistance in soil microbes",
-      "link": "https://phys.org/news/2026-09-agricultural-fungicides-evolution-multidrug-resistance.html",
-      "summary": "Two newly published studies from Trinity College Dublin scientists raise significant concerns about the use of agricultural fungicides.That is because they show fungicides can rapi",
-      "date": "2026-09-11T14:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-shows-agricul.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-11T16:18:53Z"
-    },
-    {
-      "title": "Planes on a snake? Scientists discover various crab species hitching rides on sea snakes",
-      "link": "https://phys.org/news/2026-09-planes-snake-scientists-crab-species.html",
-      "summary": "Like all other snakes, sea snakes shed their skin as they grow. But because they live near the surface of the open ocean, they don't have the benefit of removing their old skin by ",
-      "date": "2026-09-11T13:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/planes-on-a-snake-scie.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
