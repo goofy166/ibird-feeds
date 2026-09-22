@@ -1,8 +1,63 @@
 {
-  "updated": "2026-09-22T04:30:58Z",
-  "updated_utc": "2026-09-22T04:30:58Z",
+  "updated": "2026-09-22T09:48:10Z",
+  "updated_utc": "2026-09-22T09:48:10Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Meet Barbie Pig: new documentary reveals the wonders of life on the Pacific seabed",
+      "link": "https://www.theguardian.com/environment/2026/sep/22/meet-barbie-pig-new-documentary-reveals-the-wonders-of-life-on-the-pacific-seabed",
+      "summary": "A magical new film captures the secret life of the deep sea in a stretch of the ocean at risk from industrial mining A magical film that explores the wonders of the deep sea throug",
+      "date": "2026-09-22T07:00:37Z",
+      "image": "https://i.guim.co.uk/img/media/c35bbfe906813f58ab90b88f805c34cac2707fa2/0_150_2000_1600/master/2000.png?width=140&quality=85&auto=format&fit=max&s=6e9e5ea295004e0872d8d7b80f442a50",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-22T09:47:54Z"
+    },
+    {
+      "title": "Winners of bird photographer of the year 2026 – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2026/sep/22/winners-of-bird-photographer-of-the-year-2026-in-pictures",
+      "summary": "Photographers from all over the world entered more than 24,000 images into the world’s largest bird photography competition , with an image of a northern gannet bursting through th",
+      "date": "2026-09-22T05:00:35Z",
+      "image": "https://i.guim.co.uk/img/media/2feb6ab3f0e3f1c0e7aba86870a73630c41996a2/0_0_5000_4000/master/5000.png?width=140&quality=85&auto=format&fit=max&s=873dd341aa5108d1d15fec42c1592f32",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-22T09:47:54Z"
+    },
+    {
+      "title": "Are day and night equal on the equinox? Not exactly",
+      "link": "https://earthsky.org/astronomy-essentials/are-day-and-night-equal-equinox-september/",
+      "summary": "Are day and night equal at an equinox? No. There's slightly more day than night on the day of an equinox. Find out why here. The post Are day and night equal on the equinox? Not ex",
+      "date": "Tue, 22 Sep 2026 07Z",
+      "image": "https://earthsky.org/upl/2026/09/September-equinox-sun-Raul-Cortes-Mexico-Sep-22-2021.jpeg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-09-22T09:47:56Z"
+    },
+    {
+      "title": "Do High-Tech Clothes Really Make a Difference in Performance?",
+      "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/high-tech-running-clothes/",
+      "summary": "Will the world’s first sub-two-hour marathon usher in a new era of performance apparel? The post Do High-Tech Clothes Really Make a Difference in Performance? appeared first on Out",
+      "date": "Tue, 22 Sep 2026 09Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/breaking-2.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-09-22T09:48:01Z"
+    },
+    {
+      "title": "Worried about an AI apocalypse? Here’s how to think about the risk of doom",
+      "link": "https://www.newscientist.com/article/2590164-worried-about-an-ai-apocalypse-heres-how-to-think-about-the-risk-of-doom/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Commentators say the probability of machines wiping us out ranges from 0 to over 95 per cent. Columnist Jacob Aron explains why you shouldn't trust any of those numbers",
+      "date": "Tue, 22 Sep 2026 05Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313425504.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-09-22T09:48:04Z"
+    },
     {
       "title": "Hawks in Georgia",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/hawks-in-georgia/",
@@ -5447,61 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-09-13T11:34:51Z"
-    },
-    {
-      "title": "Ancient armored fish evolved two distinct ways to crush prey 385 million years ago",
-      "link": "https://phys.org/news/2026-09-ancient-armored-fish-evolved-distinct.html",
-      "summary": "Long before dinosaurs appeared on Earth, fierce predatory fish developed crushing jaws and sharp teeth to survive and diversify in ancient oceans.",
-      "date": "2026-09-13T08:13:44Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/jaws-tell-tales-how-an-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-13T11:34:56Z"
-    },
-    {
-      "title": "Haunting Hubble telescope image captures cosmic cycle of destruction and creation —‬ Space photo of the week",
-      "link": "https://www.livescience.com/space/haunting-hubble-telescope-image-captures-cosmic-cycle-of-destruction-and-creation-space-photo-of-the-week",
-      "summary": "A spectacular new Hubble Space Telescope image reveals almost 30,000 newborn stars around an enormous cavity carved into a stellar nursery in a neighboring galaxy.",
-      "date": "2026-09-13T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/XfKxWNcu55JmgSGpt6Y8Tf-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-09-13T11:34:57Z"
-    },
-    {
-      "title": "Why do cats lick each other?",
-      "link": "https://www.livescience.com/animals/cats/why-do-cats-lick-each-other",
-      "summary": "Cats lick each other for multiple reasons, and some are more mysterious than others.",
-      "date": "2026-09-13T09:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/3xvrPxbTgPp88YVsrnugLS-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-09-13T11:34:57Z"
-    },
-    {
-      "title": "Elusive young bird, rarely seen in California, pops out from the reeds for a short show",
-      "link": "https://www.mercurynews.com/2026/09/03/elusive-young-bird-rarely-seen-in-california-pops-out-from-the-reeds-for-a-short-show/",
-      "summary": "The purple gallinule has been delighting birders at Irvine Ranch Water District’s San Joaquin Marsh wildlife sanctuary",
-      "date": "Thu, 03 Sep 2026 16Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/OCR-L-RARE-BIRD-01-MS-1.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-09-12T19:12:59Z"
-    },
-    {
-      "title": "Hummingbirds are flocking south in their thousands as migration begins",
-      "link": "https://www.birdwatchingdaily.com/news/birdwatching/hummingbirds-are-flocking-south-in-their-thousands-as-migration-begins/",
-      "summary": "Here’s where thousands of Hummingbirds are migrating to – and where you can catch it. Fall migration is now underway across the U.S., and some … Read More \"Hummingbirds are flockin",
-      "date": "2026-09-12T14:05:24Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/03/Ruby-throated-Hummingbird-68.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-09-12T16:59:29Z"
     }
   ]
 }
