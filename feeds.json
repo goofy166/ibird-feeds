@@ -1,8 +1,118 @@
 {
-  "updated": "2026-09-22T18:42:37Z",
-  "updated_utc": "2026-09-22T18:42:37Z",
+  "updated": "2026-09-22T21:57:00Z",
+  "updated_utc": "2026-09-22T21:57:00Z",
   "count": 500,
   "stories": [
+    {
+      "title": "This 3-Minute Drill Could Save Your Achilles and Calves",
+      "link": "https://www.outsideonline.com/health/training-performance/achilles-calf-exercise-for-pain/",
+      "summary": "Calf or Achilles stiffness and tension can be super painful. Here's a quick exercise that will ease aches and pain in your lower legs. The post This 3-Minute Drill Could Save Your ",
+      "date": "Tue, 22 Sep 2026 19Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/achilles-and-calves-1-2.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-09-22T21:56:51Z"
+    },
+    {
+      "title": "Mercury Has Wrinkles That Show It's Shrinking. Now, Scientists Say the Planet Has Shriveled Far More Than Previously Thought",
+      "link": "https://www.smithsonianmag.com/smart-news/mercury-has-wrinkles-that-show-its-shrinking-now-scientists-say-the-planet-has-shriveled-far-more-than-we-previously-thought-180989532/",
+      "summary": "A new study suggests that our solar system’s smallest planet has shrunk by up to 30 percent since its birth roughly 4.5 billion years ago",
+      "date": "Tue, 22 Sep 2026 19Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/3KNwI5ln64Q4fSubM2EiKvCO0GE=/420x240/filters:focal(512x512:513x513)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/40/a8/40a88975-47da-41c6-b549-3eb3c79685fe/mercury-messenger.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-09-22T21:56:52Z"
+    },
+    {
+      "title": "Claude Monet’s Long-Hidden ‘Iris’ Is About to Become the Most Expensive Painting Ever Auctioned in France",
+      "link": "https://www.smithsonianmag.com/smart-news/claude-monets-long-hidden-iris-is-about-to-become-the-most-expensive-painting-ever-auctioned-in-france-180989546/",
+      "summary": "The artwork reflects the famed Impressionist’s later, abstract style. Sotheby’s estimates that it will sell for $25 million to $34 million",
+      "date": "Tue, 22 Sep 2026 19Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/TKEaLO7JvA9xdGcZ06euOmdfJQk=/420x240/filters:focal(1205x804:1206x805)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9f/ea/9fea2ea2-3fec-4602-adf8-3615ff47209b/screenshot_2026-09-22_at_104025am.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-09-22T21:56:52Z"
+    },
+    {
+      "title": "How turning electricity directly into food could help save the planet",
+      "link": "https://www.newscientist.com/article/2590402-how-turning-electricity-directly-into-food-could-help-save-the-planet/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Farming is one of the most destructive human activities. Columnist Michael Le Page is excited about developments in electro-ag, in which we can instead turn renewable electricity d",
+      "date": "Tue, 22 Sep 2026 19Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313513484.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-09-22T21:56:55Z"
+    },
+    {
+      "title": "What is your dog really saying? AI is helping researchers decode animal communication",
+      "link": "https://phys.org/news/2026-09-dog-ai-decode-animal-communication.html",
+      "summary": "Is a dog's bark simply an expression of emotion, or does it contain specific information that humans cannot understand? Artificial intelligence (AI) can already analyze thousands o",
+      "date": "2026-09-22T21:00:10Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quizzical-dog.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-22T21:56:57Z"
+    },
+    {
+      "title": "Two native turtles are vying to survive in a coastal Australian river. One doesn't belong there",
+      "link": "https://phys.org/news/2026-09-native-turtles-vying-survive-coastal.html",
+      "summary": "The Manning River helmeted turtle (Myuchelys purvisi) might just be Australia's most beautiful freshwater turtle.",
+      "date": "2026-09-22T20:40:03Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-native-turtles-are.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-22T21:56:57Z"
+    },
+    {
+      "title": "The mosquito's transition from vegan to bloodsucker explained",
+      "link": "https://phys.org/news/2026-09-mosquito-transition-vegan-bloodsucker.html",
+      "summary": "Scents govern most key events in the lives of mosquitoes, and there is extensive research on their sense of smell. A new study reveals how a young female mosquito shifts from focus",
+      "date": "2026-09-22T19:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-mosquitos-transiti.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-22T21:56:57Z"
+    },
+    {
+      "title": "'There was something bigger in the ground here': Metal detectorist in Germany discovers giant Roman-era hoard from time of emperor Hadrian",
+      "link": "https://www.livescience.com/archaeology/romans/there-was-something-bigger-in-the-ground-here-metal-detectorist-in-germany-discovers-giant-roman-era-hoard-from-time-of-emperor-hadrian",
+      "summary": "More than 900 Roman silver coins from the time of the Emperor Hadrian were found in Germany by a metal detectorist.",
+      "date": "Tue, 22 Sep 2026 21Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/x3okDBa5ntmxJwCDwc2A6W-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-09-22T21:56:58Z"
+    },
+    {
+      "title": "Fragment of world's oldest peace treaty unearthed in Turkey",
+      "link": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
+      "summary": "Archaeologists excavating in the ancient Hittite capital of Hattusha have uncovered a fragment of the world's oldest peace treaty, signed around 1269 B.C.",
+      "date": "Tue, 22 Sep 2026 19Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/4do6hQ6xfWKfiYNMLtPppC-1920-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-09-22T21:56:58Z"
+    },
+    {
+      "title": "Newfound 'fire amoeba from the Cascades' sets record for the hottest temperature complex life can survive at",
+      "link": "https://www.livescience.com/planet-earth/evolution/newfound-fire-amoeba-from-the-cascades-sets-record-for-the-hottest-temperature-complex-life-can-survive-at",
+      "summary": "The newly-described amoeba Incendiamoeba cascadensis can survive at a sweltering 145 degrees Fahrenheit.",
+      "date": "Tue, 22 Sep 2026 19Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/oFjNYuAQXdHW4NJqn9NXga-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-09-22T21:56:58Z"
+    },
     {
       "title": "Chicago’s Urban Birding Festival Welcomes All Birders",
       "link": "https://www.birdsandblooms.com/travel/birding-hotspots/urban-birding-festival/",
@@ -5392,116 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-09-14T23:02:36Z"
-    },
-    {
-      "title": "Every animal, even the smallest rodent, deserves safe anesthesia, say researchers",
-      "link": "https://phys.org/news/2026-09-animal-smallest-rodent-safe-anesthesia.html",
-      "summary": "Laboratory animals are anesthetized to avoid pain during invasive procedures. Anesthesia is necessary for these animals' welfare, but it is not always without problems: Substandard",
-      "date": "2026-09-14T21:20:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/every-animal-even-the.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-14T23:02:36Z"
-    },
-    {
-      "title": "Three DNA loops prove essential for efficient wing tissue regeneration in fruit flies",
-      "link": "https://phys.org/news/2026-09-dna-loops-essential-efficient-wing.html",
-      "summary": "After an injury, DNA not only changes its activity but also the way it is organized spatially within the cell nucleus. In this process, certain regions of DNA establish new physica",
-      "date": "2026-09-14T21:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-discover-d-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-14T23:02:36Z"
-    },
-    {
-      "title": "Forest fire smoke reduces bird diversity, study suggests",
-      "link": "https://phys.org/news/2026-09-forest-bird-diversity.html",
-      "summary": "When forests burn, the direct consequences are obvious: houses go up in flames and habitats are destroyed. The damage caused by smoke extending far beyond the fire area is less vis",
-      "date": "2026-09-14T21:00:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/forest-fire.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-14T23:02:36Z"
-    },
-    {
-      "title": "Common wastewater pollutant turns male minnows into poorer parents and fiercer rivals",
-      "link": "https://phys.org/news/2026-09-common-wastewater-pollutant-male-minnows.html",
-      "summary": "A team of researchers has found that a common wastewater pollutant turned male fathead minnows into worse fathers and fiercer rivals, revealing ecological impacts that laboratory s",
-      "date": "2026-09-14T21:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fierce-fish-how-hormon.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-14T23:02:36Z"
-    },
-    {
-      "title": "Radiation-tolerant rotifers rebuild broken chromosomes over successive generations",
-      "link": "https://phys.org/news/2026-09-tolerant-rotifers-rebuild-broken-chromosomes.html",
-      "summary": "DNA repair mechanisms are essential for maintaining the integrity of our genome. When they malfunction, they can cause disease or contribute to the development of cancer. Nature, h",
-      "date": "2026-09-14T20:40:22Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chromosome-repair-pass.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-14T23:02:36Z"
-    },
-    {
-      "title": "Antibody cocktails could steer viruses into evolutionary dead ends",
-      "link": "https://phys.org/news/2026-09-antibody-cocktails-viruses-evolutionary-dead.html",
-      "summary": "When a virus mutates, the world usually finds out the hard way. Variants of influenza and SARS-CoV-2 can slip past vaccines and antibody drugs before scientists fully understand wh",
-      "date": "2026-09-14T20:40:16Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/virus-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-14T23:02:36Z"
-    },
-    {
-      "title": "South American 'Pompeii': Volcanic eruption 22 million years ago preserved a snapshot of the Andes forming",
-      "link": "https://www.livescience.com/planet-earth/volcanoes/south-american-pompeii-volcanic-eruption-22-million-years-ago-preserved-a-snapshot-of-the-andes-forming",
-      "summary": "An enormous volcanic eruption buried a snapshot of the baby Andes mountains, revealing a slow-and-steady growth rate.",
-      "date": "2026-09-14T20:51:07Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/deH5qNERJ5wdNQesMqnbJd-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-09-14T23:02:37Z"
-    },
-    {
-      "title": "We now have an incredibly detailed map to help predict which areas of LA are the most at risk from 'The Big One'",
-      "link": "https://www.livescience.com/planet-earth/earthquakes/we-now-have-an-incredibly-detailed-map-to-help-predict-which-areas-of-la-are-the-most-at-risk-from-the-big-one",
-      "summary": "A new 3D map of the Los Angeles basin reveals deep sediments that could intensify shaking in an earthquake.",
-      "date": "2026-09-14T19:49:56Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/de7wC2ZpzLAkznp9yfG597-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-09-14T23:02:37Z"
-    },
-    {
-      "title": "Maryland boy recovering from surgeries after rabid beaver attack at state park",
-      "link": "https://www.theguardian.com/us-news/2026/sep/14/maryland-rabid-beaver-attack",
-      "summary": "Teen was swimming at a popular spot at the time of the attack, the latest in a string that have occurred in the state A 13-year-old Maryland boy is reported to be recovering from m",
-      "date": "2026-09-14T17:38:59Z",
-      "image": "https://i.guim.co.uk/img/media/ea2bd88e031556c28e1f5d424e3df6a8036c9b60/123_0_3558_2846/master/3558.jpg?width=140&quality=85&auto=format&fit=max&s=e3d3eb523b8d7e7f5d30e2f2d25937b7",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-09-14T19:12:23Z"
-    },
-    {
-      "title": "As feds remove hundreds of wild horses from Colorado, state leaders decry ‘inhumane’ helicopter roundups",
-      "link": "https://www.mercurynews.com/2026/09/14/colorado-wild-horse-helicopter-roundups-criticism/",
-      "summary": "Wild horse management has been a controversial topic across the West for decades.",
-      "date": "2026-09-14T15:52:07Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/TDP-L-wild-horse-RJS-48382.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-09-14T19:12:28Z"
     }
   ]
 }
