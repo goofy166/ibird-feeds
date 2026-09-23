@@ -1,8 +1,118 @@
 {
-  "updated": "2026-09-23T20:07:45Z",
-  "updated_utc": "2026-09-23T20:07:45Z",
+  "updated": "2026-09-23T23:33:23Z",
+  "updated_utc": "2026-09-23T23:33:23Z",
   "count": 500,
   "stories": [
+    {
+      "title": "In a first, olive ridley turtles spotted nesting on California’s beaches",
+      "link": "https://www.theguardian.com/us-news/2026/sep/23/sea-turtle-nesting-california-beaches",
+      "summary": "Scientists are questioning whether the nestings on Seal and Huntington Beach were freak occurrences or start of a trend A sea turtle crawled out of the surf in southern California ",
+      "date": "2026-09-23T21:05:09Z",
+      "image": "https://i.guim.co.uk/img/media/f4e7091e3bbe6c4a95539aa4c162984be141abbc/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=fe09b4de307013bdb646f2240148b22f",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-23T23:33:06Z"
+    },
+    {
+      "title": "Deadly Avalanches and Heavy Snowfall Just Torpedoed the Climbing Season on Manaslu",
+      "link": "https://www.outsideonline.com/outdoor-adventure/everest/manaslu-2026/",
+      "summary": "Expedition leaders are retreating from Nepal's second most-popular 8000-meter peak after heavy snowfall and a deadly avalanche battered the mountain. Four climbers died during the ",
+      "date": "2026-09-23T21:39:13Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/Manaslu1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-09-23T23:33:13Z"
+    },
+    {
+      "title": "Why Life Is Better When You’re a Little Bad at Everything, According to Someone Who Used to Try to Be Good at Everything",
+      "link": "https://www.outsideonline.com/health/wellness/benefits-generalist-athlete/",
+      "summary": "Is specializing the key to success? Or can you be a generalist? One athlete who's done both explains what doing well really looks like. The post Why Life Is Better When You’re a Li",
+      "date": "2026-09-23T20:16:10Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/corey-buhay-case-bad-at-everything-final.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-09-23T23:33:13Z"
+    },
+    {
+      "title": "This Cubist Painting With a Mysterious Provenance Hung in the Art Institute of Chicago for Decades. Now, the Museum Will Return It to Its Rightful Jewish Heirs",
+      "link": "https://www.smithsonianmag.com/smart-news/this-cubist-painting-with-a-mysterious-provenance-hung-in-the-art-institute-of-chicago-for-decades-now-the-museum-will-return-it-to-its-rightful-jewish-heirs-180989553/",
+      "summary": "Infrared imaging links the 20th-century Jean Metzinger work to a collector whose pieces were forcibly auctioned under Nazi orders during World War II",
+      "date": "2026-09-23T20:18:46Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/J2TUeAbTqAeXOi41KfYYVGVczKU=/420x240/filters:focal(422x602:423x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4a/03/4a03cf6c-55a2-4e7a-8b5a-6fdcacc385aa/default_3.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-09-23T23:33:15Z"
+    },
+    {
+      "title": "Biologists battle over North America's largest crayfish",
+      "link": "https://phys.org/news/2026-09-biologists-north-america-largest-crayfish.html",
+      "summary": "When Caitlin Bloomer wrestled the massive Crawzilla crawdad—yes, that's its actual common name—out of the muck during a biological survey in Kentucky, she was convinced it was the ",
+      "date": "2026-09-23T23:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/biologists-battle-over.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-23T23:33:19Z"
+    },
+    {
+      "title": "Can this biotech innovation halt the destructive march of a cereal killer?",
+      "link": "https://phys.org/news/2026-09-biotech-halt-destructive-cereal-killer.html",
+      "summary": "A UK-led research collaboration has taken a significant step in the global effort to protect cereal crops from the devastating blast fungus. Researchers at the John Innes Centre ex",
+      "date": "2026-09-23T23:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/can-this-biotech-innov.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-23T23:33:19Z"
+    },
+    {
+      "title": "Gene editing produces soybean with more than 90% oleic acid",
+      "link": "https://phys.org/news/2026-09-gene-soybean-oleic-acid.html",
+      "summary": "Sejong University researchers have developed a high-quality soybean with improved oxidative stability, reduced saturated fat and increased seed fatty acid content. The research tea",
+      "date": "2026-09-23T22:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gene-editing-produces.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-23T23:33:19Z"
+    },
+    {
+      "title": "Bee-made propolis boosts an antifungal drug against yeast pathogens in lab tests",
+      "link": "https://phys.org/news/2026-09-bee-propolis-boosts-antifungal-drug.html",
+      "summary": "Propolis may not only inhibit the growth of certain fungi but also affect the activity of drugs used to treat fungal infections. Researchers have investigated how an ethanolic extr",
+      "date": "2026-09-23T22:00:10Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/candidaauris.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-23T23:33:19Z"
+    },
+    {
+      "title": "The Antarctic's only two flowering plants reveal opposing strategies for surviving long-term warming",
+      "link": "https://phys.org/news/2026-09-antarctic-reveal-opposing-strategies-surviving.html",
+      "summary": "A team of Chilean and Spanish researchers has published the results of one of the longest-running in-situ warming experiments in maritime Antarctica in the journal Physiologia Plan",
+      "date": "2026-09-23T21:20:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-antarctics-only-tw.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-23T23:33:19Z"
+    },
+    {
+      "title": "Ancient genome function persists despite frequent mutations, centromere study shows",
+      "link": "https://phys.org/news/2026-09-ancient-genome-function-persists-frequent.html",
+      "summary": "Every time a cell divides, its chromosomes must be distributed correctly between the two daughter cells. Central to this process is the centromere, a specialized region of the chro",
+      "date": "2026-09-23T20:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/centromeres-help-chrom.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-23T23:33:19Z"
+    },
     {
       "title": "The Missing Songbirds of Trinidad & Tobago",
       "link": "https://www.10000birds.com/the-missing-songbirds-of-trinidad-tobago.htm?utm_source=rss&utm_medium=rss&utm_campaign=the-missing-songbirds-of-trinidad-tobago",
@@ -5392,116 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-09-16T13:22:50Z"
-    },
-    {
-      "title": "The Ruins of a Long-Lost Medieval Convent Have Been Discovered Just a Few Feet Beneath a Soccer Field",
-      "link": "https://www.smithsonianmag.com/smart-news/the-ruins-of-a-long-lost-medieval-convent-have-been-discovered-just-a-few-feet-beneath-a-soccer-field-180989506/",
-      "summary": "St. Clare's Convent closed in the 16th century, and researchers assumed all traces of it had been lost. But a new ground-penetrating radar survey revealed surprisingly intact remai",
-      "date": "2026-09-16T11:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/1JjLdr98dlqOwYTR9AeU14Y7DOA=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/26/6d/266d0251-3017-4c0a-a88f-305c47e421b7/field.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-09-16T13:22:52Z"
-    },
-    {
-      "title": "Alzheimer’s damage may begin outside the brain",
-      "link": "https://www.sciencenews.org/article/alzheimers-damage-brain-lymph-nodes",
-      "summary": "Removing a type of immune cell from lymph nodes in mice reduced brain inflammation and cell damage in a model of Alzheimer’s-like disease.",
-      "date": "2026-09-16T13:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/091126_RJM_Alzheimers_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-09-16T13:22:53Z"
-    },
-    {
-      "title": "Why The Ambidextrous Universe is a masterpiece of science writing",
-      "link": "https://www.newscientist.com/article/2589442-why-the-ambidextrous-universe-is-a-masterpiece-of-science-writing/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Don’t read The Ambidextrous Universe unless you are serious about maths and physics, because Martin Gardner is very happy to make his readers work – to enthralling effect, says Jac",
-      "date": "2026-09-16T12:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI312685543.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-09-16T13:22:54Z"
-    },
-    {
-      "title": "Nuclear fusion experiment produces the brightest X-rays on Earth yet",
-      "link": "https://www.newscientist.com/article/2589237-nuclear-fusion-experiment-produces-the-brightest-x-rays-on-earth-yet/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "A new twist on nuclear fusion ignition emitted X-rays that are as bright as some stars, which could enable other extreme experiments",
-      "date": "2026-09-16T12:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312550456.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-09-16T13:22:54Z"
-    },
-    {
-      "title": "How bacteria hijack viruses to shuffle their own DNA",
-      "link": "https://phys.org/news/2026-09-bacteria-hijack-viruses-shuffle-dna.html",
-      "summary": "When you think of viruses, you probably think of flu-like symptoms and quarantines. Humankind has suffered from viral diseases ranging from smallpox to COVID-19, hantavirus and Ebo",
-      "date": "2026-09-16T13:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-bacteria-hijack-vi.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-16T13:22:56Z"
-    },
-    {
-      "title": "New breeding approach targets crop rotations, not yield alone",
-      "link": "https://phys.org/news/2026-09-approach-crop-rotations-yield.html",
-      "summary": "Breeding crops for farming systems rather than yield alone could exploit untapped genetic potential and help farmers cut fertilizer bills.",
-      "date": "2026-09-16T11:40:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/breeding-for-better-ro.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-16T13:22:56Z"
-    },
-    {
-      "title": "Weeping whales: Stillborn humpback whale grieving documented",
-      "link": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
-      "summary": "Humpback whale mothers may experience grief when their calves die, a rare research observation led by Griffith University and Sea World Foundation has found.",
-      "date": "2026-09-16T11:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/humpback-whale-2.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-09-16T13:22:56Z"
-    },
-    {
-      "title": "First-of-its-kind preventive phage therapy provides promising results against Salmonella",
-      "link": "https://phys.org/news/2026-09-kind-phage-therapy-results-salmonella.html",
-      "summary": "The mammalian gut microbiome teems with a delicate balance of bacteria and the viruses that keep them in check, called bacteriophages, or phages. Each bacterial species usually has",
-      "date": "2026-09-16T09:00:13Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-of-its-kind-prev.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-16T13:22:56Z"
-    },
-    {
-      "title": "Wildfires push endangered Sumatran elephants to brink: Indonesian NGO",
-      "link": "https://phys.org/news/2026-09-wildfires-endangered-sumatran-elephants-brink.html",
-      "summary": "Critically endangered Sumatran elephants are being pushed closer to the brink as wildfires raze vast swaths of their habitat on the western island of Sumatra, Indonesian conservati",
-      "date": "2026-09-16T08:30:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/critically-endangered-12.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-16T13:22:56Z"
-    },
-    {
-      "title": "Well-preserved tooth from Pacific mastodon found in a creek in San Francisco Bay Area",
-      "link": "https://phys.org/news/2026-09-tooth-pacific-mastodon-creek-san.html",
-      "summary": "Brigid Lynch was working along a wooded creek in a mountainous part of the San Francisco Bay Area when something that didn't look like the rocks she'd been studying caught her eye.",
-      "date": "2026-09-16T08:07:13Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/well-preserved-tooth-f.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-16T13:22:56Z"
     }
   ]
 }
