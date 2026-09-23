@@ -1,8 +1,52 @@
 {
-  "updated": "2026-09-23T00:17:45Z",
-  "updated_utc": "2026-09-23T00:17:45Z",
+  "updated": "2026-09-23T05:46:31Z",
+  "updated_utc": "2026-09-23T05:46:31Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: An autumn bounty of fruits is well on its way",
+      "link": "https://www.theguardian.com/environment/2026/sep/23/country-diary-an-autumn-bounty-of-fruits-is-well-on-its-way",
+      "summary": "Cardigan: A walk up the River Teifi reveals trees that are beginning to fade into new season colour, and the low blur of a weasel It is rare for me to visit the same place twice wi",
+      "date": "2026-09-23T04:30:14Z",
+      "image": "https://i.guim.co.uk/img/media/43c1140b5404046b17f47aeb85757f698d8999ea/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=17d76adc6c1c07c2e02802b938993401",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-23T05:46:14Z"
+    },
+    {
+      "title": "A UTV Driver Tumbled 250 Feet Down a Slope. Officials Used Spotlight Drones to Complete the Rescue.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/utv-colorado-250-foot-fall/",
+      "summary": "Rescuers deployed lighting drones and a technical rope system to save a UTV rider after a steep 250-foot fall in Hot Sulphur Springs, Colorado. The post A UTV Driver Tumbled 250 Fe",
+      "date": "2026-09-23T00:20:33Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/Copy-of-Untitled-Design-2.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-09-23T05:46:20Z"
+    },
+    {
+      "title": "Is AI really getting dangerously out of control?",
+      "link": "https://www.newscientist.com/article/2590038-is-ai-dangerously-out-of-control-or-about-to-be/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Grim warnings of the existential risk posed by AI are all over the news, but there is very little evidence to back them up",
+      "date": "2026-09-23T05:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313537973.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-09-23T05:46:24Z"
+    },
+    {
+      "title": "El Niño heat could kill half a million people by February",
+      "link": "https://www.newscientist.com/article/2590260-el-nino-heat-could-kill-half-a-million-by-february-and-more-after-that/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Higher temperatures around the world due to the record-breaking El Niño will lead to an estimated 450,000 extra deaths by February unless swift action is taken, warn researchers",
+      "date": "2026-09-23T04:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313519870.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-09-23T05:46:24Z"
+    },
     {
       "title": "As feds remove hundreds of wild horses from Colorado, state leaders decry ‘inhumane’ helicopter roundups",
       "link": "https://www.mercurynews.com/2026/09/14/colorado-wild-horse-helicopter-roundups-criticism/",
@@ -5458,50 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-09-15T04:34:47Z"
-    },
-    {
-      "title": "Country diary: Goldfinches and grasses, together in an explosion of movement | Mark Cocker",
-      "link": "https://www.theguardian.com/environment/2026/sep/15/country-diary-goldfinches-and-grasses-together-in-an-explosion-of-movement",
-      "summary": "Priestcliffe Lees, Derbyshire: What a sight – and sound – it was, this huge flock of juveniles, feeding as the wind thrashed the vegetation Stands of tufted hair-grass, some over a",
-      "date": "2026-09-15T04:30:25Z",
-      "image": "https://i.guim.co.uk/img/media/bf61279b94d27740eba057b4231f0c7e77918562/223_0_2226_1781/master/2226.jpg?width=140&quality=85&auto=format&fit=max&s=6f3e1450a847ffd96e4b88291e1ba849",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-09-15T04:34:50Z"
-    },
-    {
-      "title": "Researchers invent novel eDNA membrane to advance understanding of inshore fish diversity",
-      "link": "https://phys.org/news/2026-09-edna-membrane-advance-inshore-fish.html",
-      "summary": "Monitoring marine life helps scientists track ecosystem health, improve conservation and manage fisheries. A promising approach is environmental DNA (eDNA), which refers to trace g",
-      "date": "2026-09-15T00:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-invent-nov.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-15T04:35:02Z"
-    },
-    {
-      "title": "A McDonald’s Toy, Pokémon Cards, and 25,000 Other Items Dropped in Yellowstone’s Geysers",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/yellowstone-geysers-record-trash-cleanup-2026/",
-      "summary": "Yellowstone crews recovered over 26,000 dropped items from hydrothermal features in 2026. The post A McDonald’s Toy, Pokémon Cards, and 25,000 Other Items Dropped in Yellowstone’s ",
-      "date": "2026-09-14T19:40:49Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/Copy-of-Untitled-Design-9.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-09-14T23:02:30Z"
-    },
-    {
-      "title": "World Maps Might Soon Get an Upgrade. The United Nations Votes to Endorse Global Charts That Better Represent Africa's True Size",
-      "link": "https://www.smithsonianmag.com/smart-news/world-maps-might-soon-get-an-upgrade-the-united-nationas-votes-to-endorse-global-charts-that-better-represent-africas-true-size-180989495/",
-      "summary": "The most widely used global map is almost 500 years old and was designed for navigation. But landmasses near the poles look larger than their actual relative sizes, and those near ",
-      "date": "2026-09-14T19:15:35Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/ZW0YWVE2YMMaHNat_RcNaUE5WGE=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6c/cd/6ccd5e01-e02d-493d-afe2-b75b33883c4e/smithsonian_feature_images_22.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-09-14T23:02:31Z"
     }
   ]
 }
