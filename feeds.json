@@ -1,8 +1,63 @@
 {
-  "updated": "2026-09-22T21:57:00Z",
-  "updated_utc": "2026-09-22T21:57:00Z",
+  "updated": "2026-09-23T00:17:45Z",
+  "updated_utc": "2026-09-23T00:17:45Z",
   "count": 500,
   "stories": [
+    {
+      "title": "As feds remove hundreds of wild horses from Colorado, state leaders decry ‘inhumane’ helicopter roundups",
+      "link": "https://www.mercurynews.com/2026/09/14/colorado-wild-horse-helicopter-roundups-criticism/",
+      "summary": "Wild horse management has been a controversial topic across the West for decades.",
+      "date": "2026-09-14T15:52:07Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/TDP-L-wild-horse-RJS-48382.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-09-23T00:17:33Z"
+    },
+    {
+      "title": "The Apple Watch Ultra 4 Ups Its Game on Heart Rate and Battery Life",
+      "link": "https://www.outsideonline.com/outdoor-gear/tools/the-apple-watch-ultra-4-ups-its-game-on-heart-rate-and-battery-life/",
+      "summary": "Apple claims its new sensors make the Ultra 4 the most accurate heart rate wearable on the market. We tried it out. The post The Apple Watch Ultra 4 Ups Its Game on Heart Rate and ",
+      "date": "Tue, 22 Sep 2026 21Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/apple_watch_ultra4_h.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-09-23T00:17:35Z"
+    },
+    {
+      "title": "Queasy plesiosaurs swam to shore to vomit, Jurassic fossils reveal",
+      "link": "https://phys.org/news/2026-09-queasy-plesiosaurs-swam-shore-vomit.html",
+      "summary": "Plesiosaurs swam into river deltas to vomit up shells and other indigestible elements of their marine meals, suggests new research published by Cambridge University Press. The beha",
+      "date": "2026-09-22T23:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/queasy-sea-monsters-sw.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-23T00:17:41Z"
+    },
+    {
+      "title": "Corals show 'vaccine-like' responses after pathogen exposure",
+      "link": "https://phys.org/news/2026-09-corals-vaccine-responses-pathogen-exposure.html",
+      "summary": "To boost corals' resilience amid rising sea temperatures and the spread of disease, KAUST researchers have found that controlled, low-level exposure to dead pathogenic cells can he",
+      "date": "2026-09-22T22:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/corals-show-vaccine-li.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-23T00:17:41Z"
+    },
+    {
+      "title": "Tech solution that makes drone operations much more wildlife friendly",
+      "link": "https://phys.org/news/2026-09-tech-solution-drone-wildlife-friendly.html",
+      "summary": "This summer, Norwegian news has reported (in Norwegian) multiple stories about Lofoten residents who shot at drones out of sheer frustration. But not everyone exposed to approachin",
+      "date": "2026-09-22T22:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tech-solution-that-mak.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-23T00:17:41Z"
+    },
     {
       "title": "This 3-Minute Drill Could Save Your Achilles and Calves",
       "link": "https://www.outsideonline.com/health/training-performance/achilles-calf-exercise-for-pain/",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-09-14T23:02:31Z"
-    },
-    {
-      "title": "Reading for pleasure boosts memory, empathy and mental health",
-      "link": "https://www.newscientist.com/article/2589065-reading-for-pleasure-boosts-memory-attention-and-mental-health/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Fewer people are reading for pleasure, but getting lost in a good book has repeatedly been linked to substantial cognitive benefits",
-      "date": "2026-09-14T23:01:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312400576.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-09-14T23:02:34Z"
-    },
-    {
-      "title": "Parakeets, male or female, love a good fight",
-      "link": "https://phys.org/news/2026-09-parakeets-male-female-good.html",
-      "summary": "In a study of monk parakeets, researchers at the University of Cincinnati and Duke University found that sex has little to no impact on who initiates fights, who is targeted or who",
-      "date": "2026-09-14T23:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/monk-parakeets-quarrel.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-14T23:02:36Z"
-    },
-    {
-      "title": "Scientists discover dispersal mechanism and new gene family in harmful E. coli strains",
-      "link": "https://phys.org/news/2026-09-scientists-dispersal-mechanism-gene-family.html",
-      "summary": "Researchers from Tokyo Metropolitan University have identified how certain dangerous bacteria spread. They studied chain-like adherence pattern (CLAP) varieties of Shiga toxin-prod",
-      "date": "2026-09-14T22:00:10Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dangerous-strings-of-b.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-14T23:02:36Z"
-    },
-    {
-      "title": "Structural study explains how cells stabilize protective membrane pockets",
-      "link": "https://phys.org/news/2026-09-cells-stabilize-membrane-pockets.html",
-      "summary": "Our cells' membranes have many functions. They not only provide mechanical protection but also precisely control which substances enter or leave cells. If they fail to perform thes",
-      "date": "2026-09-14T21:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-a-protein-shapes-t.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-14T23:02:36Z"
-    },
-    {
-      "title": "AI models enable cross-species mapping of cell biology",
-      "link": "https://phys.org/news/2026-09-ai-enable-species-cell-biology.html",
-      "summary": "Researchers at Stanford Medicine have developed two new artificial intelligence models of the biological cell. The first, called universal cell embedding, paved the way for a secon",
-      "date": "2026-09-14T21:30:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-models-enable-cross.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-14T23:02:36Z"
     }
   ]
 }
