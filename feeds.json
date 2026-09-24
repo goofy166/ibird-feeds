@@ -1,8 +1,118 @@
 {
-  "updated": "2026-09-24T04:24:45Z",
-  "updated_utc": "2026-09-24T04:24:45Z",
+  "updated": "2026-09-24T09:50:59Z",
+  "updated_utc": "2026-09-24T09:50:59Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A bumper year for bugs: as the world warms up, insects are moving northwards",
+      "link": "https://www.theguardian.com/environment/2026/sep/24/world-warms-up-insects-moving-northwards-uk",
+      "summary": "Britain has seen an explosion of migrating insects – in some cases from as far as northern Africa It was a stifling evening in July and Matt Phelps was out for a stroll, when a pie",
+      "date": "2026-09-24T08:00:12Z",
+      "image": "https://i.guim.co.uk/img/media/914b59db1e3b0e81a2bbbd121a17fc4cb9e70d5f/955_0_3392_2714/master/3392.jpg?width=140&quality=85&auto=format&fit=max&s=abd2b8c290a79ff7e61e027ed6d59893",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-24T09:50:42Z"
+    },
+    {
+      "title": "Mass sardine die-off pits survival of South Africa’s penguins against fishers’ livelihoods",
+      "link": "https://www.theguardian.com/environment/2026/sep/24/mass-sardine-die-off-pits-survival-of-south-africas-penguins-against-fishers-livelihoods",
+      "summary": "Known as the ‘energy bars of the sea’ the fish are a key food source for many species, but closing fisheries to allow numbers to recover would cost millions It began on 28 July, wh",
+      "date": "2026-09-24T08:00:11Z",
+      "image": "https://i.guim.co.uk/img/media/b0442cb7456e30fa09806e40a26e1b95f4ea8450/311_0_3849_3079/master/3849.jpg?width=140&quality=85&auto=format&fit=max&s=75cc3e26b03bf349d7b51dd83a01cece",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-24T09:50:42Z"
+    },
+    {
+      "title": "‘Cash to trash’ levy on house developers too low to offset damage to Norfolk Broads, say critics",
+      "link": "https://www.theguardian.com/environment/2026/sep/24/cash-to-trash-levy-house-developers-too-low-offset-nature-damage",
+      "summary": "Exclusive: Levy that allows almost 16,000 houses to be built on Norfolk Broads will not cover cost of mitigating environmental damage, critics say A new levy on developers to allow",
+      "date": "2026-09-24T06:00:09Z",
+      "image": "https://i.guim.co.uk/img/media/4a6626810103c1e9e1f4510cfe996cfe77e6191f/448_0_4483_3587/master/4483.jpg?width=140&quality=85&auto=format&fit=max&s=dac054cff26ec2345c225f17b9489cdb",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-24T09:50:42Z"
+    },
+    {
+      "title": "Country diary: The snails are back to reclaim my garden – and leave behind a little artwork | Josie George",
+      "link": "https://www.theguardian.com/environment/2026/sep/24/country-diary-the-snails-are-back-to-reclaim-my-garden-and-leave-behind-a-little-artwork",
+      "summary": "Stoke-on-Trent, Staffordshire: So much to admire in these creatures, from their resilience over summer, to the detailed pattern of their trails Here’s a lovely word: aestivate. It’",
+      "date": "2026-09-24T04:30:07Z",
+      "image": "https://i.guim.co.uk/img/media/9c4a501ca1a3732051efb1d165c3704a17ababa4/8_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=0ea717802273552fc7093b115839232f",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-24T09:50:42Z"
+    },
+    {
+      "title": "Why can’t I find the Big Dipper in September?",
+      "link": "https://earthsky.org/tonight/use-big-dipper-to-find-polaris-the-north-star/",
+      "summary": "On northern autumn evenings, the famous Big Dipper lies low on - or even below - the northern horizon. You can use it to find Polaris, the North Star. The post Why can’t I find the",
+      "date": "Thu, 24 Sep 2026 09Z",
+      "image": "https://earthsky.org/upl/2021/09/Big-Dipper-to-North-Star-September-e1630474518249.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-09-24T09:50:43Z"
+    },
+    {
+      "title": "Full moon names by the month and by the season",
+      "link": "https://earthsky.org/astronomy-essentials/full-moon-names/",
+      "summary": "Lists of common full moon names — both by month and by season — for North America. And a word about full moon names in the Southern Hemisphere. The post Full moon names by the mont",
+      "date": "Thu, 24 Sep 2026 08Z",
+      "image": "https://earthsky.org/upl/2025/11/Super-Cold-Moon-Kevin-ODonnell-Arizona-December-4-2025.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-09-24T09:50:43Z"
+    },
+    {
+      "title": "OpenAI agent hacked an Australian government healthcare website",
+      "link": "https://www.newscientist.com/article/2590599-openai-agent-hacked-an-australian-government-healthcare-website/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "There has been a string of incidents reported over the past few months where AI agents have hacked companies. Now, a case involving a government website has been revealed for the f",
+      "date": "Thu, 24 Sep 2026 08Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/GettyImages-2296186830.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-09-24T09:50:52Z"
+    },
+    {
+      "title": "How calcium channels in muscle cells open together",
+      "link": "https://phys.org/news/2026-09-calcium-channels-muscle-cells.html",
+      "summary": "Every step we take begins with a burst of calcium inside our muscle cells, causing them to contract. To prepare for action, the cells keep calcium locked in an internal compartment",
+      "date": "2026-09-24T09:00:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/muscle.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-24T09:50:55Z"
+    },
+    {
+      "title": "Anthropic touts AI-led biology discovery",
+      "link": "https://phys.org/news/2026-09-anthropic-touts-ai-biology-discovery.html",
+      "summary": "U.S. artificial intelligence startup Anthropic on Wednesday unveiled the first discovery from its molecular biology lab, a previously unknown enzyme system spotted by its Claude mo",
+      "date": "2026-09-24T08:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/according-to-anthropic.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-24T09:50:55Z"
+    },
+    {
+      "title": "Japan switches on its first full-stack room-temperature quantum computer — and scientists plan to scale it up to 10,000 qubits",
+      "link": "https://www.livescience.com/technology/quantum/japan-switches-on-its-first-full-stack-room-temperature-quantum-computer-and-scientists-plan-to-scale-it-up-to-10-000-qubits",
+      "summary": "Japan's new quantum system, Shunkai, uses \"optical tweezers\" to trap and rearrange atoms, and will be available to researchers working on quantum error correction.",
+      "date": "Thu, 24 Sep 2026 09Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/HJZf8ceEv5rMRkPxKqp23S-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-09-24T09:50:56Z"
+    },
     {
       "title": "‘Hanging on by a thread’: 11th hour decision to protect endangered birds from SA space project plans welcomed",
       "link": "https://www.theguardian.com/environment/2026/sep/24/hanging-on-by-a-thread-11th-hour-decision-to-protect-endangered-birds-from-sa-space-project-plans-welcomed",
@@ -5392,116 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-09-16T18:05:34Z"
-    },
-    {
-      "title": "Pufferfish taste receptor more versatile than a human's, detecting both savory L- and sweet D-amino acids",
-      "link": "https://phys.org/news/2026-09-pufferfish-receptor-versatile-human-savory.html",
-      "summary": "Our sense of taste is critical for survival, alerting us to substances that provide vital nutrients and those that might poison us. Now, a team led by researchers from the Universi",
-      "date": "2026-09-16T15:20:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/savory-or-sweet-how-a.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-16T18:05:34Z"
-    },
-    {
-      "title": "Measuring milk's carbon footprint",
-      "link": "https://phys.org/news/2026-09-carbon-footprint.html",
-      "summary": "Every product or service has a \"carbon footprint,\" a measure of the environmental impact of creating or delivering it.",
-      "date": "2026-09-16T15:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/measuring-milks-carbon.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-16T18:05:34Z"
-    },
-    {
-      "title": "Scientists finally figured out the temperature of T. rex's blood ‪— and it was as hot as ours",
-      "link": "https://www.livescience.com/animals/dinosaurs/scientists-finally-figured-out-the-temperature-of-t-rexs-blood-and-it-was-as-hot-as-ours",
-      "summary": "Tooth analysis has revealed that the king of the dinosaurs was as warm-blooded as a human or an elephant",
-      "date": "2026-09-16T18:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/gAdkzNQ8tDswrmAZKcU3SX-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-09-16T18:05:36Z"
-    },
-    {
-      "title": "New trick could reveal text on 2,000-year-old scrolls charred by eruption of Mount Vesuvius",
-      "link": "https://www.livescience.com/archaeology/romans/new-trick-could-reveal-text-on-2-000-year-old-scrolls-charred-by-eruption-of-mount-vesuvius",
-      "summary": "Using X-ray technologies and custom-made software, researchers were able to read text they wrote on a fake ancient scroll designed to mimic those destroyed at Herculaneum in A.D. 7",
-      "date": "2026-09-16T18:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/wg5f4sT5hn82mo9bwxWFzN-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-09-16T18:05:36Z"
-    },
-    {
-      "title": "Was there a 'before' the Big Bang? Jim Al-Khalili on the mind-bogglingness of time",
-      "link": "https://www.livescience.com/physics-mathematics/was-there-a-before-the-big-bang-jim-al-khalili-on-the-mind-bogglingness-of-time",
-      "summary": "In this excerpt from \"On Time: The Physics That Makes the Universe Tick,\" author and theoretical physicist Jim Al-Khalili examines the possibility of time starting before the Big B",
-      "date": "2026-09-16T15:56:08Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Ls6hxKh22tGqQZz6tGHyhd-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-09-16T18:05:36Z"
-    },
-    {
-      "title": "Scientists shrank mice's brains and replaced the missing tissue with human 'organoids'",
-      "link": "https://www.livescience.com/health/neuroscience/scientists-shrank-mices-brains-and-replaced-the-missing-tissue-with-human-organoids",
-      "summary": "Scientists have devised a new way to incorporate human brain tissue into living mice, opening the door to new research.",
-      "date": "2026-09-16T15:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/44EuGZ6GQMzgDneMz6nBoj-1280-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-09-16T18:05:36Z"
-    },
-    {
-      "title": "'It is extremely rare to witness': Scientists record humpback whale mom grieving her stillborn calf in first-of-its-kind footage",
-      "link": "https://www.livescience.com/animals/whales/it-is-extremely-rare-to-witness-scientists-record-humpback-whale-mom-grieving-her-stillborn-calf-in-first-of-its-kind-footage",
-      "summary": "Researchers in Australia captured footage of a female humpback whale repeatedly diving to make eye contact with her stillborn calf and lay next to its body on the seafloor.",
-      "date": "2026-09-16T14:44:47Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/q7MTMHuJS4EQeDpBJT3fYH-1280-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-09-16T18:05:36Z"
-    },
-    {
-      "title": "The Broad-winged Hawk",
-      "link": "https://www.10000birds.com/the-broad-winged-hawk.htm?utm_source=rss&utm_medium=rss&utm_campaign=the-broad-winged-hawk",
-      "summary": "In September, one of the most-hoped for raptors is the Broad-winged Hawk. Among the earliest raptor migrants, Broadies fly in large flocks. Every fall, the entire North American ma",
-      "date": "2026-09-16T11:00:41Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/09/Broad-Winged_Hawk_Buteo_platypterus-scaled.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-09-16T13:22:39Z"
-    },
-    {
-      "title": "Ask a Birder: What is the most beautiful bird song you have ever heard?",
-      "link": "https://www.10000birds.com/ask-a-birder-what-is-the-most-beautiful-bird-song-you-have-ever-heard.htm?utm_source=rss&utm_medium=rss&utm_campaign=ask-a-birder-what-is-the-most-beautiful-bird-song-you-have-ever-heard",
-      "summary": "We asked several of our writers the same questions. Here are the answers to the one above. — Wood Thrush (Hylocichla mustelina) for its beauty. I also like the Great-tailed (Quisca",
-      "date": "2026-09-16T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/ND5_6084Bluebird-to-KP-intrsm.jpg.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-09-16T13:22:39Z"
-    },
-    {
-      "title": "Wildfires near the South Pole burned 90 million years ago",
-      "link": "https://earthsky.org/earth/wildfires-near-the-south-pole-90-million-years-ago/",
-      "summary": "Researchers have found evidence in a sediment core in Antarctica that wildfires near the South Pole were a regular occurrence some 90 million years ago. The post Wildfires near the",
-      "date": "2026-09-16T11:37:20Z",
-      "image": "https://earthsky.org/upl/2026/09/Antarctic_fire_illus-JamesMcKay-AWI-e1789476502135.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-09-16T13:22:45Z"
     }
   ]
 }
