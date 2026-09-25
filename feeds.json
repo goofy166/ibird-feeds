@@ -1,8 +1,30 @@
 {
-  "updated": "2026-09-24T22:15:27Z",
-  "updated_utc": "2026-09-24T22:15:27Z",
+  "updated": "2026-09-25T01:21:16Z",
+  "updated_utc": "2026-09-25T01:21:16Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Q&A: Grasslands in more diverse landscapes can suffer less from drought",
+      "link": "https://phys.org/news/2026-09-qa-grasslands-diverse-landscapes-drought.html",
+      "summary": "During the heat wave of 2018, meadows and pastures also suffered from drought. Are grasslands in diverse landscapes more resilient to yield losses than those in monotonous regions?",
+      "date": "2026-09-25T01:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/do-grasslands-in-more.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-25T01:21:12Z"
+    },
+    {
+      "title": "Biodiversity in production forests: Both costs and benefits shape the financial picture",
+      "link": "https://phys.org/news/2026-09-biodiversity-production-forests-benefits-financial.html",
+      "summary": "Forests provide timber as well as many other ecosystem services. An important question is how measures to conserve biodiversity affect the profitability of forest operations focuse",
+      "date": "2026-09-25T00:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/biodiversity-in-produc.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-25T01:21:12Z"
+    },
     {
       "title": "What the Decline in Firefly Populations Teaches Us About Sleep Loss and Human Lifespan, According to a Longevity Doctor",
       "link": "https://www.outsideonline.com/health/wellness/fireflies-light-pollution-circadian-rhythm-sleep-longevity/",
@@ -5476,28 +5498,6 @@
       "summary": "I am sitting at a slick Manhattan waterfront restaurant on the banks of the East River, New York City, trying to decide why I find the caviar pizza on the menu so disturbing. Jonat",
       "date": "Tue, 10 Dec 2024 08Z",
       "image": "https://hakaimagazine.com/wp-content/uploads/header-21st-century-sturgeon.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-09-17T01:15:31Z"
-    },
-    {
-      "title": "The Destructive Legacy of Failed Aquaculture",
-      "link": "https://hakaimagazine.com/news/the-destructive-legacy-of-failed-aquaculture/",
-      "summary": "Aquaculture is big business in Canada. In 2023, open-net-pen salmon farming in British Columbia alone produced 50,000 tonnes of fish worth just over US $350-million. But on June 30",
-      "date": "2024-12-06T08:01:14Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-aquaculture-cleanup.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-09-17T01:15:31Z"
-    },
-    {
-      "title": "Conjuring the Lost Land Beneath the North Sea",
-      "link": "https://hakaimagazine.com/features/conjuring-the-lost-land-beneath-the-north-sea/",
-      "summary": "The North Sea is a hard place to love. It’s not the cold, or the silty gray-brown waters that seem to suck the brightness out of the sky that make it unappealing, it’s what people ",
-      "date": "Thu, 05 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-doggerland.jpg",
       "name": "Hakai",
       "category": "wildlife",
       "color": 7,
