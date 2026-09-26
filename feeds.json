@@ -1,8 +1,30 @@
 {
-  "updated": "2026-09-26T01:24:07Z",
-  "updated_utc": "2026-09-26T01:24:07Z",
+  "updated": "2026-09-26T07:26:59Z",
+  "updated_utc": "2026-09-26T07:26:59Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: I’m virtually living in the woods now. Wildlife is everywhere | Kate Bradbury",
+      "link": "https://www.theguardian.com/environment/2026/sep/26/country-diary-im-virtually-living-in-the-woods-now-wildlife-is-everywhere",
+      "summary": "Lewes, East Sussex: Owls, bats, badgers and countless birds are my new neighbours, but I’ve been particularly taken by a mystery tree – and its resident treecreeper I have made the",
+      "date": "2026-09-26T04:30:25Z",
+      "image": "https://i.guim.co.uk/img/media/2e4a7c28ffee2d2fe3ea3553b9901822ec960db7/335_0_3347_2678/master/3347.jpg?width=140&quality=85&auto=format&fit=max&s=452dda6ca829e1d67cf939d43a3851e2",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-26T07:26:42Z"
+    },
+    {
+      "title": "A 'library' of bacteria-killing viruses: Harnessing the power of phages",
+      "link": "https://phys.org/news/2026-09-library-bacteria-viruses-harnessing-power.html",
+      "summary": "An estimated 38 trillion bacteria live in the human body—and only a small fraction are harmful to our health. However, the harmful ones can cause serious illness, especially when t",
+      "date": "2026-09-26T02:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-library-of-bacteria.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-26T07:26:56Z"
+    },
     {
       "title": "Venus Flytrap Care: Ask the Experts",
       "link": "https://www.birdsandblooms.com/gardening/small-space-gardening/venus-flytrap-care/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-09-18T01:11:02Z"
-    },
-    {
-      "title": "New cat species identified for first time in more than a century in Bolivia",
-      "link": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
-      "summary": "New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat A diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has ",
-      "date": "2026-09-17T20:43:38Z",
-      "image": "https://i.guim.co.uk/img/media/3434cb2b735cf3a888007c59b6864fb6b3284902/492_0_4917_3934/master/4917.jpg?width=140&quality=85&auto=format&fit=max&s=ad420e896e9ea2421da0e78b9b182d5f",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-09-17T22:01:51Z"
-    },
-    {
-      "title": "5 Workouts to Build Serious Uphill Hiking Strength",
-      "link": "https://www.outsideonline.com/health/training-performance/uphill-hiking-workout/",
-      "summary": "We chatted with mountain athlete and trainer Alexa Hasman, who shares her favorite hill workouts to train for steep hikes and big climbs. The post 5 Workouts to Build Serious Uphil",
-      "date": "Thu, 17 Sep 2026 20Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/GettyImages-692737457-scaled.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-09-17T22:01:57Z"
     }
   ]
 }
