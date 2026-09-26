@@ -1,8 +1,52 @@
 {
-  "updated": "2026-09-26T17:02:52Z",
-  "updated_utc": "2026-09-26T17:02:52Z",
+  "updated": "2026-09-26T20:57:27Z",
+  "updated_utc": "2026-09-26T20:57:27Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Birding in San Diego: The Birdiest County in the U.S.",
+      "link": "https://www.birdsandblooms.com/travel/birding-hotspots/san-diego-birding/",
+      "summary": "Join the locals and explore the fantastic birding habitats that San Diego has to offer, from the seashore to the grasslands. The post Birding in San Diego: The Birdiest County in t",
+      "date": "2026-09-09T20:08:11Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/09/275537970_1_Candice_Lenney_BNB_BYPC_2021-e1788977669806.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-09-26T20:57:07Z"
+    },
+    {
+      "title": "How, Exactly, Could Deep-Sea Mining Benefit All of Humanity?",
+      "link": "https://hakaimagazine.com/news/how-exactly-could-deep-sea-mining-benefit-all-of-humanity/",
+      "summary": "When Arvid Pardo, a Maltese diplomat, took the floor at the United Nations General Assembly in New York in 1967 and began speaking at length on international law, the room was spar",
+      "date": "2024-12-20T08:01:54Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-benefit-of-humanity.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-09-26T20:57:14Z"
+    },
+    {
+      "title": "The Canoe in the Forest",
+      "link": "https://hakaimagazine.com/features/the-canoe-in-the-forest/",
+      "summary": "When I first see the canoe, in May, it takes a moment to distinguish the long, shapely slab of cedar from the patch of earth that has spent more than a century trying to reclaim it",
+      "date": "Thu, 19 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-haida-canoe.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-09-26T20:57:14Z"
+    },
+    {
+      "title": "Why earwigs infected by parasitic worms head towards water",
+      "link": "https://phys.org/news/2026-09-earwigs-infected-parasitic-worms.html",
+      "summary": "Earwigs, small, elongated insects with distinctive pincers at the rear of their abdomens, have little reason to enter open water. While many earwig species are attracted to damp en",
+      "date": "2026-09-26T20:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-earwigs-infected-b.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-26T20:57:23Z"
+    },
     {
       "title": "What’s Next for Deep-Sea Mining?",
       "link": "https://hakaimagazine.com/news/whats-next-for-deep-sea-mining/",
@@ -5458,50 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-09-18T07:18:22Z"
-    },
-    {
-      "title": "Baby orangutans in India expose 'frightening' scale of trafficking",
-      "link": "https://phys.org/news/2026-09-baby-orangutans-india-expose-scale.html",
-      "summary": "Five baby orangutans abandoned in an Indian forest have exposed a \"massive\" exotic wildlife trade, with traffickers smuggling increasingly rare species into the country, experts sa",
-      "date": "2026-09-18T07:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-five-tiny-oranguta.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-18T07:18:30Z"
-    },
-    {
-      "title": "Bolivia's tilcayo tiger cat becomes first new wildcat species in 100 years",
-      "link": "https://phys.org/news/2026-09-bolivia-tilcayo-tiger-cat-wildcat.html",
-      "summary": "Scientists have discovered a new species of wild cat for the first time in more than a century, a Bolivian researcher told AFP on Thursday.",
-      "date": "2026-09-18T06:49:43Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-new-wildcat-disc-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-18T07:18:30Z"
-    },
-    {
-      "title": "Grass and clover can provide more than animal feed",
-      "link": "https://phys.org/news/2026-09-grass-clover-animal.html",
-      "summary": "Growing leys—grass and clover—is nothing new in Swedish agriculture. But in the arable farming regions dominated by cereal production, leys are less common. One reason is that ther",
-      "date": "2026-09-18T02:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/grass-and-clover-can-p.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-18T07:18:30Z"
-    },
-    {
-      "title": "Robots grow and package lettuce year-round in Norway's fully automated farm",
-      "link": "https://phys.org/news/2026-09-robots-package-lettuce-year-norway.html",
-      "summary": "Norway's first fully automated facility for vegetable production was put into operation last fall. This spring, the first products hit store shelves.",
-      "date": "2026-09-18T01:40:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-seed-to-packaging.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-18T07:18:30Z"
     }
   ]
 }
