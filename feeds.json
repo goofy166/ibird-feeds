@@ -1,8 +1,19 @@
 {
-  "updated": "2026-09-26T20:57:27Z",
-  "updated_utc": "2026-09-26T20:57:27Z",
+  "updated": "2026-09-26T23:30:24Z",
+  "updated_utc": "2026-09-26T23:30:24Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Blood test could gauge if a baby has a dangerous infection in 15 minutes",
+      "link": "https://www.newscientist.com/article/2590894-blood-test-could-gauge-if-a-baby-has-a-dangerous-infection-in-15-minutes/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Feverish babies in hospital are often assumed to have a serious bacterial infection and are treated with antibiotics. But a test that gauges whether the infection is bacterial or v",
+      "date": "2026-09-26T22:01:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314004871.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-09-26T23:30:18Z"
+    },
     {
       "title": "Birding in San Diego: The Birdiest County in the U.S.",
       "link": "https://www.birdsandblooms.com/travel/birding-hotspots/san-diego-birding/",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 7,
       "fetched_at": "2026-09-18T07:18:20Z"
-    },
-    {
-      "title": "‘Immaculate condition’: Rare mastodon fossil found in San Mateo County creek",
-      "link": "https://www.mercurynews.com/2026/09/09/immaculate-condition-rare-mastodon-fossil-found-in-san-mateo-county-creek/",
-      "summary": "Elephant-like creature roamed California more than 11,000 years ago",
-      "date": "2026-09-09T23:00:29Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/SJM-L-MASTODON-04-e1788994369558.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-09-18T07:18:22Z"
     }
   ]
 }
