@@ -1,8 +1,52 @@
 {
-  "updated": "2026-09-27T04:59:57Z",
-  "updated_utc": "2026-09-27T04:59:57Z",
+  "updated": "2026-09-27T10:30:43Z",
+  "updated_utc": "2026-09-27T10:30:43Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Watch for the daytime moon after sunrise this week",
+      "link": "https://earthsky.org/tonight/see-the-daytime-moon/",
+      "summary": "Watch for the beautiful daytime moon this week, a pale orb floating against a blue sky in the morning hours. Look west! You'll see it! The post Watch for the daytime moon after sun",
+      "date": "2026-09-27T09:00:16Z",
+      "image": "https://earthsky.org/upl/2026/04/DSC_5833-moonset.7nov2025.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-09-27T10:30:28Z"
+    },
+    {
+      "title": "Your Heavy Hiking Pack Is Destroying Your Feet—Here’s What the Latest Science Says",
+      "link": "https://www.outsideonline.com/health/training-performance/heavy-backpack-foot-injuries-study/",
+      "summary": "A new study finds that carrying more than ten percent of your body weight in your pack increases plantar pressure, causing foot injuries. The post Your Heavy Hiking Pack Is Destroy",
+      "date": "2026-09-27T09:03:33Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/hiking-pack-study.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-09-27T10:30:33Z"
+    },
+    {
+      "title": "James Webb telescope shares one of its biggest images ever, with record-breaking stars hiding in the dust",
+      "link": "https://www.livescience.com/space/astronomy/james-webb-telescope-shares-one-of-its-biggest-images-ever-with-record-breaking-stars-hiding-in-the-dust-space-photo-of-the-week",
+      "summary": "One of the largest images from the James Webb Space Telescope so far reveals an intricate landscape of dwarf stars and spectacular clouds.",
+      "date": "2026-09-27T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/kmdwY2Xf8Pw3oQW48qtai4-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-09-27T10:30:41Z"
+    },
+    {
+      "title": "What is the closest any object has gotten to the sun?",
+      "link": "https://www.livescience.com/space/astronomy/what-is-the-closest-any-object-has-gotten-to-the-sun",
+      "summary": "Approaching the sun is a perilous process, but many objects have successfully pulled off this feat.",
+      "date": "2026-09-27T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/njFee8okrrunSzUeUE5AqQ-1920-80.gif",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-09-27T10:30:41Z"
+    },
     {
       "title": "Blood test could gauge if a baby has a dangerous infection in 15 minutes",
       "link": "https://www.newscientist.com/article/2590894-blood-test-could-gauge-if-a-baby-has-a-dangerous-infection-in-15-minutes/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -5458,50 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-09-18T07:18:18Z"
-    },
-    {
-      "title": "Visible planets and night sky guide for September",
-      "link": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
-      "summary": "Visible planets and night sky guide: Look for the waxing crescent moon near red Antares this evening. And see a video explaining the equinox. The post Visible planets and night sky",
-      "date": "Thu, 17 Sep 2026 10Z",
-      "image": "https://earthsky.org/upl/2026/08/2026-Sep-16-17-Moon-C.jpeg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-09-18T07:18:19Z"
-    },
-    {
-      "title": "Sun news: A near-spotless day on our star",
-      "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-      "summary": "Sun news September 17, 2026: Only 1 sunspot remains, and it's about to leave. Will tomorrow bring the 1st spotless sun since February 24? Stay tuned! The post Sun news: A near-spot",
-      "date": "Thu, 17 Sep 2026 07Z",
-      "image": "https://earthsky.org/upl/2026/09/NASA-SDO_sun-in-visible-light_2026-sep-18_0145UTC_labels-e1789700461358.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-09-18T07:18:19Z"
-    },
-    {
-      "title": "So Long, and Thanks for All the Fish",
-      "link": "https://hakaimagazine.com/article-short/so-long-and-thanks-for-all-the-fish/",
-      "summary": "We started Hakai Magazine over 10 years ago because the ocean and its coastlines needed a voice. No other outlet was exclusively covering issues at the interface of sea and land—or",
-      "date": "2024-12-27T08:05:43Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-so-long-and-thanks-for-all-the-fish.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-09-18T07:18:20Z"
-    },
-    {
-      "title": "The First First Responders",
-      "link": "https://hakaimagazine.com/features/the-first-first-responders/",
-      "summary": "When a ship wrecks on an unfamiliar coastline, an already desperate situation is all the more dire. Blinded by the night, and lost, the captain and crew of the Puritan, a four-mast",
-      "date": "Tue, 24 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-first-first-responder.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-09-18T07:18:20Z"
     }
   ]
 }
