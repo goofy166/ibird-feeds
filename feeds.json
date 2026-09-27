@@ -1,8 +1,30 @@
 {
-  "updated": "2026-09-27T19:42:23Z",
-  "updated_utc": "2026-09-27T19:42:23Z",
+  "updated": "2026-09-27T22:56:36Z",
+  "updated_utc": "2026-09-27T22:56:36Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Dog dies trying to protect northern California couple from bear attack",
+      "link": "https://www.theguardian.com/us-news/2026/sep/27/northern-california-bear-attack",
+      "summary": "Couple was seriously injured after attack on 19 September and are mourning the death of their French bulldog A bear attack last weekend has left a California couple seriously injur",
+      "date": "2026-09-27T22:22:38Z",
+      "image": "https://i.guim.co.uk/img/media/e481aecc0a895aa09fbe34759dd26d345e473f03/285_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=530499e4d1c823a7bbb5c97fec76c3d5",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-27T22:56:20Z"
+    },
+    {
+      "title": "Japan's 2011 tsunami sparked fish hybridization, but species boundaries largely held",
+      "link": "https://phys.org/news/2026-09-japan-tsunami-fish-hybridization-species.html",
+      "summary": "How are species boundaries maintained in the face of environmental disturbance? This is not only a fundamental question in evolutionary biology but also an increasingly important o",
+      "date": "2026-09-27T20:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-2011-tsunami-trigg.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-27T22:56:32Z"
+    },
     {
       "title": "40 Types of Rabbit-Resistant Plants You Can Grow (2026)",
       "link": "https://birdwatchinghq.com/rabbit-resistant-plants/",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-09-18T17:01:21Z"
-    },
-    {
-      "title": "From war to weather, Australian farmers are planting spring crops in an uncertain world",
-      "link": "https://phys.org/news/2026-09-war-weather-australian-farmers-crops.html",
-      "summary": "Australian farmers are heading into spring with an unusual mix of optimism and uncertainty.",
-      "date": "2026-09-18T13:40:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/australian-farmers.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-18T17:01:21Z"
-    },
-    {
-      "title": "'Of course I am worried': Live Science readers react to US weapons in space",
-      "link": "https://www.livescience.com/space/of-course-i-am-worried-live-science-readers-react-to-us-weapons-in-space",
-      "summary": "Are you worried about an arms race in space? Live Science readers shared their thoughts.",
-      "date": "2026-09-18T15:46:02Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/GLAjWu3HGRcZudMRRnWJm9-1920-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-09-18T17:01:23Z"
     }
   ]
 }
