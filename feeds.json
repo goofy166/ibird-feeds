@@ -1,8 +1,52 @@
 {
-  "updated": "2026-09-28T01:32:25Z",
-  "updated_utc": "2026-09-28T01:32:25Z",
+  "updated": "2026-09-28T08:33:56Z",
+  "updated_utc": "2026-09-28T08:33:56Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The endangered native ponies of Eriskay in the Outer Hebrides – a photo essay",
+      "link": "https://www.theguardian.com/artanddesign/2026/sep/28/endangered-wild-ponies-eriskay-outer-hebrides-scotland-photo-essay",
+      "summary": "Fewer than 400 Eriskay ponies remain. One of the rarest native breeds in the world, their plight is unique because the community living on their tiny Hebridean island are fighting ",
+      "date": "2026-09-28T06:00:25Z",
+      "image": "https://i.guim.co.uk/img/media/86053203dbeb8996c5134b69877c80538c03aaa8/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e115817fdf30c27f1be02c452d9b60ae",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-28T08:33:40Z"
+    },
+    {
+      "title": "‘Thrilled’: huge swarms of bogong moths surprise NSW residents and may point to species’ recovery",
+      "link": "https://www.theguardian.com/science/2026/sep/28/thrilled-huge-swarms-of-bogong-moths-surprise-nsw-residents-and-may-point-to-species-recovery",
+      "summary": "Researcher says sightings of the endangered moth have increased over the last two years but ‘this year has blown them out of the water’ Get our breaking news email , free app or da",
+      "date": "2026-09-28T05:48:50Z",
+      "image": "https://i.guim.co.uk/img/media/cd5dfec35525d745f480b3040abe7f4fbbc8f526/0_649_1080_863/master/1080.jpg?width=140&quality=85&auto=format&fit=max&s=623a70c4cdd3abcfbcac484ce614e45b",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-09-28T08:33:40Z"
+    },
+    {
+      "title": "Can you hack your brain to be ultra-productive?",
+      "link": "https://www.newscientist.com/article/2590997-can-you-hack-your-brain-to-be-ultra-productive/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "An endless stream of distractions, from email notifications to overlapping deadlines, can make focus slip away. Columnist Helen Thomson went hunting for neuroscience-backed ways to",
+      "date": "2026-09-28T08:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314009534.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-09-28T08:33:50Z"
+    },
+    {
+      "title": "Mediterranean rockrose extract shows fungicidal activity against common skin infections",
+      "link": "https://phys.org/news/2026-09-mediterranean-rockrose-fungicidal-common-skin.html",
+      "summary": "A polyphenol-rich extract from Cistus salviifolius, a Mediterranean rockrose species traditionally used to treat skin conditions, has shown fungicidal activity against several derm",
+      "date": "2026-09-28T08:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mediterranean-rockrose-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-28T08:33:52Z"
+    },
     {
       "title": "What the smell of a soil can tell us about soil health",
       "link": "https://phys.org/news/2026-09-soil-health.html",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-09-18T17:01:18Z"
-    },
-    {
-      "title": "What’s behind ‘one of paleontology’s most enduring enigmas’?",
-      "link": "https://www.sciencenews.org/article/paleontology-enigma-honeycomb-fossil",
-      "summary": "New research suggests that Paleodictyon — honeycomb-shaped formations perhaps sketched by da Vinci — are not made by soft-bodied creatures.",
-      "date": "2026-09-18T13:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/090826_MB_fossil_mainsocial.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-09-18T17:01:18Z"
-    },
-    {
-      "title": "SpaceX’s Starship will orbit Earth for first time during next flight",
-      "link": "https://www.newscientist.com/article/2589461-spacexs-starship-will-orbit-earth-for-first-time-during-next-flight/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Starship's next test flight will be its first orbital mission. The craft will also release working Starlink V3 satellites for the first time, making the flight the first commercial",
-      "date": "2026-09-18T14:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312823359.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-09-18T17:01:19Z"
-    },
-    {
-      "title": "'Plasticorals,' coral rubble fused with plastic, represent a new form of plastic pollution",
-      "link": "https://phys.org/news/2026-09-plasticorals-coral-rubble-fused-plastic.html",
-      "summary": "During routine beach litter surveys on the subtropical island of Okinawa, Japan, researchers came across small, brightly colored specks in the pale coral rubble. Back at the lab, s",
-      "date": "2026-09-18T16:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-form-of-plastic-po.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-18T17:01:21Z"
-    },
-    {
-      "title": "Why high levels of the amino acid cysteine are toxic to cells",
-      "link": "https://phys.org/news/2026-09-high-amino-acid-cysteine-toxic.html",
-      "summary": "Cysteine is one of the main building blocks that cells use to make proteins. But this amino acid is a double-edged sword—too much cysteine is toxic to the cell. Cells therefore kee",
-      "date": "2026-09-18T14:27:12Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-wh-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-18T17:01:21Z"
     }
   ]
 }
