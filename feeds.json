@@ -1,8 +1,19 @@
 {
-  "updated": "2026-09-27T22:56:36Z",
-  "updated_utc": "2026-09-27T22:56:36Z",
+  "updated": "2026-09-28T01:32:25Z",
+  "updated_utc": "2026-09-28T01:32:25Z",
   "count": 500,
   "stories": [
+    {
+      "title": "What the smell of a soil can tell us about soil health",
+      "link": "https://phys.org/news/2026-09-soil-health.html",
+      "summary": "Farmers used to sniff their soil to gauge how healthy it was. According to ecologist Rosa Boone, you can deduce a great deal from its smell: \"The fungi and bacteria present in the ",
+      "date": "2026-09-28T00:30:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-the-smell-of-a-so.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-28T01:32:21Z"
+    },
     {
       "title": "Dog dies trying to protect northern California couple from bear attack",
       "link": "https://www.theguardian.com/us-news/2026/sep/27/northern-california-bear-attack",
@@ -5487,17 +5498,6 @@
       "summary": "Cysteine is one of the main building blocks that cells use to make proteins. But this amino acid is a double-edged sword—too much cysteine is toxic to the cell. Cells therefore kee",
       "date": "2026-09-18T14:27:12Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-wh-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-18T17:01:21Z"
-    },
-    {
-      "title": "Small gardens are a big barrier to supporting nature—but better planning could protect UK wildlife",
-      "link": "https://phys.org/news/2026-09-small-gardens-big-barrier-nature.html",
-      "summary": "A new study by Chester Zoo and Nottingham Trent University scientists revealed that just over a third (38%) of more than 230 householders in Cheshire and North Wales were willing o",
-      "date": "2026-09-18T14:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hedgehogs.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
