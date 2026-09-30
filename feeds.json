@@ -1,8 +1,63 @@
 {
-  "updated": "2026-09-29T22:54:54Z",
-  "updated_utc": "2026-09-29T22:54:54Z",
+  "updated": "2026-09-30T01:57:41Z",
+  "updated_utc": "2026-09-30T01:57:41Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Never Use Lysol to Disinfect a Bird Feeder—Here’s Why",
+      "link": "https://www.birdsandblooms.com/birding/attracting-birds/feeding-birds/bird-feeder-disinfectant/",
+      "summary": "Should you use disinfectant sprays on bird feeders and bird houses? Find out if these products are safe for your backyard birds. The post Never Use Lysol to Disinfect a Bird Feeder",
+      "date": "2026-09-11T14:25:45Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/09/BNBugc_nancy-tully.jpg?fit=700,1024",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-09-30T01:57:23Z"
+    },
+    {
+      "title": "Unlocking AI as a research tool for plant microscopy",
+      "link": "https://phys.org/news/2026-09-ai-tool-microscopy.html",
+      "summary": "Software created by University of Queensland scientists could help AI platforms overcome a blind spot limiting their value in plant research. UQ Ph.D. student Tianqi Wei said even ",
+      "date": "2026-09-30T01:40:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unlocking-ai-as-a-rese.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-30T01:57:38Z"
+    },
+    {
+      "title": "Small fields, great diversity: How a diverse patchwork of crops helps birds",
+      "link": "https://phys.org/news/2026-09-small-fields-great-diversity-diverse.html",
+      "summary": "Birds are not only beautiful to look at and listen to; they also play important roles in nature. They eat pests and disperse seeds. They are generally considered indicators of a he",
+      "date": "2026-09-30T00:20:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/small-fields-great-div.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-30T01:57:38Z"
+    },
+    {
+      "title": "Engineered coating lets mitochondria retain their ability to produce energy",
+      "link": "https://phys.org/news/2026-09-coating-mitochondria-retain-ability-energy.html",
+      "summary": "Researchers have coated mitochondria with innovative materials without compromising their function, according to a study by IRCCS Fondazione Istituto Neurologico Carlo Besta (FINCB",
+      "date": "2026-09-29T23:40:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/coating-mitochondria-w.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-30T01:57:38Z"
+    },
+    {
+      "title": "Nine generations of virtual dating reveal how fish shape their ideal mates",
+      "link": "https://phys.org/news/2026-09-generations-virtual-dating-reveal-fish.html",
+      "summary": "Fish have \"designed\" their perfect partners in a new experiment—revealing simple male preferences and more complex female tastes.",
+      "date": "2026-09-29T23:10:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nine-generations-of-vi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-09-30T01:57:38Z"
+    },
     {
       "title": "How Long Do Cardinal Birds Live?",
       "link": "https://www.birdsandblooms.com/birding/birding-basics/how-long-do-cardinals-live/",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-09-22T04:30:50Z"
-    },
-    {
-      "title": "Circular mRNA helps cell factories make up to six times as much protein",
-      "link": "https://phys.org/news/2026-09-circular-mrna-cell-factories-protein.html",
-      "summary": "A synthetic biology technology has been developed that converts easily degraded messenger RNA (mRNA) into a ring-shaped form inside microbial cells, increasing protein production.",
-      "date": "2026-09-21T23:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/snu-professor-sang-woo.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-22T04:30:54Z"
-    },
-    {
-      "title": "Cyanobacterium found in clean lakes shows little toxic potential",
-      "link": "https://phys.org/news/2026-09-cyanobacterium-lakes-toxic-potential.html",
-      "summary": "Gloeotrichia echinulata is a type of cyanobacterium that draws scrutiny because it tends to bloom in clear lakes, forming thick mats of visible green or white puffballs in otherwis",
-      "date": "2026-09-21T23:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cyanobacterium-found-i.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-22T04:30:54Z"
-    },
-    {
-      "title": "Sydney cockatoos reveal how animal culture helps them adapt to city life",
-      "link": "https://phys.org/news/2026-09-sydney-cockatoos-reveal-animal-culture.html",
-      "summary": "Sulfur-crested cockatoos are surprisingly smart. In Australian cities such as Brisbane and Sydney, they've learned how to turn on drinking fountains by twisting the handle with the",
-      "date": "2026-09-21T23:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sulfur-crested-cockato.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-22T04:30:54Z"
-    },
-    {
-      "title": "Why are Prothonotary Warblers Choosing Kansas as Their new Home",
-      "link": "https://www.birdwatchingdaily.com/news/birdwatching/why-are-prothonotary-warblers-choosing-kansas-as-their-new-home/",
-      "summary": "Birdwatchers in Kansas are seeing a bright yellow visitor that, until recently, wasn’t expected to breed in the state. The bird is the Prothonotary Warbler … Read More \"Why are Pro",
-      "date": "Tue, 25 Aug 2026 16Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/08/New-Project-2.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-09-21T23:08:33Z"
-    },
-    {
-      "title": "How to Attract Goldfinches in Winter: The Complete Guide",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/how-to-attract-goldfinches-in-winter-the-complete-guide/",
-      "summary": "American Goldfinches are a joy to witness with their vibrant yellow coloring and black and white wing markings. Not to mention that the cheerful chirping … Read More \"How to Attrac",
-      "date": "2026-05-10T23:29:29Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/07/How-Goldfinches-Change-Colors-by-Season.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-09-21T23:08:33Z"
     }
   ]
 }
