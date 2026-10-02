@@ -1,8 +1,129 @@
 {
-  "updated": "2026-10-01T20:57:26Z",
-  "updated_utc": "2026-10-01T20:57:26Z",
+  "updated": "2026-10-02T00:40:09Z",
+  "updated_utc": "2026-10-02T00:40:09Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Hitting the sweet spot: bear treats itself to baked goods at Colorado farmers’ market",
+      "link": "https://www.theguardian.com/us-news/2026/oct/01/colorado-bear-farmers-market",
+      "summary": "Shoppers and vendors in Aspen surprised by unusual customer as it stretched to sample stall offerings Farmers’ market shoppers might not usually pay much attention to the local res",
+      "date": "2026-10-01T21:23:55Z",
+      "image": "https://i.guim.co.uk/img/media/0e1009a5677f8ec45d9d40a3f1f220fd821876cf/0_21_658_526/master/658.jpg?width=140&quality=85&auto=format&fit=max&s=7d0db21afa65e511e429ef347788df57",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-02T00:39:53Z"
+    },
+    {
+      "title": "See the Hilarious Animal Shenanigans Captured in Photos and Videos Shortlisted for the 2026 Nikon Comedy Wildlife Awards",
+      "link": "https://www.smithsonianmag.com/smart-news/see-the-hilarious-animal-shenanigans-captured-in-photos-and-videos-shortlisted-for-the-2026-nikon-comedy-wildlife-awards-180989600/",
+      "summary": "From a sneezing moose to a real-life angry bird, this year's competition received a whopping more than 10,000 entries from 112 countries",
+      "date": "Thu, 01 Oct 2026 23Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/XMG-CsLVXWy5zWbL1lr4e1RjTqA=/420x240/filters:focal(2659x1773:2660x1774)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2c/1c/2c1cb4b9-d775-4091-b0ab-15c69ec5e325/natalie_veekmans_this_is_my_best_side.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-10-02T00:40:01Z"
+    },
+    {
+      "title": "Learning to speak elephant: Choruses of rumbles help groups coordinate",
+      "link": "https://phys.org/news/2026-10-elephant-choruses-rumbles-groups.html",
+      "summary": "Choruses of African elephant rumbles appear to become more similar in certain situations, including reuniting or coordinating what to do next. Now, new research published in Scient",
+      "date": "2026-10-01T23:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/elephant-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-02T00:40:05Z"
+    },
+    {
+      "title": "Camelina genome analysis reveals how wild relatives could expand crop breeding options",
+      "link": "https://phys.org/news/2026-10-camelina-genome-analysis-reveals-wild.html",
+      "summary": "Camelina is a relatively new oilseed gaining interest for its potential use in food, livestock feed and renewable fuel markets. A newly published research paper provides insights i",
+      "date": "2026-10-01T23:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/camelina-genome-analys.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-02T00:40:05Z"
+    },
+    {
+      "title": "Five new species of freshwater mussels in southern US uncovered by researchers",
+      "link": "https://phys.org/news/2026-10-species-freshwater-mussels-southern-uncovered.html",
+      "summary": "A new research paper published in Zootaxa describes five new species of freshwater mussels in the southern U.S., providing the scientific foundation for protecting the most imperil",
+      "date": "2026-10-01T22:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/five-new-species-of-fr.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-02T00:40:05Z"
+    },
+    {
+      "title": "Mining fragmented microbial DNA identifies candidates for anticancer testing",
+      "link": "https://phys.org/news/2026-10-fragmented-microbial-dna-candidates-anticancer.html",
+      "summary": "Researchers have developed a practical strategy for recovering biosynthetic information from fragmented metagenomic data. Through this work, the researchers identified and prioriti",
+      "date": "2026-10-01T22:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/6-dna.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-02T00:40:05Z"
+    },
+    {
+      "title": "Small protein helps amplify cell signals from receptors targeted by many medicines",
+      "link": "https://phys.org/news/2026-10-small-protein-amplify-cell-receptors.html",
+      "summary": "A small protein known as p11 may play a much broader role in cellular signaling than previously thought. Researchers at Karolinska institutet have now shown that p11 interacts with",
+      "date": "2026-10-01T22:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/protein-found-to-regul.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-02T00:40:05Z"
+    },
+    {
+      "title": "Yosemite toad killer may be hiding in their own homes",
+      "link": "https://phys.org/news/2026-10-yosemite-toad-killer-homes.html",
+      "summary": "UCLA biologists have found the hiding place of a silent killer stalking threatened Yosemite toads: their own burrows. The Batrachochytrium dendrobatidis (Bd) fungus decimating amph",
+      "date": "2026-10-01T21:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-brown-toad-sits-insi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-02T00:40:05Z"
+    },
+    {
+      "title": "Global pollination analysis reveals climate explains specialized partnerships better than latitude",
+      "link": "https://phys.org/news/2026-10-global-pollination-analysis-reveals-climate.html",
+      "summary": "An international study led by researchers from Charles University in Prague (CUNI) and the Biology Centre of the Czech Academy of Sciences (BC CAS) has mapped how closely flowering",
+      "date": "2026-10-01T21:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pollination-partnershi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-02T00:40:05Z"
+    },
+    {
+      "title": "Salivary gland mini-organs grown from pluripotent stem cells offer potential path to treating severe dry mouth",
+      "link": "https://phys.org/news/2026-10-salivary-gland-mini-grown-pluripotent.html",
+      "summary": "Extreme dry mouth, caused by radiation used to treat cancer and by autoimmune diseases such as Sjögren's disease, radically affects quality of life for sufferers. It can hamper spe",
+      "date": "2026-10-01T21:00:16Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ub-researchers-grow-sa.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-02T00:40:05Z"
+    },
+    {
+      "title": "Engineer brings 'surgineering' mindset to future of medicine",
+      "link": "https://phys.org/news/2026-10-surgineering-mindset-future-medicine.html",
+      "summary": "Farshid Alambeigi refers to one of his most ambitious research efforts as \"the sci-fi project.\" The idea lives up to the name. He is developing robotic technology that could one da",
+      "date": "2026-10-01T21:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rice-engineer-brings-s.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-02T00:40:05Z"
+    },
     {
       "title": "These States are Seeing the Biggest Migration of Birds Tonight",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/these-states-are-seeing-the-biggest-migration-of-birds-tonight/",
@@ -5381,127 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-09-24T09:50:55Z"
-    },
-    {
-      "title": "Japan switches on its first full-stack room-temperature quantum computer — and scientists plan to scale it up to 10,000 qubits",
-      "link": "https://www.livescience.com/technology/quantum/japan-switches-on-its-first-full-stack-room-temperature-quantum-computer-and-scientists-plan-to-scale-it-up-to-10-000-qubits",
-      "summary": "Japan's new quantum system, Shunkai, uses \"optical tweezers\" to trap and rearrange atoms, and will be available to researchers working on quantum error correction.",
-      "date": "Thu, 24 Sep 2026 09Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/HJZf8ceEv5rMRkPxKqp23S-1920-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-09-24T09:50:56Z"
-    },
-    {
-      "title": "‘Hanging on by a thread’: 11th hour decision to protect endangered birds from SA space project plans welcomed",
-      "link": "https://www.theguardian.com/environment/2026/sep/24/hanging-on-by-a-thread-11th-hour-decision-to-protect-endangered-birds-from-sa-space-project-plans-welcomed",
-      "summary": "The Eyre peninsula site is ‘precious and important’ habitats for southern emu-wren and home to 80% of the mallee whipbird population Get our breaking news email , free app or daily",
-      "date": "2026-09-24T03:00:05Z",
-      "image": "https://i.guim.co.uk/img/media/6bf7d34c614d9bfeb3db46f9d67392e845eed770/301_0_1499_1199/master/1499.jpg?width=140&quality=85&auto=format&fit=max&s=fc7d32ee93ec977a1fe7368b6dc5bc8c",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-09-24T04:24:24Z"
-    },
-    {
-      "title": "Aerial maps reveal successful woodland expansion in Scotland's Cairngorms",
-      "link": "https://phys.org/news/2026-09-aerial-reveal-successful-woodland-expansion.html",
-      "summary": "A University of Cambridge–led team has used aerial surveys across a huge swath of the Cairngorms National Park in Scotland to create detailed 3D maps that show the beginnings of la",
-      "date": "2026-09-24T04:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/successful-woodland-ex.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-24T04:24:37Z"
-    },
-    {
-      "title": "Across southwest China and Thailand, plant turnover and nematode body width help explain soil diversity",
-      "link": "https://phys.org/news/2026-09-southwest-china-thailand-turnover-nematode.html",
-      "summary": "Soils harbor some of the most diverse life on Earth. Soil nematodes play crucial roles in maintaining ecosystem functions. Yet how their diversity changes across large landscapes, ",
-      "date": "2026-09-24T02:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/plant-turnover-and-bod.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-24T04:24:37Z"
-    },
-    {
-      "title": "Delaying cherry blossom to reduce frost damage",
-      "link": "https://phys.org/news/2026-09-delaying-cherry-blossom-frost.html",
-      "summary": "Climate change is causing many fruit trees to flower earlier, increasing their exposure to damaging late spring frosts. A study led by the University of Göttingen shows that the pl",
-      "date": "2026-09-24T00:20:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/delaying-cherry-blosso.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-24T04:24:37Z"
-    },
-    {
-      "title": "Crown-of-thorns starfish can help reefs thrive",
-      "link": "https://phys.org/news/2026-09-crown-thorns-starfish-reefs.html",
-      "summary": "Crown-of-thorns starfish (COTS) are infamous in the marine world. Their toxin-loaded thorns give them a menacing appearance, and they have a reputation as destroyers of coral reefs",
-      "date": "2026-09-24T00:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/crown-of-thorns-starfi.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-24T04:24:37Z"
-    },
-    {
-      "title": "In a first, olive ridley turtles spotted nesting on California’s beaches",
-      "link": "https://www.theguardian.com/us-news/2026/sep/23/sea-turtle-nesting-california-beaches",
-      "summary": "Scientists are questioning whether the nestings on Seal and Huntington Beach were freak occurrences or start of a trend A sea turtle crawled out of the surf in southern California ",
-      "date": "2026-09-23T21:05:09Z",
-      "image": "https://i.guim.co.uk/img/media/f4e7091e3bbe6c4a95539aa4c162984be141abbc/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=fe09b4de307013bdb646f2240148b22f",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-09-23T23:33:06Z"
-    },
-    {
-      "title": "Deadly Avalanches and Heavy Snowfall Just Torpedoed the Climbing Season on Manaslu",
-      "link": "https://www.outsideonline.com/outdoor-adventure/everest/manaslu-2026/",
-      "summary": "Expedition leaders are retreating from Nepal's second most-popular 8000-meter peak after heavy snowfall and a deadly avalanche battered the mountain. Four climbers died during the ",
-      "date": "2026-09-23T21:39:13Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/Manaslu1.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-09-23T23:33:13Z"
-    },
-    {
-      "title": "Why Life Is Better When You’re a Little Bad at Everything, According to Someone Who Used to Try to Be Good at Everything",
-      "link": "https://www.outsideonline.com/health/wellness/benefits-generalist-athlete/",
-      "summary": "Is specializing the key to success? Or can you be a generalist? One athlete who's done both explains what doing well really looks like. The post Why Life Is Better When You’re a Li",
-      "date": "2026-09-23T20:16:10Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/corey-buhay-case-bad-at-everything-final.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-09-23T23:33:13Z"
-    },
-    {
-      "title": "This Cubist Painting With a Mysterious Provenance Hung in the Art Institute of Chicago for Decades. Now, the Museum Will Return It to Its Rightful Jewish Heirs",
-      "link": "https://www.smithsonianmag.com/smart-news/this-cubist-painting-with-a-mysterious-provenance-hung-in-the-art-institute-of-chicago-for-decades-now-the-museum-will-return-it-to-its-rightful-jewish-heirs-180989553/",
-      "summary": "Infrared imaging links the 20th-century Jean Metzinger work to a collector whose pieces were forcibly auctioned under Nazi orders during World War II",
-      "date": "2026-09-23T20:18:46Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/J2TUeAbTqAeXOi41KfYYVGVczKU=/420x240/filters:focal(422x602:423x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4a/03/4a03cf6c-55a2-4e7a-8b5a-6fdcacc385aa/default_3.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-09-23T23:33:15Z"
-    },
-    {
-      "title": "Biologists battle over North America's largest crayfish",
-      "link": "https://phys.org/news/2026-09-biologists-north-america-largest-crayfish.html",
-      "summary": "When Caitlin Bloomer wrestled the massive Crawzilla crawdad—yes, that's its actual common name—out of the muck during a biological survey in Kentucky, she was convinced it was the ",
-      "date": "2026-09-23T23:20:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/biologists-battle-over.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-23T23:33:19Z"
     }
   ]
 }
