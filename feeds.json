@@ -1,8 +1,41 @@
 {
-  "updated": "2026-10-02T00:40:09Z",
-  "updated_utc": "2026-10-02T00:40:09Z",
+  "updated": "2026-10-02T06:54:03Z",
+  "updated_utc": "2026-10-02T06:54:03Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Foxes are native animals?! Quolls are an invasive species? When did that happen? | First Dog on the Moon",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/oct/02/foxes-quolls-invasive-and-native-species",
+      "summary": "Many Australians are uninformed about our adorable native creatures. How could this be? I’ve been banging on about them for years! Sign up here to get an email whenever First Dog c",
+      "date": "2026-10-02T06:49:24Z",
+      "image": "https://i.guim.co.uk/img/media/cb9e9e436d0e3625e6bc3934f1daa022b23d66a3/0_0_481_385/master/481.jpg?width=140&quality=85&auto=format&fit=max&s=ba99bb10400a9c17eadd2adc21766070",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-02T06:53:48Z"
+    },
+    {
+      "title": "Return of swarming moth spectacle has Australia in a flutter",
+      "link": "https://phys.org/news/2026-10-swarming-moth-spectacle-australia-flutter.html",
+      "summary": "Moth swarms so thick they can blot out the stars are fluttering across Australia, heralding a migratory spectacle unseen since the creature's brush with extinction nearly 10 years ",
+      "date": "2026-10-02T06:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bogong-moths-experienc.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-10-02T06:54:00Z"
+    },
+    {
+      "title": "Underwater umbrellas for coral reefs could help protect against heat damage",
+      "link": "https://phys.org/news/2026-10-underwater-umbrellas-coral-reefs.html",
+      "summary": "High sea temperatures driven by the climate crisis damage corals, bleaching them ghostly white and killing them. While restoration of dead reefs is possible, it's difficult and exp",
+      "date": "2026-10-02T04:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/underwater-umbrellas-f.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-02T06:54:00Z"
+    },
     {
       "title": "Hitting the sweet spot: bear treats itself to baked goods at Colorado farmers’ market",
       "link": "https://www.theguardian.com/us-news/2026/oct/01/colorado-bear-farmers-market",
@@ -5469,39 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-09-24T09:50:43Z"
-    },
-    {
-      "title": "OpenAI agent hacked an Australian government healthcare website",
-      "link": "https://www.newscientist.com/article/2590599-openai-agent-hacked-an-australian-government-healthcare-website/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "There has been a string of incidents reported over the past few months where AI agents have hacked companies. Now, a case involving a government website has been revealed for the f",
-      "date": "Thu, 24 Sep 2026 08Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/GettyImages-2296186830.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-09-24T09:50:52Z"
-    },
-    {
-      "title": "How calcium channels in muscle cells open together",
-      "link": "https://phys.org/news/2026-09-calcium-channels-muscle-cells.html",
-      "summary": "Every step we take begins with a burst of calcium inside our muscle cells, causing them to contract. To prepare for action, the cells keep calcium locked in an internal compartment",
-      "date": "2026-09-24T09:00:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/muscle.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-24T09:50:55Z"
-    },
-    {
-      "title": "Anthropic touts AI-led biology discovery",
-      "link": "https://phys.org/news/2026-09-anthropic-touts-ai-biology-discovery.html",
-      "summary": "U.S. artificial intelligence startup Anthropic on Wednesday unveiled the first discovery from its molecular biology lab, a previously unknown enzyme system spotted by its Claude mo",
-      "date": "2026-09-24T08:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/according-to-anthropic.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-24T09:50:55Z"
     }
   ]
 }
