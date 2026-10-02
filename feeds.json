@@ -1,8 +1,151 @@
 {
-  "updated": "2026-10-02T19:07:44Z",
-  "updated_utc": "2026-10-02T19:07:44Z",
+  "updated": "2026-10-02T23:41:32Z",
+  "updated_utc": "2026-10-02T23:41:32Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Watch Park Sessions Season Two",
+      "link": "https://www.outsideonline.com/outdoor-adventure/watch-park-sessions-season-two/",
+      "summary": "Great music meets national park adventure The post Watch Park Sessions Season Two appeared first on Outside Online .",
+      "date": "2026-10-02T21:45:00Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/L1220883-e1790957941122.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-10-02T23:41:23Z"
+    },
+    {
+      "title": "3 Dietitian-Approved Cottage Cheese Snacks to Take on Your Next Hike",
+      "link": "https://www.outsideonline.com/health/nutrition/cottage-cheese-hiking-snacks/",
+      "summary": "Cottage cheese chips are trending. We asked a dietitian why these three cottage cheese recipes are optimal trail fuel. The post 3 Dietitian-Approved Cottage Cheese Snacks to Take o",
+      "date": "2026-10-02T21:34:22Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/cottage-cheese-trail-snack.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-10-02T23:41:23Z"
+    },
+    {
+      "title": "First Look: Berghaus Trango Series",
+      "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/first-look-berghaus-trango-series/",
+      "summary": "The storied British brand brings technical alpine wear with standout style to the U.S. The post First Look: Berghaus Trango Series appeared first on Outside Online .",
+      "date": "2026-10-02T20:59:49Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/20260922_Berghaus_5679-scaled-e1790876143539.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-10-02T23:41:23Z"
+    },
+    {
+      "title": "The Las Playas Intaglio Existed for Millennia. Border Wall Equipment Just Drove Right Through It.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/border-wall-damages-ancient-arizona-geoglyph/",
+      "summary": "Border wall construction in Arizona's Cabeza Prieta National Wildlife Refuge has damaged the Las Playas Intaglio, an ancient geoglyph older than Stonehenge. The post The Las Playas",
+      "date": "2026-10-02T19:13:07Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/intaglia.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-10-02T23:41:23Z"
+    },
+    {
+      "title": "Google Wants to Send Data Centers to Space—and Just Launched an Experimental Satellite to Test Whether Its Ambitious Plan Will Work",
+      "link": "https://www.smithsonianmag.com/smart-news/google-wants-to-send-data-centers-to-space-and-just-launched-a-satellite-to-test-whether-its-ambitious-plan-will-work-180989613/",
+      "summary": "The tech giant aims to use the near-constant sunlight available in low-Earth orbit to power data centers. The experimental satellite, launched October 1, holds four computer chips ",
+      "date": "2026-10-02T20:01:40Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/hMB_EKDFd-MLZCJNxQPV6lznkjQ=/420x240/filters:focal(300x200:301x201)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1a/e7/1ae729d1-7a37-4650-b971-dfdb66c8f7a8/eo_pe_iss062e117852_sm.webp",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-10-02T23:41:24Z"
+    },
+    {
+      "title": "Marine biologists discover new plankton off Oregon coast",
+      "link": "https://phys.org/news/2026-10-marine-biologists-plankton-oregon-coast.html",
+      "summary": "Nearly every morning when she was a doctoral student in the College of Arts and Sciences (CAS), Nicole Nakata, Ph.D. '23 (biology), would cross the street from the Oregon Institute",
+      "date": "2026-10-02T21:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-person-wearing-a-whi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-02T23:41:28Z"
+    },
+    {
+      "title": "Mowing less, spraying smarter give pollinators a boost",
+      "link": "https://phys.org/news/2026-10-spraying-smarter-pollinators-boost.html",
+      "summary": "Roadsides may not look like wildlife habitat, but a few simple changes to how they are maintained could turn them into much better places for pollinators. A new uOttawa-led study f",
+      "date": "2026-10-02T21:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mowing-less-spraying-s-1.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-10-02T23:41:28Z"
+    },
+    {
+      "title": "American beech trees may carry genetic resistance to deadly leaf disease",
+      "link": "https://phys.org/news/2026-10-american-beech-trees-genetic-resistance.html",
+      "summary": "A study led by scientists at the Holden Arboretum has found evidence that beech leaf disease (BLD) symptom development is genetically controlled, providing the first evidence that ",
+      "date": "2026-10-02T20:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-provides-hop.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-02T23:41:28Z"
+    },
+    {
+      "title": "Plasma-activated water tests show concentration matters for effective bacterial disinfection",
+      "link": "https://phys.org/news/2026-10-plasma-effective-bacterial-disinfection.html",
+      "summary": "In a study published in npj Clean Water, researchers from EPFL investigated how Escherichia coli responds to different concentrations of plasma-activated water (PAW) under nutrient",
+      "date": "2026-10-02T20:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-plasma-activated.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-02T23:41:28Z"
+    },
+    {
+      "title": "Why a food poisoning bacterium can cause severe wound infections",
+      "link": "https://phys.org/news/2026-10-food-poisoning-bacterium-severe-wound.html",
+      "summary": "The toxin NheABC, produced by Bacillus cereus, is particularly active in the pH conditions found in open wounds. Researchers at Umeå University found that the toxin damages both ce",
+      "date": "2026-10-02T20:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-a-food-poisoning-b.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-02T23:41:28Z"
+    },
+    {
+      "title": "Computer-designed protein targets immune receptor linked to inflammation at new 'undruggable' site",
+      "link": "https://phys.org/news/2026-10-protein-immune-receptor-linked-inflammation.html",
+      "summary": "To sense their environment and respond accordingly, cells enlist membrane proteins as communication hubs, receiving molecular messages from outside and triggering responses inside.",
+      "date": "2026-10-02T19:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/computer-designed-prot.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-02T23:41:28Z"
+    },
+    {
+      "title": "Rare two-headed turtle hatchling discovered on Cape Cod",
+      "link": "https://www.livescience.com/animals/turtles-tortoises/rare-two-headed-turtle-hatchling-discovered-on-cape-cod",
+      "summary": "A two-headed turtle hatchling is one of three bicephalic terrapins that have been found on Cape Cod over the past five years.",
+      "date": "2026-10-02T20:49:38Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/C8AVsJ2vQNXf68kFzjBnu9-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-10-02T23:41:30Z"
+    },
+    {
+      "title": "Colorful wildflowers bloom across Chile's Atacama Desert in wake of 'super' El Niño",
+      "link": "https://www.livescience.com/planet-earth/colorful-wildflowers-bloom-across-chiles-atacama-desert-in-wake-of-super-el-nino",
+      "summary": "Chile's Atacama Desert is full of brilliant wildflower blooms thanks to this year's super El Niño.",
+      "date": "2026-10-02T20:34:57Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/uzwxDzWHoQZn9YZErnhscb-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-10-02T23:41:30Z"
+    },
     {
       "title": "Encounters with globe trotters",
       "link": "https://www.10000birds.com/encounters-with-globe-trotters.htm?utm_source=rss&utm_medium=rss&utm_campaign=encounters-with-globe-trotters",
@@ -5359,149 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-09-24T22:15:23Z"
-    },
-    {
-      "title": "New findings explain how cells assemble machinery to repair damaged DNA",
-      "link": "https://phys.org/news/2026-09-cells-machinery-dna.html",
-      "summary": "A cell's ability to repair its damaged DNA is one of the most fundamental processes in biology, helping protect us from diseases like cancer. Over the years, researchers have unrav",
-      "date": "2026-09-24T20:40:11Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/damaged-dna.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-24T22:15:23Z"
-    },
-    {
-      "title": "AI-guided mutations help viruses infect bacteria up to 1 million times more effectively",
-      "link": "https://phys.org/news/2026-09-ai-mutations-viruses-infect-bacteria.html",
-      "summary": "Biochemists at the University of Wisconsin–Madison are using AI to tackle one of modern medicine's most pressing challenges: the rise of antibiotic-resistant bacterial infections. ",
-      "date": "2026-09-24T20:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-digital-illustration.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-24T22:15:23Z"
-    },
-    {
-      "title": "First known case of Marfan syndrome discovered in feline siblings",
-      "link": "https://phys.org/news/2026-09-case-marfan-syndrome-feline-siblings.html",
-      "summary": "Researchers at the College of Veterinary Medicine and the Baker Institute of Animal Health have published the first molecular characterization of Marfan syndrome in domestic cats i",
-      "date": "2026-09-24T20:20:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-known-case-of-ma.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-24T22:15:23Z"
-    },
-    {
-      "title": "Shared blueprint in aphid proteins helps AI predict their structures",
-      "link": "https://phys.org/news/2026-09-blueprint-aphid-proteins-ai.html",
-      "summary": "Tiny insects called aphids inject hundreds of mysterious proteins into plants, hijacking the plants' own genomes to build galls: structures made of plant tissue but constructed to ",
-      "date": "2026-09-24T20:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/stowers-scientists-unc.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-24T22:15:23Z"
-    },
-    {
-      "title": "On ancient Madagascar, large native herbivores paid the price as introduced livestock spread",
-      "link": "https://phys.org/news/2026-09-ancient-madagascar-large-native-herbivores.html",
-      "summary": "New analyses of ancient cattle, sheep and goat bones on Madagascar suggest the rapid spread of introduced livestock on the island 1,200 years ago coincided with forest loss and pop",
-      "date": "2026-09-24T19:50:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-zebu-cow.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-24T22:15:23Z"
-    },
-    {
-      "title": "Machine learning helps identify chemicals that repel honey bees from pesticides",
-      "link": "https://phys.org/news/2026-09-machine-chemicals-repel-honey-bees.html",
-      "summary": "In a win for pollinator conservation, researchers at the University of California, Riverside, have developed a machine learning-based method to identify chemical compounds that can",
-      "date": "2026-09-24T19:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/queen-cell-creator.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-09-24T22:15:23Z"
-    },
-    {
-      "title": "Gut bacteria-derived metabolite extends the lifespan of fruit flies",
-      "link": "https://phys.org/news/2026-09-gut-bacteria-derived-metabolite-lifespan.html",
-      "summary": "Gut microbiota influence multiple aspects of host physiology, including metabolic and immune functions. Many metabolites produced by gut bacteria can cross the intestinal epitheliu",
-      "date": "2026-09-24T19:20:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gut-bacteria-derived-m-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-24T22:15:23Z"
-    },
-    {
-      "title": "Archaeologists discover 'tomb of the very highest rank' in 2,700-year-old Etruscan cemetery",
-      "link": "https://www.livescience.com/archaeology/archaeologists-discover-tomb-of-the-very-highest-rank-in-2-700-year-old-etruscan-cemetery",
-      "summary": "Archaeologists have discovered a massive Etruscan burial mound with a vast assortment of grave goods north of Rome.",
-      "date": "Thu, 24 Sep 2026 20Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/LgoJr6Hoo4ET6UgivYkSVH-1920-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-09-24T22:15:25Z"
-    },
-    {
-      "title": "Rick Wakeman performs piano concert to 150 rescued moon bears in Vietnam",
-      "link": "https://www.theguardian.com/world/2026/sep/24/rick-wakeman-vietnam-bears-moon-sanctuary",
-      "summary": "Former Yes musician plays at sanctuary to raise awareness of animals that remain stuck in cages at ‘bile farms’ Rick Wakeman has played to all kinds of people around the globe, but",
-      "date": "2026-09-24T15:40:28Z",
-      "image": "https://i.guim.co.uk/img/media/1f3c5f005f17fb4e459d2e3c3ed2aa66d34e3601/760_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=82a11386c66802aa9ab6821895c2c452",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-09-24T18:58:29Z"
-    },
-    {
-      "title": "Rescued bears enjoy private piano concert – video",
-      "link": "https://www.theguardian.com/world/video/2026/sep/24/rick-wakeman-plays-piano-at-bear-sanctuary-video",
-      "summary": "Former Yes musician Rick Wakeman plays a piano concert to bears at a sanctuary in Vietnam. His concert was performed live on a Yamaha grand piano positioned in Animals Asia in the ",
-      "date": "2026-09-24T15:32:20Z",
-      "image": "https://i.guim.co.uk/img/media/fa621a6bfb6f5ea1c1e3b51b427f80f63ea41947/869_12_5564_4452/master/5564.jpg?width=140&quality=85&auto=format&fit=max&s=f883e214c09ee4b38350e7cb46eb0c10",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-09-24T18:58:29Z"
-    },
-    {
-      "title": "With Blood on Her Face and Monkeys Overhead, Erin Ton Just Smashed the Kilimanjaro Speed Record",
-      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/erin-ton-kilimanjaro-fkt/",
-      "summary": "rail runner Erin Ton set a new Kilimanjaro FKT, completing the 26.38-mile climb in 8 hours, 33 minutes as part of her Seven Summits speed record project. The post With Blood on Her",
-      "date": "Thu, 24 Sep 2026 18Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/kili-1.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-09-24T18:58:35Z"
-    },
-    {
-      "title": "A Fatal Lightning Strike in Utah Exposes a Common Mountain Shelter Myth",
-      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/a-fatal-lightning-strike-in-utah-exposes-a-common-mountain-shelter-myth/",
-      "summary": "A fatal lightning strike on Utah's Mount Timpanogos highlights a dangerous backcountry misconception. Learn why trail shacks and small mountain shelters offer zero lightning protec",
-      "date": "Thu, 24 Sep 2026 17Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/timp-ridge.jpeg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-09-24T18:58:35Z"
-    },
-    {
-      "title": "Embrace Your Wild Side in Alberta",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/embrace-your-wild-side-in-alberta/",
-      "summary": "In the first episode of ‘Along for the Ride,’ comedian Brooks Wheelan offers freewheeling adventure tips for Canada’s boldest province The post Embrace Your Wild Side in Alberta ap",
-      "date": "Thu, 24 Sep 2026 15Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/R1-09946-0012-scaled-e1790099139653.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-09-24T18:58:35Z"
     }
   ]
 }
