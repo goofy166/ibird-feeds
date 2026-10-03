@@ -1,8 +1,52 @@
 {
-  "updated": "2026-10-03T04:59:39Z",
-  "updated_utc": "2026-10-03T04:59:39Z",
+  "updated": "2026-10-03T10:20:55Z",
+  "updated_utc": "2026-10-03T10:20:55Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Comedy wildlife photography award finalists 2026 – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2026/oct/03/comedy-wildlife-photography-awards-2026-in-pictures",
+      "summary": "A caiman wearing a wig, two brown bears laughing and a leopard doing a handstand feature in the selection of finalists from this year’s Nikon Comedy Wildlife awards . Winners will ",
+      "date": "2026-10-03T05:00:49Z",
+      "image": "https://i.guim.co.uk/img/media/bb12d2f4ffbb5fb99d74094540c5e114a047bbc5/534_290_2590_2072/master/2590.jpg?width=140&quality=85&auto=format&fit=max&s=09cbb19086102e7384f8bf52bd7485b7",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-03T10:20:39Z"
+    },
+    {
+      "title": "Scientists search for answers as baby whales wash up dead in Argentina",
+      "link": "https://phys.org/news/2026-10-scientists-baby-whales-dead-argentina.html",
+      "summary": "Investigators in Argentina are trying to solve the mystery of baby whales washing up dead in unusually high numbers along the country's Patagonian coast.",
+      "date": "2026-10-03T09:15:21Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-search-for.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-03T10:20:51Z"
+    },
+    {
+      "title": "Could psilocybin treat brain injuries? Neuroscientist explains how psychedelics could fill a gap in head trauma care",
+      "link": "https://www.livescience.com/health/neuroscience/could-psilocybin-treat-brain-injuries-neuroscientist-explains-how-psychedelics-could-fill-a-gap-in-head-trauma-care",
+      "summary": "Live Science spoke with neuroscientist Argel Aguilar-Valles about recent research exploring psychedelics as a treatment for mild head trauma.",
+      "date": "2026-10-03T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/xtZVE7Chv3sGcSrZTqAMrD-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-10-03T10:20:52Z"
+    },
+    {
+      "title": "Could we ever create artificial gravity on a spaceship?",
+      "link": "https://www.livescience.com/space/space-exploration/could-we-ever-create-artificial-gravity-on-a-spaceship",
+      "summary": "Microgravity poses severe health risks for astronauts. But could there be a solution?",
+      "date": "2026-10-03T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/E3k4LCxfyfNdUEkvYaYizj-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-10-03T10:20:52Z"
+    },
     {
       "title": "Watch Park Sessions Season Two",
       "link": "https://www.outsideonline.com/outdoor-adventure/watch-park-sessions-season-two/",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-09-25T01:21:12Z"
-    },
-    {
-      "title": "What the Decline in Firefly Populations Teaches Us About Sleep Loss and Human Lifespan, According to a Longevity Doctor",
-      "link": "https://www.outsideonline.com/health/wellness/fireflies-light-pollution-circadian-rhythm-sleep-longevity/",
-      "summary": "As a longevity doctor, I explore how light pollution harms fireflies and human sleep—and why resetting our clock is key to longevity. The post What the Decline in Firefly Populatio",
-      "date": "Thu, 24 Sep 2026 21Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/holding-fireflies.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-09-24T22:15:17Z"
-    },
-    {
-      "title": "The Humble History of the Bedpan",
-      "link": "https://www.smithsonianmag.com/innovation/the-humble-history-of-the-bedpan-180989560/",
-      "summary": "Over the past few centuries, inventors have tweaked the design of the receptacles here and there, but overall, not much has changed about the dependable medical supply",
-      "date": "Thu, 24 Sep 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/UrkUfuAPx5sFyFQIuszwRvDYZ2E=/420x240/filters:focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c4/5e/c45e7387-51ef-4eff-983d-48eccef329a7/gettyimages-1399011181.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-09-24T22:15:19Z"
-    },
-    {
-      "title": "Some Birdsongs Are More Pleasing to Human Ears Than Others. Higher-Pitched, Complex Calls Tend to Sound More Beautiful to Us",
-      "link": "https://www.smithsonianmag.com/smart-news/some-birdsongs-are-more-pleasing-to-human-ears-than-others-higher-pitched-complex-calls-tend-to-sound-more-beautiful-to-us-180989540/",
-      "summary": "In a new study, more than 80 participants rated the pleasantness of vocalizations made by 123 European bird species. Researchers then looked at the acoustic qualities of the most—a",
-      "date": "Thu, 24 Sep 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/0cXIGotQWI2L9zGMThhIwHBn6_s=/420x240/filters:focal(960x640:961x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/21/c6/21c63376-978a-418b-8d0a-4a26db1c4fdf/common_blackbird.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-09-24T22:15:19Z"
-    },
-    {
-      "title": "Ningaloo Reef corals reveal early fall spawning window for two key species",
-      "link": "https://phys.org/news/2026-09-ningaloo-reef-corals-reveal-early.html",
-      "summary": "Curtin University scientists have uncovered an important missing piece in the puzzle of how some coral reefs can recover from climate events, providing information that could help ",
-      "date": "2026-09-24T22:00:21Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-insights-into-cora.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-24T22:15:23Z"
     }
   ]
 }
