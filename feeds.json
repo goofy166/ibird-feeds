@@ -1,8 +1,30 @@
 {
-  "updated": "2026-10-04T02:30:20Z",
-  "updated_utc": "2026-10-04T02:30:20Z",
+  "updated": "2026-10-04T09:36:50Z",
+  "updated_utc": "2026-10-04T09:36:50Z",
   "count": 500,
   "stories": [
+    {
+      "title": "World Space Week is October 4 to 10. Find events here",
+      "link": "https://earthsky.org/space/world-space-week-october-4-to-10/",
+      "summary": "World Space Week dates back to 1999 and runs every year from October 4 to 10. This year, the theme is The Rocket Revolution. Find events near you here. The post World Space Week is",
+      "date": "2026-10-04T08:01:45Z",
+      "image": "https://earthsky.org/upl/2026/09/World-Space-Week-2026-Poster-Final.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-10-04T09:36:36Z"
+    },
+    {
+      "title": "Do animals experience schadenfreude?",
+      "link": "https://www.livescience.com/animals/do-animals-experience-schadenfreude",
+      "summary": "Schadenfreude, ‪or pleasure at seeing another's pain, is a complex emotion. So can animals besides humans experience it?",
+      "date": "2026-10-04T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/p8mQze62X9pPVf5D4CXutn-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-10-04T09:36:48Z"
+    },
     {
       "title": "A day at Neeracherried",
       "link": "https://www.10000birds.com/a-day-at-neeracherried.htm?utm_source=rss&utm_medium=rss&utm_campaign=a-day-at-neeracherried",
@@ -5476,28 +5498,6 @@
       "summary": "The next space race is not about making rockets faster, bigger or more capacious, but about reusing them reliably and cheaply. The US is well ahead, but can China catch up?",
       "date": "2026-09-25T12:00:00Z",
       "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313702443.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-09-25T13:34:13Z"
-    },
-    {
-      "title": "Anthropic’s discovery will, at best, be just another gene-editing tool",
-      "link": "https://www.newscientist.com/article/2590769-has-anthropics-claude-really-made-a-discovery-comparable-to-crispr/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "The AI company Anthropic has announced that its Claude large language model has discovered a system reminiscent of CRISPR, but that doesn’t mean the Nobel prizes will start rolling",
-      "date": "2026-09-25T11:04:53Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313839108.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-09-25T13:34:13Z"
-    },
-    {
-      "title": "Mathematician discovers rare eight-faced shape",
-      "link": "https://www.newscientist.com/article/2590747-eight-face-shape-with-three-holes-is-new-to-science/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "It isn't easy to demonstrate that a new geometric shape can actually exist in the real world, but one researcher argues that the genus-3 polyhedron can",
-      "date": "2026-09-25T09:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313696618.jpg",
       "name": "New Scientist",
       "category": "insects",
       "color": 12,
