@@ -1,8 +1,19 @@
 {
-  "updated": "2026-10-04T15:14:57Z",
-  "updated_utc": "2026-10-04T15:14:57Z",
+  "updated": "2026-10-04T19:28:55Z",
+  "updated_utc": "2026-10-04T19:28:55Z",
   "count": 500,
   "stories": [
+    {
+      "title": "One giant clam contains a month‑by‑month diary of the Great Barrier Reef's climate 200 years ago",
+      "link": "https://phys.org/news/2026-09-giant-clam-monthbymonth-diary-great.html",
+      "summary": "When you swim through the azure waters of the Great Barrier Reef, there is one creature on the seafloor that's almost impossible to miss: the giant clam. Its huge, fluted shell fra",
+      "date": "2026-10-04T18:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-giant-clam-contain.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-04T19:28:51Z"
+    },
     {
       "title": "Three Photos: Endemic Birds of Northern Peru",
       "link": "https://www.10000birds.com/three-photos-endemic-birds-of-northern-peru.htm?utm_source=rss&utm_medium=rss&utm_campaign=three-photos-endemic-birds-of-northern-peru",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 7,
       "fetched_at": "2026-09-25T13:34:05Z"
-    },
-    {
-      "title": "What Scientists Want You to Know About How to Warm Up",
-      "link": "https://www.outsideonline.com/health/training-performance/how-to-warm-up-for-workout-science/",
-      "summary": "An international panel reviewed decades of data to determine what pre-workout routines actually achieve. Their consensus challenges some of our most basic assumptions about stretch",
-      "date": "2026-09-25T12:59:52Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/stretching.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-09-25T13:34:09Z"
     }
   ]
 }
