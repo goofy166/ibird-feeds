@@ -1,8 +1,19 @@
 {
-  "updated": "2026-10-04T19:28:55Z",
-  "updated_utc": "2026-10-04T19:28:55Z",
+  "updated": "2026-10-04T22:58:23Z",
+  "updated_utc": "2026-10-04T22:58:23Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Too many males to choose from can overwhelm female frogs—and change who gets to mate",
+      "link": "https://phys.org/news/2026-10-males-overwhelm-female-frogs.html",
+      "summary": "If you've ever felt overwhelmed by menu options at a restaurant, cereal varieties at the grocery store or potential partners while scrolling through dating apps, you've experienced",
+      "date": "2026-10-04T20:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/smaller-frog-on-top-of.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-04T22:58:20Z"
+    },
     {
       "title": "One giant clam contains a month‑by‑month diary of the Great Barrier Reef's climate 200 years ago",
       "link": "https://phys.org/news/2026-09-giant-clam-monthbymonth-diary-great.html",
@@ -5487,17 +5498,6 @@
       "summary": "Nearly 200 of us cram into Tarāwhai, a traditional wooden Māori meeting house, under the gaze of the ancestors and deities carved into the posts and walls. We’re here in the home o",
       "date": "Thu, 12 Dec 2024 08Z",
       "image": "https://hakaimagazine.com/wp-content/uploads/header-maori-language-and-place.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-09-25T13:34:05Z"
-    },
-    {
-      "title": "Caviar Pizzas, New Money, and the Death of an Ancient Fish",
-      "link": "https://hakaimagazine.com/features/caviar-pizzas-new-money-and-the-death-of-an-ancient-fish/",
-      "summary": "I am sitting at a slick Manhattan waterfront restaurant on the banks of the East River, New York City, trying to decide why I find the caviar pizza on the menu so disturbing. Jonat",
-      "date": "Tue, 10 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-21st-century-sturgeon.jpg",
       "name": "Hakai",
       "category": "wildlife",
       "color": 7,
