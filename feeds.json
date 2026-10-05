@@ -1,8 +1,30 @@
 {
-  "updated": "2026-10-04T22:58:23Z",
-  "updated_utc": "2026-10-04T22:58:23Z",
+  "updated": "2026-10-05T01:51:06Z",
+  "updated_utc": "2026-10-05T01:51:06Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Caviar Pizzas, New Money, and the Death of an Ancient Fish",
+      "link": "https://hakaimagazine.com/features/caviar-pizzas-new-money-and-the-death-of-an-ancient-fish/",
+      "summary": "I am sitting at a slick Manhattan waterfront restaurant on the banks of the East River, New York City, trying to decide why I find the caviar pizza on the menu so disturbing. Jonat",
+      "date": "Tue, 10 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-21st-century-sturgeon.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-10-05T01:50:53Z"
+    },
+    {
+      "title": "Nature-strip gardens are a paradise for pollinators in your street",
+      "link": "https://phys.org/news/2026-09-nature-gardens-paradise-pollinators-street.html",
+      "summary": "In front of most Australian houses, between the sidewalk and the road, runs a strip of land most people never really think about. In Australia, it's called the nature strip, but it",
+      "date": "2026-10-05T00:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nature-strip-gardens-a-4.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-10-05T01:51:02Z"
+    },
     {
       "title": "Too many males to choose from can overwhelm female frogs—and change who gets to mate",
       "link": "https://phys.org/news/2026-10-males-overwhelm-female-frogs.html",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-09-25T13:34:04Z"
-    },
-    {
-      "title": "Seeing Saturn’s rings: Top tips for beginners",
-      "link": "https://earthsky.org/astronomy-essentials/viewing-saturns-rings-tips-for-beginners/",
-      "summary": "If you want to see Saturn's rings, late September and early October 2026 is a great time to look. Grab a telescope and read the tips found here! The post Seeing Saturn’s rings: Top",
-      "date": "2026-09-25T10:42:53Z",
-      "image": "https://earthsky.org/upl/2025/08/Titan-shadow-Saturn_Brian-Martin_California_19Aug2025-e1755778833248.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-09-25T13:34:04Z"
-    },
-    {
-      "title": "To Speak the Language of the Land",
-      "link": "https://hakaimagazine.com/features/to-speak-the-language-of-the-land/",
-      "summary": "Nearly 200 of us cram into Tarāwhai, a traditional wooden Māori meeting house, under the gaze of the ancestors and deities carved into the posts and walls. We’re here in the home o",
-      "date": "Thu, 12 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-maori-language-and-place.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-09-25T13:34:05Z"
     }
   ]
 }
