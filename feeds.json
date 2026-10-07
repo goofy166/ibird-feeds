@@ -1,8 +1,162 @@
 {
-  "updated": "2026-10-06T20:10:48Z",
-  "updated_utc": "2026-10-06T20:10:48Z",
+  "updated": "2026-10-07T00:33:19Z",
+  "updated_utc": "2026-10-07T00:33:19Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Capitola paddleboarder reports being attacked by a possible sea lion",
+      "link": "https://www.mercurynews.com/2026/09/27/capitola-paddleboarder-reports-being-attacked-by-a-possible-sea-lion/",
+      "summary": "“The thing that was the most bizarre was that it grabbed my hair,” the woman told a news station",
+      "date": "2026-09-27T22:24:31Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/03/SJM-L-CHANNELISLANDS-0329-01_14f749.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-10-07T00:33:07Z"
+    },
+    {
+      "title": "The Swedish Sport of Swimrun Is Spreading Across the U.S. I Tried It and Chaos Ensued.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/water-activities/swimrun-usa/",
+      "summary": "Ötillö Swimrun, the Swedish series of endurance races, is now in the USA. Our features editor completed the Colorado race and learned a few lessons about not taking oneself too ser",
+      "date": "Tue, 06 Oct 2026 20Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/swimrun2.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-10-07T00:33:09Z"
+    },
+    {
+      "title": "What Are Medieval English Coins Doing in Rome? They Could Be Rare Evidence of a 'Little England' Enclave That Received Special Papal Privileges",
+      "link": "https://www.smithsonianmag.com/smart-news/what-are-medieval-english-coins-doing-in-rome-they-could-be-rare-evidence-of-a-little-england-enclave-that-received-special-papal-privileges-180989625/",
+      "summary": "Researchers argue that the tenth-century coins provide new evidence of a bustling English community located next to the Vatican that was permitted to use its own currency",
+      "date": "Tue, 06 Oct 2026 20Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/6RqNG2NRKRglc79qalLviG2REFg=/420x240/filters:focal(581x421:582x422)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d6/3a/d63ab0e1-1057-4fce-8f8c-c0ea8bb2ea6e/a_1-fused-groups-of-anglo-saxon-coins-found-in-recent-excavati-95fcea8df7df53c8c8b6485cc9f1e443.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-10-07T00:33:10Z"
+    },
+    {
+      "title": "An extinct crocodilian was found among rocks that built the Great Sphinx",
+      "link": "https://www.sciencenews.org/article/extinct-crocodilian-rocks-great-sphinx",
+      "summary": "Herugavialis is the new name for a fossil found in the same rocks that built the Great Sphinx. The reptile is a unique branch of the gharial family tree.",
+      "date": "Tue, 06 Oct 2026 23Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/091826_JB_ancientcroc_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-10-07T00:33:11Z"
+    },
+    {
+      "title": "Sorghum may help European agriculture face climate change",
+      "link": "https://phys.org/news/2026-10-sorghum-european-agriculture-climate.html",
+      "summary": "Research by INRAE and AgroParisTech suggests that global warming could have an overall positive effect on sorghum yields in Europe. Sorghum is a promising alternative to maize in l",
+      "date": "2026-10-06T23:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2016/sorghum.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-07T00:33:15Z"
+    },
+    {
+      "title": "New crocodile species discovered in rocks used to build the Great Sphinx",
+      "link": "https://phys.org/news/2026-10-crocodile-species-great-sphinx.html",
+      "summary": "A new species of extinct crocodile from Egypt has been discovered, sharing more than just its home with the Great Sphinx. Herugavialis cairensis was found in the very same rocks us",
+      "date": "2026-10-06T23:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-crocodile-species.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-07T00:33:15Z"
+    },
+    {
+      "title": "From coral reef conservation to climate resilience: Turning Indonesia's marine wealth into global impact",
+      "link": "https://phys.org/news/2026-10-coral-reef-climate-resilience-indonesia.html",
+      "summary": "For Dr. Jamaluddin Jompa, the ocean has never been simply a subject of scientific study. He was born in Takalar, a coastal region of South Sulawesi, Indonesia, and his connection w",
+      "date": "2026-10-06T23:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-coral-reef-conser.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-07T00:33:15Z"
+    },
+    {
+      "title": "Hydrothermal vents supply a geochemical precursor of ATP that could have powered early life",
+      "link": "https://phys.org/news/2026-10-hydrothermal-vents-geochemical-precursor-atp.html",
+      "summary": "Where did the energy come from to power the chemical origin of life, and how did phosphate come to be the universal energy currency of cells? Biologists from the Institute of Molec",
+      "date": "2026-10-06T22:00:11Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-geochemical-precurso.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-07T00:33:15Z"
+    },
+    {
+      "title": "Hydra loses its immortality after cold triggers switch to sexual reproduction",
+      "link": "https://phys.org/news/2026-10-hydra-immortality-cold-triggers-sexual.html",
+      "summary": "The freshwater polyp Hydra oligactis is essentially immortal and reproduces asexually by cloning itself. Except when it gets too cold: then the animal switches to sexual reproducti",
+      "date": "2026-10-06T21:00:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-budding-hydra-under.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-07T00:33:15Z"
+    },
+    {
+      "title": "Which eggplant farming practices pay off?",
+      "link": "https://phys.org/news/2026-10-eggplant-farming-pay.html",
+      "summary": "Fabrice Diangoné Bi Tra, a doctoral student in the 100 Ph.D.s for Africa program of the UM6P-EPFL Excellence in Africa initiative, has published a new study in Agriculture.",
+      "date": "2026-10-06T21:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/which-eggplant-farming.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-07T00:33:15Z"
+    },
+    {
+      "title": "Flexible protein gate controls access to mitochondrial folds, simulations suggest",
+      "link": "https://phys.org/news/2026-10-flexible-protein-gate-access-mitochondrial.html",
+      "summary": "Twenty-four hours a day, seven days a week, mitochondria in our cells churn out energy from the food we eat, which keeps our bodies functioning. Much of this work happens along cri",
+      "date": "2026-10-06T20:40:20Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-protein-filter-guard.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-07T00:33:15Z"
+    },
+    {
+      "title": "Shape-shifting sensory cells may help insects process visual information with less delay",
+      "link": "https://phys.org/news/2026-10-shifting-sensory-cells-insects-visual.html",
+      "summary": "Anyone who has ever tried and failed to swat a fly has experienced the speed of a tiny nervous system. Now, a new review brings together evidence that its secret lies partly in mic",
+      "date": "2026-10-06T20:20:12Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shape-shifting-brain-c.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-07T00:33:15Z"
+    },
+    {
+      "title": "Earth is in the firing line of a strange new type of cosmic object, astronomers say",
+      "link": "https://www.livescience.com/space/black-holes/earth-is-in-the-firing-line-of-a-strange-new-type-of-cosmic-object-a-microblazar",
+      "summary": "Astronomers may have discovered the first known microblazar, a long-theorized object firing a powerful beam of particles directly at Earth.",
+      "date": "Tue, 06 Oct 2026 20Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/zETFX8cp6wB8sJhX5HmTS-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-10-07T00:33:17Z"
+    },
+    {
+      "title": "Archaeologists discover a child's skull built into the floor of a 2,500-year-old Scandinavian house",
+      "link": "https://www.livescience.com/archaeology/vikings/archaeologists-discover-a-childs-skull-built-into-the-floor-of-a-2-500-year-old-scandinavian-house",
+      "summary": "A study of nearly 200 individuals buried in domestic contexts in ancient and Viking Age Scandinavia has revealed unusually high levels of violence.",
+      "date": "Tue, 06 Oct 2026 20Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/AaBfdvRuQ7xbKoEWMcYqNk-1920-80.png",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-10-07T00:33:17Z"
+    },
     {
       "title": "40 Types of Rabbit-Resistant Plants You Can Grow (2026)",
       "link": "https://birdwatchinghq.com/rabbit-resistant-plants/",
@@ -5348,160 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-09-28T23:09:37Z"
-    },
-    {
-      "title": "Are High-Intensity Workouts Throwing Off Your Cortisol—and Does It Matter?",
-      "link": "https://www.outsideonline.com/health/training-performance/cortisol-running/",
-      "summary": "We break down whether your tempo runs and sprint intervals are sending your body's cortisol, the stress hormone, into overdrive. The post Are High-Intensity Workouts Throwing Off Y",
-      "date": "2026-09-28T17:53:34Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/cortisol-tired-woman-on-trail-1.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-09-28T23:09:37Z"
-    },
-    {
-      "title": "The 7 Best Joggers for Fall, According to Two Months of Real Testing",
-      "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/best-joggers-for-men/",
-      "summary": "I ran, camped, and slept in these—here's which ones held up when it got cold and wet. The post The 7 Best Joggers for Fall, According to Two Months of Real Testing appeared first o",
-      "date": "2026-09-28T17:00:54Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2025/06/joggers-opener_Outside_Brad-Kaminski_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-09-28T23:09:37Z"
-    },
-    {
-      "title": "Centuries Ago, Royals Dressed Up Their Dolls to Share the Latest Fashions. See How Barbies, Baby Dolls and Other Tiny Trendsetters Have Inspired Designers Ever Since",
-      "link": "https://www.smithsonianmag.com/smart-news/centuries-ago-royals-dressed-up-their-dolls-to-share-latest-fashions-see-how-barbies-baby-dolls-and-other-tiny-trendsetters-have-inspired-designers-ever-since-180989580/",
-      "summary": "A new exhibition at the Museum at FIT in New York City showcases more than 170 objects that trace the often-unexpected relationship between dolls and fashion",
-      "date": "2026-09-28T20:22:29Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/s4IfKyXCxuDdCx9fnGt5l3hwonQ=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9f/05/9f05717c-beda-464e-bdb8-40eb41114db3/doll-dressing1.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-09-28T23:09:39Z"
-    },
-    {
-      "title": "This Massive, Deep-Sea Roly Poly Can Go Years Without Food Thanks to a Huge Stomach and a Stolen Gene, Study Suggests",
-      "link": "https://www.smithsonianmag.com/smart-news/this-massive-deep-sea-roly-poly-can-go-years-without-food-thanks-to-a-huge-stomach-and-a-stolen-gene-study-suggests-180989562/",
-      "summary": "The ancestors of the giant isopod Bathynomus jamesi—a seafloor-dwelling creature that resembles a huge pill bug—acquired the snippet of DNA from bacteria more than 16 million years",
-      "date": "2026-09-28T19:53:41Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/QudtuopIktixl56roqNNsgIAwY8=/420x240/filters:focal(2448x1632:2449x1633)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5c/44/5c444071-f699-425f-bd7f-a3a0d76e4647/w020260608495789892714.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-09-28T23:09:39Z"
-    },
-    {
-      "title": "Archaeologists Unearth the 2,400-Year-Old School Where Aristotle Taught Alexander to Be Great",
-      "link": "https://www.smithsonianmag.com/smart-news/archaeologists-unearth-the-2400-year-old-school-where-aristotle-taught-alexander-to-be-great-180989581/",
-      "summary": "The latest excavation at Aristotle’s gymnasium in ancient Mieza has revealed ornate, mosaic-covered halls where researchers believe Alexander the Great learned his formative lesson",
-      "date": "2026-09-28T19:49:38Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/aEAnFY-0XDGoSGqtlbg1aeCxxic=/420x240/filters:focal(680x427:681x428)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b0/b2/b0b276d8-542c-4966-860c-f52c810907af/alexander_the_great_school_in_mieza.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-09-28T23:09:39Z"
-    },
-    {
-      "title": "Assembly pathway reveals how bacteria build protein coils that extend in acid",
-      "link": "https://phys.org/news/2026-09-pathway-reveals-bacteria-protein-acid.html",
-      "summary": "The assembly pathway behind refractile-body proteins may have finally been resolved, researchers from Science Tokyo report. Using genetic engineering and several techniques for ana",
-      "date": "2026-09-28T22:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uncovering-the-assembl-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-28T23:09:43Z"
-    },
-    {
-      "title": "Avian odysseys: Tracking raptor migrations from Europe to Africa",
-      "link": "https://phys.org/news/2026-09-avian-odysseys-tracking-raptor-migrations.html",
-      "summary": "At the southwest tip of Sweden, the Falsterbo Peninsula stretches into the Baltic Sea, creating a natural bottleneck for hundreds of millions of birds traveling south for the winte",
-      "date": "2026-09-28T22:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/avian-odysseys-trackin.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-28T23:09:43Z"
-    },
-    {
-      "title": "Mapping the 'social network' of proteins in the cell to understand how genes shape living things",
-      "link": "https://phys.org/news/2026-09-social-network-proteins-cell-genes.html",
-      "summary": "One of biology's fundamental questions is how our genes shape who we are. Adrian Serohijos and Stephen Michnick, professors in the Department of Biochemistry and Molecular Medicine",
-      "date": "2026-09-28T21:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mapping-the-social-net-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-28T23:09:43Z"
-    },
-    {
-      "title": "Changing climate may influence risks from deadly rodent-borne diseases",
-      "link": "https://phys.org/news/2026-09-climate-deadly-rodent-borne-diseases.html",
-      "summary": "Changes in rainfall can trigger increases in rodent populations and subsequent spikes in infection, new research has found, revealing how a changing climate could have consequences",
-      "date": "2026-09-28T21:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/changing-climate-may-i.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-28T23:09:43Z"
-    },
-    {
-      "title": "Hibernating bacteria can invade hospitals and survive outer space—but their energy budget reveals a weakness",
-      "link": "https://phys.org/news/2026-09-hibernating-bacteria-invade-hospitals-survive.html",
-      "summary": "A spore is a bacterium's survival capsule: dried almost solid and wrapped in protein armor, with its chemical processes shut down. Bacteria enter this state of hibernation when env",
-      "date": "2026-09-28T21:10:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/microscopy-image-of-th.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-28T23:09:43Z"
-    },
-    {
-      "title": "Invasive marine species set to take advantage of rising seas",
-      "link": "https://phys.org/news/2026-09-invasive-marine-species-advantage-seas.html",
-      "summary": "More than two-thirds of newly flooded coastlines worldwide could become suitable habitat for 122 non-native marine species—including Chinese mitten crabs, Pacific oysters and Asian",
-      "date": "2026-09-28T20:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-invasive-marine-sp.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-28T23:09:43Z"
-    },
-    {
-      "title": "To find a host cricket, this parasitic fly listens to more than the beat",
-      "link": "https://phys.org/news/2026-09-host-cricket-parasitic-fly.html",
-      "summary": "A pregnant female Ormia ochracea fly has a challenging problem to solve. She must listen for the song of a male cricket, locate him in the dark and use him as a host for her develo",
-      "date": "2026-09-28T20:20:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cricket-bug.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-28T23:09:43Z"
-    },
-    {
-      "title": "Coast redwoods slow their 'breathing' and 'eating' when temperatures spike",
-      "link": "https://phys.org/news/2026-09-coast-redwoods-temperatures-spike.html",
-      "summary": "California's iconic coast redwoods are used to growing in cool, coastal areas where the average temperature is around 59 degrees F (15 degrees Celsius). But as average yearly tempe",
-      "date": "2026-09-28T20:00:14Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/coast-redwoods-slow-th.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-28T23:09:43Z"
-    },
-    {
-      "title": "New tool tracks a hidden protein involved in viral infection and cell cleanup",
-      "link": "https://phys.org/news/2026-09-tool-tracks-hidden-protein-involved.html",
-      "summary": "Viruses such as influenza A and dengue can hijack a cellular system that helps manage protein aggregates. Previous work by FMI emeritus group leader Patrick Matthias and his team s",
-      "date": "2026-09-28T19:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-tool-tracks-a-hidd.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-28T23:09:43Z"
     }
   ]
 }
