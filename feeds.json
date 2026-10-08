@@ -1,8 +1,107 @@
 {
-  "updated": "2026-10-07T21:10:58Z",
-  "updated_utc": "2026-10-07T21:10:58Z",
+  "updated": "2026-10-08T01:44:25Z",
+  "updated_utc": "2026-10-08T01:44:25Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Which Birds Make the Longest Migration Journeys?",
+      "link": "https://www.birdsandblooms.com/birding/birding-basics/bird-longest-migration/",
+      "summary": "Learn about the long-distance routes that migratory bird species cover each year. Some birds travel tens of thousands of miles! The post Which Birds Make the Longest Migration Jour",
+      "date": "Tue, 29 Sep 2026 18Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/09/GettyImages-1960929503-e1790704564547.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-10-08T01:43:56Z"
+    },
+    {
+      "title": "World must change way it produces food to avoid biodiversity collapse, says WWF",
+      "link": "https://www.theguardian.com/environment/2026/oct/08/world-must-change-food-avoid-biodiversity-collapse-wwf",
+      "summary": "Recovery of tigers, tuna and green sea turtles show nature loss can be reversed when action taken, charity says Conservation comebacks for wild tigers, tuna and green​ sea turtles ",
+      "date": "2026-10-07T23:01:03Z",
+      "image": "https://i.guim.co.uk/img/media/87620fbfe5b49ee45f780665e6f0a61454c1be15/123_50_5877_4699/master/5877.jpg?width=140&quality=85&auto=format&fit=max&s=a2cd10b88fb8006244091e47cf8f3828",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-08T01:44:03Z"
+    },
+    {
+      "title": "A Lab Worker Died of the Plague in Siberia. The Pathogen Is Still Lurking in the American West—Here’s What to Know Before You Hit the Trail.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/plague-hiking-safety/",
+      "summary": "News of a plague death in Siberia has made global headlines, but Yersinia pestis regularly circulates in the U.S. backcountry. Learn how to stay safe on the trail. The post A Lab W",
+      "date": "2026-10-07T22:13:38Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/GettyImages-1792762989.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-10-08T01:44:10Z"
+    },
+    {
+      "title": "Rising seas threaten the world's migratory shorebirds",
+      "link": "https://phys.org/news/2026-10-seas-threaten-world-migratory-shorebirds.html",
+      "summary": "Birds undertake some of the world's most impressive migrations, traveling hundreds to thousands of kilometers every year in search of safe breeding grounds and seasonally abundant ",
+      "date": "2026-10-08T01:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oystercatchers.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-08T01:44:21Z"
+    },
+    {
+      "title": "How a harmful bacterium senses iron—and why it matters for fighting infections",
+      "link": "https://phys.org/news/2026-10-bacterium-iron-infections.html",
+      "summary": "Pseudomonas aeruginosa is a common culprit in hospital-acquired bacterial infections and is growing more resistant to antibiotics. New findings from Aaron Smith, professor of chemi",
+      "date": "2026-10-07T23:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-a-harmful-bacteriu.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-08T01:44:21Z"
+    },
+    {
+      "title": "Superbug P. aeruginosa uses two protein plugs to seal channels against antibiotics",
+      "link": "https://phys.org/news/2026-10-superbug-p-aeruginosa-protein-channels.html",
+      "summary": "A joint research team has identified a new mechanism underlying antibiotic resistance in Pseudomonas aeruginosa, a major multidrug-resistant \"superbug.\" The discovery provides impo",
+      "date": "2026-10-07T23:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/superbug-p-aeruginosa.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-08T01:44:21Z"
+    },
+    {
+      "title": "Chain reaction that begins when tumor suppression gene is switched off offers clues to how cancer develops",
+      "link": "https://phys.org/news/2026-10-chain-reaction-tumor-suppression-gene.html",
+      "summary": "A tumor suppressor gene known as p53 is mutated in more than half of all cancers, but how it acts to prevent cancer formation is largely unknown. A study by UT Southwestern Medical",
+      "date": "2026-10-07T22:40:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chain-reaction-that-be.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-08T01:44:21Z"
+    },
+    {
+      "title": "Eight-year analysis reveals how sunlight and nutrients shape sustainable urban farming",
+      "link": "https://phys.org/news/2026-10-year-analysis-reveals-sunlight-nutrients.html",
+      "summary": "Factors such as sunlight and stage-specific nutrient application determine crop success in urban agriculture, far beyond fixed recipes or miracle solutions. The findings are publis",
+      "date": "2026-10-07T21:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sunlight-and-precise-n.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-08T01:44:21Z"
+    },
+    {
+      "title": "New approach to plant stress studies could yield hardier crops and medical insights",
+      "link": "https://phys.org/news/2026-10-approach-stress-yield-hardier-crops.html",
+      "summary": "At the University of Missouri, plant scientist Ron Mittler is rewriting the playbook for how scientists study life by asking what happens when living organisms face multiple stress",
+      "date": "2026-10-07T21:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/at-mizzou-a-scientist.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-08T01:44:21Z"
+    },
     {
       "title": "Why is the Male Red Cardinal is so Bright – you may be surprised",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/why-is-the-male-red-cardinal-is-so-bright-you-may-be-surprised/",
@@ -5403,105 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-09-29T22:54:34Z"
-    },
-    {
-      "title": "‘Cute but unbearable’ freeloading bear discovered in another LA crawlspace",
-      "link": "https://www.theguardian.com/us-news/2026/sep/29/los-angeles-bear-crawlspace",
-      "summary": "‘Yellow 2120’ has been driven out of other Altadena neighborhood crawlspaces but he just keeps coming back He’s back: the 550lb bear made famous after he took up residence under an",
-      "date": "2026-09-29T20:07:04Z",
-      "image": "https://i.guim.co.uk/img/media/793cd8198020fc7d136d6560c1077c03d3ca2edd/412_0_4115_3292/master/4115.jpg?width=140&quality=85&auto=format&fit=max&s=a79bd0f66f9357be1e448f4d3e2825f8",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-09-29T22:54:38Z"
-    },
-    {
-      "title": "Free state parks admission, new hurdles for offshore oil drilling among environmental bills Newsom signs",
-      "link": "https://www.mercurynews.com/2026/09/29/free-state-parks-admission-new-hurdles-for-offshore-oil-drilling-among-environmental-bills-newsom-signs/",
-      "summary": "With barely three months left in office Newsom contrasts his environmental record with Trump",
-      "date": "Tue, 29 Sep 2026 22Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/SJM-L-Newsom-environment-bills-SF-9-29-26-01.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-09-29T22:54:42Z"
-    },
-    {
-      "title": "A raccoon boot camp in Mississippi teaches abandoned kits survival skills",
-      "link": "https://www.mercurynews.com/2026/09/21/raccoon-boot-camp-mississippi/",
-      "summary": "Rescuers take raccoons to a pond to learn to swim and provide live prey for hunting practice.",
-      "date": "2026-09-21T17:02:00Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/Raccoon_Boot_Camp_48611-1.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-09-29T22:54:42Z"
-    },
-    {
-      "title": "There’s Been Another Deadly Climbing Disaster in the Himalayas",
-      "link": "https://www.outsideonline.com/outdoor-adventure/climbing/himlung-himal-avalanche/",
-      "summary": "Four people are dead and 12 others are missing after an avalanche buried the Base Camp at Himlung Himal, a peak in northern Nepal The post There’s Been Another Deadly Climbing Disa",
-      "date": "Tue, 29 Sep 2026 21Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/Himalays1.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-09-29T22:54:44Z"
-    },
-    {
-      "title": "Meet Brandon McNulty, the First U.S. Elite Man Since Lance Armstrong to Win the World Title",
-      "link": "https://www.outsideonline.com/outdoor-adventure/biking/brandon-mcnulty-cycling/",
-      "summary": "Our features editor, a longtime cycling journalist, discusses the historical significance of McNulty’s nail-biting victory at the UCI road world championships in Montreal The post ",
-      "date": "Tue, 29 Sep 2026 19Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/Brandon1.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-09-29T22:54:44Z"
-    },
-    {
-      "title": "4 Hikers Died in Washington. Here’s What Rescue Experts Want You to Know.",
-      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/washington-hiker-death-fall-safety/",
-      "summary": "The post 4 Hikers Died in Washington. Here’s What Rescue Experts Want You to Know. appeared first on Outside Online .",
-      "date": "Tue, 29 Sep 2026 19Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/GettyImages-2242572733.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-09-29T22:54:44Z"
-    },
-    {
-      "title": "MRI Scans Might Reveal Signs of Alzheimer's Disease Seven Years Before a Telltale Marker Appears in the Brain",
-      "link": "https://www.smithsonianmag.com/smart-news/mri-scans-might-reveal-signs-of-alzheimers-disease-seven-years-before-a-telltale-marker-appears-in-the-brain-180989570/",
-      "summary": "Not all researchers are convinced that the brain changes detected via MRI are robust enough to become a diagnostic tool. But the findings could help researchers better understand t",
-      "date": "Tue, 29 Sep 2026 20Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/zpbuzpzdXyOil8zFATo7JIRWpAk=/420x240/filters:focal(3680x2488:3681x2489)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/16/16/1616de65-269e-40a2-b249-780f47517d1d/mri-scan.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-09-29T22:54:46Z"
-    },
-    {
-      "title": "In One of Rome’s Most Famed and Neglected Villas, Centuries-Old Risqué Frescoes, Painted Over by Nuns, Have Reappeared",
-      "link": "https://www.smithsonianmag.com/smart-news/in-one-of-romes-most-famed-and-neglected-villas-centuries-old-risque-frescoes-painted-over-by-nuns-have-reappeared-180989585/",
-      "summary": "Nearly a year into a $40 million restoration of the Villa Silvestri Rivaldi, conservators are rediscovering and reviving 16th-century art",
-      "date": "Tue, 29 Sep 2026 20Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/s_9vplfAP1gXxmh2SFp1UXDIFHw=/420x240/filters:focal(600x400:601x401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9d/f7/9df77a95-aaf8-42d2-9516-c5a9713762d9/9-dicembre-villa-silvestri-rivaldi-rocca-giuli-baldassarre-15.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-09-29T22:54:46Z"
-    },
-    {
-      "title": "Japan's Smallest and Least-Populated Major Island Is a World of Pilgrimages, Delicious Food and Plenty of Forest Bathing",
-      "link": "https://www.smithsonianmag.com/travel/japans-smallest-and-least-populated-major-island-is-a-world-of-pilgrimages-delicious-food-and-plenty-of-forest-bathing-180989590/",
-      "summary": "Each year, more than 100,000 people hike at least part of a 750-mile route on Shikoku that connects 88 Buddhist temples and other sacred sites",
-      "date": "Tue, 29 Sep 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/0wFvfq95bihK-CRIY2X6BI7MO3s=/420x240/filters:focal(512x346:513x347)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/61/62/6162a246-81b4-4202-b577-1b1e83b37132/gettyimages-1300063538.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-09-29T22:54:46Z"
     }
   ]
 }
