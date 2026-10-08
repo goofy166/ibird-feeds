@@ -1,8 +1,74 @@
 {
-  "updated": "2026-10-08T01:44:25Z",
-  "updated_utc": "2026-10-08T01:44:25Z",
+  "updated": "2026-10-08T08:45:38Z",
+  "updated_utc": "2026-10-08T08:45:38Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Next UK banknotes to feature barn owls, bumblebees, puffins and hedgehogs",
+      "link": "https://www.theguardian.com/business/2026/oct/08/uk-banknotes-new-design-barn-owl-bumblebee-puffin-hedgehog",
+      "summary": "Four native species selected after consultation, but which one adorns which note is yet to be decided Bees, barn owls, puffins and hedgehogs have been picked to feature on the next",
+      "date": "2026-10-08T04:00:11Z",
+      "image": "https://i.guim.co.uk/img/media/1975ca3bc874ed3182fad31527d9a002428b8d52/0_0_2890_2312/master/2890.jpg?width=140&quality=85&auto=format&fit=max&s=28a475460ea3881a6db0f926de41b8ac",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-08T08:45:23Z"
+    },
+    {
+      "title": "Free state parks admission, new hurdles for offshore oil drilling among environmental bills Newsom signs",
+      "link": "https://www.mercurynews.com/2026/09/29/free-state-parks-admission-new-hurdles-for-offshore-oil-drilling-among-environmental-bills-newsom-signs/",
+      "summary": "With barely three months left in office Newsom contrasts his environmental record with Trump",
+      "date": "Tue, 29 Sep 2026 22Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/SJM-L-Newsom-environment-bills-SF-9-29-26-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-10-08T08:45:27Z"
+    },
+    {
+      "title": "The most interesting mathematical discoveries in OpenAI’s 722 new papers",
+      "link": "https://www.newscientist.com/article/2592703-the-most-interesting-mathematical-discoveries-in-openais-722-new-papers/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "OpenAI has released hundreds of papers claiming to make progress on the biggest open problems in mathematics – here are some with the most potential",
+      "date": "Thu, 08 Oct 2026 08Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315747551.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-10-08T08:45:32Z"
+    },
+    {
+      "title": "As species decline, green turtles offer a glimmer of hope",
+      "link": "https://phys.org/news/2026-10-species-decline-green-turtles-glimmer.html",
+      "summary": "The palm-sized green turtle hatchling flailing through the sand on a Malaysian island may seem vulnerable, but its species has emerged as a symbol of hope for wildlife conservation",
+      "date": "2026-10-08T08:37:58Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/green-turtles-have-mad.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-08T08:45:35Z"
+    },
+    {
+      "title": "New collar sensor could reveal how wildfire smoke affects animal health",
+      "link": "https://phys.org/news/2026-10-collar-sensor-reveal-wildfire-affects.html",
+      "summary": "When wildfire smoke fills the air, most people can go inside to avoid it. Wildlife does not have that option, and little is known about how animals living in remote areas respond t",
+      "date": "2026-10-08T04:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-device-will-help.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-08T08:45:35Z"
+    },
+    {
+      "title": "Listening to hidden insects could give farmers an early warning of crop pests",
+      "link": "https://phys.org/news/2026-10-hidden-insects-farmers-early-crop.html",
+      "summary": "Crawling through muddy soybean fields to inspect several plant-mounted microphones was not on Emily Sur's graduate school bingo card, but she's not mad about it. Her research offer",
+      "date": "2026-10-08T02:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/listening-to-hidden-in.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-08T08:45:35Z"
+    },
     {
       "title": "Which Birds Make the Longest Migration Journeys?",
       "link": "https://www.birdsandblooms.com/birding/birding-basics/bird-longest-migration/",
@@ -5436,72 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-09-30T08:21:08Z"
-    },
-    {
-      "title": "Never Use Lysol to Disinfect a Bird Feeder—Here’s Why",
-      "link": "https://www.birdsandblooms.com/birding/attracting-birds/feeding-birds/bird-feeder-disinfectant/",
-      "summary": "Should you use disinfectant sprays on bird feeders and bird houses? Find out if these products are safe for your backyard birds. The post Never Use Lysol to Disinfect a Bird Feeder",
-      "date": "2026-09-11T14:25:45Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/09/BNBugc_nancy-tully.jpg?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-09-30T01:57:23Z"
-    },
-    {
-      "title": "Unlocking AI as a research tool for plant microscopy",
-      "link": "https://phys.org/news/2026-09-ai-tool-microscopy.html",
-      "summary": "Software created by University of Queensland scientists could help AI platforms overcome a blind spot limiting their value in plant research. UQ Ph.D. student Tianqi Wei said even ",
-      "date": "2026-09-30T01:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unlocking-ai-as-a-rese.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-30T01:57:38Z"
-    },
-    {
-      "title": "Small fields, great diversity: How a diverse patchwork of crops helps birds",
-      "link": "https://phys.org/news/2026-09-small-fields-great-diversity-diverse.html",
-      "summary": "Birds are not only beautiful to look at and listen to; they also play important roles in nature. They eat pests and disperse seeds. They are generally considered indicators of a he",
-      "date": "2026-09-30T00:20:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/small-fields-great-div.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-30T01:57:38Z"
-    },
-    {
-      "title": "Engineered coating lets mitochondria retain their ability to produce energy",
-      "link": "https://phys.org/news/2026-09-coating-mitochondria-retain-ability-energy.html",
-      "summary": "Researchers have coated mitochondria with innovative materials without compromising their function, according to a study by IRCCS Fondazione Istituto Neurologico Carlo Besta (FINCB",
-      "date": "2026-09-29T23:40:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/coating-mitochondria-w.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-30T01:57:38Z"
-    },
-    {
-      "title": "Nine generations of virtual dating reveal how fish shape their ideal mates",
-      "link": "https://phys.org/news/2026-09-generations-virtual-dating-reveal-fish.html",
-      "summary": "Fish have \"designed\" their perfect partners in a new experiment—revealing simple male preferences and more complex female tastes.",
-      "date": "2026-09-29T23:10:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nine-generations-of-vi.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-09-30T01:57:38Z"
-    },
-    {
-      "title": "How Long Do Cardinal Birds Live?",
-      "link": "https://www.birdsandblooms.com/birding/birding-basics/how-long-do-cardinals-live/",
-      "summary": "Cardinals are beloved backyard bird. Discover facts about a typical cardinal's lifespan, the oldest recorded cardinal in the wild, and more! The post How Long Do Cardinal Birds Liv",
-      "date": "Tue, 29 Sep 2026 19Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/09/09_Michael-Rossacci_BBdj26.jpg?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-09-29T22:54:34Z"
     }
   ]
 }
