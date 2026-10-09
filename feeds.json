@@ -1,8 +1,74 @@
 {
-  "updated": "2026-10-09T02:00:07Z",
-  "updated_utc": "2026-10-09T02:00:07Z",
+  "updated": "2026-10-09T08:55:01Z",
+  "updated_utc": "2026-10-09T08:55:01Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Squirrels, curlews, redbacks?! True stories of creatures in our homes | First Dog on the Moon",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/oct/09/squirrels-in-the-roof-curlews-in-the-front-yard-true-stories-of-creatures-in-our-homes",
+      "summary": "Guardian readers reveal their own tales of cross species cohabitation Sign up here to get an email whenever First Dog cartoons are published Get all your needs met at the First Dog",
+      "date": "2026-10-09T05:43:09Z",
+      "image": "https://i.guim.co.uk/img/media/6a74b2ee5f78e0274648a792804afaf911a96ce7/0_0_1157_925/master/1157.jpg?width=140&quality=85&auto=format&fit=max&s=b293347f46d61240be13a78a992d3061",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-09T08:54:45Z"
+    },
+    {
+      "title": "Country diary: A passing osprey needs to eat – but the local terns won’t let it | Claire Stares",
+      "link": "https://www.theguardian.com/environment/2026/oct/09/country-diary-a-passing-osprey-needs-to-eat-but-the-local-terns-wont-let-it",
+      "summary": "Chichester harbour, Hampshire: I witness a battle of wills as this magnificent raptor attempts to fuel up on sea bass, before it heads south on migration The autumnal sunlight gild",
+      "date": "2026-10-09T04:30:38Z",
+      "image": "https://i.guim.co.uk/img/media/5fd6f206892e4b73f271c2c993a8308d4bb3215a/955_69_4229_3383/master/4229.jpg?width=140&quality=85&auto=format&fit=max&s=f290e098e75843e77a93a888d72273e7",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-09T08:54:45Z"
+    },
+    {
+      "title": "How a plant selfie in Colombian jungle led to ‘jaw dropping’ giant waterlily find",
+      "link": "https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia",
+      "summary": "Species with leaves large enough to be seen from space is already critically endangered – and plans are afoot to protect it A chance social media encounter has led to the race-agai",
+      "date": "2026-10-09T04:00:37Z",
+      "image": "https://i.guim.co.uk/img/media/f8c9a11113e4f3f6ee203a4dd048461c9e3fc7d2/309_0_3405_2725/master/3405.jpg?width=140&quality=85&auto=format&fit=max&s=43563ec8b7e48d39617788d4b5e1f898",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-09T08:54:45Z"
+    },
+    {
+      "title": "Dog dies during bear attack on Northern California couple",
+      "link": "https://www.mercurynews.com/2026/09/30/pooch-gives-life-trying-to-save-california-couple-during-bear-attack-3/",
+      "summary": "A French bulldog died during a bear attack on its owners in Northern California this month.",
+      "date": "2026-09-30T15:08:55Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/202609300530MCT_____PHOTO____SPORTS-OTD-CALIF-DOG-BEAR-ATTACK-FILEPIC-DMT_a54d2d.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-10-09T08:54:50Z"
+    },
+    {
+      "title": "Tropical orcas make rare showing off California coast",
+      "link": "https://www.mercurynews.com/2026/09/30/tropical-orcas-make-rare-showing-off-o-c-s-coast/",
+      "summary": "The Eastern Tropical Pacific orcas were spotted about 5 miles off Dana Point, heading north by the afternoon to near Newport Beach.",
+      "date": "2026-09-30T13:54:16Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/16x9_OCR-L-ORCAS-0929-JG-01.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-10-09T08:54:50Z"
+    },
+    {
+      "title": "Mountain lion spotted in area of popular East Bay park",
+      "link": "https://www.mercurynews.com/2026/09/29/martinez-mountain-lion-spotted-area-hidden-lakes-park/",
+      "summary": "Officials said that mountain lions \"typically avoid people.\" No encounters were reported.",
+      "date": "Tue, 29 Sep 2026 21Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2024/09/RDF-L-MOUNTAINCUBS-0721-08TP.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-10-09T08:54:50Z"
+    },
     {
       "title": "Hawks in Georgia",
       "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/hawks-in-georgia/",
@@ -5436,72 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-10-01T00:27:47Z"
-    },
-    {
-      "title": "Fossil long known as world's oldest reptile dethroned",
-      "link": "https://phys.org/news/2026-09-fossil-world-oldest-reptile-dethroned.html",
-      "summary": "For nearly 30 years, a small fossil from Scotland has been celebrated as one of the earliest known reptiles. A new study out today in Nature and led by researchers at the American ",
-      "date": "2026-09-30T21:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fossil-long-known-as-w.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-01T00:27:47Z"
-    },
-    {
-      "title": "'Molecular movie' fills in blanks of how nonenveloped viruses infect cells",
-      "link": "https://phys.org/news/2026-09-molecular-movie-blanks-nonenveloped-viruses.html",
-      "summary": "Viruses come in two major flavors—not chocolate and vanilla, quips Harvard Medical School structural biologist Stephen Harrison, but those enveloped in membranes, such as herpesvir",
-      "date": "2026-09-30T20:50:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-movie-fills.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-01T00:27:47Z"
-    },
-    {
-      "title": "CHIME telescope unlocks new way to study the universe's bafflign expansion",
-      "link": "https://www.livescience.com/space/astronomy/ancient-hydrogen-spotted-in-the-early-universe-could-open-a-new-way-to-study-spaces-baffling-expansion",
-      "summary": "After seven years of work, Canada's CHIME telescope has a measurement of dark energy from 2019. More detailed studies are planned to expand the research.",
-      "date": "2026-09-30T21:28:51Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Heh62sQ3M8LiPmqq2EXfzm-1920-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-10-01T00:27:48Z"
-    },
-    {
-      "title": "Hummingbirds are flocking south in their thousands as migration begins",
-      "link": "https://www.birdwatchingdaily.com/news/birdwatching/hummingbirds-are-flocking-south-in-their-thousands-as-migration-begins/",
-      "summary": "Here’s where thousands of Hummingbirds are migrating to – and where you can catch it. Fall migration is now underway across the U.S., and some … Read More \"Hummingbirds are flockin",
-      "date": "2026-09-12T14:05:24Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/03/Ruby-throated-Hummingbird-68.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-09-30T20:43:13Z"
-    },
-    {
-      "title": "6 Bulb Planting Mistakes You Should Never Make",
-      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/bulb-planting-mistakes/",
-      "summary": "Fall is the time to get spring-flowering bulbs in the ground, but a few common bulb planting mistakes can mean fewer blooms come spring. The post 6 Bulb Planting Mistakes You Shoul",
-      "date": "2026-09-30T17:57:16Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/09/310083549_1_Elsie_Jones_BNB_PC_2022-e1790788847413.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-09-30T20:43:17Z"
-    },
-    {
-      "title": "Top 10 Aster Flower Varieties for Your Fall Garden",
-      "link": "https://www.birdsandblooms.com/gardening/top-10-lists-for-gardeners/fall-aster-flower-varieties/",
-      "summary": "Add color to your late-season garden with different types of fall aster flowers. There's many gorgeous aster varieties to choose from. The post Top 10 Aster Flower Varieties for Yo",
-      "date": "2026-09-30T16:22:21Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/09/BNBbyc19_maria-brueggemann-2.jpeg?fit=700,1024",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-09-30T20:43:17Z"
     }
   ]
 }
