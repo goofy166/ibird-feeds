@@ -1,8 +1,151 @@
 {
-  "updated": "2026-10-08T21:57:46Z",
-  "updated_utc": "2026-10-08T21:57:46Z",
+  "updated": "2026-10-09T02:00:07Z",
+  "updated_utc": "2026-10-09T02:00:07Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Hawks in Georgia",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/hawks-in-georgia/",
+      "summary": "Is a goshawk the same as a hawk? What is a Buteo? How many hawks are there in Georgia? Well, in this article we try … Read More \"Hawks in Georgia\"",
+      "date": "2026-05-10T23:40:55Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/07/red-tailed-hawk-by-Susan-Kirby.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-10-09T01:59:43Z"
+    },
+    {
+      "title": "Brown Birds with an Orange Chest",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/brown-birds-with-an-orange-chest/",
+      "summary": "Today, my goal is to find 10 species of birds that are brown with an orange chest. I can only think of a couple offhand … Read More \"Brown Birds with an Orange Chest\"",
+      "date": "2026-05-10T23:37:10Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/05/American-Robin-vs-European-Robin.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-10-09T01:59:43Z"
+    },
+    {
+      "title": "Woodpeckers in Maryland: Top 8 Species with Pictures",
+      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/woodpeckers-in-maryland-top-8-species-with-pictures/",
+      "summary": "There are many species of woodpeckers in the United States. They’re known for their colorful plumage and playful attitude. As the fifth greenest state, Maryland has the … Read More",
+      "date": "2026-05-10T23:34:23Z",
+      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/05/Hairy-Woodpecker-by-Cephas.jpg",
+      "name": "BWatching Daily",
+      "category": "birds",
+      "color": 0,
+      "fetched_at": "2026-10-09T01:59:43Z"
+    },
+    {
+      "title": "Number of known species of giant waterlilies almost doubles",
+      "link": "https://www.newscientist.com/article/2592896-the-number-of-known-species-of-giant-waterlilies-just-doubled/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "A new species of giant waterlily identified with the help of social media and satellite photos is just one of three discovered in the past few years",
+      "date": "Thu, 08 Oct 2026 23Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315677397.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-10-09T02:00:01Z"
+    },
+    {
+      "title": "Study documents beef industry group's early efforts to counter climate concerns",
+      "link": "https://phys.org/news/2026-10-documents-beef-industry-group-early.html",
+      "summary": "A leading U.S. beef industry trade association knew by 1989 that cattle contributed to global warming but focused its response on protecting consumer demand through public relation",
+      "date": "2026-10-09T00:40:11Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cows-in-a-field.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-09T02:00:03Z"
+    },
+    {
+      "title": "Only 9% of major companies use biodiversity indicators, study finds",
+      "link": "https://phys.org/news/2026-10-major-companies-biodiversity-indicators.html",
+      "summary": "Biodiversity indicators can help companies make more sustainable decisions. But only 9% of the world's largest companies in sectors with a major impact on biodiversity use such ind",
+      "date": "2026-10-08T23:40:14Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/only-9-of-major-compan.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-09T02:00:03Z"
+    },
+    {
+      "title": "The genetic switch behind the butterfly's enhanced visual world of color",
+      "link": "https://phys.org/news/2026-10-genetic-butterfly-visual-world.html",
+      "summary": "Many insects see the world through hundreds of tiny lenses that are grouped together in a visual organ known as the compound eye. Behind each lens sits a cluster of eight light-det",
+      "date": "2026-10-08T23:40:09Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/butterfly-metamorphosi.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-10-09T02:00:03Z"
+    },
+    {
+      "title": "Cows deliver healthy calves without embryonic protein long thought essential for pregnancy",
+      "link": "https://phys.org/news/2026-10-cows-healthy-calves-embryonic-protein.html",
+      "summary": "For decades, scientists have believed that a protein called interferon tau (IFNT) is indispensable for pregnancy in cattle. Produced by the early embryo, it was thought to signal i",
+      "date": "2026-10-08T23:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-calves-at-the-lmu.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-09T02:00:03Z"
+    },
+    {
+      "title": "Chance Instagram sighting leads to discovery of rare giant water lily in Colombia",
+      "link": "https://phys.org/news/2026-10-chance-instagram-sighting-discovery-rare.html",
+      "summary": "A new paper published in the journal Phytotaxa describes a new species in the genus Victoria, the Colombian giant water lily (Victoria colombiana). With only three other known spec",
+      "date": "2026-10-08T23:10:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-giant-waterlily-sp.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-09T02:00:03Z"
+    },
+    {
+      "title": "Bees struggle to smell flowers when air pollutants combine",
+      "link": "https://phys.org/news/2026-10-bees-struggle-air-pollutants-combine.html",
+      "summary": "Bees, moths and other pollinating insects have a harder time smelling flowers in polluted air, according to research led by the University of Reading. Scientists analyzed 22 experi",
+      "date": "2026-10-08T23:10:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/bee.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-10-09T02:00:03Z"
+    },
+    {
+      "title": "Fossil bite marks suggest first evidence of a small raptor feeding on an apex predator",
+      "link": "https://phys.org/news/2026-10-fossil-evidence-small-raptor-apex.html",
+      "summary": "A prehistoric cold case near Drumheller reveals either a small-time raptor scavenged on an apex predator, or a baby Albertosaurus engaged in a shocking act of cannibalism. These tw",
+      "date": "2026-10-08T22:20:11Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fossil-offers-first-ev.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-09T02:00:03Z"
+    },
+    {
+      "title": "New 'computational microscope' simulates DNA packaging at more than ten times previous scale",
+      "link": "https://phys.org/news/2026-10-microscope-simulates-dna-packaging-ten.html",
+      "summary": "The DNA in our cells wraps around proteins called histones to form nucleosomes, which organize into chromatin. This organization helps pack genetic material into the nucleus and in",
+      "date": "2026-10-08T22:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-computational-mi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-09T02:00:03Z"
+    },
+    {
+      "title": "Big dogs age faster at an epigenetic level, new study finds",
+      "link": "https://www.livescience.com/animals/dogs/big-dogs-age-faster-at-an-epigenetic-level-new-study-finds",
+      "summary": "A new study that tracked dogs' aging by reading tiny chemical tags on their DNA found that larger dogs aged more quickly.",
+      "date": "Thu, 08 Oct 2026 21Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/JYmLK6wdsekPkBWpQAEx9T-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-10-09T02:00:04Z"
+    },
     {
       "title": "Why are Prothonotary Warblers Choosing Kansas as Their new Home",
       "link": "https://www.birdwatchingdaily.com/news/birdwatching/why-are-prothonotary-warblers-choosing-kansas-as-their-new-home/",
@@ -5359,149 +5502,6 @@
       "category": "birds",
       "color": 2,
       "fetched_at": "2026-09-30T20:43:17Z"
-    },
-    {
-      "title": "Backpack edges past Dancing Queen to win Alaska’s Fat Bear Week title",
-      "link": "https://www.theguardian.com/us-news/2026/sep/30/backpack-wins-fat-bear-week",
-      "summary": "Bear known for sitting in solitude won tournament celebrating the animals’ ability to eat large amounts of fish A chunky ursine called Backpack has out-gobbled a challenge from an ",
-      "date": "2026-09-30T13:40:14Z",
-      "image": "https://i.guim.co.uk/img/media/970bdf75556c8a9bd2fe41f418939d63d0afcd48/466_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=5f0d73027f4fce7e57dbcea94347a00c",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-09-30T20:43:21Z"
-    },
-    {
-      "title": "Dog dies during bear attack on Northern California couple",
-      "link": "https://www.mercurynews.com/2026/09/30/pooch-gives-life-trying-to-save-california-couple-during-bear-attack-3/",
-      "summary": "A French bulldog died during a bear attack on its owners in Northern California this month.",
-      "date": "2026-09-30T15:08:55Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/202609300530MCT_____PHOTO____SPORTS-OTD-CALIF-DOG-BEAR-ATTACK-FILEPIC-DMT_a54d2d.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-09-30T20:43:25Z"
-    },
-    {
-      "title": "Tropical orcas make rare showing off California coast",
-      "link": "https://www.mercurynews.com/2026/09/30/tropical-orcas-make-rare-showing-off-o-c-s-coast/",
-      "summary": "The Eastern Tropical Pacific orcas were spotted about 5 miles off Dana Point, heading north by the afternoon to near Newport Beach.",
-      "date": "2026-09-30T13:54:16Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/16x9_OCR-L-ORCAS-0929-JG-01.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-09-30T20:43:25Z"
-    },
-    {
-      "title": "Mountain lion spotted in area of popular East Bay park",
-      "link": "https://www.mercurynews.com/2026/09/29/martinez-mountain-lion-spotted-area-hidden-lakes-park/",
-      "summary": "Officials said that mountain lions \"typically avoid people.\" No encounters were reported.",
-      "date": "Tue, 29 Sep 2026 21Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2024/09/RDF-L-MOUNTAINCUBS-0721-08TP.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-09-30T20:43:25Z"
-    },
-    {
-      "title": "Fat Bear Week opens for Alaska’s heavyweight crown. Can Chunk, the 1,200-pound champ, win again?",
-      "link": "https://www.mercurynews.com/2026/09/22/fat-bear-week-chunk/",
-      "summary": "This year he’s back and facing corpulent competition like Gully — aka Bear 903.",
-      "date": "Tue, 22 Sep 2026 13Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/Alaska_Fat_Bear_Week__7985-1.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-09-30T20:43:25Z"
-    },
-    {
-      "title": "The Gear Montana Ranchers and Cowboys Rely On",
-      "link": "https://www.outsideonline.com/outdoor-gear/montana-ranchers-and-cowboys-gear/",
-      "summary": "No one expects more from their gear than these folks who work outside year-round. The post The Gear Montana Ranchers and Cowboys Rely On appeared first on Outside Online .",
-      "date": "2026-09-30T20:18:34Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/montana_cowboys_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-09-30T20:43:27Z"
-    },
-    {
-      "title": "SpaceX's Giant Starship Rocket Reached Earth Orbit on Its First Try, but Engine Problems Forced It to Return to the Planet Early",
-      "link": "https://www.smithsonianmag.com/smart-news/spacexs-giant-starship-rocket-reached-earth-orbit-on-its-first-try-but-engine-problems-forced-it-to-return-to-the-planet-early-180989596/",
-      "summary": "Two aerospace companies are competing to create the lunar lander NASA uses when it returns humans to the moon's surface. But to reach our lunar companion, a spacecraft will first h",
-      "date": "2026-09-30T20:30:34Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/qJJN3CBS8bStcKYWaqIyAOZEJ3o=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/42/e2/42e230fc-5bca-4f15-9cbe-706fc5bec804/smithsonian_feature_images_27.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-09-30T20:43:29Z"
-    },
-    {
-      "title": "An Enigmatic Chalk Drawing, Rediscovered in a Private Italian Collection, Has Been Identified as the Long-Lost Work of Édouard Manet",
-      "link": "https://www.smithsonianmag.com/smart-news/an-enigmatic-chalk-drawing-rediscovered-in-a-private-italian-collection-has-been-identified-as-the-long-lost-work-of-edouard-manet-180989593/",
-      "summary": "The sketch of a young girl, in the red chalk characteristic of Manet’s 1860s life studies, is thought to be linked to several of the artist’s paintings",
-      "date": "2026-09-30T19:55:09Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/7l2q8x9ib3t9Fl-x2hWEKtg81ZU=/420x240/filters:focal(2048x1560:2049x1561)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e7/8c/e78c0e4f-1a76-469c-89b6-0a1ded4191e9/the_old_musician_196310162.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-09-30T20:43:29Z"
-    },
-    {
-      "title": "Could Saturn's Moon Enceladus Host Alien Life? Earth Microbes Can Live in Its Simulated Environment, Boosting Its Potential Habitability",
-      "link": "https://www.smithsonianmag.com/smart-news/could-saturns-moon-enceladus-host-alien-life-earth-microbes-can-live-in-its-simulated-environment-boosting-its-potential-habitability-180989589/",
-      "summary": "Enceladus is covered in ice, but that layer might hide a subsurface ocean. Researchers have long wondered if the salty body of water has the right conditions to host life, and now,",
-      "date": "2026-09-30T18:00:14Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/2WMBsWbYgVpPIUoMmkr3Mt3IeMU=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ea/ef/eaefd54c-2822-499d-a433-7d4e116a31a2/smithsonian_feature_images_26.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-09-30T20:43:29Z"
-    },
-    {
-      "title": "Is More Protein Always Better? Despite the Craze Around the Nutrient, Research-Backed Evidence About Its Benefits Is Complicated",
-      "link": "https://www.smithsonianmag.com/science-nature/is-more-protein-always-better-despite-the-craze-around-the-nutrient-research-backed-evidence-about-its-benefits-is-complicated-180989584/",
-      "summary": "It can be difficult to see through the array of flashy, protein-packed products and determine whether you need more of it—and which foods to consume to get it. We asked health expe",
-      "date": "2026-09-30T12:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/zm0M4WEi_0EeSJcIvbkyaTYGz4w=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c6/78/c678519b-88a7-4653-9c5c-3d93977dc6db/smithmag-protein-v3.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-09-30T20:43:29Z"
-    },
-    {
-      "title": "A new map points out U.S. rivers most worth protecting",
-      "link": "https://www.sciencenews.org/article/new-map-rivers-conservation-protection",
-      "summary": "Scientists graded every river and stream in the contiguous United States, flagging specific repairs each one needs to support aquatic life.",
-      "date": "2026-09-30T16:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/092226_SL_rivers-worth-protecting_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-09-30T20:43:30Z"
-    },
-    {
-      "title": "Twisteddoodles on the discovery of a new cat species",
-      "link": "https://www.newscientist.com/article/2591238-twisteddoodles-on-the-discovery-of-a-new-cat-species/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "This week's cartoon from Twisteddoodles",
-      "date": "2026-09-30T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313831061.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-09-30T20:43:31Z"
-    },
-    {
-      "title": "Tom Gauld on an audience with the great theoretical scientist",
-      "link": "https://www.newscientist.com/article/2591234-tom-gauld-on-an-audience-with-the-great-theoretical-scientist/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Tom Gauld's weekly cartoon",
-      "date": "2026-09-30T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313830615.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-09-30T20:43:31Z"
     }
   ]
 }
