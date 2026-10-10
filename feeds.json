@@ -1,8 +1,30 @@
 {
-  "updated": "2026-10-10T19:57:56Z",
-  "updated_utc": "2026-10-10T19:57:56Z",
+  "updated": "2026-10-10T23:26:57Z",
+  "updated_utc": "2026-10-10T23:26:57Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Ancient fossils unearthed at California construction site could be a ‘thunder beast’",
+      "link": "https://www.mercurynews.com/2026/09/23/ancient-fossils-unearthed-at-oceanside-construction-site-could-be-a-thunder-beast/",
+      "summary": "Remains found of what could be a large, hoofed mammal that lived about 45 million years ago.",
+      "date": "2026-09-23T16:19:00Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/SUT-L-FOSSILS-FOUND-007.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-10-10T23:26:45Z"
+    },
+    {
+      "title": "How to meal prep safely: A microbiologist's step‑by‑step guide",
+      "link": "https://phys.org/news/2026-10-meal-prep-safely-microbiologist-stepbystep.html",
+      "summary": "Meal prepping is a great way to save money, spend less time in the kitchen and stick to a meal plan. But while cooking meals for the week ahead may be convenient, there can be real",
+      "date": "2026-10-10T21:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/meal-prep.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-10T23:26:53Z"
+    },
     {
       "title": "‘We cannot accept foxes as part of our landscape’: the plan to save Australia’s threatened wildlife",
       "link": "https://www.theguardian.com/australia-news/2026/oct/11/fox-australia-threatened-native-species-wildlife-national-plan",
@@ -5480,28 +5502,6 @@
       "category": "birds",
       "color": 0,
       "fetched_at": "2026-10-01T20:57:01Z"
-    },
-    {
-      "title": "Millions of birds are migrating across the US as Fall migration begins to peak",
-      "link": "https://www.birdwatchingdaily.com/beginners/migration/millions-of-birds-are-migrating-across-the-us-as-fall-migration-begins-to-peak/",
-      "summary": "If you step outside tonight and look up at the sky, you probably won’t see much happening. But high above you, millions of birds could … Read More \"Millions of birds are migrating ",
-      "date": "Tue, 18 Aug 2026 16Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2026/08/pexels-aydin-photography-298758980-14238210-scaled.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-10-01T20:57:01Z"
-    },
-    {
-      "title": "Saturn at opposition – brightest for 2026 – on October 4",
-      "link": "https://earthsky.org/astronomy-essentials/saturn-at-opposition-closest-brightest-best/",
-      "summary": "Don't miss Saturn at opposition on and around the night of October 4, 2026. That's when our planet Earth passes between the sun and Saturn. The post Saturn at opposition – brightes",
-      "date": "Thu, 01 Oct 2026 17Z",
-      "image": "https://earthsky.org/upl/2025/09/Saturn-opposition-2022-Lowell-Observatory.gif",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-10-01T20:57:11Z"
     }
   ]
 }
