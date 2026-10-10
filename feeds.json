@@ -1,8 +1,19 @@
 {
-  "updated": "2026-10-10T01:38:27Z",
-  "updated_utc": "2026-10-10T01:38:27Z",
+  "updated": "2026-10-10T08:21:39Z",
+  "updated_utc": "2026-10-10T08:21:39Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: The house martins are gone for another year. But they’re not forgotten | Ed Douglas",
+      "link": "https://www.theguardian.com/environment/2026/oct/10/country-diary-the-house-martins-are-gone-but-not-forgotten",
+      "summary": "Lockerbrook, Derbyshire: Last week they were here, now they are not. Yet the details of their epic migration are still a mystery to us The sudden absence of something, even though ",
+      "date": "2026-10-10T04:30:47Z",
+      "image": "https://i.guim.co.uk/img/media/2b7356aed6a99dfdf03f1c66d448230ac46fb0fd/532_0_4264_3412/master/4264.jpg?width=140&quality=85&auto=format&fit=max&s=11749f0705024bd29440bd21038ad4a5",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-10T08:21:24Z"
+    },
     {
       "title": "The Best Evergreen Trees to Grow in Shade",
       "link": "https://www.birdsandblooms.com/gardening/growing-trees-shrubs-grasses/best-evergreen-trees-shade/",
@@ -5487,17 +5498,6 @@
       "summary": "The circadian clock is an internal biological system that regulates sleep-wake cycles, as well as many physiological functions such as body temperature and hormone production. In m",
       "date": "2026-10-01T20:40:15Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-the-biological-clo.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-01T20:57:22Z"
-    },
-    {
-      "title": "Google DeepMind develops invisible watermarks for AI-designed proteins",
-      "link": "https://phys.org/news/2026-10-google-deepmind-invisible-watermarks-ai.html",
-      "summary": "Watermarks have long protected everything from bank notes and fine art to digital photographs and software, helping prove authenticity and trace an object's origin. Their main func",
-      "date": "2026-10-01T20:40:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/google-deepmind-develo-2.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
