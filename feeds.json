@@ -1,8 +1,30 @@
 {
-  "updated": "2026-10-10T15:12:13Z",
-  "updated_utc": "2026-10-10T15:12:13Z",
+  "updated": "2026-10-10T19:57:56Z",
+  "updated_utc": "2026-10-10T19:57:56Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘We cannot accept foxes as part of our landscape’: the plan to save Australia’s threatened wildlife",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/11/fox-australia-threatened-native-species-wildlife-national-plan",
+      "summary": "Draft national strategy accepts the wily invasive species can’t be eradicated but outlines steps to protect native animals most at risk Sign up for climate and environment editor A",
+      "date": "2026-10-10T19:00:05Z",
+      "image": "https://i.guim.co.uk/img/media/a8bc9c789d2e6c2070588831e5fe0c1a4fbd8a23/187_0_1195_956/master/1195.jpg?width=140&quality=85&auto=format&fit=max&s=245a365ab30f60c7f6891d1f526e2d6c",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-10T19:57:40Z"
+    },
+    {
+      "title": "Adult acne is real, but there are ways to treat it. Here's what to know",
+      "link": "https://phys.org/news/2026-10-adult-acne-real-ways.html",
+      "summary": "As a teenager, Gillian Maegan Montalbo's pimples weren't too bad—just a few bumps on her forehead and nose.",
+      "date": "2026-10-10T19:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/be-well-acne-treatment.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-10T19:57:52Z"
+    },
     {
       "title": "Finally, Summer is Over",
       "link": "https://www.10000birds.com/finally-summer-is-over.htm?utm_source=rss&utm_medium=rss&utm_campaign=finally-summer-is-over",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-10-01T20:57:11Z"
-    },
-    {
-      "title": "Ancient fossils unearthed at California construction site could be a ‘thunder beast’",
-      "link": "https://www.mercurynews.com/2026/09/23/ancient-fossils-unearthed-at-oceanside-construction-site-could-be-a-thunder-beast/",
-      "summary": "Remains found of what could be a large, hoofed mammal that lived about 45 million years ago.",
-      "date": "2026-09-23T16:19:00Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/SUT-L-FOSSILS-FOUND-007.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-10-01T20:57:14Z"
-    },
-    {
-      "title": "The Best Women’s Running Shorts for Every Style, Speed, and Season (Fall 2026): Tested and Reviewed",
-      "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/best-running-shorts-for-women/",
-      "summary": "We wore dozens of running shorts on hundreds of sweaty miles over roads, trails, and tracks to find the best. The post The Best Women’s Running Shorts for Every Style, Speed, and S",
-      "date": "Thu, 01 Oct 2026 20Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/w_shorts_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-10-01T20:57:16Z"
     }
   ]
 }
