@@ -1,8 +1,30 @@
 {
-  "updated": "2026-10-11T21:49:26Z",
-  "updated_utc": "2026-10-11T21:49:26Z",
+  "updated": "2026-10-12T01:09:24Z",
+  "updated_utc": "2026-10-12T01:09:24Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Wildlife populations have declined 73% since 1970—but many of the world's animals still aren't being counted",
+      "link": "https://phys.org/news/2026-10-wildlife-populations-declined-world-animals.html",
+      "summary": "Wildlife populations around the world have declined by an average of 73% since 1970. That's according to the WWF's new 2026 Living Planet Index—a major estimate, updated every two ",
+      "date": "2026-10-12T00:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/guanaco.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-12T01:09:21Z"
+    },
+    {
+      "title": "'DNA Typewriter' records cells' history in developing mouse embryo",
+      "link": "https://phys.org/news/2026-10-dna-typewriter-cells-history-mouse.html",
+      "summary": "Scientists have succeeded in reconstructing the family tree of cells in a developing mouse embryo. They recorded cells' relationships, starting when the fertilized egg first split ",
+      "date": "2026-10-11T22:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dna-typewriter-records.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-12T01:09:21Z"
+    },
     {
       "title": "New study shows effects of hypoxia in Florida's Banana River",
       "link": "https://phys.org/news/2026-10-effects-hypoxia-florida-banana-river.html",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-10-02T13:46:10Z"
-    },
-    {
-      "title": "The vanishing of aurochs: Genetic evidence reveals multiple stressors at the same time",
-      "link": "https://phys.org/news/2026-10-aurochs-genetic-evidence-reveals-multiple.html",
-      "summary": "Aurochs, the ancient ancestors of modern cattle, once roamed large parts of Europe, Asia and northern Africa. New research by an international team led by Lund University indicates",
-      "date": "2026-10-02T13:01:24Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-sheds-new-light-6.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-02T13:46:10Z"
-    },
-    {
-      "title": "The ancestors of today's Indigenous people arrived in the Americas during the coldest part of the last ice age, study suggests",
-      "link": "https://www.livescience.com/archaeology/americas/the-ancestors-of-todays-indigenous-people-arrived-in-the-americas-during-the-coldest-part-of-the-last-ice-age-study-suggests",
-      "summary": "The first people in the Americas arrived no earlier than 21,000 years ago, but 'there are huge gaps in our genetic dataset,' a new study reports.",
-      "date": "2026-10-02T11:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Vp6GRH9AbhkQP842kyqjNH-1920-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-10-02T13:46:11Z"
     }
   ]
 }
