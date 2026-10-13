@@ -1,8 +1,118 @@
 {
-  "updated": "2026-10-12T18:56:34Z",
-  "updated_utc": "2026-10-12T18:56:34Z",
+  "updated": "2026-10-13T01:14:24Z",
+  "updated_utc": "2026-10-13T01:14:24Z",
   "count": 500,
   "stories": [
+    {
+      "title": "If You See Brown Spots on Your Hydrangea Leaves, This Is Why",
+      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/brown-spots-hydrangea-leaves/",
+      "summary": "Seeing spots on your hydrangea leaves ? A horticulture expert explains what might be affecting your plants, and what you can do to help. The post If You See Brown Spots on Your Hyd",
+      "date": "2026-10-12T19:44:43Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/10/GettyImages-2238698217-scaled-e1791566305909.jpg?fit=700,705",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-10-13T01:14:03Z"
+    },
+    {
+      "title": "Should You Rake Leaves in Spring Instead of Fall?",
+      "link": "https://www.birdsandblooms.com/gardening/gardening-basics/when-rake-leaves/",
+      "summary": "When's the best time to rake those fallen leaves in your yard... and should you be raking them at all? Here's what a horticultural expert says. The post Should You Rake Leaves in S",
+      "date": "2026-10-12T19:18:46Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/10/GettyImages-2153465684-scaled-e1791564724688.jpg?fit=700,701",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-10-13T01:14:03Z"
+    },
+    {
+      "title": "White Oak vs Red Oak Tree: What’s the Difference?",
+      "link": "https://www.birdsandblooms.com/gardening/growing-trees-shrubs-grasses/white-oak-vs-red-oak-tree/",
+      "summary": "Learn to distinguish a white oak vs. red oak. Which oak tree is growing in your yard? Which is best for your yard's needs? The post White Oak vs Red Oak Tree: What’s the Difference",
+      "date": "2026-10-12T19:05:56Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/10/GettyImages-611592450-scaled-e1791568085944.jpg?fit=700,701",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-10-13T01:14:03Z"
+    },
+    {
+      "title": "Bacterial antiviral defense suggests ancient link to human chromosome protection",
+      "link": "https://phys.org/news/2026-10-bacterial-antiviral-defense-ancient-link.html",
+      "summary": "A new antiviral defense system discovered by Columbia scientists could be adapted in the future into a gene editor that slows down aging in our cells and improves cancer therapies.",
+      "date": "2026-10-12T22:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-uncover-an-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-13T01:14:19Z"
+    },
+    {
+      "title": "Reinforced vertebrae allow plunge-diving seabirds to survive high-speed impact",
+      "link": "https://phys.org/news/2026-10-vertebrae-plunge-seabirds-survive-high.html",
+      "summary": "A northern gannet scans the sea for fish from 100 feet (30 meters) in the air. Upon seeing a school, it pitches its body into a nosedive, somehow breaking the surface at 70 miles p",
+      "date": "2026-10-12T21:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reinforced-vertebrae-a.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-13T01:14:19Z"
+    },
+    {
+      "title": "Cholesterol-linked drug boosts gene-targeting potency in early findings",
+      "link": "https://phys.org/news/2026-10-cholesterol-linked-drug-boosts-gene.html",
+      "summary": "Nucleic acid therapeutics, such as antisense oligonucleotides (ASOs), have emerged as promising platforms for treating a variety of previously hard-to-treat diseases, including neu",
+      "date": "2026-10-12T21:00:18Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-robust-long-last.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-13T01:14:19Z"
+    },
+    {
+      "title": "Baby tooth places macaques in northern Germany more than 300,000 years ago",
+      "link": "https://phys.org/news/2026-10-baby-tooth-macaques-northern-germany.html",
+      "summary": "A research team from the Senckenberg Centre for Human Evolution and Palaeoenvironment at the University of Tübingen and Leiden University in the Netherlands has examined a tooth fr",
+      "date": "2026-10-12T20:20:23Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/barbary-macaques-in-no.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-13T01:14:19Z"
+    },
+    {
+      "title": "Tiny fossils reveal a missing chapter of ocean life after Snowball Earth",
+      "link": "https://phys.org/news/2026-10-tiny-fossils-reveal-chapter-ocean.html",
+      "summary": "A rare assemblage of micro- and macro-fossils found in a roadside outcrop in South China, featuring thin ribbons, branching shapes and a tiny balloon on a stalk, offers a glimpse o",
+      "date": "2026-10-12T19:40:10Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-fossils-reveal-a.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-13T01:14:19Z"
+    },
+    {
+      "title": "Elephants continue to shape the savanna even after death",
+      "link": "https://phys.org/news/2026-10-elephants-savanna-death.html",
+      "summary": "Elephants shape the African savanna. They consume huge amounts of forage, dig for water, topple trees and affect all the animals around them. So, what happens to their outsized pre",
+      "date": "2026-10-12T19:00:11Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/elephants-continue-to.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-13T01:14:19Z"
+    },
+    {
+      "title": "High-speed video reveals how honey bee stingers keep pumping venom after detachment",
+      "link": "https://phys.org/news/2026-10-high-video-reveals-honey-bee.html",
+      "summary": "Australian scientists have used high-speed video to uncover the unique mechanism that allows a honey bee's stinger to continue to pump venom into its target even after it has separ",
+      "date": "2026-10-12T19:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/honey-bee-stinger.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-13T01:14:19Z"
+    },
     {
       "title": "Birding Lodges of the World: Rogitama Biodiversidad, Colombia",
       "link": "https://www.10000birds.com/birding-lodges-of-the-world-rogitama-biodiversidad-colombia.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-lodges-of-the-world-rogitama-biodiversidad-colombia",
@@ -5392,116 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-10-02T19:07:24Z"
-    },
-    {
-      "title": "Is this an alien radio signal from a super-Earth exoplanet?",
-      "link": "https://earthsky.org/space/alien-radio-signal-k2-155-d-fast-seti/",
-      "summary": "Did China's FAST radio telescope detect an alien radio signal coming from the super-Earth exoplanet K2-155 d? Probably not. The post Is this an alien radio signal from a super-Eart",
-      "date": "2026-10-02T11:19:32Z",
-      "image": "https://earthsky.org/upl/2026/09/K2-155-d-exoplanet-artist-concept-NASA.png",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-10-02T19:07:30Z"
-    },
-    {
-      "title": "Could an Earthlike planet with 2 stars be nearby?",
-      "link": "https://earthsky.org/space/earthlike-planet-with-2-stars-70-ophiuchi/",
-      "summary": "A new astronomical model has found that an Earthlike planet could have a stable and potentially habitable orbit around a star in a nearby 2-star system. The post Could an Earthlike",
-      "date": "2026-10-02T11:12:52Z",
-      "image": "https://earthsky.org/upl/2026/09/planet-with-2-suns-NASA-ESA-CSA-STScI-Robert-Hurt-Caltech-IPAC-e1790772284981.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-10-02T19:07:30Z"
-    },
-    {
-      "title": "October birthstone: Colorful opal and tourmaline",
-      "link": "https://earthsky.org/human-world/october-birthstone-opal-tourmaline/",
-      "summary": "Take your pick: the October birthstone is either the striking iridescent opal or the many-colored tourmaline. Learn the lore of these pretty gemstones here. The post October births",
-      "date": "2026-10-02T09:02:17Z",
-      "image": "https://earthsky.org/upl/2020/10/Polished-Australian-Opal.png",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-10-02T19:07:30Z"
-    },
-    {
-      "title": "Ancient Pottery Reveals the Earliest Known Traces of Chocolate East of the Mississippi, Painting a Picture of Connection in the Americas",
-      "link": "https://www.smithsonianmag.com/science-nature/ancient-pottery-reveals-the-earliest-known-traces-of-chocolate-east-of-the-mississippi-painting-a-picture-of-connection-in-the-americas-180989559/",
-      "summary": "A new archaeological discovery suggests that people in present-day Georgia have feasted with cacao for 1,000 years",
-      "date": "2026-10-02T18:15:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/oIw6E2xT4MnjAKXsluvUPvukwNY=/420x240/filters:focal(386x271:387x272)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/08/8b/088beb9a-0b0e-46e9-9a99-ec284db573b4/ezgif-79ce7fc33c96a2a6.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-02T19:07:37Z"
-    },
-    {
-      "title": "Dozens of Curious Artworks Created With Woven Strands of Human Hair Come to New York’s Morbid Anatomy Library",
-      "link": "https://www.smithsonianmag.com/smart-news/dozens-of-curious-artworks-created-with-woven-strands-of-human-hair-come-to-new-yorks-morbid-anatomy-library-180989577/",
-      "summary": "So-called hairworks were popularized during the Victorian era as a means of grieving the deceased",
-      "date": "2026-10-02T16:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/1c_KSHoygyxcZjHdwJZU__1Kr_I=/420x240/filters:focal(1223x1002:1224x1003)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/10/e9/10e9eaf7-1a96-43f4-a57b-d0ca620adaa5/gettyimages-2239388217.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-02T19:07:37Z"
-    },
-    {
-      "title": "These 15 Adorable Photos of Pandas Will Make You Want to Visit the Zoo Immediately",
-      "link": "https://www.smithsonianmag.com/science-nature/these-15-adorable-photos-of-pandas-will-make-you-want-to-visit-the-zoo-immediately-180989606/",
-      "summary": "Members of the fluffy and adorable but vulnerable species are often cared for in zoos and breeding centers around the world, and these snapshots may make you jealous of the caretak",
-      "date": "2026-10-02T15:21:12Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/lGbwj4drCA-2-m76bLCQj4s7vWw=/420x240/filters:focal(2736x1824:2737x1825)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/98/d3/98d34eb6-92fb-4ac8-97f5-aead47156fa1/1-773b9600-3419-4e37-a754-5ac1737254bb.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-02T19:07:37Z"
-    },
-    {
-      "title": "These Wild Lemurs Sing Just Like Opera Stars, Widening Their Mouths as They Hit the High Notes, Study Suggests",
-      "link": "https://www.smithsonianmag.com/smart-news/these-wild-lemurs-sing-just-like-opera-stars-widening-their-mouths-as-they-hit-the-high-notes-study-suggests-180989603/",
-      "summary": "Scientists suspect this musical trait arose independently in humans and indris, which split from a common ancestor some 74 million years ago. Today, the lemurs make loud, haunting ",
-      "date": "2026-10-02T14:34:46Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/S3gmhyCrDB7thADd8HOc3SvCQqU=/420x240/filters:focal(600x451:601x452)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9c/9a/9c9aa69d-c6d0-493c-b23e-61e1ed2b1da9/indri_indri_8945066.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-02T19:07:37Z"
-    },
-    {
-      "title": "Scientists Discover Two New Species of Sea Spider in the Pacific Northwest—and They Look Like They Came Straight Out of a Horror Movie",
-      "link": "https://www.smithsonianmag.com/smart-news/scientists-discover-two-new-species-of-sea-spider-in-the-pacific-northwest-and-they-look-like-they-came-straight-out-of-a-horror-movie-180989598/",
-      "summary": "You don't need to worry about the critters coming after you, since they're only a fraction of an inch across. They join the roughly 1,400 known species of ocean-dwelling spiders",
-      "date": "2026-10-02T14:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/_v4jfM_A_IcxBjc8nMnhxpKcJCw=/420x240/filters:focal(714x442:715x443)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5d/f0/5df01996-69ff-4ddb-b8c2-8a8f5ad91c9b/callipallene_pilosuspedes_credit-_cormac_toler-scott.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-02T19:07:37Z"
-    },
-    {
-      "title": "An Arson Investigation Is Underway After a Suspected ‘Senseless Act of Vandalism’ Destroys a Newly Installed Benjamin Harrison Statue",
-      "link": "https://www.smithsonianmag.com/smart-news/an-arson-investigation-is-underway-after-a-suspected-sensless-act-of-vandalism-destroys-a-newly-installed-benjamin-harrison-statue-180989605/",
-      "summary": "The 3D-printed piece was created by students and faculty at Indiana University Indianapolis and had been installed on September 16",
-      "date": "2026-10-02T13:33:31Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/Xr654V61YQDkqfM5G8YsQH4mx3U=/420x240/filters:focal(2054x787:2055x788)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4b/ac/4bac34af-7823-43b6-9eff-f3ef6a0674d9/img_2967.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-02T19:07:37Z"
-    },
-    {
-      "title": "Young Yosemite toads survive winter, then emerge with a deadly fungus",
-      "link": "https://www.sciencenews.org/article/yosemite-toads-fungus-chytrid-winter",
-      "summary": "A waterborne pathogen flourishes while toads shelter underground. The finding may help conservationists rethink how to protect the threatened species.",
-      "date": "2026-10-02T16:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/100126_EG_overwintering-chytrid_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-10-02T19:07:38Z"
     }
   ]
 }
