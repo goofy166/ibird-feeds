@@ -1,8 +1,63 @@
 {
-  "updated": "2026-10-14T01:45:58Z",
-  "updated_utc": "2026-10-14T01:45:58Z",
+  "updated": "2026-10-14T07:25:24Z",
+  "updated_utc": "2026-10-14T07:25:24Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Brent Geese spotted in Dungarvan Bay",
+      "link": "https://www.10000birds.com/brent-geese-spotted-in-dungarvan-bay.htm?utm_source=rss&utm_medium=rss&utm_campaign=brent-geese-spotted-in-dungarvan-bay",
+      "summary": "By Tania Dey Tania Dey is an academic specialising in chemistry, materials, and nanotechnology, with 20 years of post-PhD experience from North America and Europe, and is currently",
+      "date": "2026-10-14T05:48:19Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/10/2.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-10-14T07:25:03Z"
+    },
+    {
+      "title": "Scale back on hake and coley, seafood charity tells shoppers",
+      "link": "https://www.theguardian.com/environment/2026/oct/14/scale-back-on-hake-and-coley-seafood-charity-tells-shoppers",
+      "summary": "Declining stocks and increased fishing pressure have led to lower sustainability ratings for two popular cod alternatives UK shoppers have previously been urged to avoid UK-caught ",
+      "date": "2026-10-14T07:00:48Z",
+      "image": "https://i.guim.co.uk/img/media/98d1fdf9cbbd8e010c2ed749392b0512ccaa902e/453_0_3200_2560/master/3200.jpg?width=140&quality=85&auto=format&fit=max&s=38c0b41355e9679ba9627295b7664df6",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-14T07:25:08Z"
+    },
+    {
+      "title": "Pollinating insects flock to plants gardeners might think of as ‘weeds’",
+      "link": "https://www.theguardian.com/environment/2026/oct/14/pollinating-insects-flock-plants-weeds",
+      "summary": "Citizen scientists on UK Pollinator Monitoring Scheme recorded insect visits to flowers during 10-minute surveys Ubiquitous urban plants often derided as “weeds” are the most attra",
+      "date": "2026-10-14T07:00:47Z",
+      "image": "https://i.guim.co.uk/img/media/b1f621e86423121406740e25ac39a95a26a40125/57_0_1735_1387/master/1735.jpg?width=140&quality=85&auto=format&fit=max&s=fc7e6ce3ce0bc4c0bc72ef99839fef35",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-14T07:25:08Z"
+    },
+    {
+      "title": "Birdwatch: the paradoxical puffin – a comical bird with a fighting spirit",
+      "link": "https://www.theguardian.com/environment/2026/oct/14/birdwatch-puffin",
+      "summary": "Despite their size and gentle appearance, puffins will fight to keep their catch of sand eels from an opportunistic gull Few birds are as paradoxical as the puffin. It rivals the r",
+      "date": "2026-10-14T05:00:46Z",
+      "image": "https://i.guim.co.uk/img/media/99c788250a1aa7ca08a729759f23f65878e04094/560_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=8bfcae7076ed9d8c06351025e8308a51",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-14T07:25:08Z"
+    },
+    {
+      "title": "Wild bobwhite quail spotted after habitat restoration project",
+      "link": "https://phys.org/news/2026-10-wild-bobwhite-quail-habitat.html",
+      "summary": "Multiple coveys of wild bobwhite quail were recently sighted at the University of Tennessee's Ames AgResearch and Education Center, marking an encouraging milestone in an ongoing e",
+      "date": "2026-10-14T03:20:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wild-bobwhite-quail-sp.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-14T07:25:21Z"
+    },
     {
       "title": "Dinosaur named new species 102 years after fossil found on Isle of Wight",
       "link": "https://www.newscientist.com/article/2593437-dinosaur-named-new-species-102-years-after-fossil-found-on-isle-of-wight/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -5447,61 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-10-05T18:15:58Z"
-    },
-    {
-      "title": "These Five Birds Have Disappeared Forever. Their History Offers a Valuable Lesson for the Future",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/these-five-birds-have-disappeared-forever-their-history-offers-a-valuable-lesson-for-the-future-180989616/",
-      "summary": "In an exhibition celebrating the natural history of the United States, a small group of taxidermy birds stands as a reminder of loss—and a symbol of hope",
-      "date": "2026-10-05T17:38:51Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/cJ5HgU7WJQbNslL3SZ_uhAPEu_s=/420x240/filters:focal(3000x2057:3001x2058)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/59/b8/59b82100-4e7b-4b5d-93fd-67208e88cb7e/nhb2012-00536_copy.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-05T18:15:59Z"
-    },
-    {
-      "title": "Remarkable Fossil of a Feathered, Winged Dinosaur Further Hints That Flight Evolved Multiple Times Among the 'Terrible Lizards'",
-      "link": "https://www.smithsonianmag.com/smart-news/remarkable-fossil-of-a-feathered-winged-dinosaur-further-hints-that-flight-evolved-multiple-times-among-the-terrible-lizards-180989612/",
-      "summary": "The fossil belonged to a category of dinosaurs called microraptors, which were bird-like but not ancestors of modern-day avians. A new study found that this group of ancient predat",
-      "date": "2026-10-05T15:53:34Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/qUi70GxxJUKfV63B3T7Pe2WkbLY=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e5/8b/e58bb7f0-27ac-4493-905d-6f2484c70402/microraptor-main.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-05T18:15:59Z"
-    },
-    {
-      "title": "See the Impressive Winning Images of Adorable, Somber and Commanding Canines From the 2026 Dog Photography Awards",
-      "link": "https://www.smithsonianmag.com/smart-news/see-the-impressive-winning-images-of-adorable-somber-and-commanding-canines-from-the-2026-dog-photography-awards-180989609/",
-      "summary": "Posing pit bulls, stoic galgos and frisbee-chasing Aussies feature among the annual competition’s prize winners",
-      "date": "2026-10-05T13:24:58Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/YNKGoGnSWJdduhVZnceVKO5GeGc=/420x240/filters:focal(1024x683:1025x684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5d/d1/5dd170ef-4aad-4dd8-ab4a-575e7c4a9d04/4431hr.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-05T18:15:59Z"
-    },
-    {
-      "title": "The Roman City of Claudivium Disappeared From Historical Records Almost 2,000 Years Ago. It May Have Been Hiding in Austria",
-      "link": "https://www.smithsonianmag.com/smart-news/the-roman-city-of-claudivium-disappeared-from-historical-records-almost-2000-years-ago-it-may-have-been-hiding-in-austria-180989614/",
-      "summary": "Archaeologists have discovered a previously unknown settlement on the banks of the Danube River",
-      "date": "2026-10-05T13:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/_mmpFUONCt1LKfYRm6OJrRE4Rbc=/420x240/filters:focal(2040x1166:2041x1167)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/05/50/05506f1a-a31d-4286-a6a8-318d9e0505b3/3_stein_magnetik_geosphere.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-05T18:15:59Z"
-    },
-    {
-      "title": "Soldiers Sweeping for Land Mines in South Korea Have Unearthed the Country’s Oldest Gun, a 600-Year-Old Inscribed Bronze Tube",
-      "link": "https://www.smithsonianmag.com/smart-news/soldiers-sweeping-for-land-mines-in-south-korea-have-unearthed-the-countrys-oldest-gun-a-600-year-old-inscribed-bronze-tube-180989610/",
-      "summary": "The artifact was found in 2023 during a metal detecting survey. Experts have been analyzing it since and recently confirmed its authenticity",
-      "date": "2026-10-05T12:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/5yyecFKJbnKxXCNRigEdNBypE7k=/420x240/filters:focal(1196x798:1197x799)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/40/ce/40ce0e8f-567c-42bd-9c91-8ed00e15b78e/screenshot_2026-10-02_at_102448am.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-05T18:15:59Z"
     }
   ]
 }
