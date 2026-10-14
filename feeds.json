@@ -1,8 +1,63 @@
 {
-  "updated": "2026-10-13T22:33:23Z",
-  "updated_utc": "2026-10-13T22:33:23Z",
+  "updated": "2026-10-14T01:45:58Z",
+  "updated_utc": "2026-10-14T01:45:58Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Dinosaur named new species 102 years after fossil found on Isle of Wight",
+      "link": "https://www.newscientist.com/article/2593437-dinosaur-named-new-species-102-years-after-fossil-found-on-isle-of-wight/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Invictibellatrix amberina, a predator in the megaraptoran group of dinosaurs, lived in what is now Britain 120 million years ago and may have had claws 20 centimetres long",
+      "date": "Tue, 13 Oct 2026 23Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316310035.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-10-14T01:45:52Z"
+    },
+    {
+      "title": "Dogs are susceptible to the bouba-kiki effect",
+      "link": "https://www.newscientist.com/article/2593290-dogs-are-susceptible-to-the-bouba-kiki-effect/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Just like humans, dogs seem to associate the nonsense word “bouba” with a rounded shape and “kiki” with a spiky shape, suggesting the connection stems from brain mechanisms that ar",
+      "date": "Tue, 13 Oct 2026 23Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316414456.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-10-14T01:45:52Z"
+    },
+    {
+      "title": "Simple cleaning steps could curb deadly fungal disease risks for Australia's wild reptiles",
+      "link": "https://phys.org/news/2026-10-simple-curb-deadly-fungal-disease.html",
+      "summary": "With spring underway and the weather warming, reptiles are on the move in suburbs, parks and scrubland across Australia. Snake catchers and wildlife caregivers are responding to ca",
+      "date": "2026-10-14T00:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/deadly-fungi-are-harmi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-14T01:45:55Z"
+    },
+    {
+      "title": "Scientists discover 'D-rex', a giant fungus from Chinese forests whose unique lineage dates back 65 million years",
+      "link": "https://phys.org/news/2026-10-scientists-d-rex-giant-fungus.html",
+      "summary": "Deep in the forests of Yunnan, China, scientists have discovered a \"fungal giant\" that challenges our understanding of how large fungi can become. The newly described species, Dian",
+      "date": "2026-10-13T23:20:10Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-d.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-14T01:45:55Z"
+    },
+    {
+      "title": "Isle of Wight fossil Europe's first known long-clawed megaraptoran dinosaur",
+      "link": "https://phys.org/news/2026-10-isle-wight-fossil-europe-clawed.html",
+      "summary": "A new species of dinosaur—a long-clawed predator the size of a large tiger—has been discovered by a UCL-led team from a fossil found on the Isle of Wight. The dinosaur, described i",
+      "date": "2026-10-13T23:10:14Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uk-dinosaur-fossil-ide.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-14T01:45:55Z"
+    },
     {
       "title": "How to Identify a Sharp-Shinned Hawk",
       "link": "https://www.birdsandblooms.com/birding/bird-species/birds-of-prey/sharp-shinned-hawk/",
@@ -5447,61 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-10-05T18:15:59Z"
-    },
-    {
-      "title": "Scientists may have seen dark matter. If they did, what exactly is it?",
-      "link": "https://www.sciencenews.org/article/dark-matter-supersymmetry-higgsino",
-      "summary": "One theory points to a long-awaited supersymmetric particle called a ‘higgsino.’ But that idea has some issues.",
-      "date": "2026-10-05T17:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/100126_EC_darkmatter_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-10-05T18:16:00Z"
-    },
-    {
-      "title": "A ‘phoenix’ planet was born from the ashes of its dead star",
-      "link": "https://www.sciencenews.org/article/baby-planet-from-dead-star-phoenix",
-      "summary": "Finding the potential planet hints that our sun’s death could lead to the creation of new worlds.",
-      "date": "2026-10-05T15:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/100226_LG_planet_main.jpg?w=798",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-10-05T18:16:00Z"
-    },
-    {
-      "title": "Astronomers say they’ve spotted the first miniature quasar pointed at Earth",
-      "link": "https://www.sciencenews.org/article/first-miniature-quasar-earth",
-      "summary": "Microblazars — a miniature version of blazars — may be responsible for mysterious ultra-high-energy particles.",
-      "date": "2026-10-05T13:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/092826_MB_microblazar_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-10-05T18:16:00Z"
-    },
-    {
-      "title": "Extinct yak relative discovered from DNA in Denisova cave",
-      "link": "https://www.newscientist.com/article/2591962-extinct-yak-relative-discovered-from-dna-in-denisova-cave/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Genetic analysis of hundreds of tiny bone fragments found in the same cave that yielded the first fossil remains of the Denisovans has revealed that the region was once also home t",
-      "date": "2026-10-05T15:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315388092.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-05T18:16:02Z"
-    },
-    {
-      "title": "Can we harness the brain’s deep-cleaning system to prevent Alzheimer’s?",
-      "link": "https://www.newscientist.com/article/2590514-can-we-harness-the-brains-deep-cleaning-system-to-prevent-alzheimers/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "The glymphatic system is the brain's recently discovered network for flushing out toxins. Now, we're uncovering surprising ways to boost it to protect brain health",
-      "date": "2026-10-05T15:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315004969.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-05T18:16:02Z"
     }
   ]
 }
