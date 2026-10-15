@@ -1,8 +1,107 @@
 {
-  "updated": "2026-10-15T01:21:48Z",
-  "updated_utc": "2026-10-15T01:21:48Z",
+  "updated": "2026-10-15T07:16:11Z",
+  "updated_utc": "2026-10-15T07:16:11Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The day bad weather brought half a million birds to England",
+      "link": "https://www.theguardian.com/news/2026/oct/15/the-day-bad-weather-brought-half-a-million-birds-to-england",
+      "summary": "The ‘Great Fall’ of 1965 was caused by harsh conditions forcing migrating species to land on their way to Africa My birding mentor, the late Derek Moore, was also a keen cricketer.",
+      "date": "2026-10-15T05:00:24Z",
+      "image": "https://i.guim.co.uk/img/media/6cc62cb0c894fe625b26a5032e16fe8b31f0f6fe/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3481fe74df1c6ce194845e2e91841852",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-15T07:15:54Z"
+    },
+    {
+      "title": "Country diary: Thrilled by Darwin, and the wonder of worms | Lev Parikian",
+      "link": "https://www.theguardian.com/environment/2026/oct/15/country-diary-thrilled-by-darwin-and-the-wonder-of-worms",
+      "summary": "Downe, Kent: It’s hard not to feel the earth move by a visit to the great man’s house. He truly valued these creatures of the dirt The garden beds are moistened by steady rain, but",
+      "date": "2026-10-15T04:30:21Z",
+      "image": "https://i.guim.co.uk/img/media/65164c826427559027b3f2ad05d157e183e05f20/785_0_4426_3543/master/4426.jpg?width=140&quality=85&auto=format&fit=max&s=33b83b34f68320b0843f41a724ca98c6",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-15T07:15:54Z"
+    },
+    {
+      "title": "Whalefall review: Worth watching for the bits inside a sperm whale",
+      "link": "https://www.newscientist.com/article/2592386-whalefall-review-worth-watching-for-the-bits-inside-a-sperm-whale/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Based on Daniel Kraus’s novel, this film about a diver swallowed by a sperm whale is terrifically gruesome – and far too sentimental, says Bethan Ackerley",
+      "date": "Thu, 15 Oct 2026 07Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI315782062.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-10-15T07:16:05Z"
+    },
+    {
+      "title": "Russia and China are using AI to stage relentless cyberattacks against the UK",
+      "link": "https://www.newscientist.com/article/2593414-russia-and-china-are-using-ai-to-stage-relentless-cyber-attacks-against-the-uk/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "AI is increasing the speed of attacks against infrastructure in the UK but also being used to help defend against it",
+      "date": "Thu, 15 Oct 2026 06Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316450311_0dd792.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-10-15T07:16:05Z"
+    },
+    {
+      "title": "Ascension Island: How a planting project created a lush cloud forest",
+      "link": "https://phys.org/news/2026-10-ascension-island-lush-cloud-forest.html",
+      "summary": "In the middle of nowhere, a small island emerges in the Atlantic Ocean. This unique territory completely changed in the 19th century thanks to the efforts of two British scientists",
+      "date": "2026-10-15T06:45:51Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/trip-to-ascension-the.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-15T07:16:07Z"
+    },
+    {
+      "title": "Consumers need clearer answers before they can trust precision fermentation, new report finds",
+      "link": "https://phys.org/news/2026-10-consumers-clearer-precision-fermentation.html",
+      "summary": "Consumers may not fully understand precision fermentation yet, but many are curious enough to taste the results. New qualitative research from the EIT Food Consumer Observatory, pu",
+      "date": "2026-10-15T03:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/precision-fermentation.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-15T07:16:07Z"
+    },
+    {
+      "title": "Report identifies investment priorities for low-emissions agriculture",
+      "link": "https://phys.org/news/2026-10-investment-priorities-emissions-agriculture.html",
+      "summary": "A new report by CSIRO, Australia's national science agency, has found a growing suite of promising options already available to reduce on-farm emissions, as well as further opportu",
+      "date": "2026-10-15T03:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dairy-cows.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-15T07:16:07Z"
+    },
+    {
+      "title": "Now you see them: Researchers uncover patterns in vessels that vanish at sea",
+      "link": "https://phys.org/news/2026-10-uncover-patterns-vessels-sea.html",
+      "summary": "Across the waters of West Africa, commercial fishing vessels vanish along international boundary lines.",
+      "date": "2026-10-15T02:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/now-you-see-them-fiu-r.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-15T07:16:07Z"
+    },
+    {
+      "title": "Scientists alarmed as super El Niño collides with 'strange uptick' in Galapagos iguana trafficking",
+      "link": "https://phys.org/news/2026-10-scientists-alarmed-super-el-nio.html",
+      "summary": "The only lizard in the world that can live and forage at sea may now be in a fight for survival. International scientists warn black-market trafficking of Galapagos marine iguanas ",
+      "date": "2026-10-15T02:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-alarmed-as.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-15T07:16:07Z"
+    },
     {
       "title": "The 9 Best Women’s Running Shirts and Tanks of October 2026",
       "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/best-running-shirts-for-women/",
@@ -5403,105 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-10-06T20:10:33Z"
-    },
-    {
-      "title": "Sun news: 3 M flares break the lull!",
-      "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-      "summary": "Sun news October 6, 2026: Bam, 3 M flares! Newcomer AR4549 grew into a monster sunspot region right at the disk's center. The post Sun news: 3 M flares break the lull! first appear",
-      "date": "Tue, 06 Oct 2026 09Z",
-      "image": "https://earthsky.org/upl/2026/10/Oct-6-26-Sun-activity-M-flares.-ezgif.com-video-to-webp-converter.webp",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-10-06T20:10:33Z"
-    },
-    {
-      "title": "So Long, and Thanks for All the Fish",
-      "link": "https://hakaimagazine.com/article-short/so-long-and-thanks-for-all-the-fish/",
-      "summary": "We started Hakai Magazine over 10 years ago because the ocean and its coastlines needed a voice. No other outlet was exclusively covering issues at the interface of sea and land—or",
-      "date": "2024-12-27T08:05:43Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-so-long-and-thanks-for-all-the-fish.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-10-06T20:10:34Z"
-    },
-    {
-      "title": "The First First Responders",
-      "link": "https://hakaimagazine.com/features/the-first-first-responders/",
-      "summary": "When a ship wrecks on an unfamiliar coastline, an already desperate situation is all the more dire. Blinded by the night, and lost, the captain and crew of the Puritan, a four-mast",
-      "date": "Tue, 24 Dec 2024 08Z",
-      "image": "https://hakaimagazine.com/wp-content/uploads/header-first-first-responder.jpg",
-      "name": "Hakai",
-      "category": "wildlife",
-      "color": 7,
-      "fetched_at": "2026-10-06T20:10:34Z"
-    },
-    {
-      "title": "The Only 6 Deals Worth Shopping at Amazon Prime Big Deal Days Are Up to 49% Off",
-      "link": "https://www.outsideonline.com/outdoor-gear/gear-news/amazon-prime-big-deal-days-2926/",
-      "summary": "Most Prime Big Deal Days discounts on outdoor gear aren't worth the hype, but our gear team found a handful of genuinely great savings. The post The Only 6 Deals Worth Shopping at ",
-      "date": "Tue, 06 Oct 2026 19Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/OOL-Deal-Tile-A-2400x1350-11.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-10-06T20:10:38Z"
-    },
-    {
-      "title": "Acadia Turns Visitors Into Advocates—Now This Musician is One of Them",
-      "link": "https://www.outsideonline.com/outdoor-adventure/environment/acadia-turns-visitors-into-advocates-now-this-musician-is-one-of-them/",
-      "summary": "Ahead of his Park Sessions performance, Mt. Joy frontman Matt Quinn reflects on the connection between inspiration, appreciation, and stewardship in nature The post Acadia Turns Vi",
-      "date": "Tue, 06 Oct 2026 17Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/000004300016-scaled-e1790720349607.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-10-06T20:10:38Z"
-    },
-    {
-      "title": "Performance Denim Is Having a Resurgence, Delighting Everyone Who Wants to Move While Still Looking Chill",
-      "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/performance-denim-jeans-jorts/",
-      "summary": "This versatile fabric brings joy to bike commuters, hipster hikers, impromptu rock climbers, and me. The post Performance Denim Is Having a Resurgence, Delighting Everyone Who Want",
-      "date": "Tue, 06 Oct 2026 17Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/performance_denim_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-10-06T20:10:38Z"
-    },
-    {
-      "title": "What Happens to Your Body When You Stop Working Out for Days, Weeks, and Months?",
-      "link": "https://www.outsideonline.com/health/training-performance/timeline-stop-working-out-weeks-months/",
-      "summary": "Exercise experts and doctors explain what happens to major bodily systems when you stop working out. The post What Happens to Your Body When You Stop Working Out for Days, Weeks, a",
-      "date": "Tue, 06 Oct 2026 16Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/stop-working-out.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-10-06T20:10:38Z"
-    },
-    {
-      "title": "With Hypershell’s X Series, Going Further is a Breeze",
-      "link": "https://www.outsideonline.com/outdoor-gear/tools/with-hypershells-x-series-going-further-is-a-breeze/",
-      "summary": "Get an exclusive discount on the best outdoor exoskeletons on the market The post With Hypershell’s X Series, Going Further is a Breeze appeared first on Outside Online .",
-      "date": "Tue, 06 Oct 2026 16Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/Hypershell_featured_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-10-06T20:10:38Z"
-    },
-    {
-      "title": "Physicist Wins Nobel Prize for Developing a Massive, Ice-Embedded Observatory That Detects Ghostly Cosmic Particles",
-      "link": "https://www.smithsonianmag.com/smart-news/physicist-wins-nobel-prize-for-developing-a-massive-ice-embedded-observatory-that-detects-ghostly-cosmic-particles-180989627/",
-      "summary": "Francis Halzen of the University of Wisconsin-Madison led the effort to build the IceCube Neutrino Observatory in Antarctica. His work birthed the field of neutrino astronomy",
-      "date": "Tue, 06 Oct 2026 19Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/iBGHvAmXj8igbT5AniavLCOBqNc=/420x240/filters:focal(1692x1128:1693x1129)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/85/15/8515bbd0-d5ea-4316-9fa1-7358e578f9dd/nobel-physics.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-06T20:10:40Z"
     }
   ]
 }
