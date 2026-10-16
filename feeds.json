@@ -1,8 +1,63 @@
 {
-  "updated": "2026-10-15T22:05:44Z",
-  "updated_utc": "2026-10-15T22:05:44Z",
+  "updated": "2026-10-16T01:07:46Z",
+  "updated_utc": "2026-10-16T01:07:46Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Can extra weight weigh on your dog's brain?",
+      "link": "https://phys.org/news/2026-10-extra-weight-dog-brain.html",
+      "summary": "Scientists have learned a lot about what happens to the human body as we age. But there's still much to learn about how other species age, including dogs. Even carrying extra weigh",
+      "date": "2026-10-16T01:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fat-dog.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-16T01:07:42Z"
+    },
+    {
+      "title": "Newly discovered viruses reveal an evolutionary missing link",
+      "link": "https://phys.org/news/2026-10-newly-viruses-reveal-evolutionary-link.html",
+      "summary": "Researchers at the University of Miami have identified a group of previously unknown viruses that bridge an evolutionary gap between viruses and cellular protein compartments, a di",
+      "date": "2026-10-15T23:40:10Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/newly-discovered-virus.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-16T01:07:42Z"
+    },
+    {
+      "title": "Imperial woodpecker returns to life as a detailed digital specimen",
+      "link": "https://phys.org/news/2026-10-imperial-woodpecker-life-digital-specimen.html",
+      "summary": "Researchers have created a detailed, animated 3D model of the imperial woodpecker (Campephilus imperialis), a spectacular bird that has not been confirmed in the wild since 1956. T",
+      "date": "2026-10-15T23:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/imperial-woodpecker-re.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-16T01:07:42Z"
+    },
+    {
+      "title": "Food, fear and physics help explain group behavior from plankton to whales",
+      "link": "https://phys.org/news/2026-10-food-physics-group-behavior-plankton.html",
+      "summary": "The open ocean is a dynamic environment, where food is patchy, predators are plentiful, and oceanographic conditions change constantly. Life in the pelagic environment—the offshore",
+      "date": "2026-10-15T23:00:09Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-examines-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-16T01:07:42Z"
+    },
+    {
+      "title": "Nearly half of reef-building coral species face higher risk of extinction",
+      "link": "https://phys.org/news/2026-10-reef-coral-species-higher-extinction.html",
+      "summary": "A University of Portsmouth scientist has helped lead a major global study, which finds that 44% of the world's reef-building coral species are now threatened with extinction—and wa",
+      "date": "2026-10-15T22:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-reefs-of-the-north.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-16T01:07:42Z"
+    },
     {
       "title": "A Federal Judge Just Blocked Trump’s Plan to Overhaul the U.S. Forest Service",
       "link": "https://www.outsideonline.com/outdoor-adventure/environment/forest-service-reorganization-blocked/",
@@ -5443,61 +5498,6 @@
       "summary": "Despite disagreeing over when (or if) AI will achieve human-level intelligence, Jacob Aron thoroughly recommends The AGI Chronicles by Kevin Roose, a primer to a fast-moving field",
       "date": "2026-10-07T17:00:00Z",
       "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_314546605.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-07T21:10:52Z"
-    },
-    {
-      "title": "Why gatekeeping is needed in the age of AI",
-      "link": "https://www.newscientist.com/article/2592280-__trashed-141/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Large language models have unleashed a torrent of text – dealing with it won't be easy",
-      "date": "2026-10-07T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_314991680.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-07T21:10:52Z"
-    },
-    {
-      "title": "Have we found the world’s nichest science-themed tourist attraction?",
-      "link": "https://www.newscientist.com/article/2591835-have-we-found-the-worlds-nichest-science-themed-tourist-attraction/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Feedback's long-running quest to discover delightfully obscure science sites may have reached its zenith with the discovery of two excellent museums in Zagreb",
-      "date": "2026-10-07T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315522017.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-07T21:10:52Z"
-    },
-    {
-      "title": "This week’s new questions",
-      "link": "https://www.newscientist.com/article/2591833-this-weeks-new-questions-366/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Why does music evoke emotion, and do people from other cultures feel the same way? Why do we scrunch our faces up when we taste something sour?",
-      "date": "2026-10-07T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_314454213.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-07T21:10:52Z"
-    },
-    {
-      "title": "Do olfactory illusions exist, similar to optical and audio illusions? part 3",
-      "link": "https://www.newscientist.com/article/2591832-do-olfactory-illusions-exist-similar-to-optical-and-audio-illusions-part-3/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "This question was posed as part of New Scientist’s Last Word series, in which readers give scientific answers to each other’s questions. Here’s what our readers had to say",
-      "date": "2026-10-07T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_308732950.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-07T21:10:52Z"
-    },
-    {
-      "title": "What forces act on fluid moving through a pipe to make it spiral?",
-      "link": "https://www.newscientist.com/article/2591831-dont-spirwhat-forces-act-on-fluid-moving-through-a-pipe-to-make-it-spiral/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "This question was posed as part of New Scientist’s Last Word series, in which readers give scientific answers to each other’s questions. Here’s what our readers had to say",
-      "date": "2026-10-07T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_308817437.jpg",
       "name": "New Scientist",
       "category": "insects",
       "color": 12,
