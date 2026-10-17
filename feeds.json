@@ -1,8 +1,19 @@
 {
-  "updated": "2026-10-17T19:12:59Z",
-  "updated_utc": "2026-10-17T19:12:59Z",
+  "updated": "2026-10-17T22:08:30Z",
+  "updated_utc": "2026-10-17T22:08:30Z",
   "count": 500,
   "stories": [
+    {
+      "title": "What a worm's brain can teach us about sex differences in the nervous system",
+      "link": "https://phys.org/news/2026-10-worm-brain-sex-differences-nervous.html",
+      "summary": "Ever wonder what goes on inside the brain of a worm—how it processes information, responds to stimuli and perceives the world around it? Northeastern University researchers have op",
+      "date": "2026-10-17T21:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-open-up-a.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-17T22:08:26Z"
+    },
     {
       "title": "Plover, not a fighter: masked lapwing nesting on Tasmanian cricket ground indifferent as play continues",
       "link": "https://www.theguardian.com/australia-news/2026/oct/18/plover-not-a-fighter-masked-lapwing-nesting-on-tasmanian-cricket-ground-indifferent-as-play-continues",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-10-08T21:57:38Z"
-    },
-    {
-      "title": "Kilauea’s display is revealing why volcanoes spew like a fountain show",
-      "link": "https://www.sciencenews.org/article/kilauea-why-volcanoes-spew-fountains",
-      "summary": "Scientists are using a variety of methods to study why Kilauea has repeatedly spewed lava fountains since late 2024. They may have ruled out one theory.",
-      "date": "Thu, 08 Oct 2026 18Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/100826_CG_lavafountains_social_ae86ac.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-10-08T21:57:39Z"
     }
   ]
 }
