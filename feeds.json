@@ -1,8 +1,19 @@
 {
-  "updated": "2026-10-16T23:24:58Z",
-  "updated_utc": "2026-10-16T23:24:58Z",
+  "updated": "2026-10-17T04:02:22Z",
+  "updated_utc": "2026-10-17T04:02:22Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Scientists uncover mystery of how snail shells coil to the right or to the left",
+      "link": "https://phys.org/news/2026-10-scientists-uncover-mystery-snail-shells.html",
+      "summary": "Scientists have discovered a gene that determines whether Japanese snails develop shells that are left- or right-coiling—with implications for understanding the underlying handedne",
+      "date": "2026-10-16T23:40:10Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sinistral-and-dextral.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-17T04:02:18Z"
+    },
     {
       "title": "Uncovering the secrets of New Zealand’s elusive ‘jungle penguins’",
       "link": "https://www.theguardian.com/world/2026/oct/17/secrets-of-new-zealand-fiordland-crested-penguin-tawaki",
@@ -5487,17 +5498,6 @@
       "summary": "Figure is highest ever recorded for species and confirms one of Indian Ocean’s greatest conservation success stories A landmark survey of the world’s largest free-roaming giant tor",
       "date": "2026-10-08T16:11:53Z",
       "image": "https://i.guim.co.uk/img/media/a80099fae73e5813db79c3007020a3e15cae6582/980_0_5315_4252/master/5315.jpg?width=140&quality=85&auto=format&fit=max&s=de2d56ea83e5c9293862eb4ed1c6ab7a",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-10-08T16:19:48Z"
-    },
-    {
-      "title": "Can hope save the planet? An endangered parrot that is beating the odds can help us find out | Helen Pilcher",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/08/hope-save-planet-endangered-parrot-global-biodiversity-report",
-      "summary": "A new global biodiversity report strikes an encouraging note. But we cannot rest on our laurels – and resilience is key The new Living Planet Report is out . Published every two ye",
-      "date": "2026-10-08T15:05:53Z",
-      "image": "https://i.guim.co.uk/img/media/28e8965b40f0d7633fdef6bbffc65a02a6c78e56/671_24_3644_2915/master/3644.jpg?width=140&quality=85&auto=format&fit=max&s=4e0c58bbb992d5216451ed857c10203b",
       "name": "Guardian",
       "category": "wildlife",
       "color": 5,
