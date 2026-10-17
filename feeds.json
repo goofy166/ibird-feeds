@@ -1,8 +1,41 @@
 {
-  "updated": "2026-10-17T13:34:25Z",
-  "updated_utc": "2026-10-17T13:34:25Z",
+  "updated": "2026-10-17T16:57:24Z",
+  "updated_utc": "2026-10-17T16:57:24Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Florida fisher dragged into water and killed by 12ft alligator",
+      "link": "https://www.theguardian.com/us-news/2026/oct/17/alligator-attack-florida-fisher-killed",
+      "summary": "Steve Hamilton was fishing in Winter Garden when he was attacked by gator, which was later killed A man fishing at a pond in Florida was killed on Friday by an alligator that was a",
+      "date": "2026-10-17T15:23:32Z",
+      "image": "https://i.guim.co.uk/img/media/3ef942dc588dbd5ebfddcd5ae43b4a6ae8884e8d/487_0_3748_3000/master/3748.jpg?width=140&quality=85&auto=format&fit=max&s=77cd8cdedf1a0dabde36d52fa4c50e22",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-17T16:57:09Z"
+    },
+    {
+      "title": "Hand-cranked device tells blood type and red cell levels in 1 minute",
+      "link": "https://phys.org/news/2026-10-cranked-device-blood-red-cell.html",
+      "summary": "When someone is badly injured, doctors urgently need two facts: the patient's blood type, so that a transfusion is safe, and their hematocrit, the share of the blood made up of red",
+      "date": "2026-10-17T16:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hand-cranked-device-te.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-17T16:57:21Z"
+    },
+    {
+      "title": "Australian scavengers don't just eat everything and slink away. They approach a carcass like a buffet",
+      "link": "https://phys.org/news/2026-10-australian-scavengers-dont-approach-carcass.html",
+      "summary": "When scientists talk about scavengers, you might imagine an animal sniffing out or stumbling across a carcass, eating as much as possible and slinking away.",
+      "date": "2026-10-17T15:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scavengers.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-17T16:57:21Z"
+    },
     {
       "title": "Backyard Bird Feeding in Pakistan",
       "link": "https://www.10000birds.com/backyard-bird-feeding-in-pakistan.htm?utm_source=rss&utm_medium=rss&utm_campaign=backyard-bird-feeding-in-pakistan",
@@ -5465,39 +5498,6 @@
       "summary": "Nitrogen is essential for life. It's needed to build proteins, DNA and many other components of cells. Although nitrogen gas makes up almost 80% of Earth's atmosphere, most organis",
       "date": "2026-10-08T21:20:21Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-finds-mechanism.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-08T21:57:43Z"
-    },
-    {
-      "title": "How enzyme activity can accelerate molecular movement inside cells",
-      "link": "https://phys.org/news/2026-10-enzyme-molecular-movement-cells.html",
-      "summary": "A cell sitting in fluid looks like one of the most passive things in biology. Nutrients drift toward it on the aimless currents of molecular motion, and now and then one bumps into",
-      "date": "2026-10-08T21:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-enzymes-stir-the.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-08T21:57:43Z"
-    },
-    {
-      "title": "Tracking down cellular gene functions with AI and microscopy",
-      "link": "https://phys.org/news/2026-10-tracking-cellular-gene-functions-ai.html",
-      "summary": "A new technology promises to enable more comprehensive investigations into how individual genes determine the appearance and behavior of cells. Researchers led by professor Veit Ho",
-      "date": "2026-10-08T20:20:12Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tracking-down-cellular-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-08T21:57:43Z"
-    },
-    {
-      "title": "3D-printed inserts bring single-objective light sheet microscopy to commercial sample chambers",
-      "link": "https://phys.org/news/2026-10-3d-inserts-sheet-microscopy-commercial.html",
-      "summary": "Light sheet microscopy allows biologists to selectively light up a thin slice of a sample. This method can improve image contrast by reducing background light while remaining gentl",
-      "date": "2026-10-08T19:50:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/improved-precision-mic-2.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
