@@ -1,8 +1,41 @@
 {
-  "updated": "2026-10-18T05:40:04Z",
-  "updated_utc": "2026-10-18T05:40:04Z",
+  "updated": "2026-10-18T10:49:07Z",
+  "updated_utc": "2026-10-18T10:49:07Z",
   "count": 500,
   "stories": [
+    {
+      "title": "LISTEN: We Crashed a Steinholding Competition. Here’s What We Learned.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/steinholding-podcast/",
+      "summary": "The latest Long Read on the Outside Podcast takes a deep dive into competitive steinholdilng, the event where athletes raises their glasses of beer and then hold them until their a",
+      "date": "2026-10-18T09:01:45Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2024/12/GettyImages-1297830315.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-10-18T10:48:58Z"
+    },
+    {
+      "title": "This 850-year-old 'firework' supernova is full of mysterious knots",
+      "link": "https://www.livescience.com/space/astronomy/famous-supernova-that-lit-up-skies-in-1181-is-now-full-of-mysterious-knots-space-photo-of-the-week",
+      "summary": "Pa 30, linked to a supernova seen in 1181, reveals chains of tiny gas knots in a new image from the Gemini North telescope in Hawaii.",
+      "date": "2026-10-18T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/agdYAk8Kyoh6m9hyRvcBng-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-10-18T10:49:05Z"
+    },
+    {
+      "title": "Can cuttlefish hypnotize their prey?",
+      "link": "https://www.livescience.com/animals/mollusks/can-cuttlefish-hypnotize-their-prey",
+      "summary": "Cuttlefish use rapid color-change while hunting. The question is, does it actually hypnotize their prey?",
+      "date": "2026-10-18T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/fNV4NUTWQDSyKR29bZ9Dun-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-10-18T10:49:05Z"
+    },
     {
       "title": "What a worm's brain can teach us about sex differences in the nervous system",
       "link": "https://phys.org/news/2026-10-worm-brain-sex-differences-nervous.html",
@@ -5465,39 +5498,6 @@
       "summary": "Researchers found the structure's remains, as well as fragments of statues, while excavating near the Kapersburg fort, an ancient Roman military fortification on the outskirts of m",
       "date": "Thu, 08 Oct 2026 19Z",
       "image": "https://th-thumbnailer.cdn-si-edu.com/54GfdH68Wq7poCAzwc-m7FiTMBc=/420x240/filters:focal(384x219:385x220)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a1/be/a1bec4ea-0428-4b24-bd7e-a84a00f9fe79/dsc_4882.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-08T21:57:38Z"
-    },
-    {
-      "title": "J.M.W. Turner Painted This Breathtaking Roman Landscape Nearly 200 Years Ago. If You Look Closely, You Can Still See His Fingerprints",
-      "link": "https://www.smithsonianmag.com/smart-news/jmw-turner-painted-this-breathtaking-roman-landscape-nearly-200-years-ago-if-you-look-closely-you-can-still-see-his-fingerprints-180989659/",
-      "summary": "The Romantic painter completed \"Rome, From Mount Aventine\" in the 1830s. It became his most expensive artwork in 2014, and it's expected to sell for another record-breaking sum in ",
-      "date": "Thu, 08 Oct 2026 18Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/vNvttU7FeSnTMpqvSG2apob3VwI=/420x240/filters:focal(1024x756:1025x757)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/07/62/07625028-14a0-4437-a78e-d2d14b703eec/turner.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-08T21:57:38Z"
-    },
-    {
-      "title": "Margaret Hamilton, a Pioneering Software Engineer Who Made the First Human Moon Landing Possible, Dies at 90",
-      "link": "https://www.smithsonianmag.com/smart-news/margaret-hamilton-a-pioneering-software-engineer-who-made-the-first-human-moon-landing-possible-dies-at-90-180989653/",
-      "summary": "Hamilton popularized the term \"software engineer\" and created computer programs that could anticipate problems. She received a Presidential Medal of Freedom and was inducted into t",
-      "date": "Thu, 08 Oct 2026 18Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/crxO-MAdMA8_qp7xd8WpcMC3OFE=/420x240/filters:focal(1249x999:1250x1000)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/47/6c/476cf6cb-0e5c-425d-8341-b400a8b8fd1f/margaret_hamilton_in_action.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-08T21:57:38Z"
-    },
-    {
-      "title": "Canadian Poet Anne Carson Brings Ancient Wisdom to Modern Audiences. Now, She's a Nobel Laureate in Literature",
-      "link": "https://www.smithsonianmag.com/smart-news/canadian-poet-anne-carson-brings-ancient-wisdom-to-modern-audiences-now-shes-a-nobel-laureate-in-literature-180989655/",
-      "summary": "The 76-year-old poet, translator and essayist is renowned for her \"bold and inventive\" approach to blending poetry, prose and everything in between, leading to what the Swedish Aca",
-      "date": "Thu, 08 Oct 2026 18Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/3nQWvxe26S_ldExOzsPk53w0SNU=/420x240/filters:focal(3153x1424:3154x1425)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0f/73/0f73ec3d-c197-40ef-87b4-f79a097a5919/gettyimages-2298578783.jpg",
       "name": "Smithsonian",
       "category": "insects",
       "color": 10,
