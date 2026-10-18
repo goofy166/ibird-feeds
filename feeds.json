@@ -1,8 +1,19 @@
 {
-  "updated": "2026-10-18T20:31:50Z",
-  "updated_utc": "2026-10-18T20:31:50Z",
+  "updated": "2026-10-18T22:57:34Z",
+  "updated_utc": "2026-10-18T22:57:34Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Earth's oldest evidence of life is written in stone—but it's at risk of disappearing",
+      "link": "https://phys.org/news/2026-10-earth-oldest-evidence-life-written.html",
+      "summary": "Today, our planet is teeming with life, but it has not always looked the same. Long before forests reached skyward, animals walked on land and dinosaurs rose and fell, our planet w",
+      "date": "2026-10-18T21:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/earths-oldest-evidence-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-18T22:57:31Z"
+    },
     {
       "title": "Spatial genomics tool maps long-range DNA interactions while preserving cells' locations within tissues",
       "link": "https://phys.org/news/2026-10-spatial-genomics-tool-range-dna.html",
@@ -5487,17 +5498,6 @@
       "summary": "Today, my goal is to find 10 species of birds that are brown with an orange chest. I can only think of a couple offhand … Read More \"Brown Birds with an Orange Chest\"",
       "date": "2026-05-10T23:37:10Z",
       "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/05/American-Robin-vs-European-Robin.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-10-09T01:59:43Z"
-    },
-    {
-      "title": "Woodpeckers in Maryland: Top 8 Species with Pictures",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/woodpeckers-in-maryland-top-8-species-with-pictures/",
-      "summary": "There are many species of woodpeckers in the United States. They’re known for their colorful plumage and playful attitude. As the fifth greenest state, Maryland has the … Read More",
-      "date": "2026-05-10T23:34:23Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/05/Hairy-Woodpecker-by-Cephas.jpg",
       "name": "BWatching Daily",
       "category": "birds",
       "color": 0,
