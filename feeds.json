@@ -1,8 +1,41 @@
 {
-  "updated": "2026-10-18T17:58:02Z",
-  "updated_utc": "2026-10-18T17:58:02Z",
+  "updated": "2026-10-18T20:31:50Z",
+  "updated_utc": "2026-10-18T20:31:50Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Spatial genomics tool maps long-range DNA interactions while preserving cells' locations within tissues",
+      "link": "https://phys.org/news/2026-10-spatial-genomics-tool-range-dna.html",
+      "summary": "DNA is not randomly distributed within the nucleus but is packaged with proteins into chromatin, which is precisely folded into complex three-dimensional structures. However, scien",
+      "date": "2026-10-18T20:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spatial-genomics-tool.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-18T20:31:46Z"
+    },
+    {
+      "title": "Dozens of orangutans saved from Indonesia blazes as region grapples with haze",
+      "link": "https://phys.org/news/2026-10-dozens-orangutans-indonesia-blazes-region.html",
+      "summary": "Dozens of critically endangered orangutans have been rescued in recent weeks from rampant wildfires burning across Indonesia that have cloaked the region in toxic haze, conservatio",
+      "date": "2026-10-18T19:19:40Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/conservation-groups-in.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-18T20:31:46Z"
+    },
+    {
+      "title": "Climate change affects the quality of one of the world's most important staple foods",
+      "link": "https://phys.org/news/2026-10-climate-affects-quality-world-important.html",
+      "summary": "Depending on the cultivar, higher concentrations of carbon dioxide (CO₂) in the atmosphere can significantly alter the protein composition of wheat. This affects not only baking qu",
+      "date": "2026-10-18T19:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/various-field-trial-pl.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-18T20:31:46Z"
+    },
     {
       "title": "Genome detectives: Researchers sequence the genome of a harmful plant pathogen",
       "link": "https://phys.org/news/2026-10-genome-sequence-pathogen.html",
@@ -5469,39 +5502,6 @@
       "category": "birds",
       "color": 0,
       "fetched_at": "2026-10-09T01:59:43Z"
-    },
-    {
-      "title": "Number of known species of giant waterlilies almost doubles",
-      "link": "https://www.newscientist.com/article/2592896-the-number-of-known-species-of-giant-waterlilies-just-doubled/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "A new species of giant waterlily identified with the help of social media and satellite photos is just one of three discovered in the past few years",
-      "date": "Thu, 08 Oct 2026 23Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315677397.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-09T02:00:01Z"
-    },
-    {
-      "title": "Study documents beef industry group's early efforts to counter climate concerns",
-      "link": "https://phys.org/news/2026-10-documents-beef-industry-group-early.html",
-      "summary": "A leading U.S. beef industry trade association knew by 1989 that cattle contributed to global warming but focused its response on protecting consumer demand through public relation",
-      "date": "2026-10-09T00:40:11Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cows-in-a-field.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-09T02:00:03Z"
-    },
-    {
-      "title": "Only 9% of major companies use biodiversity indicators, study finds",
-      "link": "https://phys.org/news/2026-10-major-companies-biodiversity-indicators.html",
-      "summary": "Biodiversity indicators can help companies make more sustainable decisions. But only 9% of the world's largest companies in sectors with a major impact on biodiversity use such ind",
-      "date": "2026-10-08T23:40:14Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/only-9-of-major-compan.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-09T02:00:03Z"
     }
   ]
 }
