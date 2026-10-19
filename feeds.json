@@ -1,8 +1,52 @@
 {
-  "updated": "2026-10-19T01:04:31Z",
-  "updated_utc": "2026-10-19T01:04:31Z",
+  "updated": "2026-10-19T07:36:47Z",
+  "updated_utc": "2026-10-19T07:36:47Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Cop17 at a glance: everything you need to know about the UN’s nature summit",
+      "link": "https://www.theguardian.com/environment/2026/oct/19/environment-cop17-un-biodiversity-summit-yerevan-explainer-conservation",
+      "summary": "This month’s biodiversity summit in Yerevan, Armenia, aims to push governments to meet the 23 targets agreed at Cop15 in 2022 This month, nearly every country on Earth will return ",
+      "date": "2026-10-19T04:00:19Z",
+      "image": "https://i.guim.co.uk/img/media/0b9eece6c14f81789039f0678f656cdaeae1a5e0/414_0_4320_3458/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=61539319708a2965dfe052be23e572d7",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-19T07:36:31Z"
+    },
+    {
+      "title": "Six Ways the Charleston Area Brings American History to Life",
+      "link": "https://www.smithsonianmag.com/sponsored/six-ways-the-charleston-area-brings-american-history-to-life-180989607/",
+      "summary": "Three and a half centuries on, the Lowcountry still thrives in its own history",
+      "date": "2026-10-19T04:00:00Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/GrasshopperSpirit.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-10-19T07:36:39Z"
+    },
+    {
+      "title": "Can a Cruise Capture 12,000 Years of Norwegian Heritage? Hurtigruten Certainly Thinks So",
+      "link": "https://www.smithsonianmag.com/sponsored/can-a-cruise-capture-12000-years-of-norwegian-heritage-hurtigruten-certainly-thinks-so-180989573/",
+      "summary": "From Viking routes and fishing villages to Arctic wonders and UNESCO-listed fjords, discover Norway’s living heritage along the coast that connects it all",
+      "date": "2026-10-19T04:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/oCdOLiYI-gt1oylR-GbD-RkHWxY=/420x240/filters:focal(1000x700:1001x701)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cc/e7/cce72c9d-29dc-4f52-b43b-5b8c031a42b1/hero.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-10-19T07:36:39Z"
+    },
+    {
+      "title": "Archaeologists are uncovering the meaning of a unique rock art site",
+      "link": "https://www.newscientist.com/article/2593633-archaeologists-are-uncovering-the-meaning-of-a-unique-rock-art-site/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Excavations in the Côa valley in Portugal, the world’s largest site of Palaeolithic open-air rock art, are yielding clues about how engravings of animals were seen by prehistoric h",
+      "date": "2026-10-19T07:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316309806.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-10-19T07:36:42Z"
+    },
     {
       "title": "New dinosaur species identified from fossil stashed in drawer for a century",
       "link": "https://earthsky.org/earth/new-dinosaur-species-invictibellatrix-amberina/",
@@ -5458,50 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-10-09T08:54:45Z"
-    },
-    {
-      "title": "Dog dies during bear attack on Northern California couple",
-      "link": "https://www.mercurynews.com/2026/09/30/pooch-gives-life-trying-to-save-california-couple-during-bear-attack-3/",
-      "summary": "A French bulldog died during a bear attack on its owners in Northern California this month.",
-      "date": "2026-09-30T15:08:55Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/202609300530MCT_____PHOTO____SPORTS-OTD-CALIF-DOG-BEAR-ATTACK-FILEPIC-DMT_a54d2d.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-10-09T08:54:50Z"
-    },
-    {
-      "title": "Tropical orcas make rare showing off California coast",
-      "link": "https://www.mercurynews.com/2026/09/30/tropical-orcas-make-rare-showing-off-o-c-s-coast/",
-      "summary": "The Eastern Tropical Pacific orcas were spotted about 5 miles off Dana Point, heading north by the afternoon to near Newport Beach.",
-      "date": "2026-09-30T13:54:16Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/16x9_OCR-L-ORCAS-0929-JG-01.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-10-09T08:54:50Z"
-    },
-    {
-      "title": "Mountain lion spotted in area of popular East Bay park",
-      "link": "https://www.mercurynews.com/2026/09/29/martinez-mountain-lion-spotted-area-hidden-lakes-park/",
-      "summary": "Officials said that mountain lions \"typically avoid people.\" No encounters were reported.",
-      "date": "Tue, 29 Sep 2026 21Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2024/09/RDF-L-MOUNTAINCUBS-0721-08TP.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-10-09T08:54:50Z"
-    },
-    {
-      "title": "Hawks in Georgia",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/hawks-in-georgia/",
-      "summary": "Is a goshawk the same as a hawk? What is a Buteo? How many hawks are there in Georgia? Well, in this article we try … Read More \"Hawks in Georgia\"",
-      "date": "2026-05-10T23:40:55Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/07/red-tailed-hawk-by-Susan-Kirby.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-10-09T01:59:43Z"
     }
   ]
 }
