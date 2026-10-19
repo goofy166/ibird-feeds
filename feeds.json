@@ -1,8 +1,19 @@
 {
-  "updated": "2026-10-18T22:57:34Z",
-  "updated_utc": "2026-10-18T22:57:34Z",
+  "updated": "2026-10-19T01:04:31Z",
+  "updated_utc": "2026-10-19T01:04:31Z",
   "count": 500,
   "stories": [
+    {
+      "title": "New dinosaur species identified from fossil stashed in drawer for a century",
+      "link": "https://earthsky.org/earth/new-dinosaur-species-invictibellatrix-amberina/",
+      "summary": "Researchers identified a new dinosaur species from a fossil on Isle of Wight in the UK. The carnivorous dino would have been as tall as a human. The post New dinosaur species ident",
+      "date": "2026-10-19T00:00:00Z",
+      "image": "https://earthsky.org/upl/2026/10/dinosaur-invictibellatrix-amberina-Isle-of-Wight-800x450.png",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-10-19T01:04:17Z"
+    },
     {
       "title": "Earth's oldest evidence of life is written in stone—but it's at risk of disappearing",
       "link": "https://phys.org/news/2026-10-earth-oldest-evidence-life-written.html",
@@ -5487,17 +5498,6 @@
       "summary": "Is a goshawk the same as a hawk? What is a Buteo? How many hawks are there in Georgia? Well, in this article we try … Read More \"Hawks in Georgia\"",
       "date": "2026-05-10T23:40:55Z",
       "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/07/red-tailed-hawk-by-Susan-Kirby.jpg",
-      "name": "BWatching Daily",
-      "category": "birds",
-      "color": 0,
-      "fetched_at": "2026-10-09T01:59:43Z"
-    },
-    {
-      "title": "Brown Birds with an Orange Chest",
-      "link": "https://www.birdwatchingdaily.com/beginners/birding-faq/brown-birds-with-an-orange-chest/",
-      "summary": "Today, my goal is to find 10 species of birds that are brown with an orange chest. I can only think of a couple offhand … Read More \"Brown Birds with an Orange Chest\"",
-      "date": "2026-05-10T23:37:10Z",
-      "image": "https://www.birdwatchingdaily.com/wp-content/uploads/2025/05/American-Robin-vs-European-Robin.jpg",
       "name": "BWatching Daily",
       "category": "birds",
       "color": 0,
