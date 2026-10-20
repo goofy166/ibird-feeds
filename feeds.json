@@ -1,8 +1,52 @@
 {
-  "updated": "2026-10-20T00:13:49Z",
-  "updated_utc": "2026-10-20T00:13:49Z",
+  "updated": "2026-10-20T05:50:34Z",
+  "updated_utc": "2026-10-20T05:50:34Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: A species brought to the edge of extinction, recovering in the fens | Mark Cocker",
+      "link": "https://www.theguardian.com/environment/2026/oct/20/country-diary-a-species-brought-to-the-edge-of-extinction-recovering-in-the-fens",
+      "summary": "Ouse Fen, Cambridgeshire: The great egret’s story is remarkable, as is the conversion of this low-grade agricultural land into one of the richest wetlands in Britain In keeping wit",
+      "date": "2026-10-20T04:30:15Z",
+      "image": "https://i.guim.co.uk/img/media/740ac5e2feaf6d7f8a511e0eb4e424b3468c5862/0_0_3172_2538/master/3172.jpg?width=140&quality=85&auto=format&fit=max&s=e545c3a2b689739839b1276055dcc9b2",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-20T05:50:17Z"
+    },
+    {
+      "title": "Listen for Lanny: can Max Porter’s mythic tale be heard in this woodland?",
+      "link": "https://www.theguardian.com/stage/2026/oct/20/lanny-bristol-old-vic-max-porter-novel",
+      "summary": "Every sun-dappled object is an instrument as composer Dom Coyote and sound designers Elena Peña and Dave Price conjure trip-hop-inspired rhythms in the Mendips for a new stage adap",
+      "date": "2026-10-20T04:00:16Z",
+      "image": "https://i.guim.co.uk/img/media/07888f5cc6264bf835fedcf71f41d951b673a754/0_1386_3024_2419/master/3024.jpg?width=140&quality=85&auto=format&fit=max&s=bb2dbfa30b4d90d26b2650e4739fea98",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-20T05:50:17Z"
+    },
+    {
+      "title": "Juvenile striped bass maintaining average abundance in Virginia waters in 2026",
+      "link": "https://phys.org/news/2026-10-juvenile-striped-bass-average-abundance.html",
+      "summary": "Preliminary results from an ongoing long-term survey conducted by William & Mary's Virginia Institute of Marine Science (VIMS) suggest that an average year class of young-of-year s",
+      "date": "2026-10-20T02:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-person-on-a-beach-ho.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-20T05:50:30Z"
+    },
+    {
+      "title": "Q&A: How does technology help track foodborne pathogens and outbreaks?",
+      "link": "https://phys.org/news/2026-10-qa-technology-track-foodborne-pathogens.html",
+      "summary": "After a cyclospora outbreak and recalls of imported beef over the summer, a recent Gallup poll found that Americans' confidence in food safety has fallen to a record low, and consu",
+      "date": "2026-10-20T01:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bad-lettuce.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-20T05:50:30Z"
+    },
     {
       "title": "Colorado wildlife overpass cut vehicle-animal collisions by 91%, report finds",
       "link": "https://www.theguardian.com/us-news/2026/oct/19/colorado-wildlife-overpass-vehicle-animal-collisions-results",
@@ -5458,50 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-10-10T15:12:10Z"
-    },
-    {
-      "title": "Why some young ants start hunting and caring for others early",
-      "link": "https://phys.org/news/2026-10-young-ants-early.html",
-      "summary": "Some insects, including honeybees and ants, live in highly organized colonies where individuals take on specific roles. In many ant societies, young adult workers typically care fo",
-      "date": "2026-10-10T12:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-some-young-ants-st-3.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-10T15:12:10Z"
-    },
-    {
-      "title": "Photojournalist Steve Winter on his iconic Hollywood puma image, the illegal tiger trade and having a black panther knock on his door",
-      "link": "https://www.livescience.com/animals/cats/photojournalist-steve-winter-on-his-iconic-hollywood-puma-image-the-illegal-tiger-trade-and-having-a-black-panther-knock-on-his-door",
-      "summary": "Live Science spoke with Steve Winter ahead of the release of \"Big Cats.\"",
-      "date": "2026-10-10T11:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/KNAHNBruJVGKsjav7ad6WJ-1920-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-10-10T15:12:11Z"
-    },
-    {
-      "title": "Does written language speed up or slow down cultural change?",
-      "link": "https://www.livescience.com/technology/communications/does-written-language-speed-up-or-slow-down-cultural-change",
-      "summary": "The written word has been revolutionary in preserving ideas from the past, and transmitting new ones in the present. But does it favor tradition or change?",
-      "date": "2026-10-10T09:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZRKAfM4TdkKtdJBHfwJ4v8-1920-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-10-10T15:12:11Z"
-    },
-    {
-      "title": "Country diary: The house martins are gone for another year. But they’re not forgotten | Ed Douglas",
-      "link": "https://www.theguardian.com/environment/2026/oct/10/country-diary-the-house-martins-are-gone-but-not-forgotten",
-      "summary": "Lockerbrook, Derbyshire: Last week they were here, now they are not. Yet the details of their epic migration are still a mystery to us The sudden absence of something, even though ",
-      "date": "2026-10-10T04:30:47Z",
-      "image": "https://i.guim.co.uk/img/media/2b7356aed6a99dfdf03f1c66d448230ac46fb0fd/532_0_4264_3412/master/4264.jpg?width=140&quality=85&auto=format&fit=max&s=11749f0705024bd29440bd21038ad4a5",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-10-10T08:21:24Z"
     }
   ]
 }
