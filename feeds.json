@@ -1,8 +1,129 @@
 {
-  "updated": "2026-10-19T20:58:18Z",
-  "updated_utc": "2026-10-19T20:58:18Z",
+  "updated": "2026-10-20T00:13:49Z",
+  "updated_utc": "2026-10-20T00:13:49Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Colorado wildlife overpass cut vehicle-animal collisions by 91%, report finds",
+      "link": "https://www.theguardian.com/us-news/2026/oct/19/colorado-wildlife-overpass-vehicle-animal-collisions-results",
+      "summary": "Elk, bear, frogs and other animals have used the overpass, which connects 39,000 acres of habitat, since its completion Colorado officials have tracked herds of elk, bears, prongho",
+      "date": "2026-10-19T23:17:12Z",
+      "image": "https://i.guim.co.uk/img/media/6a09d5fe50e74a79fedffca92af0aef093ad149e/457_0_4550_3640/master/4550.jpg?width=140&quality=85&auto=format&fit=max&s=98028be4cf0410d30a3b066f3ad770e7",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-20T00:13:33Z"
+    },
+    {
+      "title": "The 10 Best Marathon Running Shoes of Fall 2026",
+      "link": "https://www.outsideonline.com/outdoor-gear/run/best-marathon-racing-shoes/",
+      "summary": "Our testers trained and raced hundreds of miles in dozens of running shoes to find the best picks for your fall marathon. The post The 10 Best Marathon Running Shoes of Fall 2026 a",
+      "date": "2026-10-19T22:00:59Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/marathon-shoes-scaled.jpeg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-10-20T00:13:39Z"
+    },
+    {
+      "title": "14 Bears Were Euthanized at One Montana Home. Wildlife Experts Explain What Went Wrong.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/montana-black-bears-euthanized/",
+      "summary": "Montana wildlife officials euthanized 14 black bears in Bozeman after illegal feeding caused severe habituation, leaving biologists with no safe relocation options. The post 14 Bea",
+      "date": "2026-10-19T21:58:33Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/bear1_1024.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-10-20T00:13:39Z"
+    },
+    {
+      "title": "The Burning of This French City Hall Was a 'Catastrophe for Heritage,' Tragically Reminiscent of the Notre-Dame Fire",
+      "link": "https://www.smithsonianmag.com/smart-news/the-burning-of-this-french-city-hall-was-a-catastrophe-for-heritage-tragically-reminiscent-of-the-notre-dame-fire-180989711/",
+      "summary": "French authorities say that the Limoges city hall, built in the late 19th century and celebrated as an architectural gem, was the victim of an arson attack amid mass protests in Fr",
+      "date": "2026-10-19T21:13:51Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/kej0dQt9TIDHsGfLEc02mSpjKLs=/420x240/filters:focal(3787x2524:3788x2525)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/df/bb/dfbb0196-7dad-4765-9a5e-3985b8d720ea/gettyimages-2300183301.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-10-20T00:13:40Z"
+    },
+    {
+      "title": "New 4D biofabrication technology holds promise for tissue engineering, wound healing",
+      "link": "https://phys.org/news/2026-10-4d-biofabrication-technology-tissue-wound.html",
+      "summary": "If you've ever created a snowflake by folding, cutting and unfolding a piece of paper, you've practiced the art of kirigami. Like origami, kirigami has inspired innovations far bey",
+      "date": "2026-10-19T23:40:12Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-4d-biofabrication.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-20T00:13:45Z"
+    },
+    {
+      "title": "Molecular switch controls how cells load cargo for recycling",
+      "link": "https://phys.org/news/2026-10-molecular-cells-cargo-recycling.html",
+      "summary": "Cells constantly recycle proteins and other cellular components. But how do they ensure that the right cargo ends up in the right recycling vesicle—one of the cell's transport carr",
+      "date": "2026-10-19T23:40:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cellular-recycling-a-m.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-20T00:13:45Z"
+    },
+    {
+      "title": "Researchers unlock new way to map molecular structure on surfaces",
+      "link": "https://phys.org/news/2026-10-molecular-surfaces.html",
+      "summary": "Scientists at NPL, with the University of Surrey, University of Oxford, the Francis Crick Institute and IONTOF GmbH, have developed a technique to distinguish and map molecules tha",
+      "date": "2026-10-19T22:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-unlock-new-7.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-20T00:13:45Z"
+    },
+    {
+      "title": "Beehives act as 'living immune systems' with layered antimicrobial defenses",
+      "link": "https://phys.org/news/2026-10-beehives-immune-layered-antimicrobial-defenses.html",
+      "summary": "Researchers have discovered honey beehives act as \"living immune systems\" that help protect the bee colony, its offspring and food supplies from disease. The finding underlines the",
+      "date": "2026-10-19T22:00:11Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bee-hives-found-to-be.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-20T00:13:45Z"
+    },
+    {
+      "title": "Birds are among Earth's most important nutrient movers",
+      "link": "https://phys.org/news/2026-10-birds-earth-important-nutrient-movers.html",
+      "summary": "Birds play an outsized, underappreciated role in shaping Earth's chemistry, distributing nutrients across oceans, forests and coral reefs and sustaining life far beyond the nest. R",
+      "date": "2026-10-19T22:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/red-faced-cormorant.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-20T00:13:45Z"
+    },
+    {
+      "title": "New wheat disease detection tool established in Tanzania",
+      "link": "https://phys.org/news/2026-10-wheat-disease-tool-tanzania.html",
+      "summary": "John Innes Centre researchers have trained scientists from across Tanzania to use new loop-mediated isothermal amplification (LAMP) assays to rapidly detect wheat blast, a looming ",
+      "date": "2026-10-19T21:00:13Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-wheat-disease-dete.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-20T00:13:45Z"
+    },
+    {
+      "title": "How enzymes locally block cell wall repair, allowing cells to fuse in an irreversible manner",
+      "link": "https://phys.org/news/2026-10-enzymes-locally-block-cell-wall.html",
+      "summary": "The fusion of two cells is a decisive event in the sexual reproduction of many organisms. In fungi, cells must not only bring their membranes together and merge them, but also loca",
+      "date": "2026-10-19T21:00:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/to-fuse-cells-block-th.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-20T00:13:45Z"
+    },
     {
       "title": "‘Crucial opportunity to act’ as study finds most of Europe’s wild bee species in decline",
       "link": "https://www.theguardian.com/environment/2026/oct/19/study-europe-wild-bee-species-decline-",
@@ -5381,127 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-10-10T08:21:24Z"
-    },
-    {
-      "title": "The Best Evergreen Trees to Grow in Shade",
-      "link": "https://www.birdsandblooms.com/gardening/growing-trees-shrubs-grasses/best-evergreen-trees-shade/",
-      "summary": "Add evergreen trees to your yard, even if you don't get a ton of sun! Find the best evergreens for shady yards, including deer-resistant options. The post The Best Evergreen Trees ",
-      "date": "Thu, 01 Oct 2026 15Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/09/PW_polar_gold_arborvitae_3-e1790195340942.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-10-10T01:38:08Z"
-    },
-    {
-      "title": "Why Are Male Birds More Colorful Than Females?",
-      "link": "https://www.birdsandblooms.com/birding/birding-basics/why-male-birds-more-colorful/",
-      "summary": "What makes male bird feathers bright and colorful, and female bird plumage more muted? We chatted with an expert to find out. The post Why Are Male Birds More Colorful Than Females",
-      "date": "Thu, 01 Oct 2026 14Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/09/252906792_1_Joe_Palumbo_BNB_BYPC2020-e1790281608952.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-10-10T01:38:08Z"
-    },
-    {
-      "title": "The Expedition Cruise Line That Takes Guests Way Beyond the Viewing Deck",
-      "link": "https://www.outsideonline.com/adventure-travel/the-expedition-cruise-line-that-takes-guests-way-beyond-the-viewing-deck/",
-      "summary": "With immersive trip itineraries in Alaska and beyond, UnCruise Adventures is a gateway to wild, remote places The post The Expedition Cruise Line That Takes Guests Way Beyond the V",
-      "date": "2026-10-09T22:27:07Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/09/GlacierBayAdventure_Header.jpeg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-10-10T01:38:17Z"
-    },
-    {
-      "title": "Which Houseplant Are You, Based on Your Zodiac Sign?",
-      "link": "https://www.birdsandblooms.com/gardening/small-space-gardening/houseplant-zodiac-sign/",
-      "summary": "Confused about which houseplant should you grow? Look to the stars! We matched up houseplants with every zodiac sign's personality. The post Which Houseplant Are You, Based on Your",
-      "date": "2026-10-09T19:00:27Z",
-      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/10/GettyImages-2242965967-e1791560974965.jpg?fit=700,700",
-      "name": "Birds & Blooms",
-      "category": "birds",
-      "color": 2,
-      "fetched_at": "2026-10-09T21:33:06Z"
-    },
-    {
-      "title": "Watch Five Adorable Newborn Cheetah Cubs Grow on a Livestream From the Smithsonian's Conservation Biology Institute",
-      "link": "https://www.smithsonianmag.com/smart-news/watch-five-adorable-newborn-cheetah-cubs-grow-on-a-livestream-from-the-smithsonians-conservation-biology-institute-180989669/",
-      "summary": "The healthy and active babies are being cared for by first-time mother Zura, and the public can keep up with their antics through an online cheetah cub cam",
-      "date": "2026-10-09T21:05:40Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/wiQphM974DHMfqfIxqbigNIrpQI=/420x240/filters:focal(1249x730:1250x731)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0e/75/0e759221-7bae-4759-ae5c-ea84bbb4b9d5/screenshot_2026-10-09_at_33437pm.png",
-      "name": "Smithsonian",
-      "category": "butterflies",
-      "color": 10,
-      "fetched_at": "2026-10-09T21:33:17Z"
-    },
-    {
-      "title": "A Digital Swamp Coming to New York City’s MoMA Is 'Made to Envelop You' in Nature With the Help of Cutting-Edge Technology",
-      "link": "https://www.smithsonianmag.com/smart-news/a-digital-swamp-coming-to-new-york-citys-moma-is-made-to-envelop-you-in-nature-with-the-help-of-cutting-edge-technology-180989652/",
-      "summary": "\"Wetland\" is the latest installation of a high-tech traveling exhibition designed by Danish artist Jakob Kudsk Steensen. It recreates the overlooked ecosystem with the help of folk",
-      "date": "2026-10-09T20:39:30Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/zWDxOO4Jj5co5A453I6CyjmGRR4=/420x240/filters:focal(850x526:851x527)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a3/8d/a38dd753-9c7e-4e71-b9ee-883308dc5d69/highresscreenshot00111_webpage-image.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-09T21:33:17Z"
-    },
-    {
-      "title": "Raised in Apartheid South Africa, 2026 Nobel Peace Prize Winner Navi Pillay Is One of the World’s Leading Human Rights Jurists",
-      "link": "https://www.smithsonianmag.com/smart-news/raised-in-apartheid-south-africa-2026-nobel-peace-prize-winner-navi-pillay-is-one-of-the-worlds-leading-human-rights-jurists-180989667/",
-      "summary": "When Pillay learned she had won the award, she was in the same courtroom where the Nuremberg Trials held Nazi war criminals to account. Her legal career has been dedicated to fight",
-      "date": "2026-10-09T18:53:42Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/yJmiodAcLIA2AF5AIzILVcMjww8=/420x240/filters:focal(2529x1686:2530x1687)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/dd/6f/dd6f5dc1-1cfb-4de1-ac62-ea52fffeaaf4/gettyimages-2298735670.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-09T21:33:17Z"
-    },
-    {
-      "title": "Could This Dutch Invention Help Tackle Plastic Pollution in America's Waterways?",
-      "link": "https://www.smithsonianmag.com/innovation/could-this-dutch-invention-help-tackle-plastic-pollution-in-americas-waterways-180989651/",
-      "summary": "The Netherlands has had success with the Bubble Barrier, which pumps air bubbles from the bottom of a canal or river to direct plastic to the surface. Now, Lansing, Michigan, is lo",
-      "date": "2026-10-09T17:49:27Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/Q0s3YPFYQcMHcKFFtwCnMZPgkFs=/420x240/filters:focal(1000x571:1001x572)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5a/2d/5a2d2d01-d4ad-4e91-b743-52bae6648a07/boat_crossing_bubble_barrier_-_credits_the_great_bubble_barrier.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-09T21:33:17Z"
-    },
-    {
-      "title": "Scientists Took a Cheek Swab From the World's Oldest Tortoise. His DNA Could Reveal Hints to Longevity",
-      "link": "https://www.smithsonianmag.com/smart-news/scientists-took-a-cheek-swab-from-the-worlds-oldest-tortoise-his-dna-could-reveal-hints-to-longevity-180989663/",
-      "summary": "Jonathan, an Aldabra giant tortoise, is about 194 years old and the oldest land animal alive today. Discoveries about his genetics could provide clues to extending lifespan in huma",
-      "date": "2026-10-09T17:28:10Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/WuqNR-4IIzd9LcRRF5wGfTJlA-A=/420x240/filters:focal(2016x1517:2017x1518)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a7/7b/a77be531-cb07-4a9e-a6dc-155b6c26f63d/saint-helena-plantation-house-jonathan-the-tortoise-by-kevin-gepford-02.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-09T21:33:17Z"
-    },
-    {
-      "title": "Two large asteroids found spinning as fast as a fairground ride",
-      "link": "https://www.newscientist.com/article/2593044-two-large-asteroids-found-spinning-as-fast-as-fairground-ride/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Rocks in the asteroid belt rotating at ultra-fast speeds suggest our understanding of asteroid structure might be wrong",
-      "date": "2026-10-09T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315887083.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-09T21:33:20Z"
-    },
-    {
-      "title": "Does each new covid-19 variant pose a significant threat?",
-      "link": "https://www.newscientist.com/article/2593098-does-each-new-covid-19-variant-pose-a-significant-threat/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Most covid-19 cases are caused by a particular type of variant, but do we need to worry every time a new one emerges?",
-      "date": "2026-10-09T16:39:31Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315912545.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-09T21:33:20Z"
     }
   ]
 }
