@@ -1,8 +1,129 @@
 {
-  "updated": "2026-10-21T04:22:09Z",
-  "updated_utc": "2026-10-21T04:22:09Z",
+  "updated": "2026-10-21T09:58:46Z",
+  "updated_utc": "2026-10-21T09:58:46Z",
   "count": 500,
   "stories": [
+    {
+      "title": "If You See Brown Spots on Your Hydrangea Leaves, This Is Why",
+      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/brown-spots-hydrangea-leaves/",
+      "summary": "Seeing spots on your hydrangea leaves ? A horticulture expert explains what might be affecting your plants, and what you can do to help. The post If You See Brown Spots on Your Hyd",
+      "date": "2026-10-12T19:44:43Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/10/GettyImages-2238698217-scaled-e1791566305909.jpg?fit=700,705",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-10-21T09:58:26Z"
+    },
+    {
+      "title": "Should You Rake Leaves in Spring Instead of Fall?",
+      "link": "https://www.birdsandblooms.com/gardening/gardening-basics/when-rake-leaves/",
+      "summary": "When's the best time to rake those fallen leaves in your yard... and should you be raking them at all? Here's what a horticultural expert says. The post Should You Rake Leaves in S",
+      "date": "2026-10-12T19:18:46Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/10/GettyImages-2153465684-scaled-e1791564724688.jpg?fit=700,701",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-10-21T09:58:26Z"
+    },
+    {
+      "title": "Country diary: What a privilege it is to witness bird migration on such a scale | Country diary",
+      "link": "https://www.theguardian.com/environment/2026/oct/21/country-diary-what-a-privilege-it-is-to-witness-bird-migration-on-such-a-scale",
+      "summary": "Poole, Dorset: At this time of year, migrants are constantly on the move here, whether leaving, arriving or just stopping to refuel With the sadness of our summer migrants departin",
+      "date": "2026-10-21T04:30:05Z",
+      "image": "https://i.guim.co.uk/img/media/adeaa707fb6d20d6f45f3fa8135e0966ac2bf0a4/288_0_2422_1938/master/2422.jpg?width=140&quality=85&auto=format&fit=max&s=d15def7c4cf6cd507a5c5b9f5ad4a6f0",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-21T09:58:30Z"
+    },
+    {
+      "title": "7 Lessons Running Taught Me About Life",
+      "link": "https://www.outsideonline.com/health/wellness/life-lessons-from-running/",
+      "summary": "Running doesn’t always make sense. Life doesn’t either. But follow these rules, and I promise you’ll get better at both. The post 7 Lessons Running Taught Me About Life appeared fi",
+      "date": "2026-10-21T09:03:04Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/woman-running-on-road-final-nordic-filter.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-10-21T09:58:36Z"
+    },
+    {
+      "title": "What It’s Actually Like to Live in an Abandoned California Ghost Town",
+      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/cerro-gordo-ghost-town-california-rebuilding/",
+      "summary": "What started as a pandemic escape to an abandoned silver mine turned into a multi-year project of survival, devastating fires, and rebuilding a life at 8,200 feet. The post What It",
+      "date": "2026-10-21T09:01:15Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/brent.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-10-21T09:58:36Z"
+    },
+    {
+      "title": "UN says 1.5°C is over and world is on track for 2.8°C of global warming",
+      "link": "https://www.newscientist.com/article/2594831-un-says-1-5c-is-over-and-world-is-on-track-for-2-8c-of-global-warming/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "The best-case scenario now is that the planet will only temporarily breach 1.5°C of warming, but current climate pledges fall way short of that hope",
+      "date": "2026-10-21T05:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317441814.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-10-21T09:58:40Z"
+    },
+    {
+      "title": "South Korea launches new bid to guide crowd-pulling shark to sea",
+      "link": "https://phys.org/news/2026-10-south-korea-crowd-shark-sea.html",
+      "summary": "South Korean authorities began a new attempt Wednesday to coax a shark-turned-viral sensation back to sea, with falling temperatures in the Busan canal where it is stranded raising",
+      "date": "2026-10-21T09:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/visitors-watch-a-35-me.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-21T09:58:42Z"
+    },
+    {
+      "title": "Prized wild pepper at risk in Madagascar's shrinking forests",
+      "link": "https://phys.org/news/2026-10-prized-wild-pepper-madagascar-forests.html",
+      "summary": "A rare wild pepper endemic to Madagascar and prized by international chefs is facing an uncertain future, a victim of its own success and the destruction of its forest habitat.",
+      "date": "2026-10-21T09:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/madagascars-voatsiperi.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-21T09:58:42Z"
+    },
+    {
+      "title": "More current with less calcium: Computational models help solve longstanding ion channel evolution mystery",
+      "link": "https://phys.org/news/2026-10-current-calcium-longstanding-ion-channel.html",
+      "summary": "In the early 1980s, scientists observed an anomaly. Embedded within cell membranes, they identified ion channels with extraordinarily high conductance. These so-called \"BK\" (Big K,",
+      "date": "2026-10-21T09:00:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/more-current-with-less-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-21T09:58:42Z"
+    },
+    {
+      "title": "Transparent minispheres reveal that some look-alike cancer drugs part ways in 3D",
+      "link": "https://phys.org/news/2026-10-transparent-minispheres-reveal-alike-cancer.html",
+      "summary": "Researchers at Uppsala University have adapted Cell Painting, a widely used imaging method in drug discovery, to look at individual cells inside small 3D clusters of cancer cells. ",
+      "date": "2026-10-21T09:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/transparent-minisphere.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-21T09:58:42Z"
+    },
+    {
+      "title": "Targeting a particular gene may improve tea plants' flavor and cold tolerance",
+      "link": "https://phys.org/news/2026-10-gene-tea-flavor-cold-tolerance.html",
+      "summary": "Research in New Phytologist reveals a gene that regulates tea plants' flavor and cold tolerance, providing insights on how to expand the potential for better-tasting tea to be grow",
+      "date": "2026-10-21T07:10:15Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tea-plant.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-21T09:58:42Z"
+    },
     {
       "title": "White Oak vs Red Oak Tree: What’s the Difference?",
       "link": "https://www.birdsandblooms.com/gardening/growing-trees-shrubs-grasses/white-oak-vs-red-oak-tree/",
@@ -5381,127 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-10-13T17:30:14Z"
-    },
-    {
-      "title": "How much training is too much for a racehorse? New bone research has some answers",
-      "link": "https://phys.org/news/2026-10-racehorse-bone.html",
-      "summary": "The old \"more is better\" mindset in racehorse training is changing. And with no link identified between higher racehorse training workloads and a trainer's success, there's a big o",
-      "date": "2026-10-13T15:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/racehorses.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-13T17:30:14Z"
-    },
-    {
-      "title": "Random mutations turn RNA droplets into cell-like structures that move and store cargo",
-      "link": "https://phys.org/news/2026-10-random-mutations-rna-droplets-cell.html",
-      "summary": "A small number of random genetic mutations cause simple RNA droplets to transform into cell-like structures. In this process, they form cavities, can move and are able to take up c",
-      "date": "2026-10-13T14:00:21Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/random-mutations-turn-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-13T17:30:14Z"
-    },
-    {
-      "title": "Increasing woody vegetation may boost populations of Georgia's gamebird",
-      "link": "https://phys.org/news/2026-10-woody-vegetation-boost-populations-georgia.html",
-      "summary": "Georgia has been a destination for quail hunters for more than a century. But recent declines in its bobwhite population have researchers searching for answers to boost the popular",
-      "date": "2026-10-13T13:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/increasing-woody-veget.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-13T17:30:14Z"
-    },
-    {
-      "title": "Illegal fungus release reveals tangled history of Australia's decadeslong battle with blackberry",
-      "link": "https://phys.org/news/2026-10-illegal-fungus-reveals-tangled-history.html",
-      "summary": "Over the summer of 1983–84, a fungus called Phragmidium violaceum was introduced to Australia. It was done secretly, deliberately and illegally. And it was done for one purpose: to",
-      "date": "2026-10-13T13:20:17Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/over-40-years-ago-a-my.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-13T17:30:14Z"
-    },
-    {
-      "title": "How cells make their command center accessible",
-      "link": "https://phys.org/news/2026-10-cells-center-accessible.html",
-      "summary": "The cells of higher organisms such as mammals, flies and fungi enclose their genetic material in a nucleus. A nuclear envelope, consisting of two stacked membranes, protects it. Fo",
-      "date": "2026-10-13T13:20:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-work-of-art.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-13T17:30:14Z"
-    },
-    {
-      "title": "Flu season is kicking off early — are you getting a vaccine?",
-      "link": "https://www.livescience.com/health/flu/flu-season-is-kicking-off-early-are-you-getting-a-vaccine",
-      "summary": "New data reveals that flu season is off to an early start in several Western states. Live Science wants to know if you have already gotten the flu vaccine or plan to do so this yea",
-      "date": "Tue, 13 Oct 2026 16Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZaD6PymBBzYaaZPqMBMugW-1920-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-10-13T17:30:15Z"
-    },
-    {
-      "title": "Multicolored 'mosaic' of mini farms surrounds Taiwan's largest river — Earth from space",
-      "link": "https://www.livescience.com/planet-earth/multicolored-mosaic-of-mini-farms-surrounds-taiwans-largest-river-earth-from-space",
-      "summary": "A recent satellite photo shows a patchwork of tens of thousands of size-restricted farms tightly crammed into Taiwan's Yunlin County, which grows a majority of the island's food.",
-      "date": "Tue, 13 Oct 2026 10Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/M3Sb6w8ahPieE2gyxyxUmh-1920-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-10-13T17:30:15Z"
-    },
-    {
-      "title": "Extreme Birdwatching: A KidLit Bird Book Review",
-      "link": "https://www.10000birds.com/extreme-birdwatching-a-kidlit-bird-book-review.htm?utm_source=rss&utm_medium=rss&utm_campaign=extreme-birdwatching-a-kidlit-bird-book-review",
-      "summary": "What’s extreme birdwatching? How about getting to know every single one of hundreds of individual birds! Author Loree Griffin Burns tells the story of scientists Rosemary and Peter",
-      "date": "Tue, 13 Oct 2026 05Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-10.29.32-PM.png",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-10-13T09:14:33Z"
-    },
-    {
-      "title": "Trill seekers: can scientists use AI and tutors to help birds remember lost songs?",
-      "link": "https://www.theguardian.com/environment/2026/oct/13/ornithology-trill-why-birds-sing-birdsong-dialects-tutors-ai-aoe",
-      "summary": "When populations fall, fledglings can struggle to learn the right notes to attract mates. But research on how birds communicate offers hope for species’ survival Listening to birds",
-      "date": "2026-10-13T09:00:19Z",
-      "image": "https://i.guim.co.uk/img/media/4e1bc462771d3504453cdb7719b53ba105bd9258/569_253_2382_1907/master/2382.jpg?width=140&quality=85&auto=format&fit=max&s=cfe82e9bbb55ae0cd6da24ce3553df47",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-10-13T09:14:37Z"
-    },
-    {
-      "title": "The pest I’ll never forget: the relentless pigeon who stared and stared and ruined my spring",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/oct/13/the-pest-ill-never-forget-relentless-pigeon-stared-stared-ruined-my-spring",
-      "summary": "A living room encounter with a toast-loving pigeon proved a big mistake. It led to weeks of drawn curtains and crawling around on the floor to avoid its eerie and unerring gaze The",
-      "date": "2026-10-13T06:00:18Z",
-      "image": "https://i.guim.co.uk/img/media/1fa3772c1a85ac51cc6f6dffab01525ffea2b0a5/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=039576d6aa3a8c6ddc796341bcf938cd",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-10-13T09:14:37Z"
-    },
-    {
-      "title": "Country diary: The story of birds starts with their feathers",
-      "link": "https://www.theguardian.com/environment/2026/oct/13/country-diary-the-story-of-birds-starts-with-their-feathers",
-      "summary": "River Lagan, Belfast: Right now you can see winter in the black-headed gull plumage, and spring in the mallards’. Yet feathers are also vital to how birds even came to exist On my ",
-      "date": "2026-10-13T04:30:14Z",
-      "image": "https://i.guim.co.uk/img/media/8572271edcaab24f1000286d844c674e5438f392/126_0_3779_3024/master/3779.jpg?width=140&quality=85&auto=format&fit=max&s=a157a554b390c110d22e996eedacb97b",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-10-13T09:14:37Z"
     }
   ]
 }
