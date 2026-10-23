@@ -1,8 +1,85 @@
 {
-  "updated": "2026-10-22T23:10:04Z",
-  "updated_utc": "2026-10-22T23:10:04Z",
+  "updated": "2026-10-23T04:25:25Z",
+  "updated_utc": "2026-10-23T04:25:25Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Sun news: Geomagnetic storm arrived last night",
+      "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+      "summary": "Sun news October 22, 2026: The G1 storm arrived a day late! Did you catch the auroras? A second coronal hole’s fast wind is due October 24. The post Sun news: Geomagnetic storm arr",
+      "date": "Thu, 22 Oct 2026 11Z",
+      "image": "https://earthsky.org/upl/2026/10/Oct-21-26-Aurora-oval.-ezgif.com-video-to-webp-converter.webp",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-10-23T04:25:09Z"
+    },
+    {
+      "title": "So Long, and Thanks for All the Fish",
+      "link": "https://hakaimagazine.com/article-short/so-long-and-thanks-for-all-the-fish/",
+      "summary": "We started Hakai Magazine over 10 years ago because the ocean and its coastlines needed a voice. No other outlet was exclusively covering issues at the interface of sea and land—or",
+      "date": "2024-12-27T08:05:43Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-so-long-and-thanks-for-all-the-fish.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-10-23T04:25:10Z"
+    },
+    {
+      "title": "The First First Responders",
+      "link": "https://hakaimagazine.com/features/the-first-first-responders/",
+      "summary": "When a ship wrecks on an unfamiliar coastline, an already desperate situation is all the more dire. Blinded by the night, and lost, the captain and crew of the Puritan, a four-mast",
+      "date": "Tue, 24 Dec 2024 08Z",
+      "image": "https://hakaimagazine.com/wp-content/uploads/header-first-first-responder.jpg",
+      "name": "Hakai",
+      "category": "wildlife",
+      "color": 7,
+      "fetched_at": "2026-10-23T04:25:10Z"
+    },
+    {
+      "title": "California considers lifting ban on hunting bobcats",
+      "link": "https://www.mercurynews.com/2026/10/05/california-ban-hunting-bobcats/",
+      "summary": "The state Department of Fish and Wildlife is asking for public comment on a proposed conservation and management plan that would allow a resumption of bobcat hunting and trapping t",
+      "date": "2026-10-05T18:32:55Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2022/07/SJM-L-SPLASHES-0717-6.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-10-23T04:25:12Z"
+    },
+    {
+      "title": "Mother bats' hearts beat faster at the sound of their own babies' cries",
+      "link": "https://phys.org/news/2026-10-mother-hearts-faster-babies-cries.html",
+      "summary": "A mother bat has one crucial challenge: find her own babies among hundreds of other bats in the colony. Making sure she cares for and nurses only her own offspring is important to ",
+      "date": "2026-10-23T04:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mother-bats.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-10-23T04:25:21Z"
+    },
+    {
+      "title": "Researchers develop AI tool to map microRNA binding sites on circular RNAs",
+      "link": "https://phys.org/news/2026-10-ai-tool-microrna-sites-circular.html",
+      "summary": "Circular RNAs (circRNAs) are loop-shaped molecules that can influence gene regulation through interactions with microRNAs (miRNAs). This matters because circRNAs can exist as diffe",
+      "date": "2026-10-23T00:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pusan-national-univers-18.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-23T04:25:21Z"
+    },
+    {
+      "title": "With climate-resilient crops in mind, study tackles flaw in photosynthesis",
+      "link": "https://phys.org/news/2026-10-climate-resilient-crops-mind-tackles.html",
+      "summary": "Rising temperatures and increasing drought are shortening crop-growing seasons in many parts of the world. Now scientists in Sweden report new advances toward engineering more effi",
+      "date": "2026-10-22T23:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/with-climate-resilient-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-23T04:25:21Z"
+    },
     {
       "title": "How, Exactly, Could Deep-Sea Mining Benefit All of Humanity?",
       "link": "https://hakaimagazine.com/news/how-exactly-could-deep-sea-mining-benefit-all-of-humanity/",
@@ -5425,83 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-10-15T18:10:21Z"
-    },
-    {
-      "title": "In Search of the American Wigeon",
-      "link": "https://www.10000birds.com/in-search-of-the-american-wigeon.htm?utm_source=rss&utm_medium=rss&utm_campaign=in-search-of-the-american-wigeon",
-      "summary": "The American Wigeon (Mareca americana) is one of North America’s most distinctive dabbling ducks and one of my favorites. Whether you’re a birder scanning a quiet marsh or a wildli",
-      "date": "Thu, 15 Oct 2026 11Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/10/American-Wigeons-sm-shr-10k-b.JPG.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-10-15T13:17:14Z"
-    },
-    {
-      "title": "Demotivational Posters for Birds (LII)",
-      "link": "https://www.10000birds.com/demotivational-posters-for-birds-lii.htm?utm_source=rss&utm_medium=rss&utm_campaign=demotivational-posters-for-birds-lii",
-      "summary": "We asked four birds what motivates them. They should have been more careful.",
-      "date": "Thu, 15 Oct 2026 11Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/08/Picture5.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-10-15T13:17:14Z"
-    },
-    {
-      "title": "Birds That Definitely Listen To Punk Music",
-      "link": "https://www.10000birds.com/birds-that-definitely-listen-to-punk-music.htm?utm_source=rss&utm_medium=rss&utm_campaign=birds-that-definitely-listen-to-punk-music",
-      "summary": "Punk has never been primarily about musical ability. Neither has being a bird. Some species, however, are more qualified than others. Hoatzin: I was thinking of leaving this one ou",
-      "date": "Thu, 15 Oct 2026 11Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/08/Chinese-Pond-Heron_DSC5155_Nanhui-May-01-2019.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-10-15T13:17:14Z"
-    },
-    {
-      "title": "Kiwibit Smart Birdfeeder is Brilliant",
-      "link": "https://www.10000birds.com/kiwibit-smart-birdfeeder-is-brilliant.htm?utm_source=rss&utm_medium=rss&utm_campaign=kiwibit-smart-birdfeeder-is-brilliant",
-      "summary": "There are a lot of smart bird feeders out there in the market and while I have been intrigued by the idea of them, I often wondered if they are really worth it. When I got the chan",
-      "date": "Thu, 15 Oct 2026 10Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/10/IMG_3338-scaled.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-10-15T13:17:14Z"
-    },
-    {
-      "title": "‘Like selling wolves from Yellowstone’: how protected US sharks are being sold off to foreign aquariums",
-      "link": "https://www.theguardian.com/environment/2026/oct/15/conservation-aquariums-endangered-sharks-protected-waters-delaware-bay-us-sand-tiger-sharks",
-      "summary": "While anglers cannot take endangered sand tiger sharks, a loophole lets private firms catch the fish to sell abroad, profiting from Delaware Bay’s conservation success Shortly afte",
-      "date": "2026-10-15T09:00:14Z",
-      "image": "https://i.guim.co.uk/img/media/59bed300ee04ff5471e838c9e51271cb36e08e85/181_0_5010_4008/master/5010.jpg?width=140&quality=85&auto=format&fit=max&s=7cc15723849af8c44ca28cf5e583468b",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-10-15T13:17:19Z"
-    },
-    {
-      "title": "Planetary systems fall into 2 distinct families, astronomers say",
-      "link": "https://earthsky.org/space/planetary-systems-2-distinct-families/",
-      "summary": "Astronomers studying planetary systems in the Milky Way have found they can be sorted into 2 families. These families are largely determined by the host star. The post Planetary sy",
-      "date": "Thu, 15 Oct 2026 11Z",
-      "image": "https://earthsky.org/upl/2026/10/2-families-of-planetary-systems-INAF-Universitat-de-Valencia-Gemini-AI-scaled-e1791899675205.png",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-10-15T13:17:20Z"
-    },
-    {
-      "title": "What star in the northeast flashes colorfully? It’s Capella!",
-      "link": "https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/",
-      "summary": "If you're in Earth's Northern Hemisphere and see a bright star twinkling with red, green and blue flashes low in the northeast on October evenings, it's probably Capella. See chart",
-      "date": "Thu, 15 Oct 2026 10Z",
-      "image": "https://earthsky.org/upl/2021/09/Auriga_Northeast_October-e1632193489127.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-10-15T13:17:20Z"
     }
   ]
 }
