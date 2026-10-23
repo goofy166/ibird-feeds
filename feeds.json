@@ -1,8 +1,85 @@
 {
-  "updated": "2026-10-23T19:01:45Z",
-  "updated_utc": "2026-10-23T19:01:45Z",
+  "updated": "2026-10-23T23:00:27Z",
+  "updated_utc": "2026-10-23T23:00:27Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A DJ Turned Grand Teton National Park Into His Own Personal Set. People Aren’t Happy.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/grand-teton-drone-music-video-ban-penalties/",
+      "summary": "Grand Teton officials confirmed to Outside they are aware of a deleted drone video shot in the park, where illegal flights carry up to six months in jail. The post A DJ Turned Gran",
+      "date": "2026-10-23T21:47:20Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/drone-tetons-ban-dj_h.jpeg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-10-23T23:00:18Z"
+    },
+    {
+      "title": "A Team of Astronomers Thinks They Have Identified the Exact Night Sky That Inspired Vincent van Gogh's 'Starry Night.' Not Everyone Is Convinced",
+      "link": "https://www.smithsonianmag.com/smart-news/a-team-of-astronomers-thinks-they-have-identified-the-exact-night-sky-that-inspired-vincent-van-gogh-starry-Night-not-everyone-is-convinced-180989744/",
+      "summary": "Very few night skies seen from the south of France during the summer of 1889 would match the scene on van Gogh's canvas. A new study argues that it could have been July 22",
+      "date": "2026-10-23T20:41:48Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/P32rj5w_5CZZITmxMsvJRDZuaKg=/420x240/filters:focal(480x384:481x385)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/08/ad/08adab9e-4a28-47e8-970b-12a3d90c4cf1/van_gogh_-_starry_night_-_google_art_project.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-10-23T23:00:20Z"
+    },
+    {
+      "title": "For the First Time, Scientists Trapped an Elusive Antimatter Particle—and Contained It for Months. It Could Allow Them to Test an Enduring Physics Theory",
+      "link": "https://www.smithsonianmag.com/smart-news/for-the-first-time-scientists-trapped-an-elusive-antimatter-particle-and-contained-it-for-months-it-could-allow-them-to-test-an-enduring-physics-theory-180989738/",
+      "summary": "The standard model of particle physics works really well, but it can't explain why the universe exists. Something is missing, and this trapped particle might hold a clue to the ans",
+      "date": "2026-10-23T18:59:01Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/dKzxG_7_k4wCCpGIfvH4Pk4qwlY=/420x240/filters:focal(2856x4189:2857x4190)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/44/5e/445ed094-a8d0-48e3-a3e5-81645b78445d/img_3507.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-10-23T23:00:20Z"
+    },
+    {
+      "title": "Bacteria reinvent their weapons through selection, chance and gene swapping",
+      "link": "https://phys.org/news/2026-10-bacteria-reinvent-weapons-chance-gene.html",
+      "summary": "Many of the most potent antibiotics originate from bacteria. A large proportion belong to a class of compounds known as nonribosomal peptides (NRP). They are produced by large bact",
+      "date": "2026-10-23T20:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bacteria-constantly-re.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-23T23:00:24Z"
+    },
+    {
+      "title": "New marker panel and free web tool help track stem cells as they develop",
+      "link": "https://phys.org/news/2026-10-marker-panel-free-web-tool.html",
+      "summary": "How can the identity of pluripotent stem cells be determined more reliably during their differentiation? Researchers from the IUF—Leibniz Research Institute for Environmental Medic",
+      "date": "2026-10-23T19:40:08Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-marker-panel-to-id.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-23T23:00:24Z"
+    },
+    {
+      "title": "Can we stop antibiotic resistance from ruining promising drugs before they reach patients?",
+      "link": "https://phys.org/news/2026-10-antibiotic-resistance-drugs-patients.html",
+      "summary": "What if we could predict early in drug development which antibiotics bacteria are most likely to become resistant to? In a review published in Nature Reviews Microbiology, research",
+      "date": "2026-10-23T19:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/can-we-stop-antibiotic.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-23T23:00:24Z"
+    },
+    {
+      "title": "Christina Applegate misdiagnosis: Why can MS be difficult to diagnose?",
+      "link": "https://www.livescience.com/health/immune-system/christina-applegate-misdiagnosis-why-can-ms-be-difficult-to-diagnose",
+      "summary": "MS advocate Christina Applegate recently announced that her MS diagnosis was incorrect, based on new test results. Why can the disease be difficult to identify?",
+      "date": "2026-10-23T21:25:48Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/mmuBmZWyBMjZM9FJRxVRZA-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-10-23T23:00:25Z"
+    },
     {
       "title": "A small global big day",
       "link": "https://www.10000birds.com/a-small-global-big-day.htm?utm_source=rss&utm_medium=rss&utm_campaign=a-small-global-big-day",
@@ -5425,83 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-10-16T12:17:18Z"
-    },
-    {
-      "title": "Crossword: Time lines",
-      "link": "https://www.sciencenews.org/article/crossword-puzzle-november-2026",
-      "summary": "Solve the crossword from our November 2026 issue, in which we cultivate an understanding of growth curves.",
-      "date": "2026-10-16T12:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/1126_puzzle_feat.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-10-16T12:17:19Z"
-    },
-    {
-      "title": "Can a positive mindset protect us from the sniffles?",
-      "link": "https://www.newscientist.com/article/2594259-can-a-positive-mindset-protect-us-from-the-sniffles/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "If you’re trying to avoid the worst of cold and flu season, looking after your mind can help shape your immune system, finds columnist David Robson",
-      "date": "2026-10-16T08:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316569502.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-16T12:17:20Z"
-    },
-    {
-      "title": "Whales take different routes but still reach dinner on time",
-      "link": "https://phys.org/news/2026-10-whales-routes-dinner.html",
-      "summary": "Some travelers take the scenic route. Others step on the gas and head straight for the destination. New research suggests southern right whales do much the same when crossing the S",
-      "date": "2026-10-16T11:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/whales-take-different.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-16T12:17:22Z"
-    },
-    {
-      "title": "Astronomers discover the first-ever green star, plus the reddest 'white dwarf' ever seen",
-      "link": "https://www.livescience.com/space/astronomy/white-dwarf-stars-can-be-purple-pink-and-even-green-surprising-new-study-finds",
-      "summary": "Stellar remnants called white dwarfs ‪appear to come in a rainbow of colors, according to a new study.",
-      "date": "2026-10-16T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/jVqcM7f6XaWeNPLauDoEZN-1920-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-10-16T12:17:24Z"
-    },
-    {
-      "title": "South Australian toxic algal bloom killed more than 8,000 sharks and rays, including endangered species",
-      "link": "https://www.theguardian.com/environment/2026/oct/16/south-australia-toxic-algae-sharks-mass-mortality-endangered-species",
-      "summary": "Ecologists and experts fear mass mortality event that began in March 2025 may have led to the collapse of some local populations Get our breaking news email , free app or daily new",
-      "date": "2026-10-16T06:35:26Z",
-      "image": "https://i.guim.co.uk/img/media/c84369aac2edd9b46f8260afbf0e411cc5c55ca8/1013_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=92c6d339b68a362a5d14c0b7168d9323",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-10-16T06:58:41Z"
-    },
-    {
-      "title": "Four years after the promises of Cop15, our biodiversity targets are slipping away",
-      "link": "https://www.theguardian.com/environment/2026/oct/14/four-years-after-the-promises-of-cop15-our-biodiversity-targets-are-slipping-away",
-      "summary": "​The world pledged to halt biodiversity loss by 2030, but as Cop17 delegates meet in Armenia next week the outlook is bleak and optimism has faded • Don’t get Down to Earth deliver",
-      "date": "2026-10-16T06:00:53Z",
-      "image": "https://i.guim.co.uk/img/media/b5ac2d573ef8c692007bbe09e4bfa20e66b53b38/1088_0_5440_4352/master/5440.jpg?width=140&quality=85&auto=format&fit=max&s=57a19049d2b49b07a05f70f9bcbac0e4",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-10-16T06:58:41Z"
-    },
-    {
-      "title": "Will physics be the next field to be turned upside down by AI?",
-      "link": "https://www.newscientist.com/article/2593273-will-physics-be-the-next-field-to-get-turned-upside-down-by-ai/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "AI has taken huge strides in computer programming and mathematics – physics could be next",
-      "date": "2026-10-16T06:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316576979.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-16T06:58:51Z"
     }
   ]
 }
