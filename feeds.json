@@ -1,8 +1,19 @@
 {
-  "updated": "2026-10-24T19:22:39Z",
-  "updated_utc": "2026-10-24T19:22:39Z",
+  "updated": "2026-10-24T22:23:12Z",
+  "updated_utc": "2026-10-24T22:23:12Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Bell pepper colors reveal differences in sweetness, nutrients and ripeness",
+      "link": "https://phys.org/news/2026-10-bell-pepper-reveal-differences-sweetness.html",
+      "summary": "Raw, grilled, roasted, stuffed—there are many ways to enjoy bell peppers, also called capsicums, sweet peppers or paprika. Bell peppers originated in Central and South America and ",
+      "date": "2026-10-24T21:00:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/-bell-peppers.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-24T22:23:08Z"
+    },
     {
       "title": "ChirpUp, a Bird Card Game – An Interview with 10,000 Birds",
       "link": "https://www.10000birds.com/chirpup-a-bird-card-game-an-interview-with-10000-birds.htm?utm_source=rss&utm_medium=rss&utm_campaign=chirpup-a-bird-card-game-an-interview-with-10000-birds",
@@ -5487,17 +5498,6 @@
       "summary": "The roughly two- to four-pound predator lived alongside dinosaurs some 165 million years ago. A fossil found in northern China shows the strange creature had a surprisingly modern ",
       "date": "2026-10-16T14:00:00Z",
       "image": "https://th-thumbnailer.cdn-si-edu.com/AmQssIByRH3blIoyaxFWnIQA4Uo=/420x240/filters:focal(690x388:691x389)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1d/50/1d50a161-315c-4d8a-a06a-a768c2c1922c/hero_megacauda_life_restoration.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-16T17:17:35Z"
-    },
-    {
-      "title": "Arthur Conan Doyle Based Sherlock Holmes on a Real-Life Scottish Surgeon Who Used Deduction to Diagnose Patients and Investigate Crimes",
-      "link": "https://www.smithsonianmag.com/history/arthur-conan-doyle-based-sherlock-holmes-on-a-real-life-scottish-surgeon-who-used-deduction-to-diagnose-patients-and-investigate-crimes-180989623/",
-      "summary": "A new book chronicles the exploits of Joseph Bell, an Edinburgh lecturer whose lessons sparked the creation of the world's most famous detective",
-      "date": "2026-10-16T13:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/5Zeqe0kQsqyeYf4TvbtnzW1haNk=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e2/80/e280bb3c-f373-4402-8f66-90bc36d20fa8/sherlock-holmes.png",
       "name": "Smithsonian",
       "category": "insects",
       "color": 10,
