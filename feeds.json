@@ -1,8 +1,85 @@
 {
-  "updated": "2026-10-23T23:00:27Z",
-  "updated_utc": "2026-10-23T23:00:27Z",
+  "updated": "2026-10-24T01:30:57Z",
+  "updated_utc": "2026-10-24T01:30:57Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+      "link": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+      "summary": "BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers say The David Attenborough -narrated series Blue Planet III deliberately",
+      "date": "2026-10-23T23:01:16Z",
+      "image": "https://i.guim.co.uk/img/media/ceaba2d2e573fa4bc480fbaee7cee88e2ce7c97b/620_0_4500_3600/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=f0d25aae5ae109f551faef3ce97d9432",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-24T01:30:41Z"
+    },
+    {
+      "title": "River otter spotted on San Mateo Coast is believed to be first since 1800s",
+      "link": "https://www.mercurynews.com/2026/10/23/river-otter-spotted-on-san-mateo-coast-is-believed-to-be-first-since-1800s/",
+      "summary": "Motion-activated cameras captured photographs of the elusive animal in July, August and September south of Pescadero",
+      "date": "2026-10-23T23:10:31Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2017/05/cct-otters-0511-03.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-10-24T01:30:46Z"
+    },
+    {
+      "title": "A Bosnian man rescued an abandoned bear cub. Now they’re inseparable",
+      "link": "https://www.mercurynews.com/2026/10/23/bosnia-pet-bear/",
+      "summary": "Masa the bear and Petar Tubic have formed an unlikely friendship on Bosnia's Mount Ozren.",
+      "date": "2026-10-23T16:27:10Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/10/APTOPIX_Bosnia_Pet_Bear_75_23-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-10-24T01:30:46Z"
+    },
+    {
+      "title": "Bear killings skyrocket as garbage, bird feeders draw them into conflict",
+      "link": "https://www.mercurynews.com/2026/10/23/bear-killings-skyrocket-as-garbage-bird-feeders-draw-them-into-conflict/",
+      "summary": "Warm winter, persistent drought decimated natural foods black and brown bears rely on.",
+      "date": "2026-10-23T15:29:32Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/10/202610220415MCT_____PHOTO____US-NEWS-ENV-BEAR-KILLINGS-FILEPIC-2-MCT-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-10-24T01:30:46Z"
+    },
+    {
+      "title": "This California highway keeps killing wildlife. Enter the poop-hunting dogs",
+      "link": "https://www.mercurynews.com/2026/10/15/this-joshua-tree-highway-keeps-killing-wildlife-enter-the-poop-hunting-dogs-2/",
+      "summary": "In the Mojave Desert, rescue dogs Merlin and Siska are sniffing out clues to whether two planned wildlife crossings over State Route 62 can reconnect isolated animals—and help prev",
+      "date": "Thu, 15 Oct 2026 18Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/10/202610150600MCT_____PHOTO____US-NEWS-ENV-CALIF-POOP-HUNTING-DOGS-FILEPIC-5-LA-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-10-24T01:30:46Z"
+    },
+    {
+      "title": "Habitat explains Finnish animal distributions better than climate, study finds",
+      "link": "https://phys.org/news/2026-10-habitat-finnish-animal-climate.html",
+      "summary": "Researchers at the University of Helsinki wanted to understand which is the dominant factor for species occurrence and abundance: the climate or habitat-related variables, such as ",
+      "date": "2026-10-24T01:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/logging-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-24T01:30:53Z"
+    },
+    {
+      "title": "Glowing plants reveal immune responses around infection sites via two colors",
+      "link": "https://phys.org/news/2026-10-reveal-immune-responses-infection-sites.html",
+      "summary": "Researchers at the MRC Laboratory of Medical Sciences (LMS) have developed a new way to make glowing biological reporters more accurate, allowing scientists to track gene activity ",
+      "date": "2026-10-23T23:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/breakthrough-makes-glo.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-24T01:30:53Z"
+    },
     {
       "title": "A DJ Turned Grand Teton National Park Into His Own Personal Set. People Aren’t Happy.",
       "link": "https://www.outsideonline.com/outdoor-adventure/environment/grand-teton-drone-music-video-ban-penalties/",
@@ -5425,83 +5502,6 @@
       "category": "wildlife",
       "color": 6,
       "fetched_at": "2026-10-16T12:17:12Z"
-    },
-    {
-      "title": "2nd-generation planet: Was this world born around a dead star?",
-      "link": "https://earthsky.org/space/2nd-generation-planet-might-solve-an-old-hubble-mystery/",
-      "summary": "Astronomers might have found a new 2nd-generation planet orbiting a white dwarf star. It could also help answer a \"cold case\" mystery about the white dwarf. The post 2nd-generation",
-      "date": "2026-10-16T11:25:21Z",
-      "image": "https://earthsky.org/upl/2026/10/second-generation-planet-white-dwarf-HS-02090832-artist-concept-NASA-October-5-2026.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-10-16T12:17:12Z"
-    },
-    {
-      "title": "Space is getting crowded. Here’s the latest satellite report",
-      "link": "https://earthsky.org/space/space-is-getting-crowded-low-earth-orbit-satellite-collision/",
-      "summary": "ESA reports on the state of low-Earth orbit. The number of satellites in orbit is skyrocketing, along with the chance for collisions and on-ground casualties. The post Space is get",
-      "date": "2026-10-16T11:16:00Z",
-      "image": "https://earthsky.org/upl/2026/10/satellite-launches-2026-ESA-report-1-800x682.png",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-10-16T12:17:12Z"
-    },
-    {
-      "title": "Cassiopeia the Queen is overhead on autumn evenings",
-      "link": "https://earthsky.org/constellations/constellation-cassiopeia-the-queen-lady-of-the-chair-how-to-find-history-myth/",
-      "summary": "Spot the constellation Cassiopeia the Queen somewhere in the northern sky during much of the year, throughout much of the night. It's high overhead now. The post Cassiopeia the Que",
-      "date": "2026-10-16T09:33:00Z",
-      "image": "https://earthsky.org/upl/2023/10/Find-Cassiopeia-from-Big-Dipper.gif",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-10-16T12:17:12Z"
-    },
-    {
-      "title": "The 15 Best Deals at the REI Outlet for October",
-      "link": "https://www.outsideonline.com/outdoor-gear/gear-news/best-rei-outlet-deals-october-2026/",
-      "summary": "REI clearance racks are overflowing with cold-weather layers, tents, and tech marked down by up to 55 percent. Here are the top editor-tested discounts backed by the retailer’s gen",
-      "date": "2026-10-16T09:40:16Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/OOL-Deal-Tile-A-2400x1350-15.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-10-16T12:17:16Z"
-    },
-    {
-      "title": "Hike and Bike with the Spirits of Pennsylvania’s Ghost Town Trail",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/ghost-town-trail-pennsylvania-haunted-hike/",
-      "summary": "The 54-mile path winding through Cambria and Indiana Counties is a scenic outdoor escape by day. But after nightfall, the abandoned mining towns and centuries-old cemeteries give y",
-      "date": "2026-10-16T09:37:50Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/pennsylvania-woods.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-10-16T12:17:16Z"
-    },
-    {
-      "title": "A Monumental 18th-Century Portrait of a Young Polynesian Man—a 'Supreme Work of Art'—Visits the U.S. for the First Time",
-      "link": "https://www.smithsonianmag.com/smart-news/a-monumental-18th-century-portrait-of-a-young-polynesian-man-a-supreme-work-of-art-visits-the-us-for-the-first-time-180989699/",
-      "summary": "The massive \"Portrait of Mai\" depicts the first Pacific Islander to visit Britain, a young man who became a quasi-celebrity in the 1770s after joining the expedition of explorer Ja",
-      "date": "2026-10-16T12:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/KqpoKwitZ9EqOKry2dyu-Benz3Y=/420x240/filters:focal(513x342:514x343)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/08/25/0825d323-a65e-4ed1-bfed-d6cc29eb3962/omai.webp",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-16T12:17:18Z"
-    },
-    {
-      "title": "These 15 Photos Showcase the Intensely Brilliant Colors of Coral Reefs and the Creatures That Live Among Them",
-      "link": "https://www.smithsonianmag.com/travel/these-15-photos-showcase-the-intensely-brilliant-colors-of-coral-reefs-and-the-creatures-that-live-among-them-180989691/",
-      "summary": "These images from the Smithsonian Magazine Photo Contest highlight the importance of the marine ecosystems and the many species they help sustain",
-      "date": "2026-10-16T11:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/Ax8K_gPQ_N0Gmnq_qZJNSLCev18=/420x240/filters:focal(715x480:716x481)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/38/2c/382cf05f-1cee-4203-8085-63d74702c035/picture17.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-16T12:17:18Z"
     }
   ]
 }
