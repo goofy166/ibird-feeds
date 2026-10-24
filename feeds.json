@@ -1,8 +1,19 @@
 {
-  "updated": "2026-10-24T01:30:57Z",
-  "updated_utc": "2026-10-24T01:30:57Z",
+  "updated": "2026-10-24T07:07:33Z",
+  "updated_utc": "2026-10-24T07:07:33Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Surveying the genetic battlefield to uncover the rules of rapid evolution",
+      "link": "https://phys.org/news/2026-10-surveying-genetic-battlefield-uncover-rapid.html",
+      "summary": "The Malik Lab thrives on competition. But for HHMI investigator Harmit Malik and his team at the Fred Hutchinson Cancer Center, it's the genomes—not the people—that are in conflict",
+      "date": "2026-10-24T03:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/surveying-the-genetic.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-24T07:07:30Z"
+    },
     {
       "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
       "link": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
@@ -5487,17 +5498,6 @@
       "summary": "The world’s timekeepers announced on Thursday that leap seconds will no longer be added to clocks starting in May 2027. The post No more leap seconds! Timekeeping is officially cha",
       "date": "2026-10-16T11:32:00Z",
       "image": "https://earthsky.org/upl/2026/10/pexels-stasknop-clock-with-second-hand-800x534.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-10-16T12:17:12Z"
-    },
-    {
-      "title": "US winter weather outlook: What will El Niño bring?",
-      "link": "https://earthsky.org/earth/us-winter-weather-outlook-what-will-el-nino-bring/",
-      "summary": "NOAA's winter winter outlook says El Niño will bring a warm and wet winter for much of the U.S. The post US winter weather outlook: What will El Niño bring? first appeared on Earth",
-      "date": "2026-10-16T11:30:00Z",
-      "image": "https://earthsky.org/upl/2026/10/IMG_2208-1-800x600.jpeg",
       "name": "EarthSky",
       "category": "wildlife",
       "color": 6,
