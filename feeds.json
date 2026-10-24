@@ -1,8 +1,30 @@
 {
-  "updated": "2026-10-24T12:35:46Z",
-  "updated_utc": "2026-10-24T12:35:46Z",
+  "updated": "2026-10-24T16:31:16Z",
+  "updated_utc": "2026-10-24T16:31:16Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Newly identified protein pathway helps HIV stay hidden despite treatment",
+      "link": "https://phys.org/news/2026-10-newly-protein-pathway-hiv-stay.html",
+      "summary": "Current HIV medicines are effective at suppressing the virus in the blood. However, HIV can remain \"asleep\" or dormant inside certain immune cells and in the brain. These hidden po",
+      "date": "2026-10-24T16:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/hiv-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-24T16:31:13Z"
+    },
+    {
+      "title": "Seabird family tree predicts which species accumulate plastic better than diet, global analysis finds",
+      "link": "https://phys.org/news/2026-10-seabird-family-tree-species-accumulate.html",
+      "summary": "What seabirds eat might seem like a good starting point for identifying species that tend to accumulate plastic in their digestive systems. Yet a recent global analysis suggests th",
+      "date": "2026-10-24T14:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seabird-family-tree-of-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-24T16:31:13Z"
+    },
     {
       "title": "Timeo Danaos et Dona Ferentes?",
       "link": "https://www.10000birds.com/timeo-danaos-et-dona-ferentes.htm?utm_source=rss&utm_medium=rss&utm_campaign=timeo-danaos-et-dona-ferentes",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-10-16T17:17:36Z"
-    },
-    {
-      "title": "Artemis II results show how much science people can do at the moon",
-      "link": "https://www.sciencenews.org/article/artemis-ii-human-moon-science",
-      "summary": "We’ve studied the moon with robotic spacecraft for decades. What do human observers add? Artemis II’s first science results offer some answers.",
-      "date": "2026-10-16T13:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101426_LG_ArtemisIIupdate_main.jpg?w=777",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-10-16T17:17:36Z"
-    },
-    {
-      "title": "Japan is launching a mission to Mars’s largest moon Phobos",
-      "link": "https://www.newscientist.com/article/2594332-japan-is-launching-a-mission-to-marss-largest-moon-phobos/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "The Martian Moons eXploration spacecraft, set to launch on 20 October, will bring back samples that should solve a moon mystery that has been vexing scientists for more than a cent",
-      "date": "2026-10-16T17:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316887487.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-16T17:17:37Z"
     }
   ]
 }
