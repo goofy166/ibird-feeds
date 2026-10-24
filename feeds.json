@@ -1,8 +1,19 @@
 {
-  "updated": "2026-10-24T16:31:16Z",
-  "updated_utc": "2026-10-24T16:31:16Z",
+  "updated": "2026-10-24T19:22:39Z",
+  "updated_utc": "2026-10-24T19:22:39Z",
   "count": 500,
   "stories": [
+    {
+      "title": "ChirpUp, a Bird Card Game – An Interview with 10,000 Birds",
+      "link": "https://www.10000birds.com/chirpup-a-bird-card-game-an-interview-with-10000-birds.htm?utm_source=rss&utm_medium=rss&utm_campaign=chirpup-a-bird-card-game-an-interview-with-10000-birds",
+      "summary": "An Interview with William Jemas, one of the creators of ChirpUp How did the idea for Chirp Up come about? What inspired you to combine birds and card games? The idea of Chirping Up",
+      "date": "2026-10-24T18:01:08Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/2026/10/image.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-10-24T19:22:18Z"
+    },
     {
       "title": "Newly identified protein pathway helps HIV stay hidden despite treatment",
       "link": "https://phys.org/news/2026-10-newly-protein-pathway-hiv-stay.html",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-10-16T17:17:35Z"
-    },
-    {
-      "title": "Horned dinosaurs’ weapons evolved to handle the forces of combat",
-      "link": "https://www.sciencenews.org/article/horned-dinosaur-skull-forces-combat",
-      "summary": "New simulations reveal which battle moves the skulls of horned dinosaurs could take — and which might have been a very bad idea.",
-      "date": "2026-10-16T15:00:00Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/100926_JB_horneddino_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-10-16T17:17:36Z"
     }
   ]
 }
