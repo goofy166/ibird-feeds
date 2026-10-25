@@ -1,8 +1,19 @@
 {
-  "updated": "2026-10-24T22:23:12Z",
-  "updated_utc": "2026-10-24T22:23:12Z",
+  "updated": "2026-10-25T00:58:34Z",
+  "updated_utc": "2026-10-25T00:58:34Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Who should have a say in which species are saved? The California condor offers lessons for a global biodiversity treaty",
+      "link": "https://phys.org/news/2026-10-species-california-condor-lessons-global.html",
+      "summary": "In 1987, biologists captured the last free-flying condor to transfer it to captivity, and the largest flying North American bird species was officially declared extinct in the wild",
+      "date": "2026-10-25T00:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-condor-with-wings-sp-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-25T00:58:31Z"
+    },
     {
       "title": "Bell pepper colors reveal differences in sweetness, nutrients and ripeness",
       "link": "https://phys.org/news/2026-10-bell-pepper-reveal-differences-sweetness.html",
@@ -5487,17 +5498,6 @@
       "summary": "Larger breeds like Great Danes seem to accumulate changes to chemical tags on their DNA more quickly than tinier breeds, such as chihuahuas. These alterations allow potentially har",
       "date": "2026-10-16T16:00:00Z",
       "image": "https://th-thumbnailer.cdn-si-edu.com/vkL-ODNWba8a-lY8rQ3nhs3rUZk=/420x240/filters:focal(3000x2000:3001x2001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/74/34/7434a73b-c609-4c39-800b-1d3d045895a5/pexels-paparazziratzfatzzi-8660788.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-16T17:17:35Z"
-    },
-    {
-      "title": "This Ancient Animal Looked Like a Platypus-Otter Hybrid. It's Providing Clues About the Origins of Mammalian Suckling and Swallowing",
-      "link": "https://www.smithsonianmag.com/smart-news/this-ancient-animal-looked-like-a-platapys-otter-hybrid-its-providing-clues-about-the-origins-of-mammalian-suckling-and-swallowing-180989666/",
-      "summary": "The roughly two- to four-pound predator lived alongside dinosaurs some 165 million years ago. A fossil found in northern China shows the strange creature had a surprisingly modern ",
-      "date": "2026-10-16T14:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/AmQssIByRH3blIoyaxFWnIQA4Uo=/420x240/filters:focal(690x388:691x389)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1d/50/1d50a161-315c-4d8a-a06a-a768c2c1922c/hero_megacauda_life_restoration.png",
       "name": "Smithsonian",
       "category": "insects",
       "color": 10,
