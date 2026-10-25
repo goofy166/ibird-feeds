@@ -1,8 +1,19 @@
 {
-  "updated": "2026-10-25T15:57:02Z",
-  "updated_utc": "2026-10-25T15:57:02Z",
+  "updated": "2026-10-25T18:53:55Z",
+  "updated_utc": "2026-10-25T18:53:55Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Beloved Big Bear bald eagle Jackie died of bird flu",
+      "link": "https://www.mercurynews.com/2026/10/15/necropsy-finds-famed-big-bear-bald-eagle-jackie-died-after-complex-and-unusual-disease-process/",
+      "summary": "Highly Pathogenic Avian Influenza was described as the primary underlying cause of her decline.",
+      "date": "Thu, 15 Oct 2026 20Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/AP26222788664952.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-10-25T18:53:42Z"
+    },
     {
       "title": "Harpy Eagles: 17 Fascinating Facts About the Canopy’s King",
       "link": "https://birdwatchinghq.com/harpy-eagle-facts/",
@@ -5491,17 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-10-16T20:51:41Z"
-    },
-    {
-      "title": "Rembrandt Turned Ancient Myths Into 'Supremely Human' Works of Art. An Upcoming Exhibition Traces the Inspiration He Took From Antiquity",
-      "link": "https://www.smithsonianmag.com/smart-news/rembrandt-turned-ancient-myths-into-supremely-human-works-of-art-an-upcoming-exhibition-traces-the-inspiration-he-took-from-antiquity-180989705/",
-      "summary": "\"Rembrandt and the Ancients\" at the Metropolitan Museum of Art will unpack an \"underexplored but vital\" part of the Dutch master's career, putting his paintings and drawings in con",
-      "date": "2026-10-16T20:16:08Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/xnoRln4Vst7V9z0bF9SBxQjb1mU=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/69/0b/690bd80a-40d6-4a04-a019-d6dec37d35df/rembrandt_aristotle_with_a_bust_of_homer.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-16T20:51:42Z"
     }
   ]
 }
