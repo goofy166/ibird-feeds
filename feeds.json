@@ -1,8 +1,173 @@
 {
-  "updated": "2026-10-26T19:07:44Z",
-  "updated_utc": "2026-10-26T19:07:44Z",
+  "updated": "2026-10-26T23:42:19Z",
+  "updated_utc": "2026-10-26T23:42:19Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Does Contrast Therapy Actually Help You Recover Faster? I Tested It for One Month.",
+      "link": "https://www.outsideonline.com/health/training-performance/hot-cold-therapy-one-month/",
+      "summary": "Here’s how hot-and-cold plunges affected my running, and what scientists and doctors think about the wellness trend. The post Does Contrast Therapy Actually Help You Recover Faster",
+      "date": "2026-10-26T20:59:06Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/David-in-an-ice-bath-1.png?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-10-26T23:42:09Z"
+    },
+    {
+      "title": "Stay Dry, Stay Warm, Stay Out",
+      "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/stay-dry-stay-warm-stay-out/",
+      "summary": "With six decades of innovation to build on, Berghaus shows the way to a more comfortable outdoor future The post Stay Dry, Stay Warm, Stay Out appeared first on Outside Online .",
+      "date": "2026-10-26T20:27:32Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/BERGHAUS_AW26_TIYH_LAKE-scaled-e1792786595134.jpeg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-10-26T23:42:09Z"
+    },
+    {
+      "title": "A Fire Ravaged the 'Eagle's Nest,' an Alpine Retreat Built for Top Nazis. What Happens Next?",
+      "link": "https://www.smithsonianmag.com/smart-news/a-fire-ravaged-the-eagles-nest-an-alpine-retreat-built-for-top-nazis-what-happens-next-180989757/",
+      "summary": "Police have detained a 33-year-old German citizen in connection with the blaze, which gutted the infamous historic building. In recent years, the mountaintop guesthouse hosted a re",
+      "date": "2026-10-26T21:30:34Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/WBSJlrWkPeZvpNSJv7cnrzK3gfg=/420x240/filters:focal(512x283:513x284)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/50/fc/50fcf04c-2848-491e-9eda-487200edb302/gettyimages-2301213630.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-10-26T23:42:11Z"
+    },
+    {
+      "title": "Shamonda Virus Infected and Killed a Person for the First Time. Here's What to Know About the Pathogen Usually Found in Livestock",
+      "link": "https://www.smithsonianmag.com/smart-news/shamonda-virus-infected-and-killed-a-person-for-the-first-time-heres-what-to-know-about-the-pathogen-usually-found-in-livestock-180989756/",
+      "summary": "The patient, a French man in his 60s with leukemia, died earlier this month. Health officials say the risk to the public is low",
+      "date": "2026-10-26T19:25:17Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/VxUyrX5OO5OG_t1CKMgESvYuqUs=/420x240/filters:focal(2464x1643:2465x1644)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/bb/28/bb28980b-a6fb-47ea-8e4f-e67c2e4e2277/shamonda-cows-france.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-10-26T23:42:11Z"
+    },
+    {
+      "title": "South Africa's lion-petting industry: We spent three years investigating and here's what we found",
+      "link": "https://phys.org/news/2026-10-south-africa-lion-petting-industry.html",
+      "summary": "An estimated 8,000 lions are held in captivity in South Africa in about 350 places, ranging from zoos to tourism venues where people can interact up close with the big cats. Lions ",
+      "date": "2026-10-26T23:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-lion-with-severe-man.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-26T23:42:15Z"
+    },
+    {
+      "title": "Could ecological roles offer clues to how life began?",
+      "link": "https://phys.org/news/2026-10-ecological-roles-clues-life-began.html",
+      "summary": "Producers, consumers, and decomposers play different roles in today's ecosystems. Thinking about these familiar roles led me to a question: Could their differences partly reflect t",
+      "date": "2026-10-26T21:40:16Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-ecological-roles.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-26T23:42:15Z"
+    },
+    {
+      "title": "Expanding hemp could boost Kentucky water quality and ecological diversity",
+      "link": "https://phys.org/news/2026-10-hemp-boost-kentucky-quality-ecological.html",
+      "summary": "Hemp has long been pitched to Kentucky farmers as a way to diversify their income. Research now suggests it could diversify the landscape itself, with measurable benefits for the s",
+      "date": "2026-10-26T21:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hemp.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-26T23:42:15Z"
+    },
+    {
+      "title": "Light-based monitoring could improve quality checks for lab-grown replacement cartilage",
+      "link": "https://phys.org/news/2026-10-based-quality-lab-grown-cartilage.html",
+      "summary": "A new doctoral dissertation by Omar Anwar Elkadi in the field of Applied Physics on near-infrared spectroscopy for the continuous monitoring of tissue-engineered cartilage will be ",
+      "date": "2026-10-26T21:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/light-based-monitoring.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-26T23:42:15Z"
+    },
+    {
+      "title": "Can cats really thrive on vegan diets? Professor Andrew Knight responds to critics",
+      "link": "https://phys.org/news/2026-10-cats-vegan-diets-professor-andrew.html",
+      "summary": "In response to a recent article on vegan diets for cats, Phys.org received numerous messages from concerned readers. People raised a lot of concerns, mainly arguing that cats are o",
+      "date": "2026-10-26T20:45:42Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cat-eating.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-26T23:42:15Z"
+    },
+    {
+      "title": "Aleppo pine at risk: Climate impacts arrive decades earlier than projected",
+      "link": "https://phys.org/news/2026-10-aleppo-climate-impacts-decades-earlier.html",
+      "summary": "In 2020, our research published in New Phytologist showed how the height growth of Aleppo pine populations responded to climate gradients across the Mediterranean, and how these po",
+      "date": "2026-10-26T20:40:18Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/aleppo-pine-at-risk-cl.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-26T23:42:15Z"
+    },
+    {
+      "title": "New research finds frequent disease outbreaks in B.C. salmon farms, endangering wild salmon",
+      "link": "https://phys.org/news/2026-10-frequent-disease-outbreaks-bc-salmon.html",
+      "summary": "A new study with unprecedented access to Atlantic salmon farms in British Columbia raises urgent questions about the federal government's approach to regulating salmon farms and hi",
+      "date": "2026-10-26T20:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/salmon.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-26T23:42:15Z"
+    },
+    {
+      "title": "Botanists comb Gabon's rich rainforests with nature on the line",
+      "link": "https://phys.org/news/2026-10-botanists-gabon-rich-rainforests-nature.html",
+      "summary": "Each year, Gabon's lush rainforests yield the discovery of previously unknown plant species to botanists like Archange Boupoya—who believes that this exceptional yet largely myster",
+      "date": "2026-10-26T19:40:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/creeping-urbanisation.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-26T23:42:15Z"
+    },
+    {
+      "title": "What is 'human composting'—and how does it work?",
+      "link": "https://phys.org/news/2026-10-human-composting.html",
+      "summary": "What should happen to your body after you die? It's hardly a topic you'd bring up over dinner, but it's a decision that will eventually need to be made, either by you or by those y",
+      "date": "2026-10-26T19:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-is-human-composti.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-26T23:42:15Z"
+    },
+    {
+      "title": "Hidden chromosome structures reveal greater complexity in how roundworms organize DNA",
+      "link": "https://phys.org/news/2026-10-hidden-chromosome-reveal-greater-complexity.html",
+      "summary": "Almost every cell in our body contains around two meters (6.6 feet) of DNA, packed into a tiny nucleus. Yet for the cell to function, this enormous amount of genetic material must ",
+      "date": "2026-10-26T19:20:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genome-organization-mo.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-26T23:42:15Z"
+    },
+    {
+      "title": "NASA's Swift observatory ends 22-year mission, will crash to Earth 'in the next few weeks'",
+      "link": "https://www.livescience.com/space/space-exploration/nasas-swift-observatory-ends-22-year-mission-to-study-the-most-powerful-explosions-since-the-big-bang",
+      "summary": "NASA's Neil Gehrels Swift Observatory has officially ended its mission after more than 20 years, as it approaches a fiery reentry through Earth's atmosphere.",
+      "date": "2026-10-26T21:45:22Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/9HJ8zUarRNnBRKtACKnWta-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-10-26T23:42:16Z"
+    },
     {
       "title": "Why Do Owls Nest So Early in the Year?",
       "link": "https://www.birdsandblooms.com/birding/attracting-birds/bird-nesting/owl-nest/",
@@ -5337,171 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-10-19T15:28:35Z"
-    },
-    {
-      "title": "Early heat and drought stress can have lasting effects on corn growth",
-      "link": "https://phys.org/news/2026-10-early-drought-stress-effects-corn.html",
-      "summary": "A brief period of heat and drought early in a corn plant's life can affect its growth and flowering months after the stress ends, according to new research from the Donald Danforth",
-      "date": "2026-10-19T12:40:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/early-heat-and-drought.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-19T15:28:35Z"
-    },
-    {
-      "title": "Genomic study uncovers a new lace bug species on Japan's remote Ogasawara Islands",
-      "link": "https://phys.org/news/2026-10-genomic-uncovers-lace-bug-species.html",
-      "summary": "Researchers have used genome-wide DNA data to identify a new insect species on the Ogasawara Islands, a remote Japanese archipelago roughly 900 to 1,000 kilometers (560 to 620 mile",
-      "date": "2026-10-19T12:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genomic-study-uncovers.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-19T15:28:35Z"
-    },
-    {
-      "title": "Researchers are ignoring most living things: Analysis finds vertebrates dominate biodiversity research",
-      "link": "https://phys.org/news/2026-10-analysis-vertebrates-dominate-biodiversity.html",
-      "summary": "According to two new UNSW studies, researchers often choose research topics based on personal preferences and cultural attitudes, including exposure to films, TV shows and even zoo",
-      "date": "2026-10-19T11:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/elephant-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-19T15:28:35Z"
-    },
-    {
-      "title": "Romans may have set fire to Celtic town during conquest to 'humiliate' the enemy, archaeologists find",
-      "link": "https://www.livescience.com/archaeology/romans/romans-may-have-set-fire-to-celtic-town-during-conquest-to-humiliate-the-enemy-archaeologists-find",
-      "summary": "Archaeologists discovered a first century B.C. military camp that was erected during Emperor Augustus's Cantabrian Wars.",
-      "date": "2026-10-19T12:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/2yqAo8qqQ6c4YGYAW98zsg-1920-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-10-19T15:28:36Z"
-    },
-    {
-      "title": "'Birdman' copper plate: A 700-year-old depiction of a Native American warrior that may be a woman holding a weapon and a severed head",
-      "link": "https://www.livescience.com/archaeology/americas/birdman-copper-plate-a-700-year-old-depiction-of-a-native-american-warrior-that-may-be-a-woman-holding-a-weapon-and-a-severed-head",
-      "summary": "Discovered in an Indigenous grave in Georgia nearly 150 years ago, the \"Birdman\" copper plate may actually depict a woman ceremonially dressed as a warrior.",
-      "date": "2026-10-19T10:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/pfrThK7fYR2YgHyFhAHxMZ-1920-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-10-19T15:28:36Z"
-    },
-    {
-      "title": "Rising temperatures could boost pregnancy risks worldwide — here's how",
-      "link": "https://www.livescience.com/health/reproductive-health/rising-temperatures-could-boost-pregnancy-risks-worldwide-heres-how",
-      "summary": "As climate change fuels extreme temperatures and makes severely hot days more frequent, doctors are concerned about the health impacts on pregnant people.",
-      "date": "2026-10-19T09:00:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/g9ULntRpuH29675zcK2hGo-1920-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-10-19T15:28:36Z"
-    },
-    {
-      "title": "Cop17 at a glance: everything you need to know about the UN’s nature summit",
-      "link": "https://www.theguardian.com/environment/2026/oct/19/environment-cop17-un-biodiversity-summit-yerevan-explainer-conservation",
-      "summary": "This month’s biodiversity summit in Yerevan, Armenia, aims to push governments to meet the 23 targets agreed at Cop15 in 2022 This month, nearly every country on Earth will return ",
-      "date": "2026-10-19T04:00:19Z",
-      "image": "https://i.guim.co.uk/img/media/0b9eece6c14f81789039f0678f656cdaeae1a5e0/414_0_4320_3458/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=61539319708a2965dfe052be23e572d7",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-10-19T07:36:31Z"
-    },
-    {
-      "title": "Six Ways the Charleston Area Brings American History to Life",
-      "link": "https://www.smithsonianmag.com/sponsored/six-ways-the-charleston-area-brings-american-history-to-life-180989607/",
-      "summary": "Three and a half centuries on, the Lowcountry still thrives in its own history",
-      "date": "2026-10-19T04:00:00Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/GrasshopperSpirit.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-19T07:36:39Z"
-    },
-    {
-      "title": "Can a Cruise Capture 12,000 Years of Norwegian Heritage? Hurtigruten Certainly Thinks So",
-      "link": "https://www.smithsonianmag.com/sponsored/can-a-cruise-capture-12000-years-of-norwegian-heritage-hurtigruten-certainly-thinks-so-180989573/",
-      "summary": "From Viking routes and fishing villages to Arctic wonders and UNESCO-listed fjords, discover Norway’s living heritage along the coast that connects it all",
-      "date": "2026-10-19T04:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/oCdOLiYI-gt1oylR-GbD-RkHWxY=/420x240/filters:focal(1000x700:1001x701)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cc/e7/cce72c9d-29dc-4f52-b43b-5b8c031a42b1/hero.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-19T07:36:39Z"
-    },
-    {
-      "title": "Archaeologists are uncovering the meaning of a unique rock art site",
-      "link": "https://www.newscientist.com/article/2593633-archaeologists-are-uncovering-the-meaning-of-a-unique-rock-art-site/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Excavations in the Côa valley in Portugal, the world’s largest site of Palaeolithic open-air rock art, are yielding clues about how engravings of animals were seen by prehistoric h",
-      "date": "2026-10-19T07:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316309806.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-19T07:36:42Z"
-    },
-    {
-      "title": "New dinosaur species identified from fossil stashed in drawer for a century",
-      "link": "https://earthsky.org/earth/new-dinosaur-species-invictibellatrix-amberina/",
-      "summary": "Researchers identified a new dinosaur species from a fossil on Isle of Wight in the UK. The carnivorous dino would have been as tall as a human. The post New dinosaur species ident",
-      "date": "2026-10-19T00:00:00Z",
-      "image": "https://earthsky.org/upl/2026/10/dinosaur-invictibellatrix-amberina-Isle-of-Wight-800x450.png",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-10-19T01:04:17Z"
-    },
-    {
-      "title": "Earth's oldest evidence of life is written in stone—but it's at risk of disappearing",
-      "link": "https://phys.org/news/2026-10-earth-oldest-evidence-life-written.html",
-      "summary": "Today, our planet is teeming with life, but it has not always looked the same. Long before forests reached skyward, animals walked on land and dinosaurs rose and fell, our planet w",
-      "date": "2026-10-18T21:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/earths-oldest-evidence-2.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-18T22:57:31Z"
-    },
-    {
-      "title": "Spatial genomics tool maps long-range DNA interactions while preserving cells' locations within tissues",
-      "link": "https://phys.org/news/2026-10-spatial-genomics-tool-range-dna.html",
-      "summary": "DNA is not randomly distributed within the nucleus but is packaged with proteins into chromatin, which is precisely folded into complex three-dimensional structures. However, scien",
-      "date": "2026-10-18T20:00:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spatial-genomics-tool.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-18T20:31:46Z"
-    },
-    {
-      "title": "Dozens of orangutans saved from Indonesia blazes as region grapples with haze",
-      "link": "https://phys.org/news/2026-10-dozens-orangutans-indonesia-blazes-region.html",
-      "summary": "Dozens of critically endangered orangutans have been rescued in recent weeks from rampant wildfires burning across Indonesia that have cloaked the region in toxic haze, conservatio",
-      "date": "2026-10-18T19:19:40Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/conservation-groups-in.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-18T20:31:46Z"
-    },
-    {
-      "title": "Climate change affects the quality of one of the world's most important staple foods",
-      "link": "https://phys.org/news/2026-10-climate-affects-quality-world-important.html",
-      "summary": "Depending on the cultivar, higher concentrations of carbon dioxide (CO₂) in the atmosphere can significantly alter the protein composition of wheat. This affects not only baking qu",
-      "date": "2026-10-18T19:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/various-field-trial-pl.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-18T20:31:46Z"
     }
   ]
 }
