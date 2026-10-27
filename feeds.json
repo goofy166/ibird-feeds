@@ -1,8 +1,85 @@
 {
-  "updated": "2026-10-27T04:42:05Z",
-  "updated_utc": "2026-10-27T04:42:05Z",
+  "updated": "2026-10-27T10:20:07Z",
+  "updated_utc": "2026-10-27T10:20:07Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Lacerta the Lizard, home to a blazar",
+      "link": "https://earthsky.org/constellations/lacerta-the-lizard-blazar/",
+      "summary": "Lacerta the Lizard is a small, dim constellation in the autumn sky that contains a blazar, or an active galactic nucleus with a jet aimed toward Earth. The post Lacerta the Lizard,",
+      "date": "Tue, 27 Oct 2026 10Z",
+      "image": "https://earthsky.org/upl/2021/09/Lacerta-Close-Up-Stellarium-e1632920311840.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-10-27T10:19:52Z"
+    },
+    {
+      "title": "Why do dolls creep us out? It’s the uncanny valley effect",
+      "link": "https://earthsky.org/human-world/why-do-dolls-creep-us-out-uncanny-valley-effect/",
+      "summary": "For many, dolls creep us out. Their lifelike - but not quite human - aspect can trigger the uncanny valley effect. Hear more from scientists about this effect. The post Why do doll",
+      "date": "Tue, 27 Oct 2026 08Z",
+      "image": "https://earthsky.org/upl/2025/10/doll-SandmanTSM-Pixabay-1.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-10-27T10:19:52Z"
+    },
+    {
+      "title": "3 Sports Science Hacks That Don’t Work",
+      "link": "https://www.outsideonline.com/health/training-performance/workout-recovery-myths-ice-baths-red-light-studies/",
+      "summary": "New data on ketones, laser therapy, and hot/cold recovery baths dial back the hype. The post 3 Sports Science Hacks That Don’t Work appeared first on Outside Online .",
+      "date": "Tue, 27 Oct 2026 09Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/ice-bath.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-10-27T10:19:58Z"
+    },
+    {
+      "title": "How vaccines could be about to revolutionise acne treatments",
+      "link": "https://www.newscientist.com/article/2595926-how-vaccines-could-be-about-to-revolutionise-acne-treatments/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Acne could be caused by our immune systems overreacting to proteins released by skin bacteria. Columnist Michael Le Page looks into the experimental treatments aiming to block this",
+      "date": "Tue, 27 Oct 2026 09Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317828580_678b7c.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-10-27T10:20:01Z"
+    },
+    {
+      "title": "Major greenhouse gases rise again to record levels",
+      "link": "https://www.newscientist.com/article/2595885-major-greenhouse-gases-rise-again-to-record-levels/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Levels of carbon dioxide, methane and nitrous oxide in the atmosphere continued to rise in 2025, along with a lesser-known gas with a more powerful warming effect",
+      "date": "Tue, 27 Oct 2026 09Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318304647.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-10-27T10:20:01Z"
+    },
+    {
+      "title": "Q&A: Why does the right side of the brain control the left side of the body?",
+      "link": "https://phys.org/news/2026-10-qa-side-brain-left-body.html",
+      "summary": "Dr. Martin Wessendorf is a neuroscientist and an associate professor emeritus at the University of Minnesota. His work focuses on how the brainstem controls the function of neurons",
+      "date": "2026-10-27T05:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/right-brain.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-27T10:20:03Z"
+    },
+    {
+      "title": "A psychologist explains his theory for why orcas are attacking boats",
+      "link": "https://www.livescience.com/animals/orcas/this-psychologist-has-a-new-theory-for-why-orcas-keep-attacking-boats",
+      "summary": "Live Science spoke with comparative psychologist Christian Frings to discuss a new theory for why orcas are attacking yachts.",
+      "date": "Tue, 27 Oct 2026 09Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/VoDMwfT7t2MF4sCF9787dC-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-10-27T10:20:04Z"
+    },
     {
       "title": "False lingzhi unmasked: Scientists crack the 245-year mystery behind a medicinal mushroom mix-up",
       "link": "https://phys.org/news/2026-10-false-lingzhi-unmasked-scientists-year.html",
@@ -5425,83 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-10-19T15:28:32Z"
-    },
-    {
-      "title": "Discovery of T. rex’s cousin upends our understanding of tyrannosaur evolution",
-      "link": "https://www.newscientist.com/article/2594525-discovery-of-t-rexs-cousin-upends-our-understanding-of-tyrannosaur-evolution/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "A dinosaur that is new to science has features of both subfamilies of the tyrannosaur group, complicating our understanding of how they evolved",
-      "date": "2026-10-19T15:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317313480.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-19T15:28:33Z"
-    },
-    {
-      "title": "Are we about to solve the greatest mystery of the neutrino?",
-      "link": "https://www.newscientist.com/article/2592541-are-we-about-to-solve-the-greatest-mystery-of-the-neutrino/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "We have long had a seemingly simple question about neutrinos: how much do they weigh? Now, a gigantic experiment in China is poised to find out – and the answer could transform par",
-      "date": "2026-10-19T15:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316756548.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-19T15:28:33Z"
-    },
-    {
-      "title": "Error-correction record pushes quantum computers closer to usefulness",
-      "link": "https://www.newscientist.com/article/2594366-error-correction-record-pushes-quantum-computers-closer-to-usefulness/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Useful quantum computers will have to use many “logical qubits” as their computational building blocks, and researchers just broke the record for how reliable they can be",
-      "date": "2026-10-19T12:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316895337.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-19T15:28:33Z"
-    },
-    {
-      "title": "El Niño is dramatically increasing sea levels – how bad could it get?",
-      "link": "https://www.newscientist.com/article/2594376-el-nino-is-dramatically-increasing-sea-levels-how-bad-could-it-get/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "El Niño has already raised sea levels in part of the eastern Pacific by 40 centimetres and as it continues to strengthen, there could be coastal flooding from Alaska to Chile",
-      "date": "2026-10-19T10:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316726592.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-19T15:28:33Z"
-    },
-    {
-      "title": "Why the Drake equation is still important 65 years after its creation",
-      "link": "https://www.newscientist.com/article/2594385-why-the-drake-equation-is-still-important-65-years-after-its-creation/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "The Drake equation provides a way to guess how many aliens we might be able to communicate with, but it’s also a prime example of the importance of scientific guessing, says column",
-      "date": "2026-10-19T08:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316868490.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-19T15:28:33Z"
-    },
-    {
-      "title": "How plants unwittingly help fungal pathogens",
-      "link": "https://phys.org/news/2026-10-unwittingly-fungal-pathogens.html",
-      "summary": "Infecting a maize plant is no simple task for a fungal pathogen such as Ustilago maydis. A group of researchers led by Heinrich Heine University Düsseldorf (HHU) has now uncovered ",
-      "date": "2026-10-19T15:20:10Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-plants-unwittingly.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-19T15:28:35Z"
-    },
-    {
-      "title": "Rolling without wheels: How dwarf reedsnakes coordinate their bodies for high-speed escapes",
-      "link": "https://phys.org/news/2026-10-wheels-dwarf-reedsnakes-bodies-high.html",
-      "summary": "Small snakes called dwarf reedsnakes can escape danger by rolling rapidly along the ground. Researchers investigated how they perform this unusual form of locomotion using multi-an",
-      "date": "2026-10-19T15:00:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-snakes-roll-at-hig.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-19T15:28:35Z"
     }
   ]
 }
