@@ -1,8 +1,63 @@
 {
-  "updated": "2026-10-26T23:42:19Z",
-  "updated_utc": "2026-10-26T23:42:19Z",
+  "updated": "2026-10-27T04:42:05Z",
+  "updated_utc": "2026-10-27T04:42:05Z",
   "count": 500,
   "stories": [
+    {
+      "title": "False lingzhi unmasked: Scientists crack the 245-year mystery behind a medicinal mushroom mix-up",
+      "link": "https://phys.org/news/2026-10-false-lingzhi-unmasked-scientists-year.html",
+      "summary": "In a new study published today in Plants, People, Planet, scientists from the Royal Botanic Gardens, Kew, and their international collaborators clarify the distinction between Gano",
+      "date": "2026-10-27T01:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/false-lingzhi-unmasked.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-27T04:42:01Z"
+    },
+    {
+      "title": "Zoologist's study of wild Panamanian bats highlights use of metrics to inform bat conservation",
+      "link": "https://phys.org/news/2026-10-zoologist-wild-panamanian-highlights-metrics.html",
+      "summary": "Bats are not only a marvel of myth and imagination but also of energy use, working at the height of their energetic ceiling to fly the night skies the world over.",
+      "date": "2026-10-27T00:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/greater-spear-nosed-ba.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-27T04:42:01Z"
+    },
+    {
+      "title": "Fossils from brickworks reveal new dinosaur species that roamed England's wetlands 125 million years ago",
+      "link": "https://phys.org/news/2026-10-fossils-brickworks-reveal-dinosaur-species.html",
+      "summary": "More than 25 years after it was first discovered, a new species and genus of dinosaur have been named from the fossil collections cared for by the Natural History Museum. Paludohad",
+      "date": "2026-10-27T00:10:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-uk-dinosaur-discov.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-27T04:42:01Z"
+    },
+    {
+      "title": "New binary gene expression system enables independent control of multiple cell types",
+      "link": "https://phys.org/news/2026-10-binary-gene-enables-independent-multiple.html",
+      "summary": "Our bodies are composed of many different types of cells that work together to build and maintain normal physiological functions. In the central nervous system, for example, neuron",
+      "date": "2026-10-27T00:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-genetic-switch-ena.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-27T04:42:01Z"
+    },
+    {
+      "title": "Drought forces livestock farmers to make tough decisions: Our model shows the impact on inequality",
+      "link": "https://phys.org/news/2026-10-drought-livestock-farmers-tough-decisions.html",
+      "summary": "Climate change is amplifying extreme weather conditions across southern Africa. Dry seasons are getting hotter and drier, while rains are becoming heavier and more concentrated. Th",
+      "date": "2026-10-26T23:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cattle-africa.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-27T04:42:01Z"
+    },
     {
       "title": "Does Contrast Therapy Actually Help You Recover Faster? I Tested It for One Month.",
       "link": "https://www.outsideonline.com/health/training-performance/hot-cold-therapy-one-month/",
@@ -5443,61 +5498,6 @@
       "summary": "Small snakes called dwarf reedsnakes can escape danger by rolling rapidly along the ground. Researchers investigated how they perform this unusual form of locomotion using multi-an",
       "date": "2026-10-19T15:00:04Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-snakes-roll-at-hig.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-19T15:28:35Z"
-    },
-    {
-      "title": "Algae fossils from Cambrian explosion hint at sophisticated reproductive system",
-      "link": "https://phys.org/news/2026-10-algae-fossils-cambrian-explosion-hint.html",
-      "summary": "The Cambrian explosion was a major diversification of animal life that unfolded early in the Cambrian period, which began around 538.8 million years ago. During this interval, mari",
-      "date": "2026-10-19T14:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-hints-at-a-sophi.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-19T15:28:35Z"
-    },
-    {
-      "title": "Epigenetic markers linked to psychotherapy response in OCD",
-      "link": "https://phys.org/news/2026-10-epigenetic-markers-linked-psychotherapy-response.html",
-      "summary": "OCD is a mental health disorder characterized by unwanted, recurring thoughts and repetitive behaviors that can severely interfere with everyday life. Exposure-based psychotherapy ",
-      "date": "2026-10-19T14:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ocd.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-19T15:28:35Z"
-    },
-    {
-      "title": "Ancient Hox code reveals the developmental roots of vertebrate hind fins and limbs",
-      "link": "https://phys.org/news/2026-10-ancient-hox-code-reveals-developmental.html",
-      "summary": "Paired appendages—the pectoral and pelvic fins of fishes and the forelimbs and hindlimbs of tetrapods—were a major innovation in vertebrate evolution. Their emergence greatly expan",
-      "date": "2026-10-19T14:00:22Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-hox-code-revea.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-19T15:28:35Z"
-    },
-    {
-      "title": "What evolved first—our brain or gut?",
-      "link": "https://phys.org/news/2026-10-evolved-brain-gut.html",
-      "summary": "What if the brain evolved to serve the gut? Scientists at Flinders University are challenging a cornerstone of biology, arguing that the gut's nervous system may be the body's orig",
-      "date": "2026-10-19T13:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gut-and-brain.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-19T15:28:35Z"
-    },
-    {
-      "title": "How bacteria survive in a world full of killer bacteriophages",
-      "link": "https://phys.org/news/2026-10-bacteria-survive-world-full-killer.html",
-      "summary": "Humans throughout history have invented a variety of ways to fight back against troublesome bacteria. But bacteria live in a dangerous world too. The human body and other bacteria-",
-      "date": "2026-10-19T13:20:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-bacteria-survive-i.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
