@@ -1,8 +1,41 @@
 {
-  "updated": "2026-10-29T00:44:06Z",
-  "updated_utc": "2026-10-29T00:44:06Z",
+  "updated": "2026-10-29T06:54:46Z",
+  "updated_utc": "2026-10-29T06:54:46Z",
   "count": 500,
   "stories": [
+    {
+      "title": "If You See Brown Spots on Your Hydrangea Leaves, This Is Why",
+      "link": "https://www.birdsandblooms.com/gardening/flower-gardening/brown-spots-hydrangea-leaves/",
+      "summary": "Seeing spots on your hydrangea leaves ? A horticulture expert explains what might be affecting your plants, and what you can do to help. The post If You See Brown Spots on Your Hyd",
+      "date": "2026-10-12T19:44:43Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/10/GettyImages-2238698217-scaled-e1791566305909.jpg?fit=700,705",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-10-29T06:54:25Z"
+    },
+    {
+      "title": "Queen of Spain butterfly invades Britain – but will it become native?",
+      "link": "https://www.theguardian.com/environment/2026/oct/29/queen-of-spain-butterfly-invades-britain-but-will-it-become-native",
+      "summary": "This year thousands of the golden-coloured butterfly have arrived in Britain in what one expert calls ‘a bold attempt at colonisation’ The Queen of Spain has invaded. The enigmatic",
+      "date": "2026-10-29T06:00:25Z",
+      "image": "https://i.guim.co.uk/img/media/005b3f0a6520640573415f45ee1b9181cf0ccf9e/706_0_4355_3484/master/4355.jpg?width=140&quality=85&auto=format&fit=max&s=8584faaa248047602afa5ef64b21523a",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-29T06:54:29Z"
+    },
+    {
+      "title": "Country diary: A new chapter for the farm – we’re going organic | Andrea Meanwell",
+      "link": "https://www.theguardian.com/environment/2026/oct/29/country-diary-a-new-chapter-for-the-farm-were-going-organic",
+      "summary": "Tebay, Cumbria: Historically it’s been a tricky thing for hill farms to do, but we’ve always run ours on organic principles, and now we’re fully converting From 1 November we have ",
+      "date": "2026-10-29T05:30:23Z",
+      "image": "https://i.guim.co.uk/img/media/7fd2550a848a3aae26f4383f5b6e4109be2aa65c/64_0_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=d1f95d052c808f4daf9baf00e4ebaa35",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-29T06:54:29Z"
+    },
     {
       "title": "‘Worldwide legacy’: almost $20m raised to protect majestic tract of land in far north Queensland",
       "link": "https://www.theguardian.com/australia-news/2026/oct/29/worldwide-legacy-almost-20m-raised-to-protect-majestic-tract-of-land-in-far-north-queensland",
@@ -5465,39 +5498,6 @@
       "summary": "Marine heat waves are usually seen as destructive events that can disrupt entire ocean ecosystems and trigger massive environmental damage. In 2018 and 2019, an extreme heat wave h",
       "date": "2026-10-21T14:30:02Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bering-sea-heat-wave-l.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-21T15:05:43Z"
-    },
-    {
-      "title": "Kissing bugs can spread potentially fatal Chagas disease when dogs eat them",
-      "link": "https://phys.org/news/2026-10-bugs-potentially-fatal-chagas-disease.html",
-      "summary": "In the southern United States and across Latin America, kissing bugs can bite people and pets both outdoors and when they enter homes. While not every kissing bug carries disease, ",
-      "date": "2026-10-21T14:20:24Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/love-bites-not-quite-k.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-21T15:05:43Z"
-    },
-    {
-      "title": "Giant Jurassic fossil sheds light on the evolution of a six-legged predator",
-      "link": "https://phys.org/news/2026-10-giant-jurassic-fossil-evolution-legged.html",
-      "summary": "Insects belong to a broader group of six-legged animals called hexapods. This group also includes other less well-known, small animals, including diplurans or two-pronged bristleta",
-      "date": "2026-10-21T14:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/giant-jurassic-fossil-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-21T15:05:43Z"
-    },
-    {
-      "title": "Beyond infections, bacteria reveal promise for making medicines and protecting crops",
-      "link": "https://phys.org/news/2026-10-infections-bacteria-reveal-medicines-crops.html",
-      "summary": "Bacteria get a bad reputation—with all the outbreaks, infections and deaths.",
-      "date": "2026-10-21T13:40:13Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bacteria.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
