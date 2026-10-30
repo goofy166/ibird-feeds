@@ -1,8 +1,129 @@
 {
-  "updated": "2026-10-30T19:13:48Z",
-  "updated_utc": "2026-10-30T19:13:48Z",
+  "updated": "2026-10-30T23:35:06Z",
+  "updated_utc": "2026-10-30T23:35:06Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Wisconsin Bald Eagle, Valkyrie, Joins Milwaukee Brewers’ World Series Crew",
+      "link": "https://www.birdsandblooms.com/birding/birding-basics/bald-eagle-milwaukee-brewers-world-series/",
+      "summary": "This eagle is a Milwaukee Brewers fan! Meet Valkyrie, a raptor ambassador at a Wisconsin nature center, who loves America's national pastime. The post Wisconsin Bald Eagle, Valkyri",
+      "date": "Thu, 22 Oct 2026 13Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/10/20250310_1350370-scaled-e1792619810701.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-10-30T23:34:44Z"
+    },
+    {
+      "title": "The Supreme Court Will Decide Whether Border Construction Can Cut through Big Bend",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/big-bend-border-construction-supreme-court/",
+      "summary": "The fight over border construction in Texas's Big Bend region has reached the Supreme Court. The Trump administration wants to resume work, while conservationists, river guides, an",
+      "date": "2026-10-30T21:25:33Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/big-bend-bulldozin_h.jpeg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-10-30T23:34:55Z"
+    },
+    {
+      "title": "Further in Winter",
+      "link": "https://www.outsideonline.com/adventure-travel/destinations/further-in-winter/",
+      "summary": "Half sport, half cultural discovery, all adventure. That’s winter in Québec, a fourth-season playground like no other. The post Further in Winter appeared first on Outside Online .",
+      "date": "2026-10-30T21:12:50Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/AA_YRA5335-scaled-e1793296445494.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-10-30T23:34:55Z"
+    },
+    {
+      "title": "Why Québec is the Ultimate East Coast Ski Destination",
+      "link": "https://www.outsideonline.com/outdoor-adventure/snow-sports/why-quebec-is-the-ultimate-east-coast-ski-destination/",
+      "summary": "Vast terrain, reliable snow conditions, and a culture and après scene with Old World charm make this Canadian gem unique among North America’s winter destinations—and it’s surprisi",
+      "date": "2026-10-30T20:44:14Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/Quebec_featured_h-1.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-10-30T23:34:55Z"
+    },
+    {
+      "title": "Crafted From Bone, This 2,800-Year-Old Flute Unearthed in Troy May Have Been Played Around the Time That Homer Composed 'The Iliad' and 'The Odyssey'",
+      "link": "https://www.smithsonianmag.com/smart-news/crafted-from-bone-this-2800-year-old-flute-unearthed-in-troy-may-have-been-played-around-the-time-that-homer-composed-the-iliad-and-the-odyssey-180989792/",
+      "summary": "After more than 150 years of excavations, the object is the first musical instrument ever discovered in the ruins of the ancient city, which is located in modern-day Turkey",
+      "date": "2026-10-30T20:20:20Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/AKpv2vKSGNwEgaSQ5mzFUZ8zlYg=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f9/46/f9462a52-e858-424a-8024-9e19a3b14306/bone-flute.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-10-30T23:34:57Z"
+    },
+    {
+      "title": "A Dog Left a Paw Print on This Mud Brick 4,000 Years Ago. Archaeologists Discovered It in the Rubble of a Bronze Age House",
+      "link": "https://www.smithsonianmag.com/smart-news/a-dog-left-a-paw-print-on-this-mud-brick-4000-years-ago-archaeologists-discovered-it-in-the-rubble-of-a-bronze-age-house-180989785/",
+      "summary": "The brick was found at Tavsanli Hoyuk, an archaeological site in western Turkey. Humans and dogs in this region have had a close relationship for thousands of years",
+      "date": "2026-10-30T20:07:35Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/wC18lLwPspfIkaP7atRWBfVCvR8=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3d/1b/3d1b71b2-0c3b-47b1-9545-7f125caf1983/paw-print.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-10-30T23:34:57Z"
+    },
+    {
+      "title": "Madagascar's Giant Bats Seem to Be Shrinking. After Measuring 121 Specimens, Scientists Suggest Hunting by Humans Is to Blame",
+      "link": "https://www.smithsonianmag.com/smart-news/madagascars-giant-bats-seem-to-be-shrinking-after-measuring-121-specimens-scientists-suggest-hunting-by-humans-is-to-blame-180989782/",
+      "summary": "In a new study, researchers looked at museum specimens of the island’s flying foxes, spanning 150 years of history. They found a significant decline in size—right when commercial h",
+      "date": "2026-10-30T19:13:07Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/0eD1defXo-FQaafRJcqXPunKO0E=/420x240/filters:focal(507x377:508x378)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ea/e2/eae258ca-d684-4650-8860-cfae3e8ca16d/image_63408632931792100998139.png",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-10-30T23:34:57Z"
+    },
+    {
+      "title": "Livestock guardian dogs enlisted in efforts to conserve Texas' smallest fox",
+      "link": "https://phys.org/news/2026-10-livestock-guardian-dogs-efforts-texas.html",
+      "summary": "In the Texas Panhandle, two livestock guardian dogs patrol a herd of cattle grazing the Rita Blanca National Grasslands. Although their singular focus is protecting the herd from w",
+      "date": "2026-10-30T22:20:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/livestock-guardian-dog.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-30T23:35:02Z"
+    },
+    {
+      "title": "New home for orangutans rescued from Indonesia's burning forests",
+      "link": "https://phys.org/news/2026-10-home-orangutans-indonesia-forests.html",
+      "summary": "Deep in a forest in Indonesian Borneo, conservationists open a cage. A female orangutan and her baby waste little time, clambering up the towering trees and disappearing into the c",
+      "date": "2026-10-30T21:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-journey-was-a-long.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-30T23:35:02Z"
+    },
+    {
+      "title": "For many, striped bass fishing is a way of life. But the iconic species could face collapse",
+      "link": "https://phys.org/news/2026-10-striped-bass-fishing-life-iconic.html",
+      "summary": "Striped bass fishing has been Bill Jakob's passion for more than 60 years, and he remembers an era when he'd spend all night casting his line into the crashing waves off Montauk an",
+      "date": "2026-10-30T21:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/aptopix-saving-striped.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-30T23:35:02Z"
+    },
+    {
+      "title": "Four new frog species reveal more of Peru's biodiversity",
+      "link": "https://phys.org/news/2026-10-frog-species-reveal-peru-biodiversity.html",
+      "summary": "Science can't study a species—or unlock its potential to change the world—until people actually know it exists. Four new species of frogs have now been given names, thanks to the e",
+      "date": "2026-10-30T20:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/racing-bulldozers-biol.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-30T23:35:02Z"
+    },
     {
       "title": "Does Your Birth Month Owl Match Your Personality?",
       "link": "https://www.birdsandblooms.com/birding/bird-species/birds-of-prey/birth-month-owls/",
@@ -5381,127 +5502,6 @@
       "category": "wildlife",
       "color": 8,
       "fetched_at": "2026-10-22T19:55:12Z"
-    },
-    {
-      "title": "Three Mountain Emergencies in 14 Hours Reveal the Perils of Early Snow",
-      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/steamboat-snowstorm-hunter-rescues/",
-      "summary": "One group's frightening experience near Steamboat Springs unfolded as search-and-rescue crews responded to three hunter emergencies in just 14 hours. The post Three Mountain Emerge",
-      "date": "Thu, 22 Oct 2026 17Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/hunter-rescue-snow-steamboat_h.jpeg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-10-22T19:55:14Z"
-    },
-    {
-      "title": "Mammut’s Unwellness Retreat Is Flipping the Script on Optimization Culture",
-      "link": "https://www.outsideonline.com/health/wellness/mammuts-unwellness-retreat-is-flipping-the-script-on-optimization-culture/",
-      "summary": "The new social series is taking outdoor wellness retreats to a new level The post Mammut’s Unwellness Retreat Is Flipping the Script on Optimization Culture appeared first on Outsi",
-      "date": "Thu, 22 Oct 2026 16Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/Mammut_featured_h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-10-22T19:55:14Z"
-    },
-    {
-      "title": "Winter’s Best New Gear Has Been Decades in the Making",
-      "link": "https://www.outsideonline.com/outdoor-gear/snow-sports-gear/winters-best-new-gear-has-been-decades-in-the-making/",
-      "summary": "As a leader in outerwear innovation, Helly Hansen draws on a legacy of providing protection from the wet and cold The post Winter’s Best New Gear Has Been Decades in the Making app",
-      "date": "Thu, 22 Oct 2026 16Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/HellyHansen-Verglas-Shell-Jacket-action_september2026-Elmis-Sierra.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-10-22T19:55:14Z"
-    },
-    {
-      "title": "One in Four Cases of Depression Could Be Caused by a Dysregulated Body Clock, Study Says",
-      "link": "https://www.smithsonianmag.com/smart-news/one-in-four-cases-of-depression-could-be-caused-by-a-dysregulated-body-clock-study-says-180989736/",
-      "summary": "Outside experts warn that more research is needed before \"circadian depression\" can be classified as a subtype",
-      "date": "Thu, 22 Oct 2026 18Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/e5J74draHz1KOiAcXOx8m8Ip7aA=/420x240/filters:focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e4/a7/e4a79de6-8a13-430d-8e15-29d713a204cb/gettyimages-2156388255.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-22T19:55:15Z"
-    },
-    {
-      "title": "Researchers Claimed a Blurry Object on Apple Maps Was 'Very Likely' Amelia Earhart's Missing Plane. It Turned Out to Be a 'Collection of Large Trees'",
-      "link": "https://www.smithsonianmag.com/smart-news/researchers-claimed-a-blurry-object-on-apple-maps-was-very-likely-amelia-earharts-missing-plane-it-turned-out-to-be-a-collection-of-large-trees-180989734/",
-      "summary": "A 17-person crew traveled to a remote atoll in the South Pacific to investigate the so-called Taraia Object. After surveying the site, the team announced that the anomaly was not a",
-      "date": "Thu, 22 Oct 2026 16Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/m_vaNaaVR2Gi_7Ct2p-tJ0jHohk=/420x240/filters:focal(2196x1547:2197x1548)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a4/b0/a4b0116c-4758-47f1-bf84-146552ac5b77/gettyimages-515396050.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-22T19:55:15Z"
-    },
-    {
-      "title": "The Canadian Artist Jean Paul Riopelle Was 'Completely Absorbed by the Act of Painting.' His Abstract Works Finally Have Their Own Home in a Quebec Museum",
-      "link": "https://www.smithsonianmag.com/smart-news/the-canadian-artist-jean-paul-riopelle-was-completely-absorbed-by-the-act-of-painting-his-abstract-works-finally-have-their-own-home-in-a-quebec-museum-180989735/",
-      "summary": "Home to the world’s largest public collection of his artworks, a new pavilion at Quebec's Musée National des Beaux-Arts showcases the more than 50-year career of Riopelle, who was ",
-      "date": "Thu, 22 Oct 2026 15Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/RxUpjxoym-du-cmyxfggf_38BvQ=/420x240/filters:focal(2000x1257:2001x1258)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5c/4f/5c4ffbc8-5159-4020-8eba-7d4322f9aad7/2026-10-16_lh_025_copier.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-22T19:55:15Z"
-    },
-    {
-      "title": "A nanoparticle revealed the tiny impact of a single gas atom",
-      "link": "https://www.sciencenews.org/article/nanoparticle-tiny-impact-gas-atom",
-      "summary": "The force exerted by a gas usually results from many atoms or molecules at once. But scientists isolated the force of a lone particle.",
-      "date": "Thu, 22 Oct 2026 17Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102026_EC_gasmolecule_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-10-22T19:55:17Z"
-    },
-    {
-      "title": "Was van Gogh’s ‘The Starry Night’ a flight of fancy or a real sky?",
-      "link": "https://www.sciencenews.org/article/van-gogh-starry-night-real-sky-stars",
-      "summary": "Vincent van Gogh'spainted the iconic work in the summer of 1889. Now researchers claim to have pinned down which night the stars were from.",
-      "date": "Thu, 22 Oct 2026 15Z",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102226_LS_StarryNight_main.jpg?w=800",
-      "name": "Science News",
-      "category": "insects",
-      "color": 11,
-      "fetched_at": "2026-10-22T19:55:17Z"
-    },
-    {
-      "title": "Tiny ‘solar flares’ recreated in the lab may explain corona mystery",
-      "link": "https://www.newscientist.com/article/2595244-tiny-solar-flares-recreated-in-the-lab-may-explain-corona-mystery/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "An experiment has produced nanoflares similar to those seen on the sun, and shown that they can help explain why the outer layers of the solar atmosphere are so hot",
-      "date": "Thu, 22 Oct 2026 19Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317692891.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-22T19:55:18Z"
-    },
-    {
-      "title": "Earth entered its ‘bad decades’ after dinosaur-ending asteroid strike",
-      "link": "https://www.newscientist.com/article/2594979-earths-bad-decades-after-dinosaur-ending-asteroid-strike/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "We now have a clearer picture of what happened in the decades following the asteroid impact that led to the extinction of almost all dinosaurs",
-      "date": "Thu, 22 Oct 2026 17Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317718094.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-22T19:55:18Z"
-    },
-    {
-      "title": "Autumn wreaths and 'doorscaping': Why we need more life in our front gardens",
-      "link": "https://phys.org/news/2026-10-autumn-wreaths-doorscaping-life-front.html",
-      "summary": "There was a time when decorative wreaths appeared on front doors in December, stayed on front doors for a few weeks and then disappeared.",
-      "date": "2026-10-22T18:20:14Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/autumn-wreaths-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-22T19:55:19Z"
     }
   ]
 }
