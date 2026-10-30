@@ -1,8 +1,74 @@
 {
-  "updated": "2026-10-30T00:44:44Z",
-  "updated_utc": "2026-10-30T00:44:44Z",
+  "updated": "2026-10-30T06:57:34Z",
+  "updated_utc": "2026-10-30T06:57:34Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Are Vultures Birds of Prey: Why, Or Why Not?",
+      "link": "https://www.birdsandblooms.com/birding/birding-basics/are-vultures-birds-of-prey/",
+      "summary": "Vultures are scavengers, but do they share enough in common with hawks and owls to qualify them as birds of prey? Here's what to know. The post Are Vultures Birds of Prey: Why, Or ",
+      "date": "Tue, 13 Oct 2026 14Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/10/274841708_1_suzanne_moreaux_BNB_BYPC_2021-scaled-e1791561553784.jpeg?fit=700,699",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-10-30T06:57:14Z"
+    },
+    {
+      "title": "Owl Lifespan: How Long Do Owls Live?",
+      "link": "https://www.birdsandblooms.com/birding/birding-basics/owl-lifespan-how-long-do-owls-live/",
+      "summary": "Is the same owl visiting your backyard year after year? Here's how long ferocious, regal owls live, and which factors affect owl lifespan. The post Owl Lifespan: How Long Do Owls L",
+      "date": "Tue, 13 Oct 2026 14Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/08/13_Jamie-Johnston_BBon26-scaled.jpg?fit=700,1024",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-10-30T06:57:14Z"
+    },
+    {
+      "title": "How many of these official creature kindness badges have you earned? | First Dog on the Moon",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/oct/30/how-many-of-these-official-tiny-creature-kindness-badges-have-you-earned",
+      "summary": "A cartoon that celebrates small acts of grace Sign up here to get an email whenever First Dog cartoons are published Get all your needs met at the First Dog shop if what you need i",
+      "date": "2026-10-30T06:01:55Z",
+      "image": "https://i.guim.co.uk/img/media/9794edc1e46ad7463890153469f81cdd678b2d94/0_95_1123_898/master/1123.jpg?width=140&quality=85&auto=format&fit=max&s=cb9bb65ca14b4f5529b0437b80fb1795",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-30T06:57:18Z"
+    },
+    {
+      "title": "Wildlife Trusts hit £30m target to buy and rewild huge Northumberland estate",
+      "link": "https://www.theguardian.com/environment/2026/oct/30/wildlife-trusts-northumberland-nature-recovery-rothbury-estate",
+      "summary": "About 25,000 members of public chip in £17m towards 3,800-hectare Rothbury estate, described as ‘once-in-a-generation opportunity’ One of the most ambitious nature recovery project",
+      "date": "2026-10-30T05:00:44Z",
+      "image": "https://i.guim.co.uk/img/media/b6e6723b45528d6d3b81c5360836086c570a405a/0_0_3818_3055/master/3818.jpg?width=140&quality=85&auto=format&fit=max&s=3a71ef29910a8c8a0b5c52e88572bc93",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-30T06:57:18Z"
+    },
+    {
+      "title": "Feral deer will become Australia’s next feral pig problem without prompt action, report warns",
+      "link": "https://www.theguardian.com/environment/2026/oct/30/australia-feral-deer-problem-report-national-action-plan",
+      "summary": "The invasive species has increased in spread and numbers and is costing farmers millions of dollars Get our breaking news email , free app or daily news podcast An unpublished gove",
+      "date": "2026-10-30T03:30:42Z",
+      "image": "https://i.guim.co.uk/img/media/255893af5316a8d2e2c1a069cb538aa73b683a16/339_0_3274_2620/master/3274.jpg?width=140&quality=85&auto=format&fit=max&s=4995c95d6f590d315dc971d184b3a4f0",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-10-30T06:57:18Z"
+    },
+    {
+      "title": "New AI tool helps scientists identify bacteria hidden in soil",
+      "link": "https://phys.org/news/2026-10-ai-tool-scientists-bacteria-hidden.html",
+      "summary": "A handful of soil holds a crowded world of bacteria, fungi and other organisms. Scientists can collect their DNA, but much of it remains difficult to identify. Now, researchers at ",
+      "date": "2026-10-30T02:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-ai-tool-helps-scie-3.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-10-30T06:57:30Z"
+    },
     {
       "title": "What We Know About the Rugged Colorado Peaks Where Two Young Hikers Died",
       "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/three-apostles-colorado-climbing-hazards-ice-mountain/",
@@ -5436,72 +5502,6 @@
       "category": "wildlife",
       "color": 9,
       "fetched_at": "2026-10-21T23:57:18Z"
-    },
-    {
-      "title": "Archaeologists May Have Solved the Mystery of a Roman Sarcophagus Excavated at Westminster Abbey in 1869",
-      "link": "https://www.smithsonianmag.com/smart-news/archaeologists-may-have-solved-the-mystery-of-a-roman-sarcophagus-excavated-at-westminster-abbey-in-1869-180989732/",
-      "summary": "New research suggests that the ancient coffin was repurposed in the 10th or 11th century to hold the remains of an abbot who had overseen the London monastery",
-      "date": "2026-10-21T20:34:09Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/7IRa04gtSbZbQFUDj22TLtWEorM=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/23/9e/239ef087-4c00-4afc-a727-0299d689db31/sarcophagus.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-21T23:57:19Z"
-    },
-    {
-      "title": "Where Exactly Were the First Humans to Be Captured in a Photograph Standing? Three Obsessed Filmmakers Solved the Nearly 200-Year-Old Mystery",
-      "link": "https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/",
-      "summary": "The sleuths spent two years digging into archives and building 3D models of 19th-century Paris. The location is now immortalized by a bronze plaque celebrating the historic site an",
-      "date": "2026-10-21T16:29:02Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/JzqTXpDuxCMPf42-Ab3ZL7R7YfI=/420x240/filters:focal(1720x1147:1721x1148)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/eb/b5/ebb52ce7-6bce-4a5f-866f-07208a301b70/boulevard_du_temple_by_daguerre.jpeg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-21T23:57:19Z"
-    },
-    {
-      "title": "AI listens to bee buzzes to monitor activity without lethal traps",
-      "link": "https://phys.org/news/2026-10-ai-bee-lethal.html",
-      "summary": "Populations of many pollinators, including bumblebees, have been crashing over the last few decades, thanks to the widespread use of chemical pesticides, loss of habitat and the ac",
-      "date": "2026-10-21T23:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-microphone-captures.jpg",
-      "name": "Phys.org",
-      "category": "butterflies",
-      "color": 13,
-      "fetched_at": "2026-10-21T23:57:23Z"
-    },
-    {
-      "title": "Venomous primate thought lost to science for nearly a century turns up in gardens and on roads across Indonesia",
-      "link": "https://phys.org/news/2026-10-venomous-primate-thought-lost-science.html",
-      "summary": "A big-eyed, venomous primate that had not been documented in scientific literature since the 1930s has been hiding in plain sight on the Indonesian island of Bangka, turning up in ",
-      "date": "2026-10-21T23:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/venomous-primate-thoug.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-21T23:57:23Z"
-    },
-    {
-      "title": "New optogenetic tool inhibits activity in neurons and heart muscle cells",
-      "link": "https://phys.org/news/2026-10-optogenetic-tool-inhibits-neurons-heart.html",
-      "summary": "Researchers from Ruhr University Bochum have partnered with colleagues in Göttingen, Berlin, Paris and Essen to develop new optogenetic tools that can selectively inhibit cellular ",
-      "date": "2026-10-21T23:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-optogenetic-tool-i.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-21T23:57:23Z"
-    },
-    {
-      "title": "Candida auris: A harbinger of further dangerous fungal species?",
-      "link": "https://phys.org/news/2026-10-candida-auris-harbinger-dangerous-fungal.html",
-      "summary": "Why has the yeast Candida auris become a dangerous pathogen worldwide in just a few years? This question is on the minds of many researchers. Carla Schuh and Chaitanya Gokhale from",
-      "date": "2026-10-21T23:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/candida-auris-a-harbin.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-21T23:57:23Z"
     }
   ]
 }
