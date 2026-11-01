@@ -1,8 +1,30 @@
 {
-  "updated": "2026-11-01T14:55:18Z",
-  "updated_utc": "2026-11-01T14:55:18Z",
+  "updated": "2026-11-01T19:28:41Z",
+  "updated_utc": "2026-11-01T19:28:41Z",
   "count": 500,
   "stories": [
+    {
+      "title": "A Big Morning in Costa Rica",
+      "link": "https://www.10000birds.com/a-big-morning-in-costa-rica.htm?utm_source=rss&utm_medium=rss&utm_campaign=a-big-morning-in-costa-rica",
+      "summary": "October 10th wasn’t just any other pumpkin-spiced Autumn day. White-throated Sparrows doing the towhee two step in sugar red leaves brought the fall magic but, while the non-birdin",
+      "date": "2026-11-01T18:37:35Z",
+      "image": "https://www.10000birds.com/wp-content/uploads/spectacled-owl.jpg",
+      "name": "10,000 Birds",
+      "category": "birds",
+      "color": 1,
+      "fetched_at": "2026-11-01T19:28:21Z"
+    },
+    {
+      "title": "From Italy to Croatia, a warming climate threatens prized white truffles",
+      "link": "https://phys.org/news/2026-11-italy-croatia-climate-threatens-prized.html",
+      "summary": "Guided by the beam of a flashlight, Tino Marolo follows his dog Stella through the darkness of a Piedmont woodland, searching for one of Italy's most prized culinary treasures hidd",
+      "date": "2026-11-01T19:03:58Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/italy-truffles-climate.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-01T19:28:38Z"
+    },
     {
       "title": "Birding Conservation of the World: BirdLife Malta",
       "link": "https://www.10000birds.com/birding-conservation-of-the-world-birdlife-malta.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-conservation-of-the-world-birdlife-malta",
@@ -5480,28 +5502,6 @@
       "category": "wildlife",
       "color": 5,
       "fetched_at": "2026-10-23T14:51:34Z"
-    },
-    {
-      "title": "Olbers’ paradox asks ‘Why is the night sky dark?’",
-      "link": "https://earthsky.org/astronomy-essentials/olbers-paradox-asks-why-is-the-night-sky-dark/",
-      "summary": "Olbers' paradox asks why is space dark if the universe is filled with stars. The answer has to do with traveling light and red-shifting colors. The post Olbers’ paradox asks ‘Why i",
-      "date": "2026-10-23T10:10:00Z",
-      "image": "https://counter.theconversation.com/content/205810/count.gif?distributor=republish-lightbox-basic",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-10-23T14:51:35Z"
-    },
-    {
-      "title": "1st photo of Earth from space, 80 years ago",
-      "link": "https://earthsky.org/space/this-date-in-science-first-ever-photo-of-earth-from-space/",
-      "summary": "On October 24, 1946 — 80 years ago — a movie camera on board a V-2 rocket captured the 1st-ever photo of Earth from space. The post 1st photo of Earth from space, 80 years ago firs",
-      "date": "2026-10-23T10:03:00Z",
-      "image": "https://earthsky.org/upl/2016/10/earth-1st-photo-from-sace-10-24-1946.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-10-23T14:51:35Z"
     }
   ]
 }
