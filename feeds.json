@@ -1,8 +1,19 @@
 {
-  "updated": "2026-10-31T21:19:57Z",
-  "updated_utc": "2026-10-31T21:19:57Z",
+  "updated": "2026-11-01T00:54:24Z",
+  "updated_utc": "2026-11-01T00:54:24Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Looking for bats after dark can help science—and change how we see them",
+      "link": "https://phys.org/news/2026-10-dark-science.html",
+      "summary": "What's that chirping sound coming through the detector? Did you feel something whiz past? Those are just some ways people react when they encounter microbats for the first time. Mi",
+      "date": "2026-10-31T22:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/looking-for-bats-after.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-01T00:54:20Z"
+    },
     {
       "title": "Sun news: Halloween 2003 was a scary time to be a satellite",
       "link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
@@ -5487,17 +5498,6 @@
       "summary": "It is tough to watch a dog deal with issues associated with aging. A senior dog that gets lost at home or starts showing more anxiety may be exhibiting signs of dementia. But by th",
       "date": "2026-10-23T11:40:01Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hide-and-seek-for-trea.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-23T14:51:45Z"
-    },
-    {
-      "title": "What is red crown rot? Expert explains emerging soybean pathogen",
-      "link": "https://phys.org/news/2026-10-red-crown-expert-emerging-soybean.html",
-      "summary": "Red crown rot, a fungal disease of soybean, is not new to the Midwest. First reported in Illinois in 2018, the disease is now surging across the state and the region. Boris Camilet",
-      "date": "2026-10-23T11:10:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-is-red-crown-rot.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
