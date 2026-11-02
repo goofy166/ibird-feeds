@@ -1,8 +1,30 @@
 {
-  "updated": "2026-11-01T23:28:10Z",
-  "updated_utc": "2026-11-01T23:28:10Z",
+  "updated": "2026-11-02T05:39:55Z",
+  "updated_utc": "2026-11-02T05:39:55Z",
   "count": 500,
   "stories": [
+    {
+      "title": "‘They have schedules to follow’: how fast ferries can threaten endangered whales in the Mediterranean",
+      "link": "https://www.theguardian.com/environment/2026/nov/02/fast-ferries-threaten-endangered-whales-mediterranean",
+      "summary": "A Guardian investigation has found that despite a recommendation to slow down, leading shipping companies continue to travel above advised speeds in a key habitat for cetaceans Mar",
+      "date": "2026-11-02T05:00:32Z",
+      "image": "https://i.guim.co.uk/img/media/51d8aa479dc82ad7c40d3d6b50c5dbf131c9fa29/1234_539_4326_3461/master/4326.jpg?width=140&quality=85&auto=format&fit=max&s=34ee22e6e517a67b3806bc10c222884c",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-11-02T05:39:38Z"
+    },
+    {
+      "title": "Tired of the Winter Blues? The Unique Festival of Lights Zagreb Marks the Much-Anticipated Arrival of Spring",
+      "link": "https://www.smithsonianmag.com/sponsored/tired-of-the-winter-blues-the-unique-festival-of-lights-zagreb-marks-the-much-anticipated-arrival-of-spring-180989751/",
+      "summary": "From March 17 to 21, 2027, Croatia’s capital transforms into a dazzling open-air gallery, illuminated by light installations and artworks from local and international artists",
+      "date": "2026-11-02T05:00:00Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/1xHc_VdWG8iwLP4nznBHJTVyAWs=/420x240/filters:focal(1000x700:1001x701)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b8/c6/b8c63cd4-f2e9-49f4-b024-df52d1256ea6/hero.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-11-02T05:39:46Z"
+    },
     {
       "title": "A Big Morning in Costa Rica",
       "link": "https://www.10000birds.com/a-big-morning-in-costa-rica.htm?utm_source=rss&utm_medium=rss&utm_campaign=a-big-morning-in-costa-rica",
@@ -5480,28 +5502,6 @@
       "category": "birds",
       "color": 1,
       "fetched_at": "2026-10-23T14:51:29Z"
-    },
-    {
-      "title": "Ospreys of Northeast Pennsylvania: Lackawanna State Park",
-      "link": "https://www.10000birds.com/ospreys-of-northeast-pennsylvania-lackawanna-state-park.htm?utm_source=rss&utm_medium=rss&utm_campaign=ospreys-of-northeast-pennsylvania-lackawanna-state-park",
-      "summary": "By Samantha Meheltz Samantha is a young birder in Northeastern Pennsylvania. She took a huge interest in birds when she was 7 years old and stumbled into her neighbor’s yard, where",
-      "date": "2026-10-23T11:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/07/Osprey_DSC5211_Bath-Maine-mid-Jun-2026.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-10-23T14:51:29Z"
-    },
-    {
-      "title": "Counting crows (and cockatoos, and kookaburras): BirdLife Australia’s Aussie bird count takes flight for 2026",
-      "link": "https://www.theguardian.com/environment/2026/oct/24/birdlife-australia-aussie-bird-count-takes-flight-for-2026",
-      "summary": "With more than 3.7 million birds counted already, the annual bird survey is on track to beat last year’s record by the time it closes on Sunday 25 October Sign up for climate and e",
-      "date": "2026-10-23T14:00:29Z",
-      "image": "https://i.guim.co.uk/img/media/d5103af4d91ee2b7229a3da8d4cb5858ce69a554/772_2053_3113_2491/master/3113.jpg?width=140&quality=85&auto=format&fit=max&s=f8cf72e02047470a16b4837fda7c914e",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-10-23T14:51:34Z"
     }
   ]
 }
