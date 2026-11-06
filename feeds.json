@@ -1,8 +1,140 @@
 {
-  "updated": "2026-11-06T01:27:56Z",
-  "updated_utc": "2026-11-06T01:27:56Z",
+  "updated": "2026-11-06T09:11:30Z",
+  "updated_utc": "2026-11-06T09:11:30Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: This could be a case of mistaken rodentity | Nic Wilson",
+      "link": "https://www.theguardian.com/environment/2026/nov/06/country-diary-this-could-be-a-case-of-mistaken-rodentity",
+      "summary": "Clophill Lakes, Bedfordshire: Bank vole or wood mouse? On a series of nine-second videos, they’re not so easy to tell apart Bank vole or wood mouse? That is the question. I’m worki",
+      "date": "2026-11-06T05:30:44Z",
+      "image": "https://i.guim.co.uk/img/media/89fbb98a2e8b884f9274cbd198290d30afdb1aa8/346_0_3543_2835/master/3543.jpg?width=140&quality=85&auto=format&fit=max&s=5e35bab33b9a129416c8c1b2c6142147",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-11-06T09:11:13Z"
+    },
+    {
+      "title": "More than 40 pilot whales die after mass stranding in New Zealand’s North Island",
+      "link": "https://www.theguardian.com/world/2026/nov/06/pilot-whales-dead-stranded-new-zealand-north-island",
+      "summary": "Rescuers were unable to save the whales after they became beached on a remote and rocky part of the country More than 40 pilot whales died after a mass stranding event on New Zeala",
+      "date": "2026-11-06T04:45:33Z",
+      "image": "https://i.guim.co.uk/img/media/7832835a47ae0dafc7191e12ff857c3aa6d28de7/68_0_5851_4681/master/5851.jpg?width=140&quality=85&auto=format&fit=max&s=b19c63aebbd1847909e6b6e9bbaa95a1",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-11-06T09:11:13Z"
+    },
+    {
+      "title": "Proud as a peacock: bird that broke into Brisbane home reunited with owners",
+      "link": "https://www.theguardian.com/environment/2026/nov/06/proud-as-a-peacock-community-effort-sees-bird-that-broke-into-brisbane-home-reunited-with-owners",
+      "summary": "Hex was found in an Alexandra Hills home last week admiring himself in the bathroom mirror. Since then, a whole-of-suburb search has been under way Get our breaking news email , fr",
+      "date": "2026-11-06T03:34:13Z",
+      "image": "https://i.guim.co.uk/img/media/33b2b4afae140ffe8c6244689a990dbda5c15138/0_266_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=e13c19da2f9de156d48d0a28126b02f5",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-11-06T09:11:13Z"
+    },
+    {
+      "title": "Peru airport officials seize over 3,000 tarantulas hidden in socks – video",
+      "link": "https://www.theguardian.com/world/video/2026/nov/06/peru-airport-officials-seize-over-3000-tarantulas-hidden-in-socks-video",
+      "summary": "Peruvian authorities seized more than 3,000 tarantulas hidden inside socks packed in the suitcases of three people heading on a flight to Germany, the National Forestry and Wildlif",
+      "date": "2026-11-06T03:22:37Z",
+      "image": "https://i.guim.co.uk/img/media/133a0a5b5bf44445b9f662add28a8472d32396e7/302_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=8473dc122fe86f211c9bf5a07aae3e21",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-11-06T09:11:13Z"
+    },
+    {
+      "title": "The constellation Andromeda the Chained Lady",
+      "link": "https://earthsky.org/constellations/constellation-andromeda-the-chained-lady/",
+      "summary": "The constellation Andromeda the Chained Lady is most famous for containing M31, the Andromeda Galaxy, the closest large spiral galaxy to the Milky Way. The post The constellation A",
+      "date": "2026-11-06T09:00:00Z",
+      "image": "https://earthsky.org/upl/2021/08/Andromeda-galaxy-via-Cassiopeia-e1629839119254.jpg",
+      "name": "EarthSky",
+      "category": "wildlife",
+      "color": 6,
+      "fetched_at": "2026-11-06T09:11:14Z"
+    },
+    {
+      "title": "A robot called GIMLI will explore a lunar cave for a future moon base",
+      "link": "https://www.newscientist.com/article/2597780-a-robot-called-gimli-will-explore-a-lunar-cave-for-a-future-moon-base/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "The race to build a moon base is ramping up. Columnist Robin George Andrews explores how NASA is preparing by sending a cave-hunting robot ahead of humans",
+      "date": "2026-11-06T09:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319405592.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-11-06T09:11:23Z"
+    },
+    {
+      "title": "Bear necessities: Indian techie builds wildlife alert",
+      "link": "https://phys.org/news/2026-11-necessities-indian-techie-wildlife.html",
+      "summary": "After his mother was killed in a bear attack in Kashmir, Indian software engineer Mudasir Ali developed an online early-warning system to help people in the Himalayan region avoid ",
+      "date": "2026-11-06T08:58:18Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ali-launched-wildping.jpg",
+      "name": "Phys.org",
+      "category": "butterflies",
+      "color": 13,
+      "fetched_at": "2026-11-06T09:11:25Z"
+    },
+    {
+      "title": "Investigation links Australian deforestation to beef farming and major bank loans",
+      "link": "https://phys.org/news/2026-11-links-australian-deforestation-beef-farming.html",
+      "summary": "ACF's latest report, \"Bulldozers and Broken Promises,\" an investigation into deforestation, has ruffled a few feathers. But someone has to do it. Why? Because deforestation is a hu",
+      "date": "2026-11-06T04:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/is-the-beef-in-your-tr.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-06T09:11:25Z"
+    },
+    {
+      "title": "New species of sawfly described",
+      "link": "https://phys.org/news/2026-11-species-sawfly.html",
+      "summary": "Yale College junior Leah Mock did fieldwork in a remote quarry in western Colorado that exposes the 50-million-year-old Green River Formation.",
+      "date": "2026-11-06T03:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-species-of-sawfly-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-06T09:11:25Z"
+    },
+    {
+      "title": "How mitochondria keep protein production moving",
+      "link": "https://phys.org/news/2026-11-mitochondria-protein-production.html",
+      "summary": "Researchers at Karolinska Institutet have discovered how a protein called TACO1 helps mitochondria produce proteins when the process encounters difficult sequences. The study, publ",
+      "date": "2026-11-06T03:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-mitochondria-keep.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-06T09:11:25Z"
+    },
+    {
+      "title": "Hidden ecological risk from overlooked invasive crayfish species",
+      "link": "https://phys.org/news/2026-11-hidden-ecological-overlooked-invasive-crayfish.html",
+      "summary": "A new study reveals narrow-clawed crayfish, an understudied invasive species in the U.K., to be as aggressive as the well-known signal crayfish.",
+      "date": "2026-11-06T02:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-ecological-risk.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-06T09:11:25Z"
+    },
+    {
+      "title": "Successful restoration of fish migration requires more than fish passes",
+      "link": "https://phys.org/news/2026-11-successful-fish-migration-requires.html",
+      "summary": "The Netherlands is constructing fish passes to make rivers and streams accessible to fish again. But how effective are these structures? New Ph.D. research by Panos Panagiotopoulos",
+      "date": "2026-11-06T02:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/successful-restoration.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-06T09:11:25Z"
+    },
     {
       "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
       "link": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
@@ -5370,138 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-10-29T00:44:02Z"
-    },
-    {
-      "title": "Bronze Age sword discovered in an Italian lake is still sharp after 3,300 years",
-      "link": "https://www.livescience.com/archaeology/bronze-age-sword-discovered-in-an-italian-lake-is-still-sharp-after-3-300-years",
-      "summary": "Archaeologists found several ancient weapons, intact vases and a bronze razor in the volcanic crater lake.",
-      "date": "2026-10-28T21:27:58Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Pqq36mgnjfiEtT6jvfKf84-1920-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-10-29T00:44:03Z"
-    },
-    {
-      "title": "Fisherman killed by alligator died from leg injuries, drowning",
-      "link": "https://www.mercurynews.com/2026/10/19/man-killed-by-gator-near-lake-apopka-died-from-leg-injuries-drowning-medical-examiner-says/",
-      "summary": "The 71-year-old man was fishing when he was attacked by the nearly 12-foot animal, officials said.",
-      "date": "2026-10-19T22:17:09Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/10/AP26290604007498.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-10-28T20:55:22Z"
-    },
-    {
-      "title": "Can an E-Bike Replace Your Minivan? I Found Out.",
-      "link": "https://www.outsideonline.com/outdoor-gear/bikes-and-biking/can-an-e-bike-replace-a-minivan/",
-      "summary": "E-bikes make great commuter vehicles—I set out to see if they would also work as a kid hauler. The post Can an E-Bike Replace Your Minivan? I Found Out. appeared first on Outside O",
-      "date": "2026-10-28T17:35:12Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/e-Bike-kid-commute-h.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-10-28T20:55:24Z"
-    },
-    {
-      "title": "The 14 Best Snowboard Bindings of 2027",
-      "link": "https://www.outsideonline.com/outdoor-gear/snow-sports-gear/the-best-snowboard-bindings/",
-      "summary": "These tester-approved bindings are responsive, reliable, and fun as hell. The post The 14 Best Snowboard Bindings of 2027 appeared first on Outside Online .",
-      "date": "2026-10-28T15:59:34Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2025/10/snowboard-bindings_katie-botwin.png?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-10-28T20:55:24Z"
-    },
-    {
-      "title": "See 18 Captivating Images From the European Wildlife Photographer of the Year Contest",
-      "link": "https://www.smithsonianmag.com/smart-news/see-18-captivating-images-from-the-european-wildlife-photographer-of-the-year-contest-180989769/",
-      "summary": "From tranquil landscapes to a thunderous flock of seabirds, the recognized photos reveal stunning scenes of often-hidden aspects of the natural world",
-      "date": "2026-10-28T19:46:25Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/_zDqn-x8JJbKb1g5VlN8zjY2qbs=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d4/6a/d46ac8b3-8c12-4448-9a26-17151e21b2f2/k2_10_marc_siegle_kleine_mitbewohner.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-28T20:55:25Z"
-    },
-    {
-      "title": "'Lie Down and Look Up' at England's Most Ornate Ceilings, From Sparkling Gold-Leaf Stars to Intricate Plaster Designs at Queen Victoria's Seaside Retreat",
-      "link": "https://www.smithsonianmag.com/smart-news/lie-down-and-look-up-at-englands-most-ornate-ceilings-from-sparkling-gold-leaf-stars-to-intricate-plaster-designs-at-queen-victorias-seaside-retreat-180989770/",
-      "summary": "A new campaign encourages visitors to take in the lavish art above their heads at five historic sites across England. There are even cushions for maximum comfort while you gaze",
-      "date": "2026-10-28T18:19:13Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/jdBZZ_tLaNJpPgylxK49DoFyvqc=/420x240/filters:focal(540x303:541x304)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c1/3a/c13ac438-baee-4304-b584-7692eaf4f0a0/lie-down-and-look-up-1080x600.webp",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-28T20:55:25Z"
-    },
-    {
-      "title": "Did Women and Children Collaborate With Male Artisans to Create China's Terra-Cotta Army? Fingerprints Left on the 2,000-Year-Old Clay Warriors May Hold the Answer",
-      "link": "https://www.smithsonianmag.com/smart-news/did-women-and-children-collaborate-with-male-artisans-to-create-chinas-terra-cotta-army-fingerprints-left-on-the-2000-year-old-clay-warriors-may-hold-the-answer-180989767/",
-      "summary": "A new study found that adult women and juveniles under the age of 15 accounted for 67 percent of the fingerprints analyzed. The research challenges long-held assumptions about the ",
-      "date": "2026-10-28T17:03:08Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/lSFvt8609hZ105fa_n8o1WBk0wg=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5f/cf/5fcfa568-cd6d-46af-9d83-08a6925a7062/terra-cotta-army.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-10-28T20:55:25Z"
-    },
-    {
-      "title": "Twisteddoodles on scientists in horror movies",
-      "link": "https://www.newscientist.com/article/2596005-twisteddoodles-on-scientists-in-horror-movies/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "This week's cartoon from Twisteddoodles",
-      "date": "2026-10-28T18:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317847943.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-28T20:55:28Z"
-    },
-    {
-      "title": "Tom Gauld on how to scare a scientist",
-      "link": "https://www.newscientist.com/article/2596003-tom-gauld-on-how-to-scare-a-scientist/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Tom Gauld's weekly cartoon",
-      "date": "2026-10-28T18:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317847773.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-28T20:55:28Z"
-    },
-    {
-      "title": "Why the world’s first spinal cord transplant is so controversial",
-      "link": "https://www.newscientist.com/article/2595939-why-the-worlds-first-spinal-cord-transplant-is-so-controversial/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "A spinal cord transplant happened in people for the first time during a surgery in Russia, but the evidence underpinning it is lacking",
-      "date": "2026-10-28T18:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318280448.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-28T20:55:28Z"
-    },
-    {
-      "title": "Our verdict on Exit Party by Emily St. John Mandel: Not her best book",
-      "link": "https://www.newscientist.com/article/2595814-our-verdict-on-exit-party-by-emily-st-john-mandel-not-her-best-book/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "The New Scientist Book Club has been reading the Station Eleven author's latest speculative novel. While they found lots of things to praise, there were criticisms of the pace of t",
-      "date": "2026-10-28T18:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI317457490.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-28T20:55:28Z"
-    },
-    {
-      "title": "The King’s Observatory could be yours for the low, low price of £18 million",
-      "link": "https://www.newscientist.com/article/2595720-the-kings-observatory-could-be-yours-for-the-low-low-price-of-18-million/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "The King's Observatory in London, built on the orders of King George III so he could watch the 1769 transit of Venus, is up for sale. Feedback is interested – but not sure if our b",
-      "date": "2026-10-28T18:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318371030.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-28T20:55:28Z"
     }
   ]
 }
