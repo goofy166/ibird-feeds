@@ -1,8 +1,173 @@
 {
-  "updated": "2026-11-05T20:33:41Z",
-  "updated_utc": "2026-11-05T20:33:41Z",
+  "updated": "2026-11-06T01:27:56Z",
+  "updated_utc": "2026-11-06T01:27:56Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
+      "link": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
+      "summary": "Three suitcases’ worth of the spiders were on their way to Germany, where they could fetch an estimated €1.5m More than 3,000 tarantulas were seized at an airport in Lima on their ",
+      "date": "2026-11-06T01:22:49Z",
+      "image": "https://i.guim.co.uk/img/media/c8e02014efcb6621df0185a3b2dd97463db96479/238_75_789_631/master/789.jpg?width=140&quality=85&auto=format&fit=max&s=bfce97c63034fd949cbcc621f93c55c2",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-11-06T01:27:40Z"
+    },
+    {
+      "title": "Lindsey Vonn Is Headed for Her 9th Surgery. She’s Still Thinking About Skiing.",
+      "link": "https://www.outsideonline.com/outdoor-adventure/snow-sports/lindsey-vonn-surgery-skiing/",
+      "summary": "After a devastating Olympic crash, eight surgeries, and a close call with amputation, Lindsey Vonn is preparing for another operation—and still has her sights set on skiing again. ",
+      "date": "Thu, 05 Nov 2026 21Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/11/GettyImages-2259566097.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-11-06T01:27:46Z"
+    },
+    {
+      "title": "A Nazi Submarine Torpedoed a Merchant Ship Just Off the Coast of Maine in 1944. Divers Have Finally Located the Wreckage, 400 Feet Below the Surface",
+      "link": "https://www.smithsonianmag.com/smart-news/a-nazi-submarine-torpedoed-a-merchant-ship-just-off-the-coast-of-maine-in-1944-divers-have-finally-located-the-wreckage-400-feet-below-the-surface-180989822/",
+      "summary": "The SS \"Cornwallis\" was traveling between Barbados and Canada when it was sunk by a German U-boat that had delivered Nazi spies to American soil just days earlier",
+      "date": "Thu, 05 Nov 2026 22Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/8bQReyOLCWAr0mjfBUpadLS5Zbc=/420x240/filters:focal(960x530:961x531)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/75/54/755403b6-87d9-4459-8597-6ec1ccc0faea/cornwallis.jpeg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-11-06T01:27:47Z"
+    },
+    {
+      "title": "Was the British King Who Urged the Romans to Invade Actually a Queen? One Archaeologist Thinks So",
+      "link": "https://www.smithsonianmag.com/smart-news/was-the-british-king-who-urged-the-roman-invasion-of-britain-actually-a-queen-one-archaeologist-thinks-so-180989821/",
+      "summary": "Linguistic clues and ancient coins could suggest that Verica—a ruler who fled Britain and convinced Roman Emperor Claudius to launch an invasion across the English Channel—has been",
+      "date": "Thu, 05 Nov 2026 21Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/jJB3JjL0VdMQYl2h_7iDQE88tFA=/420x240/filters:focal(512x458:513x459)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ce/3b/ce3ba593-6137-4ecf-bba2-a723bfb94818/gettyimages-1183129122.jpg",
+      "name": "Smithsonian",
+      "category": "insects",
+      "color": 10,
+      "fetched_at": "2026-11-06T01:27:47Z"
+    },
+    {
+      "title": "How octopuses squeeze through tiny openings, step by step",
+      "link": "https://www.sciencenews.org/article/octopuses-squeeze-escape-steps-video",
+      "summary": "In the lab, octopuses used specific moves to slip arms and a bulbous body through tiny holes. The finding could inspire new body plans for soft robots.",
+      "date": "Thu, 05 Nov 2026 21Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/110526_nb_octopus-squeeze_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-11-06T01:27:49Z"
+    },
+    {
+      "title": "Chemicals in sewage-based fertilizer may persist in farmland soil for years",
+      "link": "https://phys.org/news/2026-11-chemicals-sewage-based-fertilizer-persist.html",
+      "summary": "UNSW engineers have identified a number of chemicals that may merit closer scrutiny to ensure water utility companies and regulators can make informed decisions about the managemen",
+      "date": "2026-11-06T01:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/biosolids.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-06T01:27:52Z"
+    },
+    {
+      "title": "Climate shapes microbial nitrogen pump in forests, not in farmlands",
+      "link": "https://phys.org/news/2026-11-climate-microbial-nitrogen-forests-farmlands.html",
+      "summary": "Microbes build a long-lived nitrogen reservoir in soil from the remains of dead bacteria and fungi, which cling to minerals and resist decay. The microbial nitrogen pump turns nitr",
+      "date": "2026-11-06T00:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/conceptual-framework-f.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-06T01:27:52Z"
+    },
+    {
+      "title": "Land plants' closest algal relatives evolved multicellular growth repeatedly, genetic analysis suggests",
+      "link": "https://phys.org/news/2026-11-closest-algal-evolved-multicellular-growth.html",
+      "summary": "What did the algae that gave rise to the first land plants look like? A research team led by the University of Göttingen and including the universities of Maastricht and Innsbruck ",
+      "date": "2026-11-05T23:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/deep-evolutionary-hist.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-06T01:27:52Z"
+    },
+    {
+      "title": "Underwater cameras can estimate fish weight in real time without generating full depth maps",
+      "link": "https://phys.org/news/2026-11-underwater-cameras-fish-weight-real.html",
+      "summary": "Accurate fish-weight estimates can help aquaculture operators manage feeding, monitor growth and plan harvests. However, conventional underwater imaging methods often require subst",
+      "date": "2026-11-05T23:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/underwater-cameras-can.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-06T01:27:52Z"
+    },
+    {
+      "title": "New placenta-on-a-chip model allows engineers to study effects of environmental toxins",
+      "link": "https://phys.org/news/2026-11-placenta-chip-effects-environmental-toxins.html",
+      "summary": "Exposure to toxic metals like cadmium has been associated with adverse pregnancy outcomes such as miscarriage, preterm birth and low birth weight. Because these effects are difficu",
+      "date": "2026-11-05T23:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-placenta-on-a-chip-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-06T01:27:52Z"
+    },
+    {
+      "title": "Antibiotic pollution may be key factor in honeybee colony collapses",
+      "link": "https://phys.org/news/2026-11-antibiotic-pollution-key-factor-honeybee.html",
+      "summary": "High losses of honeybee colonies, which play a crucial role in global food production, have caused concern around the world. Many potential factors for the population declines have",
+      "date": "2026-11-05T23:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/honeybee-colony.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-06T01:27:52Z"
+    },
+    {
+      "title": "Leaf nutrient balance helps explain earlier fall color in US forests",
+      "link": "https://phys.org/news/2026-11-leaf-nutrient-earlier-fall-forests.html",
+      "summary": "For devout leaf peepers, timing is everything. A new study led by researchers from Duke University's Nicholas School of the Environment shows that leaf nutrient levels affect the o",
+      "date": "2026-11-05T22:40:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nutrient-balance-in-le.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-06T01:27:52Z"
+    },
+    {
+      "title": "Citizen science program helps find exotic ticks",
+      "link": "https://phys.org/news/2026-11-citizen-science-exotic.html",
+      "summary": "Climate change is affecting not only our weather but also the distribution of parasites and the diseases they can carry. One example is the growing presence of Hyalomma ticks in pa",
+      "date": "2026-11-05T21:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-to-find-exotic-tic.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-06T01:27:52Z"
+    },
+    {
+      "title": "As Antarctic blue whales advance along the road to recovery, continued oversight is key",
+      "link": "https://phys.org/news/2026-11-antarctic-blue-whales-advance-road.html",
+      "summary": "Antarctic blue whales appear to be creeping back from the brink of extinction after 50 years of protection. A new study estimates the total population at 4,018, up from 418 after t",
+      "date": "2026-11-05T21:00:13Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-dark-back-of-a-blu.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-06T01:27:52Z"
+    },
+    {
+      "title": "How octopuses squeeze through too-small gaps",
+      "link": "https://phys.org/news/2026-11-octopuses-small-gaps.html",
+      "summary": "Octopuses are extraordinarily versatile. From walking across the seabed on their eight arms to jetting through the water, manipulating tools and squeezing through unimaginably tigh",
+      "date": "2026-11-05T21:00:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-octopuses-squeeze.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-06T01:27:52Z"
+    },
     {
       "title": "Hera mission gets its 1st closeup view of Didymos and Dimorphos",
       "link": "https://earthsky.org/space/hera-mission-dart-asteroid-impact/",
@@ -5337,171 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-10-28T20:55:28Z"
-    },
-    {
-      "title": "This week’s new questions",
-      "link": "https://www.newscientist.com/article/2595718-this-weeks-new-questions-369/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "If aliens with technology similar to ours lived on a planet orbiting Proxima centauri (the next-nearest star), would we be able to see unmistakable signs of a technological civilis",
-      "date": "2026-10-28T18:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317457943.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-28T20:55:28Z"
-    },
-    {
-      "title": "Why can’t we cool water as quickly as we can heat it? part 3",
-      "link": "https://www.newscientist.com/article/2595717-why-cant-we-cool-water-as-quickly-as-we-can-heat-it-part-3/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "This question was posed as part of New Scientist’s Last Word series, in which readers give scientific answers to each other’s questions. Here’s what our readers had to say",
-      "date": "2026-10-28T18:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_308070748.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-28T20:55:28Z"
-    },
-    {
-      "title": "Why do dogs usually follow instructions, but cats largely ignore them?",
-      "link": "https://www.newscientist.com/article/2595716-why-do-dogs-usually-follow-instructions-but-cats-largely-ignore-them/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "This question was posed as part of New Scientist’s Last Word series, in which readers give scientific answers to each other’s questions. Here’s what our readers had to say",
-      "date": "2026-10-28T18:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_313428098.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-28T20:55:28Z"
-    },
-    {
-      "title": "Blue Planet III is the best yet from the BBC and David Attenborough",
-      "link": "https://www.newscientist.com/article/2595712-blue-planet-iii-is-the-best-yet-from-the-bbc-and-david-attenborough/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "The BBC has another game-changing hit in Blue Planet III, says Michael Le Page, with David Attenborough narrating and a smart dolphin",
-      "date": "2026-10-28T18:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317574504.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-28T20:55:28Z"
-    },
-    {
-      "title": "Can tiny microbes pack a mighty punch in the climate battle?",
-      "link": "https://www.newscientist.com/article/2595710-can-tiny-microbes-pack-a-mighty-punch-in-the-climate-battle/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Ecologist Steven Allison argues for the importance of microbes in fighting climate change in a convincing and hopeful book, The Age of Microbes, says Christa Lesté-Lasserre",
-      "date": "2026-10-28T18:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317733027_929680.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-28T20:55:28Z"
-    },
-    {
-      "title": "Controlling where gibberellin acts reveals how the plant hormone coordinates root growth",
-      "link": "https://phys.org/news/2026-10-gibberellin-reveals-hormone-root-growth.html",
-      "summary": "Plant hormones influence growth and development by acting on specific cells and tissues. However, determining precisely where and when a hormone needs to act has been challenging b",
-      "date": "2026-10-28T20:40:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/controlling-where-plan.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-28T20:55:30Z"
-    },
-    {
-      "title": "150-year-old mystery about the identity of an 'extinct' giant crane solved",
-      "link": "https://phys.org/news/2026-10-year-mystery-identity-extinct-giant.html",
-      "summary": "Scientists at Bournemouth University (BU) have solved a 150-year-old mystery about the identity of an extinct giant crane that lived in Europe over 20,000 years ago. The work is pu",
-      "date": "2026-10-28T20:30:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/common-crane-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-28T20:55:30Z"
-    },
-    {
-      "title": "New tissue atlas aims to help AI understand cancer",
-      "link": "https://phys.org/news/2026-10-tissue-atlas-aims-ai-cancer.html",
-      "summary": "How cells are arranged within tissue can reveal as much about disease as the cells themselves. When doctors examine a cancer tumor, for example, they don't just look at which cells",
-      "date": "2026-10-28T20:20:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-tissue-atlas-wil.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-28T20:55:30Z"
-    },
-    {
-      "title": "Relocating amphibians and reptiles to make way for human development rarely delivers long-term conservation success",
-      "link": "https://phys.org/news/2026-10-relocating-amphibians-reptiles-human-rarely.html",
-      "summary": "Relocating amphibians and reptiles to protect them from development rarely leads to long-term conservation success, a new UBC-led global review has found. The findings highlight th",
-      "date": "2026-10-28T20:20:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/moving-amphibians-and.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-28T20:55:30Z"
-    },
-    {
-      "title": "Scientists count more than 2 million eels on one underwater mountain",
-      "link": "https://phys.org/news/2026-10-scientists-million-eels-underwater-mountain.html",
-      "summary": "Patience Seamount is an underwater mountain in Australia's Huon Marine Park off the coast of Tasmania. Every year, it is the site of an enormous gathering of basketwork eels (Diast",
-      "date": "2026-10-28T19:20:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-count-more.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-28T20:55:30Z"
-    },
-    {
-      "title": "A spider named for Stephen Colbert has a genome about 50% larger than ours",
-      "link": "https://phys.org/news/2026-10-spider-stephen-colbert-genome-larger.html",
-      "summary": "Many spiders reach their maximum size about this time of year, having spent the summer eating, which helps explain their starring role in Halloween decorations. Researchers at the ",
-      "date": "2026-10-28T17:40:11Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-sequence-ge.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-28T20:55:30Z"
-    },
-    {
-      "title": "Islands harbor nearly 20% of Earth's biodiversity, yet remain overlooked in conservation strategies",
-      "link": "https://phys.org/news/2026-10-islands-harbor-earth-biodiversity-overlooked.html",
-      "summary": "Although they account for just 7% of the Earth's land surface, island ecosystems harbor almost 20% of the world's biodiversity. From sea-level rise to biological invasions, islands",
-      "date": "2026-10-28T17:00:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/island-biodiversity-di-1.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-28T20:55:30Z"
-    },
-    {
-      "title": "Extracellular vesicle discovery may shed light on how cancer spreads",
-      "link": "https://phys.org/news/2026-10-extracellular-vesicle-discovery-cancer.html",
-      "summary": "A team from the Research Institute of the McGill University Health Center (The Institute) have discovered a new type of extracellular vesicle released by migrating cancer cells, re",
-      "date": "2026-10-28T16:20:10Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/discovery-of-a-potenti.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-28T20:55:30Z"
-    },
-    {
-      "title": "First clear image of China's mysterious 'divine dragon' space plane revealed in US government report",
-      "link": "https://www.livescience.com/space/space-exploration/us-intelligence-report-reveals-first-clear-look-at-top-secret-chinese-space-plane-thats-been-dumping-unidentified-objects-above-earth",
-      "summary": "The Defense Intelligence Agency's latest \"Challenges to Security in Space\" report included a declassified satellite photo of China's Shenlong, or \"divine dragon,\" space plane, whic",
-      "date": "2026-10-28T19:04:46Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Hg9VVNtzrTMLit9HN62YnW-1920-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-10-28T20:55:31Z"
-    },
-    {
-      "title": "IBD may transform neurons in the gut, triggering pain even when inflammation is under control",
-      "link": "https://www.livescience.com/health/immune-system/ibd-may-transform-neurons-in-the-gut-triggering-pain-even-when-inflammation-is-under-control",
-      "summary": "A new study with data from mice and human tissues suggests that, in ulcerative colitis, immune cells in the gut might make pain-sensing nerves hypersensitive.",
-      "date": "2026-10-28T16:05:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/LSkyrb9AaJpZSsmxaa7pBJ-1920-80.jpg",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-10-28T20:55:31Z"
     }
   ]
 }
