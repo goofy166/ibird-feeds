@@ -1,8 +1,19 @@
 {
-  "updated": "2026-11-07T02:40:42Z",
-  "updated_utc": "2026-11-07T02:40:42Z",
+  "updated": "2026-11-07T09:52:22Z",
+  "updated_utc": "2026-11-07T09:52:22Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: After the devastating summer fires, the first green shoots | Amanda Thomson",
+      "link": "https://www.theguardian.com/environment/2026/nov/07/country-diary-after-the-devastating-summer-fires-the-first-green-shoots",
+      "summary": "Cairngorms: The scale and depth of damage is shocking, but there are precious small signs of recovery It’s over three months since the fire started that eventually engulfed 25 squa",
+      "date": "2026-11-07T05:30:02Z",
+      "image": "https://i.guim.co.uk/img/media/57f8be70dc00b9395e233dd9cbd8c20c436bcc30/0_188_480_384/master/480.jpg?width=140&quality=85&auto=format&fit=max&s=426d73391ee26fb606e4bc1c6082a7b9",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-11-07T09:52:06Z"
+    },
     {
       "title": "Spot a baby bird on the ground? Don't be tempted to bird‑nap it",
       "link": "https://phys.org/news/2026-11-baby-bird-ground-dont-birdnap.html",
@@ -5487,17 +5498,6 @@
       "summary": "Forever chemicals are renowned for their durability and their non-stick properties, but they persist for years in the environment. An alternative inspired by plants doesn't have th",
       "date": "Thu, 29 Oct 2026 20Z",
       "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318512008.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-29T20:09:07Z"
-    },
-    {
-      "title": "Birds can get jet lag on long, fast flights and then fly off course",
-      "link": "https://www.newscientist.com/article/2596253-birds-can-get-jet-lag-on-long-fast-flights-and-then-fly-off-course/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "On fast flights across the Atlantic, the body clocks of Manx shearwaters get out of sync with local time, leading them to veer away from the most direct flight path",
-      "date": "Thu, 29 Oct 2026 18Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318506601.jpg",
       "name": "New Scientist",
       "category": "insects",
       "color": 12,
