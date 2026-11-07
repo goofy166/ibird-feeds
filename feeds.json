@@ -1,8 +1,19 @@
 {
-  "updated": "2026-11-06T22:57:30Z",
-  "updated_utc": "2026-11-06T22:57:30Z",
+  "updated": "2026-11-07T02:40:42Z",
+  "updated_utc": "2026-11-07T02:40:42Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Spot a baby bird on the ground? Don't be tempted to bird‑nap it",
+      "link": "https://phys.org/news/2026-11-baby-bird-ground-dont-birdnap.html",
+      "summary": "Spring is the season of blooming flowers and buzzing bees.",
+      "date": "2026-11-06T23:00:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spot-a-baby-bird-on-th.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-07T02:40:39Z"
+    },
     {
       "title": "Scientists discovered an unknown baby right whale off Canada. They say it’s a cause for joy",
       "link": "https://www.mercurynews.com/2026/11/06/baby-right-whale-discovered/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-10-29T20:09:07Z"
-    },
-    {
-      "title": "Zombie bacteria keep building DNA after death",
-      "link": "https://phys.org/news/2026-10-zombie-bacteria-dna-death.html",
-      "summary": "Researchers at Aarhus University have discovered that bacteria can continue producing DNA after they die. And they have found a way to control what gets produced. The discovery cou",
-      "date": "2026-10-29T19:50:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/zombie-bacteria-keep-b.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-29T20:09:09Z"
     }
   ]
 }
