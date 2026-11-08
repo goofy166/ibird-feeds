@@ -1,8 +1,41 @@
 {
-  "updated": "2026-11-08T14:57:22Z",
-  "updated_utc": "2026-11-08T14:57:22Z",
+  "updated": "2026-11-08T19:29:26Z",
+  "updated_utc": "2026-11-08T19:29:26Z",
   "count": 500,
   "stories": [
+    {
+      "title": "100 buses long: Scientists map one of the world's largest known coral colonies",
+      "link": "https://phys.org/news/2026-11-buses-scientists-world-largest-coral.html",
+      "summary": "A huge coral colony stretching more than 1.5 kilometers (0.93 miles) along the outer reef of the Cocos (Keeling) Islands has been identified by researchers, making it one of the la",
+      "date": "2026-11-08T17:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/100-buses-long-scienti.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-08T19:29:22Z"
+    },
+    {
+      "title": "New species of ground-dwelling bird, the largest of its kind, identified in same cave as Homo floresiensis",
+      "link": "https://phys.org/news/2026-11-species-ground-bird-largest-kind.html",
+      "summary": "In 2009, researchers working in the Liang Bua cave on Flores Island came across a leg bone. The 190,000–120,000-year-old fossil was identified as a bird bone and set aside. Like ma",
+      "date": "2026-11-08T16:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-species-of-ground.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-08T19:29:22Z"
+    },
+    {
+      "title": "Would you learn to lucid dream if you could?",
+      "link": "https://www.livescience.com/health/sleep/would-you-learn-to-lucid-dream-if-you-could",
+      "summary": "Neuroscientists say people can be \"trained\" to recognize when they're dreaming — in other words, lucid dreaming may be an acquirable skill.",
+      "date": "2026-11-08T17:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/M8bWT96d827uhLnMgo2my3-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-11-08T19:29:23Z"
+    },
     {
       "title": "Seven Visits to One Rock: Watching a Warm Year from Isla Pucusana, Peru",
       "link": "https://www.10000birds.com/seven-visits-to-one-rock-watching-a-warm-year-from-isla-pucusana-peru.htm?utm_source=rss&utm_medium=rss&utm_campaign=seven-visits-to-one-rock-watching-a-warm-year-from-isla-pucusana-peru",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-10-30T13:59:15Z"
-    },
-    {
-      "title": "The 12 strangest science stories we can’t stop thinking about",
-      "link": "https://www.newscientist.com/article/2591690-the-12-strangest-science-stories-we-cant-stop-thinking-about/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "From subconscious finger sniffing to rats driving cars, New Scientist staff have reported on many weird, wild or utterly bonkers discoveries and inventions in the 70 years since we",
-      "date": "2026-10-30T07:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_314834910.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-30T13:59:15Z"
-    },
-    {
-      "title": "Breeding advance could help protect East African rice harvests from bacterial blight",
-      "link": "https://phys.org/news/2026-10-advance-east-african-rice-harvests.html",
-      "summary": "The rice disease bacterial leaf blight (for short: BB) is causing significant yield losses in Asia and Africa. It is triggered by the bacterium Xanthomonas oryzae pv. oryzae (Xoo),",
-      "date": "2026-10-30T13:20:15Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/disease-resistant-rice.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-30T13:59:17Z"
-    },
-    {
-      "title": "Flying‑foxes are starving. Why are we still responding one crisis at a time?",
-      "link": "https://phys.org/news/2026-10-flyingfoxes-starving-crisis.html",
-      "summary": "Once again, Australia's flying-foxes are in trouble.",
-      "date": "2026-10-30T12:20:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/flyingfoxes-are-starvi.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-30T13:59:17Z"
     }
   ]
 }
