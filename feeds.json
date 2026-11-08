@@ -1,8 +1,19 @@
 {
-  "updated": "2026-11-08T00:21:00Z",
-  "updated_utc": "2026-11-08T00:21:00Z",
+  "updated": "2026-11-08T07:06:45Z",
+  "updated_utc": "2026-11-08T07:06:45Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Why the tropics lose the most birds when cities expand",
+      "link": "https://phys.org/news/2026-11-tropics-birds-cities.html",
+      "summary": "Tropical ecosystems are famous for their teeming, exuberant diversity. In fact, the dramatic increase in biodiversity from the poles to the tropics—known as the latitudinal diversi",
+      "date": "2026-11-08T01:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/birds-tropical-city.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-08T07:06:41Z"
+    },
     {
       "title": "Student finds proof of rare wild cat in northern New Mexico",
       "link": "https://phys.org/news/2026-11-student-proof-rare-wild-cat.html",
@@ -5487,17 +5498,6 @@
       "summary": "Aparna Shah teaches Virginia Tech students how the human eye turns light into sight. In May, she saw her dog lose his.",
       "date": "2026-10-30T00:00:01Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-left-emily-pluhar.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-30T00:44:40Z"
-    },
-    {
-      "title": "Evolutionary changes in key enzyme may help bacteria make proteins faster",
-      "link": "https://phys.org/news/2026-10-evolutionary-key-enzyme-bacteria-proteins.html",
-      "summary": "Evolutionary changes in a key protein synthesis enzyme, isoleucyl-tRNA synthetase (IleRS), may help bacteria fine-tune how quickly proteins are made, report researchers from Instit",
-      "date": "2026-10-29T23:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-evolutionary-chang.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
