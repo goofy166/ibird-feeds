@@ -1,8 +1,30 @@
 {
-  "updated": "2026-11-07T20:45:45Z",
-  "updated_utc": "2026-11-07T20:45:45Z",
+  "updated": "2026-11-08T00:21:00Z",
+  "updated_utc": "2026-11-08T00:21:00Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Student finds proof of rare wild cat in northern New Mexico",
+      "link": "https://phys.org/news/2026-11-student-proof-rare-wild-cat.html",
+      "summary": "Armed with dozens of motion-sensing cameras, William Grooms spent this past summer documenting wildlife across Carson National Forest in northern New Mexico. It was his first field",
+      "date": "2026-11-07T22:00:05Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nmsu-phd-student-finds.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-08T00:20:56Z"
+    },
+    {
+      "title": "The hidden ways insects support animal life—from habitat to health—go way beyond being food",
+      "link": "https://phys.org/news/2026-11-hidden-ways-insects-animal-life.html",
+      "summary": "There are at least 14 million insect species on Earth, and they play highly diverse roles in sustaining the natural world. Insects provide many well-known benefits—what scientists ",
+      "date": "2026-11-07T21:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wide-blue-head-of-a-da.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-08T00:20:56Z"
+    },
     {
       "title": "The Maya used so much red paint that they poisoned their water with mercury, mud sediments reveal",
       "link": "https://www.livescience.com/archaeology/americas/the-maya-used-so-much-red-paint-that-they-poisoned-their-water-with-mercury-mud-sediments-reveal",
@@ -5476,28 +5498,6 @@
       "summary": "Evolutionary changes in a key protein synthesis enzyme, isoleucyl-tRNA synthetase (IleRS), may help bacteria fine-tune how quickly proteins are made, report researchers from Instit",
       "date": "2026-10-29T23:40:05Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-evolutionary-chang.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-30T00:44:40Z"
-    },
-    {
-      "title": "Simplified ancestral enzyme makes ATP without amino acid needed for its usual reaction",
-      "link": "https://phys.org/news/2026-10-ancestral-enzyme-atp-amino-acid.html",
-      "summary": "Proteins perform essential functions in living organisms, from catalyzing biochemical reactions to supporting cellular energy metabolism. Their functions depend on their amino acid",
-      "date": "2026-10-29T23:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancestral-enzyme-redes.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-10-30T00:44:40Z"
-    },
-    {
-      "title": "A protein that regulates mRNA decoding can itself be regulated with implications for understanding cancer",
-      "link": "https://phys.org/news/2026-10-protein-mrna-decoding-implications-cancer.html",
-      "summary": "Decoding of messenger RNA (mRNA) occurs during translation, the vital cellular process that builds proteins. Errors in this process are known to lead to cancer growth. Scientists a",
-      "date": "2026-10-29T22:30:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-identifies-trans-1.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
