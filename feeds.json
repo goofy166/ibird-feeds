@@ -1,8 +1,30 @@
 {
-  "updated": "2026-11-08T23:34:46Z",
-  "updated_utc": "2026-11-08T23:34:46Z",
+  "updated": "2026-11-09T05:52:28Z",
+  "updated_utc": "2026-11-09T05:52:28Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: Teasing out spiders with a tuning fork | Susie White",
+      "link": "https://www.theguardian.com/environment/2026/nov/09/country-diary-teasing-out-spiders-with-a-tuning-fork",
+      "summary": "Hexham, Northumberland: Revelations aplenty as we embark on a spider hunt with a man called Fran who knows his arachnids We gathered at the bandstand, an elegant Edwardian building",
+      "date": "2026-11-09T05:30:00Z",
+      "image": "https://i.guim.co.uk/img/media/b7ab409660e12b0bba50d6fcafaf2984759bc290/404_0_1720_1376/master/1720.jpg?width=140&quality=85&auto=format&fit=max&s=35858494a54fe43fdf70bcb6ee636872",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-11-09T05:52:12Z"
+    },
+    {
+      "title": "Small histone differences help shape gene regulation during sperm development",
+      "link": "https://phys.org/news/2026-11-small-histone-differences-gene-sperm.html",
+      "summary": "Researchers from Kyushu University have found that H3mm15, a histone H3.3 subvariant, contributes to normal sperm development in mice by helping regulate gene expression during spe",
+      "date": "2026-11-09T00:10:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/small-histone-differen.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-09T05:52:24Z"
+    },
     {
       "title": "100 buses long: Scientists map one of the world's largest known coral colonies",
       "link": "https://phys.org/news/2026-11-buses-scientists-world-largest-coral.html",
@@ -5476,28 +5498,6 @@
       "summary": "Dark Eden, the November read for the New Scientist Book Club, takes place on a rogue planet outside the Milky Way. Award-winning author Chris Beckett explains how he thought throug",
       "date": "2026-10-30T09:30:00Z",
       "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI317457767.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-30T13:59:15Z"
-    },
-    {
-      "title": "Read an extract from Dark Eden by Chris Beckett",
-      "link": "https://www.newscientist.com/article/2596432-read-an-extract-from-dark-eden-by-chris-beckett/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "In this extract from Chris Beckett’s Dark Eden, the November read for the New Scientist Book Club, we meet some of the inhabitants of a dark planet that drifts outside the Milky Wa",
-      "date": "2026-10-30T09:30:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI317456926.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-10-30T13:59:15Z"
-    },
-    {
-      "title": "‘Reverse physics’ could help bridge the classical and quantum worlds",
-      "link": "https://www.newscientist.com/article/2596640-reverse-physics-could-help-bridge-the-classical-and-quantum-worlds/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Physics is generally built on observations, then the maths that supports them comes later. Columnist Karmela Padavic-Callaghan takes a look at an effort to reverse this and rebuild",
-      "date": "2026-10-30T09:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318616601.jpg",
       "name": "New Scientist",
       "category": "insects",
       "color": 12,
