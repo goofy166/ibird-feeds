@@ -1,8 +1,118 @@
 {
-  "updated": "2026-11-10T22:15:52Z",
-  "updated_utc": "2026-11-10T22:15:52Z",
+  "updated": "2026-11-11T02:39:58Z",
+  "updated_utc": "2026-11-11T02:39:58Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Coyotes are likely a permanent fixture on the Outer Banks of North Carolina",
+      "link": "https://phys.org/news/2026-11-coyotes-permanent-fixture-outer-banks.html",
+      "summary": "A new study reveals that coyote populations on the Outer Banks persist despite ongoing removal programs, posing a continued threat to shore-nesting birds and protected sea turtles.",
+      "date": "2026-11-11T02:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/coyotes-are-likely-a-p.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-11T02:39:55Z"
+    },
+    {
+      "title": "A new tool makes biodiversity conservation planning more efficient and reproducible",
+      "link": "https://phys.org/news/2026-11-tool-biodiversity-efficient.html",
+      "summary": "ZonationR is a new tool that simplifies the use of Zonation to identify priority areas for biodiversity conservation. It brings all stages of the conservation planning analysis tog",
+      "date": "2026-11-11T01:20:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-tool-makes-biodive.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-11T02:39:55Z"
+    },
+    {
+      "title": "Genetic ancestry plays a key role in the migration of Cory's shearwaters",
+      "link": "https://phys.org/news/2026-11-genetic-ancestry-plays-key-role.html",
+      "summary": "To what extent do genes influence the migratory routes of birds? The factors that determine the long-distance migrations of seabirds are not yet fully understood. Now, a study publ",
+      "date": "2026-11-11T01:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genes-play-a-key-role.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-11T02:39:55Z"
+    },
+    {
+      "title": "European eels transmit a herpesvirus through bites, revealing another route for fish infections",
+      "link": "https://phys.org/news/2026-11-european-eels-transmit-herpesvirus-revealing.html",
+      "summary": "Contrary to what was previously believed, viruses infecting fish are not transmitted exclusively through water acting as an abiotic vector. A team of researchers from the Universit",
+      "date": "2026-11-11T00:30:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/european-eels-transmit.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-11T02:39:55Z"
+    },
+    {
+      "title": "Repurposing the internet's backbone to advance whale monitoring",
+      "link": "https://phys.org/news/2026-11-repurposing-internet-backbone-advance-whale.html",
+      "summary": "Bioacoustics researcher Léa Bouffaut, at the Cornell K. Lisa Yang Center for Conservation Bioacoustics, has spent the past several years eavesdropping on the conversations of whale",
+      "date": "2026-11-11T00:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-bowhead-whale-in-sva.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-11T02:39:55Z"
+    },
+    {
+      "title": "Anemone bleaching spurs stronger home defense and more aggression among clownfish",
+      "link": "https://phys.org/news/2026-11-anemone-spurs-stronger-home-defense.html",
+      "summary": "Marine heat waves and anemone bleaching are altering clownfish behavior, making clownfish more defensive of their host and more aggressive toward one another, new research reveals.",
+      "date": "2026-11-11T00:10:14Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/clownfish.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-11T02:39:55Z"
+    },
+    {
+      "title": "Rerouting ships to avoid killing whale sharks has little cost, study finds",
+      "link": "https://phys.org/news/2026-11-rerouting-ships-whale-sharks.html",
+      "summary": "Redirecting shipping traffic to avoid collisions with whale sharks has very little impact on fuel use, according to new research led by the University of Southampton published in R",
+      "date": "2026-11-11T00:10:11Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rerouting-ships-to-avo-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-11T02:39:55Z"
+    },
+    {
+      "title": "Scientists anchor first scientific animal name to a modern-day spider",
+      "link": "https://phys.org/news/2026-11-scientists-anchor-scientific-animal-modern.html",
+      "summary": "Scientists led by the Smithsonian's National Museum of Natural History have restored the physical reference of one of the most historically significant names in biology. In a paper",
+      "date": "2026-11-10T23:50:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/smithsonian-led-scient.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-11T02:39:55Z"
+    },
+    {
+      "title": "The pet and skin trades pose little threat to reptile species, analyses suggest",
+      "link": "https://phys.org/news/2026-11-pet-skin-pose-threat-reptile.html",
+      "summary": "Reptiles are captivating creatures—so captivating that people keep them as pets, or wear clothes and carry handbags fashioned from their patterned skins.",
+      "date": "2026-11-10T23:20:12Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exotic-lizard.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-11T02:39:55Z"
+    },
+    {
+      "title": "Microscopy upgrade sharpens images fivefold without sacrificing tissue imaging depth",
+      "link": "https://phys.org/news/2026-11-microscopy-sharpens-images-fivefold-sacrificing.html",
+      "summary": "Researchers at Texas A&M University have cracked a problem that has limited biological imaging for years: seeing fine cellular detail while looking deep inside living tissue. The n",
+      "date": "2026-11-10T23:20:06Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-microscopy-techniq-5.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-11T02:39:55Z"
+    },
     {
       "title": "Buteo vs Accipiter: Why It Matters for Hawk Identification",
       "link": "https://www.birdsandblooms.com/birding/bird-species/birds-of-prey/buteo-vs-accipiter/",
@@ -5392,116 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-11-02T23:23:50Z"
-    },
-    {
-      "title": "Birding Shanghai in October 2026",
-      "link": "https://www.10000birds.com/birding-shanghai-in-october-2026.htm?utm_source=rss&utm_medium=rss&utm_campaign=birding-shanghai-in-october-2026",
-      "summary": "Sometimes I feel the Chinese holiday schedule has been optimized for Shanghai birders. Both the first week of May and the first week of October are national holidays – and both hap",
-      "date": "2026-11-02T12:00:00Z",
-      "image": "https://www.10000birds.com/wp-content/uploads/2026/10/Oriental-Scops-Owl_DSC9703_Nanhui-Shanghai-Oct-02-2026-scaled.jpg",
-      "name": "10,000 Birds",
-      "category": "birds",
-      "color": 1,
-      "fetched_at": "2026-11-02T15:28:22Z"
-    },
-    {
-      "title": "Rare ant nest stolen from last place in England where species survives",
-      "link": "https://www.theguardian.com/environment/2026/nov/02/rare-narrow-headed-ant-nest-stolen-devon",
-      "summary": "Devon nature reserve says ‘reckless’ theft of narrow-headed ant colony sets back years of conservation work A nest containing up to 5,000 of England’s rarest ant species has been s",
-      "date": "2026-11-02T15:00:43Z",
-      "image": "https://i.guim.co.uk/img/media/649f3cdeff65f3a967e439533c2154b682f1a5e5/59_0_3508_2806/master/3508.jpg?width=140&quality=85&auto=format&fit=max&s=d81917620a90aefc204bff08ca2bf6ca",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-11-02T15:28:27Z"
-    },
-    {
-      "title": "Greenpeace activists create ‘boulder barrier’ in North Sea to deter industrial fishing",
-      "link": "https://www.theguardian.com/environment/2026/nov/02/greenpeace-boulder-barrier-north-sea-industrial-fishing-bottom-trawling-marine-protected-area",
-      "summary": "Action taken to prevent bottom trawling in the marine protected area and conserve porpoise populations Greenpeace activists have dropped boulders in the North Sea to snag the dragn",
-      "date": "2026-11-02T13:10:08Z",
-      "image": "https://i.guim.co.uk/img/media/900008352cfc090c12bbc39c412d55918acb89fb/332_0_1668_1334/master/1668.jpg?width=140&quality=85&auto=format&fit=max&s=ceaeca8c25acc50857c4d818b75c0526",
-      "name": "Guardian",
-      "category": "wildlife",
-      "color": 5,
-      "fetched_at": "2026-11-02T15:28:27Z"
-    },
-    {
-      "title": "Swift spacecraft fiery reentry will be in the next 2 days",
-      "link": "https://earthsky.org/space/swift-spacecraft-boost-plunging-back-to-earth/",
-      "summary": "The Swift spacecraft is falling back to Earth. It will likely burn up in our atmosphere on November 3 or 4. Will you see it? The post Swift spacecraft fiery reentry will be in the ",
-      "date": "2026-11-02T09:00:00Z",
-      "image": "https://earthsky.org/upl/2026/08/Swift-Observatory-NASA-e1786968402581.jpg",
-      "name": "EarthSky",
-      "category": "wildlife",
-      "color": 6,
-      "fetched_at": "2026-11-02T15:28:28Z"
-    },
-    {
-      "title": "How to keep raccoons from shredding newly sodded San Carlos lawn?",
-      "link": "https://www.mercurynews.com/2026/11/02/how-to-keep-raccoons-from-shredding-newly-sodded-san-carlos-lawn/",
-      "summary": "The critters are more fond of what grows under the grass",
-      "date": "2026-11-02T14:30:36Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/10/SJM-L-JOANCOL-1102-01.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-11-02T15:28:31Z"
-    },
-    {
-      "title": "El Niño shifts exotic sea creatures to Southern California’s coast. Here’s what anglers are seeing",
-      "link": "https://www.mercurynews.com/2026/11/01/el-nio-shifts-exotic-sea-creatures-to-southern-californias-coast-heres-what-anglers-are-seeing/",
-      "summary": "Whale and hammerhead sharks, devil rays, wahoos and more have been seen by beachgoers.",
-      "date": "2026-11-01T15:00:59Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/11/202610200430MCT_____PHOTO____US-NEWS-WEA-EL-NINO-SEA-CREATURES-FILEPIC-1-LA.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-11-02T15:28:31Z"
-    },
-    {
-      "title": "No crab for the holidays: 2026 Dungeness season delayed to protect whales",
-      "link": "https://www.mercurynews.com/2026/10/30/dungeness-crab-california-season-postponed-whale-protection/",
-      "summary": "The season normally would start Nov. 15 in the waters south of the Sonoma/Mendocino County line.",
-      "date": "2026-10-30T23:17:24Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2024/01/SJM-L-CRABCLO-0118-3.jpg?w=1400px&strip=all",
-      "name": "Mercury News",
-      "category": "wildlife",
-      "color": 8,
-      "fetched_at": "2026-11-02T15:28:31Z"
-    },
-    {
-      "title": "Do Hikers Need an Off-Season? A Burnt-Out Backpacker Makes the Case.",
-      "link": "https://www.outsideonline.com/health/wellness/do-hikers-need-off-season/",
-      "summary": "We explore if hikers need an off-season and how to tell if you need one, plus we explain the mental health benefits of taking a break. The post Do Hikers Need an Off-Season? A Burn",
-      "date": "2026-11-02T10:21:16Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/10/hiking-break-burned-out-off-season.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-11-02T15:28:33Z"
-    },
-    {
-      "title": "After Sitting in a London Museum Since 1924, This Dinosaur Fossil Was Named a New Predatory Species—an 'Unconquered Female Warrior'",
-      "link": "https://www.smithsonianmag.com/smart-news/after-sitting-in-a-london-museum-since-1924-this-dinosaur-fossil-was-named-a-new-predatory-species-an-unconquered-female-warrior-180989683/",
-      "summary": "Invictibellatrix amberina was a long-clawed, tiger-size dinosaur that lived around 120 million years ago. It's helping scientists piece together the global spread of megaraptors, w",
-      "date": "2026-11-02T15:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/IhcA2i4NcnBmi-_uJJNcKvOKH-E=/420x240/filters:focal(580x298:581x299)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e6/91/e6918d59-29ab-4437-8fff-ab2f3878bcaf/new-megaraptor-reconstruction-full-width-krasovskiy-salasjpgthumb11601160.png",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-11-02T15:28:35Z"
-    },
-    {
-      "title": "Melting Ice in the Italian Dolomites Exposes Hundreds of World War I Munitions, Vestiges of the Vertiginous 'White War'",
-      "link": "https://www.smithsonianmag.com/smart-news/melting-ice-in-the-italian-dolomites-exposes-hundreds-of-world-war-i-munitions-vestiges-of-the-vertiginous-winter-war-180989787/",
-      "summary": "Following low snowfall and record-breaking summer heat, the Italian Army is hunting for unexploded shells and bombs. \"When they re-emerge, they are very, very dangerous,\" one exper",
-      "date": "2026-11-02T13:00:00Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/ibLcq11JeYaPH0ysBhiX-YBIDmI=/420x240/filters:focal(658x401:659x402)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cc/39/cc39deea-1ef8-4841-99f5-9a59e2aaff14/italian_dolomites.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-11-02T15:28:35Z"
     }
   ]
 }
