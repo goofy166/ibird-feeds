@@ -1,8 +1,41 @@
 {
-  "updated": "2026-11-12T01:26:22Z",
-  "updated_utc": "2026-11-12T01:26:22Z",
+  "updated": "2026-11-12T09:38:33Z",
+  "updated_utc": "2026-11-12T09:38:33Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Coyote officials thought they had killed after child attack seen alive in LA neighborhood",
+      "link": "https://www.theguardian.com/us-news/2026/nov/11/coyote-los-angeles",
+      "summary": "Animal that menaced residents was shot in October but then reappeared – and was shot for a second time and killed A coyote that California wildlife officials believed they had euth",
+      "date": "2026-11-12T03:00:34Z",
+      "image": "https://i.guim.co.uk/img/media/ae880553b4bc807363034e639db83d932ce4cc6f/134_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=a58c2dc330c2d348e2af13e32666ad92",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-11-12T09:38:16Z"
+    },
+    {
+      "title": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
+      "link": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
+      "summary": "Since the US war on Iran began in February, there have been hundreds of oil spills, posing a ‘generational’ threat to wildlife The vast, dark slicks in the strait of Hormuz are vis",
+      "date": "2026-11-12T03:00:07Z",
+      "image": "https://i.guim.co.uk/img/media/edaf20607ad86d1eaeb652f3e3941f4f2ea5bc51/193_0_5785_4627/master/5785.jpg?width=140&quality=85&auto=format&fit=max&s=5b1a9c857a8da2de3a5dbe173898dd4f",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-11-12T09:38:16Z"
+    },
+    {
+      "title": "Baboons made themselves at home in this town, and a battle between their defenders and haters ensued",
+      "link": "https://phys.org/news/2026-11-baboons-home-town-defenders-haters.html",
+      "summary": "The divisions over baboons run deep in Simon's Town, where their defenders and haters have clashed on social media and sometimes in real life for years.",
+      "date": "2026-11-12T09:06:23Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/south-africa-baboon-ba.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-12T09:38:29Z"
+    },
     {
       "title": "The Naturalist’s Field Journal: A Review",
       "link": "https://www.10000birds.com/the-naturalists-field-journal-a-review.htm?utm_source=rss&utm_medium=rss&utm_campaign=the-naturalists-field-journal-a-review",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-11-03T20:53:29Z"
-    },
-    {
-      "title": "The nuclear waste repository in Finland designed to outlast modern civilisation",
-      "link": "https://www.newscientist.com/article/2595321-the-nuclear-repository-in-finland-designed-to-outlast-modern-civilisation/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "The first engineered structure built to last for 100,000 years is about to begin operations. The hope is that Onkalo, deep below ground in Finland, will offer a safe place for the ",
-      "date": "Tue, 03 Nov 2026 16Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI319283325.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-11-03T20:53:31Z"
-    },
-    {
-      "title": "Wherever there are people, there is also wildlife—though not necessarily at the same time",
-      "link": "https://phys.org/news/2026-11-people-wildlife-necessarily.html",
-      "summary": "Human-induced global change has reached an unprecedented scale and intensity. Through intensive land use and the associated loss of species, humans are permanently altering the hab",
-      "date": "2026-11-03T20:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wolves.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-03T20:53:34Z"
-    },
-    {
-      "title": "Silent lakes ahead? Long-term study finds common loon productivity is dropping across North America",
-      "link": "https://phys.org/news/2026-11-silent-lakes-term-common-loon.html",
-      "summary": "The eerie call of the common loon has long been the sound of North America's northern lakes, but new research shows it may not be that way in the future. A new study led by Birds C",
-      "date": "2026-11-03T19:40:12Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/silent-lakes-ahead-lan.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-03T20:53:34Z"
     }
   ]
 }
