@@ -1,8 +1,74 @@
 {
-  "updated": "2026-11-14T02:59:58Z",
-  "updated_utc": "2026-11-14T02:59:58Z",
+  "updated": "2026-11-14T10:10:38Z",
+  "updated_utc": "2026-11-14T10:10:38Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Bristol aims to become UK’s first ‘wetland city’ and reduce flood risk",
+      "link": "https://www.theguardian.com/environment/2026/nov/14/bristol-first-uk-wetland-city-flood",
+      "summary": "Five-year project will create wildlife corridors by building wetlands and increase access to green and blue spaces Bristol could become home to the UK’s first “wetland city” thanks",
+      "date": "2026-11-14T07:00:37Z",
+      "image": "https://i.guim.co.uk/img/media/d9080922d8163cbc606d6106ef3f00becdf7d2e8/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=fbc19f51ba612f3bf208fc580ecc91c0",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-11-14T10:10:21Z"
+    },
+    {
+      "title": "‘An environmental and welfare disaster’: British salmon loses its organic status",
+      "link": "https://www.theguardian.com/environment/2026/nov/14/salmon-organic-british-farmed-environmental-welfare",
+      "summary": "This week the Soil Association withdrew certification from organic salmon after 20 years. What went wrong? The first haul of farmed salmon in Britain was a relatively modest 14 ton",
+      "date": "2026-11-14T06:00:37Z",
+      "image": "https://i.guim.co.uk/img/media/2d059bf78e7a2038a45bfb013420a1090f93f9e8/0_0_4549_3640/master/4549.jpg?width=140&quality=85&auto=format&fit=max&s=1d268bfcbdeb2b51109977b439ee645a",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-11-14T10:10:21Z"
+    },
+    {
+      "title": "New Scientist readers on how the magazine has shaped their lives",
+      "link": "https://www.newscientist.com/article/2595857-new-scientist-readers-on-how-the-magazine-has-shaped-their-lives/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "To celebrate our 70th anniversary, we asked readers how they first encountered New Scientist – and why they still read it today",
+      "date": "2026-11-14T07:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318736989.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-11-14T10:10:32Z"
+    },
+    {
+      "title": "Which animal farts the most?",
+      "link": "https://www.livescience.com/animals/which-animal-farts-the-most",
+      "summary": "Think that cows are the king of flatulence? There's another animal that likely blows the competition away.",
+      "date": "2026-11-14T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/VeCwYxxLsrj57qwAMQFPTP-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-11-14T10:10:35Z"
+    },
+    {
+      "title": "'Links with the British royal family would eventually prove crucial': How DNA solved the 70-year mystery of what happened to the executed members of the last Russian imperial family",
+      "link": "https://www.livescience.com/health/genetics/links-with-the-british-royal-family-would-eventually-prove-crucial-how-dna-solved-the-70-year-mystery-of-what-happened-to-the-executed-members-of-the-last-russian-imperial-family",
+      "summary": "In this excerpt from \"The Secrets of our DNA,\" geneticist Turi King examines how DNA was used to reveal the ultimate fate of the last members of the House of Romanov.",
+      "date": "2026-11-14T09:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/eQJMmcSsNS3pe8Ek3VLP6J-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-11-14T10:10:35Z"
+    },
+    {
+      "title": "Measles is back in the United States, WHO authorities say",
+      "link": "https://www.livescience.com/health/viruses-infections-disease/measles-is-back-in-the-united-states-who-authorities-say",
+      "summary": "The Pan American Health Organization has determined that the U.S. has lost its measles elimination status, meaning domestic spread of the virus is now significant and sustained.",
+      "date": "2026-11-14T04:07:49Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/tvbFcaZYVLYtaubbR8GgQV-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-11-14T10:10:35Z"
+    },
     {
       "title": "Best Winter Running Jackets for Women (2027)",
       "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/womens-winter-running-jackets/",
@@ -5436,72 +5502,6 @@
       "category": "insects",
       "color": 13,
       "fetched_at": "2026-11-05T20:33:37Z"
-    },
-    {
-      "title": "Blocking specific molecular signal on immune cells may restore ability to fight mutated cells",
-      "link": "https://phys.org/news/2026-11-blocking-specific-molecular-immune-cells.html",
-      "summary": "A previously unrecognized weakness in the immune defenses against certain blood neoplasms could offer a promising target for future treatments. Researchers have discovered that nat",
-      "date": "2026-11-05T18:40:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/towards-a-new-approach.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-05T20:33:37Z"
-    },
-    {
-      "title": "A well-timed blink helps us to look around",
-      "link": "https://phys.org/news/2026-11-a-well-timed-blink-helps.html",
-      "summary": "When did you last blink? Every few seconds, we briefly close our eyes, interrupting our view of the world. Most of the time, we do not notice. What is more, these brief interruptio",
-      "date": "2026-11-05T18:10:04Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/blink.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-05T20:33:37Z"
-    },
-    {
-      "title": "Tiny animal populations can recover, challenging assumptions about extinction risk",
-      "link": "https://phys.org/news/2026-11-tiny-animal-populations-recover-assumptions.html",
-      "summary": "Species reduced to fewer than 50 individuals in the wild are not automatically doomed to extinction, according to a major study co-authored by researchers at the Zoological Society",
-      "date": "2026-11-05T17:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/echo-parakeet.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-05T20:33:37Z"
-    },
-    {
-      "title": "Research supports communitywide efforts to fight bedbug infestations, expert explains",
-      "link": "https://phys.org/news/2026-11-communitywide-efforts-bedbug-infestations-expert.html",
-      "summary": "Rather than being a poverty problem, bedbugs are actually everyone's problem.",
-      "date": "2026-11-05T16:40:13Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-supports-comm.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-05T20:33:37Z"
-    },
-    {
-      "title": "How do octopuses remember? Scientists uncover a surprising secret",
-      "link": "https://phys.org/news/2026-11-octopuses-scientists-uncover-secret.html",
-      "summary": "How does an octopus remember what it has learned? A new study led by Dr. Ana Luiza Turchetti-Maia, Dr. Tal Shomrat and professor Binyamin (Benny) Hochner—researchers from the Hebre",
-      "date": "2026-11-05T16:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-do-octopuses-remem.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-05T20:33:37Z"
-    },
-    {
-      "title": "2,800-year-old tomb in Siberia has evidence of the earliest use of cannabis — possibly as a way to calm human sacrifice victims",
-      "link": "https://www.livescience.com/archaeology/2-800-year-old-tomb-in-siberia-has-evidence-of-the-earliest-use-of-cannabis-possibly-as-a-way-to-calm-human-sacrifice-victims",
-      "summary": "Seeds found in an ancient grave and chemical compounds discovered in mummy hair have revealed people got high on marijuana 2,800 years ago.",
-      "date": "Thu, 05 Nov 2026 19Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/xo89Hm7Hzn6SsdL6WAn4FE-1920-80.png",
-      "name": "Live Science",
-      "category": "insects",
-      "color": 14,
-      "fetched_at": "2026-11-05T20:33:38Z"
     }
   ]
 }
