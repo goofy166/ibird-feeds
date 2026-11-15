@@ -1,8 +1,30 @@
 {
-  "updated": "2026-11-14T21:18:11Z",
-  "updated_utc": "2026-11-14T21:18:11Z",
+  "updated": "2026-11-15T01:42:39Z",
+  "updated_utc": "2026-11-15T01:42:39Z",
   "count": 500,
   "stories": [
+    {
+      "title": "After months of aquarium care, 54 rare baby sea turtles make a midnight return to the Pacific off Southern California",
+      "link": "https://www.mercurynews.com/2026/11/14/historic-moment-as-first-batch-of-olive-ridley-turtles-released-back-to-the-ocean/",
+      "summary": "\"We are thrilled to see these hatchlings return to their ocean home and appreciate all of the support and interest from the public along the way,\" wildlife officials said. \"Bon voy",
+      "date": "2026-11-14T21:53:00Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/11/IMG_9067-16x9-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-11-15T01:42:28Z"
+    },
+    {
+      "title": "Urban expansion causes ecological collapse in streams in the São Paulo Metropolitan Area",
+      "link": "https://phys.org/news/2026-11-urban-expansion-ecological-collapse-streams.html",
+      "summary": "The advance of urbanization in the São Paulo Metropolitan Area in Brazil is causing the collapse of food webs in local streams. A study published in August in the journal Nature Ci",
+      "date": "2026-11-14T22:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/urban-expansion-causes.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-15T01:42:35Z"
+    },
     {
       "title": "Product Review: Kiwibit Bird Feeder 2 Pro",
       "link": "https://www.10000birds.com/product-review-kiwibit-bird-feeder-2-pro.htm?utm_source=rss&utm_medium=rss&utm_campaign=product-review-kiwibit-bird-feeder-2-pro",
@@ -5476,28 +5498,6 @@
       "summary": "The global health and economic benefits of the covid-19 vaccines were thought to have reached up to $38 trillion in their first year, but a new analysis suggests $64.3 trillion is ",
       "date": "Thu, 05 Nov 2026 19Z",
       "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319521022.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-11-05T20:33:35Z"
-    },
-    {
-      "title": "Tomb in Siberia reveals humans were using cannabis 2800 years ago",
-      "link": "https://www.newscientist.com/article/2597653-tomb-in-siberia-reveals-humans-were-using-cannabis-2800-years-ago/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Psychoactive compounds have been found in a hair from a Scythian tomb in Siberia, providing the earliest direct evidence of cannabis being used as a drug",
-      "date": "Thu, 05 Nov 2026 19Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319523390.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-11-05T20:33:35Z"
-    },
-    {
-      "title": "Google shouldn’t be pressuring schools to use its AI",
-      "link": "https://www.newscientist.com/article/2597761-google-shouldnt-be-pressuring-schools-to-use-its-ai/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Google has said schools can’t have access to its search engine without AI, even in schools where AI use is being banned. Columnist Jacob Aron says the tech giant shouldn’t be dicta",
-      "date": "Thu, 05 Nov 2026 16Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319433950.jpg",
       "name": "New Scientist",
       "category": "insects",
       "color": 12,
