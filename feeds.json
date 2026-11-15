@@ -1,8 +1,19 @@
 {
-  "updated": "2026-11-15T01:42:39Z",
-  "updated_utc": "2026-11-15T01:42:39Z",
+  "updated": "2026-11-15T09:06:26Z",
+  "updated_utc": "2026-11-15T09:06:26Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Return of the wild oyster: conservationists bring shellfish back from local extinction off Scottish coast",
+      "link": "https://www.theguardian.com/environment/2026/nov/15/return-of-the-wild-oyster-conservationists-bring-shellfish-back-from-local-extinction-off-scottish-coast",
+      "summary": "Scientists succeed in breeding wild oysters in Dornoch Firth, near Inverness, from where they disappeared more than 100 years ago The baby oysters, with their rough cream-coloured ",
+      "date": "2026-11-15T07:00:07Z",
+      "image": "https://i.guim.co.uk/img/media/c009457690c51bf7e287b2ef1b848debcf487ecb/197_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=f3200e8262011390e1c6e12097cf69e1",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-11-15T09:06:10Z"
+    },
     {
       "title": "After months of aquarium care, 54 rare baby sea turtles make a midnight return to the Pacific off Southern California",
       "link": "https://www.mercurynews.com/2026/11/14/historic-moment-as-first-batch-of-olive-ridley-turtles-released-back-to-the-ocean/",
@@ -5491,17 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-11-05T20:33:34Z"
-    },
-    {
-      "title": "The economic benefits of the covid vaccines may be double what we thought",
-      "link": "https://www.newscientist.com/article/2597704-the-economic-benefits-of-the-covid-vaccines-may-be-twice-as-high-as-we-thought/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "The global health and economic benefits of the covid-19 vaccines were thought to have reached up to $38 trillion in their first year, but a new analysis suggests $64.3 trillion is ",
-      "date": "Thu, 05 Nov 2026 19Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319521022.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-11-05T20:33:35Z"
     }
   ]
 }
