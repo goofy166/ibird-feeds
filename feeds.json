@@ -1,8 +1,41 @@
 {
-  "updated": "2026-11-16T01:46:42Z",
-  "updated_utc": "2026-11-16T01:46:42Z",
+  "updated": "2026-11-16T09:22:38Z",
+  "updated_utc": "2026-11-16T09:22:38Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: A hard year on the farm, but I can’t help but feel optimistic | Colin Chappell",
+      "link": "https://www.theguardian.com/environment/2026/nov/16/country-diary-a-hard-year-on-the-farm-but-i-cant-help-but-feel-optimistic",
+      "summary": "Brigg, Lincolnshire: As I turn to the autumn jobs, loading crops and checking our machinery, I have to feel that next year will be better The days are suddenly short, and the morni",
+      "date": "2026-11-16T05:30:33Z",
+      "image": "https://i.guim.co.uk/img/media/928909f68872808f1eed8a4000b97189b2abf24a/50_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=3271d50e534854154e056edfc7aa6b8b",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-11-16T09:22:23Z"
+    },
+    {
+      "title": "Europe’s Wadden Sea is a natural wonder. So why might it join the world heritage in danger list?",
+      "link": "https://www.theguardian.com/environment/2026/nov/16/europes-wadden-sea-is-a-natural-wonder-so-why-might-it-join-the-world-heritage-in-danger-list",
+      "summary": "Along the coasts of the Netherlands, Germany and Denmark, its intertidal flats host a wealth of marine life and birds. But extraction industries, tourism and fishing are taking the",
+      "date": "2026-11-16T05:00:34Z",
+      "image": "https://i.guim.co.uk/img/media/00522a8e3465c3eb27bd7505e632ad9caf6c259b/0_367_5319_4254/master/5319.jpg?width=140&quality=85&auto=format&fit=max&s=e3cd820e47c047aa7b1b85bca3c4fbd8",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-11-16T09:22:23Z"
+    },
+    {
+      "title": "The end of the universe could emerge suddenly from nothing",
+      "link": "https://www.newscientist.com/article/2598817-the-end-of-the-universe-could-emerge-suddenly-from-nothing/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "A bubble of absolutely nothing – truly empty space – could be out there in the cosmos. Columnist Leah Crane explores how that could exist, and the peril it puts us in",
+      "date": "2026-11-16T09:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320390834.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-11-16T09:22:33Z"
+    },
     {
       "title": "Skeleton found in Denmark came from man who witnessed the arrival of farming",
       "link": "https://www.newscientist.com/article/2598961-skeleton-found-in-denmark-was-from-man-who-witnessed-the-arrival-of-farming/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -5469,39 +5502,6 @@
       "category": "insects",
       "color": 11,
       "fetched_at": "2026-11-06T01:27:49Z"
-    },
-    {
-      "title": "Chemicals in sewage-based fertilizer may persist in farmland soil for years",
-      "link": "https://phys.org/news/2026-11-chemicals-sewage-based-fertilizer-persist.html",
-      "summary": "UNSW engineers have identified a number of chemicals that may merit closer scrutiny to ensure water utility companies and regulators can make informed decisions about the managemen",
-      "date": "2026-11-06T01:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/biosolids.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-06T01:27:52Z"
-    },
-    {
-      "title": "Climate shapes microbial nitrogen pump in forests, not in farmlands",
-      "link": "https://phys.org/news/2026-11-climate-microbial-nitrogen-forests-farmlands.html",
-      "summary": "Microbes build a long-lived nitrogen reservoir in soil from the remains of dead bacteria and fungi, which cling to minerals and resist decay. The microbial nitrogen pump turns nitr",
-      "date": "2026-11-06T00:20:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/conceptual-framework-f.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-06T01:27:52Z"
-    },
-    {
-      "title": "Land plants' closest algal relatives evolved multicellular growth repeatedly, genetic analysis suggests",
-      "link": "https://phys.org/news/2026-11-closest-algal-evolved-multicellular-growth.html",
-      "summary": "What did the algae that gave rise to the first land plants look like? A research team led by the University of Göttingen and including the universities of Maastricht and Innsbruck ",
-      "date": "2026-11-05T23:50:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/deep-evolutionary-hist.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-06T01:27:52Z"
     }
   ]
 }
