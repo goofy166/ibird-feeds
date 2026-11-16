@@ -1,8 +1,19 @@
 {
-  "updated": "2026-11-15T21:37:32Z",
-  "updated_utc": "2026-11-15T21:37:32Z",
+  "updated": "2026-11-16T01:46:42Z",
+  "updated_utc": "2026-11-16T01:46:42Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Skeleton found in Denmark came from man who witnessed the arrival of farming",
+      "link": "https://www.newscientist.com/article/2598961-skeleton-found-in-denmark-was-from-man-who-witnessed-the-arrival-of-farming/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "Clues about the diet of “Rødhals Man”, who lived some 6000 years ago, hint that he lived through one of the most revolutionary changes in human history",
+      "date": "2026-11-16T00:01:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320519457.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-11-16T01:46:36Z"
+    },
     {
       "title": "Chickens are great characters, not cowards | Letters",
       "link": "https://www.theguardian.com/world/2026/nov/15/chickens-are-great-characters-not-cowards",
@@ -5487,17 +5498,6 @@
       "summary": "What did the algae that gave rise to the first land plants look like? A research team led by the University of Göttingen and including the universities of Maastricht and Innsbruck ",
       "date": "2026-11-05T23:50:01Z",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/deep-evolutionary-hist.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-06T01:27:52Z"
-    },
-    {
-      "title": "Underwater cameras can estimate fish weight in real time without generating full depth maps",
-      "link": "https://phys.org/news/2026-11-underwater-cameras-fish-weight-real.html",
-      "summary": "Accurate fish-weight estimates can help aquaculture operators manage feeding, monitor growth and plan harvests. However, conventional underwater imaging methods often require subst",
-      "date": "2026-11-05T23:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/underwater-cameras-can.jpg",
       "name": "Phys.org",
       "category": "insects",
       "color": 13,
