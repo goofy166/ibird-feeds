@@ -1,8 +1,96 @@
 {
-  "updated": "2026-11-21T17:17:16Z",
-  "updated_utc": "2026-11-21T17:17:16Z",
+  "updated": "2026-11-21T22:59:21Z",
+  "updated_utc": "2026-11-21T22:59:21Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Arborvitae Care and Growing Tips",
+      "link": "https://www.birdsandblooms.com/gardening/growing-trees-shrubs-grasses/arborvitae-care/",
+      "summary": "These popular trees are eco-marvels of shelter and support. Learn how to grow arborvitae in your yard and which critters will appreciate it! The post Arborvitae Care and Growing Ti",
+      "date": "Thu, 12 Nov 2026 15Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/11/GettyImages-2239812636-scaled.jpg?fit=700,1024",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-11-21T22:59:02Z"
+    },
+    {
+      "title": "What Is the Christmas Bird Count and Why It Matters",
+      "link": "https://www.birdsandblooms.com/birding/birding-basics/christmas-bird-count/",
+      "summary": "Here's how an annual hunt evolved into a bird census that spurs conservation. The Christmas Bird Count is now a beloved tradition. The post What Is the Christmas Bird Count and Why",
+      "date": "Thu, 12 Nov 2026 14Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/11/GettyImages-1460770368.jpg?fit=700,1024",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-11-21T22:59:02Z"
+    },
+    {
+      "title": "Astronomer Isabel Angelo hunts for odd signals in telescope data",
+      "link": "https://www.sciencenews.org/article/telescope-data-isabel-angelo-sn-10",
+      "summary": "At the SETI Institute, she uses machine learning to look for signs of cosmic phenomena astronomers have never seen before.",
+      "date": "2026-11-21T12:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/112026_sn10-Isabel-Angelo_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-11-21T22:59:14Z"
+    },
+    {
+      "title": "This scientist proves which problems computers can’t solve quickly",
+      "link": "https://www.sciencenews.org/article/game-computer-sn-10-dor-minzer-problem",
+      "summary": "Dor Minzer studies how fast computers can tell whether nearly all of a game’s rules can be satisfied or almost none can.",
+      "date": "2026-11-21T12:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/112026_sn10-Dor-Minzer_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-11-21T22:59:14Z"
+    },
+    {
+      "title": "What helps land recover after fire? This ecologist looks to the past",
+      "link": "https://www.sciencenews.org/article/land-fire-jennifer-grenz-history-sn10",
+      "summary": "Ecologist Jennifer Grenz draws on Indigenous oral histories and ecological records to learn how landscapes recover after wildfires.",
+      "date": "2026-11-21T12:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/112026_sn10-Jennifer-Grenz_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-11-21T22:59:14Z"
+    },
+    {
+      "title": "How do scientists learn from failure? This researcher has clues",
+      "link": "https://www.sciencenews.org/article/scientists-learn-failure-sn-10-yian-yin",
+      "summary": "Yian Yin found that scientists who revised rejected proposals using feedback found success faster than those who switched ideas.",
+      "date": "2026-11-21T12:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/112026_sn10-Yian-Yin_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-11-21T22:59:14Z"
+    },
+    {
+      "title": "How do tumors talk to nerves? This scientist is finding out",
+      "link": "https://www.sciencenews.org/article/tumors-talk-nerve-sn-10-sebnem-ece-eksi",
+      "summary": "After finding proteins linked to memory in prostate cancer cells, Sebnem Ece Eksi hopes to map nerve fibers in tumors.",
+      "date": "2026-11-21T12:00:00Z",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/112026_sn10-Ece-Eksi_main.jpg?w=800",
+      "name": "Science News",
+      "category": "insects",
+      "color": 11,
+      "fetched_at": "2026-11-21T22:59:14Z"
+    },
+    {
+      "title": "The avian champions of long-distance migration keep surprising scientists",
+      "link": "https://phys.org/news/2026-11-avian-champions-distance-migration-scientists.html",
+      "summary": "\"The whole story began with an extinct bird from Hispaniola,\" said Min Zhao, a former postdoctoral associate at the Florida Museum of Natural History (now a postdoctoral researcher",
+      "date": "2026-11-21T22:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-avian-champions-of.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-21T22:59:17Z"
+    },
     {
       "title": "Autumn Birding",
       "link": "https://www.10000birds.com/autumn-birding.htm?utm_source=rss&utm_medium=rss&utm_campaign=autumn-birding",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-11-13T00:03:25Z"
-    },
-    {
-      "title": "Not afraid of ghosts: Curiosity and fearlessness apparent in German shepherd genes",
-      "link": "https://phys.org/news/2026-11-ghosts-curiosity-fearlessness-apparent-german.html",
-      "summary": "German shepherd dogs bred for working are more curious and less neurotic than German shepherds bred for show. A new study from Uppsala University and the Swedish University of Agri",
-      "date": "2026-11-13T00:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/curiosity-and-fearless.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-13T00:03:27Z"
-    },
-    {
-      "title": "Product for controlling agricultural pests proves harmful to iconic banana slug",
-      "link": "https://phys.org/news/2026-11-product-agricultural-pests-iconic-banana.html",
-      "summary": "Researchers at Oregon State University say a product used to control pest slugs on farms in multiple countries is harmful to an iconic West Coast slug and that more research is nee",
-      "date": "2026-11-12T23:50:02Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pacific-banana-slug-ph.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-13T00:03:27Z"
-    },
-    {
-      "title": "Parrots' vibrant feathers are surprisingly susceptible to bacterial attack",
-      "link": "https://phys.org/news/2026-11-parrots-vibrant-feathers-susceptible-bacterial.html",
-      "summary": "Flashy birds, from peacocks to parrots, have inspired a long tradition of using animal colors to study evolution. Colorful plumage often functions as a signal—for example, to attra",
-      "date": "2026-11-12T23:40:05Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/parrots-vibrant-feathe.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-13T00:03:27Z"
-    },
-    {
-      "title": "Plant sensing mechanism guards against pests",
-      "link": "https://phys.org/news/2026-11-mechanism-pests.html",
-      "summary": "A new study has identified a previously unknown mechanism by which plants sense insect attack and activate defense responses.",
-      "date": "2026-11-12T23:20:08Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/plant-sensing-mechanis.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-13T00:03:27Z"
-    },
-    {
-      "title": "Europe's look-alike Alpine newts turn out to be five distinct species",
-      "link": "https://phys.org/news/2026-11-europe-alike-alpine-newts-distinct.html",
-      "summary": "What scientists until recently called the Alpine newt has turned out to be five different species, following genetic research by Leiden biologists. One of these species was even ne",
-      "date": "2026-11-12T22:40:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-salamander-species.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-13T00:03:27Z"
-    },
-    {
-      "title": "Engineering team creates 3D-printed raptor puppets to help wildlife rehabilitation",
-      "link": "https://phys.org/news/2026-11-team-3d-raptor-puppets-wildlife.html",
-      "summary": "Four new feeding puppets at Salthaven Wildlife Rehabilitation and Education Centre will help caregivers feed young raptors while reducing their contact with people when baby season",
-      "date": "2026-11-12T22:20:19Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/engineering-team-creat.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-13T00:03:27Z"
-    },
-    {
-      "title": "Uncovering the hidden origins of the placenta",
-      "link": "https://phys.org/news/2026-11-uncovering-hidden-placenta.html",
-      "summary": "When an embryo attaches to the wall of the uterus roughly six days after fertilization, it begins to build the body and placenta. Called implantation, this is the stage of life sci",
-      "date": "2026-11-12T22:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-pink-dot-among-blue.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-13T00:03:27Z"
-    },
-    {
-      "title": "New AI tool exposes plant pathogens and the genes behind them",
-      "link": "https://phys.org/news/2026-11-ai-tool-exposes-pathogens-genes.html",
-      "summary": "Can a bacterium's DNA reveal whether it will make a plant sick? Bioinformatician Guillermo Guerrero Egido believes so. In his PhD research, he developed a computational method that",
-      "date": "2026-11-12T22:00:11Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-ai-tool-exposes-pl.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-13T00:03:27Z"
     }
   ]
 }
