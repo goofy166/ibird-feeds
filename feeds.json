@@ -1,8 +1,41 @@
 {
-  "updated": "2026-11-21T01:18:39Z",
-  "updated_utc": "2026-11-21T01:18:39Z",
+  "updated": "2026-11-21T09:31:33Z",
+  "updated_utc": "2026-11-21T09:31:33Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Country diary: Watching a garden spider at work – do I detect a personality? | Oliver Southall",
+      "link": "https://www.theguardian.com/environment/2026/nov/21/country-diary-watching-a-garden-spider-at-work-do-i-detect-a-personality",
+      "summary": "Hurstpierpoint, West Sussex: The way that it sits patiently, and solves problems … it’s hard not to wonder if it has some kind of inner life Three months with a newborn has given m",
+      "date": "2026-11-21T05:30:49Z",
+      "image": "https://i.guim.co.uk/img/media/cde72a12c6ccdb36f0a66537196b98ca6315e404/530_0_3819_3055/master/3819.jpg?width=140&quality=85&auto=format&fit=max&s=eca3f40647d0544efc1ec003d87a02e5",
+      "name": "Guardian",
+      "category": "wildlife",
+      "color": 5,
+      "fetched_at": "2026-11-21T09:31:17Z"
+    },
+    {
+      "title": "Device that measures strawberry skin's strength will aid breeders",
+      "link": "https://phys.org/news/2026-11-device-strawberry-skin-strength-aid.html",
+      "summary": "Resilient strawberry varieties will be more easily identifiable thanks to a tool developed by University of Queensland engineering students. The prototype measures the strength of ",
+      "date": "2026-11-21T03:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/strawberry-skins-stren.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-21T09:31:30Z"
+    },
+    {
+      "title": "The call of the seamount: Two new armored tardigrades described in the Atlantic",
+      "link": "https://phys.org/news/2026-11-seamount-armored-tardigrades-atlantic.html",
+      "summary": "An international team led by researchers from Senckenberg am Meer in Wilhelmshaven has described two new species of marine tardigrades. The tiny marine organisms were discovered in",
+      "date": "2026-11-21T02:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-call-of-the-seamou.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-21T09:31:30Z"
+    },
     {
       "title": "Are Goldfinches Attracted to Yellow Bird Feeders?",
       "link": "https://www.birdsandblooms.com/birding/attracting-birds/feeding-birds/goldfinch-yellow-bird-feeders/",
@@ -5465,39 +5498,6 @@
       "summary": "A cooling tee, maximalist running shoes, a massage gun, and 10 other gifts that will make workouts all the more enjoyable for the fitness freak in your life. The post The Best Fitn",
       "date": "Thu, 12 Nov 2026 14Z",
       "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/11/Fitness_H2.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-11-12T18:04:44Z"
-    },
-    {
-      "title": "New Research Shows How Much Altitude Actually Slows You Down",
-      "link": "https://www.outsideonline.com/health/training-performance/how-altitude-affects-running-pace/",
-      "summary": "Scientists crunch a massive dataset to measure the endurance-sapping effects of mountain (and foothill) air. The post New Research Shows How Much Altitude Actually Slows You Down a",
-      "date": "Thu, 12 Nov 2026 13Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/11/running-at-altitude.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-11-12T18:04:44Z"
-    },
-    {
-      "title": "The Best College Ski Towns in the U.S.",
-      "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/best-college-towns-skiing-snowboarding/",
-      "summary": "From $16 night tickets to heavy snow, these university hubs offer world-class winter recreation right outside the classroom for students and locals alike. The post The Best College",
-      "date": "Thu, 12 Nov 2026 10Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/11/lone-pea.jpg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-11-12T18:04:44Z"
-    },
-    {
-      "title": "Minnesota’s Voyageurs National Park Named 2026 Dark Sky Place of the Year",
-      "link": "https://www.outsideonline.com/adventure-travel/news-analysis/voyageurs-national-park-dark-sky-place-of-the-year-2026/",
-      "summary": "DarkSky International granted this remote preserve its top global conservation honor for shielding rare night views and connecting classrooms nationwide to the stars. This recognit",
-      "date": "Thu, 12 Nov 2026 10Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/11/Daniel-Dendler_Voyageurs-Photo-Entry.jpg?width=1200",
       "name": "Outside Online",
       "category": "wildlife",
       "color": 9,
