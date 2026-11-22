@@ -1,8 +1,30 @@
 {
-  "updated": "2026-11-22T03:00:11Z",
-  "updated_utc": "2026-11-22T03:00:11Z",
+  "updated": "2026-11-22T11:07:58Z",
+  "updated_utc": "2026-11-22T11:07:58Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Scientists investigate 2 'peculiar' galaxies pulling each other apart",
+      "link": "https://www.livescience.com/space/2-peculiar-spiral-galaxies-are-twisting-each-other-into-cosmic-balloon-animals-space-photo-of-the-week",
+      "summary": "A stunning new image from the Gemini North telescope captures two spiral galaxies caught in each other's gravity, helping to trigger the birth of new stars.",
+      "date": "2026-11-22T11:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/8dBzUZoUjA58SBFRydrSnC-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-11-22T11:07:55Z"
+    },
+    {
+      "title": "Which came first: black holes or galaxies?",
+      "link": "https://www.livescience.com/space/black-holes/which-came-first-black-holes-or-galaxies",
+      "summary": "Astronomers once assumed galaxies were born before black holes, but giant black holes spotted in the early universe are forcing them to rethink their order of events.",
+      "date": "2026-11-22T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/vyi8AfFfXYuzLkhAG9hkJi-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-11-22T11:07:55Z"
+    },
     {
       "title": "Single feathers may reveal whether eastern black rails stay in Texas or migrate north",
       "link": "https://phys.org/news/2026-11-feathers-reveal-eastern-black-rails.html",
@@ -5480,28 +5502,6 @@
       "category": "insects",
       "color": 10,
       "fetched_at": "2026-11-13T00:03:22Z"
-    },
-    {
-      "title": "AI confirms a long-suspected limit on quantum computers’ advantages",
-      "link": "https://www.newscientist.com/article/2598418-ai-confirms-a-long-suspected-limit-on-quantum-computers-advantages/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "AI-powered proof has rigorously proved that using quantum computers would not have huge advantages for a whole class of mathematical problems, confirming a vastly influential conje",
-      "date": "Thu, 12 Nov 2026 20Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320282515.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-11-13T00:03:25Z"
-    },
-    {
-      "title": "A robot has assembled a structure in space for the first time",
-      "link": "https://www.newscientist.com/article/2598576-a-robot-has-assembled-a-structure-in-space-for-the-first-time/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Autonomous in-orbit manufacturing will be key to any future space economy, and researchers have taken the first step with a robot building a radio antenna without astronaut assista",
-      "date": "Thu, 12 Nov 2026 19Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320392890.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-11-13T00:03:25Z"
     }
   ]
 }
