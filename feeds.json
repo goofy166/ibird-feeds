@@ -1,8 +1,19 @@
 {
-  "updated": "2026-11-21T22:59:21Z",
-  "updated_utc": "2026-11-21T22:59:21Z",
+  "updated": "2026-11-22T03:00:11Z",
+  "updated_utc": "2026-11-22T03:00:11Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Single feathers may reveal whether eastern black rails stay in Texas or migrate north",
+      "link": "https://phys.org/news/2026-11-feathers-reveal-eastern-black-rails.html",
+      "summary": "High-stepping like you're in a marching band while dragging a rope through a wetland at night can make you wonder about your life choices. Several plastic bottles, each filled with",
+      "date": "2026-11-22T01:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/photo-of-the-team-stan.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-22T03:00:07Z"
+    },
     {
       "title": "Arborvitae Care and Growing Tips",
       "link": "https://www.birdsandblooms.com/gardening/growing-trees-shrubs-grasses/arborvitae-care/",
@@ -5487,17 +5498,6 @@
       "summary": "Autonomous in-orbit manufacturing will be key to any future space economy, and researchers have taken the first step with a robot building a radio antenna without astronaut assista",
       "date": "Thu, 12 Nov 2026 19Z",
       "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320392890.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-11-13T00:03:25Z"
-    },
-    {
-      "title": "Economics, not climate summits, will dictate the net-zero transition",
-      "link": "https://www.newscientist.com/article/2598706-economics-not-climate-summits-will-dictate-the-net-zero-transition/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "World leaders at COP31 show little enthusiasm for phasing out fossil fuels, but the plummeting costs of renewable energy will be the key factor in how quickly we can rein in global",
-      "date": "Thu, 12 Nov 2026 18Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320413701.jpg",
       "name": "New Scientist",
       "category": "insects",
       "color": 12,
