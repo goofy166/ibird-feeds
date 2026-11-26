@@ -1,8 +1,85 @@
 {
-  "updated": "2026-11-26T14:55:29Z",
-  "updated_utc": "2026-11-26T14:55:29Z",
+  "updated": "2026-11-26T23:40:15Z",
+  "updated_utc": "2026-11-26T23:40:15Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Top 10 Live Houseplant Gifts That Grow",
+      "link": "https://www.birdsandblooms.com/gardening/top-10-lists-for-gardeners/houseplant-gifts/",
+      "summary": "A houseplant is a great present, but choosing one is tricky. This guide will help you find houseplant gifts for everyone on your list. The post Top 10 Live Houseplant Gifts That Gr",
+      "date": "Tue, 17 Nov 2026 17Z",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2026/11/GettyImages-1166802438-e1794938141435.jpg?fit=700,700",
+      "name": "Birds & Blooms",
+      "category": "birds",
+      "color": 2,
+      "fetched_at": "2026-11-26T23:39:57Z"
+    },
+    {
+      "title": "Biologists conduct postmortem on fin whale beached in Santa Cruz",
+      "link": "https://www.mercurynews.com/2026/11/26/biologists-conduct-postmortem-on-fin-whale-beached-in-santa-cruz/",
+      "summary": "Marine mammal experts successfully conducted a necropsy of a fin whale that died on Cowell Beach earlier this month, and now await further test results.",
+      "date": "Thu, 26 Nov 2026 18Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/11/STC-L-CHBEACHED-09_ebc856.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-11-26T23:40:04Z"
+    },
+    {
+      "title": "Scientists discovered an unknown baby right whale off Canada. They say it’s a cause for joy",
+      "link": "https://www.mercurynews.com/2026/11/06/baby-right-whale-discovered/",
+      "summary": "The North Atlantic right whale is one of the rarest sea mammals in the world.",
+      "date": "2026-11-06T16:47:01Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/11/Baby_Right_Whale_21_24.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-11-26T23:40:04Z"
+    },
+    {
+      "title": "Wave-like displays in animal groups may have evolved to deceive predators",
+      "link": "https://phys.org/news/2026-11-displays-animal-groups-evolved-predators.html",
+      "summary": "Some of the most striking patterns in collective behavior emerge in the face of danger. When a predator approaches, some animal groups morph into a vision of pulsing waves. These p",
+      "date": "2026-11-26T19:00:15Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/was-collective-motion.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-26T23:40:12Z"
+    },
+    {
+      "title": "Protein redesign boosts DNA insertion activity and reveals how molecular machinery selects targets",
+      "link": "https://phys.org/news/2026-11-protein-redesign-boosts-dna-insertion.html",
+      "summary": "Genome engineering is exciting, given its vast potential to treat and even cure diseases, but it is still a largely uncharted biomedical innovation. Scientists at St. Jude Children",
+      "date": "2026-11-26T15:40:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/structural-redesign-of.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-26T23:40:12Z"
+    },
+    {
+      "title": "Oldest male orca on record may have been identified thanks to historical atomic bomb testing",
+      "link": "https://www.livescience.com/animals/orcas/oldest-male-orca-on-record-may-have-been-identified-thanks-to-historical-atomic-bomb-testing",
+      "summary": "Researchers might have identified the oldest male orca ever recorded after testing for radioactive traces of atomic bombs in the teeth of whales stranded in Scotland.",
+      "date": "Thu, 26 Nov 2026 18Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/szHt9dU6zaSF5Di5ugivg6-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-11-26T23:40:13Z"
+    },
+    {
+      "title": "'Alpha-gal follows none of the rules': Why a red-meat allergy triggered by tick bites is perplexing scientists",
+      "link": "https://www.livescience.com/health/alpha-gal-follows-none-of-the-rules-why-a-red-meat-allergy-triggered-by-tick-bites-is-perplexing-scientists",
+      "summary": "When alpha-gal syndrome first emerged, it was a baffling medical mystery. Today, diagnoses are rising, yet much about this potentially life-threatening condition remains unexplaine",
+      "date": "Thu, 26 Nov 2026 16Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/NuciafmS9BjJKS6mbgsB3K-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-11-26T23:40:13Z"
+    },
     {
       "title": "Demotivational Posters for Birds (LVIII)",
       "link": "https://www.10000birds.com/demotivational-posters-for-birds-lviii.htm?utm_source=rss&utm_medium=rss&utm_campaign=demotivational-posters-for-birds-lviii",
@@ -5425,83 +5502,6 @@
       "category": "insects",
       "color": 14,
       "fetched_at": "2026-11-18T13:45:34Z"
-    },
-    {
-      "title": "Giant November Waves Threaten Surfers, Swimmers, and Spectators Along California’s Coast",
-      "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/california-high-surf-rescues-november-2026/",
-      "summary": "Giant November waves batter California’s coast, overturning a rescue jet ski near Santa Cruz and prompting 175 water rescues in San Diego over eight days. The post Giant November W",
-      "date": "2026-11-18T00:20:15Z",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/11/sf-chron-waves-big_h.jpeg?width=1200",
-      "name": "Outside Online",
-      "category": "wildlife",
-      "color": 9,
-      "fetched_at": "2026-11-18T04:05:49Z"
-    },
-    {
-      "title": "New model reveals how water moves through tile-drained farm fields",
-      "link": "https://phys.org/news/2026-11-reveals-tile-farm-fields.html",
-      "summary": "Tile drainage fundamentally alters how water moves through agricultural fields, affecting surface ponding, water-table dynamics, crop growth, nutrient transport and water quality. ",
-      "date": "2026-11-18T03:20:07Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-model-reveals-how.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-18T04:05:55Z"
-    },
-    {
-      "title": "Invasive plants show limited spread in Andalusia's mountains",
-      "link": "https://phys.org/news/2026-11-invasive-limited-andalusia-mountains.html",
-      "summary": "A study by the University of Córdoba (UCO) departments of Forest Engineering and of Botany, Ecology and Plant Physiology reveals that the presence of invasive plants in Sierra Neva",
-      "date": "2026-11-18T02:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/invasive-plants-show-l.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-18T04:05:55Z"
-    },
-    {
-      "title": "How do human lifestyles affect the gut microbiome of our canine companions?",
-      "link": "https://phys.org/news/2026-11-human-lifestyles-affect-gut-microbiome.html",
-      "summary": "Dogs have been living side by side with humans for millennia, but a new study underscores how much we have yet to learn about man's best friend. The study, which looked at hundreds",
-      "date": "2026-11-18T00:20:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/dog.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-18T04:05:55Z"
-    },
-    {
-      "title": "At base of ocean food chain, scientists uncover impacts of a changing atmosphere",
-      "link": "https://phys.org/news/2026-11-base-ocean-food-chain-scientists.html",
-      "summary": "Much of the concern about elevated levels of carbon dioxide in the atmosphere focuses on its effects on global warming as a greenhouse gas. But up to 30% of emitted carbon dioxide ",
-      "date": "2026-11-17T23:40:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wootton-and-pfister-le.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-18T04:05:55Z"
-    },
-    {
-      "title": "Turning food waste into insect feed poses only low mad cow disease risk",
-      "link": "https://phys.org/news/2026-11-food-insect-poses-mad-cow.html",
-      "summary": "Insects can convert food waste and by-products from the food industry (such as unsold ready meals or slaughter by-products) into ingredients for animal feed. In this way, they can ",
-      "date": "2026-11-17T23:00:09Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rearing-insects-on-foo.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-18T04:05:55Z"
-    },
-    {
-      "title": "The Gulf's oil-eating microbes lay in wait before Deepwater Horizon spill, frozen samples suggest",
-      "link": "https://phys.org/news/2026-11-gulf-oil-microbes-lay-deepwater.html",
-      "summary": "A year before the Deepwater Horizon spill, a NOAA crew scooped up seawater from the Gulf and froze it. Sixteen years later, FIU biologist Shen Jean Lim tested it only to discover t",
-      "date": "2026-11-17T23:00:06Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-gulfs-oil-eating-m.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-18T04:05:55Z"
     }
   ]
 }
