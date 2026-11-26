@@ -1,8 +1,41 @@
 {
-  "updated": "2026-11-25T22:19:44Z",
-  "updated_utc": "2026-11-25T22:19:44Z",
+  "updated": "2026-11-26T04:51:40Z",
+  "updated_utc": "2026-11-26T04:51:40Z",
   "count": 500,
   "stories": [
+    {
+      "title": "Colorful sea slug visitor found in California tidepool",
+      "link": "https://www.mercurynews.com/2026/11/06/colorful-sea-slug-visitor-found-in-newport-beach-tidepool/",
+      "summary": "Two fish species rare to Southern California were photographed and identified in tide pool in Corona Del Mar.",
+      "date": "2026-11-06T14:05:16Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/11/OCR-L-ELNINOFINDS-1105-04-1.jpg?w=1400px&strip=all",
+      "name": "Mercury News",
+      "category": "wildlife",
+      "color": 8,
+      "fetched_at": "2026-11-26T04:51:29Z"
+    },
+    {
+      "title": "New eyes in the sky make timber harvesting and forest conservation easier and more efficient",
+      "link": "https://phys.org/news/2026-11-eyes-sky-timber-harvesting-forest.html",
+      "summary": "Flying thousands of feet above northern and eastern Maine, Dave Sandilands searched for illegally dumped trash. On behalf of the New England Forestry Foundation, the University of ",
+      "date": "2026-11-26T03:40:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/umaine-teams-new-eyes.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-26T04:51:37Z"
+    },
+    {
+      "title": "Dinosaurs likely tore meat like birds of prey",
+      "link": "https://phys.org/news/2026-11-dinosaurs-tore-meat-birds-prey.html",
+      "summary": "Meat-eating dinosaurs probably fed by dragging their teeth backward through flesh like a saw rather than biting straight down like a dagger, new experiments suggest.",
+      "date": "2026-11-26T00:10:04Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dinosaur-teeth.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-26T04:51:37Z"
+    },
     {
       "title": "Swiss tourist killed and British and Americans injured by elephants in Cameroon",
       "link": "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
@@ -5465,39 +5498,6 @@
       "summary": "The new theory about the \"Arnolfini Portrait\" comes as London's National Gallery brings together all 10 of the artist's known portraits for the first time ever",
       "date": "Tue, 17 Nov 2026 18Z",
       "image": "https://th-thumbnailer.cdn-si-edu.com/rrutjbpxAWIjn6zz6RBJXJUqN2w=/420x240/filters:focal(815x525:816x526)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1f/8b/1f8beb77-c91f-47fe-aefa-25fc8e61ad08/n-0186-a5c.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-11-17T22:08:04Z"
-    },
-    {
-      "title": "SpaceX Catches the Upper Stage of Its Starship for the First Time, Making the Company One Step Closer to a Reusable Rocket",
-      "link": "https://www.smithsonianmag.com/smart-news/spacex-catches-the-upper-stage-of-its-starship-for-the-first-time-making-the-company-one-step-closer-to-a-reusable-rocket-180989877/",
-      "summary": "After circling the Earth 14 times, the upper portion of Starship descended to the planet's surface and was caught by a giant pair of robotic, chopstick-like arms. However, the comp",
-      "date": "Tue, 17 Nov 2026 16Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/QAGAf03DPOCI5XqORXAOgQc7B2U=/420x240/filters:focal(3000x2000:3001x2001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ed/9b/ed9bd37c-eae3-431d-949e-ad28592b5519/starship.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-11-17T22:08:04Z"
-    },
-    {
-      "title": "The U.S. Has Lost Its Measles Elimination Status, Which It's Held for 26 Years. Cases Have Now Surged to the Highest Levels in Decades",
-      "link": "https://www.smithsonianmag.com/smart-news/the-us-has-lost-its-measles-elimination-status-which-its-held-for-26-years-cases-have-now-surged-to-the-highest-levels-in-decades-180989878/",
-      "summary": "So far this year, the Centers for Disease Control and Prevention has confirmed more than 5,400 measles cases—the highest annual total since 1991—and 43 outbreaks. Dropping vaccinat",
-      "date": "Tue, 17 Nov 2026 15Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/uh_DE2Xdq7onbP0isRX8PPqaU_0=/420x240/filters:focal(2048x1170:2049x1171)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2d/7d/2d7d2c90-3c9b-4652-848a-761827b51cb7/measles.jpg",
-      "name": "Smithsonian",
-      "category": "insects",
-      "color": 10,
-      "fetched_at": "2026-11-17T22:08:04Z"
-    },
-    {
-      "title": "Ancient Humans May Have Hunted Hippos With Poisoned Spear Tips on the Arabian Peninsula 125,000 Years Ago",
-      "link": "https://www.smithsonianmag.com/smart-news/ancient-humans-may-have-hunted-hippos-with-poisoned-spear-tips-on-the-arabian-peninsula-125000-years-ago-180989880/",
-      "summary": "A new study suggests people hunted and processed game near a large, lush, freshwater lake in what is now southern Saudi Arabia, challenging the assumption that humans just passed t",
-      "date": "Tue, 17 Nov 2026 13Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/P57dN-r0EPSXpMNyn6j6UdlZ3XE=/420x240/filters:focal(756x634:757x635)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/00/aa/00aa25c6-9427-4b2a-91ea-a5c5ea84584d/image_5_1.png",
       "name": "Smithsonian",
       "category": "insects",
       "color": 10,
