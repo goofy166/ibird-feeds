@@ -1,8 +1,96 @@
 {
-  "updated": "2026-11-27T18:03:27Z",
-  "updated_utc": "2026-11-27T18:03:27Z",
+  "updated": "2026-11-28T01:51:02Z",
+  "updated_utc": "2026-11-28T01:51:02Z",
   "count": 500,
   "stories": [
+    {
+      "title": "New technologies help Natural History Museum uncover 92 species in its transformed gardens",
+      "link": "https://phys.org/news/2026-11-technologies-natural-history-museum-uncover.html",
+      "summary": "The Natural History Museum's transformed gardens in South Kensington are revealing new insights into London's urban wildlife. Among the 92 species recorded at the site for the firs",
+      "date": "2026-11-28T00:20:07Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-technologies-help.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-28T01:50:58Z"
+    },
+    {
+      "title": "RNA discovery reveals how gut bacterium adapts to life in intestinal mucus",
+      "link": "https://phys.org/news/2026-11-rna-discovery-reveals-gut-bacterium.html",
+      "summary": "The mucus layer in the human gut is a tough place for bacteria: nutrients are scarce, and conditions are harsh. How do bacteria adapt to such extreme environments? Researchers at t",
+      "date": "2026-11-28T00:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/survival-experts-in-th.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-28T01:50:58Z"
+    },
+    {
+      "title": "Lab experiments suggest bat RSV can enter human cells, but existing antibodies block it",
+      "link": "https://phys.org/news/2026-11-lab-rsv-human-cells-antibodies.html",
+      "summary": "Respiratory syncytial virus (RSV) causes severe respiratory disease and is responsible for numerous deaths each year. A research team led by DZIF scientist Dr. Wendy K. Jo and DZIF",
+      "date": "2026-11-27T23:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-study-bat.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-28T01:50:58Z"
+    },
+    {
+      "title": "Using a drone and a poop-sniffing dog, scientists perform health checks on endangered orcas",
+      "link": "https://phys.org/news/2026-11-drone-poop-sniffing-dog-scientists.html",
+      "summary": "Every fall for the last few years, Deborah Giles starts her workday with one question in mind: Where are the orcas?",
+      "date": "2026-11-27T22:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/orcas-wellness-check-2.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-28T01:50:58Z"
+    },
+    {
+      "title": "Newly discovered barrier could explain why nucleic acid medicines remain trapped inside cells",
+      "link": "https://phys.org/news/2026-11-newly-barrier-nucleic-acid-medicines.html",
+      "summary": "Researchers from the Department of Chemistry at The University of Hong Kong (HKU) and their collaborators have discovered a barrier that may prevent some promising nucleic acid med",
+      "date": "2026-11-27T22:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hku-chemists-find-barr.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-28T01:50:58Z"
+    },
+    {
+      "title": "Denisovan remains and an unknown archaic human lineage discovered in southern China",
+      "link": "https://phys.org/news/2026-11-denisovan-unknown-archaic-human-lineage.html",
+      "summary": "An international team of researchers, including first author Song Xing, a researcher affiliated with the Centro Nacional de Investigación sobre la Evolución Humana (CENIEH), has ju",
+      "date": "2026-11-27T21:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/denisovan-remains-and.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-28T01:50:58Z"
+    },
+    {
+      "title": "Study shows path to more resilient future for Canada's forests",
+      "link": "https://phys.org/news/2026-11-path-resilient-future-canada-forests.html",
+      "summary": "Mountain pine beetles have killed millions of lodgepole pines across western North America since the 1990s, but some trees have proved more resilient than others. New research sugg",
+      "date": "2026-11-27T19:20:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-shows-path-to-mo-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-28T01:50:58Z"
+    },
+    {
+      "title": "How mammals zigzagged their way to modern posture",
+      "link": "https://phys.org/news/2026-11-mammals-zigzagged-modern-posture.html",
+      "summary": "This is the story of how mammals came to dominate the Earth—and the crooked evolutionary path they trod en route. Early mammals and their ancestors left behind fossilized bones, fo",
+      "date": "2026-11-27T19:00:01Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-mammals-zigzagged-1.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-28T01:50:58Z"
+    },
     {
       "title": "Feeding the birds (safely)",
       "link": "https://www.10000birds.com/feeding-the-birds-safely.htm?utm_source=rss&utm_medium=rss&utm_campaign=feeding-the-birds-safely",
@@ -5414,94 +5502,6 @@
       "category": "insects",
       "color": 12,
       "fetched_at": "2026-11-18T21:46:09Z"
-    },
-    {
-      "title": "This week’s new questions",
-      "link": "https://www.newscientist.com/article/2598834-this-weeks-new-questions-372/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Last Word is New Scientist's long-running series in which readers give scientific answers to each other's questions",
-      "date": "2026-11-18T18:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320870863.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-11-18T21:46:09Z"
-    },
-    {
-      "title": "Are these the most spectacular and intriguing beetles in the world?",
-      "link": "https://www.newscientist.com/article/2598425-are-these-the-most-spectacular-and-intriguing-beetles-in-the-world/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "These stunning images, taken from Natural History Museum curator Maxwell Barclay’s new book Interesting Beetles, reveal the amazing variety of this insect group",
-      "date": "2026-11-18T18:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321137021.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-11-18T21:46:09Z"
-    },
-    {
-      "title": "Homo erectus survived on mainland Asia 215,000 years longer than we thought",
-      "link": "https://www.newscientist.com/article/2599635-homo-erectus-survived-on-mainland-asia-215000-years-longer-than-we-thought/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Fossil evidence had suggested Homo erectus, the first hominin species to leave Africa, had vanished from mainland Asia by about 400,000 years ago, but now we know it was still pres",
-      "date": "2026-11-18T16:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321108655.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-11-18T21:46:09Z"
-    },
-    {
-      "title": "Quantum trick lets you share your location super securely",
-      "link": "https://www.newscientist.com/article/2599509-quantum-trick-lets-you-share-your-location-super-securely/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "A new experiment demonstrates how quantum devices could verify a person’s position extremely securely, making it much harder to hack sensitive messages.",
-      "date": "2026-11-18T16:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321132085.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-11-18T21:46:09Z"
-    },
-    {
-      "title": "Young emperor penguins encounter industrial krill fishing during first year at sea",
-      "link": "https://phys.org/news/2026-11-young-emperor-penguins-encounter-industrial.html",
-      "summary": "New research has revealed young emperor penguins encounter industrial krill fishing in their epic first year at sea, strengthening the case for proposed new marine protected areas.",
-      "date": "2026-11-18T21:20:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/young-emperor-penguins.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-18T21:46:11Z"
-    },
-    {
-      "title": "Wild barley's genetic diversity opens up new avenues for research and breeding",
-      "link": "https://phys.org/news/2026-11-wild-barley-genetic-diversity-avenues.html",
-      "summary": "For the first time, an international research team coordinated by the IPK Leibniz Institute has characterized genomic diversity across the agriculturally important genus Hordeum. T",
-      "date": "2026-11-18T21:00:01Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-genetic-diversity.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-18T21:46:11Z"
-    },
-    {
-      "title": "Insects on these sub‑Antarctic islands are bouncing back after invasive rats and mice were eradicated",
-      "link": "https://phys.org/news/2026-11-insects-subantarctic-islands-invasive-rats.html",
-      "summary": "Island species typically evolve in isolation—and often without many predators. As a result, islands are home to high numbers of unique species.",
-      "date": "2026-11-18T20:40:14Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/insects-on-these-suban.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-18T21:46:11Z"
-    },
-    {
-      "title": "In Antarctica's ice‑free areas, even footprints can damage rare microscopic ecosystems",
-      "link": "https://phys.org/news/2026-11-antarctica-icefree-areas-footprints-rare.html",
-      "summary": "The usual advice for people visiting wilderness areas is to leave nothing but footprints. But as our new study shows, even footprints may disturb rare ecosystems in Antarctica and ",
-      "date": "2026-11-18T20:30:03Z",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/in-antarcticas-icefree.jpg",
-      "name": "Phys.org",
-      "category": "insects",
-      "color": 13,
-      "fetched_at": "2026-11-18T21:46:11Z"
     }
   ]
 }
