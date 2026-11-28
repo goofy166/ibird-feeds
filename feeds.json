@@ -1,8 +1,63 @@
 {
-  "updated": "2026-11-28T01:51:02Z",
-  "updated_utc": "2026-11-28T01:51:02Z",
+  "updated": "2026-11-28T10:06:12Z",
+  "updated_utc": "2026-11-28T10:06:12Z",
   "count": 500,
   "stories": [
+    {
+      "title": "The Real Northern Lights Train in Norway Is Better Than the Fake AI-Generated One",
+      "link": "https://www.outsideonline.com/adventure-travel/destinations/norway-northern-lights-trains/",
+      "summary": "AI-generated videos gave travelers the wrong impression of Norway's northern lights train. The real three-hour journey swaps futuristic glass ceilings for a remote Arctic night hik",
+      "date": "2026-11-28T10:05:07Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/11/CROP-Northern-Lights-Train-at-Katterat-Station-photo-Michael-Ulriksen.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-11-28T10:06:02Z"
+    },
+    {
+      "title": "The Underrated Plank Variation That Strengthens Your Body for the Trail and Slopes",
+      "link": "https://www.outsideonline.com/health/training-performance/reverse-plank-hinge/",
+      "summary": "A personal trainer explains how to do the reverse plank hinge and how it can boost core, glute, and tricep strength in outdoor athletes. The post The Underrated Plank Variation Tha",
+      "date": "2026-11-28T10:00:03Z",
+      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/11/reverse-plank-hinge-edited-2.jpg?width=1200",
+      "name": "Outside Online",
+      "category": "wildlife",
+      "color": 9,
+      "fetched_at": "2026-11-28T10:06:02Z"
+    },
+    {
+      "title": "CRISPR is now being used to control genes, not just edit them",
+      "link": "https://www.newscientist.com/article/2601111-crispr-is-now-being-used-to-control-genes-instead-of-editing-them/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "summary": "CRISPR-based treatments that work by turning genes on or off are being tested in trials, and could be even more powerful than conventional gene editing",
+      "date": "2026-11-28T09:00:00Z",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_322188779.jpg",
+      "name": "New Scientist",
+      "category": "insects",
+      "color": 12,
+      "fetched_at": "2026-11-28T10:06:06Z"
+    },
+    {
+      "title": "Researchers explore the use of AI and smart sensors to improve food safety quickly, affordably",
+      "link": "https://phys.org/news/2026-11-explore-ai-smart-sensors-food.html",
+      "summary": "The smartJAN project, developed by the eVIDA research group at the University of Deusto in collaboration with Kernet and Fundación Miranda, has completed the development of a funct",
+      "date": "2026-11-28T04:20:02Z",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/peaches.jpg",
+      "name": "Phys.org",
+      "category": "insects",
+      "color": 13,
+      "fetched_at": "2026-11-28T10:06:09Z"
+    },
+    {
+      "title": "Is it dangerous to mix cleaning products?",
+      "link": "https://www.livescience.com/chemistry/is-it-dangerous-to-mix-cleaning-products",
+      "summary": "Mixing chemicals can be harmful to health, with the dangers worsening exposure depending on the chemicals and concentrations involved.",
+      "date": "2026-11-28T10:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/FTfcJCTxUxzFeQXd8qug5b-1920-80.jpg",
+      "name": "Live Science",
+      "category": "insects",
+      "color": 14,
+      "fetched_at": "2026-11-28T10:06:10Z"
+    },
     {
       "title": "New technologies help Natural History Museum uncover 92 species in its transformed gardens",
       "link": "https://phys.org/news/2026-11-technologies-natural-history-museum-uncover.html",
@@ -5443,61 +5498,6 @@
       "summary": "In a single week, banks, an air traffic control system, millions of email accounts and spy agency systems have suffered outages. But speculation about an AI hacking spree or a coor",
       "date": "2026-11-18T18:00:00Z",
       "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321137972.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-11-18T21:46:09Z"
-    },
-    {
-      "title": "New Scientist is 70 years old – join us in celebrating",
-      "link": "https://www.newscientist.com/article/2599308-new-scientist-is-70-years-old-join-us-in-celebrating/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "From a look back at the past 70 years of scientific discovery to a flash forward to the end of the century, we have a host of celebrations for our 70th anniversary",
-      "date": "2026-11-18T18:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320405062.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-11-18T21:46:09Z"
-    },
-    {
-      "title": "Our favourite reader questions of the past three decades",
-      "link": "https://www.newscientist.com/article/2599267-our-favourite-reader-questions-of-the-past-three-decades/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Since the Last Word launched in 1994, readers have been asking and answering what can only be described as an eclectic mix of questions.",
-      "date": "2026-11-18T18:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/image.png",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-11-18T21:46:09Z"
-    },
-    {
-      "title": "Twisteddoodles on the importance of labelling the chemicals",
-      "link": "https://www.newscientist.com/article/2599173-twisteddoodles-6/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "This week's cartoon from Twisteddoodles",
-      "date": "2026-11-18T18:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320532365.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-11-18T21:46:09Z"
-    },
-    {
-      "title": "Tom Gauld on New Scientist at 70",
-      "link": "https://www.newscientist.com/article/2599165-tom-gauld-4/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Tom Gauld's weekly cartoon",
-      "date": "2026-11-18T18:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320982643.jpg",
-      "name": "New Scientist",
-      "category": "insects",
-      "color": 12,
-      "fetched_at": "2026-11-18T21:46:09Z"
-    },
-    {
-      "title": "32 years of nominative determinism: New Scientist’s gift to the world",
-      "link": "https://www.newscientist.com/article/2599067-32-years-of-nominative-determinism-new-scientists-gift-to-the-world/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "summary": "Our humorous column Feedback has been around in various incarnations for the past 70 years. While it has many claims to fame, perhaps its greatest is the ability to coin words and ",
-      "date": "2026-11-18T18:00:00Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320976567.jpg",
       "name": "New Scientist",
       "category": "insects",
       "color": 12,
